@@ -1203,6 +1203,13 @@ export function MapReferenceSection() {
 
   const [baseLayerId, setBaseLayerId] = useState<BaseLayerId>("osm");
 
+  /* Mobile-only anchors. Used by the Form↔Map pill toggle AND by the
+   * auto-scroll-to-map effect that fires after a village is selected.
+   * Desktop ignores these refs — scroll only triggers below Tailwind's
+   * lg breakpoint (1024 px). */
+  const mobileMapAnchorRef = useRef<HTMLDivElement | null>(null);
+  const mobileFormAnchorRef = useRef<HTMLDivElement | null>(null);
+
   /* ── Load districts ────────────────────────────────────────────────────── */
   useEffect(() => {
     fetch("/data/dropdowns/districts.json")
@@ -1324,6 +1331,19 @@ export function MapReferenceSection() {
     setDrawMode("idle");
   }, [form.village_id]);
 
+  /* Mobile auto-scroll: as soon as the village boundary is ready, slide the
+   * map container into view on phones/tablets. Desktop users already see
+   * both columns side-by-side, so we skip scrolling there. The viewport
+   * check uses Tailwind's lg breakpoint (1024 px) — same one that drives
+   * the column layout above. */
+  useEffect(() => {
+    if (!boundaryFeature) return;
+    if (typeof window === "undefined") return;
+    const isMobile = window.matchMedia("(max-width: 1023.99px)").matches;
+    if (!isMobile) return;
+    mobileMapAnchorRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }, [boundaryFeature]);
+
   /* ── Dropdown handlers — store the *display* name into form.{district…} ── */
   const handleSelectDistrict = useCallback(
     (id: string) => {
@@ -1438,8 +1458,31 @@ export function MapReferenceSection() {
           <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600">{tx.subtext}</p>
         </div>
 
+        {/* Mobile-only Form ↔ Map quick toggle. Hidden on lg+. */}
+        <div className="mb-5 flex gap-2 rounded-lg border border-slate-200 bg-white p-1 shadow-sm lg:hidden">
+          <button
+            type="button"
+            onClick={() => mobileFormAnchorRef.current?.scrollIntoView({ behavior: "smooth", block: "start" })}
+            className="flex-1 rounded-md bg-blue-600 px-3 py-2 text-sm font-black text-white transition active:scale-[0.98]"
+          >
+            {lang === "mr" ? "फॉर्म" : "Form"}
+          </button>
+          <button
+            type="button"
+            onClick={() => mobileMapAnchorRef.current?.scrollIntoView({ behavior: "smooth", block: "start" })}
+            className="flex-1 rounded-md bg-slate-100 px-3 py-2 text-sm font-black text-slate-800 transition hover:bg-slate-200 active:scale-[0.98]"
+          >
+            {lang === "mr" ? "नकाशा पहा" : "Show map"}
+          </button>
+        </div>
+
         <div className="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-start">
-          <div className="space-y-4">
+          {/*
+           * Mobile: form column (order-1) renders FIRST, so the user lands
+           * on the dropdowns. Map column (order-2) sits below. Desktop keeps
+           * the original side-by-side layout via lg:order-* overrides.
+           */}
+          <div ref={mobileMapAnchorRef} className="order-2 space-y-4 lg:order-1">
             <MapPanel
               lang={lang}
               boundaryFeature={boundaryFeature}
@@ -1502,7 +1545,7 @@ export function MapReferenceSection() {
             )}
           </div>
 
-          <div className="space-y-4">
+          <div ref={mobileFormAnchorRef} className="order-1 space-y-4 lg:order-2">
             <div className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
               <h3 className="mb-5 text-lg font-black text-slate-950">{tx.formHeading}</h3>
               <div className="space-y-4">
@@ -1511,7 +1554,7 @@ export function MapReferenceSection() {
                   <select
                     value={form.district_id}
                     onChange={(e) => handleSelectDistrict(e.target.value)}
-                    className="h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
                   >
                     <option value="">— {tx.chooseDistrict} —</option>
                     {districts.map((d) => (
@@ -1528,7 +1571,7 @@ export function MapReferenceSection() {
                     value={form.taluka_id}
                     onChange={(e) => handleSelectTaluka(e.target.value)}
                     disabled={!form.district_id}
-                    className="h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
+                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
                   >
                     <option value="">— {tx.chooseTaluka} —</option>
                     {talukas.map((t) => (
@@ -1545,7 +1588,7 @@ export function MapReferenceSection() {
                     value={form.village_id}
                     onChange={(e) => handleSelectVillage(e.target.value)}
                     disabled={!form.taluka_id}
-                    className="h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
+                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
                   >
                     <option value="">— {tx.chooseVillage} —</option>
                     {villages.map((v) => (
@@ -1568,19 +1611,19 @@ export function MapReferenceSection() {
                     <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.gutNo}</label>
                     <input type="text" value={form.gutNumber} onChange={(e) => updateForm("gutNumber", e.target.value)}
                       placeholder="—"
-                      className="h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
+                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
                   </div>
                   <div>
                     <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.surveyNo}</label>
                     <input type="text" value={form.surveyNumber} onChange={(e) => updateForm("surveyNumber", e.target.value)}
                       placeholder="—"
-                      className="h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
+                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
                   </div>
                   <div>
                     <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.ctsNo}</label>
                     <input type="text" value={form.ctsNumber} onChange={(e) => updateForm("ctsNumber", e.target.value)}
                       placeholder="—"
-                      className="h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
+                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
                   </div>
                 </div>
 
@@ -1592,7 +1635,7 @@ export function MapReferenceSection() {
                 <div>
                   <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.serviceType}</label>
                   <select value={form.serviceType} onChange={(e) => updateForm("serviceType", e.target.value)}
-                    className="h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500">
+                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500">
                     <option value="">{lang === "mr" ? "— सेवा निवडा —" : "— Select service —"}</option>
                     {tx.serviceTypes.map((s) => (
                       <option key={s} value={s}>{s}</option>
