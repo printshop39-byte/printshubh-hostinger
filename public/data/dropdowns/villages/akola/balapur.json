@@ -1,0 +1,893 @@
+[
+  {
+    "village_id": "v-529880",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Mokha",
+    "name_mr": "",
+    "code": "529880",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529879",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Janorimail",
+    "name_mr": "",
+    "code": "529879",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529882",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Nagad",
+    "name_mr": "",
+    "code": "529882",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529878",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Swarupkhed",
+    "name_mr": "",
+    "code": "529878",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529881",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dagadkhed",
+    "name_mr": "",
+    "code": "529881",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529876",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kajikhed",
+    "name_mr": "",
+    "code": "529876",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529883",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Sagad",
+    "name_mr": "",
+    "code": "529883",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529877",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hinganashikari",
+    "name_mr": "",
+    "code": "529877",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529889",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hata",
+    "name_mr": "",
+    "code": "529889",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529884",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hingana Adsul",
+    "name_mr": "",
+    "code": "529884",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529885",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Wazegaon",
+    "name_mr": "",
+    "code": "529885",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529890",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Andura",
+    "name_mr": "",
+    "code": "529890",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529888",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Nimba",
+    "name_mr": "",
+    "code": "529888",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529886",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hingana Nimba",
+    "name_mr": "",
+    "code": "529886",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529891",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Sonala",
+    "name_mr": "",
+    "code": "529891",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529892",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Borgaon Vairale",
+    "name_mr": "",
+    "code": "529892",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529887",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Malkhed",
+    "name_mr": "",
+    "code": "529887",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529895",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Bhortek",
+    "name_mr": "",
+    "code": "529895",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529893",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Naya Andura",
+    "name_mr": "",
+    "code": "529893",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529894",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Karanja Ramjanpur",
+    "name_mr": "",
+    "code": "529894",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529896",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Nimbi",
+    "name_mr": "",
+    "code": "529896",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529897",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Bahadura",
+    "name_mr": "",
+    "code": "529897",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529906",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hatrun",
+    "name_mr": "",
+    "code": "529906",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529898",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kawatha",
+    "name_mr": "",
+    "code": "529898",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529902",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Shingoli",
+    "name_mr": "",
+    "code": "529902",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529907",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Malwada",
+    "name_mr": "",
+    "code": "529907",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529901",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Antri Malkapur",
+    "name_mr": "",
+    "code": "529901",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529899",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "529899",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529905",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Morzadi",
+    "name_mr": "",
+    "code": "529905",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529903",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Ural Kh.",
+    "name_mr": "",
+    "code": "529903",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529904",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Ural Bk.",
+    "name_mr": "",
+    "code": "529904",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529900",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "529900",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529908",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Manjari",
+    "name_mr": "",
+    "code": "529908",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529912",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Zural Kh",
+    "name_mr": "",
+    "code": "529912",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529911",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Zural Bk",
+    "name_mr": "",
+    "code": "529911",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529910",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Morgaon Sadijan",
+    "name_mr": "",
+    "code": "529910",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529909",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "529909",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529913",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Sawarpati",
+    "name_mr": "",
+    "code": "529913",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529914",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kalamba KH",
+    "name_mr": "",
+    "code": "529914",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529920",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Takali Khojbad",
+    "name_mr": "",
+    "code": "529920",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529915",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kalanbi Mahagaon",
+    "name_mr": "",
+    "code": "529915",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529916",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kalamba BK",
+    "name_mr": "",
+    "code": "529916",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529921",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hasnapur",
+    "name_mr": "",
+    "code": "529921",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529919",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kharbi",
+    "name_mr": "",
+    "code": "529919",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529924",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Takali Nimkarda",
+    "name_mr": "",
+    "code": "529924",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529917",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Songiri",
+    "name_mr": "",
+    "code": "529917",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529943",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Jogalkhed",
+    "name_mr": "",
+    "code": "529943",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529918",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kasura",
+    "name_mr": "",
+    "code": "529918",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529922",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kadoshi",
+    "name_mr": "",
+    "code": "529922",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529923",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Adoshi",
+    "name_mr": "",
+    "code": "529923",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529944",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Paras",
+    "name_mr": "",
+    "code": "529944",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529925",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Nimkarda",
+    "name_mr": "",
+    "code": "529925",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529941",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Onkarkhed",
+    "name_mr": "",
+    "code": "529941",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529942",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Manarkhed",
+    "name_mr": "",
+    "code": "529942",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529930",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Manali",
+    "name_mr": "",
+    "code": "529930",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529931",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Gaigaon",
+    "name_mr": "",
+    "code": "529931",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529945",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kolasa",
+    "name_mr": "",
+    "code": "529945",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529927",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "529927",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529929",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "529929",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529926",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "529926",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529946",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Satargaon",
+    "name_mr": "",
+    "code": "529946",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-251311",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Balapur (M Cl)",
+    "name_mr": "",
+    "code": "251311",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529928",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Borwakadi",
+    "name_mr": "",
+    "code": "529928",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529932",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Ridhora",
+    "name_mr": "",
+    "code": "529932",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529933",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Vyalla",
+    "name_mr": "",
+    "code": "529933",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529948",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Mandoli",
+    "name_mr": "",
+    "code": "529948",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529950",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Bhikundkhed",
+    "name_mr": "",
+    "code": "529950",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529951",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Shelad",
+    "name_mr": "",
+    "code": "529951",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529947",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dawalpur",
+    "name_mr": "",
+    "code": "529947",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529949",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kastkhed",
+    "name_mr": "",
+    "code": "529949",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529938",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dadham BK",
+    "name_mr": "",
+    "code": "529938",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529934",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kanheri",
+    "name_mr": "",
+    "code": "529934",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529937",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Khirpuri Kh",
+    "name_mr": "",
+    "code": "529937",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529939",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Barlinga",
+    "name_mr": "",
+    "code": "529939",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529952",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Takali Gademod",
+    "name_mr": "",
+    "code": "529952",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529953",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Hingana Shelad",
+    "name_mr": "",
+    "code": "529953",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529936",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Nandkhed",
+    "name_mr": "",
+    "code": "529936",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529940",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Khirpuri Bk",
+    "name_mr": "",
+    "code": "529940",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529954",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Mandawa Bk",
+    "name_mr": "",
+    "code": "529954",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529961",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Manaki",
+    "name_mr": "",
+    "code": "529961",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529957",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Kupata",
+    "name_mr": "",
+    "code": "529957",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529956",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Gademod",
+    "name_mr": "",
+    "code": "529956",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529955",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Mandawa Kh",
+    "name_mr": "",
+    "code": "529955",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529935",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Takali Khureshi",
+    "name_mr": "",
+    "code": "529935",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529960",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Khamkhed",
+    "name_mr": "",
+    "code": "529960",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529962",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "529962",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529959",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Batwadi BK",
+    "name_mr": "",
+    "code": "529959",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529963",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Sangwi Jomdeo",
+    "name_mr": "",
+    "code": "529963",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529958",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Batwadi KH",
+    "name_mr": "",
+    "code": "529958",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529964",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dhanegaon",
+    "name_mr": "",
+    "code": "529964",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529971",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "529971",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529973",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Bharatpur",
+    "name_mr": "",
+    "code": "529973",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529972",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Nakashi",
+    "name_mr": "",
+    "code": "529972",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529965",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Tamshi",
+    "name_mr": "",
+    "code": "529965",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529966",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "529966",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529970",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Chincholi Ganu",
+    "name_mr": "",
+    "code": "529970",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529967",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Tandali Tarf Tulanga",
+    "name_mr": "",
+    "code": "529967",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529969",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Dhadi",
+    "name_mr": "",
+    "code": "529969",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  },
+  {
+    "village_id": "v-529968",
+    "district_id": "akola",
+    "taluka_id": "balapur",
+    "name_en": "Balhadi",
+    "name_mr": "",
+    "code": "529968",
+    "boundary_file": "/data/boundaries/villages/akola/balapur.geojson"
+  }
+]

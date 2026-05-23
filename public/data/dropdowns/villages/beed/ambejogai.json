@@ -1,0 +1,920 @@
+[
+  {
+    "village_id": "v-559987",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Sonwala",
+    "name_mr": "",
+    "code": "559987",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560017",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Warwati",
+    "name_mr": "",
+    "code": "560017",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559989",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "559989",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560057",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Ambaltek",
+    "name_mr": "",
+    "code": "560057",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560014",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kuranwadi",
+    "name_mr": "",
+    "code": "560014",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560015",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Laman Tanda",
+    "name_mr": "",
+    "code": "560015",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560048",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Girwli (Bawne)",
+    "name_mr": "",
+    "code": "560048",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560056",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Telghana",
+    "name_mr": "",
+    "code": "560056",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559991",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kendrewadi",
+    "name_mr": "",
+    "code": "559991",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559992",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dhavadi",
+    "name_mr": "",
+    "code": "559992",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560059",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Ghatnandur",
+    "name_mr": "",
+    "code": "560059",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560019",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dongar Pimpla",
+    "name_mr": "",
+    "code": "560019",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560049",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Pimpala Dahiguda",
+    "name_mr": "",
+    "code": "560049",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560018",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Shepwadi",
+    "name_mr": "",
+    "code": "560018",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560053",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Pus",
+    "name_mr": "",
+    "code": "560053",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559988",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Chichkhandi",
+    "name_mr": "",
+    "code": "559988",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560013",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Yelda",
+    "name_mr": "",
+    "code": "560013",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560012",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Mandva (pathan)",
+    "name_mr": "",
+    "code": "560012",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559990",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Bhawthana",
+    "name_mr": "",
+    "code": "559990",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559984",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Sangaon",
+    "name_mr": "",
+    "code": "559984",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559983",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kodari",
+    "name_mr": "",
+    "code": "559983",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560010",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Rakshaswadi",
+    "name_mr": "",
+    "code": "560010",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560011",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Mamdapur (parli)",
+    "name_mr": "",
+    "code": "560011",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560055",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "560055",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560077",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Murkutwadi",
+    "name_mr": "",
+    "code": "560077",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560054",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "560054",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560078",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Daradwadi",
+    "name_mr": "",
+    "code": "560078",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560020",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Chanai",
+    "name_mr": "",
+    "code": "560020",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560023",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Magarwadi",
+    "name_mr": "",
+    "code": "560023",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560076",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Saundana",
+    "name_mr": "",
+    "code": "560076",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560080",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Katkarwadi",
+    "name_mr": "",
+    "code": "560080",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560021",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Morewadi",
+    "name_mr": "",
+    "code": "560021",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-251560",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Ambejogai (M Cl)",
+    "name_mr": "",
+    "code": "251560",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560079",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Jodwadi",
+    "name_mr": "",
+    "code": "560079",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560075",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Khapartone",
+    "name_mr": "",
+    "code": "560075",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559993",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Umrai",
+    "name_mr": "",
+    "code": "559993",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560060",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Hanumantwadi",
+    "name_mr": "",
+    "code": "560060",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560082",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Ujani",
+    "name_mr": "",
+    "code": "560082",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560024",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Jogaiwadi",
+    "name_mr": "",
+    "code": "560024",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560081",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Bhatanwadi",
+    "name_mr": "",
+    "code": "560081",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560083",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dhaswadi",
+    "name_mr": "",
+    "code": "560083",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560052",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Jawalgaon",
+    "name_mr": "",
+    "code": "560052",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560062",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Nawabwadi",
+    "name_mr": "",
+    "code": "560062",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560074",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kusalwadi",
+    "name_mr": "",
+    "code": "560074",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560050",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Gitta",
+    "name_mr": "",
+    "code": "560050",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560068",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Murti",
+    "name_mr": "",
+    "code": "560068",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560061",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Murambi",
+    "name_mr": "",
+    "code": "560061",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560063",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Gholapwadi",
+    "name_mr": "",
+    "code": "560063",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560067",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Wakdi",
+    "name_mr": "",
+    "code": "560067",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559994",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Lokhandi Sawargaon",
+    "name_mr": "",
+    "code": "559994",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560066",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Chopanwadi",
+    "name_mr": "",
+    "code": "560066",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560064",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Chothewadi",
+    "name_mr": "",
+    "code": "560064",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560065",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Salunkwadi",
+    "name_mr": "",
+    "code": "560065",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560069",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Pattiwadgaon",
+    "name_mr": "",
+    "code": "560069",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560028",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "560028",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560026",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Waghala (Radi)",
+    "name_mr": "",
+    "code": "560026",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560043",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "560043",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560070",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Babhalgaon",
+    "name_mr": "",
+    "code": "560070",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560027",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Selu Amba",
+    "name_mr": "",
+    "code": "560027",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559995",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Shripatraiwadi",
+    "name_mr": "",
+    "code": "559995",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560040",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Limbgaon",
+    "name_mr": "",
+    "code": "560040",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560044",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Talegaon (ghat)",
+    "name_mr": "",
+    "code": "560044",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560025",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Satephal",
+    "name_mr": "",
+    "code": "560025",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560041",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Chandanwadi",
+    "name_mr": "",
+    "code": "560041",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560051",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Bharaj",
+    "name_mr": "",
+    "code": "560051",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559996",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Warapgaon",
+    "name_mr": "",
+    "code": "559996",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560071",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Somanwadi",
+    "name_mr": "",
+    "code": "560071",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560042",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Hatola",
+    "name_mr": "",
+    "code": "560042",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560039",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Bardapur",
+    "name_mr": "",
+    "code": "560039",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560029",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Saygaon",
+    "name_mr": "",
+    "code": "560029",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559999",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kolkanadi",
+    "name_mr": "",
+    "code": "559999",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560000",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kumbephal",
+    "name_mr": "",
+    "code": "560000",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560030",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Radi",
+    "name_mr": "",
+    "code": "560030",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560072",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Nirpana",
+    "name_mr": "",
+    "code": "560072",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560073",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Bagzari",
+    "name_mr": "",
+    "code": "560073",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559997",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Hiwara Kh",
+    "name_mr": "",
+    "code": "559997",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560038",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "560038",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560002",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Makegaon",
+    "name_mr": "",
+    "code": "560002",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560037",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Sugaon",
+    "name_mr": "",
+    "code": "560037",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559998",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Somnath Borgaon",
+    "name_mr": "",
+    "code": "559998",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560001",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Nandadi",
+    "name_mr": "",
+    "code": "560001",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560045",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Walewadi",
+    "name_mr": "",
+    "code": "560045",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560007",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "560007",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560036",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Daithana Radi",
+    "name_mr": "",
+    "code": "560036",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560008",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Patoda",
+    "name_mr": "",
+    "code": "560008",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560003",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "560003",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560035",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Mudegaon",
+    "name_mr": "",
+    "code": "560035",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560004",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Apegaon",
+    "name_mr": "",
+    "code": "560004",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560032",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dhanora Bk.",
+    "name_mr": "",
+    "code": "560032",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560005",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Kopra",
+    "name_mr": "",
+    "code": "560005",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560006",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Anjanpur",
+    "name_mr": "",
+    "code": "560006",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560009",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Devla",
+    "name_mr": "",
+    "code": "560009",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560033",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "560033",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560034",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Tadola",
+    "name_mr": "",
+    "code": "560034",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559985",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dighol Amba",
+    "name_mr": "",
+    "code": "559985",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-559986",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Tatborgaon",
+    "name_mr": "",
+    "code": "559986",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560031",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Radi Tandaa",
+    "name_mr": "",
+    "code": "560031",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560047",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Girwli (Apet)",
+    "name_mr": "",
+    "code": "560047",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560046",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Ambalwadi",
+    "name_mr": "",
+    "code": "560046",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560016",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Sakud",
+    "name_mr": "",
+    "code": "560016",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560084",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Dagadwadi",
+    "name_mr": "",
+    "code": "560084",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  },
+  {
+    "village_id": "v-560022",
+    "district_id": "beed",
+    "taluka_id": "ambejogai",
+    "name_en": "Ambajogai (Rural)",
+    "name_mr": "",
+    "code": "560022",
+    "boundary_file": "/data/boundaries/villages/beed/ambejogai.geojson"
+  }
+]

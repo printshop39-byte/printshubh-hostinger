@@ -1,0 +1,1370 @@
+[
+  {
+    "village_id": "v-537829",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Birsi",
+    "name_mr": "",
+    "code": "537829",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537828",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kamtha",
+    "name_mr": "",
+    "code": "537828",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537812",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "537812",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537776",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nila Gondi",
+    "name_mr": "",
+    "code": "537776",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537861",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dawaniwada",
+    "name_mr": "",
+    "code": "537861",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537808",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nawa Tola",
+    "name_mr": "",
+    "code": "537808",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537813",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Halbi Tola",
+    "name_mr": "",
+    "code": "537813",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537775",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sonpuri",
+    "name_mr": "",
+    "code": "537775",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537827",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Panjara",
+    "name_mr": "",
+    "code": "537827",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537809",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nawegaon",
+    "name_mr": "",
+    "code": "537809",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537780",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pandharabodi",
+    "name_mr": "",
+    "code": "537780",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537774",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Polatola",
+    "name_mr": "",
+    "code": "537774",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537782",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Ratnara",
+    "name_mr": "",
+    "code": "537782",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537814",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Ambhora",
+    "name_mr": "",
+    "code": "537814",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537811",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chandanitola",
+    "name_mr": "",
+    "code": "537811",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537864",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kohka",
+    "name_mr": "",
+    "code": "537864",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537815",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nagara",
+    "name_mr": "",
+    "code": "537815",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537862",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Wadad",
+    "name_mr": "",
+    "code": "537862",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537833",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Batana",
+    "name_mr": "",
+    "code": "537833",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537834",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "537834",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537781",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Jabbar Tola",
+    "name_mr": "",
+    "code": "537781",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537863",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Jartal",
+    "name_mr": "",
+    "code": "537863",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537810",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Katang Tola",
+    "name_mr": "",
+    "code": "537810",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537816",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Barbaspura",
+    "name_mr": "",
+    "code": "537816",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537783",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sai Tola",
+    "name_mr": "",
+    "code": "537783",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537756",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Brahmantola",
+    "name_mr": "",
+    "code": "537756",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537786",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Korani",
+    "name_mr": "",
+    "code": "537786",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537755",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Marartola",
+    "name_mr": "",
+    "code": "537755",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537789",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "537789",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537751",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Serkatola",
+    "name_mr": "",
+    "code": "537751",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537753",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kati",
+    "name_mr": "",
+    "code": "537753",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537752",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bajartola",
+    "name_mr": "",
+    "code": "537752",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537788",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Jagantola",
+    "name_mr": "",
+    "code": "537788",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537790",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Changera",
+    "name_mr": "",
+    "code": "537790",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537754",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kanhartola",
+    "name_mr": "",
+    "code": "537754",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537762",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Makadi",
+    "name_mr": "",
+    "code": "537762",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537760",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dasgaon Kh",
+    "name_mr": "",
+    "code": "537760",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537761",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dasgaon Bk",
+    "name_mr": "",
+    "code": "537761",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537797",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kalar Tola",
+    "name_mr": "",
+    "code": "537797",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537763",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "537763",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537796",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bagholi",
+    "name_mr": "",
+    "code": "537796",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537794",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Marartola",
+    "name_mr": "",
+    "code": "537794",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537795",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Rajegaon",
+    "name_mr": "",
+    "code": "537795",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537793",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kochewahi",
+    "name_mr": "",
+    "code": "537793",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537798",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Garra Bk",
+    "name_mr": "",
+    "code": "537798",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537765",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nilaj",
+    "name_mr": "",
+    "code": "537765",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537771",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sonvihari",
+    "name_mr": "",
+    "code": "537771",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537819",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "537819",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537764",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Shivani",
+    "name_mr": "",
+    "code": "537764",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537770",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Balamatola",
+    "name_mr": "",
+    "code": "537770",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537822",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chiramantola",
+    "name_mr": "",
+    "code": "537822",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537800",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Gondi Tola",
+    "name_mr": "",
+    "code": "537800",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537801",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Murpar",
+    "name_mr": "",
+    "code": "537801",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537768",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Birsi",
+    "name_mr": "",
+    "code": "537768",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537802",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "537802",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537821",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Paraswada",
+    "name_mr": "",
+    "code": "537821",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537799",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Garra Kh",
+    "name_mr": "",
+    "code": "537799",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537773",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "537773",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537769",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "537769",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537767",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pipartola",
+    "name_mr": "",
+    "code": "537767",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537825",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Zilmili",
+    "name_mr": "",
+    "code": "537825",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537820",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Mogarra",
+    "name_mr": "",
+    "code": "537820",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537806",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Ghiwari",
+    "name_mr": "",
+    "code": "537806",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537807",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Gondi Tola",
+    "name_mr": "",
+    "code": "537807",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537803",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Rawanwadi",
+    "name_mr": "",
+    "code": "537803",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537804",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lodhi Tola",
+    "name_mr": "",
+    "code": "537804",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537766",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "537766",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537831",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bhadutola",
+    "name_mr": "",
+    "code": "537831",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537777",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "537777",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537778",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kanhartola",
+    "name_mr": "",
+    "code": "537778",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537779",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lahitola",
+    "name_mr": "",
+    "code": "537779",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537832",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Arjuni",
+    "name_mr": "",
+    "code": "537832",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537805",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lodhi Tola",
+    "name_mr": "",
+    "code": "537805",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537830",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Khatiya",
+    "name_mr": "",
+    "code": "537830",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537865",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bhanpur",
+    "name_mr": "",
+    "code": "537865",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537784",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "537784",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537871",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Khatitola",
+    "name_mr": "",
+    "code": "537871",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537836",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Navargaon Kala",
+    "name_mr": "",
+    "code": "537836",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537888",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Katangi Kala (CT)",
+    "name_mr": "",
+    "code": "537888",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537866",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sejgaon",
+    "name_mr": "",
+    "code": "537866",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537867",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "537867",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537835",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Aasoli",
+    "name_mr": "",
+    "code": "537835",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537887",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kudwa(CT)",
+    "name_mr": "",
+    "code": "537887",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537872",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Zadutola",
+    "name_mr": "",
+    "code": "537872",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537870",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pardi Bandha",
+    "name_mr": "",
+    "code": "537870",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537817",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Temni",
+    "name_mr": "",
+    "code": "537817",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537785",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bhagwattola",
+    "name_mr": "",
+    "code": "537785",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537874",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sahespur",
+    "name_mr": "",
+    "code": "537874",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537873",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Khalbanda",
+    "name_mr": "",
+    "code": "537873",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537837",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Irri",
+    "name_mr": "",
+    "code": "537837",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537881",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kidangipar",
+    "name_mr": "",
+    "code": "537881",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537869",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "537869",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537840",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dhakni",
+    "name_mr": "",
+    "code": "537840",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537838",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nawargaon Kh",
+    "name_mr": "",
+    "code": "537838",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-251371",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Gondia (M Cl)",
+    "name_mr": "",
+    "code": "251371",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537818",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chulod",
+    "name_mr": "",
+    "code": "537818",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537868",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "537868",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537876",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Rampuri",
+    "name_mr": "",
+    "code": "537876",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537880",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Majitpur",
+    "name_mr": "",
+    "code": "537880",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537875",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Ekodi",
+    "name_mr": "",
+    "code": "537875",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537853",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Morwahi",
+    "name_mr": "",
+    "code": "537853",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537882",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kharra",
+    "name_mr": "",
+    "code": "537882",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537839",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Nangpura Murri",
+    "name_mr": "",
+    "code": "537839",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537879",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Tikayatpur",
+    "name_mr": "",
+    "code": "537879",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537852",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Datora",
+    "name_mr": "",
+    "code": "537852",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537878",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dandegaon",
+    "name_mr": "",
+    "code": "537878",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537842",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chutiya",
+    "name_mr": "",
+    "code": "537842",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537883",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Wazitola (NV)",
+    "name_mr": "",
+    "code": "537883",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537854",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Gudama",
+    "name_mr": "",
+    "code": "537854",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537841",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lodhi Tola",
+    "name_mr": "",
+    "code": "537841",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537889",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Fulchur",
+    "name_mr": "",
+    "code": "537889",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537884",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Gangazari",
+    "name_mr": "",
+    "code": "537884",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537846",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pindakepar",
+    "name_mr": "",
+    "code": "537846",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537847",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pindkepartola",
+    "name_mr": "",
+    "code": "537847",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537890",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Khamari",
+    "name_mr": "",
+    "code": "537890",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537848",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Fulchur Tola",
+    "name_mr": "",
+    "code": "537848",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537877",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dhamnewada",
+    "name_mr": "",
+    "code": "537877",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537885",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Sangrampur (Rithi)",
+    "name_mr": "",
+    "code": "537885",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537844",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Rapepada",
+    "name_mr": "",
+    "code": "537844",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537849",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Karanja",
+    "name_mr": "",
+    "code": "537849",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537850",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Tumkheda Kh",
+    "name_mr": "",
+    "code": "537850",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537855",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Adashi",
+    "name_mr": "",
+    "code": "537855",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537845",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chichtola",
+    "name_mr": "",
+    "code": "537845",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537843",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pangadi",
+    "name_mr": "",
+    "code": "537843",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537851",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Halbi Tola",
+    "name_mr": "",
+    "code": "537851",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537886",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "537886",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537856",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Tanda",
+    "name_mr": "",
+    "code": "537856",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537745",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Powaritola",
+    "name_mr": "",
+    "code": "537745",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537740",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pipartola",
+    "name_mr": "",
+    "code": "537740",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537741",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Deutola",
+    "name_mr": "",
+    "code": "537741",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537742",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bijaitola",
+    "name_mr": "",
+    "code": "537742",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537743",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Karutola",
+    "name_mr": "",
+    "code": "537743",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537744",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dagotola",
+    "name_mr": "",
+    "code": "537744",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537826",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lamba Tola",
+    "name_mr": "",
+    "code": "537826",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537748",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Birsola",
+    "name_mr": "",
+    "code": "537748",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537747",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kasa",
+    "name_mr": "",
+    "code": "537747",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537749",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Bhadyatola",
+    "name_mr": "",
+    "code": "537749",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537787",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Satona",
+    "name_mr": "",
+    "code": "537787",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537746",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Pujaritola",
+    "name_mr": "",
+    "code": "537746",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537750",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Jirutola",
+    "name_mr": "",
+    "code": "537750",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537791",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Banathar",
+    "name_mr": "",
+    "code": "537791",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537757",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Tedhava",
+    "name_mr": "",
+    "code": "537757",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537758",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dangorli",
+    "name_mr": "",
+    "code": "537758",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537792",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Badegaon",
+    "name_mr": "",
+    "code": "537792",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537759",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "537759",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537824",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Katang Tola",
+    "name_mr": "",
+    "code": "537824",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537772",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Deori",
+    "name_mr": "",
+    "code": "537772",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537823",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Chhipiya",
+    "name_mr": "",
+    "code": "537823",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537858",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "537858",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537860",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Dhapewada",
+    "name_mr": "",
+    "code": "537860",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537859",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Lodhitola",
+    "name_mr": "",
+    "code": "537859",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  },
+  {
+    "village_id": "v-537857",
+    "district_id": "gondia",
+    "taluka_id": "gondia",
+    "name_en": "Murdada",
+    "name_mr": "",
+    "code": "537857",
+    "boundary_file": "/data/boundaries/villages/gondia/gondia.geojson"
+  }
+]

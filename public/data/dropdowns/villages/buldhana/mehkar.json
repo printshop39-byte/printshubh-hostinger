@@ -1,0 +1,1451 @@
+[
+  {
+    "village_id": "v-529083",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Turkhed",
+    "name_mr": "",
+    "code": "529083",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529057",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "529057",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529084",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Malkhed",
+    "name_mr": "",
+    "code": "529084",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529085",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Suryapur",
+    "name_mr": "",
+    "code": "529085",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529082",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Antri Deshmukh",
+    "name_mr": "",
+    "code": "529082",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529056",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sonati",
+    "name_mr": "",
+    "code": "529056",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529081",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ganpur",
+    "name_mr": "",
+    "code": "529081",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529080",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Dadulgavhan",
+    "name_mr": "",
+    "code": "529080",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529054",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ukali",
+    "name_mr": "",
+    "code": "529054",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529055",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "529055",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529073",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Parda",
+    "name_mr": "",
+    "code": "529073",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529079",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Chincholi Bore",
+    "name_mr": "",
+    "code": "529079",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529072",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Chondi",
+    "name_mr": "",
+    "code": "529072",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529053",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Partapur",
+    "name_mr": "",
+    "code": "529053",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529036",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "529036",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529037",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nanaj",
+    "name_mr": "",
+    "code": "529037",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529035",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Palshi",
+    "name_mr": "",
+    "code": "529035",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529071",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kalapvihir",
+    "name_mr": "",
+    "code": "529071",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529074",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Shivpuri",
+    "name_mr": "",
+    "code": "529074",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529078",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Jaitala",
+    "name_mr": "",
+    "code": "529078",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529069",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Badnapur",
+    "name_mr": "",
+    "code": "529069",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529077",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sarangpur",
+    "name_mr": "",
+    "code": "529077",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529052",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ghordada",
+    "name_mr": "",
+    "code": "529052",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529033",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Hiwara sable",
+    "name_mr": "",
+    "code": "529033",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529032",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Jawala",
+    "name_mr": "",
+    "code": "529032",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529075",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bartala",
+    "name_mr": "",
+    "code": "529075",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529031",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Aregaon",
+    "name_mr": "",
+    "code": "529031",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529051",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Khamkhed",
+    "name_mr": "",
+    "code": "529051",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529070",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nandra N Chaingaon",
+    "name_mr": "",
+    "code": "529070",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529034",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Akola Thakare",
+    "name_mr": "",
+    "code": "529034",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529030",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Madani",
+    "name_mr": "",
+    "code": "529030",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528949",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Wadgaon Mali",
+    "name_mr": "",
+    "code": "528949",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528950",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Wardadi",
+    "name_mr": "",
+    "code": "528950",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529068",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Chaigaon",
+    "name_mr": "",
+    "code": "529068",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529050",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Jamgaon",
+    "name_mr": "",
+    "code": "529050",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528953",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Dipkhed",
+    "name_mr": "",
+    "code": "528953",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528952",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Koyali",
+    "name_mr": "",
+    "code": "528952",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-251303",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mehkar(M CI)",
+    "name_mr": "",
+    "code": "251303",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529067",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Babhulkhed",
+    "name_mr": "",
+    "code": "529067",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529046",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "529046",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529045",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "529045",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528951",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Subhanpur",
+    "name_mr": "",
+    "code": "528951",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529047",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "529047",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529049",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bhumra",
+    "name_mr": "",
+    "code": "529049",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529066",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Erandoli",
+    "name_mr": "",
+    "code": "529066",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529076",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Faijalapur",
+    "name_mr": "",
+    "code": "529076",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528947",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sawangi Wir",
+    "name_mr": "",
+    "code": "528947",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528948",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sawangi Mali",
+    "name_mr": "",
+    "code": "528948",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528954",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Usaran",
+    "name_mr": "",
+    "code": "528954",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528946",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mohadari",
+    "name_mr": "",
+    "code": "528946",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529048",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sabra",
+    "name_mr": "",
+    "code": "529048",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528944",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nagzari Kh",
+    "name_mr": "",
+    "code": "528944",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529044",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Anjani Bk",
+    "name_mr": "",
+    "code": "529044",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529043",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "529043",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529038",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Gawandhala",
+    "name_mr": "",
+    "code": "529038",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529065",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kambarkhed",
+    "name_mr": "",
+    "code": "529065",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529039",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kabra",
+    "name_mr": "",
+    "code": "529039",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529064",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kalyana",
+    "name_mr": "",
+    "code": "529064",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529040",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pimpri Mali",
+    "name_mr": "",
+    "code": "529040",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528945",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Deulgaon Mali",
+    "name_mr": "",
+    "code": "528945",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529029",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "529029",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529062",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Palaskhed",
+    "name_mr": "",
+    "code": "529062",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528977",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bardapur",
+    "name_mr": "",
+    "code": "528977",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529063",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nandra N. Bhalegaon",
+    "name_mr": "",
+    "code": "529063",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529027",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Karhadwadi",
+    "name_mr": "",
+    "code": "529027",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529061",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Takarkhed",
+    "name_mr": "",
+    "code": "529061",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528943",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nagzari Bk",
+    "name_mr": "",
+    "code": "528943",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529060",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bhalegaon",
+    "name_mr": "",
+    "code": "529060",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529024",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Umara",
+    "name_mr": "",
+    "code": "529024",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528978",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ghonsar",
+    "name_mr": "",
+    "code": "528978",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529028",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Gohogaon",
+    "name_mr": "",
+    "code": "529028",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529026",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Andhrudi",
+    "name_mr": "",
+    "code": "529026",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528941",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Shelgaon Kakde",
+    "name_mr": "",
+    "code": "528941",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528937",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Vivekanand Nagar",
+    "name_mr": "",
+    "code": "528937",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529025",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Andhrud",
+    "name_mr": "",
+    "code": "529025",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529042",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Moli",
+    "name_mr": "",
+    "code": "529042",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529041",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mola",
+    "name_mr": "",
+    "code": "529041",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529059",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Barhai",
+    "name_mr": "",
+    "code": "529059",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528942",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Hiwara Bk.",
+    "name_mr": "",
+    "code": "528942",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528976",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Shendla",
+    "name_mr": "",
+    "code": "528976",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528940",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Shivaji Nagar",
+    "name_mr": "",
+    "code": "528940",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529023",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pangarkhed",
+    "name_mr": "",
+    "code": "529023",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529058",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Panchala",
+    "name_mr": "",
+    "code": "529058",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528936",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Brahmapuri",
+    "name_mr": "",
+    "code": "528936",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528975",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mohana Kh",
+    "name_mr": "",
+    "code": "528975",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528939",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Gajarkhed",
+    "name_mr": "",
+    "code": "528939",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528938",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "528938",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528974",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Naigaon Dattapur",
+    "name_mr": "",
+    "code": "528974",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528935",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "528935",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528934",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Dudha",
+    "name_mr": "",
+    "code": "528934",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529019",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Shelgaon Deshmukh",
+    "name_mr": "",
+    "code": "529019",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528926",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Hiwarkhed",
+    "name_mr": "",
+    "code": "528926",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529018",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Loni Gavali",
+    "name_mr": "",
+    "code": "529018",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528930",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mohokhed",
+    "name_mr": "",
+    "code": "528930",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529017",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Lawana",
+    "name_mr": "",
+    "code": "529017",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528970",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Jaruna N Shendla",
+    "name_mr": "",
+    "code": "528970",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528929",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Wardada",
+    "name_mr": "",
+    "code": "528929",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528972",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mosambiwadi",
+    "name_mr": "",
+    "code": "528972",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528973",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sawatra",
+    "name_mr": "",
+    "code": "528973",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529022",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "529022",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528927",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Malkhed",
+    "name_mr": "",
+    "code": "528927",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529004",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "529004",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529003",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bhiwapur",
+    "name_mr": "",
+    "code": "529003",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528933",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pentakali",
+    "name_mr": "",
+    "code": "528933",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528932",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pimpalgaon Unda",
+    "name_mr": "",
+    "code": "528932",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528971",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Miskinwadi",
+    "name_mr": "",
+    "code": "528971",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529021",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "529021",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529020",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Uddhava (New)",
+    "name_mr": "",
+    "code": "529020",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528931",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Lavhala",
+    "name_mr": "",
+    "code": "528931",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529016",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kanaka Bk",
+    "name_mr": "",
+    "code": "529016",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528966",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sonargavhan",
+    "name_mr": "",
+    "code": "528966",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528955",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kasarkhed",
+    "name_mr": "",
+    "code": "528955",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529011",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "529011",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529015",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Januna",
+    "name_mr": "",
+    "code": "529015",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528965",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sula",
+    "name_mr": "",
+    "code": "528965",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529012",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kanaka Kh",
+    "name_mr": "",
+    "code": "529012",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528968",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Marotipeth",
+    "name_mr": "",
+    "code": "528968",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529000",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Garkhed",
+    "name_mr": "",
+    "code": "529000",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529002",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Bhosa",
+    "name_mr": "",
+    "code": "529002",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529001",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Jambhrun",
+    "name_mr": "",
+    "code": "529001",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528928",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "528928",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528969",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "528969",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528967",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Janefal",
+    "name_mr": "",
+    "code": "528967",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528999",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nimba",
+    "name_mr": "",
+    "code": "528999",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528958",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Thar Bardapur",
+    "name_mr": "",
+    "code": "528958",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528959",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Kalambeshwar",
+    "name_mr": "",
+    "code": "528959",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529014",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Chinchala",
+    "name_mr": "",
+    "code": "529014",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528956",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Sarshiv",
+    "name_mr": "",
+    "code": "528956",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529008",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Rajgad",
+    "name_mr": "",
+    "code": "529008",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529009",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Witkhed",
+    "name_mr": "",
+    "code": "529009",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528957",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Khudnapur",
+    "name_mr": "",
+    "code": "528957",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529013",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Vishvi",
+    "name_mr": "",
+    "code": "529013",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529005",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Nageshwadi",
+    "name_mr": "",
+    "code": "529005",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528964",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mundefal",
+    "name_mr": "",
+    "code": "528964",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528996",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Barda",
+    "name_mr": "",
+    "code": "528996",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528995",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mel Janori",
+    "name_mr": "",
+    "code": "528995",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528963",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ghuti",
+    "name_mr": "",
+    "code": "528963",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529007",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Hanwatkhed",
+    "name_mr": "",
+    "code": "529007",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528997",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Loni Kale",
+    "name_mr": "",
+    "code": "528997",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528994",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Drugbori",
+    "name_mr": "",
+    "code": "528994",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528998",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Gomedhar",
+    "name_mr": "",
+    "code": "528998",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529006",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Tembhurkhed",
+    "name_mr": "",
+    "code": "529006",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528993",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Botha",
+    "name_mr": "",
+    "code": "528993",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528961",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Paradi",
+    "name_mr": "",
+    "code": "528961",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528992",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Warwand",
+    "name_mr": "",
+    "code": "528992",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528962",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Delap",
+    "name_mr": "",
+    "code": "528962",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528991",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Uti",
+    "name_mr": "",
+    "code": "528991",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528987",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pathardi",
+    "name_mr": "",
+    "code": "528987",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528960",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Hiwara Kh",
+    "name_mr": "",
+    "code": "528960",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528986",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Wagdeo",
+    "name_mr": "",
+    "code": "528986",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528989",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ghatnandra",
+    "name_mr": "",
+    "code": "528989",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528988",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pachdeul",
+    "name_mr": "",
+    "code": "528988",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528985",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Naigaon Deshmukh",
+    "name_mr": "",
+    "code": "528985",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528990",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Wadali",
+    "name_mr": "",
+    "code": "528990",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528983",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Parkhed",
+    "name_mr": "",
+    "code": "528983",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528982",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mandwa (forest)",
+    "name_mr": "",
+    "code": "528982",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528980",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Pathardi (f)",
+    "name_mr": "",
+    "code": "528980",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528984",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Deulgaon Sakarasha",
+    "name_mr": "",
+    "code": "528984",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528979",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mandwa S dongar",
+    "name_mr": "",
+    "code": "528979",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-528981",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Mohana Bk",
+    "name_mr": "",
+    "code": "528981",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  },
+  {
+    "village_id": "v-529010",
+    "district_id": "buldhana",
+    "taluka_id": "mehkar",
+    "name_en": "Ghatbori",
+    "name_mr": "",
+    "code": "529010",
+    "boundary_file": "/data/boundaries/villages/buldhana/mehkar.geojson"
+  }
+]

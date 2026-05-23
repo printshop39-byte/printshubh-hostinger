@@ -1,0 +1,596 @@
+[
+  {
+    "village_id": "v-527282",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Nandkhurde Bk",
+    "name_mr": "",
+    "code": "527282",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527280",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Vankothe",
+    "name_mr": "",
+    "code": "527280",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527283",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Nandkhurde Kh",
+    "name_mr": "",
+    "code": "527283",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527275",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Bhatkhede",
+    "name_mr": "",
+    "code": "527275",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527285",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Farkande",
+    "name_mr": "",
+    "code": "527285",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527284",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Bambhori Kh",
+    "name_mr": "",
+    "code": "527284",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527289",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Kasoda",
+    "name_mr": "",
+    "code": "527289",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527286",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Janfal",
+    "name_mr": "",
+    "code": "527286",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527291",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Javkhede Sim",
+    "name_mr": "",
+    "code": "527291",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527293",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Anandnagar",
+    "name_mr": "",
+    "code": "527293",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527287",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Malkhede Bk",
+    "name_mr": "",
+    "code": "527287",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527295",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Tade",
+    "name_mr": "",
+    "code": "527295",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527290",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Anturli Kh",
+    "name_mr": "",
+    "code": "527290",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527274",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Pimpri Sim",
+    "name_mr": "",
+    "code": "527274",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527294",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Nipane",
+    "name_mr": "",
+    "code": "527294",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527241",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Pimpri Pr Chandsar",
+    "name_mr": "",
+    "code": "527241",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527242",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Pimpri Bk",
+    "name_mr": "",
+    "code": "527242",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527257",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Takarkhede",
+    "name_mr": "",
+    "code": "527257",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527258",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Vaijanath",
+    "name_mr": "",
+    "code": "527258",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527256",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Sawade Pr Chandsar",
+    "name_mr": "",
+    "code": "527256",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527239",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Javkhede Kh",
+    "name_mr": "",
+    "code": "527239",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527259",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Kadholi",
+    "name_mr": "",
+    "code": "527259",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527243",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Pimpalkhothe Bk",
+    "name_mr": "",
+    "code": "527243",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527261",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Ringangaon",
+    "name_mr": "",
+    "code": "527261",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527240",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Javkhede Bk",
+    "name_mr": "",
+    "code": "527240",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527244",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Pimpalkothe Kh",
+    "name_mr": "",
+    "code": "527244",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527255",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Erandol (Rural)",
+    "name_mr": "",
+    "code": "527255",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527246",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Vikharan",
+    "name_mr": "",
+    "code": "527246",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527238",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Toli Kh",
+    "name_mr": "",
+    "code": "527238",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527260",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Pimpalkothe Pr Chandsar",
+    "name_mr": "",
+    "code": "527260",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527245",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Chortakki",
+    "name_mr": "",
+    "code": "527245",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527264",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Khedi Kh",
+    "name_mr": "",
+    "code": "527264",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527247",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Nandgaon Bk",
+    "name_mr": "",
+    "code": "527247",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527263",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Ravanje Kh",
+    "name_mr": "",
+    "code": "527263",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527248",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Bhalgaon Bk",
+    "name_mr": "",
+    "code": "527248",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527262",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Kharchi Bk",
+    "name_mr": "",
+    "code": "527262",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527266",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Ravanje Bk",
+    "name_mr": "",
+    "code": "527266",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527265",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Dapori",
+    "name_mr": "",
+    "code": "527265",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527268",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Khadke Bk",
+    "name_mr": "",
+    "code": "527268",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527270",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Umarde",
+    "name_mr": "",
+    "code": "527270",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527250",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Palasdal",
+    "name_mr": "",
+    "code": "527250",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527249",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Patarkhede",
+    "name_mr": "",
+    "code": "527249",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527269",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Varkhedi",
+    "name_mr": "",
+    "code": "527269",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527251",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Dharagir",
+    "name_mr": "",
+    "code": "527251",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527281",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Jalu",
+    "name_mr": "",
+    "code": "527281",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527278",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Sonbardi",
+    "name_mr": "",
+    "code": "527278",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527276",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Hanmantkhede Bk",
+    "name_mr": "",
+    "code": "527276",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527253",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Khadke Kh",
+    "name_mr": "",
+    "code": "527253",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527254",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Khadke Sim",
+    "name_mr": "",
+    "code": "527254",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527252",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Ganeshnagar",
+    "name_mr": "",
+    "code": "527252",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527277",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Hanmantkhede Majre",
+    "name_mr": "",
+    "code": "527277",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527288",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Umare",
+    "name_mr": "",
+    "code": "527288",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527296",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Hanmantkhede Sim",
+    "name_mr": "",
+    "code": "527296",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527297",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Bamhne",
+    "name_mr": "",
+    "code": "527297",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527300",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "527300",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527298",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Ambe",
+    "name_mr": "",
+    "code": "527298",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527299",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Talai",
+    "name_mr": "",
+    "code": "527299",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527302",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Utran Gujar Hadd",
+    "name_mr": "",
+    "code": "527302",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527301",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Utran Ahir Hadd",
+    "name_mr": "",
+    "code": "527301",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527267",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Kharchi Kh",
+    "name_mr": "",
+    "code": "527267",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527279",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Khedgaon",
+    "name_mr": "",
+    "code": "527279",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527272",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Nagduli",
+    "name_mr": "",
+    "code": "527272",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527271",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Mukhpat",
+    "name_mr": "",
+    "code": "527271",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527292",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Galapur",
+    "name_mr": "",
+    "code": "527292",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-527273",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Waghlud Sim",
+    "name_mr": "",
+    "code": "527273",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  },
+  {
+    "village_id": "v-251292",
+    "district_id": "jalgaon",
+    "taluka_id": "erandol",
+    "name_en": "Erandol (M CI)",
+    "name_mr": "",
+    "code": "251292",
+    "boundary_file": "/data/boundaries/villages/jalgaon/erandol.geojson"
+  }
+]

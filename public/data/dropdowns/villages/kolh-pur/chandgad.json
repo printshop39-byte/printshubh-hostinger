@@ -1,0 +1,1415 @@
+[
+  {
+    "village_id": "v-568111",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Vargaon",
+    "name_mr": "",
+    "code": "568111",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568113",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Jatewadi",
+    "name_mr": "",
+    "code": "568113",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568117",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Lakudwadi",
+    "name_mr": "",
+    "code": "568117",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568115",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "568115",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568103",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Walkoli",
+    "name_mr": "",
+    "code": "568103",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568114",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Bagilge",
+    "name_mr": "",
+    "code": "568114",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568150",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Hosur",
+    "name_mr": "",
+    "code": "568150",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568121",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shivanage",
+    "name_mr": "",
+    "code": "568121",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568152",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Nagardale",
+    "name_mr": "",
+    "code": "568152",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568153",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kadalge Bk.",
+    "name_mr": "",
+    "code": "568153",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568110",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Date",
+    "name_mr": "",
+    "code": "568110",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568090",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Pilani",
+    "name_mr": "",
+    "code": "568090",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568157",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Bukkihal",
+    "name_mr": "",
+    "code": "568157",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568120",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mahalewadi",
+    "name_mr": "",
+    "code": "568120",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568122",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mangaon",
+    "name_mr": "",
+    "code": "568122",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568106",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Gandharvagad",
+    "name_mr": "",
+    "code": "568106",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568091",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Bhogoli",
+    "name_mr": "",
+    "code": "568091",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568102",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kervade",
+    "name_mr": "",
+    "code": "568102",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568093",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "568093",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568112",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Gudewadi",
+    "name_mr": "",
+    "code": "568112",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-290433",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Chandgad (NP)",
+    "name_mr": "",
+    "code": "290433",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568154",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kadalge Kh.",
+    "name_mr": "",
+    "code": "568154",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568105",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Koraj",
+    "name_mr": "",
+    "code": "568105",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568116",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Malgad",
+    "name_mr": "",
+    "code": "568116",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568104",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Naganwadi",
+    "name_mr": "",
+    "code": "568104",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568158",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kaulage",
+    "name_mr": "",
+    "code": "568158",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568155",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dholagarwadi",
+    "name_mr": "",
+    "code": "568155",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568097",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Hambire",
+    "name_mr": "",
+    "code": "568097",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568183",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Adure",
+    "name_mr": "",
+    "code": "568183",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568059",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Bujavade",
+    "name_mr": "",
+    "code": "568059",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568058",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dhamapur",
+    "name_mr": "",
+    "code": "568058",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568128",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dhumadewadi",
+    "name_mr": "",
+    "code": "568128",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568197",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Nagave",
+    "name_mr": "",
+    "code": "568197",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568185",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Nandavade",
+    "name_mr": "",
+    "code": "568185",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568188",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Halkarni",
+    "name_mr": "",
+    "code": "568188",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568186",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Karanjgaon",
+    "name_mr": "",
+    "code": "568186",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568200",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Jambre",
+    "name_mr": "",
+    "code": "568200",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568162",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mauje Karve",
+    "name_mr": "",
+    "code": "568162",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568163",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Majare Karve",
+    "name_mr": "",
+    "code": "568163",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568193",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shipur",
+    "name_mr": "",
+    "code": "568193",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568194",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kolindre Khalsa",
+    "name_mr": "",
+    "code": "568194",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568195",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Savarde Khalsa",
+    "name_mr": "",
+    "code": "568195",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568196",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Here",
+    "name_mr": "",
+    "code": "568196",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568164",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Murkutewadi",
+    "name_mr": "",
+    "code": "568164",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568191",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Ambewadi",
+    "name_mr": "",
+    "code": "568191",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568169",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Devarwadi",
+    "name_mr": "",
+    "code": "568169",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568166",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Vaitakwadi",
+    "name_mr": "",
+    "code": "568166",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568192",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shevale",
+    "name_mr": "",
+    "code": "568192",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568165",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Turkewadi",
+    "name_mr": "",
+    "code": "568165",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568168",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Supe",
+    "name_mr": "",
+    "code": "568168",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568205",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Khamdale",
+    "name_mr": "",
+    "code": "568205",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568167",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Tadashinhal",
+    "name_mr": "",
+    "code": "568167",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568209",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Patne",
+    "name_mr": "",
+    "code": "568209",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568204",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Gudawale Khalsa",
+    "name_mr": "",
+    "code": "568204",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568134",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Yaratanhatti",
+    "name_mr": "",
+    "code": "568134",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568133",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kamewadi",
+    "name_mr": "",
+    "code": "568133",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568067",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Malagewadi",
+    "name_mr": "",
+    "code": "568067",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568068",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Bonjurdi",
+    "name_mr": "",
+    "code": "568068",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568066",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Morewadi",
+    "name_mr": "",
+    "code": "568066",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568137",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Channehatti",
+    "name_mr": "",
+    "code": "568137",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568065",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Vinzane",
+    "name_mr": "",
+    "code": "568065",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568132",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Chinchane",
+    "name_mr": "",
+    "code": "568132",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568064",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Alabadevi",
+    "name_mr": "",
+    "code": "568064",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568131",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Teurwadi",
+    "name_mr": "",
+    "code": "568131",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568135",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Rajgoli Kh.",
+    "name_mr": "",
+    "code": "568135",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568060",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Gavase",
+    "name_mr": "",
+    "code": "568060",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568062",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shiroli",
+    "name_mr": "",
+    "code": "568062",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568075",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Adkur",
+    "name_mr": "",
+    "code": "568075",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568136",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Rajgoli Bk.",
+    "name_mr": "",
+    "code": "568136",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568061",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Ibrahimpur",
+    "name_mr": "",
+    "code": "568061",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568143",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Nitur",
+    "name_mr": "",
+    "code": "568143",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568144",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Jakkanhatti",
+    "name_mr": "",
+    "code": "568144",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568141",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dundage",
+    "name_mr": "",
+    "code": "568141",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568139",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Talguli",
+    "name_mr": "",
+    "code": "568139",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568086",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kanur Bk.",
+    "name_mr": "",
+    "code": "568086",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568070",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Ganuchiwadi",
+    "name_mr": "",
+    "code": "568070",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568063",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Sattewadi",
+    "name_mr": "",
+    "code": "568063",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568076",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Utsali",
+    "name_mr": "",
+    "code": "568076",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568078",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kanadi",
+    "name_mr": "",
+    "code": "568078",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568088",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kanur Kh.",
+    "name_mr": "",
+    "code": "568088",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568069",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Jogewadi",
+    "name_mr": "",
+    "code": "568069",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568074",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Amroli",
+    "name_mr": "",
+    "code": "568074",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568087",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Pundra",
+    "name_mr": "",
+    "code": "568087",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568140",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kudanur",
+    "name_mr": "",
+    "code": "568140",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568142",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kowad",
+    "name_mr": "",
+    "code": "568142",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568084",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kurni",
+    "name_mr": "",
+    "code": "568084",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568138",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dindalkop",
+    "name_mr": "",
+    "code": "568138",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568100",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kenchewadi",
+    "name_mr": "",
+    "code": "568100",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568099",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Satawane",
+    "name_mr": "",
+    "code": "568099",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568148",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kalkundri",
+    "name_mr": "",
+    "code": "568148",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568077",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Powachiwadi",
+    "name_mr": "",
+    "code": "568077",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568119",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Malatwadi",
+    "name_mr": "",
+    "code": "568119",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568083",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mahalunge Inam",
+    "name_mr": "",
+    "code": "568083",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568071",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mugali",
+    "name_mr": "",
+    "code": "568071",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568073",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Porewadi",
+    "name_mr": "",
+    "code": "568073",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568080",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Hindagaon",
+    "name_mr": "",
+    "code": "568080",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568089",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Sadegudwale",
+    "name_mr": "",
+    "code": "568089",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568101",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Asagoli",
+    "name_mr": "",
+    "code": "568101",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568085",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Bijur",
+    "name_mr": "",
+    "code": "568085",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568072",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Sonarwadi",
+    "name_mr": "",
+    "code": "568072",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568145",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Ghulewadi",
+    "name_mr": "",
+    "code": "568145",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568081",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Fatakwadi",
+    "name_mr": "",
+    "code": "568081",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568146",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kini",
+    "name_mr": "",
+    "code": "568146",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568094",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Majareshirgaon",
+    "name_mr": "",
+    "code": "568094",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568079",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Savarde Inam",
+    "name_mr": "",
+    "code": "568079",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568082",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kajirne",
+    "name_mr": "",
+    "code": "568082",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568147",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Hundalewadi",
+    "name_mr": "",
+    "code": "568147",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568151",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kagani",
+    "name_mr": "",
+    "code": "568151",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568149",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kitwad",
+    "name_mr": "",
+    "code": "568149",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568118",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Lakikatte",
+    "name_mr": "",
+    "code": "568118",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568096",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Churani Chawl",
+    "name_mr": "",
+    "code": "568096",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568182",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kokare",
+    "name_mr": "",
+    "code": "568182",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568156",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Karekundi",
+    "name_mr": "",
+    "code": "568156",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568109",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Belebhat",
+    "name_mr": "",
+    "code": "568109",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568125",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Basarge",
+    "name_mr": "",
+    "code": "568125",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568130",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Narewadi",
+    "name_mr": "",
+    "code": "568130",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568107",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kurtanwadi",
+    "name_mr": "",
+    "code": "568107",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568160",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Sundi",
+    "name_mr": "",
+    "code": "568160",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568129",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Tambulwadi",
+    "name_mr": "",
+    "code": "568129",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568161",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mandedurg",
+    "name_mr": "",
+    "code": "568161",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568184",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Sulaye",
+    "name_mr": "",
+    "code": "568184",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568159",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mahipalgad",
+    "name_mr": "",
+    "code": "568159",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568098",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Inam Kolindre",
+    "name_mr": "",
+    "code": "568098",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568187",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Hallarwadi",
+    "name_mr": "",
+    "code": "568187",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568108",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Konewadi",
+    "name_mr": "",
+    "code": "568108",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568127",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Tavarewadi",
+    "name_mr": "",
+    "code": "568127",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568198",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Nhaveli",
+    "name_mr": "",
+    "code": "568198",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568199",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Umagaon",
+    "name_mr": "",
+    "code": "568199",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568189",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Jangamhatti",
+    "name_mr": "",
+    "code": "568189",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568190",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kalivade",
+    "name_mr": "",
+    "code": "568190",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568208",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Raidewadi",
+    "name_mr": "",
+    "code": "568208",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568173",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Madawale",
+    "name_mr": "",
+    "code": "568173",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568170",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shinoli Kh.",
+    "name_mr": "",
+    "code": "568170",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568171",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Shinoli Bk.",
+    "name_mr": "",
+    "code": "568171",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568201",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "568201",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568206",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Motanwadi",
+    "name_mr": "",
+    "code": "568206",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568210",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Jelugade",
+    "name_mr": "",
+    "code": "568210",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568211",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kitvade",
+    "name_mr": "",
+    "code": "568211",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568203",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Waghotre",
+    "name_mr": "",
+    "code": "568203",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568207",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Parle",
+    "name_mr": "",
+    "code": "568207",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568172",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Surute",
+    "name_mr": "",
+    "code": "568172",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568174",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dhekoli",
+    "name_mr": "",
+    "code": "568174",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568212",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kalasgade",
+    "name_mr": "",
+    "code": "568212",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568177",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Hajagoli",
+    "name_mr": "",
+    "code": "568177",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568202",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mirwel",
+    "name_mr": "",
+    "code": "568202",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568175",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Dhekoliwadi",
+    "name_mr": "",
+    "code": "568175",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568176",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Saroli",
+    "name_mr": "",
+    "code": "568176",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568213",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kodali",
+    "name_mr": "",
+    "code": "568213",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568178",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Tudiye",
+    "name_mr": "",
+    "code": "568178",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568179",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Malagewadi",
+    "name_mr": "",
+    "code": "568179",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568180",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Khalsa Mhalunge",
+    "name_mr": "",
+    "code": "568180",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568181",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Kolik",
+    "name_mr": "",
+    "code": "568181",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568123",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Mangaonwadi",
+    "name_mr": "",
+    "code": "568123",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568124",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Humbarwadi",
+    "name_mr": "",
+    "code": "568124",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568214",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Gulamb",
+    "name_mr": "",
+    "code": "568214",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568126",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Gaulwadi",
+    "name_mr": "",
+    "code": "568126",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  },
+  {
+    "village_id": "v-568095",
+    "district_id": "kolh-pur",
+    "taluka_id": "chandgad",
+    "name_en": "Asagaon",
+    "name_mr": "",
+    "code": "568095",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/chandgad.geojson"
+  }
+]

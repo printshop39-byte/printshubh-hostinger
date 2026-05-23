@@ -1,0 +1,2153 @@
+[
+  {
+    "village_id": "v-566113",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Madheliwadi",
+    "name_mr": "",
+    "code": "566113",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566088",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dattawadi",
+    "name_mr": "",
+    "code": "566088",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566054",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Janshi",
+    "name_mr": "",
+    "code": "566054",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566061",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Niveli",
+    "name_mr": "",
+    "code": "566061",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566059",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Padave",
+    "name_mr": "",
+    "code": "566059",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566060",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sakhar",
+    "name_mr": "",
+    "code": "566060",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566115",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Gunjavane",
+    "name_mr": "",
+    "code": "566115",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566071",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Palekarwadi",
+    "name_mr": "",
+    "code": "566071",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566074",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kumbhavade",
+    "name_mr": "",
+    "code": "566074",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566118",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bandiwade",
+    "name_mr": "",
+    "code": "566118",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566080",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Burbewadi",
+    "name_mr": "",
+    "code": "566080",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566079",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Katradevi (sagave)",
+    "name_mr": "",
+    "code": "566079",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566067",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sagave",
+    "name_mr": "",
+    "code": "566067",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566078",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Palye",
+    "name_mr": "",
+    "code": "566078",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566077",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khajantad (nanar)",
+    "name_mr": "",
+    "code": "566077",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566082",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Katali",
+    "name_mr": "",
+    "code": "566082",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566084",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ingalwadi",
+    "name_mr": "",
+    "code": "566084",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566083",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadchipari",
+    "name_mr": "",
+    "code": "566083",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566233",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ajivali",
+    "name_mr": "",
+    "code": "566233",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566032",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Deulwadi",
+    "name_mr": "",
+    "code": "566032",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566153",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kaneri",
+    "name_mr": "",
+    "code": "566153",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566035",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sogamwadi",
+    "name_mr": "",
+    "code": "566035",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566034",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Burbewadi",
+    "name_mr": "",
+    "code": "566034",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566161",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadavali",
+    "name_mr": "",
+    "code": "566161",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566160",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadad Hasol",
+    "name_mr": "",
+    "code": "566160",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566162",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Nivkholwadi",
+    "name_mr": "",
+    "code": "566162",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566200",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Zarye",
+    "name_mr": "",
+    "code": "566200",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566165",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mandrul",
+    "name_mr": "",
+    "code": "566165",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566163",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chuna Kolwan",
+    "name_mr": "",
+    "code": "566163",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566166",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Watul",
+    "name_mr": "",
+    "code": "566166",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566201",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Yeradav",
+    "name_mr": "",
+    "code": "566201",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-565996",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Varachiwadi (Kasheli)",
+    "name_mr": "",
+    "code": "565996",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-565998",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondsar Bk",
+    "name_mr": "",
+    "code": "565998",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566204",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Karavali",
+    "name_mr": "",
+    "code": "566204",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566159",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Palasamkar T Wadi",
+    "name_mr": "",
+    "code": "566159",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566127",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dasur",
+    "name_mr": "",
+    "code": "566127",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566199",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Parule",
+    "name_mr": "",
+    "code": "566199",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566176",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shivane Bk",
+    "name_mr": "",
+    "code": "566176",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566121",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Devi Hasol",
+    "name_mr": "",
+    "code": "566121",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566202",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pangari Kh.",
+    "name_mr": "",
+    "code": "566202",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566169",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sabalewadi",
+    "name_mr": "",
+    "code": "566169",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566164",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sutarwadi",
+    "name_mr": "",
+    "code": "566164",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566006",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kasheli",
+    "name_mr": "",
+    "code": "566006",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566170",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ozar",
+    "name_mr": "",
+    "code": "566170",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566158",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khalchiwadi",
+    "name_mr": "",
+    "code": "566158",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-565999",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondsar Kh",
+    "name_mr": "",
+    "code": "565999",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566210",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pachal",
+    "name_mr": "",
+    "code": "566210",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566122",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kond Dasur",
+    "name_mr": "",
+    "code": "566122",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566175",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kala Savali",
+    "name_mr": "",
+    "code": "566175",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566123",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chikhale",
+    "name_mr": "",
+    "code": "566123",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566167",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kond Tiware",
+    "name_mr": "",
+    "code": "566167",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566007",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Navedar",
+    "name_mr": "",
+    "code": "566007",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566171",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Yelawan",
+    "name_mr": "",
+    "code": "566171",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566168",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tiware",
+    "name_mr": "",
+    "code": "566168",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566208",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dhamanpe",
+    "name_mr": "",
+    "code": "566208",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566000",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Benagiwadi",
+    "name_mr": "",
+    "code": "566000",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566004",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Rundhe",
+    "name_mr": "",
+    "code": "566004",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566177",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pendkhale",
+    "name_mr": "",
+    "code": "566177",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566178",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chipatewadi",
+    "name_mr": "",
+    "code": "566178",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566125",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bhoo",
+    "name_mr": "",
+    "code": "566125",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-565997",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Avali Chiwadi",
+    "name_mr": "",
+    "code": "565997",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566203",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Karak",
+    "name_mr": "",
+    "code": "566203",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566179",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shedekarwadi",
+    "name_mr": "",
+    "code": "566179",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566128",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kotapur",
+    "name_mr": "",
+    "code": "566128",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566011",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khalchi Bhandarwadi",
+    "name_mr": "",
+    "code": "566011",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566126",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khadakvali",
+    "name_mr": "",
+    "code": "566126",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566181",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Oni",
+    "name_mr": "",
+    "code": "566181",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566207",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Haral",
+    "name_mr": "",
+    "code": "566207",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566003",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bhalavali",
+    "name_mr": "",
+    "code": "566003",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566173",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Gorulewadi",
+    "name_mr": "",
+    "code": "566173",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566172",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kolwankhadi",
+    "name_mr": "",
+    "code": "566172",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566205",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Patkarwadi",
+    "name_mr": "",
+    "code": "566205",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566010",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pishedwadi",
+    "name_mr": "",
+    "code": "566010",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566180",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondivale",
+    "name_mr": "",
+    "code": "566180",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566174",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kasarwadi",
+    "name_mr": "",
+    "code": "566174",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566135",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kharavate",
+    "name_mr": "",
+    "code": "566135",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566005",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadapeth",
+    "name_mr": "",
+    "code": "566005",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566185",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Saundal",
+    "name_mr": "",
+    "code": "566185",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566008",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kalakawadi",
+    "name_mr": "",
+    "code": "566008",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566016",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadavetye",
+    "name_mr": "",
+    "code": "566016",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566136",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Madhaliwadi",
+    "name_mr": "",
+    "code": "566136",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566001",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Varchi Guravwadi",
+    "name_mr": "",
+    "code": "566001",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566124",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khingini",
+    "name_mr": "",
+    "code": "566124",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566187",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondwadi",
+    "name_mr": "",
+    "code": "566187",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566130",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Agarewadi",
+    "name_mr": "",
+    "code": "566130",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566131",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Terwan",
+    "name_mr": "",
+    "code": "566131",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566212",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Talvade",
+    "name_mr": "",
+    "code": "566212",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566215",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Takkewadi",
+    "name_mr": "",
+    "code": "566215",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566134",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kelavade",
+    "name_mr": "",
+    "code": "566134",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566209",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Raipatan",
+    "name_mr": "",
+    "code": "566209",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566211",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pethwadi",
+    "name_mr": "",
+    "code": "566211",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566129",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ghumewadi",
+    "name_mr": "",
+    "code": "566129",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566009",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kombhe",
+    "name_mr": "",
+    "code": "566009",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566133",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kunbiwadi",
+    "name_mr": "",
+    "code": "566133",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566015",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadi Kh",
+    "name_mr": "",
+    "code": "566015",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566013",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mogare",
+    "name_mr": "",
+    "code": "566013",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566216",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bagavewadi",
+    "name_mr": "",
+    "code": "566216",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566214",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ganganwadi",
+    "name_mr": "",
+    "code": "566214",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566014",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bharade",
+    "name_mr": "",
+    "code": "566014",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566206",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bajarwadi",
+    "name_mr": "",
+    "code": "566206",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566223",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Walwad",
+    "name_mr": "",
+    "code": "566223",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566186",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "566186",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566137",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Patharde",
+    "name_mr": "",
+    "code": "566137",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566183",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Manjarewadi",
+    "name_mr": "",
+    "code": "566183",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566132",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Thoraliwadi",
+    "name_mr": "",
+    "code": "566132",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566224",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kajirda",
+    "name_mr": "",
+    "code": "566224",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566184",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Musalmanwadi (saundal)",
+    "name_mr": "",
+    "code": "566184",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566143",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mandavkarwadi",
+    "name_mr": "",
+    "code": "566143",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566213",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Guravwadi",
+    "name_mr": "",
+    "code": "566213",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566182",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pajavewadi",
+    "name_mr": "",
+    "code": "566182",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566012",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ambelkarwadi",
+    "name_mr": "",
+    "code": "566012",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566188",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Nerakewadi",
+    "name_mr": "",
+    "code": "566188",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566140",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dhopeshwar",
+    "name_mr": "",
+    "code": "566140",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566018",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Rajawadi",
+    "name_mr": "",
+    "code": "566018",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566193",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Musalmanwadi (paratavali)",
+    "name_mr": "",
+    "code": "566193",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566217",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Oshiwale",
+    "name_mr": "",
+    "code": "566217",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566021",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Solgaon",
+    "name_mr": "",
+    "code": "566021",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566017",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Wadativare",
+    "name_mr": "",
+    "code": "566017",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566191",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Thikan Kond",
+    "name_mr": "",
+    "code": "566191",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566189",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Gothane Doniwade",
+    "name_mr": "",
+    "code": "566189",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566225",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ranewadi",
+    "name_mr": "",
+    "code": "566225",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566194",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Adavali",
+    "name_mr": "",
+    "code": "566194",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566195",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "566195",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566139",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Barsu",
+    "name_mr": "",
+    "code": "566139",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566142",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kodavali",
+    "name_mr": "",
+    "code": "566142",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566192",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Paratvali",
+    "name_mr": "",
+    "code": "566192",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566141",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Hardi",
+    "name_mr": "",
+    "code": "566141",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566219",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tamhane",
+    "name_mr": "",
+    "code": "566219",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566019",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Panere",
+    "name_mr": "",
+    "code": "566019",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566144",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Taralwadi",
+    "name_mr": "",
+    "code": "566144",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566220",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shendewadi",
+    "name_mr": "",
+    "code": "566220",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566218",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Jambhulwadi",
+    "name_mr": "",
+    "code": "566218",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566095",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Phupere",
+    "name_mr": "",
+    "code": "566095",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566222",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Moor",
+    "name_mr": "",
+    "code": "566222",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566145",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sheel",
+    "name_mr": "",
+    "code": "566145",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566190",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Hatankarwadi",
+    "name_mr": "",
+    "code": "566190",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566020",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bhabalewadi",
+    "name_mr": "",
+    "code": "566020",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566094",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Angale",
+    "name_mr": "",
+    "code": "566094",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566197",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tulsavade",
+    "name_mr": "",
+    "code": "566197",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566024",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pokalewadi",
+    "name_mr": "",
+    "code": "566024",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566048",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bhandar Sakhari",
+    "name_mr": "",
+    "code": "566048",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566099",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mahalunge",
+    "name_mr": "",
+    "code": "566099",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566085",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shengalwadi",
+    "name_mr": "",
+    "code": "566085",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566057",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mirgulewadi",
+    "name_mr": "",
+    "code": "566057",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566052",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Varilwadi",
+    "name_mr": "",
+    "code": "566052",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566102",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khal Chiwadi",
+    "name_mr": "",
+    "code": "566102",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566055",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Karel",
+    "name_mr": "",
+    "code": "566055",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566138",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tithavali",
+    "name_mr": "",
+    "code": "566138",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566026",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Nate",
+    "name_mr": "",
+    "code": "566026",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566221",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chikhalwadi",
+    "name_mr": "",
+    "code": "566221",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566228",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Miland",
+    "name_mr": "",
+    "code": "566228",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566227",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kolamb",
+    "name_mr": "",
+    "code": "566227",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566022",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dhaulvali",
+    "name_mr": "",
+    "code": "566022",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566198",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Solivade",
+    "name_mr": "",
+    "code": "566198",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-251608",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Rajapur (M Cl)",
+    "name_mr": "",
+    "code": "251608",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566196",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Jambhavali",
+    "name_mr": "",
+    "code": "566196",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566229",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pahiliwadi (tamhane)",
+    "name_mr": "",
+    "code": "566229",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566025",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bharadin",
+    "name_mr": "",
+    "code": "566025",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566226",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Varchiwadi",
+    "name_mr": "",
+    "code": "566226",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566230",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Savadav",
+    "name_mr": "",
+    "code": "566230",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566096",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Solye",
+    "name_mr": "",
+    "code": "566096",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566150",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Panhale Tarf Rajapur",
+    "name_mr": "",
+    "code": "566150",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566232",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Jawalethar",
+    "name_mr": "",
+    "code": "566232",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566092",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Doniwade",
+    "name_mr": "",
+    "code": "566092",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566148",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondhe Tarf Rajapur",
+    "name_mr": "",
+    "code": "566148",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566093",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shembavane",
+    "name_mr": "",
+    "code": "566093",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566027",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ambolgad",
+    "name_mr": "",
+    "code": "566027",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566023",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dasurewadi",
+    "name_mr": "",
+    "code": "566023",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566147",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Unhale",
+    "name_mr": "",
+    "code": "566147",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566146",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kaneriwadi",
+    "name_mr": "",
+    "code": "566146",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566097",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sasale",
+    "name_mr": "",
+    "code": "566097",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566151",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Varachiwadi (goval)",
+    "name_mr": "",
+    "code": "566151",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566036",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Devache Gothane",
+    "name_mr": "",
+    "code": "566036",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566105",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Gaonkarwadi",
+    "name_mr": "",
+    "code": "566105",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566107",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Moroshi",
+    "name_mr": "",
+    "code": "566107",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566231",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Hatade",
+    "name_mr": "",
+    "code": "566231",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566030",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sakhari Nate",
+    "name_mr": "",
+    "code": "566030",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566106",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondvashiwadi",
+    "name_mr": "",
+    "code": "566106",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566104",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Nikharewadi",
+    "name_mr": "",
+    "code": "566104",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566103",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Hasol Tarf Saundal",
+    "name_mr": "",
+    "code": "566103",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566028",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Yashavantgad",
+    "name_mr": "",
+    "code": "566028",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566154",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shedhe",
+    "name_mr": "",
+    "code": "566154",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566098",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Pangari Bk.",
+    "name_mr": "",
+    "code": "566098",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566029",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bandhawadi",
+    "name_mr": "",
+    "code": "566029",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566042",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Agarwadi",
+    "name_mr": "",
+    "code": "566042",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566040",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Juve Jaitapur",
+    "name_mr": "",
+    "code": "566040",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566039",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bajarwadi",
+    "name_mr": "",
+    "code": "566039",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566037",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chavhatawadi",
+    "name_mr": "",
+    "code": "566037",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566046",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "566046",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566149",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bag Kazi Husen",
+    "name_mr": "",
+    "code": "566149",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566038",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Anantwadi",
+    "name_mr": "",
+    "code": "566038",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566156",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Khalchiwadi",
+    "name_mr": "",
+    "code": "566156",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566031",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Keravale",
+    "name_mr": "",
+    "code": "566031",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566041",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dale",
+    "name_mr": "",
+    "code": "566041",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566152",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bag Abdul Kadir",
+    "name_mr": "",
+    "code": "566152",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566043",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Holi",
+    "name_mr": "",
+    "code": "566043",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566109",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kelavali",
+    "name_mr": "",
+    "code": "566109",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566157",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shivane Kh",
+    "name_mr": "",
+    "code": "566157",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566033",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Rautwadi",
+    "name_mr": "",
+    "code": "566033",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566091",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Hativale",
+    "name_mr": "",
+    "code": "566091",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566090",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Vikhare Gothane",
+    "name_mr": "",
+    "code": "566090",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566155",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Goval",
+    "name_mr": "",
+    "code": "566155",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566045",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tulsundewadi (kuveshi)",
+    "name_mr": "",
+    "code": "566045",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566047",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kuveshi",
+    "name_mr": "",
+    "code": "566047",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566087",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dongar",
+    "name_mr": "",
+    "code": "566087",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566112",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Kondye Tarf Saundal",
+    "name_mr": "",
+    "code": "566112",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566089",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Musalmanwadi",
+    "name_mr": "",
+    "code": "566089",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566111",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Talgaon",
+    "name_mr": "",
+    "code": "566111",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566051",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Madban",
+    "name_mr": "",
+    "code": "566051",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566086",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Vilye",
+    "name_mr": "",
+    "code": "566086",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566044",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tulsundewadi (holi)",
+    "name_mr": "",
+    "code": "566044",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566049",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Waghran",
+    "name_mr": "",
+    "code": "566049",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566110",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mosam",
+    "name_mr": "",
+    "code": "566110",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566064",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Mithgavane",
+    "name_mr": "",
+    "code": "566064",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566058",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Thukrulwadi",
+    "name_mr": "",
+    "code": "566058",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566101",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Juvathi",
+    "name_mr": "",
+    "code": "566101",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566056",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chavhanwadi",
+    "name_mr": "",
+    "code": "566056",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566114",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Panhale Tarf Saundal",
+    "name_mr": "",
+    "code": "566114",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566053",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Tivarambi",
+    "name_mr": "",
+    "code": "566053",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566050",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Bakale",
+    "name_mr": "",
+    "code": "566050",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566100",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Karshingewadi",
+    "name_mr": "",
+    "code": "566100",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566063",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Ansure",
+    "name_mr": "",
+    "code": "566063",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566062",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Hurse",
+    "name_mr": "",
+    "code": "566062",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566116",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shejavali",
+    "name_mr": "",
+    "code": "566116",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566117",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Valye",
+    "name_mr": "",
+    "code": "566117",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566065",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Dandewadi",
+    "name_mr": "",
+    "code": "566065",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566072",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Chauke",
+    "name_mr": "",
+    "code": "566072",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566069",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Gothivare",
+    "name_mr": "",
+    "code": "566069",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566073",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Taral",
+    "name_mr": "",
+    "code": "566073",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566068",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Karivane",
+    "name_mr": "",
+    "code": "566068",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566120",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Upale",
+    "name_mr": "",
+    "code": "566120",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566070",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Nanar",
+    "name_mr": "",
+    "code": "566070",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566119",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Prindrawan",
+    "name_mr": "",
+    "code": "566119",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566066",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Shirse (sagave)",
+    "name_mr": "",
+    "code": "566066",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566108",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Math Kh",
+    "name_mr": "",
+    "code": "566108",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566075",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Harichiwadi",
+    "name_mr": "",
+    "code": "566075",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566076",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Babulwadi",
+    "name_mr": "",
+    "code": "566076",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-566081",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Jambhari(sagave)",
+    "name_mr": "",
+    "code": "566081",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  },
+  {
+    "village_id": "v-945107",
+    "district_id": "ratnagiri",
+    "taluka_id": "rajapur",
+    "name_en": "Sagave Kh",
+    "name_mr": "",
+    "code": "945107",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/rajapur.geojson"
+  }
+]

@@ -1,0 +1,1091 @@
+[
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539702",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Fulnar",
+    "name_mr": "",
+    "code": "539702",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539698",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Tumarkondi",
+    "name_mr": "",
+    "code": "539698",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539699",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Murubhusi",
+    "name_mr": "",
+    "code": "539699",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539697",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Toynar",
+    "name_mr": "",
+    "code": "539697",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539700",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Korparsi",
+    "name_mr": "",
+    "code": "539700",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539703",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Markanar",
+    "name_mr": "",
+    "code": "539703",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539695",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Badsi (M)",
+    "name_mr": "",
+    "code": "539695",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539696",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kothi S",
+    "name_mr": "",
+    "code": "539696",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539693",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Muttenkuni",
+    "name_mr": "",
+    "code": "539693",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539694",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kumhur",
+    "name_mr": "",
+    "code": "539694",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539704",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gundurwahi",
+    "name_mr": "",
+    "code": "539704",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539692",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Padhur (S)",
+    "name_mr": "",
+    "code": "539692",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539716",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Pidmili",
+    "name_mr": "",
+    "code": "539716",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539708",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Fodewada (M)",
+    "name_mr": "",
+    "code": "539708",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539714",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Poyarkothi",
+    "name_mr": "",
+    "code": "539714",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539691",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kucher (M)",
+    "name_mr": "",
+    "code": "539691",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539709",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Turremarka M",
+    "name_mr": "",
+    "code": "539709",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539689",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Mardahur",
+    "name_mr": "",
+    "code": "539689",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539710",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Parmalbhatti",
+    "name_mr": "",
+    "code": "539710",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539718",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Nargunda M",
+    "name_mr": "",
+    "code": "539718",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539690",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Khandinenda Wadi",
+    "name_mr": "",
+    "code": "539690",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539707",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Timeli",
+    "name_mr": "",
+    "code": "539707",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539705",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Dirangi (M)",
+    "name_mr": "",
+    "code": "539705",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539715",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Dobhur",
+    "name_mr": "",
+    "code": "539715",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539688",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Visamundi",
+    "name_mr": "",
+    "code": "539688",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539687",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gundapuri",
+    "name_mr": "",
+    "code": "539687",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539706",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Moradpar",
+    "name_mr": "",
+    "code": "539706",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539717",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Mirgurwancha",
+    "name_mr": "",
+    "code": "539717",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539765",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Bangadi (M)",
+    "name_mr": "",
+    "code": "539765",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539719",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Halver",
+    "name_mr": "",
+    "code": "539719",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539712",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Halodandi (M)",
+    "name_mr": "",
+    "code": "539712",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539735",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kuwakodi",
+    "name_mr": "",
+    "code": "539735",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539737",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gundenhod",
+    "name_mr": "",
+    "code": "539737",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539721",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Katrangatta",
+    "name_mr": "",
+    "code": "539721",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539727",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Tekala",
+    "name_mr": "",
+    "code": "539727",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539731",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gopnar",
+    "name_mr": "",
+    "code": "539731",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539733",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Binagunda (M)",
+    "name_mr": "",
+    "code": "539733",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539720",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Pokur",
+    "name_mr": "",
+    "code": "539720",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539711",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Damanmarka",
+    "name_mr": "",
+    "code": "539711",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539729",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Krisnar S",
+    "name_mr": "",
+    "code": "539729",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539726",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kodape",
+    "name_mr": "",
+    "code": "539726",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539728",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kiyar (S)",
+    "name_mr": "",
+    "code": "539728",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539722",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Fundi (M)",
+    "name_mr": "",
+    "code": "539722",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539743",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Tirkameta",
+    "name_mr": "",
+    "code": "539743",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539739",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Lashkar (S)",
+    "name_mr": "",
+    "code": "539739",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539730",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Hindur (M)",
+    "name_mr": "",
+    "code": "539730",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539725",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Vengdur",
+    "name_mr": "",
+    "code": "539725",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539732",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Hodari (M)",
+    "name_mr": "",
+    "code": "539732",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539724",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Vateli (S)",
+    "name_mr": "",
+    "code": "539724",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539742",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Karampalli",
+    "name_mr": "",
+    "code": "539742",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539736",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Pungasur",
+    "name_mr": "",
+    "code": "539736",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539738",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Tadpar (M)",
+    "name_mr": "",
+    "code": "539738",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539713",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kathalasur",
+    "name_mr": "",
+    "code": "539713",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539723",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Botanfundi",
+    "name_mr": "",
+    "code": "539723",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539740",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Hitapadi (M)",
+    "name_mr": "",
+    "code": "539740",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539762",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Laheri (S)",
+    "name_mr": "",
+    "code": "539762",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539745",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kosfundi (M)",
+    "name_mr": "",
+    "code": "539745",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539759",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kukkametha",
+    "name_mr": "",
+    "code": "539759",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539744",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kumarguda",
+    "name_mr": "",
+    "code": "539744",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539741",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Arewada",
+    "name_mr": "",
+    "code": "539741",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539746",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Dudepalli",
+    "name_mr": "",
+    "code": "539746",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539758",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Ranipodur",
+    "name_mr": "",
+    "code": "539758",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539761",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Mallampodhur",
+    "name_mr": "",
+    "code": "539761",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539763",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Laheri (M)",
+    "name_mr": "",
+    "code": "539763",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539747",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kudkeli",
+    "name_mr": "",
+    "code": "539747",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-276283",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Bhamaragad (NP)",
+    "name_mr": "",
+    "code": "276283",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539764",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Muspadi",
+    "name_mr": "",
+    "code": "539764",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539760",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Hindewade (M)",
+    "name_mr": "",
+    "code": "539760",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539757",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Dhodraj",
+    "name_mr": "",
+    "code": "539757",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539766",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Murangal",
+    "name_mr": "",
+    "code": "539766",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539773",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kehakapari",
+    "name_mr": "",
+    "code": "539773",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539769",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Bhusewada (M)",
+    "name_mr": "",
+    "code": "539769",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539789",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kokapadi",
+    "name_mr": "",
+    "code": "539789",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539790",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Koyar (M)",
+    "name_mr": "",
+    "code": "539790",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539770",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Irapanar (S)",
+    "name_mr": "",
+    "code": "539770",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539772",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Golaguda",
+    "name_mr": "",
+    "code": "539772",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539779",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kedmarra (S)",
+    "name_mr": "",
+    "code": "539779",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539748",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Irakdumme (M)",
+    "name_mr": "",
+    "code": "539748",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539771",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Juwi",
+    "name_mr": "",
+    "code": "539771",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539749",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Padtampalli",
+    "name_mr": "",
+    "code": "539749",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539774",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Palli (S)",
+    "name_mr": "",
+    "code": "539774",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539768",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kucher (M)",
+    "name_mr": "",
+    "code": "539768",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539778",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kelmarra (S)",
+    "name_mr": "",
+    "code": "539778",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539780",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Mokela",
+    "name_mr": "",
+    "code": "539780",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539791",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Puswara",
+    "name_mr": "",
+    "code": "539791",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539784",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Darbha",
+    "name_mr": "",
+    "code": "539784",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539812",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Ghotpadi",
+    "name_mr": "",
+    "code": "539812",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539786",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Parainar",
+    "name_mr": "",
+    "code": "539786",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539777",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Chichoda",
+    "name_mr": "",
+    "code": "539777",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539781",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Goranur (M)",
+    "name_mr": "",
+    "code": "539781",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539776",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kasansur",
+    "name_mr": "",
+    "code": "539776",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539785",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Bodange",
+    "name_mr": "",
+    "code": "539785",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539798",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Bhatpar",
+    "name_mr": "",
+    "code": "539798",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539783",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Boriya",
+    "name_mr": "",
+    "code": "539783",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539803",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Sipanpalli",
+    "name_mr": "",
+    "code": "539803",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539787",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gongwada (S)",
+    "name_mr": "",
+    "code": "539787",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539796",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gongwada (M)",
+    "name_mr": "",
+    "code": "539796",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539775",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Zareguda (M)",
+    "name_mr": "",
+    "code": "539775",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539782",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Jijgaon",
+    "name_mr": "",
+    "code": "539782",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539797",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Nelgunda (M)",
+    "name_mr": "",
+    "code": "539797",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539811",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Malenga",
+    "name_mr": "",
+    "code": "539811",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539801",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Marampalli",
+    "name_mr": "",
+    "code": "539801",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539799",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Hitalwara",
+    "name_mr": "",
+    "code": "539799",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539802",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Madveli",
+    "name_mr": "",
+    "code": "539802",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539800",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Rela",
+    "name_mr": "",
+    "code": "539800",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539814",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gundjur",
+    "name_mr": "",
+    "code": "539814",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539810",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Midadapalli",
+    "name_mr": "",
+    "code": "539810",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539805",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Manne Rajaram",
+    "name_mr": "",
+    "code": "539805",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539804",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Parli M",
+    "name_mr": "",
+    "code": "539804",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539813",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kawande",
+    "name_mr": "",
+    "code": "539813",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539808",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Yechali S",
+    "name_mr": "",
+    "code": "539808",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539807",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Brahmanpalli",
+    "name_mr": "",
+    "code": "539807",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539806",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Jonawahi",
+    "name_mr": "",
+    "code": "539806",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539809",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Dubbagudam",
+    "name_mr": "",
+    "code": "539809",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539795",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Gardewada",
+    "name_mr": "",
+    "code": "539795",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539794",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Hikameta",
+    "name_mr": "",
+    "code": "539794",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539793",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Japeli (M)",
+    "name_mr": "",
+    "code": "539793",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539792",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Nulwara (M)",
+    "name_mr": "",
+    "code": "539792",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539788",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Garewada",
+    "name_mr": "",
+    "code": "539788",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  },
+  {
+    "village_id": "v-539767",
+    "district_id": "gadchiroli",
+    "taluka_id": "bhamragad",
+    "name_en": "Kotwara M",
+    "name_mr": "",
+    "code": "539767",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/bhamragad.geojson"
+  }
+]

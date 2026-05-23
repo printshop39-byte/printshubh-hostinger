@@ -1,0 +1,1001 @@
+[
+  {
+    "village_id": "v-550436",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Nandurtek",
+    "name_mr": "",
+    "code": "550436",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550435",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Rajderwadi",
+    "name_mr": "",
+    "code": "550435",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550433",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kheldari",
+    "name_mr": "",
+    "code": "550433",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550434",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shirur",
+    "name_mr": "",
+    "code": "550434",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550439",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Indraiwadi",
+    "name_mr": "",
+    "code": "550439",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550409",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Sherisalaiban",
+    "name_mr": "",
+    "code": "550409",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550438",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vadbare",
+    "name_mr": "",
+    "code": "550438",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550405",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Nawapur",
+    "name_mr": "",
+    "code": "550405",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550411",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kanmandale",
+    "name_mr": "",
+    "code": "550411",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550410",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kundane",
+    "name_mr": "",
+    "code": "550410",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550432",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Puri",
+    "name_mr": "",
+    "code": "550432",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550407",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "550407",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550416",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Paregaon",
+    "name_mr": "",
+    "code": "550416",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550463",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Uswad",
+    "name_mr": "",
+    "code": "550463",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550442",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Asarkhede",
+    "name_mr": "",
+    "code": "550442",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550467",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kanadgaon",
+    "name_mr": "",
+    "code": "550467",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550406",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Indira Nagar",
+    "name_mr": "",
+    "code": "550406",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550466",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vad",
+    "name_mr": "",
+    "code": "550466",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550412",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vijaynagar",
+    "name_mr": "",
+    "code": "550412",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550440",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "550440",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550413",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dhodambe",
+    "name_mr": "",
+    "code": "550413",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550417",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dudhkhede",
+    "name_mr": "",
+    "code": "550417",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550441",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Deogaon",
+    "name_mr": "",
+    "code": "550441",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550454",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "550454",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-276281",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Chandwad (M Cl)",
+    "name_mr": "",
+    "code": "276281",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550443",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "550443",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550415",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dahyane",
+    "name_mr": "",
+    "code": "550415",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550444",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shelu",
+    "name_mr": "",
+    "code": "550444",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550465",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Varadi",
+    "name_mr": "",
+    "code": "550465",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550414",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Ekrukhe",
+    "name_mr": "",
+    "code": "550414",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550425",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shinde",
+    "name_mr": "",
+    "code": "550425",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550472",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kokankhede",
+    "name_mr": "",
+    "code": "550472",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550475",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kalamdare",
+    "name_mr": "",
+    "code": "550475",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550474",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "550474",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550445",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bhutyane",
+    "name_mr": "",
+    "code": "550445",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550469",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Nimon",
+    "name_mr": "",
+    "code": "550469",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550468",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kundalgaon",
+    "name_mr": "",
+    "code": "550468",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550418",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shivare",
+    "name_mr": "",
+    "code": "550418",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550420",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Chikhalambe",
+    "name_mr": "",
+    "code": "550420",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550464",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "550464",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550422",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Jambutke",
+    "name_mr": "",
+    "code": "550422",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550477",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Harnul",
+    "name_mr": "",
+    "code": "550477",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550452",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bharvir",
+    "name_mr": "",
+    "code": "550452",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550423",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Goharan",
+    "name_mr": "",
+    "code": "550423",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550476",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Sutarkhede",
+    "name_mr": "",
+    "code": "550476",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550447",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Sogras",
+    "name_mr": "",
+    "code": "550447",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550421",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bahaduri",
+    "name_mr": "",
+    "code": "550421",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550426",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vadalibhoi",
+    "name_mr": "",
+    "code": "550426",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550473",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dugaon",
+    "name_mr": "",
+    "code": "550473",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550424",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bhayale",
+    "name_mr": "",
+    "code": "550424",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550446",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Malsane",
+    "name_mr": "",
+    "code": "550446",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550457",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Ganur",
+    "name_mr": "",
+    "code": "550457",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550419",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Borale",
+    "name_mr": "",
+    "code": "550419",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550450",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shirsane",
+    "name_mr": "",
+    "code": "550450",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550470",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "550470",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550428",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Pimpalnare",
+    "name_mr": "",
+    "code": "550428",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550471",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Mesankhede Bk.",
+    "name_mr": "",
+    "code": "550471",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550451",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Chinchole",
+    "name_mr": "",
+    "code": "550451",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550453",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Talwade",
+    "name_mr": "",
+    "code": "550453",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550427",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vadner Bhairao",
+    "name_mr": "",
+    "code": "550427",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550455",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Pathar-shembe",
+    "name_mr": "",
+    "code": "550455",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550478",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Harsul",
+    "name_mr": "",
+    "code": "550478",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550456",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Nimgavhan",
+    "name_mr": "",
+    "code": "550456",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550483",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dahegaon Manmad",
+    "name_mr": "",
+    "code": "550483",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550481",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Mesankhede Kh",
+    "name_mr": "",
+    "code": "550481",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550449",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bhatgaon",
+    "name_mr": "",
+    "code": "550449",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550482",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Shingve",
+    "name_mr": "",
+    "code": "550482",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550458",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Parsul",
+    "name_mr": "",
+    "code": "550458",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550462",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Nhanave",
+    "name_mr": "",
+    "code": "550462",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550480",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Pimpalgaon-dhabli",
+    "name_mr": "",
+    "code": "550480",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550448",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Narayangaon",
+    "name_mr": "",
+    "code": "550448",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550461",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Hivarkhede",
+    "name_mr": "",
+    "code": "550461",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550459",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Tisgaon",
+    "name_mr": "",
+    "code": "550459",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550479",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Ahirkhede",
+    "name_mr": "",
+    "code": "550479",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550486",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Raypur",
+    "name_mr": "",
+    "code": "550486",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550499",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Panhale",
+    "name_mr": "",
+    "code": "550499",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550485",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bhadane",
+    "name_mr": "",
+    "code": "550485",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550500",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Gangave",
+    "name_mr": "",
+    "code": "550500",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550431",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Khadakjamb",
+    "name_mr": "",
+    "code": "550431",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550460",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bopane",
+    "name_mr": "",
+    "code": "550460",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550494",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dighwad",
+    "name_mr": "",
+    "code": "550494",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550493",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Urdhul",
+    "name_mr": "",
+    "code": "550493",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550496",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kazisangvi",
+    "name_mr": "",
+    "code": "550496",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550491",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Jopul",
+    "name_mr": "",
+    "code": "550491",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550490",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Khadakozar",
+    "name_mr": "",
+    "code": "550490",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550484",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Wagdardi",
+    "name_mr": "",
+    "code": "550484",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550492",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Bhoyegaon",
+    "name_mr": "",
+    "code": "550492",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550498",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vitave",
+    "name_mr": "",
+    "code": "550498",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550497",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Soni Sangvi",
+    "name_mr": "",
+    "code": "550497",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550501",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Nimbale",
+    "name_mr": "",
+    "code": "550501",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550429",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dhondgavhan",
+    "name_mr": "",
+    "code": "550429",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550508",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Gurhale",
+    "name_mr": "",
+    "code": "550508",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550488",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Rapali",
+    "name_mr": "",
+    "code": "550488",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550495",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dahiwad",
+    "name_mr": "",
+    "code": "550495",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550487",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vadgaon Pangu",
+    "name_mr": "",
+    "code": "550487",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550507",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Devergaon",
+    "name_mr": "",
+    "code": "550507",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550430",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Dhotarkhede",
+    "name_mr": "",
+    "code": "550430",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550502",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Salsane",
+    "name_mr": "",
+    "code": "550502",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550504",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Pate",
+    "name_mr": "",
+    "code": "550504",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550503",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Redgaon Kh",
+    "name_mr": "",
+    "code": "550503",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550506",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "550506",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550489",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Katarwadi",
+    "name_mr": "",
+    "code": "550489",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550505",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Koltek",
+    "name_mr": "",
+    "code": "550505",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550515",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Talegaon Rohi",
+    "name_mr": "",
+    "code": "550515",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550509",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Pimplad",
+    "name_mr": "",
+    "code": "550509",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550510",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Narayankhede",
+    "name_mr": "",
+    "code": "550510",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550511",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vahegaonsal",
+    "name_mr": "",
+    "code": "550511",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550514",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Kalkhode",
+    "name_mr": "",
+    "code": "550514",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550512",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vaki Kh",
+    "name_mr": "",
+    "code": "550512",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550513",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Vaki Bk",
+    "name_mr": "",
+    "code": "550513",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  },
+  {
+    "village_id": "v-550437",
+    "district_id": "n-shik",
+    "taluka_id": "chandvad",
+    "name_en": "Rahod",
+    "name_mr": "",
+    "code": "550437",
+    "boundary_file": "/data/boundaries/villages/n-shik/chandvad.geojson"
+  }
+]

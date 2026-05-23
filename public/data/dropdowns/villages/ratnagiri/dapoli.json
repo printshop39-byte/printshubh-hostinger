@@ -1,0 +1,1595 @@
+[
+  {
+    "village_id": "v-564829",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Harnai (CT)",
+    "name_mr": "",
+    "code": "564829",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564832",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kalambat",
+    "name_mr": "",
+    "code": "564832",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564869",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pachavali",
+    "name_mr": "",
+    "code": "564869",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564831",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Waghave",
+    "name_mr": "",
+    "code": "564831",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564880",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bondivali",
+    "name_mr": "",
+    "code": "564880",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564874",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sarang",
+    "name_mr": "",
+    "code": "564874",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564839",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kadivali",
+    "name_mr": "",
+    "code": "564839",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564808",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Padale",
+    "name_mr": "",
+    "code": "564808",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564836",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pichadoli",
+    "name_mr": "",
+    "code": "564836",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564857",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Visapur",
+    "name_mr": "",
+    "code": "564857",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564810",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Lonvadi",
+    "name_mr": "",
+    "code": "564810",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564813",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Turavade",
+    "name_mr": "",
+    "code": "564813",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564858",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Visharantinagar",
+    "name_mr": "",
+    "code": "564858",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564879",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kherdi",
+    "name_mr": "",
+    "code": "564879",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564872",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Vanoshi Tarf Natu",
+    "name_mr": "",
+    "code": "564872",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564868",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mahalunge",
+    "name_mr": "",
+    "code": "564868",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564873",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pisai",
+    "name_mr": "",
+    "code": "564873",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564876",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Ambavali Kh",
+    "name_mr": "",
+    "code": "564876",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564878",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "564878",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564875",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Saldure",
+    "name_mr": "",
+    "code": "564875",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564883",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Asud",
+    "name_mr": "",
+    "code": "564883",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564799",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mandivali",
+    "name_mr": "",
+    "code": "564799",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564796",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Umbarshet",
+    "name_mr": "",
+    "code": "564796",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564797",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Rawtoli",
+    "name_mr": "",
+    "code": "564797",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564795",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kelashi",
+    "name_mr": "",
+    "code": "564795",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564798",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kawadoli",
+    "name_mr": "",
+    "code": "564798",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564801",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Wanzloli",
+    "name_mr": "",
+    "code": "564801",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564800",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kharavate",
+    "name_mr": "",
+    "code": "564800",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564803",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Atgaon",
+    "name_mr": "",
+    "code": "564803",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564833",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Virsai",
+    "name_mr": "",
+    "code": "564833",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564802",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Rowale",
+    "name_mr": "",
+    "code": "564802",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564804",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Utambar",
+    "name_mr": "",
+    "code": "564804",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564837",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kangavai",
+    "name_mr": "",
+    "code": "564837",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564852",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Soveli",
+    "name_mr": "",
+    "code": "564852",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564805",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Ambavali Bk",
+    "name_mr": "",
+    "code": "564805",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564834",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dauli",
+    "name_mr": "",
+    "code": "564834",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564806",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Malvi",
+    "name_mr": "",
+    "code": "564806",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564851",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bhatghar",
+    "name_mr": "",
+    "code": "564851",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564850",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mugij",
+    "name_mr": "",
+    "code": "564850",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564849",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Awashi",
+    "name_mr": "",
+    "code": "564849",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564853",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirsadi",
+    "name_mr": "",
+    "code": "564853",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564807",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Ade",
+    "name_mr": "",
+    "code": "564807",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564854",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dr.iqubalnagar",
+    "name_mr": "",
+    "code": "564854",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564812",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Waghivane",
+    "name_mr": "",
+    "code": "564812",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564811",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Ilane",
+    "name_mr": "",
+    "code": "564811",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564809",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "564809",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564835",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bhomadi",
+    "name_mr": "",
+    "code": "564835",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564855",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirseshwar",
+    "name_mr": "",
+    "code": "564855",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564844",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kudavale",
+    "name_mr": "",
+    "code": "564844",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564859",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Satere Tarf Natu",
+    "name_mr": "",
+    "code": "564859",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564860",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Jamge",
+    "name_mr": "",
+    "code": "564860",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564838",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kalanagar",
+    "name_mr": "",
+    "code": "564838",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564814",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Chandivane",
+    "name_mr": "",
+    "code": "564814",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564848",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Tangar",
+    "name_mr": "",
+    "code": "564848",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564816",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sukondi",
+    "name_mr": "",
+    "code": "564816",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564819",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Anjarla",
+    "name_mr": "",
+    "code": "564819",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564856",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirsoli",
+    "name_mr": "",
+    "code": "564856",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564840",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Velvi",
+    "name_mr": "",
+    "code": "564840",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564817",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Borthal",
+    "name_mr": "",
+    "code": "564817",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564815",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dehen",
+    "name_mr": "",
+    "code": "564815",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564818",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Tadachakond",
+    "name_mr": "",
+    "code": "564818",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564861",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Samsher Ali Nagar",
+    "name_mr": "",
+    "code": "564861",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564822",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "564822",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564862",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Chinchali",
+    "name_mr": "",
+    "code": "564862",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564841",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Revali",
+    "name_mr": "",
+    "code": "564841",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564847",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Ganpatipule",
+    "name_mr": "",
+    "code": "564847",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564843",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dhankoli",
+    "name_mr": "",
+    "code": "564843",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564820",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Murdi",
+    "name_mr": "",
+    "code": "564820",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564821",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Satamba",
+    "name_mr": "",
+    "code": "564821",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564863",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirkenagar",
+    "name_mr": "",
+    "code": "564863",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564865",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Hatip",
+    "name_mr": "",
+    "code": "564865",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564864",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirkhal",
+    "name_mr": "",
+    "code": "564864",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564826",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kongle",
+    "name_mr": "",
+    "code": "564826",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564842",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sakurde",
+    "name_mr": "",
+    "code": "564842",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564823",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dalkhan",
+    "name_mr": "",
+    "code": "564823",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564827",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Juikar Mohalla",
+    "name_mr": "",
+    "code": "564827",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564825",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Tadil",
+    "name_mr": "",
+    "code": "564825",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564828",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pandhari",
+    "name_mr": "",
+    "code": "564828",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564871",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Palgad",
+    "name_mr": "",
+    "code": "564871",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564846",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Matwan",
+    "name_mr": "",
+    "code": "564846",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564866",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Wadavali",
+    "name_mr": "",
+    "code": "564866",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564867",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Nawanagar",
+    "name_mr": "",
+    "code": "564867",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564845",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bhanghar",
+    "name_mr": "",
+    "code": "564845",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564830",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Adkhal",
+    "name_mr": "",
+    "code": "564830",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564824",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bandhativare",
+    "name_mr": "",
+    "code": "564824",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564870",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sondeghar",
+    "name_mr": "",
+    "code": "564870",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564881",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Karanjani",
+    "name_mr": "",
+    "code": "564881",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564877",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Vanand",
+    "name_mr": "",
+    "code": "564877",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564884",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Murud",
+    "name_mr": "",
+    "code": "564884",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564882",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mauje Dapoli",
+    "name_mr": "",
+    "code": "564882",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564968",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Gimhavane (CT)",
+    "name_mr": "",
+    "code": "564968",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564937",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Navashi",
+    "name_mr": "",
+    "code": "564937",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564938",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirshinge",
+    "name_mr": "",
+    "code": "564938",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564935",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Talsure",
+    "name_mr": "",
+    "code": "564935",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564936",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Nargoli",
+    "name_mr": "",
+    "code": "564936",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564885",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Karde",
+    "name_mr": "",
+    "code": "564885",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-251599",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dapoli Camp (NP)",
+    "name_mr": "",
+    "code": "251599",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564939",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Wakavali",
+    "name_mr": "",
+    "code": "564939",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564940",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kumbhave",
+    "name_mr": "",
+    "code": "564940",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564887",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Brahmanwadi",
+    "name_mr": "",
+    "code": "564887",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564886",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Chandranagar",
+    "name_mr": "",
+    "code": "564886",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564945",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sakhaloli",
+    "name_mr": "",
+    "code": "564945",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564969",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Jalgaon (CT)",
+    "name_mr": "",
+    "code": "564969",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564888",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Gavhe",
+    "name_mr": "",
+    "code": "564888",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564941",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Apti",
+    "name_mr": "",
+    "code": "564941",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564946",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Inampangari",
+    "name_mr": "",
+    "code": "564946",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564942",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Borghar",
+    "name_mr": "",
+    "code": "564942",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564947",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Tetavali",
+    "name_mr": "",
+    "code": "564947",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564889",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Ladghar",
+    "name_mr": "",
+    "code": "564889",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564898",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Walane",
+    "name_mr": "",
+    "code": "564898",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564943",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shirde",
+    "name_mr": "",
+    "code": "564943",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564944",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sadave",
+    "name_mr": "",
+    "code": "564944",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564899",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Nigade",
+    "name_mr": "",
+    "code": "564899",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564948",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "564948",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564890",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Tamastirth",
+    "name_mr": "",
+    "code": "564890",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564891",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Karajgaon",
+    "name_mr": "",
+    "code": "564891",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564903",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sadavali",
+    "name_mr": "",
+    "code": "564903",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564900",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kinhal",
+    "name_mr": "",
+    "code": "564900",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564902",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Umbarle",
+    "name_mr": "",
+    "code": "564902",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564951",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Gaontale",
+    "name_mr": "",
+    "code": "564951",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564893",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Burondi",
+    "name_mr": "",
+    "code": "564893",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564950",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shiwnari",
+    "name_mr": "",
+    "code": "564950",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564901",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Olgaon",
+    "name_mr": "",
+    "code": "564901",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564894",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Teleshwarnagar",
+    "name_mr": "",
+    "code": "564894",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564949",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kolbandre",
+    "name_mr": "",
+    "code": "564949",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564904",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Terevayangani",
+    "name_mr": "",
+    "code": "564904",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564952",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Rukhi",
+    "name_mr": "",
+    "code": "564952",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564892",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Devke",
+    "name_mr": "",
+    "code": "564892",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564895",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shital Nagar",
+    "name_mr": "",
+    "code": "564895",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564896",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mahamaynagar",
+    "name_mr": "",
+    "code": "564896",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564953",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Asond",
+    "name_mr": "",
+    "code": "564953",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564905",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Nante",
+    "name_mr": "",
+    "code": "564905",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564906",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "564906",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564897",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Chandikanagar",
+    "name_mr": "",
+    "code": "564897",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564956",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kondhye",
+    "name_mr": "",
+    "code": "564956",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564957",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pophalwane",
+    "name_mr": "",
+    "code": "564957",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564914",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Gavrai",
+    "name_mr": "",
+    "code": "564914",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564954",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Urphi",
+    "name_mr": "",
+    "code": "564954",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564913",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mathegujar",
+    "name_mr": "",
+    "code": "564913",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564912",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Mele",
+    "name_mr": "",
+    "code": "564912",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564907",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kolthare",
+    "name_mr": "",
+    "code": "564907",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564955",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Phansu",
+    "name_mr": "",
+    "code": "564955",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564916",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kalki",
+    "name_mr": "",
+    "code": "564916",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564958",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Karanjali",
+    "name_mr": "",
+    "code": "564958",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564915",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Panhale Kazi",
+    "name_mr": "",
+    "code": "564915",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564959",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "564959",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564911",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Borivali",
+    "name_mr": "",
+    "code": "564911",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564927",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Shiravane",
+    "name_mr": "",
+    "code": "564927",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564909",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Panchanadi",
+    "name_mr": "",
+    "code": "564909",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564917",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Agarvayangani",
+    "name_mr": "",
+    "code": "564917",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564961",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Katran",
+    "name_mr": "",
+    "code": "564961",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564925",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Satere Tarf Haveli",
+    "name_mr": "",
+    "code": "564925",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564910",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dumdeo",
+    "name_mr": "",
+    "code": "564910",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564918",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Vanoshi Tarf Panchanadi",
+    "name_mr": "",
+    "code": "564918",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564928",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dabhil",
+    "name_mr": "",
+    "code": "564928",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564960",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pavnal",
+    "name_mr": "",
+    "code": "564960",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564926",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Kelil",
+    "name_mr": "",
+    "code": "564926",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564908",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Aghari",
+    "name_mr": "",
+    "code": "564908",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564931",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bhopan",
+    "name_mr": "",
+    "code": "564931",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564962",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Unhavare",
+    "name_mr": "",
+    "code": "564962",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564929",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pangari Tarf Haveli",
+    "name_mr": "",
+    "code": "564929",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564964",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Tamond",
+    "name_mr": "",
+    "code": "564964",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564924",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Onanvase",
+    "name_mr": "",
+    "code": "564924",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564963",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Damame",
+    "name_mr": "",
+    "code": "564963",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564919",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Usgaon",
+    "name_mr": "",
+    "code": "564919",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564966",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Wavghar",
+    "name_mr": "",
+    "code": "564966",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564920",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Derde",
+    "name_mr": "",
+    "code": "564920",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564930",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Sahilnagar",
+    "name_mr": "",
+    "code": "564930",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564970",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Dabhol (CT)",
+    "name_mr": "",
+    "code": "564970",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564932",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Panderi",
+    "name_mr": "",
+    "code": "564932",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564934",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Gudaghe",
+    "name_mr": "",
+    "code": "564934",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564921",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Navase",
+    "name_mr": "",
+    "code": "564921",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564967",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Pharare",
+    "name_mr": "",
+    "code": "564967",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564965",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bhadavale",
+    "name_mr": "",
+    "code": "564965",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564922",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Bhati",
+    "name_mr": "",
+    "code": "564922",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564923",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Oni",
+    "name_mr": "",
+    "code": "564923",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  },
+  {
+    "village_id": "v-564933",
+    "district_id": "ratnagiri",
+    "taluka_id": "dapoli",
+    "name_en": "Umbarghar",
+    "name_mr": "",
+    "code": "564933",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/dapoli.geojson"
+  }
+]

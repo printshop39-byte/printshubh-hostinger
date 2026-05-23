@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-545087",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Bamni Bk.",
+    "name_mr": "",
+    "code": "545087",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545084",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Bijur",
+    "name_mr": "",
+    "code": "545084",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545061",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Karla Bk.",
+    "name_mr": "",
+    "code": "545061",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545090",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kamras Palli",
+    "name_mr": "",
+    "code": "545090",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545089",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kerur",
+    "name_mr": "",
+    "code": "545089",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545063",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Bolegaon",
+    "name_mr": "",
+    "code": "545063",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545064",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Sagroli",
+    "name_mr": "",
+    "code": "545064",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545065",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Hingani",
+    "name_mr": "",
+    "code": "545065",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545066",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Daryapur",
+    "name_mr": "",
+    "code": "545066",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545091",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Chitmogra",
+    "name_mr": "",
+    "code": "545091",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545062",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Yesgi",
+    "name_mr": "",
+    "code": "545062",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545093",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Alandi",
+    "name_mr": "",
+    "code": "545093",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545068",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Minki",
+    "name_mr": "",
+    "code": "545068",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545096",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Adampur",
+    "name_mr": "",
+    "code": "545096",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545013",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kolgaon",
+    "name_mr": "",
+    "code": "545013",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545010",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Dugaon",
+    "name_mr": "",
+    "code": "545010",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545012",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Harnala",
+    "name_mr": "",
+    "code": "545012",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545011",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Torna",
+    "name_mr": "",
+    "code": "545011",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545014",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Khaprala",
+    "name_mr": "",
+    "code": "545014",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545017",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Gujri",
+    "name_mr": "",
+    "code": "545017",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545016",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kangathi",
+    "name_mr": "",
+    "code": "545016",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545038",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Chirli",
+    "name_mr": "",
+    "code": "545038",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545058",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kotgyal",
+    "name_mr": "",
+    "code": "545058",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545083",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Ramtirth",
+    "name_mr": "",
+    "code": "545083",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545082",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Dongaon Bk.",
+    "name_mr": "",
+    "code": "545082",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545025",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Devapur (D)",
+    "name_mr": "",
+    "code": "545025",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545057",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Bavalgaon",
+    "name_mr": "",
+    "code": "545057",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545052",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Pokharni",
+    "name_mr": "",
+    "code": "545052",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545059",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Ganjgaon",
+    "name_mr": "",
+    "code": "545059",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545086",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Rudrapur",
+    "name_mr": "",
+    "code": "545086",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545060",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Vajiyabad",
+    "name_mr": "",
+    "code": "545060",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545056",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Karla Kh.",
+    "name_mr": "",
+    "code": "545056",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545054",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Laghul",
+    "name_mr": "",
+    "code": "545054",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545085",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "545085",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545055",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Babhali (A)",
+    "name_mr": "",
+    "code": "545055",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545053",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Badur",
+    "name_mr": "",
+    "code": "545053",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545088",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Ajani",
+    "name_mr": "",
+    "code": "545088",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545067",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Muthyal",
+    "name_mr": "",
+    "code": "545067",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545092",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Borgaon Thadi",
+    "name_mr": "",
+    "code": "545092",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545094",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Atkali",
+    "name_mr": "",
+    "code": "545094",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545069",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Jalalapur (D)",
+    "name_mr": "",
+    "code": "545069",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545070",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Shimpala",
+    "name_mr": "",
+    "code": "545070",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545095",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Takli Kh",
+    "name_mr": "",
+    "code": "545095",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545040",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "545040",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545015",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kumbhargaon",
+    "name_mr": "",
+    "code": "545015",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545039",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Takli Thadi",
+    "name_mr": "",
+    "code": "545039",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545019",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Arli",
+    "name_mr": "",
+    "code": "545019",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545018",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kautha",
+    "name_mr": "",
+    "code": "545018",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545021",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Gaglegaon",
+    "name_mr": "",
+    "code": "545021",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545020",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Belkoni Kh.",
+    "name_mr": "",
+    "code": "545020",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545041",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Hajjapur",
+    "name_mr": "",
+    "code": "545041",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545032",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Daur",
+    "name_mr": "",
+    "code": "545032",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545043",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Karhal",
+    "name_mr": "",
+    "code": "545043",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545044",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Azizabad (D)",
+    "name_mr": "",
+    "code": "545044",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-251405",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kundalwadi (M Cl)",
+    "name_mr": "",
+    "code": "251405",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545045",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Hungunda",
+    "name_mr": "",
+    "code": "545045",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545076",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Lohgaon",
+    "name_mr": "",
+    "code": "545076",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545027",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Belkoni Bk",
+    "name_mr": "",
+    "code": "545027",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545048",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Malkapur (D)",
+    "name_mr": "",
+    "code": "545048",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545031",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "545031",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545042",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "545042",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545022",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kolheborgaon",
+    "name_mr": "",
+    "code": "545022",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545034",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kondalapur",
+    "name_mr": "",
+    "code": "545034",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545035",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Nagyapur",
+    "name_mr": "",
+    "code": "545035",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545033",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Ainapur (D)",
+    "name_mr": "",
+    "code": "545033",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545028",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Bhosi",
+    "name_mr": "",
+    "code": "545028",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545080",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "545080",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545046",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Nagani",
+    "name_mr": "",
+    "code": "545046",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545047",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Harnali",
+    "name_mr": "",
+    "code": "545047",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545081",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Pachpimpali",
+    "name_mr": "",
+    "code": "545081",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545030",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Lingapur",
+    "name_mr": "",
+    "code": "545030",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545026",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kasrali",
+    "name_mr": "",
+    "code": "545026",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545036",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Arjapur",
+    "name_mr": "",
+    "code": "545036",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-251406",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Biloli (M Cl)",
+    "name_mr": "",
+    "code": "251406",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545049",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Daulapur",
+    "name_mr": "",
+    "code": "545049",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545077",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Hippar Gamal",
+    "name_mr": "",
+    "code": "545077",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545023",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Rampur (M)",
+    "name_mr": "",
+    "code": "545023",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545050",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Machnur",
+    "name_mr": "",
+    "code": "545050",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545079",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Jigla",
+    "name_mr": "",
+    "code": "545079",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545078",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kinala",
+    "name_mr": "",
+    "code": "545078",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545037",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "545037",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545029",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Dagdapur",
+    "name_mr": "",
+    "code": "545029",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545051",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Chinchala",
+    "name_mr": "",
+    "code": "545051",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545024",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Mukhed",
+    "name_mr": "",
+    "code": "545024",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545072",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Daulatpur",
+    "name_mr": "",
+    "code": "545072",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545097",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Thadisawali",
+    "name_mr": "",
+    "code": "545097",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545071",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Hipparga Thadi",
+    "name_mr": "",
+    "code": "545071",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545074",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Kesrali",
+    "name_mr": "",
+    "code": "545074",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545075",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Khatgaon",
+    "name_mr": "",
+    "code": "545075",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545098",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "545098",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  },
+  {
+    "village_id": "v-545073",
+    "district_id": "n-nded",
+    "taluka_id": "biloli",
+    "name_en": "Rampur Thadi",
+    "name_mr": "",
+    "code": "545073",
+    "boundary_file": "/data/boundaries/villages/n-nded/biloli.geojson"
+  }
+]

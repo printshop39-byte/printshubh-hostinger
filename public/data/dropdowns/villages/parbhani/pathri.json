@@ -1,0 +1,515 @@
+[
+  {
+    "village_id": "v-546868",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "546868",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546870",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Renakhali",
+    "name_mr": "",
+    "code": "546870",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546869",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Kinhola Kh.",
+    "name_mr": "",
+    "code": "546869",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546871",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Devegaon",
+    "name_mr": "",
+    "code": "546871",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546879",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Warkheda",
+    "name_mr": "",
+    "code": "546879",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546881",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Kasapuri",
+    "name_mr": "",
+    "code": "546881",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546880",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Pathargavhan Kh.",
+    "name_mr": "",
+    "code": "546880",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546872",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Simurgavhan",
+    "name_mr": "",
+    "code": "546872",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546873",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "546873",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546878",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Hadgaon Bk.",
+    "name_mr": "",
+    "code": "546878",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546874",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Borgavhan",
+    "name_mr": "",
+    "code": "546874",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546882",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Jawala Zute",
+    "name_mr": "",
+    "code": "546882",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546877",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Vadi",
+    "name_mr": "",
+    "code": "546877",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546887",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Pathargavhan Bk.",
+    "name_mr": "",
+    "code": "546887",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546876",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Sarola Kh.",
+    "name_mr": "",
+    "code": "546876",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546875",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Khedula",
+    "name_mr": "",
+    "code": "546875",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546894",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Devnandra",
+    "name_mr": "",
+    "code": "546894",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546888",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Gopegaon",
+    "name_mr": "",
+    "code": "546888",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546893",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Bandar Wada",
+    "name_mr": "",
+    "code": "546893",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546892",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Kherda",
+    "name_mr": "",
+    "code": "546892",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546886",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Mardasgaon",
+    "name_mr": "",
+    "code": "546886",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546883",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Nathara",
+    "name_mr": "",
+    "code": "546883",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546889",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Patoda Ganga Kinara",
+    "name_mr": "",
+    "code": "546889",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546884",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Manjarath",
+    "name_mr": "",
+    "code": "546884",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546885",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Banegaon",
+    "name_mr": "",
+    "code": "546885",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546895",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Pohe Takli",
+    "name_mr": "",
+    "code": "546895",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546891",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Rampuri Kh.",
+    "name_mr": "",
+    "code": "546891",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546890",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Niwali",
+    "name_mr": "",
+    "code": "546890",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-251418",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Pathri (M Cl)",
+    "name_mr": "",
+    "code": "251418",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546896",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Renapur",
+    "name_mr": "",
+    "code": "546896",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546897",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Babultar",
+    "name_mr": "",
+    "code": "546897",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546898",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Jaitapur Wadi",
+    "name_mr": "",
+    "code": "546898",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546899",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Tura",
+    "name_mr": "",
+    "code": "546899",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546900",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Dhalegaon",
+    "name_mr": "",
+    "code": "546900",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546901",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Masala Tanda",
+    "name_mr": "",
+    "code": "546901",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546902",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Masla Kh.",
+    "name_mr": "",
+    "code": "546902",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546904",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Takalgavhan Tanda (N.V.)",
+    "name_mr": "",
+    "code": "546904",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546905",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Takalgavhan",
+    "name_mr": "",
+    "code": "546905",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546909",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Loni Bk.",
+    "name_mr": "",
+    "code": "546909",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546903",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Gunj Kh.",
+    "name_mr": "",
+    "code": "546903",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546908",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "546908",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546920",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Waghala",
+    "name_mr": "",
+    "code": "546920",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546910",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Goundgaon",
+    "name_mr": "",
+    "code": "546910",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546913",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Kansur",
+    "name_mr": "",
+    "code": "546913",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546912",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Umara",
+    "name_mr": "",
+    "code": "546912",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546911",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Andhapuri",
+    "name_mr": "",
+    "code": "546911",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546914",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Kansoor Tanda (N.V.)",
+    "name_mr": "",
+    "code": "546914",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546917",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Limba",
+    "name_mr": "",
+    "code": "546917",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546918",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Phularwadi",
+    "name_mr": "",
+    "code": "546918",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546921",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Mudgal",
+    "name_mr": "",
+    "code": "546921",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546915",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Daku Pimpri",
+    "name_mr": "",
+    "code": "546915",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546916",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Tarugavhan",
+    "name_mr": "",
+    "code": "546916",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546919",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Limba Tanda",
+    "name_mr": "",
+    "code": "546919",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546922",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Vita Bk.",
+    "name_mr": "",
+    "code": "546922",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546923",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Anandnagar (vitatanda)",
+    "name_mr": "",
+    "code": "546923",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546906",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Sarola Bk.",
+    "name_mr": "",
+    "code": "546906",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  },
+  {
+    "village_id": "v-546907",
+    "district_id": "parbhani",
+    "taluka_id": "pathri",
+    "name_en": "Chate Pimpalgaon",
+    "name_mr": "",
+    "code": "546907",
+    "boundary_file": "/data/boundaries/villages/parbhani/pathri.geojson"
+  }
+]

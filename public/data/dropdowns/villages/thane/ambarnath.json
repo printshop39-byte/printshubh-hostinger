@@ -1,0 +1,641 @@
+[
+  {
+    "village_id": "v-553075",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chinchavali",
+    "name_mr": "",
+    "code": "553075",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553077",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Goregaon",
+    "name_mr": "",
+    "code": "553077",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553081",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Dhavale",
+    "name_mr": "",
+    "code": "553081",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553080",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Done",
+    "name_mr": "",
+    "code": "553080",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553083",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Vangani (CT)",
+    "name_mr": "",
+    "code": "553083",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553027",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Asode",
+    "name_mr": "",
+    "code": "553027",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553079",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Karav",
+    "name_mr": "",
+    "code": "553079",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553072",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Tan",
+    "name_mr": "",
+    "code": "553072",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553073",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Khuntavali",
+    "name_mr": "",
+    "code": "553073",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553078",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kudsavare",
+    "name_mr": "",
+    "code": "553078",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553074",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Bendshil",
+    "name_mr": "",
+    "code": "553074",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-251485",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Ambarnath (M CI)",
+    "name_mr": "",
+    "code": "251485",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553055",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Pimploli",
+    "name_mr": "",
+    "code": "553055",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-251486",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Badlapur (M CI)",
+    "name_mr": "",
+    "code": "251486",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553052",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Umbroli",
+    "name_mr": "",
+    "code": "553052",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553053",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Asnoli",
+    "name_mr": "",
+    "code": "553053",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553007",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Nevali",
+    "name_mr": "",
+    "code": "553007",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553051",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Rahatoli",
+    "name_mr": "",
+    "code": "553051",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553009",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "553009",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553011",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kakole",
+    "name_mr": "",
+    "code": "553011",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553010",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Gorpe",
+    "name_mr": "",
+    "code": "553010",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553058",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Mulgaon",
+    "name_mr": "",
+    "code": "553058",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553059",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Jambhilghar",
+    "name_mr": "",
+    "code": "553059",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553056",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Yeve",
+    "name_mr": "",
+    "code": "553056",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553015",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chinchavali Bk",
+    "name_mr": "",
+    "code": "553015",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553008",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kakadwal",
+    "name_mr": "",
+    "code": "553008",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553057",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Sonavale",
+    "name_mr": "",
+    "code": "553057",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553012",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Bohonoli",
+    "name_mr": "",
+    "code": "553012",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553013",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Shiravali",
+    "name_mr": "",
+    "code": "553013",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553071",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Devaloli",
+    "name_mr": "",
+    "code": "553071",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553061",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Varade",
+    "name_mr": "",
+    "code": "553061",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553029",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Usatane",
+    "name_mr": "",
+    "code": "553029",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553070",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Savare",
+    "name_mr": "",
+    "code": "553070",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553062",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Bhoj",
+    "name_mr": "",
+    "code": "553062",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553076",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kasgaon",
+    "name_mr": "",
+    "code": "553076",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553028",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Burdul",
+    "name_mr": "",
+    "code": "553028",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553031",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Bandhanwadi",
+    "name_mr": "",
+    "code": "553031",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553045",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Karand",
+    "name_mr": "",
+    "code": "553045",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553049",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Ambeshiv Bk",
+    "name_mr": "",
+    "code": "553049",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553048",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chon",
+    "name_mr": "",
+    "code": "553048",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553042",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Dapivali",
+    "name_mr": "",
+    "code": "553042",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553044",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Pachon",
+    "name_mr": "",
+    "code": "553044",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553047",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Sagaon",
+    "name_mr": "",
+    "code": "553047",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553050",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Dhoke (Dapivali)",
+    "name_mr": "",
+    "code": "553050",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553054",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chandap",
+    "name_mr": "",
+    "code": "553054",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553041",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Sai",
+    "name_mr": "",
+    "code": "553041",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553046",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Padirpada",
+    "name_mr": "",
+    "code": "553046",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553067",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "553067",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553014",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Dhoke",
+    "name_mr": "",
+    "code": "553014",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553017",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chirad",
+    "name_mr": "",
+    "code": "553017",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553019",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Amboshi",
+    "name_mr": "",
+    "code": "553019",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553020",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kharad",
+    "name_mr": "",
+    "code": "553020",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553021",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Ambhe",
+    "name_mr": "",
+    "code": "553021",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553066",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kanhor",
+    "name_mr": "",
+    "code": "553066",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553016",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Pali",
+    "name_mr": "",
+    "code": "553016",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553022",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kushivali",
+    "name_mr": "",
+    "code": "553022",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553068",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Shil",
+    "name_mr": "",
+    "code": "553068",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553026",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Narhen",
+    "name_mr": "",
+    "code": "553026",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553024",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Kumbharli",
+    "name_mr": "",
+    "code": "553024",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553023",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Sakharoli",
+    "name_mr": "",
+    "code": "553023",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553040",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Sape",
+    "name_mr": "",
+    "code": "553040",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553064",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Chamtoli",
+    "name_mr": "",
+    "code": "553064",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553060",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Savaroli",
+    "name_mr": "",
+    "code": "553060",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553069",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Indgaon",
+    "name_mr": "",
+    "code": "553069",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553025",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Karavale  Kh",
+    "name_mr": "",
+    "code": "553025",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553065",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Jambhale",
+    "name_mr": "",
+    "code": "553065",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553030",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Wadi",
+    "name_mr": "",
+    "code": "553030",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553063",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Dahivali",
+    "name_mr": "",
+    "code": "553063",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553043",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Ambeshiv Kh",
+    "name_mr": "",
+    "code": "553043",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-553018",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Posari",
+    "name_mr": "",
+    "code": "553018",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  },
+  {
+    "village_id": "v-943658",
+    "district_id": "thane",
+    "taluka_id": "ambarnath",
+    "name_en": "Shelarpada (N.V.)",
+    "name_mr": "",
+    "code": "943658",
+    "boundary_file": "/data/boundaries/villages/thane/ambarnath.geojson"
+  }
+]

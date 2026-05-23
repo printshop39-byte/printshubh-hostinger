@@ -1,0 +1,1730 @@
+[
+  {
+    "village_id": "v-556006",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kothurne",
+    "name_mr": "",
+    "code": "556006",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556044",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Chandkhed",
+    "name_mr": "",
+    "code": "556044",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556008",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Phagane",
+    "name_mr": "",
+    "code": "556008",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556045",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Adhale Kh.",
+    "name_mr": "",
+    "code": "556045",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556009",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pansoli",
+    "name_mr": "",
+    "code": "556009",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556046",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Adhale Bk.",
+    "name_mr": "",
+    "code": "556046",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556047",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Done",
+    "name_mr": "",
+    "code": "556047",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556012",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Majgaon",
+    "name_mr": "",
+    "code": "556012",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556017",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dhangavhan",
+    "name_mr": "",
+    "code": "556017",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556018",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Yelghol",
+    "name_mr": "",
+    "code": "556018",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556041",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Salumbare",
+    "name_mr": "",
+    "code": "556041",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556023",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Morave",
+    "name_mr": "",
+    "code": "556023",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556015",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Varu",
+    "name_mr": "",
+    "code": "556015",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556014",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Thakursai",
+    "name_mr": "",
+    "code": "556014",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556016",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Malavandi Thule",
+    "name_mr": "",
+    "code": "556016",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556013",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Keware",
+    "name_mr": "",
+    "code": "556013",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556043",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Darumbare",
+    "name_mr": "",
+    "code": "556043",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556042",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sangavade",
+    "name_mr": "",
+    "code": "556042",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556022",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Chavsar",
+    "name_mr": "",
+    "code": "556022",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556019",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Tikona",
+    "name_mr": "",
+    "code": "556019",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556048",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ovale",
+    "name_mr": "",
+    "code": "556048",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556049",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Divad",
+    "name_mr": "",
+    "code": "556049",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556050",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pusane",
+    "name_mr": "",
+    "code": "556050",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556020",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Gevhande Khadak",
+    "name_mr": "",
+    "code": "556020",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556051",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pachane",
+    "name_mr": "",
+    "code": "556051",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556021",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kadav",
+    "name_mr": "",
+    "code": "556021",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556024",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shilimb",
+    "name_mr": "",
+    "code": "556024",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555866",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sawale",
+    "name_mr": "",
+    "code": "555866",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555868",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pimpari",
+    "name_mr": "",
+    "code": "555868",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555867",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Malegaon Bk.",
+    "name_mr": "",
+    "code": "555867",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555871",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Inglun",
+    "name_mr": "",
+    "code": "555871",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555899",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Khand",
+    "name_mr": "",
+    "code": "555899",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555869",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Malegaon Kh.",
+    "name_mr": "",
+    "code": "555869",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555900",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kusur",
+    "name_mr": "",
+    "code": "555900",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555901",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dahuli",
+    "name_mr": "",
+    "code": "555901",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555902",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kambare Andar Mawal",
+    "name_mr": "",
+    "code": "555902",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555872",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kivale",
+    "name_mr": "",
+    "code": "555872",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555904",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Wahangaon",
+    "name_mr": "",
+    "code": "555904",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555903",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Borivali",
+    "name_mr": "",
+    "code": "555903",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555873",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kashal",
+    "name_mr": "",
+    "code": "555873",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555906",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nagathali",
+    "name_mr": "",
+    "code": "555906",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555922",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Jambhavali",
+    "name_mr": "",
+    "code": "555922",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555921",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Thoran",
+    "name_mr": "",
+    "code": "555921",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555907",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Vadeshwar",
+    "name_mr": "",
+    "code": "555907",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555875",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kalhat",
+    "name_mr": "",
+    "code": "555875",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555905",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kusavali",
+    "name_mr": "",
+    "code": "555905",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555920",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Rakaswadi",
+    "name_mr": "",
+    "code": "555920",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555919",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shirdhe",
+    "name_mr": "",
+    "code": "555919",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555874",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Bhoyare",
+    "name_mr": "",
+    "code": "555874",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555938",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Udhewadi",
+    "name_mr": "",
+    "code": "555938",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555918",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ukasan",
+    "name_mr": "",
+    "code": "555918",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555924",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Valavanti",
+    "name_mr": "",
+    "code": "555924",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555876",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nigade",
+    "name_mr": "",
+    "code": "555876",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555908",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Mau",
+    "name_mr": "",
+    "code": "555908",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555923",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Somavadi",
+    "name_mr": "",
+    "code": "555923",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555909",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kondivade A.m.",
+    "name_mr": "",
+    "code": "555909",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555910",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pawalewadi",
+    "name_mr": "",
+    "code": "555910",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555917",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pale Nane Mawal",
+    "name_mr": "",
+    "code": "555917",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555954",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Khandashi",
+    "name_mr": "",
+    "code": "555954",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555927",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Moramarwadi",
+    "name_mr": "",
+    "code": "555927",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555951",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Bhajgaon",
+    "name_mr": "",
+    "code": "555951",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555915",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Vaund",
+    "name_mr": "",
+    "code": "555915",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555911",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Phalane",
+    "name_mr": "",
+    "code": "555911",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555914",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kacharewadi",
+    "name_mr": "",
+    "code": "555914",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555925",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Govitri",
+    "name_mr": "",
+    "code": "555925",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555878",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Umbare Navalakh",
+    "name_mr": "",
+    "code": "555878",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555913",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ghonshet",
+    "name_mr": "",
+    "code": "555913",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555952",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Vadavali",
+    "name_mr": "",
+    "code": "555952",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555916",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Brahmanwadi",
+    "name_mr": "",
+    "code": "555916",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555877",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ambale",
+    "name_mr": "",
+    "code": "555877",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555879",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Badhalawadi",
+    "name_mr": "",
+    "code": "555879",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555955",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nesave",
+    "name_mr": "",
+    "code": "555955",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555912",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Takave Bk.",
+    "name_mr": "",
+    "code": "555912",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555926",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Karanjgaon",
+    "name_mr": "",
+    "code": "555926",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555888",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shire",
+    "name_mr": "",
+    "code": "555888",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555930",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sai",
+    "name_mr": "",
+    "code": "555930",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555939",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "555939",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555953",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Velhavali",
+    "name_mr": "",
+    "code": "555953",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555929",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kondivade N.m",
+    "name_mr": "",
+    "code": "555929",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555940",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kune N.m.",
+    "name_mr": "",
+    "code": "555940",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555881",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Mindewadi",
+    "name_mr": "",
+    "code": "555881",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555941",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pangaloli",
+    "name_mr": "",
+    "code": "555941",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555933",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nane",
+    "name_mr": "",
+    "code": "555933",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555942",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Jevare",
+    "name_mr": "",
+    "code": "555942",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555956",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sangise",
+    "name_mr": "",
+    "code": "555956",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555889",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Belaj",
+    "name_mr": "",
+    "code": "555889",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555928",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kambare N.m.",
+    "name_mr": "",
+    "code": "555928",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555944",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Karandoli",
+    "name_mr": "",
+    "code": "555944",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555887",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Mangarul",
+    "name_mr": "",
+    "code": "555887",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555931",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nanoli N.m.",
+    "name_mr": "",
+    "code": "555931",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555965",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Vehergaon",
+    "name_mr": "",
+    "code": "555965",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555932",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Paravadi",
+    "name_mr": "",
+    "code": "555932",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555880",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "555880",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555963",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shilatane",
+    "name_mr": "",
+    "code": "555963",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555964",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dahivali",
+    "name_mr": "",
+    "code": "555964",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555957",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Budhavadi",
+    "name_mr": "",
+    "code": "555957",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555962",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Takave Kh.",
+    "name_mr": "",
+    "code": "555962",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555890",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Rajpuri",
+    "name_mr": "",
+    "code": "555890",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555943",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Budhele",
+    "name_mr": "",
+    "code": "555943",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555895",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nayagaon",
+    "name_mr": "",
+    "code": "555895",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555958",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Valakh",
+    "name_mr": "",
+    "code": "555958",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555893",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Jambhul",
+    "name_mr": "",
+    "code": "555893",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556028",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ambi",
+    "name_mr": "",
+    "code": "556028",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-251526",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Lonavala (M Cl)",
+    "name_mr": "",
+    "code": "251526",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555959",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Vadivale",
+    "name_mr": "",
+    "code": "555959",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555894",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kanhe",
+    "name_mr": "",
+    "code": "555894",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555961",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Mundhavare",
+    "name_mr": "",
+    "code": "555961",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555886",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Nanoli Tarf Chakan",
+    "name_mr": "",
+    "code": "555886",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556029",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Akurdi",
+    "name_mr": "",
+    "code": "556029",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556054",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Khadakala",
+    "name_mr": "",
+    "code": "556054",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555947",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Varsoli",
+    "name_mr": "",
+    "code": "555947",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555945",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Devghar",
+    "name_mr": "",
+    "code": "555945",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555946",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Waksai",
+    "name_mr": "",
+    "code": "555946",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555882",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Jambavade",
+    "name_mr": "",
+    "code": "555882",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555884",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sudumbare",
+    "name_mr": "",
+    "code": "555884",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555966",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "555966",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555885",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Induri",
+    "name_mr": "",
+    "code": "555885",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555891",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sangavi",
+    "name_mr": "",
+    "code": "555891",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555934",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kamshet",
+    "name_mr": "",
+    "code": "555934",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555960",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pathargaon",
+    "name_mr": "",
+    "code": "555960",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555971",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Taje",
+    "name_mr": "",
+    "code": "555971",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555969",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Boraj",
+    "name_mr": "",
+    "code": "555969",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555950",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sadapur",
+    "name_mr": "",
+    "code": "555950",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555948",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kurvande",
+    "name_mr": "",
+    "code": "555948",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555949",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "555949",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556030",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Varale",
+    "name_mr": "",
+    "code": "556030",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555883",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sudhavadi",
+    "name_mr": "",
+    "code": "555883",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555935",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kusgaon Kh.",
+    "name_mr": "",
+    "code": "555935",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555970",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pimpaloli",
+    "name_mr": "",
+    "code": "555970",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555898",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Mohitewadi",
+    "name_mr": "",
+    "code": "555898",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555968",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Patan",
+    "name_mr": "",
+    "code": "555968",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555897",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Brahman Wadi",
+    "name_mr": "",
+    "code": "555897",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555967",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Malawali N.m.",
+    "name_mr": "",
+    "code": "555967",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555896",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sate",
+    "name_mr": "",
+    "code": "555896",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-276637",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Wadgaon (NP)",
+    "name_mr": "",
+    "code": "276637",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555973",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Devale",
+    "name_mr": "",
+    "code": "555973",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555972",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Bhaje",
+    "name_mr": "",
+    "code": "555972",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555937",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ahirvade",
+    "name_mr": "",
+    "code": "555937",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555936",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Chikhalse",
+    "name_mr": "",
+    "code": "555936",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556055",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kusegaon Bk",
+    "name_mr": "",
+    "code": "556055",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556031",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Talegaon Dabhade (Rural)",
+    "name_mr": "",
+    "code": "556031",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555974",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Aundholi",
+    "name_mr": "",
+    "code": "555974",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555975",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Aundhe kh.",
+    "name_mr": "",
+    "code": "555975",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555994",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Karunj",
+    "name_mr": "",
+    "code": "555994",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555993",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Bedse",
+    "name_mr": "",
+    "code": "555993",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555978",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "555978",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555995",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Brahmanwadi",
+    "name_mr": "",
+    "code": "555995",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556036",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Urse",
+    "name_mr": "",
+    "code": "556036",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555997",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sadavali",
+    "name_mr": "",
+    "code": "555997",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555988",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "555988",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555989",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Sawantwadi",
+    "name_mr": "",
+    "code": "555989",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556037",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Adhe kh.",
+    "name_mr": "",
+    "code": "556037",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555998",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ozarde",
+    "name_mr": "",
+    "code": "555998",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555992",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kadadhe",
+    "name_mr": "",
+    "code": "555992",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555979",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Lohagad",
+    "name_mr": "",
+    "code": "555979",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555980",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Apati",
+    "name_mr": "",
+    "code": "555980",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556035",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Parandvadi",
+    "name_mr": "",
+    "code": "556035",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555981",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Gevhande Apati",
+    "name_mr": "",
+    "code": "555981",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555976",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dudhivare",
+    "name_mr": "",
+    "code": "555976",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555996",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Baur",
+    "name_mr": "",
+    "code": "555996",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555977",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dhalewadi",
+    "name_mr": "",
+    "code": "555977",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556034",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Somatane",
+    "name_mr": "",
+    "code": "556034",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555982",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Atvan",
+    "name_mr": "",
+    "code": "555982",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556002",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Thugaon",
+    "name_mr": "",
+    "code": "556002",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555990",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Prabhachiwadi",
+    "name_mr": "",
+    "code": "555990",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555983",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pale Pawan Mawal",
+    "name_mr": "",
+    "code": "555983",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556001",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Malawali P.m.",
+    "name_mr": "",
+    "code": "556001",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555984",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shindgaon",
+    "name_mr": "",
+    "code": "555984",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555985",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ambegaon",
+    "name_mr": "",
+    "code": "555985",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555987",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kale",
+    "name_mr": "",
+    "code": "555987",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556003",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Adavi",
+    "name_mr": "",
+    "code": "556003",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556000",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shivane",
+    "name_mr": "",
+    "code": "556000",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556039",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Dhamane",
+    "name_mr": "",
+    "code": "556039",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556038",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Bebad Ohol",
+    "name_mr": "",
+    "code": "556038",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556033",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "556033",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555999",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Pimpal Khunte",
+    "name_mr": "",
+    "code": "555999",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555991",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Yelase",
+    "name_mr": "",
+    "code": "555991",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555986",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shevati",
+    "name_mr": "",
+    "code": "555986",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556010",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kolechafesar",
+    "name_mr": "",
+    "code": "556010",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556032",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Gahunje",
+    "name_mr": "",
+    "code": "556032",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556004",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Bhadawali",
+    "name_mr": "",
+    "code": "556004",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556007",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Brahmanoli",
+    "name_mr": "",
+    "code": "556007",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556040",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Godumbare",
+    "name_mr": "",
+    "code": "556040",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556005",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Shivali",
+    "name_mr": "",
+    "code": "556005",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556011",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Tung",
+    "name_mr": "",
+    "code": "556011",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556052",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kusgaon P.M.",
+    "name_mr": "",
+    "code": "556052",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556025",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Vagheshwar",
+    "name_mr": "",
+    "code": "556025",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556026",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Jovan",
+    "name_mr": "",
+    "code": "556026",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-556027",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Ajivali",
+    "name_mr": "",
+    "code": "556027",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-555870",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Kune Ansute",
+    "name_mr": "",
+    "code": "555870",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  },
+  {
+    "village_id": "v-251522",
+    "district_id": "pune",
+    "taluka_id": "mawal",
+    "name_en": "Talegaon Dabhade (M CI)",
+    "name_mr": "",
+    "code": "251522",
+    "boundary_file": "/data/boundaries/villages/pune/mawal.geojson"
+  }
+]

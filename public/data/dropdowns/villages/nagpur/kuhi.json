@@ -1,0 +1,1793 @@
+[
+  {
+    "village_id": "v-536371",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kanheri Dongarmoh",
+    "name_mr": "",
+    "code": "536371",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536325",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kuchadi",
+    "name_mr": "",
+    "code": "536325",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536416",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "536416",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536417",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "536417",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536383",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Deoli Kh",
+    "name_mr": "",
+    "code": "536383",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536379",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ambadi",
+    "name_mr": "",
+    "code": "536379",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536323",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khalasana",
+    "name_mr": "",
+    "code": "536323",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536381",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khobna",
+    "name_mr": "",
+    "code": "536381",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536419",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Paoni",
+    "name_mr": "",
+    "code": "536419",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536380",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "536380",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536333",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chitapur",
+    "name_mr": "",
+    "code": "536333",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536324",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mohadi",
+    "name_mr": "",
+    "code": "536324",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536387",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhiwkund",
+    "name_mr": "",
+    "code": "536387",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536322",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pipari",
+    "name_mr": "",
+    "code": "536322",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536382",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Salwa",
+    "name_mr": "",
+    "code": "536382",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536422",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bori (naik)",
+    "name_mr": "",
+    "code": "536422",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536396",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Deolikala",
+    "name_mr": "",
+    "code": "536396",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536327",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhamewada",
+    "name_mr": "",
+    "code": "536327",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536388",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "536388",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536421",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mhasli",
+    "name_mr": "",
+    "code": "536421",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536420",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "536420",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536332",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tarni",
+    "name_mr": "",
+    "code": "536332",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536372",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sawarkheda",
+    "name_mr": "",
+    "code": "536372",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536423",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "536423",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536384",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Amti",
+    "name_mr": "",
+    "code": "536384",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536391",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sawli",
+    "name_mr": "",
+    "code": "536391",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536389",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bodkhipeth",
+    "name_mr": "",
+    "code": "536389",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536385",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khursapar",
+    "name_mr": "",
+    "code": "536385",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536337",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Wadegaon (Kale)",
+    "name_mr": "",
+    "code": "536337",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536424",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dhamni",
+    "name_mr": "",
+    "code": "536424",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536338",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ajni",
+    "name_mr": "",
+    "code": "536338",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536328",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chanoda",
+    "name_mr": "",
+    "code": "536328",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536335",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dipala",
+    "name_mr": "",
+    "code": "536335",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536334",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "536334",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536427",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bandarchuha (Rithi)",
+    "name_mr": "",
+    "code": "536427",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536336",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Lanjala",
+    "name_mr": "",
+    "code": "536336",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536395",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Newri",
+    "name_mr": "",
+    "code": "536395",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536366",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "536366",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536365",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "536365",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536367",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "536367",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536368",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Agargaon",
+    "name_mr": "",
+    "code": "536368",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536374",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chapeghat",
+    "name_mr": "",
+    "code": "536374",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536369",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kanheri Kh",
+    "name_mr": "",
+    "code": "536369",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536415",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Awarmara",
+    "name_mr": "",
+    "code": "536415",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536370",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Rajola",
+    "name_mr": "",
+    "code": "536370",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536377",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Umarpeth",
+    "name_mr": "",
+    "code": "536377",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536373",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Palegaon",
+    "name_mr": "",
+    "code": "536373",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536375",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chapegadi",
+    "name_mr": "",
+    "code": "536375",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536376",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kharbi",
+    "name_mr": "",
+    "code": "536376",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536418",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Gondpipri",
+    "name_mr": "",
+    "code": "536418",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536326",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Titur",
+    "name_mr": "",
+    "code": "536326",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536378",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhowardeo",
+    "name_mr": "",
+    "code": "536378",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536386",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "536386",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536504",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tekepar",
+    "name_mr": "",
+    "code": "536504",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536503",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kujba",
+    "name_mr": "",
+    "code": "536503",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536394",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pandegaon",
+    "name_mr": "",
+    "code": "536394",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536505",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ruyad",
+    "name_mr": "",
+    "code": "536505",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536425",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Gadpayli",
+    "name_mr": "",
+    "code": "536425",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536426",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ambhorakala",
+    "name_mr": "",
+    "code": "536426",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536331",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mangli",
+    "name_mr": "",
+    "code": "536331",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-263364",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kuhi (NP)",
+    "name_mr": "",
+    "code": "263364",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536330",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Malni",
+    "name_mr": "",
+    "code": "536330",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536329",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "536329",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536431",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mendhekala",
+    "name_mr": "",
+    "code": "536431",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536343",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "536343",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536428",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Yedmepar (Rithi)",
+    "name_mr": "",
+    "code": "536428",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536393",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pilkapar",
+    "name_mr": "",
+    "code": "536393",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536398",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Hudpa",
+    "name_mr": "",
+    "code": "536398",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536506",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Borada",
+    "name_mr": "",
+    "code": "536506",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536397",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khenda",
+    "name_mr": "",
+    "code": "536397",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536349",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhojapur",
+    "name_mr": "",
+    "code": "536349",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536400",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bidbothli",
+    "name_mr": "",
+    "code": "536400",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536399",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chikhalabodi",
+    "name_mr": "",
+    "code": "536399",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536429",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pratappur",
+    "name_mr": "",
+    "code": "536429",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536401",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dalpatpur",
+    "name_mr": "",
+    "code": "536401",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536339",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "536339",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536342",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dodma",
+    "name_mr": "",
+    "code": "536342",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536502",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Paoni",
+    "name_mr": "",
+    "code": "536502",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536507",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pohara",
+    "name_mr": "",
+    "code": "536507",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536402",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dawdipar",
+    "name_mr": "",
+    "code": "536402",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536409",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "536409",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536408",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhatara",
+    "name_mr": "",
+    "code": "536408",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536410",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Adam",
+    "name_mr": "",
+    "code": "536410",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536346",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mendhegaon",
+    "name_mr": "",
+    "code": "536346",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536433",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Maloda",
+    "name_mr": "",
+    "code": "536433",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536345",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sasegaon",
+    "name_mr": "",
+    "code": "536345",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536348",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tembhari",
+    "name_mr": "",
+    "code": "536348",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536347",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Powari",
+    "name_mr": "",
+    "code": "536347",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536341",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Hetameti",
+    "name_mr": "",
+    "code": "536341",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536438",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chichal",
+    "name_mr": "",
+    "code": "536438",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536404",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhandarbodi",
+    "name_mr": "",
+    "code": "536404",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536340",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Shivani",
+    "name_mr": "",
+    "code": "536340",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536355",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Heti",
+    "name_mr": "",
+    "code": "536355",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536437",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Channa",
+    "name_mr": "",
+    "code": "536437",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536411",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Majri",
+    "name_mr": "",
+    "code": "536411",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536344",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "536344",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536434",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mendhe Kh",
+    "name_mr": "",
+    "code": "536434",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536414",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Katara",
+    "name_mr": "",
+    "code": "536414",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536356",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sagundhara",
+    "name_mr": "",
+    "code": "536356",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536407",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chipdi",
+    "name_mr": "",
+    "code": "536407",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536353",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "536353",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536359",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "536359",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536358",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khetapur",
+    "name_mr": "",
+    "code": "536358",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536350",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Silli",
+    "name_mr": "",
+    "code": "536350",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536357",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "536357",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536440",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "536440",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536442",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pipri",
+    "name_mr": "",
+    "code": "536442",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536441",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Gonha",
+    "name_mr": "",
+    "code": "536441",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536412",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Shiwani",
+    "name_mr": "",
+    "code": "536412",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536413",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Navegaon (Devi)",
+    "name_mr": "",
+    "code": "536413",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536354",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Isapur (Navegaon)",
+    "name_mr": "",
+    "code": "536354",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536352",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ajni",
+    "name_mr": "",
+    "code": "536352",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536445",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Shikarpur",
+    "name_mr": "",
+    "code": "536445",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536443",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tudka",
+    "name_mr": "",
+    "code": "536443",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536444",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "536444",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536464",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Satara",
+    "name_mr": "",
+    "code": "536464",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536406",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "536406",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536465",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "536465",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536466",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Wadegaon (Mandhal)",
+    "name_mr": "",
+    "code": "536466",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536405",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Musalgaon",
+    "name_mr": "",
+    "code": "536405",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536467",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "536467",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536351",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mohadara",
+    "name_mr": "",
+    "code": "536351",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536447",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khairlanji",
+    "name_mr": "",
+    "code": "536447",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536451",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Balapur (Kochhi)",
+    "name_mr": "",
+    "code": "536451",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536363",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Murbi",
+    "name_mr": "",
+    "code": "536363",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536448",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Taroli",
+    "name_mr": "",
+    "code": "536448",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536470",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mandhal",
+    "name_mr": "",
+    "code": "536470",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536471",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ruyad",
+    "name_mr": "",
+    "code": "536471",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536455",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Fegad",
+    "name_mr": "",
+    "code": "536455",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536452",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sirsi (Navegaon)",
+    "name_mr": "",
+    "code": "536452",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536472",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Siroli",
+    "name_mr": "",
+    "code": "536472",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536469",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pipalgaon",
+    "name_mr": "",
+    "code": "536469",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536454",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sonarwahi",
+    "name_mr": "",
+    "code": "536454",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536362",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Banor",
+    "name_mr": "",
+    "code": "536362",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536474",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Wag",
+    "name_mr": "",
+    "code": "536474",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536453",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "536453",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536458",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhiwapur",
+    "name_mr": "",
+    "code": "536458",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536456",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "536456",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536475",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bori (sadachar)",
+    "name_mr": "",
+    "code": "536475",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536479",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Parsodi (Raja)",
+    "name_mr": "",
+    "code": "536479",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536461",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Jiwanapur",
+    "name_mr": "",
+    "code": "536461",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536459",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tamaswadi",
+    "name_mr": "",
+    "code": "536459",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536360",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ridhora",
+    "name_mr": "",
+    "code": "536360",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536361",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Malchi",
+    "name_mr": "",
+    "code": "536361",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536364",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chada",
+    "name_mr": "",
+    "code": "536364",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536460",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kharada",
+    "name_mr": "",
+    "code": "536460",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536473",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "536473",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536457",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pandhargota",
+    "name_mr": "",
+    "code": "536457",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536481",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "536481",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536482",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Virkhandi",
+    "name_mr": "",
+    "code": "536482",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536493",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "536493",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536480",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dongarmauda",
+    "name_mr": "",
+    "code": "536480",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536496",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bramhani",
+    "name_mr": "",
+    "code": "536496",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536485",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "536485",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536495",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Rajoli",
+    "name_mr": "",
+    "code": "536495",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536492",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Welgaon",
+    "name_mr": "",
+    "code": "536492",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536484",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pachkhedi",
+    "name_mr": "",
+    "code": "536484",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536483",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tarna",
+    "name_mr": "",
+    "code": "536483",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536494",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Gothangaon",
+    "name_mr": "",
+    "code": "536494",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536486",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Salai",
+    "name_mr": "",
+    "code": "536486",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536490",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chikna tukum",
+    "name_mr": "",
+    "code": "536490",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536487",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Udeshwar",
+    "name_mr": "",
+    "code": "536487",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536491",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Thana",
+    "name_mr": "",
+    "code": "536491",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536462",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kukkadumri",
+    "name_mr": "",
+    "code": "536462",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536498",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dhamna",
+    "name_mr": "",
+    "code": "536498",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536489",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "536489",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536497",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Chandala",
+    "name_mr": "",
+    "code": "536497",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536488",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Polsa",
+    "name_mr": "",
+    "code": "536488",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536463",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "536463",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536499",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Buti tola alias Kosari",
+    "name_mr": "",
+    "code": "536499",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "ranbori-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "RANBORI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536501",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ranbodi",
+    "name_mr": "",
+    "code": "536501",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536500",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "536500",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536430",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "536430",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944904",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ambhora Kh-Ambhora (Kala)-Gadpayli-Maloda",
+    "name_mr": "",
+    "code": "944904",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536432",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Ambhora Kh",
+    "name_mr": "",
+    "code": "536432",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536439",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bothli",
+    "name_mr": "",
+    "code": "536439",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944895",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Navegaon (Sirsi)-Soanrwahi-Umri",
+    "name_mr": "",
+    "code": "944895",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944896",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pmprimunje-Gondpimpri-Dhamni",
+    "name_mr": "",
+    "code": "944896",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536449",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Dhanla",
+    "name_mr": "",
+    "code": "536449",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-943635",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Tudka",
+    "name_mr": "",
+    "code": "943635",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944901",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bhiwapur Fegad",
+    "name_mr": "",
+    "code": "944901",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536477",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Karhandla",
+    "name_mr": "",
+    "code": "536477",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-651867",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sawandi",
+    "name_mr": "",
+    "code": "651867",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944899",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Gothangaon-Pandhargota-Rajoli",
+    "name_mr": "",
+    "code": "944899",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536446",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Kesori",
+    "name_mr": "",
+    "code": "536446",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944905",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Paoni",
+    "name_mr": "",
+    "code": "944905",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-943617",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Mhasli",
+    "name_mr": "",
+    "code": "943617",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536450",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Khokarla",
+    "name_mr": "",
+    "code": "536450",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536468",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Madnapur",
+    "name_mr": "",
+    "code": "536468",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-651864",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Bramhani (RHV) (N.V.)",
+    "name_mr": "",
+    "code": "651864",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536435",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Weltur",
+    "name_mr": "",
+    "code": "536435",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-944897",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Gonha Chikhali",
+    "name_mr": "",
+    "code": "944897",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536476",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Pachkhedi T.Sa.Kr.49",
+    "name_mr": "",
+    "code": "536476",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-943952",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sonegaon-Kukudumri",
+    "name_mr": "",
+    "code": "943952",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-943615",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Jiwnapur",
+    "name_mr": "",
+    "code": "943615",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536478",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Rengatur",
+    "name_mr": "",
+    "code": "536478",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-536436",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sonpuri",
+    "name_mr": "",
+    "code": "536436",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  },
+  {
+    "village_id": "v-943954",
+    "district_id": "nagpur",
+    "taluka_id": "kuhi",
+    "name_en": "Sirsi",
+    "name_mr": "",
+    "code": "943954",
+    "boundary_file": "/data/boundaries/villages/nagpur/kuhi.geojson"
+  }
+]

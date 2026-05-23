@@ -1,0 +1,983 @@
+[
+  {
+    "village_id": "v-551847",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Vavar",
+    "name_mr": "",
+    "code": "551847",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551850",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dabheri",
+    "name_mr": "",
+    "code": "551850",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551849",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dahul",
+    "name_mr": "",
+    "code": "551849",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551852",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dabhlon",
+    "name_mr": "",
+    "code": "551852",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551854",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Barawadpada",
+    "name_mr": "",
+    "code": "551854",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551851",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kayari",
+    "name_mr": "",
+    "code": "551851",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551853",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kirmire",
+    "name_mr": "",
+    "code": "551853",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551861",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Jambhulmaya",
+    "name_mr": "",
+    "code": "551861",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551860",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dadhari",
+    "name_mr": "",
+    "code": "551860",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551857",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Talasari",
+    "name_mr": "",
+    "code": "551857",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551858",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Khambale",
+    "name_mr": "",
+    "code": "551858",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551862",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Vangani",
+    "name_mr": "",
+    "code": "551862",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551883",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Sarsun",
+    "name_mr": "",
+    "code": "551883",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551856",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Medha",
+    "name_mr": "",
+    "code": "551856",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551885",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Hateri",
+    "name_mr": "",
+    "code": "551885",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551865",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Umbarkheda",
+    "name_mr": "",
+    "code": "551865",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551855",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ozar",
+    "name_mr": "",
+    "code": "551855",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551880",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dabhose",
+    "name_mr": "",
+    "code": "551880",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551868",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kortad",
+    "name_mr": "",
+    "code": "551868",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551863",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Malghar",
+    "name_mr": "",
+    "code": "551863",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551859",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Sakharshet",
+    "name_mr": "",
+    "code": "551859",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551864",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dadar Koprapada",
+    "name_mr": "",
+    "code": "551864",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551867",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "551867",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551879",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Pimprun",
+    "name_mr": "",
+    "code": "551879",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551887",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Winwal",
+    "name_mr": "",
+    "code": "551887",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551866",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Savarpada",
+    "name_mr": "",
+    "code": "551866",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551872",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kharonda",
+    "name_mr": "",
+    "code": "551872",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551878",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dehare",
+    "name_mr": "",
+    "code": "551878",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551886",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ghiwande",
+    "name_mr": "",
+    "code": "551886",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551871",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Bhagada",
+    "name_mr": "",
+    "code": "551871",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551869",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Daskod",
+    "name_mr": "",
+    "code": "551869",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551882",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Hiradpada",
+    "name_mr": "",
+    "code": "551882",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551881",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Wadoli",
+    "name_mr": "",
+    "code": "551881",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551900",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Borale",
+    "name_mr": "",
+    "code": "551900",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551877",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Devgaon",
+    "name_mr": "",
+    "code": "551877",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551870",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Morchachapada",
+    "name_mr": "",
+    "code": "551870",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551889",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Alyachimet",
+    "name_mr": "",
+    "code": "551889",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551891",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Chandgaon",
+    "name_mr": "",
+    "code": "551891",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551845",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ruighar",
+    "name_mr": "",
+    "code": "551845",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551846",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Bopdari",
+    "name_mr": "",
+    "code": "551846",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551888",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Poyshet",
+    "name_mr": "",
+    "code": "551888",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551873",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Tilonde",
+    "name_mr": "",
+    "code": "551873",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551921",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Nyahale Bk",
+    "name_mr": "",
+    "code": "551921",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551897",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Jamsar",
+    "name_mr": "",
+    "code": "551897",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551876",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Palshin",
+    "name_mr": "",
+    "code": "551876",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551875",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Pimpalshet",
+    "name_mr": "",
+    "code": "551875",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551892",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Anantnagar",
+    "name_mr": "",
+    "code": "551892",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551895",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Shivaji Nagar",
+    "name_mr": "",
+    "code": "551895",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551899",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Suryanagar",
+    "name_mr": "",
+    "code": "551899",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551890",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kogade",
+    "name_mr": "",
+    "code": "551890",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551902",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "551902",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551896",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Gorthan",
+    "name_mr": "",
+    "code": "551896",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551898",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Chandranagar",
+    "name_mr": "",
+    "code": "551898",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551904",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Khadkhad",
+    "name_mr": "",
+    "code": "551904",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551893",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Akare",
+    "name_mr": "",
+    "code": "551893",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551903",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dharampur",
+    "name_mr": "",
+    "code": "551903",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551894",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ayare",
+    "name_mr": "",
+    "code": "551894",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551905",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Bharasatmet",
+    "name_mr": "",
+    "code": "551905",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551874",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Chambharshet",
+    "name_mr": "",
+    "code": "551874",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551906",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kuturvihir",
+    "name_mr": "",
+    "code": "551906",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551907",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Adkhadak",
+    "name_mr": "",
+    "code": "551907",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551918",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ganeshnagar",
+    "name_mr": "",
+    "code": "551918",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551917",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Jawhar Rural",
+    "name_mr": "",
+    "code": "551917",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551920",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Raitale",
+    "name_mr": "",
+    "code": "551920",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551908",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Hade",
+    "name_mr": "",
+    "code": "551908",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551916",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Garadwadi",
+    "name_mr": "",
+    "code": "551916",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551901",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kanadhatti",
+    "name_mr": "",
+    "code": "551901",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551919",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Nandnmal",
+    "name_mr": "",
+    "code": "551919",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551924",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kelghar",
+    "name_mr": "",
+    "code": "551924",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551910",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Tuljapur",
+    "name_mr": "",
+    "code": "551910",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551927",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Aptale",
+    "name_mr": "",
+    "code": "551927",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551915",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Ramnagar (N.V.)",
+    "name_mr": "",
+    "code": "551915",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551909",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kardhan",
+    "name_mr": "",
+    "code": "551909",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551913",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kasatwadi",
+    "name_mr": "",
+    "code": "551913",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551911",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dengachimet",
+    "name_mr": "",
+    "code": "551911",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551914",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Jayeshwar",
+    "name_mr": "",
+    "code": "551914",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551931",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Juni Jawhar",
+    "name_mr": "",
+    "code": "551931",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551912",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kalamvihira",
+    "name_mr": "",
+    "code": "551912",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551928",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Chandrapur",
+    "name_mr": "",
+    "code": "551928",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551930",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dhanoshi",
+    "name_mr": "",
+    "code": "551930",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551940",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Shirasgaon",
+    "name_mr": "",
+    "code": "551940",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551939",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kaulale",
+    "name_mr": "",
+    "code": "551939",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551938",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Akhar",
+    "name_mr": "",
+    "code": "551938",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551941",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Shrirampur",
+    "name_mr": "",
+    "code": "551941",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551932",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kashivali Tarf Dengachimet",
+    "name_mr": "",
+    "code": "551932",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551933",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Shiroshi",
+    "name_mr": "",
+    "code": "551933",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551937",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Sakur",
+    "name_mr": "",
+    "code": "551937",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551936",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Kadachimet",
+    "name_mr": "",
+    "code": "551936",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551947",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Pathardi",
+    "name_mr": "",
+    "code": "551947",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551942",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "551942",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551943",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "551943",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551946",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Dongarwadi",
+    "name_mr": "",
+    "code": "551946",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551935",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Walwande",
+    "name_mr": "",
+    "code": "551935",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551944",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Zap",
+    "name_mr": "",
+    "code": "551944",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551948",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Chauk",
+    "name_mr": "",
+    "code": "551948",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551953",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Bhuritek",
+    "name_mr": "",
+    "code": "551953",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551952",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Manmohadi",
+    "name_mr": "",
+    "code": "551952",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551951",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Aine",
+    "name_mr": "",
+    "code": "551951",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551949",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Medhe",
+    "name_mr": "",
+    "code": "551949",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551950",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Khidse",
+    "name_mr": "",
+    "code": "551950",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551848",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Behadgaon",
+    "name_mr": "",
+    "code": "551848",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551929",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "551929",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551884",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Suryanagar",
+    "name_mr": "",
+    "code": "551884",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551922",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Radhanagari",
+    "name_mr": "",
+    "code": "551922",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551923",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Shrirampur",
+    "name_mr": "",
+    "code": "551923",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551925",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Nyahale Kh",
+    "name_mr": "",
+    "code": "551925",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551926",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "551926",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-551945",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Shivajinagar (N.V.)",
+    "name_mr": "",
+    "code": "551945",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  },
+  {
+    "village_id": "v-251453",
+    "district_id": "palghar",
+    "taluka_id": "jawhar",
+    "name_en": "Jawhar (M Cl)",
+    "name_mr": "",
+    "code": "251453",
+    "boundary_file": "/data/boundaries/villages/palghar/jawhar.geojson"
+  }
+]

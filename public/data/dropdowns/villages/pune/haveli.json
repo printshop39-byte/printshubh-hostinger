@@ -1,0 +1,812 @@
+[
+  {
+    "village_id": "v-298888",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Dehu (NP)",
+    "name_mr": "",
+    "code": "298888",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-277291",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Dehu Road (CB)",
+    "name_mr": "",
+    "code": "277291",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556210",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Tulapur",
+    "name_mr": "",
+    "code": "556210",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556211",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Fulgaon",
+    "name_mr": "",
+    "code": "556211",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556207",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Nirgudi",
+    "name_mr": "",
+    "code": "556207",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556212",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Wadhu Kh.",
+    "name_mr": "",
+    "code": "556212",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556208",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Wadgaon-shinde",
+    "name_mr": "",
+    "code": "556208",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556213",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Perane",
+    "name_mr": "",
+    "code": "556213",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556223",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Bhawadi",
+    "name_mr": "",
+    "code": "556223",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556222",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Lonikand",
+    "name_mr": "",
+    "code": "556222",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556215",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Burkegaon",
+    "name_mr": "",
+    "code": "556215",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556214",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "556214",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556304",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Sangavi Sandas",
+    "name_mr": "",
+    "code": "556304",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556216",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Pimpri Sandas",
+    "name_mr": "",
+    "code": "556216",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556303",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Nhavi Sandas",
+    "name_mr": "",
+    "code": "556303",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556221",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Bakori",
+    "name_mr": "",
+    "code": "556221",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556225",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kesnand",
+    "name_mr": "",
+    "code": "556225",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556217",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Shiraswadi",
+    "name_mr": "",
+    "code": "556217",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556220",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Wade Bolhai",
+    "name_mr": "",
+    "code": "556220",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556306",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "556306",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556305",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Ashtapur",
+    "name_mr": "",
+    "code": "556305",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556219",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Gawdewadi",
+    "name_mr": "",
+    "code": "556219",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556218",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Murkutenagar",
+    "name_mr": "",
+    "code": "556218",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556224",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Awhalwadi",
+    "name_mr": "",
+    "code": "556224",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556226",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Taleranwadi",
+    "name_mr": "",
+    "code": "556226",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556228",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Sashte",
+    "name_mr": "",
+    "code": "556228",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556307",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Hingangaon",
+    "name_mr": "",
+    "code": "556307",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556209",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Manjari Kh.",
+    "name_mr": "",
+    "code": "556209",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556229",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Biwari",
+    "name_mr": "",
+    "code": "556229",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556227",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kolwadi",
+    "name_mr": "",
+    "code": "556227",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556309",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Bhawarapur",
+    "name_mr": "",
+    "code": "556309",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556313",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Theur",
+    "name_mr": "",
+    "code": "556313",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556308",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Khamgaon Tek",
+    "name_mr": "",
+    "code": "556308",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556310",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Koregaon Mul",
+    "name_mr": "",
+    "code": "556310",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556318",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Tilekarwadi",
+    "name_mr": "",
+    "code": "556318",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556311",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Peth",
+    "name_mr": "",
+    "code": "556311",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556319",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Uruli Kanchan",
+    "name_mr": "",
+    "code": "556319",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556315",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Loni-kalbhor",
+    "name_mr": "",
+    "code": "556315",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556314",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kadamwak Wasti",
+    "name_mr": "",
+    "code": "556314",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556316",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kunjirwadi",
+    "name_mr": "",
+    "code": "556316",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556320",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Sortapwadi",
+    "name_mr": "",
+    "code": "556320",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556325",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Shindwane",
+    "name_mr": "",
+    "code": "556325",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556252",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Mokarwadi",
+    "name_mr": "",
+    "code": "556252",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556322",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Alandi Mhatobachi",
+    "name_mr": "",
+    "code": "556322",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556251",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Khadewadi",
+    "name_mr": "",
+    "code": "556251",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556250",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Wanjalewadi",
+    "name_mr": "",
+    "code": "556250",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556323",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Tarade",
+    "name_mr": "",
+    "code": "556323",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556253",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Bahuli",
+    "name_mr": "",
+    "code": "556253",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556254",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Agalambe",
+    "name_mr": "",
+    "code": "556254",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556294",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Wadki",
+    "name_mr": "",
+    "code": "556294",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556324",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Walati",
+    "name_mr": "",
+    "code": "556324",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556270",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Bhagatwadi",
+    "name_mr": "",
+    "code": "556270",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556255",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kudaje",
+    "name_mr": "",
+    "code": "556255",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556321",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Ramoshiwadi",
+    "name_mr": "",
+    "code": "556321",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556256",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Gorhe Bk.",
+    "name_mr": "",
+    "code": "556256",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556261",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Mandvi Bk.",
+    "name_mr": "",
+    "code": "556261",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556259",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Khadakwadi",
+    "name_mr": "",
+    "code": "556259",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556262",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Sangarun",
+    "name_mr": "",
+    "code": "556262",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556260",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Mandvi Kh.",
+    "name_mr": "",
+    "code": "556260",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556258",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Gorhe Kh.",
+    "name_mr": "",
+    "code": "556258",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556257",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Donaje",
+    "name_mr": "",
+    "code": "556257",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556273",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "556273",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556264",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "556264",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556267",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Ghera Sinhagad",
+    "name_mr": "",
+    "code": "556267",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556265",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Manerwadi",
+    "name_mr": "",
+    "code": "556265",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556263",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Malkhed",
+    "name_mr": "",
+    "code": "556263",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556266",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Sambarewadi",
+    "name_mr": "",
+    "code": "556266",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556279",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Gogalwadi",
+    "name_mr": "",
+    "code": "556279",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556272",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "556272",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556271",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Wardade",
+    "name_mr": "",
+    "code": "556271",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556283",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Tanaji Nagar",
+    "name_mr": "",
+    "code": "556283",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556269",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Thoptewadi",
+    "name_mr": "",
+    "code": "556269",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556275",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Khamgaon Mawal",
+    "name_mr": "",
+    "code": "556275",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556284",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Gaud Dara",
+    "name_mr": "",
+    "code": "556284",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556268",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Mordhari",
+    "name_mr": "",
+    "code": "556268",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556280",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "556280",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556282",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Awasare Nagar",
+    "name_mr": "",
+    "code": "556282",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556285",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "556285",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556286",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kondhanpur",
+    "name_mr": "",
+    "code": "556286",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556276",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Mogarwadi",
+    "name_mr": "",
+    "code": "556276",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556290",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Khed",
+    "name_mr": "",
+    "code": "556290",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556281",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kalyan",
+    "name_mr": "",
+    "code": "556281",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556287",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Kondhanpur",
+    "name_mr": "",
+    "code": "556287",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556288",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Rahatwade",
+    "name_mr": "",
+    "code": "556288",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556289",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Shiwapur",
+    "name_mr": "",
+    "code": "556289",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556274",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Ambee",
+    "name_mr": "",
+    "code": "556274",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556249",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Ahire",
+    "name_mr": "",
+    "code": "556249",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556317",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "556317",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-556312",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Prayagdhum",
+    "name_mr": "",
+    "code": "556312",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  },
+  {
+    "village_id": "v-251528",
+    "district_id": "pune",
+    "taluka_id": "haveli",
+    "name_en": "Pimpri Chinchwad (M Corp)",
+    "name_mr": "",
+    "code": "251528",
+    "boundary_file": "/data/boundaries/villages/pune/haveli.geojson"
+  }
+]

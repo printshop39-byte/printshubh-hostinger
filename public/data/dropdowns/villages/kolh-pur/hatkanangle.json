@@ -1,0 +1,650 @@
+[
+  {
+    "village_id": "v-567272",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Ambap",
+    "name_mr": "",
+    "code": "567272",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567281",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Vathar Tarf Udgaon",
+    "name_mr": "",
+    "code": "567281",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567268",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "567268",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-251616",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Vadgaon Kasba (M CI)",
+    "name_mr": "",
+    "code": "251616",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567286",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Hingangaon",
+    "name_mr": "",
+    "code": "567286",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567283",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Savarde",
+    "name_mr": "",
+    "code": "567283",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567269",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Manpadle",
+    "name_mr": "",
+    "code": "567269",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567284",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Minche",
+    "name_mr": "",
+    "code": "567284",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567273",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Ambapwadi",
+    "name_mr": "",
+    "code": "567273",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567264",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Ghunaki",
+    "name_mr": "",
+    "code": "567264",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567262",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Pargaon",
+    "name_mr": "",
+    "code": "567262",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567263",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Chavare",
+    "name_mr": "",
+    "code": "567263",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567265",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Kini",
+    "name_mr": "",
+    "code": "567265",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567267",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Talsande",
+    "name_mr": "",
+    "code": "567267",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567280",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Khochi",
+    "name_mr": "",
+    "code": "567280",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567270",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Bhadole",
+    "name_mr": "",
+    "code": "567270",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567279",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Bhendavade",
+    "name_mr": "",
+    "code": "567279",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567277",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Tasgaon",
+    "name_mr": "",
+    "code": "567277",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567274",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Kasarwadi",
+    "name_mr": "",
+    "code": "567274",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567276",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Sambhapur",
+    "name_mr": "",
+    "code": "567276",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567285",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Kapurwadi",
+    "name_mr": "",
+    "code": "567285",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567275",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Top",
+    "name_mr": "",
+    "code": "567275",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567288",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Nej",
+    "name_mr": "",
+    "code": "567288",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567293",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Laxmiwadi",
+    "name_mr": "",
+    "code": "567293",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567290",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Alte",
+    "name_mr": "",
+    "code": "567290",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567298",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Mauje Vadgaon",
+    "name_mr": "",
+    "code": "567298",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567292",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Birdevwadi",
+    "name_mr": "",
+    "code": "567292",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567299",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Herle",
+    "name_mr": "",
+    "code": "567299",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567300",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Male",
+    "name_mr": "",
+    "code": "567300",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567289",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Majale",
+    "name_mr": "",
+    "code": "567289",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567301",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Mudshingi",
+    "name_mr": "",
+    "code": "567301",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567296",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "567296",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-290434",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Hatkanangle (NP)",
+    "name_mr": "",
+    "code": "290434",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567303",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Atigre",
+    "name_mr": "",
+    "code": "567303",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567304",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Mangaonwadi",
+    "name_mr": "",
+    "code": "567304",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567302",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Chokak",
+    "name_mr": "",
+    "code": "567302",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567297",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Halondi",
+    "name_mr": "",
+    "code": "567297",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567294",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Rukadi",
+    "name_mr": "",
+    "code": "567294",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567306",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Sajani",
+    "name_mr": "",
+    "code": "567306",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567307",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Tilwani",
+    "name_mr": "",
+    "code": "567307",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567305",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Mangaon",
+    "name_mr": "",
+    "code": "567305",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567312",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Khotwadi",
+    "name_mr": "",
+    "code": "567312",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567308",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Rui",
+    "name_mr": "",
+    "code": "567308",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-251619",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Ichalkranji (M Corp)",
+    "name_mr": "",
+    "code": "251619",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567310",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Pattan Kodoli",
+    "name_mr": "",
+    "code": "567310",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567313",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Chandur",
+    "name_mr": "",
+    "code": "567313",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567309",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Ingali",
+    "name_mr": "",
+    "code": "567309",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-276296",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Hupri (M CI)",
+    "name_mr": "",
+    "code": "276296",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567315",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Rangoli",
+    "name_mr": "",
+    "code": "567315",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567314",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Talandage",
+    "name_mr": "",
+    "code": "567314",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567317",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Rendal (CT)",
+    "name_mr": "",
+    "code": "567317",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567316",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Jangamwadi",
+    "name_mr": "",
+    "code": "567316",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567318",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Yalgud",
+    "name_mr": "",
+    "code": "567318",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567261",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Nilewadi",
+    "name_mr": "",
+    "code": "567261",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567320",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Kabnur (CT)",
+    "name_mr": "",
+    "code": "567320",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652185",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Jawaharnagar",
+    "name_mr": "",
+    "code": "652185",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567319",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Korochi (CT)",
+    "name_mr": "",
+    "code": "567319",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652184",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Vivekanandnagar",
+    "name_mr": "",
+    "code": "652184",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567278",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Latavade",
+    "name_mr": "",
+    "code": "567278",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652178",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Amboli",
+    "name_mr": "",
+    "code": "652178",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567282",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Narande",
+    "name_mr": "",
+    "code": "567282",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652180",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Tanali",
+    "name_mr": "",
+    "code": "652180",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652182",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Shiroli MIDC",
+    "name_mr": "",
+    "code": "652182",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567295",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Shiroli (CT)",
+    "name_mr": "",
+    "code": "567295",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567311",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Tardal (CT)",
+    "name_mr": "",
+    "code": "567311",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652183",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Samarthnagar",
+    "name_mr": "",
+    "code": "652183",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567266",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Vathar Tarf Vadgaon",
+    "name_mr": "",
+    "code": "567266",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652176",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Nivale",
+    "name_mr": "",
+    "code": "652176",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567287",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Kumbhoj",
+    "name_mr": "",
+    "code": "567287",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652181",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Durgewadi",
+    "name_mr": "",
+    "code": "652181",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-567271",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Vadgaon Kasaba",
+    "name_mr": "",
+    "code": "567271",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  },
+  {
+    "village_id": "v-652179",
+    "district_id": "kolh-pur",
+    "taluka_id": "hatkanangle",
+    "name_en": "Sonarli (N.V.)",
+    "name_mr": "",
+    "code": "652179",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/hatkanangle.geojson"
+  }
+]

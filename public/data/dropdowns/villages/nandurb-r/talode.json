@@ -1,0 +1,884 @@
+[
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525399",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Alwan",
+    "name_mr": "",
+    "code": "525399",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525421",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Singaspur",
+    "name_mr": "",
+    "code": "525421",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525400",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Gadhavali",
+    "name_mr": "",
+    "code": "525400",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525419",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Juwani(F)",
+    "name_mr": "",
+    "code": "525419",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525402",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Khardi Kh",
+    "name_mr": "",
+    "code": "525402",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525418",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ban",
+    "name_mr": "",
+    "code": "525418",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525420",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Malde",
+    "name_mr": "",
+    "code": "525420",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-112",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525427",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Bandhare",
+    "name_mr": "",
+    "code": "525427",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525424",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Lakhapur (Rev)",
+    "name_mr": "",
+    "code": "525424",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525425",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Dhanpur",
+    "name_mr": "",
+    "code": "525425",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525403",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Padalpur",
+    "name_mr": "",
+    "code": "525403",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525398",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kothar",
+    "name_mr": "",
+    "code": "525398",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525422",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Karde",
+    "name_mr": "",
+    "code": "525422",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525364",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Sojarbara",
+    "name_mr": "",
+    "code": "525364",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525401",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Khardi Bk",
+    "name_mr": "",
+    "code": "525401",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525361",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Biyamal",
+    "name_mr": "",
+    "code": "525361",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525426",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Sawarpada",
+    "name_mr": "",
+    "code": "525426",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525394",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Mal Kh",
+    "name_mr": "",
+    "code": "525394",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525431",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Borad",
+    "name_mr": "",
+    "code": "525431",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525428",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ranipur",
+    "name_mr": "",
+    "code": "525428",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525430",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Nyuban",
+    "name_mr": "",
+    "code": "525430",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525404",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "525404",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525433",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Pratappur",
+    "name_mr": "",
+    "code": "525433",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525429",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Selingpur",
+    "name_mr": "",
+    "code": "525429",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525432",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Chhotadhanpur",
+    "name_mr": "",
+    "code": "525432",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525409",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Revanagar",
+    "name_mr": "",
+    "code": "525409",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525407",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Rozave",
+    "name_mr": "",
+    "code": "525407",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525367",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Sardarnagar",
+    "name_mr": "",
+    "code": "525367",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525360",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kundave",
+    "name_mr": "",
+    "code": "525360",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525359",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Sawar",
+    "name_mr": "",
+    "code": "525359",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525369",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Pimparpada",
+    "name_mr": "",
+    "code": "525369",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525358",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ichhagavhan",
+    "name_mr": "",
+    "code": "525358",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-113",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525405",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ranzani",
+    "name_mr": "",
+    "code": "525405",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525363",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Walheri",
+    "name_mr": "",
+    "code": "525363",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525362",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ekdhad",
+    "name_mr": "",
+    "code": "525362",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525366",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Dekati",
+    "name_mr": "",
+    "code": "525366",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-114",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525434",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ashte Tarf Borad",
+    "name_mr": "",
+    "code": "525434",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525435",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kalamsare",
+    "name_mr": "",
+    "code": "525435",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525436",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Mohida",
+    "name_mr": "",
+    "code": "525436",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525365",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Narmadanagar",
+    "name_mr": "",
+    "code": "525365",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525442",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Umri",
+    "name_mr": "",
+    "code": "525442",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525441",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Chaugaon Bk",
+    "name_mr": "",
+    "code": "525441",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525437",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Salsadi",
+    "name_mr": "",
+    "code": "525437",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525370",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Retpada",
+    "name_mr": "",
+    "code": "525370",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525412",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Chinode",
+    "name_mr": "",
+    "code": "525412",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525438",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Navagaon",
+    "name_mr": "",
+    "code": "525438",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525444",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Mod",
+    "name_mr": "",
+    "code": "525444",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525411",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Dalelpur",
+    "name_mr": "",
+    "code": "525411",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525413",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kazipur Talawadi",
+    "name_mr": "",
+    "code": "525413",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525440",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Morwad",
+    "name_mr": "",
+    "code": "525440",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525439",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Talve",
+    "name_mr": "",
+    "code": "525439",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525445",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kharwad",
+    "name_mr": "",
+    "code": "525445",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525381",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Rajviri",
+    "name_mr": "",
+    "code": "525381",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525380",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Belipada",
+    "name_mr": "",
+    "code": "525380",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525446",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kadhel",
+    "name_mr": "",
+    "code": "525446",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525371",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ratanpada",
+    "name_mr": "",
+    "code": "525371",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525410",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Halalpur",
+    "name_mr": "",
+    "code": "525410",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525373",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Sorapada",
+    "name_mr": "",
+    "code": "525373",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525443",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Gunjali",
+    "name_mr": "",
+    "code": "525443",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525384",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Budhaval",
+    "name_mr": "",
+    "code": "525384",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525368",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Amalpada",
+    "name_mr": "",
+    "code": "525368",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525372",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Umarkuwa",
+    "name_mr": "",
+    "code": "525372",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525374",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ranapur",
+    "name_mr": "",
+    "code": "525374",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525375",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Shirve",
+    "name_mr": "",
+    "code": "525375",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525378",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Khusgavhan",
+    "name_mr": "",
+    "code": "525378",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525379",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Somawal Kh",
+    "name_mr": "",
+    "code": "525379",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525388",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Shelwai",
+    "name_mr": "",
+    "code": "525388",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525376",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Padhadi",
+    "name_mr": "",
+    "code": "525376",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525387",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Kakalpur",
+    "name_mr": "",
+    "code": "525387",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525416",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Amaled",
+    "name_mr": "",
+    "code": "525416",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525414",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Bhavar",
+    "name_mr": "",
+    "code": "525414",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525382",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Budhavali",
+    "name_mr": "",
+    "code": "525382",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525448",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Dhanore",
+    "name_mr": "",
+    "code": "525448",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525386",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Ziri",
+    "name_mr": "",
+    "code": "525386",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525450",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Tarhavad",
+    "name_mr": "",
+    "code": "525450",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525385",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Nalgavhan",
+    "name_mr": "",
+    "code": "525385",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-251275",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Talode (M Cl)",
+    "name_mr": "",
+    "code": "251275",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525449",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Khedale",
+    "name_mr": "",
+    "code": "525449",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525390",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Modalpada",
+    "name_mr": "",
+    "code": "525390",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525389",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "525389",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525383",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Lobhani",
+    "name_mr": "",
+    "code": "525383",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525377",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Somawal Bk",
+    "name_mr": "",
+    "code": "525377",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525392",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Mendhwad",
+    "name_mr": "",
+    "code": "525392",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525447",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Daswad",
+    "name_mr": "",
+    "code": "525447",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525393",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Gaulanpada",
+    "name_mr": "",
+    "code": "525393",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525391",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Satone",
+    "name_mr": "",
+    "code": "525391",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525395",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Chaugaon Kh",
+    "name_mr": "",
+    "code": "525395",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525397",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Lakkadkot",
+    "name_mr": "",
+    "code": "525397",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525406",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Rozave Reselle",
+    "name_mr": "",
+    "code": "525406",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525423",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Juwani (R)",
+    "name_mr": "",
+    "code": "525423",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525417",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Lakhapur (F)",
+    "name_mr": "",
+    "code": "525417",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525408",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Amoni",
+    "name_mr": "",
+    "code": "525408",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-525396",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Rapapur",
+    "name_mr": "",
+    "code": "525396",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  },
+  {
+    "village_id": "v-914325",
+    "district_id": "nandurb-r",
+    "taluka_id": "talode",
+    "name_en": "Dhavlivihir (N.V.)",
+    "name_mr": "",
+    "code": "914325",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/talode.geojson"
+  }
+]

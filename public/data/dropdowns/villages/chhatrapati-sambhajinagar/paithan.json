@@ -1,0 +1,1775 @@
+[
+  {
+    "village_id": "v-559095",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kuranpimpri",
+    "name_mr": "",
+    "code": "559095",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549558",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Apegaon",
+    "name_mr": "",
+    "code": "549558",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549579",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pategaon",
+    "name_mr": "",
+    "code": "549579",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549556",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Hingani",
+    "name_mr": "",
+    "code": "549556",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549580",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Chanakwadi",
+    "name_mr": "",
+    "code": "549580",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549581",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Telwadi",
+    "name_mr": "",
+    "code": "549581",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549578",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dadegaon Jahagir",
+    "name_mr": "",
+    "code": "549578",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-27",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549561",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Navgaon",
+    "name_mr": "",
+    "code": "549561",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549559",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Agapur",
+    "name_mr": "",
+    "code": "549559",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549560",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mayagaon",
+    "name_mr": "",
+    "code": "549560",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549584",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "549584",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549588",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "549588",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549589",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "549589",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549428",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dhakephal",
+    "name_mr": "",
+    "code": "549428",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549427",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mankapur",
+    "name_mr": "",
+    "code": "549427",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549536",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Harshi Bk",
+    "name_mr": "",
+    "code": "549536",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549459",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "549459",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549547",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kutub Kheda",
+    "name_mr": "",
+    "code": "549547",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549544",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dera",
+    "name_mr": "",
+    "code": "549544",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-28",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549568",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Katpur",
+    "name_mr": "",
+    "code": "549568",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549546",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kaundar",
+    "name_mr": "",
+    "code": "549546",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-251433",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Paithan (M Cl)",
+    "name_mr": "",
+    "code": "251433",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-29",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549583",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Sonwadi (Khadgaon)",
+    "name_mr": "",
+    "code": "549583",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549545",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Nandar",
+    "name_mr": "",
+    "code": "549545",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549571",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Solanapur",
+    "name_mr": "",
+    "code": "549571",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549574",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Akhatwada",
+    "name_mr": "",
+    "code": "549574",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549549",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "549549",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-30",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549548",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Salwadgaon",
+    "name_mr": "",
+    "code": "549548",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549550",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kekat Jalgaon",
+    "name_mr": "",
+    "code": "549550",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549575",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Panthewadi",
+    "name_mr": "",
+    "code": "549575",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549572",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Shringarwadi",
+    "name_mr": "",
+    "code": "549572",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549555",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Bramhagaon",
+    "name_mr": "",
+    "code": "549555",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549554",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Vihamandwa",
+    "name_mr": "",
+    "code": "549554",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549582",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kawasan",
+    "name_mr": "",
+    "code": "549582",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549577",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Wadwali",
+    "name_mr": "",
+    "code": "549577",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549552",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Chinchala",
+    "name_mr": "",
+    "code": "549552",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549587",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Changatpuri",
+    "name_mr": "",
+    "code": "549587",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549564",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Hiradpuri",
+    "name_mr": "",
+    "code": "549564",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549563",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Takali Ambad",
+    "name_mr": "",
+    "code": "549563",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549562",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Awade Uchegaon",
+    "name_mr": "",
+    "code": "549562",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549585",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ghari",
+    "name_mr": "",
+    "code": "549585",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549586",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ismailpur",
+    "name_mr": "",
+    "code": "549586",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549565",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pimpalwadi(pirachi)",
+    "name_mr": "",
+    "code": "549565",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549492",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Diyanatpur",
+    "name_mr": "",
+    "code": "549492",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549534",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pusegaon",
+    "name_mr": "",
+    "code": "549534",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549537",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Thergaon",
+    "name_mr": "",
+    "code": "549537",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549570",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Rahatgaon",
+    "name_mr": "",
+    "code": "549570",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549533",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Nanegaon",
+    "name_mr": "",
+    "code": "549533",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549426",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Balapur",
+    "name_mr": "",
+    "code": "549426",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549538",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Murma",
+    "name_mr": "",
+    "code": "549538",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549425",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Shevata",
+    "name_mr": "",
+    "code": "549425",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549429",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Aurangpur Buttewadi",
+    "name_mr": "",
+    "code": "549429",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549491",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pachalgaon",
+    "name_mr": "",
+    "code": "549491",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549430",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Amrapur",
+    "name_mr": "",
+    "code": "549430",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-31",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549493",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Narayangaon",
+    "name_mr": "",
+    "code": "549493",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549542",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dadegaon Bk",
+    "name_mr": "",
+    "code": "549542",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549567",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mudhalwadi",
+    "name_mr": "",
+    "code": "549567",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549431",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Taru Pimpalwadi",
+    "name_mr": "",
+    "code": "549431",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549539",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Koli Bodkha",
+    "name_mr": "",
+    "code": "549539",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-32",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549541",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dadegaon Kh",
+    "name_mr": "",
+    "code": "549541",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549566",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dalwadi",
+    "name_mr": "",
+    "code": "549566",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549540",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Wadji",
+    "name_mr": "",
+    "code": "549540",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549569",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Karanj Kheda",
+    "name_mr": "",
+    "code": "549569",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549433",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Naigavhan",
+    "name_mr": "",
+    "code": "549433",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549438",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Bokud Jalgaon",
+    "name_mr": "",
+    "code": "549438",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549434",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Khandewadi",
+    "name_mr": "",
+    "code": "549434",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549592",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Chitegaon",
+    "name_mr": "",
+    "code": "549592",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549435",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kesapuri",
+    "name_mr": "",
+    "code": "549435",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549436",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "549436",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549439",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Patode Wadgaon",
+    "name_mr": "",
+    "code": "549439",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549440",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Meharban Naik Tanda",
+    "name_mr": "",
+    "code": "549440",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549460",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Nilajgaon",
+    "name_mr": "",
+    "code": "549460",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549441",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "549441",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549437",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pangra",
+    "name_mr": "",
+    "code": "549437",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549450",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Imampur",
+    "name_mr": "",
+    "code": "549450",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549449",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "549449",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549448",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Paithan kheda",
+    "name_mr": "",
+    "code": "549448",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549496",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ektuni",
+    "name_mr": "",
+    "code": "549496",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549443",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Itawa",
+    "name_mr": "",
+    "code": "549443",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549495",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Gharegaon",
+    "name_mr": "",
+    "code": "549495",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549447",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Jaitpur",
+    "name_mr": "",
+    "code": "549447",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549497",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "549497",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549442",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "549442",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549505",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Adool Bk",
+    "name_mr": "",
+    "code": "549505",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549494",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Muradabad",
+    "name_mr": "",
+    "code": "549494",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549446",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mharola",
+    "name_mr": "",
+    "code": "549446",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549445",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Farola",
+    "name_mr": "",
+    "code": "549445",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549444",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Shivani",
+    "name_mr": "",
+    "code": "549444",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549451",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Godhegaon Gangapur",
+    "name_mr": "",
+    "code": "549451",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549500",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Adool Kh",
+    "name_mr": "",
+    "code": "549500",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549453",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ranjangaon Khuri",
+    "name_mr": "",
+    "code": "549453",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549452",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ballalpur",
+    "name_mr": "",
+    "code": "549452",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549499",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "549499",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549498",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Thapati Tanda",
+    "name_mr": "",
+    "code": "549498",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549458",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Bidkin",
+    "name_mr": "",
+    "code": "549458",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549501",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Georai KH",
+    "name_mr": "",
+    "code": "549501",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549502",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Georai BK",
+    "name_mr": "",
+    "code": "549502",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549465",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Padli",
+    "name_mr": "",
+    "code": "549465",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549467",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Warwandi Kh",
+    "name_mr": "",
+    "code": "549467",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549504",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Abdullapur",
+    "name_mr": "",
+    "code": "549504",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549507",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Devgaon Tanda",
+    "name_mr": "",
+    "code": "549507",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549506",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Devgaon",
+    "name_mr": "",
+    "code": "549506",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549470",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Gazipur",
+    "name_mr": "",
+    "code": "549470",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549454",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ranjani",
+    "name_mr": "",
+    "code": "549454",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549461",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Wadgavhan",
+    "name_mr": "",
+    "code": "549461",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549508",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dabhrul",
+    "name_mr": "",
+    "code": "549508",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549512",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Adool Tanda",
+    "name_mr": "",
+    "code": "549512",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549503",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Honobachiwadi",
+    "name_mr": "",
+    "code": "549503",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549455",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Islampur",
+    "name_mr": "",
+    "code": "549455",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549466",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dongri Naik Tanda",
+    "name_mr": "",
+    "code": "549466",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549457",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Banni Tanda",
+    "name_mr": "",
+    "code": "549457",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549471",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Lakhegaon",
+    "name_mr": "",
+    "code": "549471",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549463",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Gidhada",
+    "name_mr": "",
+    "code": "549463",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549511",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Bramhangaon",
+    "name_mr": "",
+    "code": "549511",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549456",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Bangala Tanda",
+    "name_mr": "",
+    "code": "549456",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549468",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Porgaon Tanda",
+    "name_mr": "",
+    "code": "549468",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549469",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Porgaon",
+    "name_mr": "",
+    "code": "549469",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549509",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "549509",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549411",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Nandalgaon",
+    "name_mr": "",
+    "code": "549411",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549403",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Shekta",
+    "name_mr": "",
+    "code": "549403",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549510",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Antarwali Khandi",
+    "name_mr": "",
+    "code": "549510",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549462",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Sompuri",
+    "name_mr": "",
+    "code": "549462",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549513",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Parundi",
+    "name_mr": "",
+    "code": "549513",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549474",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "549474",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549516",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Parundi Tanda",
+    "name_mr": "",
+    "code": "549516",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549472",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Alipur",
+    "name_mr": "",
+    "code": "549472",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549514",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Tupewadi",
+    "name_mr": "",
+    "code": "549514",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549475",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Tekadi Tanda",
+    "name_mr": "",
+    "code": "549475",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549404",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Tulapur",
+    "name_mr": "",
+    "code": "549404",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549464",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Aliyabad",
+    "name_mr": "",
+    "code": "549464",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549518",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Georai Marda",
+    "name_mr": "",
+    "code": "549518",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549520",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kadethan BK",
+    "name_mr": "",
+    "code": "549520",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549410",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kaudgaon",
+    "name_mr": "",
+    "code": "549410",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549473",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Georai Bashi",
+    "name_mr": "",
+    "code": "549473",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549476",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "549476",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549405",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Aurangpur",
+    "name_mr": "",
+    "code": "549405",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549479",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Karkin",
+    "name_mr": "",
+    "code": "549479",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549408",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Jainpur",
+    "name_mr": "",
+    "code": "549408",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549407",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Tondoli",
+    "name_mr": "",
+    "code": "549407",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549406",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Gadhegaon Paithan",
+    "name_mr": "",
+    "code": "549406",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549412",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Taherpur",
+    "name_mr": "",
+    "code": "549412",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549477",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Balanagar",
+    "name_mr": "",
+    "code": "549477",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549409",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mohalkheda",
+    "name_mr": "",
+    "code": "549409",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549413",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dhupkheda",
+    "name_mr": "",
+    "code": "549413",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549519",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kadethan KH",
+    "name_mr": "",
+    "code": "549519",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549420",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Bramhagavhan",
+    "name_mr": "",
+    "code": "549420",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549517",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "549517",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549478",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kapuswadi",
+    "name_mr": "",
+    "code": "549478",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549419",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Lohagaon KH",
+    "name_mr": "",
+    "code": "549419",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549414",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dinnapur",
+    "name_mr": "",
+    "code": "549414",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549480",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dhorkin",
+    "name_mr": "",
+    "code": "549480",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549515",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Yasinpur",
+    "name_mr": "",
+    "code": "549515",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549522",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Tanda BK",
+    "name_mr": "",
+    "code": "549522",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549418",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Lohagaon BK",
+    "name_mr": "",
+    "code": "549418",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549523",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Khadgaon",
+    "name_mr": "",
+    "code": "549523",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549524",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Ranjangaon Dandga",
+    "name_mr": "",
+    "code": "549524",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549521",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Tanda KH",
+    "name_mr": "",
+    "code": "549521",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549481",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "549481",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549416",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Shahapur Manegaon",
+    "name_mr": "",
+    "code": "549416",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549482",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Wawa",
+    "name_mr": "",
+    "code": "549482",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549415",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Chauryahattar Jalgaon",
+    "name_mr": "",
+    "code": "549415",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549487",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Takli Paithan",
+    "name_mr": "",
+    "code": "549487",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549421",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mavasgavhan",
+    "name_mr": "",
+    "code": "549421",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549530",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Inayatpur",
+    "name_mr": "",
+    "code": "549530",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549417",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Khamjalgaon",
+    "name_mr": "",
+    "code": "549417",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549528",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Limbgaon",
+    "name_mr": "",
+    "code": "549528",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549486",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dhangaon",
+    "name_mr": "",
+    "code": "549486",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549483",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kasarpadli",
+    "name_mr": "",
+    "code": "549483",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549525",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Sajegaon",
+    "name_mr": "",
+    "code": "549525",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549422",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Lamgavhan",
+    "name_mr": "",
+    "code": "549422",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549527",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pachod BK",
+    "name_mr": "",
+    "code": "549527",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549532",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Kherda",
+    "name_mr": "",
+    "code": "549532",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549488",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "549488",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549526",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Pachod KH",
+    "name_mr": "",
+    "code": "549526",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549531",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Sonwadi KH",
+    "name_mr": "",
+    "code": "549531",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549489",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Isarwadi",
+    "name_mr": "",
+    "code": "549489",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549424",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mulani Wadgaon",
+    "name_mr": "",
+    "code": "549424",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549529",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Sonwadi BK",
+    "name_mr": "",
+    "code": "549529",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549485",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Shahapur Wahegaon",
+    "name_mr": "",
+    "code": "549485",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549535",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Harshi Kh",
+    "name_mr": "",
+    "code": "549535",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549423",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Jogeshwari",
+    "name_mr": "",
+    "code": "549423",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549490",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Wahegaon",
+    "name_mr": "",
+    "code": "549490",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549543",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Dawarwadi",
+    "name_mr": "",
+    "code": "549543",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549484",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Warudi BK",
+    "name_mr": "",
+    "code": "549484",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549553",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Hiwara Chondhala",
+    "name_mr": "",
+    "code": "549553",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549573",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Anandpur",
+    "name_mr": "",
+    "code": "549573",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549551",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Mirkheda",
+    "name_mr": "",
+    "code": "549551",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549557",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Indegaon",
+    "name_mr": "",
+    "code": "549557",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549576",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Waghadi",
+    "name_mr": "",
+    "code": "549576",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  },
+  {
+    "village_id": "v-549432",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "paithan",
+    "name_en": "Hanumantgaon",
+    "name_mr": "",
+    "code": "549432",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/paithan.geojson"
+  }
+]

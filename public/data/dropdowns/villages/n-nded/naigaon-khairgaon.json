@@ -1,0 +1,839 @@
+[
+  {
+    "village_id": "v-545108",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Izatgaon (M)",
+    "name_mr": "",
+    "code": "545108",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545104",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "545104",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545101",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mamnyal",
+    "name_mr": "",
+    "code": "545101",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545102",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Patoda (T.B.)",
+    "name_mr": "",
+    "code": "545102",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545106",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Izatgaon Bk",
+    "name_mr": "",
+    "code": "545106",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545115",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kahala Bk.",
+    "name_mr": "",
+    "code": "545115",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545109",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "545109",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545114",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kahala Kh",
+    "name_mr": "",
+    "code": "545114",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545107",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Sadakpur",
+    "name_mr": "",
+    "code": "545107",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545113",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kushanoor",
+    "name_mr": "",
+    "code": "545113",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545111",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Rui Bk",
+    "name_mr": "",
+    "code": "545111",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545116",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mandni",
+    "name_mr": "",
+    "code": "545116",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545112",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Sawarkhed",
+    "name_mr": "",
+    "code": "545112",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545110",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Rui Kh",
+    "name_mr": "",
+    "code": "545110",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545181",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Aluwadgaon",
+    "name_mr": "",
+    "code": "545181",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545186",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Takli(T.M.)",
+    "name_mr": "",
+    "code": "545186",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545162",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Dhuppa",
+    "name_mr": "",
+    "code": "545162",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545183",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Karla T.M.",
+    "name_mr": "",
+    "code": "545183",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545184",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mahegaon",
+    "name_mr": "",
+    "code": "545184",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545163",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Bhopala",
+    "name_mr": "",
+    "code": "545163",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545165",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Takli Bk.",
+    "name_mr": "",
+    "code": "545165",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545187",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mugaon",
+    "name_mr": "",
+    "code": "545187",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545189",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Dhanora T.M.",
+    "name_mr": "",
+    "code": "545189",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545188",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mugaon Tanda",
+    "name_mr": "",
+    "code": "545188",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545099",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Takli(T.B.)",
+    "name_mr": "",
+    "code": "545099",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545100",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Vanzirgaon",
+    "name_mr": "",
+    "code": "545100",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545103",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Barbada",
+    "name_mr": "",
+    "code": "545103",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545105",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Manur Tarf Ba",
+    "name_mr": "",
+    "code": "545105",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545123",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Sategaon",
+    "name_mr": "",
+    "code": "545123",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545117",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "545117",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545122",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Vanjarwadi",
+    "name_mr": "",
+    "code": "545122",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545121",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Ghungrala",
+    "name_mr": "",
+    "code": "545121",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545126",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Melgaon",
+    "name_mr": "",
+    "code": "545126",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545124",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Ikalimal",
+    "name_mr": "",
+    "code": "545124",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545133",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kuntoor",
+    "name_mr": "",
+    "code": "545133",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545119",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Hiparga (Janerao)",
+    "name_mr": "",
+    "code": "545119",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545125",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Sangvi",
+    "name_mr": "",
+    "code": "545125",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545127",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Dhanaj",
+    "name_mr": "",
+    "code": "545127",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545118",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Babulgaon",
+    "name_mr": "",
+    "code": "545118",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545120",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Nilegavhan",
+    "name_mr": "",
+    "code": "545120",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545166",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Narangal",
+    "name_mr": "",
+    "code": "545166",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545128",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Hussa",
+    "name_mr": "",
+    "code": "545128",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545143",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Ransugaon",
+    "name_mr": "",
+    "code": "545143",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545132",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Paradwadi",
+    "name_mr": "",
+    "code": "545132",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545145",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Takbid",
+    "name_mr": "",
+    "code": "545145",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545148",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "545148",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545129",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Raher",
+    "name_mr": "",
+    "code": "545129",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545144",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Talbid",
+    "name_mr": "",
+    "code": "545144",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545167",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Ancholi",
+    "name_mr": "",
+    "code": "545167",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545146",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Takalgaon",
+    "name_mr": "",
+    "code": "545146",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545131",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Salegaon",
+    "name_mr": "",
+    "code": "545131",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545147",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "545147",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545169",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kolambi",
+    "name_mr": "",
+    "code": "545169",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545134",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Charwadi",
+    "name_mr": "",
+    "code": "545134",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545130",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "545130",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545137",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Hangraga",
+    "name_mr": "",
+    "code": "545137",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545168",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Godamgaon",
+    "name_mr": "",
+    "code": "545168",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545153",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Lalwandi",
+    "name_mr": "",
+    "code": "545153",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545138",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Awrala",
+    "name_mr": "",
+    "code": "545138",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545170",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "545170",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545139",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kauthala",
+    "name_mr": "",
+    "code": "545139",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545149",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Shelgaon Chatri",
+    "name_mr": "",
+    "code": "545149",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545141",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Sujlegaon",
+    "name_mr": "",
+    "code": "545141",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545171",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Manjram",
+    "name_mr": "",
+    "code": "545171",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545152",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Naigaonwadi",
+    "name_mr": "",
+    "code": "545152",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-276623",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Naigaon (NP)",
+    "name_mr": "",
+    "code": "276623",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545140",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Iklimore",
+    "name_mr": "",
+    "code": "545140",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545154",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Bendri",
+    "name_mr": "",
+    "code": "545154",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545150",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Betak Biloli",
+    "name_mr": "",
+    "code": "545150",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545155",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "545155",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545158",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Khairgaon",
+    "name_mr": "",
+    "code": "545158",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545173",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Manjramwadi",
+    "name_mr": "",
+    "code": "545173",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545157",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "545157",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545156",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Khandgaon",
+    "name_mr": "",
+    "code": "545156",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545142",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mustapur",
+    "name_mr": "",
+    "code": "545142",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545172",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Mokasdara",
+    "name_mr": "",
+    "code": "545172",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545176",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Gadga",
+    "name_mr": "",
+    "code": "545176",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545159",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Narsi",
+    "name_mr": "",
+    "code": "545159",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545160",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Hotala",
+    "name_mr": "",
+    "code": "545160",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545174",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kedar Wadgaon",
+    "name_mr": "",
+    "code": "545174",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545175",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Nawandi",
+    "name_mr": "",
+    "code": "545175",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545177",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kopra",
+    "name_mr": "",
+    "code": "545177",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545178",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Marwali Tanda",
+    "name_mr": "",
+    "code": "545178",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545182",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Tembhurni",
+    "name_mr": "",
+    "code": "545182",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545179",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kandala",
+    "name_mr": "",
+    "code": "545179",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545180",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Marwali",
+    "name_mr": "",
+    "code": "545180",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545164",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Shelgaon (Gauri)",
+    "name_mr": "",
+    "code": "545164",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545135",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kokalegaon",
+    "name_mr": "",
+    "code": "545135",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545136",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Rajgadnagar",
+    "name_mr": "",
+    "code": "545136",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545161",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Kuncholi",
+    "name_mr": "",
+    "code": "545161",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-651926",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Deepnagar Tanda",
+    "name_mr": "",
+    "code": "651926",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-545185",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Ratoli",
+    "name_mr": "",
+    "code": "545185",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  },
+  {
+    "village_id": "v-651927",
+    "district_id": "n-nded",
+    "taluka_id": "naigaon-khairgaon",
+    "name_en": "Ratoli Tanda",
+    "name_mr": "",
+    "code": "651927",
+    "boundary_file": "/data/boundaries/villages/n-nded/naigaon-khairgaon.geojson"
+  }
+]

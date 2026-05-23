@@ -1,0 +1,1361 @@
+[
+  {
+    "village_id": "v-532948",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mahimapur",
+    "name_mr": "",
+    "code": "532948",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532955",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bembala Bk",
+    "name_mr": "",
+    "code": "532955",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532957",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Pralhadpur",
+    "name_mr": "",
+    "code": "532957",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532946",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sangawa Kh",
+    "name_mr": "",
+    "code": "532946",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532954",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shivarkheda",
+    "name_mr": "",
+    "code": "532954",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532949",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Elori Mirzapur",
+    "name_mr": "",
+    "code": "532949",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532953",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ghada",
+    "name_mr": "",
+    "code": "532953",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532951",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "532951",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532929",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Chandur",
+    "name_mr": "",
+    "code": "532929",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532993",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khalilpur",
+    "name_mr": "",
+    "code": "532993",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532928",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Lodhipur",
+    "name_mr": "",
+    "code": "532928",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532887",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Samada",
+    "name_mr": "",
+    "code": "532887",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532996",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jitapur",
+    "name_mr": "",
+    "code": "532996",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532924",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jahanpur",
+    "name_mr": "",
+    "code": "532924",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532932",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Thilori",
+    "name_mr": "",
+    "code": "532932",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532897",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bhamod",
+    "name_mr": "",
+    "code": "532897",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532859",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Wadner Gangai-1",
+    "name_mr": "",
+    "code": "532859",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532947",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sangawa Bk.",
+    "name_mr": "",
+    "code": "532947",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532956",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khalar",
+    "name_mr": "",
+    "code": "532956",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532950",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jahanpur",
+    "name_mr": "",
+    "code": "532950",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532862",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Yeoda-1",
+    "name_mr": "",
+    "code": "532862",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532958",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bembala Kh.",
+    "name_mr": "",
+    "code": "532958",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532952",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Wadura",
+    "name_mr": "",
+    "code": "532952",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532867",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Umari Itbarpur",
+    "name_mr": "",
+    "code": "532867",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532866",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kuberi",
+    "name_mr": "",
+    "code": "532866",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532868",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Wadal Gawhan",
+    "name_mr": "",
+    "code": "532868",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532865",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Umari Mamdabad",
+    "name_mr": "",
+    "code": "532865",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532967",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "532967",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532963",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Chandpur",
+    "name_mr": "",
+    "code": "532963",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532966",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Malkapur Bk.",
+    "name_mr": "",
+    "code": "532966",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532869",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Tamaswadi",
+    "name_mr": "",
+    "code": "532869",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532960",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Uparai",
+    "name_mr": "",
+    "code": "532960",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532962",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Gaurkheda",
+    "name_mr": "",
+    "code": "532962",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532959",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Landi",
+    "name_mr": "",
+    "code": "532959",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532861",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Warud Bk.",
+    "name_mr": "",
+    "code": "532861",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532916",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khurmabad",
+    "name_mr": "",
+    "code": "532916",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532964",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khirgavhan",
+    "name_mr": "",
+    "code": "532964",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532973",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kolambi",
+    "name_mr": "",
+    "code": "532973",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532870",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "532870",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532864",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Telkheda",
+    "name_mr": "",
+    "code": "532864",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532961",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Markanda",
+    "name_mr": "",
+    "code": "532961",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532965",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Chandai",
+    "name_mr": "",
+    "code": "532965",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532917",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Nachona",
+    "name_mr": "",
+    "code": "532917",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532982",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "532982",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532970",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Nalwada",
+    "name_mr": "",
+    "code": "532970",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532968",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mhaispur",
+    "name_mr": "",
+    "code": "532968",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532863",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Katkheda",
+    "name_mr": "",
+    "code": "532863",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532971",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khanpur",
+    "name_mr": "",
+    "code": "532971",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532871",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Itki",
+    "name_mr": "",
+    "code": "532871",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532860",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Rajkhed",
+    "name_mr": "",
+    "code": "532860",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532983",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Takar Kheda Kawade",
+    "name_mr": "",
+    "code": "532983",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532972",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ramgaon",
+    "name_mr": "",
+    "code": "532972",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532969",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mulpatabad",
+    "name_mr": "",
+    "code": "532969",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532985",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Chandikapur",
+    "name_mr": "",
+    "code": "532985",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532879",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Yerandgaon",
+    "name_mr": "",
+    "code": "532879",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532984",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Matargaon",
+    "name_mr": "",
+    "code": "532984",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532974",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kanholi",
+    "name_mr": "",
+    "code": "532974",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532872",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sangkud",
+    "name_mr": "",
+    "code": "532872",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532918",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Gajipur",
+    "name_mr": "",
+    "code": "532918",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532976",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Nardoda",
+    "name_mr": "",
+    "code": "532976",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532921",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Lehegaon",
+    "name_mr": "",
+    "code": "532921",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532987",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Darapur",
+    "name_mr": "",
+    "code": "532987",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532880",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "532880",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532881",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Pimplod",
+    "name_mr": "",
+    "code": "532881",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532877",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jagarwadi",
+    "name_mr": "",
+    "code": "532877",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532922",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Hasanpur",
+    "name_mr": "",
+    "code": "532922",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532878",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sagarwadi",
+    "name_mr": "",
+    "code": "532878",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532986",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khel Nagawe",
+    "name_mr": "",
+    "code": "532986",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532920",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khursanpur",
+    "name_mr": "",
+    "code": "532920",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532977",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Alampur",
+    "name_mr": "",
+    "code": "532977",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532990",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Arala",
+    "name_mr": "",
+    "code": "532990",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532926",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Peth Itbarpur",
+    "name_mr": "",
+    "code": "532926",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532978",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sikandarpur",
+    "name_mr": "",
+    "code": "532978",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532876",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ghodchandi",
+    "name_mr": "",
+    "code": "532876",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532874",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bhuras Ramagad",
+    "name_mr": "",
+    "code": "532874",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532919",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sonkhas",
+    "name_mr": "",
+    "code": "532919",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532875",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Pimpal Khuta",
+    "name_mr": "",
+    "code": "532875",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532988",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shingnapur",
+    "name_mr": "",
+    "code": "532988",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532979",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mahuli Dhande",
+    "name_mr": "",
+    "code": "532979",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532884",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sasan Bk.",
+    "name_mr": "",
+    "code": "532884",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532927",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Babhali",
+    "name_mr": "",
+    "code": "532927",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532980",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Nandura",
+    "name_mr": "",
+    "code": "532980",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532991",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ahmadpur",
+    "name_mr": "",
+    "code": "532991",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532989",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "532989",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532923",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "532923",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532885",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sasan Ramapur",
+    "name_mr": "",
+    "code": "532885",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532882",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jainpur",
+    "name_mr": "",
+    "code": "532882",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532873",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kharsanglud",
+    "name_mr": "",
+    "code": "532873",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532925",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kapshi",
+    "name_mr": "",
+    "code": "532925",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532883",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Adula",
+    "name_mr": "",
+    "code": "532883",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532981",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Haibatpur",
+    "name_mr": "",
+    "code": "532981",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532992",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ajitpur",
+    "name_mr": "",
+    "code": "532992",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532995",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jasapur",
+    "name_mr": "",
+    "code": "532995",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532894",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Nandrun",
+    "name_mr": "",
+    "code": "532894",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532997",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bhambora",
+    "name_mr": "",
+    "code": "532997",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532931",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Daryapur",
+    "name_mr": "",
+    "code": "532931",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532886",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kasampur",
+    "name_mr": "",
+    "code": "532886",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532930",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Banosa",
+    "name_mr": "",
+    "code": "532930",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532896",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mhaispur",
+    "name_mr": "",
+    "code": "532896",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532895",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Patharvira",
+    "name_mr": "",
+    "code": "532895",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532893",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "532893",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532998",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "532998",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532994",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Nanded Bk.",
+    "name_mr": "",
+    "code": "532994",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532999",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "532999",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532898",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Lotwada",
+    "name_mr": "",
+    "code": "532898",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532937",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shiwar Bk.",
+    "name_mr": "",
+    "code": "532937",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532888",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mustafapur",
+    "name_mr": "",
+    "code": "532888",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532909",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "532909",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533000",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Umari Kuran",
+    "name_mr": "",
+    "code": "533000",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533003",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Narsingpur",
+    "name_mr": "",
+    "code": "533003",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532890",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shiwar Kh.",
+    "name_mr": "",
+    "code": "532890",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532936",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Gaiwadi",
+    "name_mr": "",
+    "code": "532936",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532908",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Eklara Bhamod",
+    "name_mr": "",
+    "code": "532908",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532891",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "532891",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532892",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Soundli Hirapur",
+    "name_mr": "",
+    "code": "532892",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533004",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ghuikhed",
+    "name_mr": "",
+    "code": "533004",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532899",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Chandkhed",
+    "name_mr": "",
+    "code": "532899",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533001",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kalamgavhan",
+    "name_mr": "",
+    "code": "533001",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532933",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kalashi",
+    "name_mr": "",
+    "code": "532933",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532907",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ramtirtha",
+    "name_mr": "",
+    "code": "532907",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532900",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ramagad",
+    "name_mr": "",
+    "code": "532900",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533005",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Amla",
+    "name_mr": "",
+    "code": "533005",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532906",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Lasur",
+    "name_mr": "",
+    "code": "532906",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533002",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Elichpur",
+    "name_mr": "",
+    "code": "533002",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532939",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Panora",
+    "name_mr": "",
+    "code": "532939",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532934",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sujapur",
+    "name_mr": "",
+    "code": "532934",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532901",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Tongala Bad",
+    "name_mr": "",
+    "code": "532901",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532935",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shinganwadi",
+    "name_mr": "",
+    "code": "532935",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532911",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Sonkhed",
+    "name_mr": "",
+    "code": "532911",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532902",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Dhamodi",
+    "name_mr": "",
+    "code": "532902",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532910",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Chandola",
+    "name_mr": "",
+    "code": "532910",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532912",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bhuikheda",
+    "name_mr": "",
+    "code": "532912",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532913",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Karatkhed",
+    "name_mr": "",
+    "code": "532913",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533007",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Shirajda",
+    "name_mr": "",
+    "code": "533007",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532903",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Hingani Mirzapur",
+    "name_mr": "",
+    "code": "532903",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532938",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Indalwadi",
+    "name_mr": "",
+    "code": "532938",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532940",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "532940",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533006",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Zingala",
+    "name_mr": "",
+    "code": "533006",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532905",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Dhamane Kh.",
+    "name_mr": "",
+    "code": "532905",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-533008",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "533008",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532915",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Lohitkhed",
+    "name_mr": "",
+    "code": "532915",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532941",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "532941",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532943",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Bhujwada",
+    "name_mr": "",
+    "code": "532943",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532942",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Darkheda",
+    "name_mr": "",
+    "code": "532942",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532945",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Kukasa",
+    "name_mr": "",
+    "code": "532945",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532914",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Rustampur",
+    "name_mr": "",
+    "code": "532914",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532904",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "532904",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532944",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ichora",
+    "name_mr": "",
+    "code": "532944",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-251329",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Daryapur Banosa (M Cl)",
+    "name_mr": "",
+    "code": "251329",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532975",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Husenpur",
+    "name_mr": "",
+    "code": "532975",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  },
+  {
+    "village_id": "v-532889",
+    "district_id": "d-503",
+    "taluka_id": "daryapur",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "532889",
+    "boundary_file": "/data/boundaries/villages/d-503/daryapur.geojson"
+  }
+]

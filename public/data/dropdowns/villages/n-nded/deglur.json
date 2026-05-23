@@ -1,0 +1,1055 @@
+[
+  {
+    "village_id": "v-545675",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "545675",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545676",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Takali Jahagir",
+    "name_mr": "",
+    "code": "545676",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545681",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Malegaon (M)",
+    "name_mr": "",
+    "code": "545681",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545678",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Davangir",
+    "name_mr": "",
+    "code": "545678",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545677",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Pujarwadi",
+    "name_mr": "",
+    "code": "545677",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545687",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "545687",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545686",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Mangajiwadi",
+    "name_mr": "",
+    "code": "545686",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545682",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kshirsamudra",
+    "name_mr": "",
+    "code": "545682",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545688",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Tumbarpalli",
+    "name_mr": "",
+    "code": "545688",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545685",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Ambulga",
+    "name_mr": "",
+    "code": "545685",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545684",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Martoli",
+    "name_mr": "",
+    "code": "545684",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545683",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Hali",
+    "name_mr": "",
+    "code": "545683",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545696",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bhutan Hipparga",
+    "name_mr": "",
+    "code": "545696",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545689",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shilwani",
+    "name_mr": "",
+    "code": "545689",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545697",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bembra",
+    "name_mr": "",
+    "code": "545697",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545700",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Somur",
+    "name_mr": "",
+    "code": "545700",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545691",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Wazar",
+    "name_mr": "",
+    "code": "545691",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545701",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Khutmapur\n",
+    "name_mr": "",
+    "code": "545701",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545698",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Manur Bk.",
+    "name_mr": "",
+    "code": "545698",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545692",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kudali",
+    "name_mr": "",
+    "code": "545692",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545699",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Gogala Govind Tanda\n",
+    "name_mr": "",
+    "code": "545699",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545693",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kamajiwadi",
+    "name_mr": "",
+    "code": "545693",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545702",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kokalgaon",
+    "name_mr": "",
+    "code": "545702",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545703",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Ramtapur",
+    "name_mr": "",
+    "code": "545703",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545593",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Manshakarga",
+    "name_mr": "",
+    "code": "545593",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545622",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shevala",
+    "name_mr": "",
+    "code": "545622",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545596",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Lakhkha",
+    "name_mr": "",
+    "code": "545596",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545620",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Alur",
+    "name_mr": "",
+    "code": "545620",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545619",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kotekallur",
+    "name_mr": "",
+    "code": "545619",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545594",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Apsavargaon",
+    "name_mr": "",
+    "code": "545594",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545595",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Sugaon",
+    "name_mr": "",
+    "code": "545595",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545623",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shekhapur",
+    "name_mr": "",
+    "code": "545623",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545597",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Wazarga",
+    "name_mr": "",
+    "code": "545597",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545621",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Nandur",
+    "name_mr": "",
+    "code": "545621",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545617",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Limba",
+    "name_mr": "",
+    "code": "545617",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545599",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Nipani Savargaon",
+    "name_mr": "",
+    "code": "545599",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545616",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Tupshelgaon",
+    "name_mr": "",
+    "code": "545616",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545598",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Wannali",
+    "name_mr": "",
+    "code": "545598",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545624",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shelgaon\n",
+    "name_mr": "",
+    "code": "545624",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545600",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Ibrahimpur",
+    "name_mr": "",
+    "code": "545600",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545618",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Rampur P.shahapur\n",
+    "name_mr": "",
+    "code": "545618",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545626",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "545626",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545601",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "545601",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545625",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kare Malkapur",
+    "name_mr": "",
+    "code": "545625",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545609",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Tadkhel",
+    "name_mr": "",
+    "code": "545609",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545608",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Alapur",
+    "name_mr": "",
+    "code": "545608",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545603",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Chainpur",
+    "name_mr": "",
+    "code": "545603",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545602",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Antapur",
+    "name_mr": "",
+    "code": "545602",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545629",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Tamlur",
+    "name_mr": "",
+    "code": "545629",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545627",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Sujayatpur",
+    "name_mr": "",
+    "code": "545627",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545628",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Narangal Bk.",
+    "name_mr": "",
+    "code": "545628",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545606",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Takli Bagam",
+    "name_mr": "",
+    "code": "545606",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545604",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Munjalga",
+    "name_mr": "",
+    "code": "545604",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545630",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Mendankallur\n",
+    "name_mr": "",
+    "code": "545630",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545607",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Malegoan",
+    "name_mr": "",
+    "code": "545607",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545632",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Thadi Sawargaon",
+    "name_mr": "",
+    "code": "545632",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545633",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Mandgi",
+    "name_mr": "",
+    "code": "545633",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545631",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Sangvi Umar",
+    "name_mr": "",
+    "code": "545631",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545610",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Degaon Bk.\n",
+    "name_mr": "",
+    "code": "545610",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545639",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Sundgi  Bk.",
+    "name_mr": "",
+    "code": "545639",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545641",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bomnali",
+    "name_mr": "",
+    "code": "545641",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545638",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Hanuman Hipparga",
+    "name_mr": "",
+    "code": "545638",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545640",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Hawarga",
+    "name_mr": "",
+    "code": "545640",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545605",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Degaon Kh",
+    "name_mr": "",
+    "code": "545605",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-251410",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Deglur (M Cl)",
+    "name_mr": "",
+    "code": "251410",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545634",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Narangal Kh",
+    "name_mr": "",
+    "code": "545634",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545615",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kavalgadda",
+    "name_mr": "",
+    "code": "545615",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545614",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bhayegaon",
+    "name_mr": "",
+    "code": "545614",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545642",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Sundgi Kh.",
+    "name_mr": "",
+    "code": "545642",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545613",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shiv  Achegaon",
+    "name_mr": "",
+    "code": "545613",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545637",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Takli Walag",
+    "name_mr": "",
+    "code": "545637",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545635",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kurudgi Bk.",
+    "name_mr": "",
+    "code": "545635",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545612",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Achegaon\n",
+    "name_mr": "",
+    "code": "545612",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545611",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "545611",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545636",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kurudgi Kh.",
+    "name_mr": "",
+    "code": "545636",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545644",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "545644",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545648",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "545648",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545645",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Dhosni",
+    "name_mr": "",
+    "code": "545645",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545643",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bhokaskheda",
+    "name_mr": "",
+    "code": "545643",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545647",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Mailapur (D)",
+    "name_mr": "",
+    "code": "545647",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545646",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Chakur",
+    "name_mr": "",
+    "code": "545646",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545656",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Ballur",
+    "name_mr": "",
+    "code": "545656",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545651",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "545651",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545657",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kavalgaon",
+    "name_mr": "",
+    "code": "545657",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545649",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Lingankerur\n",
+    "name_mr": "",
+    "code": "545649",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545660",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "545660",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545659",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Mengapur",
+    "name_mr": "",
+    "code": "545659",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545658",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Sangvi  Karadkhed",
+    "name_mr": "",
+    "code": "545658",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545650",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Rampur Bk.",
+    "name_mr": "",
+    "code": "545650",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545655",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kutub Shahapurwadi",
+    "name_mr": "",
+    "code": "545655",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545652",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bhaktapur",
+    "name_mr": "",
+    "code": "545652",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545663",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Borgaon\n",
+    "name_mr": "",
+    "code": "545663",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545661",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Amdapur",
+    "name_mr": "",
+    "code": "545661",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545653",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Nagral",
+    "name_mr": "",
+    "code": "545653",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545671",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kedarkunta\n",
+    "name_mr": "",
+    "code": "545671",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545654",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Hotal",
+    "name_mr": "",
+    "code": "545654",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545666",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kathewadi",
+    "name_mr": "",
+    "code": "545666",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545673",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Walag",
+    "name_mr": "",
+    "code": "545673",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545667",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Shivani",
+    "name_mr": "",
+    "code": "545667",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545668",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Devapur",
+    "name_mr": "",
+    "code": "545668",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545674",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Markhel",
+    "name_mr": "",
+    "code": "545674",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545669",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Yergi",
+    "name_mr": "",
+    "code": "545669",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545670",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Pendpalli",
+    "name_mr": "",
+    "code": "545670",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545690",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kabirwadi",
+    "name_mr": "",
+    "code": "545690",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545707",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Bijalwadi",
+    "name_mr": "",
+    "code": "545707",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545706",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kanmarpali",
+    "name_mr": "",
+    "code": "545706",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545694",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Hanegaon\n",
+    "name_mr": "",
+    "code": "545694",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545695",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Chavanwadi",
+    "name_mr": "",
+    "code": "545695",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545664",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Gavandgaon",
+    "name_mr": "",
+    "code": "545664",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545665",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Naiktanda",
+    "name_mr": "",
+    "code": "545665",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545680",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kini",
+    "name_mr": "",
+    "code": "545680",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545679",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Kinitanda",
+    "name_mr": "",
+    "code": "545679",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545705",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Yedur",
+    "name_mr": "",
+    "code": "545705",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545704",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Yedur Kh",
+    "name_mr": "",
+    "code": "545704",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545672",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Karadkhed",
+    "name_mr": "",
+    "code": "545672",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-545662",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Wadikarkhed",
+    "name_mr": "",
+    "code": "545662",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  },
+  {
+    "village_id": "v-946180",
+    "district_id": "n-nded",
+    "taluka_id": "deglur",
+    "name_en": "Punarvasit Vasahat Khanapur",
+    "name_mr": "",
+    "code": "946180",
+    "boundary_file": "/data/boundaries/villages/n-nded/deglur.geojson"
+  }
+]

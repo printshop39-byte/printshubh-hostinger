@@ -1,0 +1,2009 @@
+[
+  {
+    "village_id": "v-563778",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vaduth",
+    "name_mr": "",
+    "code": "563778",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563779",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Asgaon",
+    "name_mr": "",
+    "code": "563779",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563781",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Renavale",
+    "name_mr": "",
+    "code": "563781",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563751",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Gogavalewadi",
+    "name_mr": "",
+    "code": "563751",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563764",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Panmalewadi",
+    "name_mr": "",
+    "code": "563764",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563755",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Akale",
+    "name_mr": "",
+    "code": "563755",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563782",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Basappachiwadi",
+    "name_mr": "",
+    "code": "563782",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563763",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Varye",
+    "name_mr": "",
+    "code": "563763",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563766",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kidgaon",
+    "name_mr": "",
+    "code": "563766",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563786",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mhasave",
+    "name_mr": "",
+    "code": "563786",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563747",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vele",
+    "name_mr": "",
+    "code": "563747",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563746",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kamathi T.satara",
+    "name_mr": "",
+    "code": "563746",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563767",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kalambe",
+    "name_mr": "",
+    "code": "563767",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563784",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Borkhal",
+    "name_mr": "",
+    "code": "563784",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563787",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Wadhe",
+    "name_mr": "",
+    "code": "563787",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563756",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Malyachi Wadi",
+    "name_mr": "",
+    "code": "563756",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563745",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Parambe",
+    "name_mr": "",
+    "code": "563745",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563785",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Patkhal",
+    "name_mr": "",
+    "code": "563785",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563753",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "563753",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563754",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kanher",
+    "name_mr": "",
+    "code": "563754",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563748",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jotibachiwadi",
+    "name_mr": "",
+    "code": "563748",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563783",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Wasole",
+    "name_mr": "",
+    "code": "563783",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563749",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Agudewadi",
+    "name_mr": "",
+    "code": "563749",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563768",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sabalewadi",
+    "name_mr": "",
+    "code": "563768",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563806",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kondhave",
+    "name_mr": "",
+    "code": "563806",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563804",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Hamdabaj",
+    "name_mr": "",
+    "code": "563804",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563752",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chorgewadi",
+    "name_mr": "",
+    "code": "563752",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563793",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Songaon S.nimb",
+    "name_mr": "",
+    "code": "563793",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563813",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Atali",
+    "name_mr": "",
+    "code": "563813",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563803",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nune",
+    "name_mr": "",
+    "code": "563803",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563812",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kasani",
+    "name_mr": "",
+    "code": "563812",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563805",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Saidapur",
+    "name_mr": "",
+    "code": "563805",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563815",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Savali",
+    "name_mr": "",
+    "code": "563815",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563817",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kurulbaji",
+    "name_mr": "",
+    "code": "563817",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563760",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Limb",
+    "name_mr": "",
+    "code": "563760",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563777",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Shivthar",
+    "name_mr": "",
+    "code": "563777",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563775",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vangal",
+    "name_mr": "",
+    "code": "563775",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563776",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Arphal",
+    "name_mr": "",
+    "code": "563776",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563759",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kushi",
+    "name_mr": "",
+    "code": "563759",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563762",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nagewadi",
+    "name_mr": "",
+    "code": "563762",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563758",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "563758",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563780",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Arale",
+    "name_mr": "",
+    "code": "563780",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563750",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chinchani",
+    "name_mr": "",
+    "code": "563750",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563757",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhawadshi",
+    "name_mr": "",
+    "code": "563757",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563765",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nele",
+    "name_mr": "",
+    "code": "563765",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563801",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Gavadi",
+    "name_mr": "",
+    "code": "563801",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563832",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pateghar",
+    "name_mr": "",
+    "code": "563832",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563802",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sarkhal",
+    "name_mr": "",
+    "code": "563802",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563820",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Petri",
+    "name_mr": "",
+    "code": "563820",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563811",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bhambavali",
+    "name_mr": "",
+    "code": "563811",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563823",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Anavale",
+    "name_mr": "",
+    "code": "563823",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563814",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kurultijai",
+    "name_mr": "",
+    "code": "563814",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563821",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sayali",
+    "name_mr": "",
+    "code": "563821",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563807",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dare Bk.",
+    "name_mr": "",
+    "code": "563807",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563822",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Lavanghar",
+    "name_mr": "",
+    "code": "563822",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563824",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mhaskarwadi",
+    "name_mr": "",
+    "code": "563824",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563816",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ghatawan",
+    "name_mr": "",
+    "code": "563816",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563819",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "563819",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563865",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "563865",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563792",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kshetra Mahuli",
+    "name_mr": "",
+    "code": "563792",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563866",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Karanje  t.parali",
+    "name_mr": "",
+    "code": "563866",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563769",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mardhe",
+    "name_mr": "",
+    "code": "563769",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563773",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Malgaon",
+    "name_mr": "",
+    "code": "563773",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563772",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Salwan",
+    "name_mr": "",
+    "code": "563772",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563770",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Gove",
+    "name_mr": "",
+    "code": "563770",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563771",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khandobachi Wadi",
+    "name_mr": "",
+    "code": "563771",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563848",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Banghar",
+    "name_mr": "",
+    "code": "563848",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563799",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Karandwadi",
+    "name_mr": "",
+    "code": "563799",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563910",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Gojegaon",
+    "name_mr": "",
+    "code": "563910",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563840",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Takawali",
+    "name_mr": "",
+    "code": "563840",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563909",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chinchaner  vandan",
+    "name_mr": "",
+    "code": "563909",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563844",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kasarthal",
+    "name_mr": "",
+    "code": "563844",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563841",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Didhavale",
+    "name_mr": "",
+    "code": "563841",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563879",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "563879",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563800",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "563800",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563850",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kus kh.",
+    "name_mr": "",
+    "code": "563850",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563851",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khadegaon",
+    "name_mr": "",
+    "code": "563851",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563875",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sonavadi",
+    "name_mr": "",
+    "code": "563875",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563829",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Lumanekhol",
+    "name_mr": "",
+    "code": "563829",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563818",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kudeghar",
+    "name_mr": "",
+    "code": "563818",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563796",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "563796",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563828",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Argadwadi",
+    "name_mr": "",
+    "code": "563828",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563808",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Yavateshwar",
+    "name_mr": "",
+    "code": "563808",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563867",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kurun",
+    "name_mr": "",
+    "code": "563867",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563789",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chahur",
+    "name_mr": "",
+    "code": "563789",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563790",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pirwadi",
+    "name_mr": "",
+    "code": "563790",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563833",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Alawadi",
+    "name_mr": "",
+    "code": "563833",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563831",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Rohot",
+    "name_mr": "",
+    "code": "563831",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563834",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhavali",
+    "name_mr": "",
+    "code": "563834",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563827",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dahivad",
+    "name_mr": "",
+    "code": "563827",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563794",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khavali",
+    "name_mr": "",
+    "code": "563794",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563788",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vanvaswadi",
+    "name_mr": "",
+    "code": "563788",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563826",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Punavadi",
+    "name_mr": "",
+    "code": "563826",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-251593",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Satara (M Cl)",
+    "name_mr": "",
+    "code": "251593",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563868",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kaloshi",
+    "name_mr": "",
+    "code": "563868",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563809",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sambarwadi",
+    "name_mr": "",
+    "code": "563809",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563795",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chinchaner s. nimb",
+    "name_mr": "",
+    "code": "563795",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563797",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "563797",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563825",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ashte",
+    "name_mr": "",
+    "code": "563825",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563869",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ambavade Bk",
+    "name_mr": "",
+    "code": "563869",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563830",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Katavadi Kh",
+    "name_mr": "",
+    "code": "563830",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563845",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Revali",
+    "name_mr": "",
+    "code": "563845",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563761",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kondvali",
+    "name_mr": "",
+    "code": "563761",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563835",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Navali",
+    "name_mr": "",
+    "code": "563835",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563836",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Venekhol",
+    "name_mr": "",
+    "code": "563836",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563839",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nitral",
+    "name_mr": "",
+    "code": "563839",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563843",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Katavadi Bk",
+    "name_mr": "",
+    "code": "563843",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563877",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dabewadi",
+    "name_mr": "",
+    "code": "563877",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563878",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jakatwadi",
+    "name_mr": "",
+    "code": "563878",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563892",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sonegaon t  satara",
+    "name_mr": "",
+    "code": "563892",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563846",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kamathi t.parali",
+    "name_mr": "",
+    "code": "563846",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563870",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bhondavade",
+    "name_mr": "",
+    "code": "563870",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563876",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ambavade kh.",
+    "name_mr": "",
+    "code": "563876",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563847",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Parali",
+    "name_mr": "",
+    "code": "563847",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563837",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kelavali",
+    "name_mr": "",
+    "code": "563837",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563871",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Gajawadi",
+    "name_mr": "",
+    "code": "563871",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563908",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "563908",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563838",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nigudamal",
+    "name_mr": "",
+    "code": "563838",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563849",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kus  bk.",
+    "name_mr": "",
+    "code": "563849",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563912",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Tasgaon",
+    "name_mr": "",
+    "code": "563912",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563872",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kari",
+    "name_mr": "",
+    "code": "563872",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563882",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pogarwadi",
+    "name_mr": "",
+    "code": "563882",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563842",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sandavali",
+    "name_mr": "",
+    "code": "563842",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563893",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Shendre",
+    "name_mr": "",
+    "code": "563893",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563885",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Karandi",
+    "name_mr": "",
+    "code": "563885",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563880",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Upali",
+    "name_mr": "",
+    "code": "563880",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563881",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Zarewadi",
+    "name_mr": "",
+    "code": "563881",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563853",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pangare",
+    "name_mr": "",
+    "code": "563853",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563852",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Palsavade",
+    "name_mr": "",
+    "code": "563852",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563913",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bramhanwadi",
+    "name_mr": "",
+    "code": "563913",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563883",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Are t.parali",
+    "name_mr": "",
+    "code": "563883",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563915",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nigadi t.satara",
+    "name_mr": "",
+    "code": "563915",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563854",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Borne",
+    "name_mr": "",
+    "code": "563854",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563918",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jihe",
+    "name_mr": "",
+    "code": "563918",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563904",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Valase",
+    "name_mr": "",
+    "code": "563904",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563873",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ambale",
+    "name_mr": "",
+    "code": "563873",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563894",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vechale",
+    "name_mr": "",
+    "code": "563894",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563911",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "563911",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563884",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dare t.parali",
+    "name_mr": "",
+    "code": "563884",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563858",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Thoseghar",
+    "name_mr": "",
+    "code": "563858",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563917",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mulikwadi",
+    "name_mr": "",
+    "code": "563917",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563859",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chalkewadi",
+    "name_mr": "",
+    "code": "563859",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563916",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "563916",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563890",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mugdul bhatachiwadi",
+    "name_mr": "",
+    "code": "563890",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563857",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Revande",
+    "name_mr": "",
+    "code": "563857",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563856",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Wavadare",
+    "name_mr": "",
+    "code": "563856",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563905",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bharatgaonwadi",
+    "name_mr": "",
+    "code": "563905",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563914",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "563914",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563902",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bhatmarali",
+    "name_mr": "",
+    "code": "563902",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563874",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Raighar",
+    "name_mr": "",
+    "code": "563874",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563920",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Fadatarwadi",
+    "name_mr": "",
+    "code": "563920",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563888",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mhaparwadi",
+    "name_mr": "",
+    "code": "563888",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563889",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sherewadi",
+    "name_mr": "",
+    "code": "563889",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563907",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "563907",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563921",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Varne",
+    "name_mr": "",
+    "code": "563921",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563923",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Angapur vandan",
+    "name_mr": "",
+    "code": "563923",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563855",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Rajapuri",
+    "name_mr": "",
+    "code": "563855",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563903",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dolegaon",
+    "name_mr": "",
+    "code": "563903",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563895",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kumathe",
+    "name_mr": "",
+    "code": "563895",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563906",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bharatgaon",
+    "name_mr": "",
+    "code": "563906",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563896",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bendwadi",
+    "name_mr": "",
+    "code": "563896",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563886",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Rakusalewadi",
+    "name_mr": "",
+    "code": "563886",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563899",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhanavadewadi",
+    "name_mr": "",
+    "code": "563899",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563947",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "563947",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563887",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Asangaon",
+    "name_mr": "",
+    "code": "563887",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563860",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "563860",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563901",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kusavade",
+    "name_mr": "",
+    "code": "563901",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563898",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pilani",
+    "name_mr": "",
+    "code": "563898",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563925",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Apashinge",
+    "name_mr": "",
+    "code": "563925",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563946",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ninam",
+    "name_mr": "",
+    "code": "563946",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563897",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Parmale",
+    "name_mr": "",
+    "code": "563897",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563900",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pilaniwadi",
+    "name_mr": "",
+    "code": "563900",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563922",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Angapur t targaon",
+    "name_mr": "",
+    "code": "563922",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563862",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Morewadi",
+    "name_mr": "",
+    "code": "563862",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563919",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vijay Nagar",
+    "name_mr": "",
+    "code": "563919",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563944",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Mandave",
+    "name_mr": "",
+    "code": "563944",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563863",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jambhe",
+    "name_mr": "",
+    "code": "563863",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563945",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Bhairavgad",
+    "name_mr": "",
+    "code": "563945",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563924",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nigadi vandan",
+    "name_mr": "",
+    "code": "563924",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563931",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kameri",
+    "name_mr": "",
+    "code": "563931",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563929",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khojewadi",
+    "name_mr": "",
+    "code": "563929",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563933",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Titavewadi",
+    "name_mr": "",
+    "code": "563933",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563932",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Fatyapur",
+    "name_mr": "",
+    "code": "563932",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563864",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Karanjoshi",
+    "name_mr": "",
+    "code": "563864",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563930",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "563930",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563949",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "563949",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563927",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ambewadi",
+    "name_mr": "",
+    "code": "563927",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563926",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Majgaon",
+    "name_mr": "",
+    "code": "563926",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563951",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "563951",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563936",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Limbachiwadi",
+    "name_mr": "",
+    "code": "563936",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563928",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Matyapur",
+    "name_mr": "",
+    "code": "563928",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563950",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Saspade",
+    "name_mr": "",
+    "code": "563950",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563934",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Deshmukh nagar",
+    "name_mr": "",
+    "code": "563934",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563938",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nisarale",
+    "name_mr": "",
+    "code": "563938",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563935",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "563935",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563937",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jawalwadi",
+    "name_mr": "",
+    "code": "563937",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563939",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Landewadi",
+    "name_mr": "",
+    "code": "563939",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563940",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Venegaon",
+    "name_mr": "",
+    "code": "563940",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563955",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Ramkrushna Nagar",
+    "name_mr": "",
+    "code": "563955",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563954",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kashil",
+    "name_mr": "",
+    "code": "563954",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563941",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Koparde",
+    "name_mr": "",
+    "code": "563941",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563943",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Tukaichiwadi",
+    "name_mr": "",
+    "code": "563943",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563942",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sayali",
+    "name_mr": "",
+    "code": "563942",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563774",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nhalewadi",
+    "name_mr": "",
+    "code": "563774",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563791",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sangam Mahuli",
+    "name_mr": "",
+    "code": "563791",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563952",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Atit",
+    "name_mr": "",
+    "code": "563952",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-912862",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Samarthgaon",
+    "name_mr": "",
+    "code": "912862",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-944614",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Pawangaon",
+    "name_mr": "",
+    "code": "944614",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563861",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Boposhi",
+    "name_mr": "",
+    "code": "563861",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563956",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khed (CT)",
+    "name_mr": "",
+    "code": "563956",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-652159",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khed (West)",
+    "name_mr": "",
+    "code": "652159",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563798",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khindwadi",
+    "name_mr": "",
+    "code": "563798",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-912854",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Sambhajinagar",
+    "name_mr": "",
+    "code": "912854",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563953",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Khodad",
+    "name_mr": "",
+    "code": "563953",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-946096",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jambhgaon",
+    "name_mr": "",
+    "code": "946096",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-652161",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Vilaspur",
+    "name_mr": "",
+    "code": "652161",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563959",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Kodoli (CT)",
+    "name_mr": "",
+    "code": "563959",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563948",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Nagthane",
+    "name_mr": "",
+    "code": "563948",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-946130",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Jambhalewadi",
+    "name_mr": "",
+    "code": "946130",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-946093",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Aste",
+    "name_mr": "",
+    "code": "946093",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-563891",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Shelkewadi",
+    "name_mr": "",
+    "code": "563891",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-652154",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Aste",
+    "name_mr": "",
+    "code": "652154",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  },
+  {
+    "village_id": "v-652160",
+    "district_id": "s-t-ra",
+    "taluka_id": "satara",
+    "name_en": "Godoli (East)",
+    "name_mr": "",
+    "code": "652160",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/satara.geojson"
+  }
+]

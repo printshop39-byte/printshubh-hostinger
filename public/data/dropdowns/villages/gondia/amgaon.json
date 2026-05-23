@@ -1,0 +1,686 @@
+[
+  {
+    "village_id": "v-537896",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Boda",
+    "name_mr": "",
+    "code": "537896",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537898",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Bhosa",
+    "name_mr": "",
+    "code": "537898",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537897",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Karanji",
+    "name_mr": "",
+    "code": "537897",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537899",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Takari",
+    "name_mr": "",
+    "code": "537899",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537900",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Tekari",
+    "name_mr": "",
+    "code": "537900",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537902",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "537902",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537905",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Suplipar",
+    "name_mr": "",
+    "code": "537905",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537906",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Kalimati",
+    "name_mr": "",
+    "code": "537906",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537903",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Katurli",
+    "name_mr": "",
+    "code": "537903",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537907",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Banjaritola",
+    "name_mr": "",
+    "code": "537907",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537908",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Nangpura",
+    "name_mr": "",
+    "code": "537908",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537904",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Sitepar",
+    "name_mr": "",
+    "code": "537904",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537913",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Gosaitola",
+    "name_mr": "",
+    "code": "537913",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537911",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Sarkartola",
+    "name_mr": "",
+    "code": "537911",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537914",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Kattipar",
+    "name_mr": "",
+    "code": "537914",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537915",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "537915",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537916",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Basipar",
+    "name_mr": "",
+    "code": "537916",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537918",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "537918",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537922",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Bhajiyapar",
+    "name_mr": "",
+    "code": "537922",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537920",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "537920",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537917",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Chirchalbandh",
+    "name_mr": "",
+    "code": "537917",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537921",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Kikaripar",
+    "name_mr": "",
+    "code": "537921",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537923",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Shiontola",
+    "name_mr": "",
+    "code": "537923",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537924",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Shioni",
+    "name_mr": "",
+    "code": "537924",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537926",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Khursipar",
+    "name_mr": "",
+    "code": "537926",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537925",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Jawari",
+    "name_mr": "",
+    "code": "537925",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-276364",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Amgaon (M Cl)",
+    "name_mr": "",
+    "code": "276364",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537927",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "537927",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537931",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "537931",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537928",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "537928",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537929",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Thanatola",
+    "name_mr": "",
+    "code": "537929",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537944",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "537944",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537937",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Gortha",
+    "name_mr": "",
+    "code": "537937",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537930",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Thana",
+    "name_mr": "",
+    "code": "537930",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537939",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Jamkhari",
+    "name_mr": "",
+    "code": "537939",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537945",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Chichtola",
+    "name_mr": "",
+    "code": "537945",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537938",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Dhawaditola",
+    "name_mr": "",
+    "code": "537938",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537946",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Pipartola",
+    "name_mr": "",
+    "code": "537946",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537940",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Nangtola",
+    "name_mr": "",
+    "code": "537940",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537947",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "537947",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537949",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Surkuda",
+    "name_mr": "",
+    "code": "537949",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537951",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Makkitola",
+    "name_mr": "",
+    "code": "537951",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537948",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Pauldawana",
+    "name_mr": "",
+    "code": "537948",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537953",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "537953",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537954",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Fukimeta",
+    "name_mr": "",
+    "code": "537954",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537952",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Kosamtola",
+    "name_mr": "",
+    "code": "537952",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537959",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Borkanhar",
+    "name_mr": "",
+    "code": "537959",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537950",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Dhobitola",
+    "name_mr": "",
+    "code": "537950",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537955",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Jambhurtola",
+    "name_mr": "",
+    "code": "537955",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537956",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Tigaon",
+    "name_mr": "",
+    "code": "537956",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537961",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Anjora",
+    "name_mr": "",
+    "code": "537961",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537958",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Waghdongari",
+    "name_mr": "",
+    "code": "537958",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537957",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Pipartola",
+    "name_mr": "",
+    "code": "537957",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537960",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Bhalitola",
+    "name_mr": "",
+    "code": "537960",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537963",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Sonekhari",
+    "name_mr": "",
+    "code": "537963",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537962",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Ramatola",
+    "name_mr": "",
+    "code": "537962",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537969",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Walad",
+    "name_mr": "",
+    "code": "537969",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537965",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Kopitola",
+    "name_mr": "",
+    "code": "537965",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537968",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Katangtola",
+    "name_mr": "",
+    "code": "537968",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537971",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Pangaon",
+    "name_mr": "",
+    "code": "537971",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537970",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Kawadi",
+    "name_mr": "",
+    "code": "537970",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537964",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Yermada",
+    "name_mr": "",
+    "code": "537964",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537967",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Bagheda",
+    "name_mr": "",
+    "code": "537967",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537966",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Chimantola",
+    "name_mr": "",
+    "code": "537966",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537891",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Buraditola",
+    "name_mr": "",
+    "code": "537891",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537892",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Khursipartola",
+    "name_mr": "",
+    "code": "537892",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537893",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Baniyatola",
+    "name_mr": "",
+    "code": "537893",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537894",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Ghattemani",
+    "name_mr": "",
+    "code": "537894",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537895",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "537895",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537901",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Manekasa",
+    "name_mr": "",
+    "code": "537901",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537919",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Ramjitola",
+    "name_mr": "",
+    "code": "537919",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537909",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "537909",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537910",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Nansari",
+    "name_mr": "",
+    "code": "537910",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537912",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Marartola",
+    "name_mr": "",
+    "code": "537912",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537935",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Maharitola",
+    "name_mr": "",
+    "code": "537935",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  },
+  {
+    "village_id": "v-537934",
+    "district_id": "gondia",
+    "taluka_id": "amgaon",
+    "name_en": "Sambhutola",
+    "name_mr": "",
+    "code": "537934",
+    "boundary_file": "/data/boundaries/villages/gondia/amgaon.geojson"
+  }
+]

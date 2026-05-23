@@ -1,0 +1,578 @@
+[
+  {
+    "village_id": "v-559816",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Sangam",
+    "name_mr": "",
+    "code": "559816",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559814",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Bhopa",
+    "name_mr": "",
+    "code": "559814",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559813",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Telgaon Bk.",
+    "name_mr": "",
+    "code": "559813",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559819",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Fakir Jawala",
+    "name_mr": "",
+    "code": "559819",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559815",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kothimbirwadi",
+    "name_mr": "",
+    "code": "559815",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559818",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Devdahiphal",
+    "name_mr": "",
+    "code": "559818",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559817",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Chatgaon",
+    "name_mr": "",
+    "code": "559817",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559826",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kari",
+    "name_mr": "",
+    "code": "559826",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559820",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "559820",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559822",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "559822",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559825",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Bodakha",
+    "name_mr": "",
+    "code": "559825",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559823",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "559823",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559821",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Devthana",
+    "name_mr": "",
+    "code": "559821",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559824",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kandewadi",
+    "name_mr": "",
+    "code": "559824",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559828",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Hingani bk",
+    "name_mr": "",
+    "code": "559828",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559829",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Hingani kh",
+    "name_mr": "",
+    "code": "559829",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559827",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kacharwadi",
+    "name_mr": "",
+    "code": "559827",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559830",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Nimla",
+    "name_mr": "",
+    "code": "559830",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559831",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Amla",
+    "name_mr": "",
+    "code": "559831",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559876",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kundi",
+    "name_mr": "",
+    "code": "559876",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559875",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "559875",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559874",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Sukli",
+    "name_mr": "",
+    "code": "559874",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559873",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Mungi",
+    "name_mr": "",
+    "code": "559873",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559842",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Gawandara",
+    "name_mr": "",
+    "code": "559842",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559834",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Wharkarwadi",
+    "name_mr": "",
+    "code": "559834",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559833",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Mohkhed",
+    "name_mr": "",
+    "code": "559833",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559832",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Koyal",
+    "name_mr": "",
+    "code": "559832",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559835",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Surnarwadi",
+    "name_mr": "",
+    "code": "559835",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559836",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Singanwadi",
+    "name_mr": "",
+    "code": "559836",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559877",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Aad-Hingani",
+    "name_mr": "",
+    "code": "559877",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559839",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Dunakwad",
+    "name_mr": "",
+    "code": "559839",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559840",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Nagzari Gaimukh",
+    "name_mr": "",
+    "code": "559840",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559843",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Katewadi",
+    "name_mr": "",
+    "code": "559843",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559871",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Mhatargaon",
+    "name_mr": "",
+    "code": "559871",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559844",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Bhogalwadi",
+    "name_mr": "",
+    "code": "559844",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559841",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Ambewadgaon",
+    "name_mr": "",
+    "code": "559841",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559872",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kannapur",
+    "name_mr": "",
+    "code": "559872",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559849",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Sonimoha",
+    "name_mr": "",
+    "code": "559849",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559845",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Chondi",
+    "name_mr": "",
+    "code": "559845",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559847",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Thetegavhan",
+    "name_mr": "",
+    "code": "559847",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559848",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Choramba",
+    "name_mr": "",
+    "code": "559848",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559850",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Pimparwada",
+    "name_mr": "",
+    "code": "559850",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559846",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Jahagir Moha",
+    "name_mr": "",
+    "code": "559846",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559856",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Aranwadi",
+    "name_mr": "",
+    "code": "559856",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559851",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Jaybhaychi Wadi",
+    "name_mr": "",
+    "code": "559851",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559852",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Repewadi",
+    "name_mr": "",
+    "code": "559852",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559857",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Ghagarwada",
+    "name_mr": "",
+    "code": "559857",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559867",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Rui Dharur",
+    "name_mr": "",
+    "code": "559867",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559855",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Gopalpur Lamantanda",
+    "name_mr": "",
+    "code": "559855",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559869",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Asardhav",
+    "name_mr": "",
+    "code": "559869",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559853",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Anjandhav",
+    "name_mr": "",
+    "code": "559853",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559868",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Umarewadi",
+    "name_mr": "",
+    "code": "559868",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559854",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Aswala",
+    "name_mr": "",
+    "code": "559854",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559870",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Morfali",
+    "name_mr": "",
+    "code": "559870",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559861",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Awargaon",
+    "name_mr": "",
+    "code": "559861",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559860",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Hasanabad",
+    "name_mr": "",
+    "code": "559860",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559866",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Kolpimpri",
+    "name_mr": "",
+    "code": "559866",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559859",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Maindwadi",
+    "name_mr": "",
+    "code": "559859",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559862",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Tandalwadi",
+    "name_mr": "",
+    "code": "559862",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559865",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "559865",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559863",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Chinchpur",
+    "name_mr": "",
+    "code": "559863",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559864",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Ganjpur",
+    "name_mr": "",
+    "code": "559864",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-559858",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Dharur",
+    "name_mr": "",
+    "code": "559858",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  },
+  {
+    "village_id": "v-251558",
+    "district_id": "beed",
+    "taluka_id": "dharur",
+    "name_en": "Dharur (M CI)",
+    "name_mr": "",
+    "code": "251558",
+    "boundary_file": "/data/boundaries/villages/beed/dharur.geojson"
+  }
+]

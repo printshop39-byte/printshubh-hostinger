@@ -1,0 +1,1226 @@
+[
+  {
+    "village_id": "v-538335",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhamditola",
+    "name_mr": "",
+    "code": "538335",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538336",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "538336",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538337",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dewatola",
+    "name_mr": "",
+    "code": "538337",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538339",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Paud Dawan",
+    "name_mr": "",
+    "code": "538339",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538338",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Owara",
+    "name_mr": "",
+    "code": "538338",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538340",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "538340",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538348",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Murpar",
+    "name_mr": "",
+    "code": "538348",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538343",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538343",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538341",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Pandharpur",
+    "name_mr": "",
+    "code": "538341",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538342",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Saoli",
+    "name_mr": "",
+    "code": "538342",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538347",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "538347",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538344",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Alezari",
+    "name_mr": "",
+    "code": "538344",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538349",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Purada",
+    "name_mr": "",
+    "code": "538349",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538346",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Surtoli",
+    "name_mr": "",
+    "code": "538346",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538345",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Charbhata",
+    "name_mr": "",
+    "code": "538345",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538350",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mohantola",
+    "name_mr": "",
+    "code": "538350",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538352",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Subraytola",
+    "name_mr": "",
+    "code": "538352",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538354",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Salegaon",
+    "name_mr": "",
+    "code": "538354",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538351",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mulla",
+    "name_mr": "",
+    "code": "538351",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538353",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Khamtalav",
+    "name_mr": "",
+    "code": "538353",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538355",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Chhattartola",
+    "name_mr": "",
+    "code": "538355",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538357",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "538357",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538363",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Zunzaritola",
+    "name_mr": "",
+    "code": "538363",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538356",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Tekabedar",
+    "name_mr": "",
+    "code": "538356",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538359",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Silapur",
+    "name_mr": "",
+    "code": "538359",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538361",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Pindakepar",
+    "name_mr": "",
+    "code": "538361",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538360",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "538360",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538358",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Fukkimeta",
+    "name_mr": "",
+    "code": "538358",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538362",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Jamanapur",
+    "name_mr": "",
+    "code": "538362",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538372",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "538372",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538366",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dawaki",
+    "name_mr": "",
+    "code": "538366",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538364",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "538364",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538365",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Gotabodi",
+    "name_mr": "",
+    "code": "538365",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538368",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Makardhokada",
+    "name_mr": "",
+    "code": "538368",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538367",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Padampur",
+    "name_mr": "",
+    "code": "538367",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538369",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bhagi",
+    "name_mr": "",
+    "code": "538369",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-276363",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Deori (NP)",
+    "name_mr": "",
+    "code": "276363",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538371",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Murdoli",
+    "name_mr": "",
+    "code": "538371",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538376",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "538376",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538370",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhobisarad",
+    "name_mr": "",
+    "code": "538370",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538373",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Maramjob",
+    "name_mr": "",
+    "code": "538373",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538375",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bharregaon",
+    "name_mr": "",
+    "code": "538375",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538377",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Murpar",
+    "name_mr": "",
+    "code": "538377",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538374",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Malharbodi",
+    "name_mr": "",
+    "code": "538374",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538383",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Chichewada",
+    "name_mr": "",
+    "code": "538383",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538384",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Masulkasa",
+    "name_mr": "",
+    "code": "538384",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538379",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Rajamdongari",
+    "name_mr": "",
+    "code": "538379",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538382",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bilargondi",
+    "name_mr": "",
+    "code": "538382",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538378",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Toyagondi",
+    "name_mr": "",
+    "code": "538378",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538380",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Salai",
+    "name_mr": "",
+    "code": "538380",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538381",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Shedepar",
+    "name_mr": "",
+    "code": "538381",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538392",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Serpar",
+    "name_mr": "",
+    "code": "538392",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538385",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "538385",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538386",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Pandharwani",
+    "name_mr": "",
+    "code": "538386",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538388",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Nakati",
+    "name_mr": "",
+    "code": "538388",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538391",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Lendijob",
+    "name_mr": "",
+    "code": "538391",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538387",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kalchua",
+    "name_mr": "",
+    "code": "538387",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538389",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "538389",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538403",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mhaisuli",
+    "name_mr": "",
+    "code": "538403",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538390",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Charbhata",
+    "name_mr": "",
+    "code": "538390",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538393",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Murpar Rithi",
+    "name_mr": "",
+    "code": "538393",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538398",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Haldi",
+    "name_mr": "",
+    "code": "538398",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538394",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Jethabhawda",
+    "name_mr": "",
+    "code": "538394",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538397",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Futana",
+    "name_mr": "",
+    "code": "538397",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538396",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Sindibirri",
+    "name_mr": "",
+    "code": "538396",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538395",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Masurbhowda",
+    "name_mr": "",
+    "code": "538395",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538399",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Padampur",
+    "name_mr": "",
+    "code": "538399",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538404",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "538404",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538400",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bodaldand",
+    "name_mr": "",
+    "code": "538400",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538401",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Palangaon",
+    "name_mr": "",
+    "code": "538401",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538406",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Pindakepar",
+    "name_mr": "",
+    "code": "538406",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538405",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kawalewada",
+    "name_mr": "",
+    "code": "538405",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538402",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "538402",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538410",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kosbi(bk)",
+    "name_mr": "",
+    "code": "538410",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538408",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "538408",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538407",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Alewada",
+    "name_mr": "",
+    "code": "538407",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538409",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "538409",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538425",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Murmadi",
+    "name_mr": "",
+    "code": "538425",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538418",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Ghonadi",
+    "name_mr": "",
+    "code": "538418",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538424",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Tumadikasa",
+    "name_mr": "",
+    "code": "538424",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538415",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Ambhora",
+    "name_mr": "",
+    "code": "538415",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538429",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mehatakheda",
+    "name_mr": "",
+    "code": "538429",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538412",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Khambkhura",
+    "name_mr": "",
+    "code": "538412",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538411",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhanori",
+    "name_mr": "",
+    "code": "538411",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538414",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Murmadi(rithi)",
+    "name_mr": "",
+    "code": "538414",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538416",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kosabi(kh)",
+    "name_mr": "",
+    "code": "538416",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538417",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bonde",
+    "name_mr": "",
+    "code": "538417",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538413",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Nilaj",
+    "name_mr": "",
+    "code": "538413",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538419",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kotijambhora",
+    "name_mr": "",
+    "code": "538419",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538423",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kesori",
+    "name_mr": "",
+    "code": "538423",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538430",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Paulzola",
+    "name_mr": "",
+    "code": "538430",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538421",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "538421",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538427",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Chilhati",
+    "name_mr": "",
+    "code": "538427",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538422",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bhagi",
+    "name_mr": "",
+    "code": "538422",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538426",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kokodi",
+    "name_mr": "",
+    "code": "538426",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538420",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dewalgaon",
+    "name_mr": "",
+    "code": "538420",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538432",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Wandhara",
+    "name_mr": "",
+    "code": "538432",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538431",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Rehali",
+    "name_mr": "",
+    "code": "538431",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538428",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Wadekasa",
+    "name_mr": "",
+    "code": "538428",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538433",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Chichgad",
+    "name_mr": "",
+    "code": "538433",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538434",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Singandoh",
+    "name_mr": "",
+    "code": "538434",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538442",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kunabitola",
+    "name_mr": "",
+    "code": "538442",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538435",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Sarregaon",
+    "name_mr": "",
+    "code": "538435",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538439",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538439",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538443",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Uchepur",
+    "name_mr": "",
+    "code": "538443",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538441",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhawalkhedi",
+    "name_mr": "",
+    "code": "538441",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538438",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mohandi",
+    "name_mr": "",
+    "code": "538438",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538447",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Pouni (rithi)",
+    "name_mr": "",
+    "code": "538447",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538436",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Ropa",
+    "name_mr": "",
+    "code": "538436",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538440",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Sundari",
+    "name_mr": "",
+    "code": "538440",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538448",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Wasani",
+    "name_mr": "",
+    "code": "538448",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538444",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Chipota",
+    "name_mr": "",
+    "code": "538444",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538449",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "538449",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538451",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Garartola",
+    "name_mr": "",
+    "code": "538451",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538464",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Istari",
+    "name_mr": "",
+    "code": "538464",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538465",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mispiri",
+    "name_mr": "",
+    "code": "538465",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538437",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhodhara",
+    "name_mr": "",
+    "code": "538437",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538450",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Palandur",
+    "name_mr": "",
+    "code": "538450",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538461",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Gawarra(rithi)",
+    "name_mr": "",
+    "code": "538461",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538466",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mahaka",
+    "name_mr": "",
+    "code": "538466",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538460",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Piparkhari",
+    "name_mr": "",
+    "code": "538460",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538462",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Yedmagondi",
+    "name_mr": "",
+    "code": "538462",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538463",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhamditola",
+    "name_mr": "",
+    "code": "538463",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538452",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Balapur",
+    "name_mr": "",
+    "code": "538452",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538454",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dongargaon (RHV)",
+    "name_mr": "",
+    "code": "538454",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538453",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Chumali",
+    "name_mr": "",
+    "code": "538453",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538455",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Akara (RHV)",
+    "name_mr": "",
+    "code": "538455",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538459",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Mangardoh",
+    "name_mr": "",
+    "code": "538459",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538457",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Ghogara",
+    "name_mr": "",
+    "code": "538457",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538456",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Bhandari (RHV)",
+    "name_mr": "",
+    "code": "538456",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538458",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Malkazari",
+    "name_mr": "",
+    "code": "538458",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538333",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Alebedar",
+    "name_mr": "",
+    "code": "538333",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538334",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Dhiwarintola",
+    "name_mr": "",
+    "code": "538334",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538446",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Kadikasa",
+    "name_mr": "",
+    "code": "538446",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  },
+  {
+    "village_id": "v-538445",
+    "district_id": "gondia",
+    "taluka_id": "deori",
+    "name_en": "Ganutola",
+    "name_mr": "",
+    "code": "538445",
+    "boundary_file": "/data/boundaries/villages/gondia/deori.geojson"
+  }
+]

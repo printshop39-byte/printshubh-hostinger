@@ -1,0 +1,2180 @@
+[
+  {
+    "village_id": "v-538977",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gujanwadi",
+    "name_mr": "",
+    "code": "538977",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538981",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rotarithi",
+    "name_mr": "",
+    "code": "538981",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538881",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khamtala",
+    "name_mr": "",
+    "code": "538881",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538880",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sindewahi",
+    "name_mr": "",
+    "code": "538880",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538879",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ubdali",
+    "name_mr": "",
+    "code": "538879",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538872",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Muska",
+    "name_mr": "",
+    "code": "538872",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538873",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Saidhakani Rith",
+    "name_mr": "",
+    "code": "538873",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538874",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Talegaon Chak",
+    "name_mr": "",
+    "code": "538874",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538892",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ambezari",
+    "name_mr": "",
+    "code": "538892",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538868",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bandhona",
+    "name_mr": "",
+    "code": "538868",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538898",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kisneli",
+    "name_mr": "",
+    "code": "538898",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538871",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Salantola Chak",
+    "name_mr": "",
+    "code": "538871",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538895",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Lahanzeliya",
+    "name_mr": "",
+    "code": "538895",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538896",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Devsur",
+    "name_mr": "",
+    "code": "538896",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538887",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "538887",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-37",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538894",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Katezari",
+    "name_mr": "",
+    "code": "538894",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538869",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Salebhatti",
+    "name_mr": "",
+    "code": "538869",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538904",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Murzar",
+    "name_mr": "",
+    "code": "538904",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-38",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538889",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kermarhan",
+    "name_mr": "",
+    "code": "538889",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-39",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538989",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Malanda",
+    "name_mr": "",
+    "code": "538989",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538934",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kehakawahi",
+    "name_mr": "",
+    "code": "538934",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538980",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yerandi",
+    "name_mr": "",
+    "code": "538980",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538982",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rajoli",
+    "name_mr": "",
+    "code": "538982",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538990",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Chavela",
+    "name_mr": "",
+    "code": "538990",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538975",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Michagaon Bk",
+    "name_mr": "",
+    "code": "538975",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538979",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Dudhamala",
+    "name_mr": "",
+    "code": "538979",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538992",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kharkadi",
+    "name_mr": "",
+    "code": "538992",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538971",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Navargaon",
+    "name_mr": "",
+    "code": "538971",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-276284",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Dhanora (NP)",
+    "name_mr": "",
+    "code": "276284",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538988",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Salebhatti",
+    "name_mr": "",
+    "code": "538988",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538972",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bhurantola",
+    "name_mr": "",
+    "code": "538972",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538967",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pauni",
+    "name_mr": "",
+    "code": "538967",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538974",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Michagaon Kh",
+    "name_mr": "",
+    "code": "538974",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-43",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538878",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Jaisingtola",
+    "name_mr": "",
+    "code": "538878",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538877",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Devsara",
+    "name_mr": "",
+    "code": "538877",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538882",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yermagad",
+    "name_mr": "",
+    "code": "538882",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538883",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Waghbhumi",
+    "name_mr": "",
+    "code": "538883",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538884",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Murmadi",
+    "name_mr": "",
+    "code": "538884",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538876",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "538876",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538891",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mangewada",
+    "name_mr": "",
+    "code": "538891",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538893",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Marma",
+    "name_mr": "",
+    "code": "538893",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538897",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "538897",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538875",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khambala",
+    "name_mr": "",
+    "code": "538875",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538886",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kolarbodi",
+    "name_mr": "",
+    "code": "538886",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538905",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Darachi",
+    "name_mr": "",
+    "code": "538905",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538885",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Iruptola",
+    "name_mr": "",
+    "code": "538885",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538890",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sursundi",
+    "name_mr": "",
+    "code": "538890",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538888",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Irupdhodari",
+    "name_mr": "",
+    "code": "538888",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538906",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Batmarhan",
+    "name_mr": "",
+    "code": "538906",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538941",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Dongarhur",
+    "name_mr": "",
+    "code": "538941",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538911",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Phulkodo",
+    "name_mr": "",
+    "code": "538911",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538899",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kosami",
+    "name_mr": "",
+    "code": "538899",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538903",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Charwahi",
+    "name_mr": "",
+    "code": "538903",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538901",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bandhur",
+    "name_mr": "",
+    "code": "538901",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538907",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kawadikasa",
+    "name_mr": "",
+    "code": "538907",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538940",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Arjuni",
+    "name_mr": "",
+    "code": "538940",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538870",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "538870",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538937",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sinsur",
+    "name_mr": "",
+    "code": "538937",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538902",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gurekasa",
+    "name_mr": "",
+    "code": "538902",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538900",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Markagaon",
+    "name_mr": "",
+    "code": "538900",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-49",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538938",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Modebhatti",
+    "name_mr": "",
+    "code": "538938",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538912",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gotatola",
+    "name_mr": "",
+    "code": "538912",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538908",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sindesur",
+    "name_mr": "",
+    "code": "538908",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538942",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Chudiyal",
+    "name_mr": "",
+    "code": "538942",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538939",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Toyagondi",
+    "name_mr": "",
+    "code": "538939",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538914",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Hirange",
+    "name_mr": "",
+    "code": "538914",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-50",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538936",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Aswalpar",
+    "name_mr": "",
+    "code": "538936",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538916",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kangadi",
+    "name_mr": "",
+    "code": "538916",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538909",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khedimowad",
+    "name_mr": "",
+    "code": "538909",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538913",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rengagaon",
+    "name_mr": "",
+    "code": "538913",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538948",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Chingali",
+    "name_mr": "",
+    "code": "538948",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538922",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Tumdikasa",
+    "name_mr": "",
+    "code": "538922",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538935",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rangi",
+    "name_mr": "",
+    "code": "538935",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538910",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mujalgondi",
+    "name_mr": "",
+    "code": "538910",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538946",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Jangada Bk",
+    "name_mr": "",
+    "code": "538946",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538915",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kulbhatti",
+    "name_mr": "",
+    "code": "538915",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538927",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yerkadmowad",
+    "name_mr": "",
+    "code": "538927",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538947",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Moholi",
+    "name_mr": "",
+    "code": "538947",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538951",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khedi",
+    "name_mr": "",
+    "code": "538951",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538944",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Warkekasa",
+    "name_mr": "",
+    "code": "538944",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538949",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mahawada",
+    "name_mr": "",
+    "code": "538949",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538917",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "538917",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538950",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "538950",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538918",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gajamendhi",
+    "name_mr": "",
+    "code": "538918",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538921",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Charvidand",
+    "name_mr": "",
+    "code": "538921",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538943",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Japtalai",
+    "name_mr": "",
+    "code": "538943",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538925",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khedegaon",
+    "name_mr": "",
+    "code": "538925",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538945",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Metejangada",
+    "name_mr": "",
+    "code": "538945",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538926",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ampayli",
+    "name_mr": "",
+    "code": "538926",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538923",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Murumgaon",
+    "name_mr": "",
+    "code": "538923",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-51",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538919",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Morchul",
+    "name_mr": "",
+    "code": "538919",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538928",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gatanyeli",
+    "name_mr": "",
+    "code": "538928",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538957",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rampur Rithi",
+    "name_mr": "",
+    "code": "538957",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538920",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bodhankheda",
+    "name_mr": "",
+    "code": "538920",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538924",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "538924",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538952",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Nimanwada",
+    "name_mr": "",
+    "code": "538952",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538960",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Waghbhumi",
+    "name_mr": "",
+    "code": "538960",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538959",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Jewalwahi",
+    "name_mr": "",
+    "code": "538959",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538953",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "538953",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538961",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Karemarka",
+    "name_mr": "",
+    "code": "538961",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538958",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pusawandi",
+    "name_mr": "",
+    "code": "538958",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538931",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ridwahi",
+    "name_mr": "",
+    "code": "538931",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538965",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Dhawari",
+    "name_mr": "",
+    "code": "538965",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538932",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Umarpal",
+    "name_mr": "",
+    "code": "538932",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538954",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "538954",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538930",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pannemara",
+    "name_mr": "",
+    "code": "538930",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538956",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Shiwagata",
+    "name_mr": "",
+    "code": "538956",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538933",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kehakawahimal",
+    "name_mr": "",
+    "code": "538933",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-52",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538962",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Parasvihir",
+    "name_mr": "",
+    "code": "538962",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538968",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "538968",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538955",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Masarigata",
+    "name_mr": "",
+    "code": "538955",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538963",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Dabba",
+    "name_mr": "",
+    "code": "538963",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538966",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "538966",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538964",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Darchi",
+    "name_mr": "",
+    "code": "538964",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538970",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sode",
+    "name_mr": "",
+    "code": "538970",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538969",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bhusamkudo",
+    "name_mr": "",
+    "code": "538969",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538985",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kanhaltola",
+    "name_mr": "",
+    "code": "538985",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538991",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kandali",
+    "name_mr": "",
+    "code": "538991",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538976",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "538976",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538986",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Heti",
+    "name_mr": "",
+    "code": "538986",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538984",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Lekha",
+    "name_mr": "",
+    "code": "538984",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538997",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ranwahi",
+    "name_mr": "",
+    "code": "538997",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538994",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Tukum",
+    "name_mr": "",
+    "code": "538994",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538993",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Markagaon",
+    "name_mr": "",
+    "code": "538993",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538978",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Paraswadi",
+    "name_mr": "",
+    "code": "538978",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538983",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "538983",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539003",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kak adyeli",
+    "name_mr": "",
+    "code": "539003",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-53",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539001",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Udegaon",
+    "name_mr": "",
+    "code": "539001",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538995",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Irpundi",
+    "name_mr": "",
+    "code": "538995",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538999",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kudakwahi",
+    "name_mr": "",
+    "code": "538999",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539000",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Singapur",
+    "name_mr": "",
+    "code": "539000",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539004",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "539004",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539002",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "539002",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539012",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Chatgaon",
+    "name_mr": "",
+    "code": "539012",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539005",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yengaon",
+    "name_mr": "",
+    "code": "539005",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538998",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Todemasahat",
+    "name_mr": "",
+    "code": "538998",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539008",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mahawada",
+    "name_mr": "",
+    "code": "539008",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538996",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Muranda",
+    "name_mr": "",
+    "code": "538996",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539006",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Munganer",
+    "name_mr": "",
+    "code": "539006",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-54",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539010",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Palkheda",
+    "name_mr": "",
+    "code": "539010",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539011",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pandharsada",
+    "name_mr": "",
+    "code": "539011",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539013",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Katezari",
+    "name_mr": "",
+    "code": "539013",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539014",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khutgaon",
+    "name_mr": "",
+    "code": "539014",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539015",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ghotevihir",
+    "name_mr": "",
+    "code": "539015",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539009",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gattepayli",
+    "name_mr": "",
+    "code": "539009",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539063",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Hatanjur",
+    "name_mr": "",
+    "code": "539063",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539016",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "539016",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539017",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pathargota",
+    "name_mr": "",
+    "code": "539017",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539020",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Horakasa",
+    "name_mr": "",
+    "code": "539020",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539019",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mendhatola",
+    "name_mr": "",
+    "code": "539019",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539023",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Godalwahi",
+    "name_mr": "",
+    "code": "539023",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539007",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bodiri",
+    "name_mr": "",
+    "code": "539007",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539021",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Hulondi",
+    "name_mr": "",
+    "code": "539021",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539026",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Paurwel",
+    "name_mr": "",
+    "code": "539026",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539029",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Man jewada",
+    "name_mr": "",
+    "code": "539029",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539018",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sakhera",
+    "name_mr": "",
+    "code": "539018",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539027",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Chimrikal",
+    "name_mr": "",
+    "code": "539027",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539030",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Morchul",
+    "name_mr": "",
+    "code": "539030",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539025",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Padaboriya",
+    "name_mr": "",
+    "code": "539025",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539028",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kamangad",
+    "name_mr": "",
+    "code": "539028",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-55",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539037",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Markagaon",
+    "name_mr": "",
+    "code": "539037",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539033",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sawanga Bk",
+    "name_mr": "",
+    "code": "539033",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539031",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kanheli",
+    "name_mr": "",
+    "code": "539031",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539024",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Hipaner",
+    "name_mr": "",
+    "code": "539024",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539022",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Tahakapar",
+    "name_mr": "",
+    "code": "539022",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539036",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kisner",
+    "name_mr": "",
+    "code": "539036",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539044",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kuthegaon",
+    "name_mr": "",
+    "code": "539044",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539042",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Makepayli",
+    "name_mr": "",
+    "code": "539042",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539046",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "539046",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539034",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sawanga Kh",
+    "name_mr": "",
+    "code": "539034",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539038",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Michagaon",
+    "name_mr": "",
+    "code": "539038",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539045",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Talodhi",
+    "name_mr": "",
+    "code": "539045",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539055",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Tulmer",
+    "name_mr": "",
+    "code": "539055",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539035",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kamtala",
+    "name_mr": "",
+    "code": "539035",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539043",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Begadi",
+    "name_mr": "",
+    "code": "539043",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539032",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Halkanhar",
+    "name_mr": "",
+    "code": "539032",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539047",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Karwafa",
+    "name_mr": "",
+    "code": "539047",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539041",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kupaner",
+    "name_mr": "",
+    "code": "539041",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539049",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rakhatola",
+    "name_mr": "",
+    "code": "539049",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539058",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Paidi",
+    "name_mr": "",
+    "code": "539058",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539050",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kondawahi",
+    "name_mr": "",
+    "code": "539050",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539048",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gaidongari",
+    "name_mr": "",
+    "code": "539048",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539059",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Somalpur",
+    "name_mr": "",
+    "code": "539059",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539056",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Hadapeth",
+    "name_mr": "",
+    "code": "539056",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539040",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Ghodezari",
+    "name_mr": "",
+    "code": "539040",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539057",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pekin Mudza",
+    "name_mr": "",
+    "code": "539057",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539039",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kachakal",
+    "name_mr": "",
+    "code": "539039",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539060",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Botehur",
+    "name_mr": "",
+    "code": "539060",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539061",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Zadapapda",
+    "name_mr": "",
+    "code": "539061",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539066",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "539066",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539073",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kondekal",
+    "name_mr": "",
+    "code": "539073",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539071",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Mohagaon",
+    "name_mr": "",
+    "code": "539071",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539067",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Khargi",
+    "name_mr": "",
+    "code": "539067",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539079",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "539079",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539078",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Fulbodi",
+    "name_mr": "",
+    "code": "539078",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539072",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pulkhal",
+    "name_mr": "",
+    "code": "539072",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539052",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yadasagondi",
+    "name_mr": "",
+    "code": "539052",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539051",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gumadi",
+    "name_mr": "",
+    "code": "539051",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539053",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gota",
+    "name_mr": "",
+    "code": "539053",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539054",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pathargota",
+    "name_mr": "",
+    "code": "539054",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539065",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Durgapur",
+    "name_mr": "",
+    "code": "539065",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539068",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Dhorgatta",
+    "name_mr": "",
+    "code": "539068",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539070",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "539070",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539064",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Masanadi",
+    "name_mr": "",
+    "code": "539064",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539077",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Latzora",
+    "name_mr": "",
+    "code": "539077",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539075",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sinsur",
+    "name_mr": "",
+    "code": "539075",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539074",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Cichoda",
+    "name_mr": "",
+    "code": "539074",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539080",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "539080",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539069",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Reche",
+    "name_mr": "",
+    "code": "539069",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539062",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rupingatta",
+    "name_mr": "",
+    "code": "539062",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539084",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yedampayli Kh",
+    "name_mr": "",
+    "code": "539084",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539085",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Jambhalizora",
+    "name_mr": "",
+    "code": "539085",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539082",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Phustola",
+    "name_mr": "",
+    "code": "539082",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539076",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Gatta",
+    "name_mr": "",
+    "code": "539076",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539083",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bhapada",
+    "name_mr": "",
+    "code": "539083",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539087",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Rondawahi",
+    "name_mr": "",
+    "code": "539087",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539086",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Kokadkasa",
+    "name_mr": "",
+    "code": "539086",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539090",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bhimpur",
+    "name_mr": "",
+    "code": "539090",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539093",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Saranda Kh",
+    "name_mr": "",
+    "code": "539093",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539089",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Murgaon",
+    "name_mr": "",
+    "code": "539089",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-56",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539091",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Saranda Bk",
+    "name_mr": "",
+    "code": "539091",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539081",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Hanpayli",
+    "name_mr": "",
+    "code": "539081",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539092",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Yedampayli Buj.",
+    "name_mr": "",
+    "code": "539092",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539095",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Jappi",
+    "name_mr": "",
+    "code": "539095",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539094",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Bhendi Kanhar",
+    "name_mr": "",
+    "code": "539094",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-539088",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Regadand",
+    "name_mr": "",
+    "code": "539088",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-57",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538973",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Michagaon",
+    "name_mr": "",
+    "code": "538973",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  },
+  {
+    "village_id": "v-538929",
+    "district_id": "gadchiroli",
+    "taluka_id": "dhanora",
+    "name_en": "Sindesur (Yerkad)",
+    "name_mr": "",
+    "code": "538929",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/dhanora.geojson"
+  }
+]

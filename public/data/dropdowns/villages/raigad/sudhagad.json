@@ -1,0 +1,911 @@
+[
+  {
+    "village_id": "v-554450",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Gondav",
+    "name_mr": "",
+    "code": "554450",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554456",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Falyan",
+    "name_mr": "",
+    "code": "554456",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554449",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Hatond",
+    "name_mr": "",
+    "code": "554449",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554453",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Ghotawade",
+    "name_mr": "",
+    "code": "554453",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554455",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Mangaon Bk",
+    "name_mr": "",
+    "code": "554455",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554451",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nanose",
+    "name_mr": "",
+    "code": "554451",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554454",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Wave T. Asare",
+    "name_mr": "",
+    "code": "554454",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554469",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "554469",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554457",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bheliv",
+    "name_mr": "",
+    "code": "554457",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554452",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nere",
+    "name_mr": "",
+    "code": "554452",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554464",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Dhokshet",
+    "name_mr": "",
+    "code": "554464",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554468",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Chandargaon",
+    "name_mr": "",
+    "code": "554468",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554466",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "554466",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554458",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Mangaon Kh",
+    "name_mr": "",
+    "code": "554458",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554459",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Vasunde",
+    "name_mr": "",
+    "code": "554459",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554460",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pawasalawadi",
+    "name_mr": "",
+    "code": "554460",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554463",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Padghawali",
+    "name_mr": "",
+    "code": "554463",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554462",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Parali",
+    "name_mr": "",
+    "code": "554462",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554461",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Karchunde",
+    "name_mr": "",
+    "code": "554461",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554467",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Khandpoli",
+    "name_mr": "",
+    "code": "554467",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554478",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Varhadjambhulpada",
+    "name_mr": "",
+    "code": "554478",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554470",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Tadgaon",
+    "name_mr": "",
+    "code": "554470",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554465",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Amnori",
+    "name_mr": "",
+    "code": "554465",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554472",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kavele",
+    "name_mr": "",
+    "code": "554472",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554481",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kalamb",
+    "name_mr": "",
+    "code": "554481",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554471",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Padsare",
+    "name_mr": "",
+    "code": "554471",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554476",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kansal",
+    "name_mr": "",
+    "code": "554476",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554477",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Hedvali",
+    "name_mr": "",
+    "code": "554477",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554479",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Harneri",
+    "name_mr": "",
+    "code": "554479",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554473",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kumbharghar",
+    "name_mr": "",
+    "code": "554473",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554474",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Waghohi",
+    "name_mr": "",
+    "code": "554474",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554487",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kasarwadi (Asare)",
+    "name_mr": "",
+    "code": "554487",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554488",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Asare",
+    "name_mr": "",
+    "code": "554488",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554480",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Mulashi",
+    "name_mr": "",
+    "code": "554480",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554482",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Uddhar",
+    "name_mr": "",
+    "code": "554482",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554489",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Dhondivali",
+    "name_mr": "",
+    "code": "554489",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554486",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pehadali",
+    "name_mr": "",
+    "code": "554486",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554490",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kanhivali",
+    "name_mr": "",
+    "code": "554490",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554485",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bherav",
+    "name_mr": "",
+    "code": "554485",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554514",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Navghar",
+    "name_mr": "",
+    "code": "554514",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554491",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bhalgul",
+    "name_mr": "",
+    "code": "554491",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554513",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Wandroshi",
+    "name_mr": "",
+    "code": "554513",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554492",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Tivare",
+    "name_mr": "",
+    "code": "554492",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554484",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Wafeghar",
+    "name_mr": "",
+    "code": "554484",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554501",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "554501",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554493",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bhilpada (khuravale)",
+    "name_mr": "",
+    "code": "554493",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554483",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Khavali",
+    "name_mr": "",
+    "code": "554483",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554494",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Chive",
+    "name_mr": "",
+    "code": "554494",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554499",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pilosari",
+    "name_mr": "",
+    "code": "554499",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554497",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Widsai",
+    "name_mr": "",
+    "code": "554497",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554498",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Karanjghar",
+    "name_mr": "",
+    "code": "554498",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554495",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Majare Jambhulpada",
+    "name_mr": "",
+    "code": "554495",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554500",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Unhere Bk",
+    "name_mr": "",
+    "code": "554500",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554523",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nadsur",
+    "name_mr": "",
+    "code": "554523",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554496",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Wave Tarf Haveli",
+    "name_mr": "",
+    "code": "554496",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554512",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Usale",
+    "name_mr": "",
+    "code": "554512",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554511",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Rasal",
+    "name_mr": "",
+    "code": "554511",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554522",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Khandsai",
+    "name_mr": "",
+    "code": "554522",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554509",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Ambole",
+    "name_mr": "",
+    "code": "554509",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554502",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kumbharshet",
+    "name_mr": "",
+    "code": "554502",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554503",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Rabgaon",
+    "name_mr": "",
+    "code": "554503",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554505",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Unhere Kh",
+    "name_mr": "",
+    "code": "554505",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554521",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Siddheshwar Bk",
+    "name_mr": "",
+    "code": "554521",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-300027",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pali (NP)",
+    "name_mr": "",
+    "code": "300027",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554520",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Wavloli",
+    "name_mr": "",
+    "code": "554520",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554504",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Balap",
+    "name_mr": "",
+    "code": "554504",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554527",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pui",
+    "name_mr": "",
+    "code": "554527",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554532",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pachhapur",
+    "name_mr": "",
+    "code": "554532",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554528",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bharje",
+    "name_mr": "",
+    "code": "554528",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554515",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Shiloshi",
+    "name_mr": "",
+    "code": "554515",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554516",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Madhali",
+    "name_mr": "",
+    "code": "554516",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554518",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Siddheshwar Kh",
+    "name_mr": "",
+    "code": "554518",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554533",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Daryagaon (NV)",
+    "name_mr": "",
+    "code": "554533",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554529",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Ambivali",
+    "name_mr": "",
+    "code": "554529",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554535",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Khad Sambale",
+    "name_mr": "",
+    "code": "554535",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554531",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Potlaj Kh.",
+    "name_mr": "",
+    "code": "554531",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554530",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Gondale",
+    "name_mr": "",
+    "code": "554530",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554534",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Potlaj Bk.",
+    "name_mr": "",
+    "code": "554534",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554536",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nenavali",
+    "name_mr": "",
+    "code": "554536",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554537",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Pimploli",
+    "name_mr": "",
+    "code": "554537",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554517",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Usar",
+    "name_mr": "",
+    "code": "554517",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554538",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "554538",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554544",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "554544",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554541",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Gomashi",
+    "name_mr": "",
+    "code": "554541",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554539",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Dighewadi",
+    "name_mr": "",
+    "code": "554539",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554543",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Atone",
+    "name_mr": "",
+    "code": "554543",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554546",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Koshimbale",
+    "name_mr": "",
+    "code": "554546",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554542",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Kalamboshi",
+    "name_mr": "",
+    "code": "554542",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554378",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Balhe",
+    "name_mr": "",
+    "code": "554378",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554524",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Ghera Sudhagad",
+    "name_mr": "",
+    "code": "554524",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554545",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Nagshet",
+    "name_mr": "",
+    "code": "554545",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554540",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Balhe",
+    "name_mr": "",
+    "code": "554540",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554526",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Adulse",
+    "name_mr": "",
+    "code": "554526",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-943034",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Sharadnagar",
+    "name_mr": "",
+    "code": "943034",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-943032",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Wakangaon",
+    "name_mr": "",
+    "code": "943032",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-944487",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bhavshet",
+    "name_mr": "",
+    "code": "944487",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554519",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Apatwane",
+    "name_mr": "",
+    "code": "554519",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554475",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Avandhe",
+    "name_mr": "",
+    "code": "554475",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-943036",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Torangaon",
+    "name_mr": "",
+    "code": "943036",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-554525",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Dhondse",
+    "name_mr": "",
+    "code": "554525",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  },
+  {
+    "village_id": "v-942964",
+    "district_id": "raigad",
+    "taluka_id": "sudhagad",
+    "name_en": "Bahirampada",
+    "name_mr": "",
+    "code": "942964",
+    "boundary_file": "/data/boundaries/villages/raigad/sudhagad.geojson"
+  }
+]

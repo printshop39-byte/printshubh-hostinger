@@ -1,0 +1,542 @@
+[
+  {
+    "village_id": "v-568801",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Lonarwadi",
+    "name_mr": "",
+    "code": "568801",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568817",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Rampurwadi",
+    "name_mr": "",
+    "code": "568817",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568816",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kuktoli",
+    "name_mr": "",
+    "code": "568816",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568818",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Sarati",
+    "name_mr": "",
+    "code": "568818",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568819",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kognoli",
+    "name_mr": "",
+    "code": "568819",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568797",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Dhulgaon",
+    "name_mr": "",
+    "code": "568797",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568808",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Morgaon",
+    "name_mr": "",
+    "code": "568808",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568807",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Haroli",
+    "name_mr": "",
+    "code": "568807",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568806",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Alkud (m)",
+    "name_mr": "",
+    "code": "568806",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568809",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Hingangaon",
+    "name_mr": "",
+    "code": "568809",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568812",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Shindewadi(h)",
+    "name_mr": "",
+    "code": "568812",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568810",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Karoli (t)",
+    "name_mr": "",
+    "code": "568810",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568800",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Karalhetti",
+    "name_mr": "",
+    "code": "568800",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568815",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Banewadi",
+    "name_mr": "",
+    "code": "568815",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568811",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Mhaisal (m)",
+    "name_mr": "",
+    "code": "568811",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568814",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kharshing",
+    "name_mr": "",
+    "code": "568814",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568781",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Jakhapur",
+    "name_mr": "",
+    "code": "568781",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568783",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Langarpeth",
+    "name_mr": "",
+    "code": "568783",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568784",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Dhalewadi",
+    "name_mr": "",
+    "code": "568784",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568782",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kuchi",
+    "name_mr": "",
+    "code": "568782",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568785",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Irali",
+    "name_mr": "",
+    "code": "568785",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568802",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Jaygavhan",
+    "name_mr": "",
+    "code": "568802",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568803",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Malangaon",
+    "name_mr": "",
+    "code": "568803",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568789",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Nangole",
+    "name_mr": "",
+    "code": "568789",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568792",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Narsinhagaon",
+    "name_mr": "",
+    "code": "568792",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568790",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Thabadewadi",
+    "name_mr": "",
+    "code": "568790",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568791",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Zurewadi",
+    "name_mr": "",
+    "code": "568791",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568793",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "568793",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-276346",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kavathe Mahankal (NP)",
+    "name_mr": "",
+    "code": "276346",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568760",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Ghatnandre",
+    "name_mr": "",
+    "code": "568760",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568765",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Ghorpadi",
+    "name_mr": "",
+    "code": "568765",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568763",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Nagaj",
+    "name_mr": "",
+    "code": "568763",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568766",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "568766",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568767",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Dudhebhavi",
+    "name_mr": "",
+    "code": "568767",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568768",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Dholewadi",
+    "name_mr": "",
+    "code": "568768",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568769",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Chorochi",
+    "name_mr": "",
+    "code": "568769",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568761",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Tisangi",
+    "name_mr": "",
+    "code": "568761",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568764",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Nimaj",
+    "name_mr": "",
+    "code": "568764",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568762",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Raywadi",
+    "name_mr": "",
+    "code": "568762",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568773",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kadamwadi",
+    "name_mr": "",
+    "code": "568773",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568776",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "568776",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568770",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Jambhulwadi",
+    "name_mr": "",
+    "code": "568770",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568777",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Garjewadi",
+    "name_mr": "",
+    "code": "568777",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568772",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Dhalgaon",
+    "name_mr": "",
+    "code": "568772",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568775",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kerewadi",
+    "name_mr": "",
+    "code": "568775",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568771",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Chudekhindi",
+    "name_mr": "",
+    "code": "568771",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568778",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kundlapur",
+    "name_mr": "",
+    "code": "568778",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568774",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Arewadi",
+    "name_mr": "",
+    "code": "568774",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568779",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Shelkewadi",
+    "name_mr": "",
+    "code": "568779",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568780",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Agalgaon",
+    "name_mr": "",
+    "code": "568780",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568788",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Alkud[s]",
+    "name_mr": "",
+    "code": "568788",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568804",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Shirdhon",
+    "name_mr": "",
+    "code": "568804",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568786",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Moghamwadi",
+    "name_mr": "",
+    "code": "568786",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568787",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Bassappawadi",
+    "name_mr": "",
+    "code": "568787",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568805",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "568805",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568799",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Kokale",
+    "name_mr": "",
+    "code": "568799",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568795",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "VithurayachiWadi",
+    "name_mr": "",
+    "code": "568795",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568813",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Deshing",
+    "name_mr": "",
+    "code": "568813",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568798",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Ranjani",
+    "name_mr": "",
+    "code": "568798",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  },
+  {
+    "village_id": "v-568796",
+    "district_id": "sangli",
+    "taluka_id": "kavathemahankal",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "568796",
+    "boundary_file": "/data/boundaries/villages/sangli/kavathemahankal.geojson"
+  }
+]

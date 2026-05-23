@@ -1,0 +1,1469 @@
+[
+  {
+    "village_id": "v-563986",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Divdevwadi",
+    "name_mr": "",
+    "code": "563986",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564027",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Rangeghar",
+    "name_mr": "",
+    "code": "564027",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564028",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Karedi t.kudal",
+    "name_mr": "",
+    "code": "564028",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564034",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhivadi",
+    "name_mr": "",
+    "code": "564034",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563987",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mamurdi",
+    "name_mr": "",
+    "code": "563987",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563983",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhamghar",
+    "name_mr": "",
+    "code": "563983",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564033",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sangvi t. kudal",
+    "name_mr": "",
+    "code": "564033",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563982",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Galdev",
+    "name_mr": "",
+    "code": "563982",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563993",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Chorambe",
+    "name_mr": "",
+    "code": "563993",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563988",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mhate bk",
+    "name_mr": "",
+    "code": "563988",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564105",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Songaon",
+    "name_mr": "",
+    "code": "564105",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564102",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dare bk.",
+    "name_mr": "",
+    "code": "564102",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564073",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Karanje",
+    "name_mr": "",
+    "code": "564073",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564106",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Arde",
+    "name_mr": "",
+    "code": "564106",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563989",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vadgare",
+    "name_mr": "",
+    "code": "563989",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563973",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Nandgane",
+    "name_mr": "",
+    "code": "563973",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564012",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ambeghar t.kudal",
+    "name_mr": "",
+    "code": "564012",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564007",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kavadi",
+    "name_mr": "",
+    "code": "564007",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564017",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sanapane",
+    "name_mr": "",
+    "code": "564017",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564013",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhogavali t.kudal",
+    "name_mr": "",
+    "code": "564013",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564014",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Hateghar",
+    "name_mr": "",
+    "code": "564014",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563972",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kuraloshi",
+    "name_mr": "",
+    "code": "563972",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563979",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ambeghar  t medha",
+    "name_mr": "",
+    "code": "563979",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564018",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Akhade",
+    "name_mr": "",
+    "code": "564018",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563976",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kelghar t medha",
+    "name_mr": "",
+    "code": "563976",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564030",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Shete",
+    "name_mr": "",
+    "code": "564030",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564016",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhaleghar",
+    "name_mr": "",
+    "code": "564016",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564015",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sayghar",
+    "name_mr": "",
+    "code": "564015",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563994",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ruighar",
+    "name_mr": "",
+    "code": "563994",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563962",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhuteghar",
+    "name_mr": "",
+    "code": "563962",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563995",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "563995",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563996",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Katavali",
+    "name_mr": "",
+    "code": "563996",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563997",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Beloshi",
+    "name_mr": "",
+    "code": "563997",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563961",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bondarwadi",
+    "name_mr": "",
+    "code": "563961",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564002",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dapawadi",
+    "name_mr": "",
+    "code": "564002",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563964",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bahule",
+    "name_mr": "",
+    "code": "563964",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564003",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kharshi  baramure",
+    "name_mr": "",
+    "code": "564003",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564004",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Pimpali",
+    "name_mr": "",
+    "code": "564004",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563963",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vahite",
+    "name_mr": "",
+    "code": "563963",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564000",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ghoteghar",
+    "name_mr": "",
+    "code": "564000",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563999",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ranjni",
+    "name_mr": "",
+    "code": "563999",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563968",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Taloshi",
+    "name_mr": "",
+    "code": "563968",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563967",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Valanjwadi",
+    "name_mr": "",
+    "code": "563967",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563969",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kedambe",
+    "name_mr": "",
+    "code": "563969",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564001",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mahu",
+    "name_mr": "",
+    "code": "564001",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564011",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Valuth",
+    "name_mr": "",
+    "code": "564011",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563965",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mukavale",
+    "name_mr": "",
+    "code": "563965",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563998",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vahagaon",
+    "name_mr": "",
+    "code": "563998",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564010",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ramwadi",
+    "name_mr": "",
+    "code": "564010",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564021",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Jarewadi",
+    "name_mr": "",
+    "code": "564021",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563966",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vatambe",
+    "name_mr": "",
+    "code": "563966",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564020",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Humgaon",
+    "name_mr": "",
+    "code": "564020",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564005",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Akhegani",
+    "name_mr": "",
+    "code": "564005",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563971",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Rengadiwadi",
+    "name_mr": "",
+    "code": "563971",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564008",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Panas",
+    "name_mr": "",
+    "code": "564008",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563970",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Varoshi",
+    "name_mr": "",
+    "code": "563970",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563974",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Punavadi",
+    "name_mr": "",
+    "code": "563974",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564019",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kolewadi",
+    "name_mr": "",
+    "code": "564019",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564022",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sartale",
+    "name_mr": "",
+    "code": "564022",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564023",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mhasve",
+    "name_mr": "",
+    "code": "564023",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564009",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Karhar",
+    "name_mr": "",
+    "code": "564009",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564024",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Somardi",
+    "name_mr": "",
+    "code": "564024",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563975",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dangreghar",
+    "name_mr": "",
+    "code": "563975",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564006",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vivar",
+    "name_mr": "",
+    "code": "564006",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563978",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Asani",
+    "name_mr": "",
+    "code": "563978",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564029",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bamnoli t. kudal",
+    "name_mr": "",
+    "code": "564029",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563980",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Gavdi",
+    "name_mr": "",
+    "code": "563980",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564025",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Indavli",
+    "name_mr": "",
+    "code": "564025",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564026",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Marli",
+    "name_mr": "",
+    "code": "564026",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563985",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Divdev",
+    "name_mr": "",
+    "code": "563985",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563977",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Okhavadi",
+    "name_mr": "",
+    "code": "563977",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564032",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sarjapur",
+    "name_mr": "",
+    "code": "564032",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563981",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhogavali t. medha",
+    "name_mr": "",
+    "code": "563981",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563984",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Savali",
+    "name_mr": "",
+    "code": "563984",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564100",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Alewadi",
+    "name_mr": "",
+    "code": "564100",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563991",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mhate kh.",
+    "name_mr": "",
+    "code": "563991",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563992",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mohat",
+    "name_mr": "",
+    "code": "563992",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-563990",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Gondemal",
+    "name_mr": "",
+    "code": "563990",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564111",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kharshi t. kudal",
+    "name_mr": "",
+    "code": "564111",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-276415",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Medha (NP)",
+    "name_mr": "",
+    "code": "276415",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564112",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Anewadi",
+    "name_mr": "",
+    "code": "564112",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564107",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Belawade",
+    "name_mr": "",
+    "code": "564107",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564109",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mahigaon",
+    "name_mr": "",
+    "code": "564109",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564110",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Prabhuchiwadi",
+    "name_mr": "",
+    "code": "564110",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564103",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Rendimura",
+    "name_mr": "",
+    "code": "564103",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564108",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Maradmure",
+    "name_mr": "",
+    "code": "564108",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564036",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "564036",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564037",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Nipani",
+    "name_mr": "",
+    "code": "564037",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564080",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Jawalwadi",
+    "name_mr": "",
+    "code": "564080",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564101",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "564101",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564113",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Raygaon",
+    "name_mr": "",
+    "code": "564113",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564114",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Saygaon",
+    "name_mr": "",
+    "code": "564114",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564075",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ganje",
+    "name_mr": "",
+    "code": "564075",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564082",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bibhvi",
+    "name_mr": "",
+    "code": "564082",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564040",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Manti",
+    "name_mr": "",
+    "code": "564040",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564081",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Agalavewadi",
+    "name_mr": "",
+    "code": "564081",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564115",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Duduskarwadi",
+    "name_mr": "",
+    "code": "564115",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564116",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Morghar",
+    "name_mr": "",
+    "code": "564116",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564120",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mhamulkarwadi",
+    "name_mr": "",
+    "code": "564120",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564083",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ritkawali",
+    "name_mr": "",
+    "code": "564083",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564119",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "564119",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564091",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Bhanang",
+    "name_mr": "",
+    "code": "564091",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564090",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kumbhargani",
+    "name_mr": "",
+    "code": "564090",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564089",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ozare",
+    "name_mr": "",
+    "code": "564089",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564118",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dare kh.",
+    "name_mr": "",
+    "code": "564118",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564074",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Pimpri t. medha",
+    "name_mr": "",
+    "code": "564074",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564038",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Furus",
+    "name_mr": "",
+    "code": "564038",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564039",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Apti",
+    "name_mr": "",
+    "code": "564039",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564095",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vagheshwar",
+    "name_mr": "",
+    "code": "564095",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564098",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Morawale",
+    "name_mr": "",
+    "code": "564098",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564079",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Tambi t. medha",
+    "name_mr": "",
+    "code": "564079",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564096",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kesakarwadi",
+    "name_mr": "",
+    "code": "564096",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564078",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kusumbi",
+    "name_mr": "",
+    "code": "564078",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564076",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sangvi t. medha",
+    "name_mr": "",
+    "code": "564076",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564097",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kenjal",
+    "name_mr": "",
+    "code": "564097",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564117",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Narfdev",
+    "name_mr": "",
+    "code": "564117",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564084",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kaloshi",
+    "name_mr": "",
+    "code": "564084",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564077",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sahyadrinagar",
+    "name_mr": "",
+    "code": "564077",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564042",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Tetli",
+    "name_mr": "",
+    "code": "564042",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564041",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kelghar t.solshi",
+    "name_mr": "",
+    "code": "564041",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564092",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Nizare",
+    "name_mr": "",
+    "code": "564092",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564087",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Karandi t.medha",
+    "name_mr": "",
+    "code": "564087",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564088",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Malchoundi",
+    "name_mr": "",
+    "code": "564088",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564094",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dhanakwadi",
+    "name_mr": "",
+    "code": "564094",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564043",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kolghar",
+    "name_mr": "",
+    "code": "564043",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564093",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Yekiv",
+    "name_mr": "",
+    "code": "564093",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564086",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Dund",
+    "name_mr": "",
+    "code": "564086",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564099",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sayali",
+    "name_mr": "",
+    "code": "564099",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564044",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "564044",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564045",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kasbe  bamnoli",
+    "name_mr": "",
+    "code": "564045",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564053",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Andhari",
+    "name_mr": "",
+    "code": "564053",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564054",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kas",
+    "name_mr": "",
+    "code": "564054",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564052",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mhavshi",
+    "name_mr": "",
+    "code": "564052",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564046",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Ravandi",
+    "name_mr": "",
+    "code": "564046",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564035",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Met shindi",
+    "name_mr": "",
+    "code": "564035",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564050",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Mauje shevandi",
+    "name_mr": "",
+    "code": "564050",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564055",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Phalani",
+    "name_mr": "",
+    "code": "564055",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564051",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Majare  shevandi",
+    "name_mr": "",
+    "code": "564051",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564048",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Madoshi",
+    "name_mr": "",
+    "code": "564048",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564056",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Waghali",
+    "name_mr": "",
+    "code": "564056",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564047",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Adoshi",
+    "name_mr": "",
+    "code": "564047",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564060",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Munawale",
+    "name_mr": "",
+    "code": "564060",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564057",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Khirkhandi",
+    "name_mr": "",
+    "code": "564057",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564061",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Umbarewadi",
+    "name_mr": "",
+    "code": "564061",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564049",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kusapur",
+    "name_mr": "",
+    "code": "564049",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564065",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vasota",
+    "name_mr": "",
+    "code": "564065",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564058",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Met indawli",
+    "name_mr": "",
+    "code": "564058",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564062",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Tambi",
+    "name_mr": "",
+    "code": "564062",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564059",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kargaon",
+    "name_mr": "",
+    "code": "564059",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564064",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kusawade",
+    "name_mr": "",
+    "code": "564064",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564063",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Maldev",
+    "name_mr": "",
+    "code": "564063",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564066",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Takawli",
+    "name_mr": "",
+    "code": "564066",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564067",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Deur",
+    "name_mr": "",
+    "code": "564067",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564068",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Pali t. tamb",
+    "name_mr": "",
+    "code": "564068",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564071",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Vele",
+    "name_mr": "",
+    "code": "564071",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564070",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Sawrat",
+    "name_mr": "",
+    "code": "564070",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564069",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Jungti",
+    "name_mr": "",
+    "code": "564069",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564072",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Jambruk",
+    "name_mr": "",
+    "code": "564072",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564085",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Maleshwar",
+    "name_mr": "",
+    "code": "564085",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564104",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Karandoshi",
+    "name_mr": "",
+    "code": "564104",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-944136",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Nevekarwadi",
+    "name_mr": "",
+    "code": "944136",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-564031",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Kudal",
+    "name_mr": "",
+    "code": "564031",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  },
+  {
+    "village_id": "v-652165",
+    "district_id": "s-t-ra",
+    "taluka_id": "jaoli",
+    "name_en": "Panas (Punarvasan)",
+    "name_mr": "",
+    "code": "652165",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
+  }
+]

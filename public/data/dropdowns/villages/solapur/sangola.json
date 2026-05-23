@@ -1,0 +1,929 @@
+[
+  {
+    "village_id": "v-562518",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Chikmahud",
+    "name_mr": "",
+    "code": "562518",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562514",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Itaki",
+    "name_mr": "",
+    "code": "562514",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562532",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Khilarwadi",
+    "name_mr": "",
+    "code": "562532",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562531",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Gaygavhan",
+    "name_mr": "",
+    "code": "562531",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562515",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Katfal",
+    "name_mr": "",
+    "code": "562515",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562522",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Dhalewadi",
+    "name_mr": "",
+    "code": "562522",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562516",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Bandgarwadi",
+    "name_mr": "",
+    "code": "562516",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562535",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Haldahivadi",
+    "name_mr": "",
+    "code": "562535",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562517",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "562517",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562536",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Shirbavi",
+    "name_mr": "",
+    "code": "562536",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562534",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Waki Shivane",
+    "name_mr": "",
+    "code": "562534",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562533",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Naralewadi",
+    "name_mr": "",
+    "code": "562533",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562523",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Laxminagar  (D.Wadi)",
+    "name_mr": "",
+    "code": "562523",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562538",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Dhayati",
+    "name_mr": "",
+    "code": "562538",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562540",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Sangewadi",
+    "name_mr": "",
+    "code": "562540",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562537",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Metakarwadi",
+    "name_mr": "",
+    "code": "562537",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562524",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Achakadani",
+    "name_mr": "",
+    "code": "562524",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562541",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Methvade",
+    "name_mr": "",
+    "code": "562541",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562525",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Khavaspur",
+    "name_mr": "",
+    "code": "562525",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562546",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Shivane",
+    "name_mr": "",
+    "code": "562546",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562539",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Devkatewadi",
+    "name_mr": "",
+    "code": "562539",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562528",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Satarkarvasti",
+    "name_mr": "",
+    "code": "562528",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562542",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Manjari",
+    "name_mr": "",
+    "code": "562542",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562527",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Lotewadi",
+    "name_mr": "",
+    "code": "562527",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562545",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Devale",
+    "name_mr": "",
+    "code": "562545",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562529",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Bagalwadi",
+    "name_mr": "",
+    "code": "562529",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562548",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "562548",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562547",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Ekhatapur",
+    "name_mr": "",
+    "code": "562547",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-251579",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Sangole (M Cl)",
+    "name_mr": "",
+    "code": "251579",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562543",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Bamani",
+    "name_mr": "",
+    "code": "562543",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562530",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Sonalwadi",
+    "name_mr": "",
+    "code": "562530",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562526",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Juni Lotewadi",
+    "name_mr": "",
+    "code": "562526",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562558",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Ligadewadi",
+    "name_mr": "",
+    "code": "562558",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562559",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Ajanale",
+    "name_mr": "",
+    "code": "562559",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562549",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "562549",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562605",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Burange Wadi",
+    "name_mr": "",
+    "code": "562605",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562590",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Lonavire",
+    "name_mr": "",
+    "code": "562590",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562573",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Sonewadi",
+    "name_mr": "",
+    "code": "562573",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562591",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Hanmantgaon",
+    "name_mr": "",
+    "code": "562591",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562609",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Gheradi",
+    "name_mr": "",
+    "code": "562609",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562592",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "562592",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562595",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Pachegaon Kh.",
+    "name_mr": "",
+    "code": "562595",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562594",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Nalvadewadi",
+    "name_mr": "",
+    "code": "562594",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562574",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Buddhehal",
+    "name_mr": "",
+    "code": "562574",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562608",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Tarangewadi",
+    "name_mr": "",
+    "code": "562608",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562607",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Bhopasewadi",
+    "name_mr": "",
+    "code": "562607",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562606",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Aglavewadi",
+    "name_mr": "",
+    "code": "562606",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562596",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Hatid",
+    "name_mr": "",
+    "code": "562596",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562615",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Narale",
+    "name_mr": "",
+    "code": "562615",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562520",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Mahim",
+    "name_mr": "",
+    "code": "562520",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562519",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Karandewadi",
+    "name_mr": "",
+    "code": "562519",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562521",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Mahud Bk.",
+    "name_mr": "",
+    "code": "562521",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562557",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Yelmar Mangewadi",
+    "name_mr": "",
+    "code": "562557",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562550",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "562550",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562556",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kamalapur",
+    "name_mr": "",
+    "code": "562556",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562555",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Godasewadi",
+    "name_mr": "",
+    "code": "562555",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562551",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Buralewadi",
+    "name_mr": "",
+    "code": "562551",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562554",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Vasud",
+    "name_mr": "",
+    "code": "562554",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562553",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kedarwadi",
+    "name_mr": "",
+    "code": "562553",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562561",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Vazare",
+    "name_mr": "",
+    "code": "562561",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562552",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Medashingi",
+    "name_mr": "",
+    "code": "562552",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562562",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Balvadi",
+    "name_mr": "",
+    "code": "562562",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562560",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Chinake",
+    "name_mr": "",
+    "code": "562560",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562588",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kadlas",
+    "name_mr": "",
+    "code": "562588",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562587",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "562587",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562565",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Watambare",
+    "name_mr": "",
+    "code": "562565",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562601",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Alegaon",
+    "name_mr": "",
+    "code": "562601",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562563",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Nazare",
+    "name_mr": "",
+    "code": "562563",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562564",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Ankadhal",
+    "name_mr": "",
+    "code": "562564",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562572",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Chopadi",
+    "name_mr": "",
+    "code": "562572",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562568",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Saragarwadi",
+    "name_mr": "",
+    "code": "562568",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562604",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Javala",
+    "name_mr": "",
+    "code": "562604",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562602",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Wani Chinchol",
+    "name_mr": "",
+    "code": "562602",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562571",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Bandgarwadi",
+    "name_mr": "",
+    "code": "562571",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562566",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Rajuri",
+    "name_mr": "",
+    "code": "562566",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562603",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Waki Gherdi",
+    "name_mr": "",
+    "code": "562603",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562570",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Udanwadi",
+    "name_mr": "",
+    "code": "562570",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562567",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Karandewadi",
+    "name_mr": "",
+    "code": "562567",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562569",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Zapachiwadi",
+    "name_mr": "",
+    "code": "562569",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562589",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "562589",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562576",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Goudwadi",
+    "name_mr": "",
+    "code": "562576",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562593",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Misalwadi",
+    "name_mr": "",
+    "code": "562593",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562599",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Sonand",
+    "name_mr": "",
+    "code": "562599",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562575",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Karandewadi",
+    "name_mr": "",
+    "code": "562575",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562578",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kola",
+    "name_mr": "",
+    "code": "562578",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562598",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "562598",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562597",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Hatkar Mangewadi",
+    "name_mr": "",
+    "code": "562597",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562577",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Karadwadi",
+    "name_mr": "",
+    "code": "562577",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562610",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Gavadewadi",
+    "name_mr": "",
+    "code": "562610",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562579",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Junoni",
+    "name_mr": "",
+    "code": "562579",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562611",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Hangirage",
+    "name_mr": "",
+    "code": "562611",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562580",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Jujarpur",
+    "name_mr": "",
+    "code": "562580",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562600",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Galavewadi",
+    "name_mr": "",
+    "code": "562600",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562581",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Gunappawadi",
+    "name_mr": "",
+    "code": "562581",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562612",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Pare",
+    "name_mr": "",
+    "code": "562612",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562583",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Tippehali",
+    "name_mr": "",
+    "code": "562583",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562585",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Pachegaon Bk.",
+    "name_mr": "",
+    "code": "562585",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562582",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kalubaluwadi",
+    "name_mr": "",
+    "code": "562582",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562584",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kombadwadi",
+    "name_mr": "",
+    "code": "562584",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562613",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Diksal",
+    "name_mr": "",
+    "code": "562613",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562586",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Kidabisari",
+    "name_mr": "",
+    "code": "562586",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562614",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Habisewadi",
+    "name_mr": "",
+    "code": "562614",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  },
+  {
+    "village_id": "v-562544",
+    "district_id": "solapur",
+    "taluka_id": "sangola",
+    "name_en": "Save",
+    "name_mr": "",
+    "code": "562544",
+    "boundary_file": "/data/boundaries/villages/solapur/sangola.geojson"
+  }
+]

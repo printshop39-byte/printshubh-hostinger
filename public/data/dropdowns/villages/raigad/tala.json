@@ -1,0 +1,596 @@
+[
+  {
+    "village_id": "v-554776",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Pachghar",
+    "name_mr": "",
+    "code": "554776",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554766",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Shenate",
+    "name_mr": "",
+    "code": "554766",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554765",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Wanaste",
+    "name_mr": "",
+    "code": "554765",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554780",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Gaulwadi",
+    "name_mr": "",
+    "code": "554780",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554774",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Tambadi",
+    "name_mr": "",
+    "code": "554774",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554773",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Khairat",
+    "name_mr": "",
+    "code": "554773",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554772",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Belghar",
+    "name_mr": "",
+    "code": "554772",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554782",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Bhanange",
+    "name_mr": "",
+    "code": "554782",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554784",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Charai Kh.",
+    "name_mr": "",
+    "code": "554784",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554771",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Maluk",
+    "name_mr": "",
+    "code": "554771",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554783",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Vrindavan",
+    "name_mr": "",
+    "code": "554783",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554769",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Washi  Haveli",
+    "name_mr": "",
+    "code": "554769",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554786",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Usar Kh.",
+    "name_mr": "",
+    "code": "554786",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554768",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Rowala",
+    "name_mr": "",
+    "code": "554768",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554785",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Talegaon Tarf Tale",
+    "name_mr": "",
+    "code": "554785",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554789",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Panheli",
+    "name_mr": "",
+    "code": "554789",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554787",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Charai Bk.",
+    "name_mr": "",
+    "code": "554787",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554796",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Dahivali Tarf Tale",
+    "name_mr": "",
+    "code": "554796",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554770",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Waral",
+    "name_mr": "",
+    "code": "554770",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554788",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Borichamal",
+    "name_mr": "",
+    "code": "554788",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554790",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Choravali",
+    "name_mr": "",
+    "code": "554790",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554791",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Majgaon",
+    "name_mr": "",
+    "code": "554791",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554795",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Wanjloshi",
+    "name_mr": "",
+    "code": "554795",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554797",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Wave Mandraj",
+    "name_mr": "",
+    "code": "554797",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554793",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Tamhane  Tarf  Tale",
+    "name_mr": "",
+    "code": "554793",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554794",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kasekhol",
+    "name_mr": "",
+    "code": "554794",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554736",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Barpe",
+    "name_mr": "",
+    "code": "554736",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554735",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Mahure",
+    "name_mr": "",
+    "code": "554735",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554741",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Vinawaliwadi",
+    "name_mr": "",
+    "code": "554741",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554742",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Salshet",
+    "name_mr": "",
+    "code": "554742",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554747",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kondthare",
+    "name_mr": "",
+    "code": "554747",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554743",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kista Ketke",
+    "name_mr": "",
+    "code": "554743",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554748",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Tokarde",
+    "name_mr": "",
+    "code": "554748",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554745",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Nigudshet",
+    "name_mr": "",
+    "code": "554745",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554749",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Medhe",
+    "name_mr": "",
+    "code": "554749",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554744",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Washi  Mahagaon",
+    "name_mr": "",
+    "code": "554744",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554746",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Phalshet Karnala",
+    "name_mr": "",
+    "code": "554746",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554751",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Girne",
+    "name_mr": "",
+    "code": "554751",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554750",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Malathe",
+    "name_mr": "",
+    "code": "554750",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554752",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Nanvali",
+    "name_mr": "",
+    "code": "554752",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554761",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Sonsade",
+    "name_mr": "",
+    "code": "554761",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-276270",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Tala (NP)",
+    "name_mr": "",
+    "code": "276270",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554757",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Khambavali",
+    "name_mr": "",
+    "code": "554757",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554762",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Wave  Haveli",
+    "name_mr": "",
+    "code": "554762",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554756",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Shenawali",
+    "name_mr": "",
+    "code": "554756",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554755",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kude",
+    "name_mr": "",
+    "code": "554755",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554779",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kalsambade",
+    "name_mr": "",
+    "code": "554779",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554777",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kalamshet",
+    "name_mr": "",
+    "code": "554777",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554778",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kakadshet",
+    "name_mr": "",
+    "code": "554778",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554781",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Adnale",
+    "name_mr": "",
+    "code": "554781",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554792",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Ganeshnagar",
+    "name_mr": "",
+    "code": "554792",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "creek",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554738",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Padhavan",
+    "name_mr": "",
+    "code": "554738",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554739",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Mhasadi",
+    "name_mr": "",
+    "code": "554739",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554740",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Korkhanda",
+    "name_mr": "",
+    "code": "554740",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554760",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Borghar  Haveli",
+    "name_mr": "",
+    "code": "554760",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-943188",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Saidham",
+    "name_mr": "",
+    "code": "943188",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554737",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "554737",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-944344",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Bahulewadi",
+    "name_mr": "",
+    "code": "944344",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554754",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Mandad",
+    "name_mr": "",
+    "code": "554754",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554767",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Pitsai",
+    "name_mr": "",
+    "code": "554767",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-944425",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Pitsaikonda",
+    "name_mr": "",
+    "code": "944425",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554753",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Rahatad",
+    "name_mr": "",
+    "code": "554753",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-943187",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Hanumannagar",
+    "name_mr": "",
+    "code": "943187",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-944424",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Kumbhale (N.V.)",
+    "name_mr": "",
+    "code": "944424",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  },
+  {
+    "village_id": "v-554754N379",
+    "district_id": "raigad",
+    "taluka_id": "tala",
+    "name_en": "Taraste",
+    "name_mr": "",
+    "code": "554754N379",
+    "boundary_file": "/data/boundaries/villages/raigad/tala.geojson"
+  }
+]

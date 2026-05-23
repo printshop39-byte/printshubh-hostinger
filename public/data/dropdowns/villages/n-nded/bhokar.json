@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-544845",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Amthana",
+    "name_mr": "",
+    "code": "544845",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544844",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Bhurbhushi",
+    "name_mr": "",
+    "code": "544844",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544843",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Maldari",
+    "name_mr": "",
+    "code": "544843",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544857",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Deothana",
+    "name_mr": "",
+    "code": "544857",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544842",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Maslaga",
+    "name_mr": "",
+    "code": "544842",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544840",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Somthana Patti Bhokar",
+    "name_mr": "",
+    "code": "544840",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544816",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Therban",
+    "name_mr": "",
+    "code": "544816",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544815",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Dhawari bk",
+    "name_mr": "",
+    "code": "544815",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544848",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Nekli",
+    "name_mr": "",
+    "code": "544848",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544846",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Naslapur",
+    "name_mr": "",
+    "code": "544846",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544814",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Dhawari kh",
+    "name_mr": "",
+    "code": "544814",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544847",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Mokhandi",
+    "name_mr": "",
+    "code": "544847",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544854",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kini",
+    "name_mr": "",
+    "code": "544854",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544811",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Amdari",
+    "name_mr": "",
+    "code": "544811",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544841",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Deothana tanda",
+    "name_mr": "",
+    "code": "544841",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544839",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Sigarwadi",
+    "name_mr": "",
+    "code": "544839",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544813",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Gopi Tanda",
+    "name_mr": "",
+    "code": "544813",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544858",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Saeargaon (Mal)",
+    "name_mr": "",
+    "code": "544858",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544856",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Paki Tanda",
+    "name_mr": "",
+    "code": "544856",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544855",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Paki",
+    "name_mr": "",
+    "code": "544855",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544849",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Ralaj (D)",
+    "name_mr": "",
+    "code": "544849",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544817",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "544817",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544818",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Hari tanda",
+    "name_mr": "",
+    "code": "544818",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544808",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kharbi",
+    "name_mr": "",
+    "code": "544808",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544850",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Palaj",
+    "name_mr": "",
+    "code": "544850",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544863",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kolgaon Bk.",
+    "name_mr": "",
+    "code": "544863",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544819",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "544819",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544829",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kinala",
+    "name_mr": "",
+    "code": "544829",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544859",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Ranapur",
+    "name_mr": "",
+    "code": "544859",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544830",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Batala",
+    "name_mr": "",
+    "code": "544830",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544812",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Amdariwadi",
+    "name_mr": "",
+    "code": "544812",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544861",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Nanda Kh.",
+    "name_mr": "",
+    "code": "544861",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544820",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Narwat",
+    "name_mr": "",
+    "code": "544820",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544822",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Bachoti kamp",
+    "name_mr": "",
+    "code": "544822",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-259697",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Bhokar (M Cl)",
+    "name_mr": "",
+    "code": "259697",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544823",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Tatkalwadi",
+    "name_mr": "",
+    "code": "544823",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544851",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Mhalsapur (D)",
+    "name_mr": "",
+    "code": "544851",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544862",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Gargotwadi",
+    "name_mr": "",
+    "code": "544862",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544853",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Diwashi Bk",
+    "name_mr": "",
+    "code": "544853",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544852",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "544852",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544831",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Chinchala p.b.",
+    "name_mr": "",
+    "code": "544831",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544860",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kolgaon  kh.",
+    "name_mr": "",
+    "code": "544860",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544833",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "544833",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544821",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Borwadi",
+    "name_mr": "",
+    "code": "544821",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544828",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Ritha",
+    "name_mr": "",
+    "code": "544828",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544826",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Pandurna",
+    "name_mr": "",
+    "code": "544826",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544832",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Pomnala",
+    "name_mr": "",
+    "code": "544832",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544864",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kandli",
+    "name_mr": "",
+    "code": "544864",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544865",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Sawargaon Met",
+    "name_mr": "",
+    "code": "544865",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544825",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Gargotwadi",
+    "name_mr": "",
+    "code": "544825",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544834",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Jakapur",
+    "name_mr": "",
+    "code": "544834",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544869",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Raikhod",
+    "name_mr": "",
+    "code": "544869",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544875",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Laglud",
+    "name_mr": "",
+    "code": "544875",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544838",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "544838",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544827",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Samandarwadi",
+    "name_mr": "",
+    "code": "544827",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544836",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Bembar",
+    "name_mr": "",
+    "code": "544836",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544835",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Hassapur",
+    "name_mr": "",
+    "code": "544835",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544867",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Jamdari Tanda",
+    "name_mr": "",
+    "code": "544867",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544837",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "544837",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544870",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Sayal",
+    "name_mr": "",
+    "code": "544870",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544871",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Daur",
+    "name_mr": "",
+    "code": "544871",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544868",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Jamdari",
+    "name_mr": "",
+    "code": "544868",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544873",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Matul",
+    "name_mr": "",
+    "code": "544873",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544886",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Halda",
+    "name_mr": "",
+    "code": "544886",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544887",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Lamkani",
+    "name_mr": "",
+    "code": "544887",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544876",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Rawangaon",
+    "name_mr": "",
+    "code": "544876",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544872",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Pimpaldhav",
+    "name_mr": "",
+    "code": "544872",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544883",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Dharjani",
+    "name_mr": "",
+    "code": "544883",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544888",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Hadoli",
+    "name_mr": "",
+    "code": "544888",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544885",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Moghali",
+    "name_mr": "",
+    "code": "544885",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544881",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Ballal",
+    "name_mr": "",
+    "code": "544881",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544877",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Nanda Patti Mhaisa",
+    "name_mr": "",
+    "code": "544877",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544889",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Kamangaon",
+    "name_mr": "",
+    "code": "544889",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544879",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "544879",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544880",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Bendri",
+    "name_mr": "",
+    "code": "544880",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544884",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Elegaon",
+    "name_mr": "",
+    "code": "544884",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544878",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Rahati Bk.",
+    "name_mr": "",
+    "code": "544878",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544882",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Nanda Bk.",
+    "name_mr": "",
+    "code": "544882",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544809",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Bhoshi",
+    "name_mr": "",
+    "code": "544809",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946174",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Babanwadi",
+    "name_mr": "",
+    "code": "946174",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544824",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Chitgiri",
+    "name_mr": "",
+    "code": "544824",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946182",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Ramunaik Tanda",
+    "name_mr": "",
+    "code": "946182",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946203",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Zingarwadi",
+    "name_mr": "",
+    "code": "946203",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946197",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Sitaramnaik Tanda",
+    "name_mr": "",
+    "code": "946197",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544874",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Divshi kh.",
+    "name_mr": "",
+    "code": "544874",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946175",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Divshi kh. Tanda",
+    "name_mr": "",
+    "code": "946175",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544866",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Sonari",
+    "name_mr": "",
+    "code": "544866",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946185",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Savargaon Met Tanda",
+    "name_mr": "",
+    "code": "946185",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-544810",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Wakad",
+    "name_mr": "",
+    "code": "544810",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946173",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Amdari Tanda",
+    "name_mr": "",
+    "code": "946173",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  },
+  {
+    "village_id": "v-946187",
+    "district_id": "n-nded",
+    "taluka_id": "bhokar",
+    "name_en": "Shivanagar Tanda (N.V.)",
+    "name_mr": "",
+    "code": "946187",
+    "boundary_file": "/data/boundaries/villages/n-nded/bhokar.geojson"
+  }
+]

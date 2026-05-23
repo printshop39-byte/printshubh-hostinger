@@ -1,0 +1,1595 @@
+[
+  {
+    "village_id": "v-533877",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "533877",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533885",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Gohda (Kh)",
+    "name_mr": "",
+    "code": "533885",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533881",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Salai (Kala)",
+    "name_mr": "",
+    "code": "533881",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533879",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Salai (Pevath)",
+    "name_mr": "",
+    "code": "533879",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533880",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Sondi",
+    "name_mr": "",
+    "code": "533880",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533920",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Tamaswada",
+    "name_mr": "",
+    "code": "533920",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533919",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "533919",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533902",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Jungad",
+    "name_mr": "",
+    "code": "533902",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533893",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Juwadi",
+    "name_mr": "",
+    "code": "533893",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533897",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Nimboli",
+    "name_mr": "",
+    "code": "533897",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533898",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mohi",
+    "name_mr": "",
+    "code": "533898",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533896",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bramhani",
+    "name_mr": "",
+    "code": "533896",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533905",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bibi",
+    "name_mr": "",
+    "code": "533905",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "kelzar-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "KELZAR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533928",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "533928",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533906",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "533906",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533921",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Madni",
+    "name_mr": "",
+    "code": "533921",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533975",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wadgaon (Jangli)",
+    "name_mr": "",
+    "code": "533975",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533895",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dhanoli (Gawande)",
+    "name_mr": "",
+    "code": "533895",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533922",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "533922",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533903",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khapri",
+    "name_mr": "",
+    "code": "533903",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533923",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "533923",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533925",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "533925",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533904",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mungapur",
+    "name_mr": "",
+    "code": "533904",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533927",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "533927",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533913",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Gaimukh",
+    "name_mr": "",
+    "code": "533913",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533883",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "533883",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533882",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dodaki",
+    "name_mr": "",
+    "code": "533882",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533886",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "533886",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533878",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Gohda (Kala)",
+    "name_mr": "",
+    "code": "533878",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533916",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Raipur (Jangli)",
+    "name_mr": "",
+    "code": "533916",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533887",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wanarvihira",
+    "name_mr": "",
+    "code": "533887",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533884",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Nanbardi",
+    "name_mr": "",
+    "code": "533884",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533888",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "533888",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533892",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khairi Menkhat",
+    "name_mr": "",
+    "code": "533892",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533891",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "533891",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533914",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Raipur (Heti)",
+    "name_mr": "",
+    "code": "533914",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533889",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Hingni",
+    "name_mr": "",
+    "code": "533889",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533918",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "533918",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533900",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Shiwangaon",
+    "name_mr": "",
+    "code": "533900",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533890",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "533890",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533901",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "533901",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533899",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "533899",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533915",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Ridhora",
+    "name_mr": "",
+    "code": "533915",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533917",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bid Borkhedi",
+    "name_mr": "",
+    "code": "533917",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533911",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "533911",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533976",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Somalgad",
+    "name_mr": "",
+    "code": "533976",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533977",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Seldoh",
+    "name_mr": "",
+    "code": "533977",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533929",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "533929",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533907",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Pimpal Khuta",
+    "name_mr": "",
+    "code": "533907",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533909",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Ghorad",
+    "name_mr": "",
+    "code": "533909",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533908",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Jakhala",
+    "name_mr": "",
+    "code": "533908",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533926",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "533926",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533930",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Borkhedi (Kala)",
+    "name_mr": "",
+    "code": "533930",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533956",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wadgaon (Kala)",
+    "name_mr": "",
+    "code": "533956",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533912",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "533912",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533981",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kelzar",
+    "name_mr": "",
+    "code": "533981",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533910",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Ringani",
+    "name_mr": "",
+    "code": "533910",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533931",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Zadshi",
+    "name_mr": "",
+    "code": "533931",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533978",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "533978",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533974",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kolgaon",
+    "name_mr": "",
+    "code": "533974",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533924",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Masala",
+    "name_mr": "",
+    "code": "533924",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533954",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "533954",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533932",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Giroli",
+    "name_mr": "",
+    "code": "533932",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533955",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wadgaon Kh.",
+    "name_mr": "",
+    "code": "533955",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533953",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Umargaon",
+    "name_mr": "",
+    "code": "533953",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-276378",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Seloo (NP)",
+    "name_mr": "",
+    "code": "276378",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534011",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khapri (Dhone)",
+    "name_mr": "",
+    "code": "534011",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533939",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kherda",
+    "name_mr": "",
+    "code": "533939",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533943",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wanoda",
+    "name_mr": "",
+    "code": "533943",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-251333",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Sindi (M Cl)",
+    "name_mr": "",
+    "code": "251333",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533945",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "533945",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534018",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Pipra",
+    "name_mr": "",
+    "code": "534018",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533965",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Godapur",
+    "name_mr": "",
+    "code": "533965",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533966",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kanhapur",
+    "name_mr": "",
+    "code": "533966",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533967",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mohanapur",
+    "name_mr": "",
+    "code": "533967",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534013",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Belodi",
+    "name_mr": "",
+    "code": "534013",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533940",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bid-sukli",
+    "name_mr": "",
+    "code": "533940",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533987",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Yankapur (Ramana)",
+    "name_mr": "",
+    "code": "533987",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534009",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Anjangaon",
+    "name_mr": "",
+    "code": "534009",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534010",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dahegaon (Gosai)",
+    "name_mr": "",
+    "code": "534010",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533941",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Keli",
+    "name_mr": "",
+    "code": "533941",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533990",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "533990",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533989",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Sukali (Station)",
+    "name_mr": "",
+    "code": "533989",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534042",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Digraj",
+    "name_mr": "",
+    "code": "534042",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534019",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Helodi",
+    "name_mr": "",
+    "code": "534019",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533964",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Nagtekdi",
+    "name_mr": "",
+    "code": "533964",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533996",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "533996",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534008",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dhapki",
+    "name_mr": "",
+    "code": "534008",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534020",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Tuljapur",
+    "name_mr": "",
+    "code": "534020",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533944",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Itaki",
+    "name_mr": "",
+    "code": "533944",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534006",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Charmandal",
+    "name_mr": "",
+    "code": "534006",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534041",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "534041",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533988",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Daulatpur",
+    "name_mr": "",
+    "code": "533988",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533998",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Morchapur",
+    "name_mr": "",
+    "code": "533998",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533997",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Arvi (Lahan)",
+    "name_mr": "",
+    "code": "533997",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534023",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Junona",
+    "name_mr": "",
+    "code": "534023",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534040",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Pahelanpur",
+    "name_mr": "",
+    "code": "534040",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534005",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Jogapur",
+    "name_mr": "",
+    "code": "534005",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533999",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wahitpur",
+    "name_mr": "",
+    "code": "533999",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534022",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dabalapur",
+    "name_mr": "",
+    "code": "534022",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534021",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bakhalapur",
+    "name_mr": "",
+    "code": "534021",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534002",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Talodi",
+    "name_mr": "",
+    "code": "534002",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534000",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Waghapur",
+    "name_mr": "",
+    "code": "534000",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534039",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Shivangaon",
+    "name_mr": "",
+    "code": "534039",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534003",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Jaipur",
+    "name_mr": "",
+    "code": "534003",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534036",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "534036",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534001",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kesalapur",
+    "name_mr": "",
+    "code": "534001",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534035",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Bondsula",
+    "name_mr": "",
+    "code": "534035",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534007",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Madka",
+    "name_mr": "",
+    "code": "534007",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534004",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khadka",
+    "name_mr": "",
+    "code": "534004",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534037",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Uttampur",
+    "name_mr": "",
+    "code": "534037",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534038",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Algaon",
+    "name_mr": "",
+    "code": "534038",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534024",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Chanki",
+    "name_mr": "",
+    "code": "534024",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534027",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Tuljapur",
+    "name_mr": "",
+    "code": "534027",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534034",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Hamdapur",
+    "name_mr": "",
+    "code": "534034",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534025",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kopra",
+    "name_mr": "",
+    "code": "534025",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534026",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mukindpur",
+    "name_mr": "",
+    "code": "534026",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534028",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Waghala",
+    "name_mr": "",
+    "code": "534028",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534033",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "534033",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534029",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Takali (Kite)",
+    "name_mr": "",
+    "code": "534029",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534031",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "534031",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534030",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dindoda",
+    "name_mr": "",
+    "code": "534030",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534032",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "534032",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533961",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mohadara",
+    "name_mr": "",
+    "code": "533961",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533946",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Tirmalpur",
+    "name_mr": "",
+    "code": "533946",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533960",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Babulgaon",
+    "name_mr": "",
+    "code": "533960",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533963",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kashimpur",
+    "name_mr": "",
+    "code": "533963",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533938",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Girnala",
+    "name_mr": "",
+    "code": "533938",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533970",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mohanapur",
+    "name_mr": "",
+    "code": "533970",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534015",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "534015",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533986",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dhanoli (Meghe)",
+    "name_mr": "",
+    "code": "533986",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533985",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "533985",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534014",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "534014",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533874",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Garamsur",
+    "name_mr": "",
+    "code": "533874",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-158",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-159",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533873",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "533873",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "submerged-dup-160",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "submerged-dup-161",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533875",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Manoli",
+    "name_mr": "",
+    "code": "533875",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533876",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Joga",
+    "name_mr": "",
+    "code": "533876",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533894",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Pimpal Shenda",
+    "name_mr": "",
+    "code": "533894",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533936",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "533936",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533935",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Jamani",
+    "name_mr": "",
+    "code": "533935",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533983",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kolhi",
+    "name_mr": "",
+    "code": "533983",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533982",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Janglapur",
+    "name_mr": "",
+    "code": "533982",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533933",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "533933",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533934",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Singoda",
+    "name_mr": "",
+    "code": "533934",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533958",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Ichora",
+    "name_mr": "",
+    "code": "533958",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533952",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "533952",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533973",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Londhapur",
+    "name_mr": "",
+    "code": "533973",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533959",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kamthi",
+    "name_mr": "",
+    "code": "533959",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533980",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "533980",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533968",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Lehaki Kh.",
+    "name_mr": "",
+    "code": "533968",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533993",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Mahabala",
+    "name_mr": "",
+    "code": "533993",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533949",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Daulatpur",
+    "name_mr": "",
+    "code": "533949",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533950",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kashimpur",
+    "name_mr": "",
+    "code": "533950",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534017",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "534017",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533947",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kshirsamudra",
+    "name_mr": "",
+    "code": "533947",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533937",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Sukli (Bai)",
+    "name_mr": "",
+    "code": "533937",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533984",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Indapur",
+    "name_mr": "",
+    "code": "533984",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533948",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "533948",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533957",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Rehaki (Kala)",
+    "name_mr": "",
+    "code": "533957",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533951",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kurha",
+    "name_mr": "",
+    "code": "533951",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533991",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kotamba",
+    "name_mr": "",
+    "code": "533991",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533969",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Nababpur",
+    "name_mr": "",
+    "code": "533969",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533979",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dhondgaon",
+    "name_mr": "",
+    "code": "533979",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533942",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Yeli",
+    "name_mr": "",
+    "code": "533942",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533992",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "533992",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534016",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "534016",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-534012",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "534012",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533962",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Surgaon",
+    "name_mr": "",
+    "code": "533962",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533995",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Itala",
+    "name_mr": "",
+    "code": "533995",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  },
+  {
+    "village_id": "v-533994",
+    "district_id": "wardha",
+    "taluka_id": "seloo",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "533994",
+    "boundary_file": "/data/boundaries/villages/wardha/seloo.geojson"
+  }
+]

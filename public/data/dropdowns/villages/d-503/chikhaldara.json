@@ -1,0 +1,1775 @@
+[
+  {
+    "village_id": "v-531697",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "531697",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531710",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Somwarkheda",
+    "name_mr": "",
+    "code": "531710",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531711",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gaulkheda Bazar",
+    "name_mr": "",
+    "code": "531711",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531702",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Jambli",
+    "name_mr": "",
+    "code": "531702",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531703",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ambapati",
+    "name_mr": "",
+    "code": "531703",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531704",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Girguti",
+    "name_mr": "",
+    "code": "531704",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531706",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tekda Nagzira",
+    "name_mr": "",
+    "code": "531706",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531712",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Manjarkapdi",
+    "name_mr": "",
+    "code": "531712",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531713",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "531713",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531707",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sakhari Chikhalpati",
+    "name_mr": "",
+    "code": "531707",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531548",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhiroja",
+    "name_mr": "",
+    "code": "531548",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531542",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhawai",
+    "name_mr": "",
+    "code": "531542",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531544",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Pili",
+    "name_mr": "",
+    "code": "531544",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531547",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Keli",
+    "name_mr": "",
+    "code": "531547",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531541",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sarwarkheda",
+    "name_mr": "",
+    "code": "531541",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531551",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Patkahu",
+    "name_mr": "",
+    "code": "531551",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531554",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tarubanda",
+    "name_mr": "",
+    "code": "531554",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531553",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Raksha",
+    "name_mr": "",
+    "code": "531553",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531654",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ghatang",
+    "name_mr": "",
+    "code": "531654",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531660",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tetu",
+    "name_mr": "",
+    "code": "531660",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531557",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gadgabhandum",
+    "name_mr": "",
+    "code": "531557",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531655",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhulori",
+    "name_mr": "",
+    "code": "531655",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531652",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Lonazari",
+    "name_mr": "",
+    "code": "531652",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531653",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Masondi",
+    "name_mr": "",
+    "code": "531653",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531657",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Salona",
+    "name_mr": "",
+    "code": "531657",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531663",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Memna",
+    "name_mr": "",
+    "code": "531663",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531661",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Amzari",
+    "name_mr": "",
+    "code": "531661",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531604",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Piplya",
+    "name_mr": "",
+    "code": "531604",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531603",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tembru",
+    "name_mr": "",
+    "code": "531603",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531600",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Salita",
+    "name_mr": "",
+    "code": "531600",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531601",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ektai",
+    "name_mr": "",
+    "code": "531601",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531605",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khari",
+    "name_mr": "",
+    "code": "531605",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531610",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sumita",
+    "name_mr": "",
+    "code": "531610",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531606",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Hilda",
+    "name_mr": "",
+    "code": "531606",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531619",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chobita",
+    "name_mr": "",
+    "code": "531619",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531607",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Rahu",
+    "name_mr": "",
+    "code": "531607",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531618",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Biba",
+    "name_mr": "",
+    "code": "531618",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531612",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ruipathar",
+    "name_mr": "",
+    "code": "531612",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531613",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chilati",
+    "name_mr": "",
+    "code": "531613",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531614",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Hatru",
+    "name_mr": "",
+    "code": "531614",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531533",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kuhi",
+    "name_mr": "",
+    "code": "531533",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531617",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Barugavhan",
+    "name_mr": "",
+    "code": "531617",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531616",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Marita",
+    "name_mr": "",
+    "code": "531616",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531622",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bilu",
+    "name_mr": "",
+    "code": "531622",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531633",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Butida",
+    "name_mr": "",
+    "code": "531633",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531623",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kamida",
+    "name_mr": "",
+    "code": "531623",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531632",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhandora",
+    "name_mr": "",
+    "code": "531632",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531631",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Jarida",
+    "name_mr": "",
+    "code": "531631",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531635",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Palshya",
+    "name_mr": "",
+    "code": "531635",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531636",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Churni",
+    "name_mr": "",
+    "code": "531636",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531615",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Madizadap",
+    "name_mr": "",
+    "code": "531615",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531642",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gangarkheda",
+    "name_mr": "",
+    "code": "531642",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531641",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Korda",
+    "name_mr": "",
+    "code": "531641",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531637",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Karada",
+    "name_mr": "",
+    "code": "531637",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531536",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bortyakheda",
+    "name_mr": "",
+    "code": "531536",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531624",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khadimal",
+    "name_mr": "",
+    "code": "531624",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531537",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "531537",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531629",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Awagad",
+    "name_mr": "",
+    "code": "531629",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531640",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Pachdongri",
+    "name_mr": "",
+    "code": "531640",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531639",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ghana",
+    "name_mr": "",
+    "code": "531639",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531645",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Katkumbh",
+    "name_mr": "",
+    "code": "531645",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531628",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khandukheda",
+    "name_mr": "",
+    "code": "531628",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531627",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chunkhadi",
+    "name_mr": "",
+    "code": "531627",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531626",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bichukheda",
+    "name_mr": "",
+    "code": "531626",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531646",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Koylari",
+    "name_mr": "",
+    "code": "531646",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531539",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Makhala",
+    "name_mr": "",
+    "code": "531539",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531549",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kesharpur",
+    "name_mr": "",
+    "code": "531549",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531550",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "531550",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-9",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531578",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khatkali",
+    "name_mr": "",
+    "code": "531578",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531599",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhandum (Hatru)",
+    "name_mr": "",
+    "code": "531599",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531556",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sawarya",
+    "name_mr": "",
+    "code": "531556",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531659",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "531659",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531560",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dhakna",
+    "name_mr": "",
+    "code": "531560",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531558",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dabiya",
+    "name_mr": "",
+    "code": "531558",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531658",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Jamun Nala",
+    "name_mr": "",
+    "code": "531658",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531555",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Adhav",
+    "name_mr": "",
+    "code": "531555",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531668",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bela",
+    "name_mr": "",
+    "code": "531668",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531667",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Jamlivan",
+    "name_mr": "",
+    "code": "531667",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531666",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kamapur",
+    "name_mr": "",
+    "code": "531666",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531665",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "531665",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531670",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bihali",
+    "name_mr": "",
+    "code": "531670",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531664",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Churni",
+    "name_mr": "",
+    "code": "531664",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531677",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Motha",
+    "name_mr": "",
+    "code": "531677",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531576",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dolar",
+    "name_mr": "",
+    "code": "531576",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531680",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Pastalai",
+    "name_mr": "",
+    "code": "531680",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531678",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Aladoh",
+    "name_mr": "",
+    "code": "531678",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531672",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kohana",
+    "name_mr": "",
+    "code": "531672",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531676",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Madki",
+    "name_mr": "",
+    "code": "531676",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531679",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Lawada Van",
+    "name_mr": "",
+    "code": "531679",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531674",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhandri",
+    "name_mr": "",
+    "code": "531674",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531675",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Adnadi",
+    "name_mr": "",
+    "code": "531675",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531673",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Domnifata",
+    "name_mr": "",
+    "code": "531673",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531681",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Vairat",
+    "name_mr": "",
+    "code": "531681",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531690",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Jaitadehi",
+    "name_mr": "",
+    "code": "531690",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531691",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Manbhang",
+    "name_mr": "",
+    "code": "531691",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531683",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Mozari",
+    "name_mr": "",
+    "code": "531683",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531687",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chichati",
+    "name_mr": "",
+    "code": "531687",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531684",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Baglinga",
+    "name_mr": "",
+    "code": "531684",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531695",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Badnapur",
+    "name_mr": "",
+    "code": "531695",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531696",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ramtek",
+    "name_mr": "",
+    "code": "531696",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531699",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kulgana Kh",
+    "name_mr": "",
+    "code": "531699",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531700",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kulgana Bk",
+    "name_mr": "",
+    "code": "531700",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531698",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Vastapur",
+    "name_mr": "",
+    "code": "531698",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531682",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kundi",
+    "name_mr": "",
+    "code": "531682",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531694",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kalapani",
+    "name_mr": "",
+    "code": "531694",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531693",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Hiradmal",
+    "name_mr": "",
+    "code": "531693",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531701",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chichkheda",
+    "name_mr": "",
+    "code": "531701",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531709",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chandpur",
+    "name_mr": "",
+    "code": "531709",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531714",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Wadapati",
+    "name_mr": "",
+    "code": "531714",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531715",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Telkhar",
+    "name_mr": "",
+    "code": "531715",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531708",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tembhrusonda",
+    "name_mr": "",
+    "code": "531708",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531705",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khongada",
+    "name_mr": "",
+    "code": "531705",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531725",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhilkheda",
+    "name_mr": "",
+    "code": "531725",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531724",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "531724",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531722",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "531722",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531723",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gangadhari",
+    "name_mr": "",
+    "code": "531723",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531716",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dharamdoh",
+    "name_mr": "",
+    "code": "531716",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531717",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "531717",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531719",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sattiruipatha",
+    "name_mr": "",
+    "code": "531719",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531718",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Aki",
+    "name_mr": "",
+    "code": "531718",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "FOREST.",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531564",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Pipadari",
+    "name_mr": "",
+    "code": "531564",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531721",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Morgad",
+    "name_mr": "",
+    "code": "531721",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531720",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chauramal",
+    "name_mr": "",
+    "code": "531720",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531662",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khatkali (Dha)",
+    "name_mr": "",
+    "code": "531662",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531565",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kakadari",
+    "name_mr": "",
+    "code": "531565",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-944942",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kelpani",
+    "name_mr": "",
+    "code": "944942",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531586",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dhargad",
+    "name_mr": "",
+    "code": "531586",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531584",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gularghat",
+    "name_mr": "",
+    "code": "531584",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531589",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Somthana Kh",
+    "name_mr": "",
+    "code": "531589",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-944937",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Somthana Bk",
+    "name_mr": "",
+    "code": "944937",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-944943",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Barukheda",
+    "name_mr": "",
+    "code": "944943",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531579",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Pandhra Khadak",
+    "name_mr": "",
+    "code": "531579",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531570",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sawarpani",
+    "name_mr": "",
+    "code": "531570",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531566",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhilkheda",
+    "name_mr": "",
+    "code": "531566",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531568",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Garajdari",
+    "name_mr": "",
+    "code": "531568",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531582",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Ahad",
+    "name_mr": "",
+    "code": "531582",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531569",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gaulkheda",
+    "name_mr": "",
+    "code": "531569",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531580",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Menghat",
+    "name_mr": "",
+    "code": "531580",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531581",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Zingapur",
+    "name_mr": "",
+    "code": "531581",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531597",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Amona",
+    "name_mr": "",
+    "code": "531597",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-944940",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Nagartas",
+    "name_mr": "",
+    "code": "944940",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531559",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhandum (Dhakana)",
+    "name_mr": "",
+    "code": "531559",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531611",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Domi",
+    "name_mr": "",
+    "code": "531611",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531534",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhutrum",
+    "name_mr": "",
+    "code": "531534",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531620",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Lakhewada",
+    "name_mr": "",
+    "code": "531620",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531621",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bodu",
+    "name_mr": "",
+    "code": "531621",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531634",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dahendri",
+    "name_mr": "",
+    "code": "531634",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531643",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kotmi",
+    "name_mr": "",
+    "code": "531643",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531644",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Toranwadi",
+    "name_mr": "",
+    "code": "531644",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531649",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhagdari",
+    "name_mr": "",
+    "code": "531649",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531647",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kanheri",
+    "name_mr": "",
+    "code": "531647",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531648",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhamadehi",
+    "name_mr": "",
+    "code": "531648",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531651",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kajaldoh",
+    "name_mr": "",
+    "code": "531651",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531650",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Doma",
+    "name_mr": "",
+    "code": "531650",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531656",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Lawada",
+    "name_mr": "",
+    "code": "531656",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "hattighat-reserved-forest",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "HATTIGHAT RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531671",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Hattighat",
+    "name_mr": "",
+    "code": "531671",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531602",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "531602",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531609",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Simori",
+    "name_mr": "",
+    "code": "531609",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531608",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Karanjkheda",
+    "name_mr": "",
+    "code": "531608",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531630",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Mehriaam",
+    "name_mr": "",
+    "code": "531630",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531625",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Nawalgaon",
+    "name_mr": "",
+    "code": "531625",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531545",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Semadoh",
+    "name_mr": "",
+    "code": "531545",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531571",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Khirapani",
+    "name_mr": "",
+    "code": "531571",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531686",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Salibardi",
+    "name_mr": "",
+    "code": "531686",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531543",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Jawaharkund",
+    "name_mr": "",
+    "code": "531543",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531567",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tongalphodi",
+    "name_mr": "",
+    "code": "531567",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531689",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Nagdehli",
+    "name_mr": "",
+    "code": "531689",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531692",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Bhilkheda",
+    "name_mr": "",
+    "code": "531692",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531669",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Wavadi",
+    "name_mr": "",
+    "code": "531669",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-276634",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chikhaldara (M Cl)",
+    "name_mr": "",
+    "code": "276634",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531546",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kolkas",
+    "name_mr": "",
+    "code": "531546",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531638",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dolar",
+    "name_mr": "",
+    "code": "531638",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "forest-dup-165",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531563",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Marawani",
+    "name_mr": "",
+    "code": "531563",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "melghat-tiger-project",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "MELGHAT TIGER PROJECT",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531540",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Sirasitand",
+    "name_mr": "",
+    "code": "531540",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531593",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Dolar",
+    "name_mr": "",
+    "code": "531593",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531594",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Wanroad",
+    "name_mr": "",
+    "code": "531594",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531596",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Rupagad",
+    "name_mr": "",
+    "code": "531596",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531591",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kutambi",
+    "name_mr": "",
+    "code": "531591",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531588",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Tekdakheda",
+    "name_mr": "",
+    "code": "531588",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531598",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Wadpani",
+    "name_mr": "",
+    "code": "531598",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531577",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Pirkheda",
+    "name_mr": "",
+    "code": "531577",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531572",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Shiwanpani",
+    "name_mr": "",
+    "code": "531572",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531561",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Belkund",
+    "name_mr": "",
+    "code": "531561",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531562",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Asalwada",
+    "name_mr": "",
+    "code": "531562",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531575",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Gudifata",
+    "name_mr": "",
+    "code": "531575",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531574",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Koktu",
+    "name_mr": "",
+    "code": "531574",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531573",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Zira",
+    "name_mr": "",
+    "code": "531573",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531685",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Hirdamal",
+    "name_mr": "",
+    "code": "531685",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531688",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "531688",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531538",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Kumbhi",
+    "name_mr": "",
+    "code": "531538",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  },
+  {
+    "village_id": "v-531535",
+    "district_id": "d-503",
+    "taluka_id": "chikhaldara",
+    "name_en": "Rehatyakheda",
+    "name_mr": "",
+    "code": "531535",
+    "boundary_file": "/data/boundaries/villages/d-503/chikhaldara.geojson"
+  }
+]

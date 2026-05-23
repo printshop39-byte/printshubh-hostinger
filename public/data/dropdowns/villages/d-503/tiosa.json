@@ -1,0 +1,857 @@
+[
+  {
+    "village_id": "v-532592",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Sarsi",
+    "name_mr": "",
+    "code": "532592",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532502",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shendola Kh.",
+    "name_mr": "",
+    "code": "532502",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532537",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Tarkhed",
+    "name_mr": "",
+    "code": "532537",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532503",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "532503",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532536",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Umarkhed",
+    "name_mr": "",
+    "code": "532536",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532504",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shiwangaon",
+    "name_mr": "",
+    "code": "532504",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532543",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Bharaswadi",
+    "name_mr": "",
+    "code": "532543",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532544",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dhamantri",
+    "name_mr": "",
+    "code": "532544",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532505",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Kolwan",
+    "name_mr": "",
+    "code": "532505",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532512",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shendola Bk.",
+    "name_mr": "",
+    "code": "532512",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532545",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Akhatwada",
+    "name_mr": "",
+    "code": "532545",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532554",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Ambikapur Ujad",
+    "name_mr": "",
+    "code": "532554",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532513",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Sujatpur",
+    "name_mr": "",
+    "code": "532513",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532553",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "532553",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532555",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Kaudanyapur",
+    "name_mr": "",
+    "code": "532555",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532565",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "532565",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532583",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Kurha",
+    "name_mr": "",
+    "code": "532583",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532578",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shidwadi",
+    "name_mr": "",
+    "code": "532578",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532575",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Wadura",
+    "name_mr": "",
+    "code": "532575",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532559",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Chenushtha",
+    "name_mr": "",
+    "code": "532559",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532579",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dharwada",
+    "name_mr": "",
+    "code": "532579",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532577",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "532577",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532580",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Durgwada",
+    "name_mr": "",
+    "code": "532580",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532581",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Alwada",
+    "name_mr": "",
+    "code": "532581",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532567",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Chakatapur",
+    "name_mr": "",
+    "code": "532567",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532566",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Virgavhan",
+    "name_mr": "",
+    "code": "532566",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532590",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Bhiwapur",
+    "name_mr": "",
+    "code": "532590",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532576",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "532576",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532520",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Karajgaon",
+    "name_mr": "",
+    "code": "532520",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532531",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Surwadi Kh",
+    "name_mr": "",
+    "code": "532531",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532538",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Nimbhora Delwadi",
+    "name_mr": "",
+    "code": "532538",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532500",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shendurjana Bk.",
+    "name_mr": "",
+    "code": "532500",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532539",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dehani",
+    "name_mr": "",
+    "code": "532539",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532499",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Gurudeonagar",
+    "name_mr": "",
+    "code": "532499",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532507",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Ankwadi",
+    "name_mr": "",
+    "code": "532507",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532541",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Bhambora",
+    "name_mr": "",
+    "code": "532541",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532542",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Amdabad",
+    "name_mr": "",
+    "code": "532542",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532510",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Alipur",
+    "name_mr": "",
+    "code": "532510",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532563",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dahigaon Dhanora",
+    "name_mr": "",
+    "code": "532563",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532571",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Adampur",
+    "name_mr": "",
+    "code": "532571",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532573",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Ghota",
+    "name_mr": "",
+    "code": "532573",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532560",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Marda",
+    "name_mr": "",
+    "code": "532560",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532572",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Jamthi Ujad",
+    "name_mr": "",
+    "code": "532572",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532556",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Wandali",
+    "name_mr": "",
+    "code": "532556",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532588",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Jawara Ujad",
+    "name_mr": "",
+    "code": "532588",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532557",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Jahangirpur",
+    "name_mr": "",
+    "code": "532557",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532574",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Vishnora",
+    "name_mr": "",
+    "code": "532574",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532558",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Husenpur",
+    "name_mr": "",
+    "code": "532558",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532587",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Gavha Balapur",
+    "name_mr": "",
+    "code": "532587",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532589",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Balapur Ujad",
+    "name_mr": "",
+    "code": "532589",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532514",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dapori Kh",
+    "name_mr": "",
+    "code": "532514",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532515",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Jawara",
+    "name_mr": "",
+    "code": "532515",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532508",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Raghunathpur",
+    "name_mr": "",
+    "code": "532508",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532540",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Bansapur Ujad",
+    "name_mr": "",
+    "code": "532540",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532506",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shirajgaon Mozari",
+    "name_mr": "",
+    "code": "532506",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532546",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Karimabad Ujad",
+    "name_mr": "",
+    "code": "532546",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532547",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Wathoda Kh",
+    "name_mr": "",
+    "code": "532547",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532509",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Maldhur",
+    "name_mr": "",
+    "code": "532509",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532549",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Palwadi",
+    "name_mr": "",
+    "code": "532549",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532548",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Shendurjana Kh",
+    "name_mr": "",
+    "code": "532548",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532562",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Warha",
+    "name_mr": "",
+    "code": "532562",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532511",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Salora Bk.",
+    "name_mr": "",
+    "code": "532511",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532561",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Ranbajpur",
+    "name_mr": "",
+    "code": "532561",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532550",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Kawadgavhan",
+    "name_mr": "",
+    "code": "532550",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532552",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Murtijapur",
+    "name_mr": "",
+    "code": "532552",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532551",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Jaitapur Ujad",
+    "name_mr": "",
+    "code": "532551",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532564",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dhotra",
+    "name_mr": "",
+    "code": "532564",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532517",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Waruda",
+    "name_mr": "",
+    "code": "532517",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532516",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Dadurni",
+    "name_mr": "",
+    "code": "532516",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532521",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "532521",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532518",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Kolwan",
+    "name_mr": "",
+    "code": "532518",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532519",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Satargaon",
+    "name_mr": "",
+    "code": "532519",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532522",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Godri",
+    "name_mr": "",
+    "code": "532522",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532526",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "532526",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532523",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Katsur",
+    "name_mr": "",
+    "code": "532523",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532527",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Wani",
+    "name_mr": "",
+    "code": "532527",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532528",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Teosa (NP)",
+    "name_mr": "",
+    "code": "532528",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532524",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "532524",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532525",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "532525",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532498",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Vinchori",
+    "name_mr": "",
+    "code": "532498",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532532",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Chandur Dhore",
+    "name_mr": "",
+    "code": "532532",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532530",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Surwadi Bk",
+    "name_mr": "",
+    "code": "532530",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532529",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Talegaon Thakur",
+    "name_mr": "",
+    "code": "532529",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532533",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Thanathuni",
+    "name_mr": "",
+    "code": "532533",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532534",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Bharwadi",
+    "name_mr": "",
+    "code": "532534",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532535",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "532535",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532501",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Mozari",
+    "name_mr": "",
+    "code": "532501",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532582",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Jagdishpur",
+    "name_mr": "",
+    "code": "532582",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532586",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Wagda",
+    "name_mr": "",
+    "code": "532586",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532585",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Rahimabad",
+    "name_mr": "",
+    "code": "532585",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532591",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "532591",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532584",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Masadi",
+    "name_mr": "",
+    "code": "532584",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532569",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "532569",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532568",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Mardi",
+    "name_mr": "",
+    "code": "532568",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  },
+  {
+    "village_id": "v-532570",
+    "district_id": "d-503",
+    "taluka_id": "tiosa",
+    "name_en": "Diwankhed",
+    "name_mr": "",
+    "code": "532570",
+    "boundary_file": "/data/boundaries/villages/d-503/tiosa.geojson"
+  }
+]

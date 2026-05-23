@@ -1,0 +1,1046 @@
+[
+  {
+    "village_id": "v-558526",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Mulewadi",
+    "name_mr": "",
+    "code": "558526",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558531",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Gondardi",
+    "name_mr": "",
+    "code": "558531",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558525",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chande Bk.",
+    "name_mr": "",
+    "code": "558525",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558536",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "558536",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558529",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chande Kh.",
+    "name_mr": "",
+    "code": "558529",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558560",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Bhose",
+    "name_mr": "",
+    "code": "558560",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558534",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Diksal",
+    "name_mr": "",
+    "code": "558534",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558538",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Mahi",
+    "name_mr": "",
+    "code": "558538",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558530",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Thetewadi",
+    "name_mr": "",
+    "code": "558530",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558537",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Sitpur",
+    "name_mr": "",
+    "code": "558537",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558547",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Jalgaon",
+    "name_mr": "",
+    "code": "558547",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558539",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Takli Khandeshwari",
+    "name_mr": "",
+    "code": "558539",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558528",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Khurangewadi",
+    "name_mr": "",
+    "code": "558528",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558543",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Rehekuri",
+    "name_mr": "",
+    "code": "558543",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558544",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "558544",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558553",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Patewadi",
+    "name_mr": "",
+    "code": "558553",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558569",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Bahirobawadi",
+    "name_mr": "",
+    "code": "558569",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558552",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Handalwadi",
+    "name_mr": "",
+    "code": "558552",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-275729",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Karjat (M Cl)",
+    "name_mr": "",
+    "code": "275729",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558566",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kopardi",
+    "name_mr": "",
+    "code": "558566",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558571",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kaprewadi",
+    "name_mr": "",
+    "code": "558571",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558556",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nimgaon daku",
+    "name_mr": "",
+    "code": "558556",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558589",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Supekarwadi",
+    "name_mr": "",
+    "code": "558589",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558591",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kuldharan",
+    "name_mr": "",
+    "code": "558591",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558567",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Wadgaon Tanpure",
+    "name_mr": "",
+    "code": "558567",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558578",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Koregaon",
+    "name_mr": "",
+    "code": "558578",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558590",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Rakshaswadi Kh.",
+    "name_mr": "",
+    "code": "558590",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558558",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chapadgaon",
+    "name_mr": "",
+    "code": "558558",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558559",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "558559",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558594",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Durgaon",
+    "name_mr": "",
+    "code": "558594",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558557",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Jalkewadi",
+    "name_mr": "",
+    "code": "558557",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558577",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Dhandewadi",
+    "name_mr": "",
+    "code": "558577",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558592",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Rakshaswadi Bk.",
+    "name_mr": "",
+    "code": "558592",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558601",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Hingangaon",
+    "name_mr": "",
+    "code": "558601",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558608",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kangudwadi",
+    "name_mr": "",
+    "code": "558608",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558600",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Siddhatek",
+    "name_mr": "",
+    "code": "558600",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558614",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Bhambore",
+    "name_mr": "",
+    "code": "558614",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558588",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Dombalwadi",
+    "name_mr": "",
+    "code": "558588",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558609",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Yeswadi",
+    "name_mr": "",
+    "code": "558609",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558618",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Holewadi",
+    "name_mr": "",
+    "code": "558618",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558611",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Deulwadi",
+    "name_mr": "",
+    "code": "558611",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558587",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Mhalangi",
+    "name_mr": "",
+    "code": "558587",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558612",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Berdi",
+    "name_mr": "",
+    "code": "558612",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558619",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chilvadi",
+    "name_mr": "",
+    "code": "558619",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558616",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Karbhanwadi",
+    "name_mr": "",
+    "code": "558616",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558615",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "558615",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558622",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Paritwadi",
+    "name_mr": "",
+    "code": "558622",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558620",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kalyachiwadi",
+    "name_mr": "",
+    "code": "558620",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558613",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Dudhodi",
+    "name_mr": "",
+    "code": "558613",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558625",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Waysewadi",
+    "name_mr": "",
+    "code": "558625",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558626",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Khed",
+    "name_mr": "",
+    "code": "558626",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558624",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Akhoni",
+    "name_mr": "",
+    "code": "558624",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558623",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Karpadi",
+    "name_mr": "",
+    "code": "558623",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558627",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Shimpore",
+    "name_mr": "",
+    "code": "558627",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558513",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nimgaon Gangarda",
+    "name_mr": "",
+    "code": "558513",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558514",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Ghumari",
+    "name_mr": "",
+    "code": "558514",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558512",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Mandali",
+    "name_mr": "",
+    "code": "558512",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558516",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Thergaon",
+    "name_mr": "",
+    "code": "558516",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558521",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "558521",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558515",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nagamthan",
+    "name_mr": "",
+    "code": "558515",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558511",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chincholi Ramjan",
+    "name_mr": "",
+    "code": "558511",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558522",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Tikhi",
+    "name_mr": "",
+    "code": "558522",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558520",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kokangaon",
+    "name_mr": "",
+    "code": "558520",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558519",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Ravalgaon",
+    "name_mr": "",
+    "code": "558519",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558517",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Khandavi",
+    "name_mr": "",
+    "code": "558517",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558523",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Mirajgaon",
+    "name_mr": "",
+    "code": "558523",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558518",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kombhali",
+    "name_mr": "",
+    "code": "558518",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558532",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Ratanjan",
+    "name_mr": "",
+    "code": "558532",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558533",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nagalwadi",
+    "name_mr": "",
+    "code": "558533",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558524",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Gurav pimpri",
+    "name_mr": "",
+    "code": "558524",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558527",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kaudane",
+    "name_mr": "",
+    "code": "558527",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558561",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chakhalewadi",
+    "name_mr": "",
+    "code": "558561",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558535",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Babhulgaon khalsa",
+    "name_mr": "",
+    "code": "558535",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558562",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Bitkewadi",
+    "name_mr": "",
+    "code": "558562",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558540",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Chincholi kaldat",
+    "name_mr": "",
+    "code": "558540",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558549",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nimbodi",
+    "name_mr": "",
+    "code": "558549",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558565",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Ruigavhan",
+    "name_mr": "",
+    "code": "558565",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558541",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Supe",
+    "name_mr": "",
+    "code": "558541",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558542",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Walvad",
+    "name_mr": "",
+    "code": "558542",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558550",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Taradgaon",
+    "name_mr": "",
+    "code": "558550",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558548",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Pategaon",
+    "name_mr": "",
+    "code": "558548",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558551",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nawsarwadi",
+    "name_mr": "",
+    "code": "558551",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558545",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Goykarwadi",
+    "name_mr": "",
+    "code": "558545",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558564",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Shinde",
+    "name_mr": "",
+    "code": "558564",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558555",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Malthan",
+    "name_mr": "",
+    "code": "558555",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558563",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "558563",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558546",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Khandale",
+    "name_mr": "",
+    "code": "558546",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558554",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "558554",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558575",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Netakewadi",
+    "name_mr": "",
+    "code": "558575",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558576",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kolvadi",
+    "name_mr": "",
+    "code": "558576",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558605",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Therwadi",
+    "name_mr": "",
+    "code": "558605",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558593",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Dhalwadi",
+    "name_mr": "",
+    "code": "558593",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558579",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Bajrangwadi",
+    "name_mr": "",
+    "code": "558579",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558595",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "558595",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558580",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Lonimasadpur",
+    "name_mr": "",
+    "code": "558580",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558583",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Kumbhefal",
+    "name_mr": "",
+    "code": "558583",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558598",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Taju",
+    "name_mr": "",
+    "code": "558598",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558597",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Balwandi",
+    "name_mr": "",
+    "code": "558597",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558606",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Benwadi",
+    "name_mr": "",
+    "code": "558606",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558599",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Jalalpur",
+    "name_mr": "",
+    "code": "558599",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558582",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Ambijalgaon",
+    "name_mr": "",
+    "code": "558582",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558596",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Talwadi",
+    "name_mr": "",
+    "code": "558596",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558581",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Khatgaon",
+    "name_mr": "",
+    "code": "558581",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558584",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Alsunde",
+    "name_mr": "",
+    "code": "558584",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558604",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Torkadwadi",
+    "name_mr": "",
+    "code": "558604",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558607",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Deshmukhwadi",
+    "name_mr": "",
+    "code": "558607",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558585",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Nimbe",
+    "name_mr": "",
+    "code": "558585",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558610",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Baradgaon Sudrik",
+    "name_mr": "",
+    "code": "558610",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558603",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Sonalwadi",
+    "name_mr": "",
+    "code": "558603",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558602",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Baradgaon  Dagadi",
+    "name_mr": "",
+    "code": "558602",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558586",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Shegud",
+    "name_mr": "",
+    "code": "558586",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558617",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Rashin",
+    "name_mr": "",
+    "code": "558617",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558630",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Babhulgaon Dumala",
+    "name_mr": "",
+    "code": "558630",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558628",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Autewadi",
+    "name_mr": "",
+    "code": "558628",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558621",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Raukalewadi (N.V.)",
+    "name_mr": "",
+    "code": "558621",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  },
+  {
+    "village_id": "v-558629",
+    "district_id": "ahilyanagar",
+    "taluka_id": "karjat",
+    "name_en": "Manewadi(NV)",
+    "name_mr": "",
+    "code": "558629",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/karjat.geojson"
+  }
+]

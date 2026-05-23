@@ -1,0 +1,1280 @@
+[
+  {
+    "village_id": "v-543424",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Mohada",
+    "name_mr": "",
+    "code": "543424",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543428",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Chikhaldara",
+    "name_mr": "",
+    "code": "543428",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543429",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "543429",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543430",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Mohadari",
+    "name_mr": "",
+    "code": "543430",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543425",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "543425",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543427",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "543427",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543426",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pimpalshenda",
+    "name_mr": "",
+    "code": "543426",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543460",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Munzala",
+    "name_mr": "",
+    "code": "543460",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543439",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wathoda",
+    "name_mr": "",
+    "code": "543439",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543461",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Singaldip",
+    "name_mr": "",
+    "code": "543461",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543431",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Joginkawada",
+    "name_mr": "",
+    "code": "543431",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543438",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Jira",
+    "name_mr": "",
+    "code": "543438",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543437",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Meera",
+    "name_mr": "",
+    "code": "543437",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543433",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Runza",
+    "name_mr": "",
+    "code": "543433",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543432",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Shampur",
+    "name_mr": "",
+    "code": "543432",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543436",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Dabha",
+    "name_mr": "",
+    "code": "543436",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543459",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Adni",
+    "name_mr": "",
+    "code": "543459",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543463",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sonurli",
+    "name_mr": "",
+    "code": "543463",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543462",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Khatara",
+    "name_mr": "",
+    "code": "543462",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543458",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Karanji Road",
+    "name_mr": "",
+    "code": "543458",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543435",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "543435",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543434",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Vrindavan Takli",
+    "name_mr": "",
+    "code": "543434",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543440",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ghoddara",
+    "name_mr": "",
+    "code": "543440",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543465",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Surdevi",
+    "name_mr": "",
+    "code": "543465",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543464",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Chanai",
+    "name_mr": "",
+    "code": "543464",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543455",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wadhona Bk.",
+    "name_mr": "",
+    "code": "543455",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543454",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sakhi Bk.",
+    "name_mr": "",
+    "code": "543454",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543441",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Nandpur",
+    "name_mr": "",
+    "code": "543441",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543457",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Zolapur",
+    "name_mr": "",
+    "code": "543457",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543456",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wadhona Kh.",
+    "name_mr": "",
+    "code": "543456",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543466",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kothoda",
+    "name_mr": "",
+    "code": "543466",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543468",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Mangi",
+    "name_mr": "",
+    "code": "543468",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543453",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "543453",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543467",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Tiwsala",
+    "name_mr": "",
+    "code": "543467",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543442",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "543442",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543443",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Saikhed",
+    "name_mr": "",
+    "code": "543443",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543469",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Dharna",
+    "name_mr": "",
+    "code": "543469",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543444",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Lingati",
+    "name_mr": "",
+    "code": "543444",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543481",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sakhara Bk",
+    "name_mr": "",
+    "code": "543481",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543484",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Dhoki",
+    "name_mr": "",
+    "code": "543484",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543452",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Umari Road",
+    "name_mr": "",
+    "code": "543452",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543445",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wagada",
+    "name_mr": "",
+    "code": "543445",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543470",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pimpalapur",
+    "name_mr": "",
+    "code": "543470",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543446",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Karanwadi",
+    "name_mr": "",
+    "code": "543446",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543447",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Jawaharnagar",
+    "name_mr": "",
+    "code": "543447",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543482",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Padha",
+    "name_mr": "",
+    "code": "543482",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543451",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Telang Takli",
+    "name_mr": "",
+    "code": "543451",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543485",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "543485",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543479",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Konghara",
+    "name_mr": "",
+    "code": "543479",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543449",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Morwa",
+    "name_mr": "",
+    "code": "543449",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543483",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "543483",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543480",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Niljai",
+    "name_mr": "",
+    "code": "543480",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543448",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Khairgaon Deshmukh",
+    "name_mr": "",
+    "code": "543448",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543486",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Khairgaon KH",
+    "name_mr": "",
+    "code": "543486",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543450",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Akoli Kh",
+    "name_mr": "",
+    "code": "543450",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543473",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Maregaon",
+    "name_mr": "",
+    "code": "543473",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543471",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "543471",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543478",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Khairgaon Bk",
+    "name_mr": "",
+    "code": "543478",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543474",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sonbardi",
+    "name_mr": "",
+    "code": "543474",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543488",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Mangurda",
+    "name_mr": "",
+    "code": "543488",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543487",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Muchi",
+    "name_mr": "",
+    "code": "543487",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543472",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Vasant Nagar",
+    "name_mr": "",
+    "code": "543472",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543477",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pimpari Road",
+    "name_mr": "",
+    "code": "543477",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543500",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Chopan",
+    "name_mr": "",
+    "code": "543500",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543499",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kusal",
+    "name_mr": "",
+    "code": "543499",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543501",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "543501",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543498",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kegaon",
+    "name_mr": "",
+    "code": "543498",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543475",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Dongargaon\n",
+    "name_mr": "",
+    "code": "543475",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543496",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ghonsi",
+    "name_mr": "",
+    "code": "543496",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543497",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pandharwani Kh",
+    "name_mr": "",
+    "code": "543497",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-251395",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pandharkaoda (M Cl)",
+    "name_mr": "",
+    "code": "251395",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543476",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "543476",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543502",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Dehali",
+    "name_mr": "",
+    "code": "543502",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543489",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pandharwani Bk",
+    "name_mr": "",
+    "code": "543489",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543503",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wadner",
+    "name_mr": "",
+    "code": "543503",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543492",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "543492",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543509",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pahapal",
+    "name_mr": "",
+    "code": "543509",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543495",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kelapur",
+    "name_mr": "",
+    "code": "543495",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543490",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kondhi",
+    "name_mr": "",
+    "code": "543490",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543493",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Tad Umari",
+    "name_mr": "",
+    "code": "543493",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543491",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wedad",
+    "name_mr": "",
+    "code": "543491",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543505",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Zuli",
+    "name_mr": "",
+    "code": "543505",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543494",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Tatapur",
+    "name_mr": "",
+    "code": "543494",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543513",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ghanmod",
+    "name_mr": "",
+    "code": "543513",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543504",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Patoda",
+    "name_mr": "",
+    "code": "543504",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543512",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Belori",
+    "name_mr": "",
+    "code": "543512",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543514",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Akoli Bk",
+    "name_mr": "",
+    "code": "543514",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543510",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ambhora",
+    "name_mr": "",
+    "code": "543510",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543527",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Zunzarpur",
+    "name_mr": "",
+    "code": "543527",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543511",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Chalbardi",
+    "name_mr": "",
+    "code": "543511",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543515",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Baggi",
+    "name_mr": "",
+    "code": "543515",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543506",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Lingati",
+    "name_mr": "",
+    "code": "543506",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543517",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "543517",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543507",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Bhadumari",
+    "name_mr": "",
+    "code": "543507",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543516",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "543516",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543508",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Both",
+    "name_mr": "",
+    "code": "543508",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543525",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Nagezari Kh",
+    "name_mr": "",
+    "code": "543525",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543526",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Gondwakadi",
+    "name_mr": "",
+    "code": "543526",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543519",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Mahandoli",
+    "name_mr": "",
+    "code": "543519",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543528",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Marath Wakadi",
+    "name_mr": "",
+    "code": "543528",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543520",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sakhara Kh",
+    "name_mr": "",
+    "code": "543520",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543518",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Tokwanjari",
+    "name_mr": "",
+    "code": "543518",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543524",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Susari",
+    "name_mr": "",
+    "code": "543524",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543529",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Dhoki",
+    "name_mr": "",
+    "code": "543529",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543522",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Bahatter",
+    "name_mr": "",
+    "code": "543522",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543532",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wanjari",
+    "name_mr": "",
+    "code": "543532",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543523",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "543523",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543521",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ballarpur",
+    "name_mr": "",
+    "code": "543521",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543530",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Tembhi",
+    "name_mr": "",
+    "code": "543530",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543531",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sunna",
+    "name_mr": "",
+    "code": "543531",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543538",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Naik Sukali",
+    "name_mr": "",
+    "code": "543538",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543537",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Radhapur",
+    "name_mr": "",
+    "code": "543537",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543533",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Khairgaon",
+    "name_mr": "",
+    "code": "543533",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543539",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Padiyali",
+    "name_mr": "",
+    "code": "543539",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543536",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pilkhana",
+    "name_mr": "",
+    "code": "543536",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543534",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kawatha",
+    "name_mr": "",
+    "code": "543534",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543535",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kopamandavi",
+    "name_mr": "",
+    "code": "543535",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543540",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Maregaon Kh",
+    "name_mr": "",
+    "code": "543540",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543546",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Warha",
+    "name_mr": "",
+    "code": "543546",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543543",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Maregaon Bk",
+    "name_mr": "",
+    "code": "543543",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543542",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Hiwardhari",
+    "name_mr": "",
+    "code": "543542",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543541",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pitapongari",
+    "name_mr": "",
+    "code": "543541",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543545",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Andharwadi",
+    "name_mr": "",
+    "code": "543545",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543544",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Yedlapur",
+    "name_mr": "",
+    "code": "543544",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543548",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wasari",
+    "name_mr": "",
+    "code": "543548",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543552",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Daryapur",
+    "name_mr": "",
+    "code": "543552",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543547",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Bori (patan)",
+    "name_mr": "",
+    "code": "543547",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543550",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "543550",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543551",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Wadwat",
+    "name_mr": "",
+    "code": "543551",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543549",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "543549",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543553",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pimpalshenda",
+    "name_mr": "",
+    "code": "543553",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543556",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Karegaon (b)",
+    "name_mr": "",
+    "code": "543556",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543562",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pimpari (Bori)",
+    "name_mr": "",
+    "code": "543562",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543561",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Kodori",
+    "name_mr": "",
+    "code": "543561",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543560",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Rudha",
+    "name_mr": "",
+    "code": "543560",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543554",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Arli",
+    "name_mr": "",
+    "code": "543554",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543563",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Pimpalkhuti",
+    "name_mr": "",
+    "code": "543563",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543557",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Ghubadi",
+    "name_mr": "",
+    "code": "543557",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543559",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Chanakha",
+    "name_mr": "",
+    "code": "543559",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543555",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Hiwari",
+    "name_mr": "",
+    "code": "543555",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  },
+  {
+    "village_id": "v-543558",
+    "district_id": "yavatmal",
+    "taluka_id": "kelapur",
+    "name_en": "Nimdeli",
+    "name_mr": "",
+    "code": "543558",
+    "boundary_file": "/data/boundaries/villages/yavatmal/kelapur.geojson"
+  }
+]

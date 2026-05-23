@@ -1,0 +1,902 @@
+[
+  {
+    "village_id": "v-558216",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chandegaon",
+    "name_mr": "",
+    "code": "558216",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558180",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Guha",
+    "name_mr": "",
+    "code": "558180",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558236",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Manjari",
+    "name_mr": "",
+    "code": "558236",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558181",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Ganegaon",
+    "name_mr": "",
+    "code": "558181",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558176",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Wabalewadi",
+    "name_mr": "",
+    "code": "558176",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558184",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Vadner",
+    "name_mr": "",
+    "code": "558184",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558238",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Aradgaon",
+    "name_mr": "",
+    "code": "558238",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558241",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Pimpri Valan",
+    "name_mr": "",
+    "code": "558241",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558186",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Varshinde",
+    "name_mr": "",
+    "code": "558186",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558182",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chinchvihire",
+    "name_mr": "",
+    "code": "558182",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558242",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chandakapur",
+    "name_mr": "",
+    "code": "558242",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558208",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "558208",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558234",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Tilapur",
+    "name_mr": "",
+    "code": "558234",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558206",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "558206",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558217",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Bodhegaon",
+    "name_mr": "",
+    "code": "558217",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558173",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Satral",
+    "name_mr": "",
+    "code": "558173",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558179",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Tambhere",
+    "name_mr": "",
+    "code": "558179",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558178",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Tandulner",
+    "name_mr": "",
+    "code": "558178",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558174",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Nimbhere",
+    "name_mr": "",
+    "code": "558174",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558222",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Trimbakpur",
+    "name_mr": "",
+    "code": "558222",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558177",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kanadgaon",
+    "name_mr": "",
+    "code": "558177",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558223",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Takalimiya",
+    "name_mr": "",
+    "code": "558223",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558225",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Musalwadi",
+    "name_mr": "",
+    "code": "558225",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558240",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Valan",
+    "name_mr": "",
+    "code": "558240",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558175",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Tulapur",
+    "name_mr": "",
+    "code": "558175",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558239",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Manori",
+    "name_mr": "",
+    "code": "558239",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558224",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Morwadi (N.V.)",
+    "name_mr": "",
+    "code": "558224",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558183",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kangar BK",
+    "name_mr": "",
+    "code": "558183",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558170",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Dhanore",
+    "name_mr": "",
+    "code": "558170",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558233",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kopare",
+    "name_mr": "",
+    "code": "558233",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558219",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Karajgaon",
+    "name_mr": "",
+    "code": "558219",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558235",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Wanjulpoi",
+    "name_mr": "",
+    "code": "558235",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558231",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Pathare Kh.",
+    "name_mr": "",
+    "code": "558231",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558232",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Shenwadgaon",
+    "name_mr": "",
+    "code": "558232",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-251552",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Deolali Pravara (M Cl)",
+    "name_mr": "",
+    "code": "251552",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558228",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "558228",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558172",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Malewadi/Dukrewadi",
+    "name_mr": "",
+    "code": "558172",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558226",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Daradgaon Tarf Belapur",
+    "name_mr": "",
+    "code": "558226",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558220",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Jatap",
+    "name_mr": "",
+    "code": "558220",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558230",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Khudsargaon",
+    "name_mr": "",
+    "code": "558230",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558221",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Lakh",
+    "name_mr": "",
+    "code": "558221",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558171",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Songaon",
+    "name_mr": "",
+    "code": "558171",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558215",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kesapur",
+    "name_mr": "",
+    "code": "558215",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558214",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Ambi",
+    "name_mr": "",
+    "code": "558214",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558213",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Amalner",
+    "name_mr": "",
+    "code": "558213",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558210",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Pimpalgaon Fungi",
+    "name_mr": "",
+    "code": "558210",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558211",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Sankrapur",
+    "name_mr": "",
+    "code": "558211",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558209",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "558209",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558212",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Davangaon",
+    "name_mr": "",
+    "code": "558212",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-557655",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Narsari (N.V.)",
+    "name_mr": "",
+    "code": "557655",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558218",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Bramhangaon Bhand",
+    "name_mr": "",
+    "code": "558218",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558207",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kolhar KH",
+    "name_mr": "",
+    "code": "558207",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558227",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Malunje KH",
+    "name_mr": "",
+    "code": "558227",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558229",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Mahegaon",
+    "name_mr": "",
+    "code": "558229",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-251551",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Rahuri (M CI)",
+    "name_mr": "",
+    "code": "251551",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558189",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kangar KH",
+    "name_mr": "",
+    "code": "558189",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558243",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kendal Kh.",
+    "name_mr": "",
+    "code": "558243",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558244",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kendal Bk.",
+    "name_mr": "",
+    "code": "558244",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558237",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "558237",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558185",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Taharabad",
+    "name_mr": "",
+    "code": "558185",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558245",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Shilegaon",
+    "name_mr": "",
+    "code": "558245",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558246",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kondhavad",
+    "name_mr": "",
+    "code": "558246",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558191",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Malharwadi",
+    "name_mr": "",
+    "code": "558191",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558190",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Momin Akhada",
+    "name_mr": "",
+    "code": "558190",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558187",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kolyachiwadi",
+    "name_mr": "",
+    "code": "558187",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558247",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Deswandi",
+    "name_mr": "",
+    "code": "558247",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558251",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Bramhani",
+    "name_mr": "",
+    "code": "558251",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558192",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Ghorpadwadi",
+    "name_mr": "",
+    "code": "558192",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558193",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Gadadhe Akhada",
+    "name_mr": "",
+    "code": "558193",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558195",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Mhaisgaon",
+    "name_mr": "",
+    "code": "558195",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558203",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Rahuri Kh.",
+    "name_mr": "",
+    "code": "558203",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558248",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Tamnar Akhada",
+    "name_mr": "",
+    "code": "558248",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558250",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Umbre",
+    "name_mr": "",
+    "code": "558250",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558194",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Gadakhawadi",
+    "name_mr": "",
+    "code": "558194",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558249",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Pimpri Avaghad",
+    "name_mr": "",
+    "code": "558249",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558256",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "558256",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558198",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chinchale",
+    "name_mr": "",
+    "code": "558198",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558197",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Daradgaon Thadi",
+    "name_mr": "",
+    "code": "558197",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558252",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chedgaon",
+    "name_mr": "",
+    "code": "558252",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558188",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kuranwadi",
+    "name_mr": "",
+    "code": "558188",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558253",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Mokal Ohal",
+    "name_mr": "",
+    "code": "558253",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558255",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Sade",
+    "name_mr": "",
+    "code": "558255",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558254",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Kukkadwedhe",
+    "name_mr": "",
+    "code": "558254",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558199",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Wawarath",
+    "name_mr": "",
+    "code": "558199",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558259",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Khadambe Bk.",
+    "name_mr": "",
+    "code": "558259",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558264",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Katrad",
+    "name_mr": "",
+    "code": "558264",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558265",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Gunjale",
+    "name_mr": "",
+    "code": "558265",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558263",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Vambori",
+    "name_mr": "",
+    "code": "558263",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558260",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Khadambe Kh.",
+    "name_mr": "",
+    "code": "558260",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558261",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Dhamori Bk.",
+    "name_mr": "",
+    "code": "558261",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558262",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Dhamori Kh.",
+    "name_mr": "",
+    "code": "558262",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558202",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Baragaon Nandur",
+    "name_mr": "",
+    "code": "558202",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558257",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Warwandi",
+    "name_mr": "",
+    "code": "558257",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558200",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "558200",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558258",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "558258",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558201",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Jambhulban",
+    "name_mr": "",
+    "code": "558201",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558205",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Waghacha Akhada",
+    "name_mr": "",
+    "code": "558205",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558204",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Rahuri New",
+    "name_mr": "",
+    "code": "558204",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-558196",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Chikhalthan",
+    "name_mr": "",
+    "code": "558196",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  },
+  {
+    "village_id": "v-652116",
+    "district_id": "ahilyanagar",
+    "taluka_id": "rahuri",
+    "name_en": "Bulepathar",
+    "name_mr": "",
+    "code": "652116",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/rahuri.geojson"
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "village_id": "v-528475",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Hingna Dadgaon",
+    "name_mr": "",
+    "code": "528475",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528470",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Roti",
+    "name_mr": "",
+    "code": "528470",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528471",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Bhota",
+    "name_mr": "",
+    "code": "528471",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528473",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dadgaon",
+    "name_mr": "",
+    "code": "528473",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528472",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Hingna Bhota",
+    "name_mr": "",
+    "code": "528472",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528476",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "528476",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528474",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Hingna Isapur",
+    "name_mr": "",
+    "code": "528474",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528478",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wasadi Kh",
+    "name_mr": "",
+    "code": "528478",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528552",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Pota",
+    "name_mr": "",
+    "code": "528552",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528563",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Khadatgaon",
+    "name_mr": "",
+    "code": "528563",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528549",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Pimpalkhuta Kh.",
+    "name_mr": "",
+    "code": "528549",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528564",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Mahalundi Pr.Wadner",
+    "name_mr": "",
+    "code": "528564",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528550",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Chinchkhed Pr.Malkapur",
+    "name_mr": "",
+    "code": "528550",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528569",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Jawala Bazar",
+    "name_mr": "",
+    "code": "528569",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528562",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Walti Bk.",
+    "name_mr": "",
+    "code": "528562",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528561",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Walti Kh.",
+    "name_mr": "",
+    "code": "528561",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528568",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Tarwadi",
+    "name_mr": "",
+    "code": "528568",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528570",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Belura",
+    "name_mr": "",
+    "code": "528570",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528565",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Barafgaon",
+    "name_mr": "",
+    "code": "528565",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528571",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dolkhed",
+    "name_mr": "",
+    "code": "528571",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528567",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Bhorwand",
+    "name_mr": "",
+    "code": "528567",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528572",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Takarkhed",
+    "name_mr": "",
+    "code": "528572",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528574",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Khaira",
+    "name_mr": "",
+    "code": "528574",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528566",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Muramba",
+    "name_mr": "",
+    "code": "528566",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528573",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Fuli",
+    "name_mr": "",
+    "code": "528573",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528575",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kandari Bk.",
+    "name_mr": "",
+    "code": "528575",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528578",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Shemba Kh.",
+    "name_mr": "",
+    "code": "528578",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528576",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kandari Kh.",
+    "name_mr": "",
+    "code": "528576",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528577",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Shemba Bk.",
+    "name_mr": "",
+    "code": "528577",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528579",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Tandulwadi Pr.Rajur",
+    "name_mr": "",
+    "code": "528579",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528580",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Gosing",
+    "name_mr": "",
+    "code": "528580",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528480",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Isarkheda",
+    "name_mr": "",
+    "code": "528480",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528481",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Khedgaon",
+    "name_mr": "",
+    "code": "528481",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528538",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kedar",
+    "name_mr": "",
+    "code": "528538",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528509",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "528509",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528533",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dhanora Pr.Chandur",
+    "name_mr": "",
+    "code": "528533",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528531",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Sanpudi",
+    "name_mr": "",
+    "code": "528531",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-251300",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Nandura (M CI)",
+    "name_mr": "",
+    "code": "251300",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528510",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Avdha Bk.",
+    "name_mr": "",
+    "code": "528510",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528539",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Matoda",
+    "name_mr": "",
+    "code": "528539",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528537",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dahivadi",
+    "name_mr": "",
+    "code": "528537",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528534",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Rasulpur Pr.Wadner",
+    "name_mr": "",
+    "code": "528534",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528511",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Bhuising",
+    "name_mr": "",
+    "code": "528511",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528540",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Gondhankhed",
+    "name_mr": "",
+    "code": "528540",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528535",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kati",
+    "name_mr": "",
+    "code": "528535",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528514",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wadi Pr.Wadner",
+    "name_mr": "",
+    "code": "528514",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528541",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kolasar",
+    "name_mr": "",
+    "code": "528541",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528479",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Pimprikoli",
+    "name_mr": "",
+    "code": "528479",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528491",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Sawargaon Chahu",
+    "name_mr": "",
+    "code": "528491",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528483",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Jigaon",
+    "name_mr": "",
+    "code": "528483",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528482",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Takli (Watpal)",
+    "name_mr": "",
+    "code": "528482",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528490",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Sawargaon Nehu",
+    "name_mr": "",
+    "code": "528490",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528484",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Palsoda",
+    "name_mr": "",
+    "code": "528484",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528499",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Yerali",
+    "name_mr": "",
+    "code": "528499",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528498",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Belad Pr.Jalgaon",
+    "name_mr": "",
+    "code": "528498",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528489",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Mominabad",
+    "name_mr": "",
+    "code": "528489",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528485",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kodarkhed",
+    "name_mr": "",
+    "code": "528485",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528486",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Patonda",
+    "name_mr": "",
+    "code": "528486",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528497",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kharkundi",
+    "name_mr": "",
+    "code": "528497",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528492",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wadgaon Dighi",
+    "name_mr": "",
+    "code": "528492",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528488",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Hingana Gavhad",
+    "name_mr": "",
+    "code": "528488",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528524",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Taka",
+    "name_mr": "",
+    "code": "528524",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528493",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Hingana",
+    "name_mr": "",
+    "code": "528493",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528494",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kherda",
+    "name_mr": "",
+    "code": "528494",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528487",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Mamulwadi",
+    "name_mr": "",
+    "code": "528487",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528500",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Modha",
+    "name_mr": "",
+    "code": "528500",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528501",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Alampur",
+    "name_mr": "",
+    "code": "528501",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528504",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "528504",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528528",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "528528",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528495",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Chandur Biswa",
+    "name_mr": "",
+    "code": "528495",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528496",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Sirsodi",
+    "name_mr": "",
+    "code": "528496",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528525",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dhadi",
+    "name_mr": "",
+    "code": "528525",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528505",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Narakhed",
+    "name_mr": "",
+    "code": "528505",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528527",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Khumgaon",
+    "name_mr": "",
+    "code": "528527",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528502",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Udepur",
+    "name_mr": "",
+    "code": "528502",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528529",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Isabpur",
+    "name_mr": "",
+    "code": "528529",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528507",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "528507",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528526",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Ghordhadi",
+    "name_mr": "",
+    "code": "528526",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528521",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Vitali",
+    "name_mr": "",
+    "code": "528521",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528522",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "528522",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528523",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Bhilvadi",
+    "name_mr": "",
+    "code": "528523",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528530",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Burti Pr.Chandur",
+    "name_mr": "",
+    "code": "528530",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528506",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Avdha Kh.",
+    "name_mr": "",
+    "code": "528506",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528532",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wadner",
+    "name_mr": "",
+    "code": "528532",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528536",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "528536",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528515",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Sangawa",
+    "name_mr": "",
+    "code": "528515",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528544",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Burti Pr.Wadner",
+    "name_mr": "",
+    "code": "528544",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528517",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Rasulpur Pr.Raja",
+    "name_mr": "",
+    "code": "528517",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528543",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Aurangapur",
+    "name_mr": "",
+    "code": "528543",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528516",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Pimpalkhuta Dhande",
+    "name_mr": "",
+    "code": "528516",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528542",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Tikodi",
+    "name_mr": "",
+    "code": "528542",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528555",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Shelgaon Mukund",
+    "name_mr": "",
+    "code": "528555",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528518",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wadali",
+    "name_mr": "",
+    "code": "528518",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528545",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Bhogalwadi",
+    "name_mr": "",
+    "code": "528545",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528519",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Khatkhed",
+    "name_mr": "",
+    "code": "528519",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528557",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Malegaon Pr.P.Raja",
+    "name_mr": "",
+    "code": "528557",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528546",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Kokalwadi",
+    "name_mr": "",
+    "code": "528546",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528548",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Potali",
+    "name_mr": "",
+    "code": "528548",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528547",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Pimpri Adhav",
+    "name_mr": "",
+    "code": "528547",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528556",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Lonwadi Pr.Nandura",
+    "name_mr": "",
+    "code": "528556",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528520",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wadgaon Pr.Raja",
+    "name_mr": "",
+    "code": "528520",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528558",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dhanora Bk.",
+    "name_mr": "",
+    "code": "528558",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528554",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "528554",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528559",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Dhanora Kh.",
+    "name_mr": "",
+    "code": "528559",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528553",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wadi Pr.Malkapur",
+    "name_mr": "",
+    "code": "528553",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528551",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Mendhali",
+    "name_mr": "",
+    "code": "528551",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  },
+  {
+    "village_id": "v-528560",
+    "district_id": "buldhana",
+    "taluka_id": "nandura",
+    "name_en": "Wasadi Bk.",
+    "name_mr": "",
+    "code": "528560",
+    "boundary_file": "/data/boundaries/villages/buldhana/nandura.geojson"
+  }
+]

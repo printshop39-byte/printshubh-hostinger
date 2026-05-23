@@ -1,0 +1,401 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7fbff;
+  --foreground: #0f172a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: "Geist", "Geist Fallback", "Noto Sans Devanagari", "Mangal", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-noto-devanagari), "Mangal", var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+::selection {
+  background: rgba(37, 99, 235, 0.18);
+  color: #0f172a;
+}
+
+.public-grid {
+  background-image:
+    linear-gradient(rgba(37, 99, 235, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(37, 99, 235, 0.07) 1px, transparent 1px);
+  background-size: 76px 76px;
+  mask-image: radial-gradient(circle at 50% 26%, #000 0%, transparent 70%);
+}
+
+/* CSS globe kept for any reuse; not rendered in hero any more */
+.earth-preview,
+.css-globe {
+  background:
+    radial-gradient(circle at 38% 28%, rgba(255, 255, 255, 0.7), transparent 10%),
+    radial-gradient(ellipse at 58% 43%, #5c8f49 0 10%, transparent 11%),
+    radial-gradient(ellipse at 46% 55%, #9a7b45 0 8%, transparent 9%),
+    radial-gradient(ellipse at 70% 34%, #6fa35a 0 12%, transparent 13%),
+    radial-gradient(ellipse at 34% 68%, #7b9a55 0 13%, transparent 14%),
+    radial-gradient(circle at 50% 50%, #1e81ce 0%, #1769aa 54%, #0d4c84 78%, #073763 100%);
+}
+
+.earth-preview {
+  overflow: hidden;
+}
+
+.earth-preview::after,
+.css-globe::after {
+  position: absolute;
+  inset: -2%;
+  content: "";
+  border-radius: 9999px;
+  box-shadow:
+    inset -24px -18px 46px rgba(8, 47, 73, 0.28),
+    inset 16px 12px 34px rgba(255, 255, 255, 0.34),
+    0 0 42px rgba(96, 165, 250, 0.26);
+}
+
+.earth-preview-cloud,
+.earth-cloud {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.76);
+  filter: blur(0.3px);
+}
+
+.earth-preview-cloud-a {
+  top: 22%;
+  left: 38%;
+  width: 50%;
+  height: 13%;
+  transform: rotate(-12deg);
+}
+
+.earth-preview-cloud-b {
+  top: 58%;
+  left: 18%;
+  width: 42%;
+  height: 11%;
+  transform: rotate(15deg);
+}
+
+.earth-preview-marker {
+  position: absolute;
+  z-index: 4;
+  top: 43%;
+  left: 62%;
+  width: 12px;
+  height: 12px;
+  border: 2px solid #ffffff;
+  border-radius: 9999px;
+  background: #2563eb;
+  box-shadow: 0 0 0 6px rgba(37, 99, 235, 0.16);
+  transform: translate(-50%, -50%);
+}
+
+.earth-preview-label {
+  position: absolute;
+  z-index: 5;
+  top: 35%;
+  left: 72%;
+  border: 1px solid #bfdbfe;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 4px 7px;
+  color: #1e3a8a;
+  font-size: 11px;
+  font-weight: 900;
+  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.12);
+  transform: translate(-50%, -50%);
+}
+
+.css-globe {
+  position: relative;
+  width: min(78vw, 420px);
+  aspect-ratio: 1;
+  overflow: hidden;
+  border: 1px solid rgba(147, 197, 253, 0.7);
+  border-radius: 9999px;
+  box-shadow:
+    0 28px 90px rgba(37, 99, 235, 0.18),
+    0 0 0 18px rgba(191, 219, 254, 0.2);
+  transform: rotateX(6deg) rotateY(-18deg) rotateZ(-5deg);
+  transform-style: preserve-3d;
+  animation: css-globe-spin 38s linear infinite;
+}
+
+.earth-land,
+.earth-cloud,
+.css-globe-marker,
+.css-globe-label {
+  pointer-events: none;
+}
+
+.earth-land {
+  position: absolute;
+  z-index: 1;
+  display: block;
+  border-radius: 54% 46% 48% 52%;
+  background: linear-gradient(135deg, #5f9f55, #8f7848);
+}
+
+.earth-land-a {
+  top: 31%;
+  left: 52%;
+  width: 26%;
+  height: 19%;
+  transform: rotate(-18deg);
+}
+
+.earth-land-b {
+  top: 50%;
+  left: 18%;
+  width: 32%;
+  height: 24%;
+  transform: rotate(18deg);
+}
+
+.earth-land-c {
+  top: 20%;
+  left: 22%;
+  width: 34%;
+  height: 18%;
+  transform: rotate(-8deg);
+}
+
+.earth-cloud-a {
+  top: 24%;
+  left: 30%;
+  width: 44%;
+  height: 10%;
+  transform: rotate(-13deg);
+}
+
+.earth-cloud-b {
+  top: 55%;
+  left: 52%;
+  width: 36%;
+  height: 9%;
+  transform: rotate(12deg);
+}
+
+.earth-cloud-c {
+  top: 67%;
+  left: 18%;
+  width: 38%;
+  height: 8%;
+  transform: rotate(-6deg);
+}
+
+.css-globe-marker {
+  position: absolute;
+  z-index: 4;
+  display: block;
+  border-radius: 9999px;
+  transform: translate(-50%, -50%);
+}
+
+.css-globe-marker-india {
+  top: 43%;
+  left: 63%;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #ffffff;
+  background: #2563eb;
+  box-shadow: 0 0 0 8px rgba(37, 99, 235, 0.14), 0 12px 24px rgba(37, 99, 235, 0.2);
+}
+
+.css-globe-label {
+  position: absolute;
+  z-index: 5;
+  top: 35%;
+  left: 72%;
+  border: 1px solid #bfdbfe;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 5px 8px;
+  color: #1e3a8a;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1;
+  box-shadow: 0 10px 22px rgba(15, 23, 42, 0.12);
+  transform: translate(-50%, -50%);
+}
+
+.maharashtra-silhouette {
+  clip-path: polygon(
+    19% 31%,
+    36% 21%,
+    56% 25%,
+    72% 18%,
+    86% 29%,
+    79% 46%,
+    91% 62%,
+    72% 71%,
+    66% 86%,
+    46% 79%,
+    31% 87%,
+    23% 70%,
+    10% 62%,
+    20% 48%
+  );
+  background: linear-gradient(135deg, #dbeafe, #93c5fd 42%, #bbf7d0);
+  border: 1px solid rgba(37, 99, 235, 0.18);
+  filter: drop-shadow(0 18px 30px rgba(37, 99, 235, 0.14));
+}
+
+.maharashtra-silhouette::before {
+  position: absolute;
+  inset: 9%;
+  content: "";
+  clip-path: inherit;
+  background:
+    linear-gradient(90deg, rgba(37, 99, 235, 0.16) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(37, 99, 235, 0.12) 1px, transparent 1px);
+  background-size: 28px 28px;
+  opacity: 0.45;
+}
+
+.district-point {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 6px;
+  color: #334155;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1;
+  cursor: pointer;
+  transform: translate(-50%, -50%);
+}
+
+.district-point:focus-visible {
+  outline: 3px solid rgba(37, 99, 235, 0.25);
+  outline-offset: 6px;
+}
+
+.district-point span {
+  display: block;
+  width: 9px;
+  height: 9px;
+  border: 2px solid #ffffff;
+  border-radius: 9999px;
+  background: #2563eb;
+  box-shadow: 0 0 0 5px rgba(37, 99, 235, 0.14);
+}
+
+.district-point strong {
+  max-width: 78px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.district-point-active {
+  color: #166534;
+}
+
+.district-point-active span {
+  width: 12px;
+  height: 12px;
+  background: #16a34a;
+  box-shadow: 0 0 0 7px rgba(22, 163, 74, 0.16);
+}
+
+@keyframes css-globe-spin {
+  from {
+    transform: rotateX(6deg) rotateY(-18deg) rotateZ(-5deg);
+  }
+
+  to {
+    transform: rotateX(6deg) rotateY(342deg) rotateZ(-5deg);
+  }
+}
+
+@media (max-width: 640px) {
+  .css-globe {
+    animation-duration: 60s;
+    width: min(82vw, 330px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .css-globe {
+    animation: none;
+  }
+}
+
+/* ── shadcn theme tokens (used by Card primitive) ── */
+:root {
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 47.4% 11.2%;
+  --muted: 210 40% 96.1%;
+  --muted-foreground: 215.4 16.3% 46.9%;
+}
+
+@theme inline {
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+}
+
+/* ── Aceternity Spotlight animation ── */
+@keyframes spotlight {
+  0% {
+    opacity: 0;
+    transform: translate(-72%, -62%) scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -40%) scale(1);
+  }
+}
+
+.animate-spotlight {
+  animation: spotlight 2s ease 0.75s 1 forwards;
+}
+
+/* ── Spline loader (used while @splinetool lazy-imports) ── */
+.loader {
+  width: 36px;
+  height: 36px;
+  border: 3px solid rgba(255, 255, 255, 0.18);
+  border-top-color: rgba(255, 255, 255, 0.85);
+  border-radius: 50%;
+  animation: splineSpin 0.85s linear infinite;
+}
+
+@keyframes splineSpin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-spotlight {
+    animation: none;
+    opacity: 1;
+  }
+  .loader {
+    animation: none;
+  }
+}

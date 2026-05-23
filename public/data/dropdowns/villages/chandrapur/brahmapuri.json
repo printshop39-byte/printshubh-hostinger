@@ -1,0 +1,1307 @@
+[
+  {
+    "village_id": "v-540848",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chitak Bodra Navegaon",
+    "name_mr": "",
+    "code": "540848",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540844",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ekara",
+    "name_mr": "",
+    "code": "540844",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540850",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Lohar Dongari",
+    "name_mr": "",
+    "code": "540850",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540851",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "540851",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540842",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bhuj Tukum",
+    "name_mr": "",
+    "code": "540842",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540843",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Khatgaon",
+    "name_mr": "",
+    "code": "540843",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540841",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Padmapur Tukum",
+    "name_mr": "",
+    "code": "540841",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540854",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Padmapur Chak",
+    "name_mr": "",
+    "code": "540854",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540852",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bodra",
+    "name_mr": "",
+    "code": "540852",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540860",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Mudaza",
+    "name_mr": "",
+    "code": "540860",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540853",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Selada",
+    "name_mr": "",
+    "code": "540853",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540859",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kudesawali",
+    "name_mr": "",
+    "code": "540859",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540861",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bodegaon",
+    "name_mr": "",
+    "code": "540861",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "brahmapuri-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "BRAHMAPURI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540820",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Rampuri",
+    "name_mr": "",
+    "code": "540820",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540822",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Koregaon Rith",
+    "name_mr": "",
+    "code": "540822",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540824",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Navegaon Kh",
+    "name_mr": "",
+    "code": "540824",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540828",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kalamgaon",
+    "name_mr": "",
+    "code": "540828",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540829",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Saigaon Tukum",
+    "name_mr": "",
+    "code": "540829",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540825",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Rudrapur Rith",
+    "name_mr": "",
+    "code": "540825",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540835",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Powanpar",
+    "name_mr": "",
+    "code": "540835",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-14",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540846",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Amla Rith",
+    "name_mr": "",
+    "code": "540846",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-251373",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bramhpuri (M CI)",
+    "name_mr": "",
+    "code": "251373",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540746",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Navegaon Makta",
+    "name_mr": "",
+    "code": "540746",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540760",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Mayar",
+    "name_mr": "",
+    "code": "540760",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "bramhapuri-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "BRAMHAPURI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540773",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Parsodi Jani",
+    "name_mr": "",
+    "code": "540773",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540759",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kharbi Makta",
+    "name_mr": "",
+    "code": "540759",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540772",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Zilbodi",
+    "name_mr": "",
+    "code": "540772",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540761",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Tumdi Mendha",
+    "name_mr": "",
+    "code": "540761",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540766",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Dudhawahi Chak",
+    "name_mr": "",
+    "code": "540766",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540771",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "540771",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540742",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Sawalgaon",
+    "name_mr": "",
+    "code": "540742",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540770",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Udapur",
+    "name_mr": "",
+    "code": "540770",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540768",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Beldati",
+    "name_mr": "",
+    "code": "540768",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540767",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Dhanoli Rith",
+    "name_mr": "",
+    "code": "540767",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540764",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Adyal Tukum",
+    "name_mr": "",
+    "code": "540764",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540743",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "540743",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540774",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Paradgaon",
+    "name_mr": "",
+    "code": "540774",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540784",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chandgaon",
+    "name_mr": "",
+    "code": "540784",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540769",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Maldongri",
+    "name_mr": "",
+    "code": "540769",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540763",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Adyal Gaonganna",
+    "name_mr": "",
+    "code": "540763",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540776",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Boddegaon",
+    "name_mr": "",
+    "code": "540776",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540775",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Betala",
+    "name_mr": "",
+    "code": "540775",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540765",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Hattilendha",
+    "name_mr": "",
+    "code": "540765",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540790",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Dhamngaon",
+    "name_mr": "",
+    "code": "540790",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540778",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kharkada",
+    "name_mr": "",
+    "code": "540778",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540787",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Waygaon",
+    "name_mr": "",
+    "code": "540787",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540779",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Jugnala",
+    "name_mr": "",
+    "code": "540779",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540794",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Sawardand Chak",
+    "name_mr": "",
+    "code": "540794",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540791",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chak Bothali",
+    "name_mr": "",
+    "code": "540791",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540792",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ranbothali",
+    "name_mr": "",
+    "code": "540792",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540804",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Mangli",
+    "name_mr": "",
+    "code": "540804",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540795",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Tulan Chak",
+    "name_mr": "",
+    "code": "540795",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540805",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Rui",
+    "name_mr": "",
+    "code": "540805",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540800",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Katali Chak",
+    "name_mr": "",
+    "code": "540800",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540789",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Tulan Mal",
+    "name_mr": "",
+    "code": "540789",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540806",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Nilaj",
+    "name_mr": "",
+    "code": "540806",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540788",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Telandongari",
+    "name_mr": "",
+    "code": "540788",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540793",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "540793",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540801",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Jawarabodi Mendha",
+    "name_mr": "",
+    "code": "540801",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540796",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Tulan Mendha",
+    "name_mr": "",
+    "code": "540796",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540803",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Gawarla Chak",
+    "name_mr": "",
+    "code": "540803",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540808",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Belpatali",
+    "name_mr": "",
+    "code": "540808",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540726",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kolari",
+    "name_mr": "",
+    "code": "540726",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540727",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "540727",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540729",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "540729",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540728",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Tapal",
+    "name_mr": "",
+    "code": "540728",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540732",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Dighori",
+    "name_mr": "",
+    "code": "540732",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540736",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ahernavargaon",
+    "name_mr": "",
+    "code": "540736",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540735",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bhaleshwar",
+    "name_mr": "",
+    "code": "540735",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540730",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Torgaon Bk",
+    "name_mr": "",
+    "code": "540730",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540733",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Nanhori",
+    "name_mr": "",
+    "code": "540733",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540734",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Nandgaon Jani",
+    "name_mr": "",
+    "code": "540734",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540737",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "540737",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540738",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ladaj",
+    "name_mr": "",
+    "code": "540738",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540731",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Torgaon Kh",
+    "name_mr": "",
+    "code": "540731",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540749",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "540749",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540753",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kaleta",
+    "name_mr": "",
+    "code": "540753",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540752",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chandali",
+    "name_mr": "",
+    "code": "540752",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540751",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kahali",
+    "name_mr": "",
+    "code": "540751",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540754",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Uchali",
+    "name_mr": "",
+    "code": "540754",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540745",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Sondri",
+    "name_mr": "",
+    "code": "540745",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540755",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Uchali Chak",
+    "name_mr": "",
+    "code": "540755",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540750",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "540750",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540739",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "540739",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "forest-dup-15",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540756",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Lakhapur",
+    "name_mr": "",
+    "code": "540756",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540757",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Marar Mendha",
+    "name_mr": "",
+    "code": "540757",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540748",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Khamb Talodhi",
+    "name_mr": "",
+    "code": "540748",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540740",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "540740",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540758",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Khedmakta",
+    "name_mr": "",
+    "code": "540758",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540747",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kothulna",
+    "name_mr": "",
+    "code": "540747",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540762",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Saigata",
+    "name_mr": "",
+    "code": "540762",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540741",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chicholi Bk",
+    "name_mr": "",
+    "code": "540741",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540744",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Surbodi",
+    "name_mr": "",
+    "code": "540744",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540783",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Dhanoli Tukum",
+    "name_mr": "",
+    "code": "540783",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540785",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bhaghwanpur",
+    "name_mr": "",
+    "code": "540785",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540786",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chorti",
+    "name_mr": "",
+    "code": "540786",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540777",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ranmochan",
+    "name_mr": "",
+    "code": "540777",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540782",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Dhanoli Poha Chak",
+    "name_mr": "",
+    "code": "540782",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540780",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "540780",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540781",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chaugaon",
+    "name_mr": "",
+    "code": "540781",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540798",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Gaidongari Tukum",
+    "name_mr": "",
+    "code": "540798",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540797",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Surabedari",
+    "name_mr": "",
+    "code": "540797",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540809",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Mui",
+    "name_mr": "",
+    "code": "540809",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540807",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Panchagaon",
+    "name_mr": "",
+    "code": "540807",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540802",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Akapur Rupala",
+    "name_mr": "",
+    "code": "540802",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540799",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Gaidongari Rith",
+    "name_mr": "",
+    "code": "540799",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540811",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Talodi Kh",
+    "name_mr": "",
+    "code": "540811",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540810",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Gangalwadi",
+    "name_mr": "",
+    "code": "540810",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540815",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Khambada Rith",
+    "name_mr": "",
+    "code": "540815",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540814",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ratnapur Rith",
+    "name_mr": "",
+    "code": "540814",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "brahmapuri-reserved-forest-dup-16",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "BRAHMAPURI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540813",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Tekari Rith",
+    "name_mr": "",
+    "code": "540813",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540812",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Budhewada",
+    "name_mr": "",
+    "code": "540812",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540816",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Manikpur Rith",
+    "name_mr": "",
+    "code": "540816",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540830",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Gogaon",
+    "name_mr": "",
+    "code": "540830",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540831",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Baradkinhi",
+    "name_mr": "",
+    "code": "540831",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540821",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Mendaki",
+    "name_mr": "",
+    "code": "540821",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540817",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "540817",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540819",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Shivsagar Tukum",
+    "name_mr": "",
+    "code": "540819",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540823",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bhanapur Tukum Rith",
+    "name_mr": "",
+    "code": "540823",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540826",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "540826",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-17",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540818",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Shivsagar Gaonganna",
+    "name_mr": "",
+    "code": "540818",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540827",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chichkheda",
+    "name_mr": "",
+    "code": "540827",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540832",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chichgaon",
+    "name_mr": "",
+    "code": "540832",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540834",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Aksapur",
+    "name_mr": "",
+    "code": "540834",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540833",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Wandra",
+    "name_mr": "",
+    "code": "540833",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540840",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Awalgaon",
+    "name_mr": "",
+    "code": "540840",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540857",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Halda",
+    "name_mr": "",
+    "code": "540857",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540839",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chak Kosambi Rith",
+    "name_mr": "",
+    "code": "540839",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540855",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Ballarpur Mal",
+    "name_mr": "",
+    "code": "540855",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540856",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Chak Ballarpur",
+    "name_mr": "",
+    "code": "540856",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540858",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Bodada",
+    "name_mr": "",
+    "code": "540858",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540836",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Belgaon Kh",
+    "name_mr": "",
+    "code": "540836",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540838",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kosambi Khadasmara",
+    "name_mr": "",
+    "code": "540838",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540837",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Murpar",
+    "name_mr": "",
+    "code": "540837",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540845",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Arjuni",
+    "name_mr": "",
+    "code": "540845",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540849",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Palasgaon Makta",
+    "name_mr": "",
+    "code": "540849",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  },
+  {
+    "village_id": "v-540847",
+    "district_id": "chandrapur",
+    "taluka_id": "brahmapuri",
+    "name_en": "Kitadi Chak",
+    "name_mr": "",
+    "code": "540847",
+    "boundary_file": "/data/boundaries/villages/chandrapur/brahmapuri.geojson"
+  }
+]

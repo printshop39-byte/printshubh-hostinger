@@ -1,0 +1,623 @@
+[
+  {
+    "village_id": "v-568639",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Kapurgaon",
+    "name_mr": "",
+    "code": "568639",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568638",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Limbgaon",
+    "name_mr": "",
+    "code": "568638",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568640",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Vijay Nagar",
+    "name_mr": "",
+    "code": "568640",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568641",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Ped",
+    "name_mr": "",
+    "code": "568641",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568637",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Narsingpur",
+    "name_mr": "",
+    "code": "568637",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568635",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "568635",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568653",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Jarandi",
+    "name_mr": "",
+    "code": "568653",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568642",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Morale Ped",
+    "name_mr": "",
+    "code": "568642",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568636",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "568636",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568651",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Waifale",
+    "name_mr": "",
+    "code": "568651",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568634",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Khalsa Dhamani",
+    "name_mr": "",
+    "code": "568634",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568652",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Yamgarwadi",
+    "name_mr": "",
+    "code": "568652",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568654",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Dahiwadi",
+    "name_mr": "",
+    "code": "568654",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568650",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Biranwadi",
+    "name_mr": "",
+    "code": "568650",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568643",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Manjarde",
+    "name_mr": "",
+    "code": "568643",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568631",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Alate",
+    "name_mr": "",
+    "code": "568631",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568644",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Hatnoor",
+    "name_mr": "",
+    "code": "568644",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568632",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Limb",
+    "name_mr": "",
+    "code": "568632",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568630",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Chikhal Gothan",
+    "name_mr": "",
+    "code": "568630",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568633",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Hatnoli",
+    "name_mr": "",
+    "code": "568633",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568649",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Gaurgaon",
+    "name_mr": "",
+    "code": "568649",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568655",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Siddhewadi",
+    "name_mr": "",
+    "code": "568655",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568677",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "568677",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568662",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Bastawade",
+    "name_mr": "",
+    "code": "568662",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568629",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Nimblak",
+    "name_mr": "",
+    "code": "568629",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568647",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Visapur",
+    "name_mr": "",
+    "code": "568647",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568656",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Dongarsoni",
+    "name_mr": "",
+    "code": "568656",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568661",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Savalaj",
+    "name_mr": "",
+    "code": "568661",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568645",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Panmalewadi",
+    "name_mr": "",
+    "code": "568645",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568663",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Balgavade",
+    "name_mr": "",
+    "code": "568663",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568680",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Arwade",
+    "name_mr": "",
+    "code": "568680",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568648",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Gotewadi",
+    "name_mr": "",
+    "code": "568648",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568664",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "568664",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568666",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Waghapur",
+    "name_mr": "",
+    "code": "568666",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568678",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Dhavali",
+    "name_mr": "",
+    "code": "568678",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568679",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Vanjarwadi",
+    "name_mr": "",
+    "code": "568679",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568667",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Kaulage",
+    "name_mr": "",
+    "code": "568667",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568682",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Bhairvawadi",
+    "name_mr": "",
+    "code": "568682",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568668",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Lode",
+    "name_mr": "",
+    "code": "568668",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568659",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Nagewadi",
+    "name_mr": "",
+    "code": "568659",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568683",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Chinchani",
+    "name_mr": "",
+    "code": "568683",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568669",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Savarde",
+    "name_mr": "",
+    "code": "568669",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568670",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Vajrachaunde",
+    "name_mr": "",
+    "code": "568670",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-251636",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Tasgaon (M Cl)",
+    "name_mr": "",
+    "code": "251636",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568671",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Gavhan",
+    "name_mr": "",
+    "code": "568671",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568672",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Manerajuri",
+    "name_mr": "",
+    "code": "568672",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568685",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Nimani",
+    "name_mr": "",
+    "code": "568685",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568684",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Nehru Nagar",
+    "name_mr": "",
+    "code": "568684",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568690",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Wasumbe",
+    "name_mr": "",
+    "code": "568690",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568691",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Matkunki",
+    "name_mr": "",
+    "code": "568691",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568673",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Yogewadi",
+    "name_mr": "",
+    "code": "568673",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568686",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Nagaon Nimani",
+    "name_mr": "",
+    "code": "568686",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568687",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Bendri",
+    "name_mr": "",
+    "code": "568687",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568689",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Kavathe Ekand",
+    "name_mr": "",
+    "code": "568689",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568625",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "568625",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568626",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Turchi",
+    "name_mr": "",
+    "code": "568626",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568627",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Yelavi",
+    "name_mr": "",
+    "code": "568627",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568628",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Julewadi",
+    "name_mr": "",
+    "code": "568628",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568646",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Sirgaon Visapur",
+    "name_mr": "",
+    "code": "568646",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568665",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Khujagaon",
+    "name_mr": "",
+    "code": "568665",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568681",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Punadi (Tasgaon)",
+    "name_mr": "",
+    "code": "568681",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568660",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Anjani",
+    "name_mr": "",
+    "code": "568660",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568658",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "568658",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568674",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Upalavi",
+    "name_mr": "",
+    "code": "568674",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568692",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Nagaon Kavathe",
+    "name_mr": "",
+    "code": "568692",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568688",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Shirgaon Kavathe",
+    "name_mr": "",
+    "code": "568688",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568675",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Kumathe",
+    "name_mr": "",
+    "code": "568675",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568676",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Dhulgaon",
+    "name_mr": "",
+    "code": "568676",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  },
+  {
+    "village_id": "v-568657",
+    "district_id": "sangli",
+    "taluka_id": "tasgaon",
+    "name_en": "Lokarewadi",
+    "name_mr": "",
+    "code": "568657",
+    "boundary_file": "/data/boundaries/villages/sangli/tasgaon.geojson"
+  }
+]

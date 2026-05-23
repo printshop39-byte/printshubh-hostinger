@@ -1,0 +1,857 @@
+[
+  {
+    "village_id": "v-568033",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Umbarwadi",
+    "name_mr": "",
+    "code": "568033",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568015",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Tupurwadi",
+    "name_mr": "",
+    "code": "568015",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568026",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kadal",
+    "name_mr": "",
+    "code": "568026",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568031",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Masewadi",
+    "name_mr": "",
+    "code": "568031",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568014",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Bugadi  Katti",
+    "name_mr": "",
+    "code": "568014",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568029",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Dugunwadi",
+    "name_mr": "",
+    "code": "568029",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568055",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kumari",
+    "name_mr": "",
+    "code": "568055",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568056",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kalamwadi",
+    "name_mr": "",
+    "code": "568056",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568057",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Yamehatti",
+    "name_mr": "",
+    "code": "568057",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567982",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Madyal",
+    "name_mr": "",
+    "code": "567982",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567978",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hirlage",
+    "name_mr": "",
+    "code": "567978",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568001",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Idarguchhi",
+    "name_mr": "",
+    "code": "568001",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567976",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Ainapur",
+    "name_mr": "",
+    "code": "567976",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568019",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hunginhal",
+    "name_mr": "",
+    "code": "568019",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567975",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Inchanal",
+    "name_mr": "",
+    "code": "567975",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568005",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Yenechawandi",
+    "name_mr": "",
+    "code": "568005",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568020",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Harli Bk.",
+    "name_mr": "",
+    "code": "568020",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568007",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Chinchewadi",
+    "name_mr": "",
+    "code": "568007",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568002",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Chandankud",
+    "name_mr": "",
+    "code": "568002",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568004",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Basarge  Kh",
+    "name_mr": "",
+    "code": "568004",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568008",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Naukud",
+    "name_mr": "",
+    "code": "568008",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568003",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Halkarni",
+    "name_mr": "",
+    "code": "568003",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568011",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Nandanwad",
+    "name_mr": "",
+    "code": "568011",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568021",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Harli Kh.",
+    "name_mr": "",
+    "code": "568021",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568012",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kumbalhal",
+    "name_mr": "",
+    "code": "568012",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568010",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Manwad",
+    "name_mr": "",
+    "code": "568010",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568024",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hasursasgiri",
+    "name_mr": "",
+    "code": "568024",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568009",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Narewadi",
+    "name_mr": "",
+    "code": "568009",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568022",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Wairagwadi",
+    "name_mr": "",
+    "code": "568022",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568025",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hidadugi",
+    "name_mr": "",
+    "code": "568025",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568023",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hasurwadi",
+    "name_mr": "",
+    "code": "568023",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568013",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Terani",
+    "name_mr": "",
+    "code": "568013",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568028",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Mungurwadi",
+    "name_mr": "",
+    "code": "568028",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568027",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Teginhal",
+    "name_mr": "",
+    "code": "568027",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568034",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Mangur Tarf Sawantwadi",
+    "name_mr": "",
+    "code": "568034",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568016",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Gudalkop",
+    "name_mr": "",
+    "code": "568016",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568017",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kalavi Katti",
+    "name_mr": "",
+    "code": "568017",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568032",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "568032",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568030",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Jambhulwadi",
+    "name_mr": "",
+    "code": "568030",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568035",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Batkanangale",
+    "name_mr": "",
+    "code": "568035",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568036",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Lingnoor  K.nesari",
+    "name_mr": "",
+    "code": "568036",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568039",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Waghrali",
+    "name_mr": "",
+    "code": "568039",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568037",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hebbal Jaldyal",
+    "name_mr": "",
+    "code": "568037",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568040",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Shipur Tarf Nesari",
+    "name_mr": "",
+    "code": "568040",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568038",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Bidrewadi",
+    "name_mr": "",
+    "code": "568038",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568041",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Helewadi",
+    "name_mr": "",
+    "code": "568041",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568042",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Nesari",
+    "name_mr": "",
+    "code": "568042",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568043",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Tarewadi",
+    "name_mr": "",
+    "code": "568043",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568047",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Talewadi",
+    "name_mr": "",
+    "code": "568047",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568050",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Arjunwadi",
+    "name_mr": "",
+    "code": "568050",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568051",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kandewadi",
+    "name_mr": "",
+    "code": "568051",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568044",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hadlge",
+    "name_mr": "",
+    "code": "568044",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568049",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Tikkewadi",
+    "name_mr": "",
+    "code": "568049",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568045",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Donewadi",
+    "name_mr": "",
+    "code": "568045",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568048",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Maladewadi",
+    "name_mr": "",
+    "code": "568048",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568046",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Sawantwadi",
+    "name_mr": "",
+    "code": "568046",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568052",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Tavarewadi",
+    "name_mr": "",
+    "code": "568052",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568053",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Saroli",
+    "name_mr": "",
+    "code": "568053",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568054",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Sambare",
+    "name_mr": "",
+    "code": "568054",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567979",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Shendri",
+    "name_mr": "",
+    "code": "567979",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567981",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hasurchampu",
+    "name_mr": "",
+    "code": "567981",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567966",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kadgaon",
+    "name_mr": "",
+    "code": "567966",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567967",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Beknal",
+    "name_mr": "",
+    "code": "567967",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567965",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Jakhewadi",
+    "name_mr": "",
+    "code": "567965",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567983",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Aurnal",
+    "name_mr": "",
+    "code": "567983",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567986",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hebbal Kasaba Nool",
+    "name_mr": "",
+    "code": "567986",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567987",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Nilji",
+    "name_mr": "",
+    "code": "567987",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567984",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Dundage",
+    "name_mr": "",
+    "code": "567984",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567988",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Mutnal",
+    "name_mr": "",
+    "code": "567988",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567990",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Nangnur",
+    "name_mr": "",
+    "code": "567990",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567989",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hitni",
+    "name_mr": "",
+    "code": "567989",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567993",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Khandal",
+    "name_mr": "",
+    "code": "567993",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567985",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Jarali",
+    "name_mr": "",
+    "code": "567985",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567969",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Gijavane",
+    "name_mr": "",
+    "code": "567969",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567994",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kasaba Nool",
+    "name_mr": "",
+    "code": "567994",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567972",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Shipur Tarf Ajara.",
+    "name_mr": "",
+    "code": "567972",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567995",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Mugali",
+    "name_mr": "",
+    "code": "567995",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567970",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Lingnoor  K. Nool",
+    "name_mr": "",
+    "code": "567970",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567991",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Aralgundi",
+    "name_mr": "",
+    "code": "567991",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568018",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Bhadgaon",
+    "name_mr": "",
+    "code": "568018",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567971",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Karambali",
+    "name_mr": "",
+    "code": "567971",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567996",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "567996",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567973",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Atyal",
+    "name_mr": "",
+    "code": "567973",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567999",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Tanavadi",
+    "name_mr": "",
+    "code": "567999",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567992",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kadalge",
+    "name_mr": "",
+    "code": "567992",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567997",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Channekuppi",
+    "name_mr": "",
+    "code": "567997",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567974",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Belgundi",
+    "name_mr": "",
+    "code": "567974",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567998",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Khamale  Hatti",
+    "name_mr": "",
+    "code": "567998",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568000",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Basarge Bk",
+    "name_mr": "",
+    "code": "568000",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-568006",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hanmantwadi",
+    "name_mr": "",
+    "code": "568006",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567977",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Kaulge",
+    "name_mr": "",
+    "code": "567977",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-567980",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Hanimnal",
+    "name_mr": "",
+    "code": "567980",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-251631",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Gadhinglaj (M CI)",
+    "name_mr": "",
+    "code": "251631",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-652199",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Vadarge",
+    "name_mr": "",
+    "code": "652199",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  },
+  {
+    "village_id": "v-652200",
+    "district_id": "kolh-pur",
+    "taluka_id": "gadhinglaj",
+    "name_en": "Badyachiwadi",
+    "name_mr": "",
+    "code": "652200",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/gadhinglaj.geojson"
+  }
+]

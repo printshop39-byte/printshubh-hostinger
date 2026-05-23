@@ -1,0 +1,758 @@
+[
+  {
+    "village_id": "v-560465",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Jathala",
+    "name_mr": "",
+    "code": "560465",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560464",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hadoli",
+    "name_mr": "",
+    "code": "560464",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560466",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "560466",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560467",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Zari Bk",
+    "name_mr": "",
+    "code": "560467",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560463",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mahalungi",
+    "name_mr": "",
+    "code": "560463",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560462",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Kendrewadi",
+    "name_mr": "",
+    "code": "560462",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560487",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hipalner",
+    "name_mr": "",
+    "code": "560487",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560460",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "560460",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560468",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Zari Kh",
+    "name_mr": "",
+    "code": "560468",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560461",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Raiwadi",
+    "name_mr": "",
+    "code": "560461",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560489",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "560489",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560486",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hanmant Jawalga",
+    "name_mr": "",
+    "code": "560486",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560469",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ramwadi",
+    "name_mr": "",
+    "code": "560469",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560492",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Chapoli",
+    "name_mr": "",
+    "code": "560492",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560488",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "560488",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560470",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Janwal",
+    "name_mr": "",
+    "code": "560470",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560472",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "560472",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560475",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Wadwal Nagnath",
+    "name_mr": "",
+    "code": "560475",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560471",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bramhawadi",
+    "name_mr": "",
+    "code": "560471",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560494",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Anjansoda Bk",
+    "name_mr": "",
+    "code": "560494",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560493",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bhakarwadi",
+    "name_mr": "",
+    "code": "560493",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560473",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hali Kh",
+    "name_mr": "",
+    "code": "560473",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560495",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Brahamwadi",
+    "name_mr": "",
+    "code": "560495",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560506",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mashanerwadi",
+    "name_mr": "",
+    "code": "560506",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560480",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Shiwankheda Bk",
+    "name_mr": "",
+    "code": "560480",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560478",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Kawathali",
+    "name_mr": "",
+    "code": "560478",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560496",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Nagadarwadi",
+    "name_mr": "",
+    "code": "560496",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560491",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Honali",
+    "name_mr": "",
+    "code": "560491",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560504",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Borgaon Bk",
+    "name_mr": "",
+    "code": "560504",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560477",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Shiwni Majra",
+    "name_mr": "",
+    "code": "560477",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560474",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Kadmuli",
+    "name_mr": "",
+    "code": "560474",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560497",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hatkarwadi",
+    "name_mr": "",
+    "code": "560497",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560508",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Algarwadi",
+    "name_mr": "",
+    "code": "560508",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560498",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "560498",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560507",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Shirnal",
+    "name_mr": "",
+    "code": "560507",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560503",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Takalgaon (shelgaon)",
+    "name_mr": "",
+    "code": "560503",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560505",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Kalkoti",
+    "name_mr": "",
+    "code": "560505",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560523",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mohanal",
+    "name_mr": "",
+    "code": "560523",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560522",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Latur Road",
+    "name_mr": "",
+    "code": "560522",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560509",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hanmantwadi",
+    "name_mr": "",
+    "code": "560509",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560476",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Dapkyal",
+    "name_mr": "",
+    "code": "560476",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560512",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bothi",
+    "name_mr": "",
+    "code": "560512",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560501",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Chavlewadi",
+    "name_mr": "",
+    "code": "560501",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560484",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Gharola",
+    "name_mr": "",
+    "code": "560484",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560479",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Jagalpur Kh",
+    "name_mr": "",
+    "code": "560479",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560499",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "560499",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560502",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Rachannawadi",
+    "name_mr": "",
+    "code": "560502",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560485",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Gharni",
+    "name_mr": "",
+    "code": "560485",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560511",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Tirthwadi",
+    "name_mr": "",
+    "code": "560511",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560524",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bansawargaon",
+    "name_mr": "",
+    "code": "560524",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560483",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "560483",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560513",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mandurki",
+    "name_mr": "",
+    "code": "560513",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560500",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Sangyyachiwadi",
+    "name_mr": "",
+    "code": "560500",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560530",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Sandol",
+    "name_mr": "",
+    "code": "560530",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560481",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ganjur",
+    "name_mr": "",
+    "code": "560481",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560482",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ganjurwadi",
+    "name_mr": "",
+    "code": "560482",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560531",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Dongraj",
+    "name_mr": "",
+    "code": "560531",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560515",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Tiwatghal",
+    "name_mr": "",
+    "code": "560515",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560514",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Talghal",
+    "name_mr": "",
+    "code": "560514",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560525",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bhatsangvi",
+    "name_mr": "",
+    "code": "560525",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560529",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mahadol",
+    "name_mr": "",
+    "code": "560529",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560518",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "560518",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560519",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mohadal",
+    "name_mr": "",
+    "code": "560519",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560520",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ambulga",
+    "name_mr": "",
+    "code": "560520",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560516",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Tiwghal",
+    "name_mr": "",
+    "code": "560516",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560528",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Nageshwadi",
+    "name_mr": "",
+    "code": "560528",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560532",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Rohina",
+    "name_mr": "",
+    "code": "560532",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560526",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ajansonda Kh",
+    "name_mr": "",
+    "code": "560526",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560521",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Hatkarwadi",
+    "name_mr": "",
+    "code": "560521",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560517",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mahalangra",
+    "name_mr": "",
+    "code": "560517",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560533",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Ujalamb",
+    "name_mr": "",
+    "code": "560533",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560527",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Atola",
+    "name_mr": "",
+    "code": "560527",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560538",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Nalegaon",
+    "name_mr": "",
+    "code": "560538",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560537",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bolegaon",
+    "name_mr": "",
+    "code": "560537",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560542",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Mahalangra  Wadi",
+    "name_mr": "",
+    "code": "560542",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560541",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Devangrawadi",
+    "name_mr": "",
+    "code": "560541",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560540",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Devangra",
+    "name_mr": "",
+    "code": "560540",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560534",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Kabansangvi",
+    "name_mr": "",
+    "code": "560534",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560536",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Basawnal",
+    "name_mr": "",
+    "code": "560536",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560543",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Sugaon",
+    "name_mr": "",
+    "code": "560543",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560539",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Limbalwadi",
+    "name_mr": "",
+    "code": "560539",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560535",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Bawalgaon",
+    "name_mr": "",
+    "code": "560535",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-560544",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Murambi",
+    "name_mr": "",
+    "code": "560544",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  },
+  {
+    "village_id": "v-276375",
+    "district_id": "latur",
+    "taluka_id": "chakur",
+    "name_en": "Chakur (NP)",
+    "name_mr": "",
+    "code": "276375",
+    "boundary_file": "/data/boundaries/villages/latur/chakur.geojson"
+  }
+]

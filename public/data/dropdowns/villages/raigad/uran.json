@@ -1,0 +1,641 @@
+[
+  {
+    "village_id": "v-553353",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Jasai (CT)",
+    "name_mr": "",
+    "code": "553353",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553293",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Sonari",
+    "name_mr": "",
+    "code": "553293",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553292",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Juna Sheva",
+    "name_mr": "",
+    "code": "553292",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553297",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Jaskhar",
+    "name_mr": "",
+    "code": "553297",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553312",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Veshvi",
+    "name_mr": "",
+    "code": "553312",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553311",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kauli Bandhankhar",
+    "name_mr": "",
+    "code": "553311",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553322",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Pohi",
+    "name_mr": "",
+    "code": "553322",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553294",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Sawarkhar",
+    "name_mr": "",
+    "code": "553294",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553315",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Paundkhar",
+    "name_mr": "",
+    "code": "553315",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553323",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Ransai",
+    "name_mr": "",
+    "code": "553323",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553316",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Dhutum",
+    "name_mr": "",
+    "code": "553316",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553320",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Dighode",
+    "name_mr": "",
+    "code": "553320",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553313",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kauli Belodakhar",
+    "name_mr": "",
+    "code": "553313",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553318",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Shematikhar",
+    "name_mr": "",
+    "code": "553318",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553350",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kegaon (CT)",
+    "name_mr": "",
+    "code": "553350",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553317",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Muthekhar",
+    "name_mr": "",
+    "code": "553317",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553298",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Panje",
+    "name_mr": "",
+    "code": "553298",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553296",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Karal",
+    "name_mr": "",
+    "code": "553296",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553319",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Waltikhar",
+    "name_mr": "",
+    "code": "553319",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553305",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Funde",
+    "name_mr": "",
+    "code": "553305",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553295",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Pagote",
+    "name_mr": "",
+    "code": "553295",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553321",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kanthavali",
+    "name_mr": "",
+    "code": "553321",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553299",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Dongari",
+    "name_mr": "",
+    "code": "553299",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553351",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Navghar (CT)",
+    "name_mr": "",
+    "code": "553351",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553325",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Taki (NV)",
+    "name_mr": "",
+    "code": "553325",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553326",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Harishchandra Pimpale",
+    "name_mr": "",
+    "code": "553326",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553327",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Bori Bk.",
+    "name_mr": "",
+    "code": "553327",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553307",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Navin Sheva",
+    "name_mr": "",
+    "code": "553307",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553306",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Bhendkhal",
+    "name_mr": "",
+    "code": "553306",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553330",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Jui",
+    "name_mr": "",
+    "code": "553330",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553328",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Boricha Kotha",
+    "name_mr": "",
+    "code": "553328",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553332",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Bhom",
+    "name_mr": "",
+    "code": "553332",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553333",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Chirner",
+    "name_mr": "",
+    "code": "553333",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553331",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Chikhali Bhom",
+    "name_mr": "",
+    "code": "553331",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553329",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Dhasakhosi",
+    "name_mr": "",
+    "code": "553329",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553309",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "553309",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553334",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kalambusare",
+    "name_mr": "",
+    "code": "553334",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553335",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Koproli",
+    "name_mr": "",
+    "code": "553335",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "creek",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553337",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kacherpada",
+    "name_mr": "",
+    "code": "553337",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "creek-dup-122",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553336",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Bandhpada",
+    "name_mr": "",
+    "code": "553336",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553339",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Pirkone",
+    "name_mr": "",
+    "code": "553339",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553338",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Talbandkhar",
+    "name_mr": "",
+    "code": "553338",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553343",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Sarde",
+    "name_mr": "",
+    "code": "553343",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553340",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Sangpalekhar",
+    "name_mr": "",
+    "code": "553340",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553345",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Punade",
+    "name_mr": "",
+    "code": "553345",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553342",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Pale",
+    "name_mr": "",
+    "code": "553342",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553341",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Govthane",
+    "name_mr": "",
+    "code": "553341",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553349",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Aware",
+    "name_mr": "",
+    "code": "553349",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "creek-dup-123",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553344",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Vasheni",
+    "name_mr": "",
+    "code": "553344",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553348",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kadape",
+    "name_mr": "",
+    "code": "553348",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553347",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Antrabamdakhar",
+    "name_mr": "",
+    "code": "553347",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553346",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Juipunade",
+    "name_mr": "",
+    "code": "553346",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "creek-dup-128",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553304",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Bokadvira",
+    "name_mr": "",
+    "code": "553304",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553314",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Belondakhar",
+    "name_mr": "",
+    "code": "553314",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553310",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Chirle",
+    "name_mr": "",
+    "code": "553310",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-943186",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Jambhulpada",
+    "name_mr": "",
+    "code": "943186",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-944914",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Gaonthan",
+    "name_mr": "",
+    "code": "944914",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553324",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Vindhane",
+    "name_mr": "",
+    "code": "553324",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-943185",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Navapada",
+    "name_mr": "",
+    "code": "943185",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553301",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Ranwad",
+    "name_mr": "",
+    "code": "553301",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553300",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Hanuman Koliwada",
+    "name_mr": "",
+    "code": "553300",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553303",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Kaladhonda",
+    "name_mr": "",
+    "code": "553303",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553352",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Chanje (CT)",
+    "name_mr": "",
+    "code": "553352",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553308",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Mhatwali",
+    "name_mr": "",
+    "code": "553308",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-251491",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Uran (M Cl)",
+    "name_mr": "",
+    "code": "251491",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-553302",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Boripakhadi",
+    "name_mr": "",
+    "code": "553302",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  },
+  {
+    "village_id": "v-INMH021",
+    "district_id": "raigad",
+    "taluka_id": "uran",
+    "name_en": "Elephanta Island",
+    "name_mr": "",
+    "code": "INMH021",
+    "boundary_file": "/data/boundaries/villages/raigad/uran.geojson"
+  }
+]

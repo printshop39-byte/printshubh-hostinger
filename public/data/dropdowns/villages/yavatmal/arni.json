@@ -1,0 +1,965 @@
+[
+  {
+    "village_id": "v-543231",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kathoda",
+    "name_mr": "",
+    "code": "543231",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543246",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "543246",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543237",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Amani",
+    "name_mr": "",
+    "code": "543237",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543239",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Asara",
+    "name_mr": "",
+    "code": "543239",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543240",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Vitholi",
+    "name_mr": "",
+    "code": "543240",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543229",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "543229",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543247",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "543247",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543288",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Yermal",
+    "name_mr": "",
+    "code": "543288",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543248",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Bhandari",
+    "name_mr": "",
+    "code": "543248",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543286",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kelzara",
+    "name_mr": "",
+    "code": "543286",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543238",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Anjargaon",
+    "name_mr": "",
+    "code": "543238",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543244",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kurha",
+    "name_mr": "",
+    "code": "543244",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543217",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Umari (Izara)",
+    "name_mr": "",
+    "code": "543217",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543224",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chikani Kh.",
+    "name_mr": "",
+    "code": "543224",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543223",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "543223",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543219",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "543219",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543226",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Saikhed",
+    "name_mr": "",
+    "code": "543226",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543245",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Anji (Na)",
+    "name_mr": "",
+    "code": "543245",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543221",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Tendoli",
+    "name_mr": "",
+    "code": "543221",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543227",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Lingi",
+    "name_mr": "",
+    "code": "543227",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543222",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Rudrapur",
+    "name_mr": "",
+    "code": "543222",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-259703",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Arni (M Cl)",
+    "name_mr": "",
+    "code": "259703",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543241",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "543241",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543230",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Bhandari",
+    "name_mr": "",
+    "code": "543230",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543228",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kopara",
+    "name_mr": "",
+    "code": "543228",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543193",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Gangaon",
+    "name_mr": "",
+    "code": "543193",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543195",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "543195",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543194",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "543194",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543196",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "543196",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543201",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Jawala",
+    "name_mr": "",
+    "code": "543201",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543203",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Bramhanwada",
+    "name_mr": "",
+    "code": "543203",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543202",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Shelu",
+    "name_mr": "",
+    "code": "543202",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543199",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Deogaon",
+    "name_mr": "",
+    "code": "543199",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543197",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Khed",
+    "name_mr": "",
+    "code": "543197",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543200",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "543200",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543207",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Shekalgaon",
+    "name_mr": "",
+    "code": "543207",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543198",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Bid",
+    "name_mr": "",
+    "code": "543198",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543208",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Mhasola",
+    "name_mr": "",
+    "code": "543208",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543210",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Umari (P)",
+    "name_mr": "",
+    "code": "543210",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543211",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "543211",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543204",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Gawana",
+    "name_mr": "",
+    "code": "543204",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543206",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chandani",
+    "name_mr": "",
+    "code": "543206",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543209",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Pahur",
+    "name_mr": "",
+    "code": "543209",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543212",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Jamb",
+    "name_mr": "",
+    "code": "543212",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543242",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "543242",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543205",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kakaddara",
+    "name_mr": "",
+    "code": "543205",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543216",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "543216",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543218",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Pangari",
+    "name_mr": "",
+    "code": "543218",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543215",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Navnagar",
+    "name_mr": "",
+    "code": "543215",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543243",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "543243",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543213",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Satara",
+    "name_mr": "",
+    "code": "543213",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543220",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Dabhadi",
+    "name_mr": "",
+    "code": "543220",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543225",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Mahalungi",
+    "name_mr": "",
+    "code": "543225",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543232",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Deurwadi (Pu)",
+    "name_mr": "",
+    "code": "543232",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543250",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Nidha",
+    "name_mr": "",
+    "code": "543250",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543249",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Shiur",
+    "name_mr": "",
+    "code": "543249",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543287",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Naik Nagar",
+    "name_mr": "",
+    "code": "543287",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543284",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kurha",
+    "name_mr": "",
+    "code": "543284",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543283",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "543283",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543289",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "543289",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543285",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Bhansara",
+    "name_mr": "",
+    "code": "543285",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543253",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chatari",
+    "name_mr": "",
+    "code": "543253",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543258",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sakhara",
+    "name_mr": "",
+    "code": "543258",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543281",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Pimpalner",
+    "name_mr": "",
+    "code": "543281",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543260",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Palashi",
+    "name_mr": "",
+    "code": "543260",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543282",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Pandhurna",
+    "name_mr": "",
+    "code": "543282",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543252",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "543252",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543257",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Mogra",
+    "name_mr": "",
+    "code": "543257",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543254",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Warud (Bha)",
+    "name_mr": "",
+    "code": "543254",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543290",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Shari",
+    "name_mr": "",
+    "code": "543290",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543256",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Krishnanagar",
+    "name_mr": "",
+    "code": "543256",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543255",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sonari",
+    "name_mr": "",
+    "code": "543255",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543261",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kelzara",
+    "name_mr": "",
+    "code": "543261",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543251",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sakri",
+    "name_mr": "",
+    "code": "543251",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543259",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sudhakarnagar",
+    "name_mr": "",
+    "code": "543259",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543294",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Lonbehal",
+    "name_mr": "",
+    "code": "543294",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543293",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sendur Sani",
+    "name_mr": "",
+    "code": "543293",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543295",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Ghonsara",
+    "name_mr": "",
+    "code": "543295",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543269",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Palodi",
+    "name_mr": "",
+    "code": "543269",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543263",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Daheli",
+    "name_mr": "",
+    "code": "543263",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543262",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Subhashnagar",
+    "name_mr": "",
+    "code": "543262",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543268",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Jalandri",
+    "name_mr": "",
+    "code": "543268",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543291",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Anjankhed",
+    "name_mr": "",
+    "code": "543291",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543292",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Shelu",
+    "name_mr": "",
+    "code": "543292",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543267",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sawali (Sa)",
+    "name_mr": "",
+    "code": "543267",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543296",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Iwaleshwar",
+    "name_mr": "",
+    "code": "543296",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543278",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Ayata",
+    "name_mr": "",
+    "code": "543278",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543265",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "543265",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543264",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Ichora",
+    "name_mr": "",
+    "code": "543264",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543266",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chinchbardi",
+    "name_mr": "",
+    "code": "543266",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543270",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Umri",
+    "name_mr": "",
+    "code": "543270",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543301",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Donwada",
+    "name_mr": "",
+    "code": "543301",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543271",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Barbhai",
+    "name_mr": "",
+    "code": "543271",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543276",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kap",
+    "name_mr": "",
+    "code": "543276",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543297",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kosadani",
+    "name_mr": "",
+    "code": "543297",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543303",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Rani Dhanora",
+    "name_mr": "",
+    "code": "543303",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543300",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Amboda",
+    "name_mr": "",
+    "code": "543300",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543279",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Khadaka",
+    "name_mr": "",
+    "code": "543279",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543272",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Datodi",
+    "name_mr": "",
+    "code": "543272",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543280",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kawtha Bk",
+    "name_mr": "",
+    "code": "543280",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543274",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "543274",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543275",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Zaparwadi",
+    "name_mr": "",
+    "code": "543275",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543302",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Kaotha Bazar",
+    "name_mr": "",
+    "code": "543302",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543277",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Chimata",
+    "name_mr": "",
+    "code": "543277",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543299",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Mukindpur",
+    "name_mr": "",
+    "code": "543299",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543273",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Gudha",
+    "name_mr": "",
+    "code": "543273",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  },
+  {
+    "village_id": "v-543298",
+    "district_id": "yavatmal",
+    "taluka_id": "arni",
+    "name_en": "Sakur",
+    "name_mr": "",
+    "code": "543298",
+    "boundary_file": "/data/boundaries/villages/yavatmal/arni.geojson"
+  }
+]

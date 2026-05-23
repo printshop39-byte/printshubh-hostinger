@@ -1,0 +1,551 @@
+[
+  {
+    "village_id": "v-567322",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kavathesar",
+    "name_mr": "",
+    "code": "567322",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567324",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kothali",
+    "name_mr": "",
+    "code": "567324",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567326",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Umalwad",
+    "name_mr": "",
+    "code": "567326",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567328",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Udagaon",
+    "name_mr": "",
+    "code": "567328",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567329",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Chichvad",
+    "name_mr": "",
+    "code": "567329",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567338",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Tamdalge",
+    "name_mr": "",
+    "code": "567338",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567339",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Nimshirgaon",
+    "name_mr": "",
+    "code": "567339",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567332",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Arjunwad",
+    "name_mr": "",
+    "code": "567332",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567340",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Chipari",
+    "name_mr": "",
+    "code": "567340",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567345",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Dharangutti",
+    "name_mr": "",
+    "code": "567345",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-276635",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Shirol (M CI)",
+    "name_mr": "",
+    "code": "276635",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567333",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Ghalwad",
+    "name_mr": "",
+    "code": "567333",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567341",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kondigre",
+    "name_mr": "",
+    "code": "567341",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567344",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Nandani",
+    "name_mr": "",
+    "code": "567344",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567335",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kutwad",
+    "name_mr": "",
+    "code": "567335",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567342",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "567342",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567343",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Haroli",
+    "name_mr": "",
+    "code": "567343",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567334",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Shirati",
+    "name_mr": "",
+    "code": "567334",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567337",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kanwad",
+    "name_mr": "",
+    "code": "567337",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567346",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Yadrav (CT)",
+    "name_mr": "",
+    "code": "567346",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567336",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Hasur",
+    "name_mr": "",
+    "code": "567336",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567355",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kurundawad (R)",
+    "name_mr": "",
+    "code": "567355",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567359",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Nrusinhawadi",
+    "name_mr": "",
+    "code": "567359",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567362",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kavatheguland",
+    "name_mr": "",
+    "code": "567362",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567363",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Shedshal",
+    "name_mr": "",
+    "code": "567363",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567364",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "567364",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567347",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Takavade",
+    "name_mr": "",
+    "code": "567347",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567361",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Gaurwad",
+    "name_mr": "",
+    "code": "567361",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567348",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Shirdhon",
+    "name_mr": "",
+    "code": "567348",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567365",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Malwadi",
+    "name_mr": "",
+    "code": "567365",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567360",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Aurwad",
+    "name_mr": "",
+    "code": "567360",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567367",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Alas",
+    "name_mr": "",
+    "code": "567367",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567366",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Bubnal",
+    "name_mr": "",
+    "code": "567366",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567354",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Terwad",
+    "name_mr": "",
+    "code": "567354",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567350",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Shiradwad",
+    "name_mr": "",
+    "code": "567350",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567357",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Bastawad",
+    "name_mr": "",
+    "code": "567357",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567356",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Majarewadi",
+    "name_mr": "",
+    "code": "567356",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567353",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Herwad",
+    "name_mr": "",
+    "code": "567353",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567358",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Akiwat",
+    "name_mr": "",
+    "code": "567358",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567351",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Shivanakwadi",
+    "name_mr": "",
+    "code": "567351",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567352",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Latwadi",
+    "name_mr": "",
+    "code": "567352",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567371",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "567371",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567370",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "567370",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567372",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Khidrapur",
+    "name_mr": "",
+    "code": "567372",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567369",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Takliwadi",
+    "name_mr": "",
+    "code": "567369",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567373",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Rajapurwadi",
+    "name_mr": "",
+    "code": "567373",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567374",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Danwad",
+    "name_mr": "",
+    "code": "567374",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-251622",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kurundawad (M Cl)",
+    "name_mr": "",
+    "code": "251622",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567349",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Lat",
+    "name_mr": "",
+    "code": "567349",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-652188",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Konoli",
+    "name_mr": "",
+    "code": "652188",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567331",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Agar",
+    "name_mr": "",
+    "code": "567331",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-652187",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Kambarde",
+    "name_mr": "",
+    "code": "652187",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567323",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Danoli",
+    "name_mr": "",
+    "code": "567323",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567325",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Jainapur",
+    "name_mr": "",
+    "code": "567325",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-652186",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Gothane",
+    "name_mr": "",
+    "code": "652186",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567375",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Dattawad",
+    "name_mr": "",
+    "code": "567375",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-652190",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Bambarwadi",
+    "name_mr": "",
+    "code": "652190",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567368",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Ghosarwad",
+    "name_mr": "",
+    "code": "567368",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-652189",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Wakinagar",
+    "name_mr": "",
+    "code": "652189",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-251621",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Jaysingpur (M Cl)",
+    "name_mr": "",
+    "code": "251621",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  },
+  {
+    "village_id": "v-567327",
+    "district_id": "kolh-pur",
+    "taluka_id": "shirol",
+    "name_en": "Sambhajipur",
+    "name_mr": "",
+    "code": "567327",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/shirol.geojson"
+  }
+]

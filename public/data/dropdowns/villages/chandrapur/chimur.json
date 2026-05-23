@@ -1,0 +1,2333 @@
+[
+  {
+    "village_id": "v-540384",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Balharpur",
+    "name_mr": "",
+    "code": "540384",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540385",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "540385",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540453",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khokarla",
+    "name_mr": "",
+    "code": "540453",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540445",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "540445",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540439",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "540439",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "mazra-seoni-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "MAZRA SEONI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540454",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "540454",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540383",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Shiwani",
+    "name_mr": "",
+    "code": "540383",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540458",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Irvha",
+    "name_mr": "",
+    "code": "540458",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540462",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Shankarpur",
+    "name_mr": "",
+    "code": "540462",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540456",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Ladegaon",
+    "name_mr": "",
+    "code": "540456",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540386",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gothangaon",
+    "name_mr": "",
+    "code": "540386",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540457",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pachgaon",
+    "name_mr": "",
+    "code": "540457",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540397",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kasaba Pipari",
+    "name_mr": "",
+    "code": "540397",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540455",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khursapar",
+    "name_mr": "",
+    "code": "540455",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540388",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Maregaon",
+    "name_mr": "",
+    "code": "540388",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540395",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Puyardand",
+    "name_mr": "",
+    "code": "540395",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540398",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chichala Shastri",
+    "name_mr": "",
+    "code": "540398",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540464",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Amboli",
+    "name_mr": "",
+    "code": "540464",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540387",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khapari Majara",
+    "name_mr": "",
+    "code": "540387",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540399",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gadpipari",
+    "name_mr": "",
+    "code": "540399",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540461",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chichala Pardeshi",
+    "name_mr": "",
+    "code": "540461",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540463",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Asola",
+    "name_mr": "",
+    "code": "540463",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540459",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "540459",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540389",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pitichua",
+    "name_mr": "",
+    "code": "540389",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540396",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kanhalgaon Bramhan Rith",
+    "name_mr": "",
+    "code": "540396",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540460",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kawadsi Deshmane",
+    "name_mr": "",
+    "code": "540460",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-300392",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bhisi (NP)",
+    "name_mr": "",
+    "code": "300392",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540390",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "540390",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540471",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "540471",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540467",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Thana",
+    "name_mr": "",
+    "code": "540467",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540422",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "540422",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540425",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "540425",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540482",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Doma",
+    "name_mr": "",
+    "code": "540482",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540429",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Ambeneri",
+    "name_mr": "",
+    "code": "540429",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540432",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mangal Fusi",
+    "name_mr": "",
+    "code": "540432",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540433",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kawadsi Dak Banglow",
+    "name_mr": "",
+    "code": "540433",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540430",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chindhi Nimbala",
+    "name_mr": "",
+    "code": "540430",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540549",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Himat Majara",
+    "name_mr": "",
+    "code": "540549",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540492",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dongargaon Banji",
+    "name_mr": "",
+    "code": "540492",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540353",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "540353",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540366",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kotgaon",
+    "name_mr": "",
+    "code": "540366",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540497",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Karghata",
+    "name_mr": "",
+    "code": "540497",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540363",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Shivapur",
+    "name_mr": "",
+    "code": "540363",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540494",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bodadha",
+    "name_mr": "",
+    "code": "540494",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540404",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jambhul Vihira",
+    "name_mr": "",
+    "code": "540404",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540407",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Satara",
+    "name_mr": "",
+    "code": "540407",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540410",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Siraspur",
+    "name_mr": "",
+    "code": "540410",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540475",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Majara Matol",
+    "name_mr": "",
+    "code": "540475",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540478",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jatepar",
+    "name_mr": "",
+    "code": "540478",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540411",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Shiwara",
+    "name_mr": "",
+    "code": "540411",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540405",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jamgaon Komti",
+    "name_mr": "",
+    "code": "540405",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540406",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kolara Kh",
+    "name_mr": "",
+    "code": "540406",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540479",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Jatepur",
+    "name_mr": "",
+    "code": "540479",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540480",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "540480",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540421",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Jambhul Vihira",
+    "name_mr": "",
+    "code": "540421",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540414",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Taki",
+    "name_mr": "",
+    "code": "540414",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540417",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chikhali Chak",
+    "name_mr": "",
+    "code": "540417",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540418",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chikhali Mal",
+    "name_mr": "",
+    "code": "540418",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540412",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "540412",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540476",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "540476",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540420",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dongargaon Kalu",
+    "name_mr": "",
+    "code": "540420",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540413",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Borgaon Buthi",
+    "name_mr": "",
+    "code": "540413",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540416",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kaparla Bk",
+    "name_mr": "",
+    "code": "540416",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540426",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dahegaon Panjarpar",
+    "name_mr": "",
+    "code": "540426",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "kasarbodi-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "KASARBODI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540481",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "540481",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540415",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kaparla Kh",
+    "name_mr": "",
+    "code": "540415",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540419",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kalamgaon",
+    "name_mr": "",
+    "code": "540419",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540437",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Vadegaon",
+    "name_mr": "",
+    "code": "540437",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540540",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khapari Dharmu",
+    "name_mr": "",
+    "code": "540540",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540348",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Murpar Tukum",
+    "name_mr": "",
+    "code": "540348",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540541",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wadegaon Mal",
+    "name_mr": "",
+    "code": "540541",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540340",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Salori",
+    "name_mr": "",
+    "code": "540340",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540485",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mahar Majara",
+    "name_mr": "",
+    "code": "540485",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540346",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gadgaon",
+    "name_mr": "",
+    "code": "540346",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540339",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pethbhansuli",
+    "name_mr": "",
+    "code": "540339",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540542",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Umari Butti",
+    "name_mr": "",
+    "code": "540542",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540496",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Nimdhela",
+    "name_mr": "",
+    "code": "540496",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540347",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pitichua",
+    "name_mr": "",
+    "code": "540347",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540345",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kawathala",
+    "name_mr": "",
+    "code": "540345",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540543",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Hinganbodi",
+    "name_mr": "",
+    "code": "540543",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540495",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Malewada",
+    "name_mr": "",
+    "code": "540495",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540337",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "540337",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540350",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Amarpuri",
+    "name_mr": "",
+    "code": "540350",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540486",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Madnagad",
+    "name_mr": "",
+    "code": "540486",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540488",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kotgaon",
+    "name_mr": "",
+    "code": "540488",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540487",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Navatala",
+    "name_mr": "",
+    "code": "540487",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540338",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jambhulbodi",
+    "name_mr": "",
+    "code": "540338",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540336",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kasarbodi",
+    "name_mr": "",
+    "code": "540336",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540489",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kasarbodi",
+    "name_mr": "",
+    "code": "540489",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540335",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kesalabodi",
+    "name_mr": "",
+    "code": "540335",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540442",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sathgaon",
+    "name_mr": "",
+    "code": "540442",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540441",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "540441",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540443",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kolari",
+    "name_mr": "",
+    "code": "540443",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "wadhona-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "WADHONA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540469",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Susundi",
+    "name_mr": "",
+    "code": "540469",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540470",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "540470",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540465",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Lawari",
+    "name_mr": "",
+    "code": "540465",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540393",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "540393",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "lawari-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "LAWARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540428",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Titawi",
+    "name_mr": "",
+    "code": "540428",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540342",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Minzari",
+    "name_mr": "",
+    "code": "540342",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540427",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Yerkheda",
+    "name_mr": "",
+    "code": "540427",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540435",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Metepar",
+    "name_mr": "",
+    "code": "540435",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540423",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Garadapar",
+    "name_mr": "",
+    "code": "540423",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540434",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "540434",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540343",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Urkudpar",
+    "name_mr": "",
+    "code": "540343",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540341",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Ajgaon",
+    "name_mr": "",
+    "code": "540341",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540438",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Paradpar",
+    "name_mr": "",
+    "code": "540438",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540539",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Navegaon Peth",
+    "name_mr": "",
+    "code": "540539",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540538",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Minzari",
+    "name_mr": "",
+    "code": "540538",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540349",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Murpar",
+    "name_mr": "",
+    "code": "540349",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540484",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Waghal Peth",
+    "name_mr": "",
+    "code": "540484",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540344",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Katebothali",
+    "name_mr": "",
+    "code": "540344",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540424",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Tirkhura",
+    "name_mr": "",
+    "code": "540424",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540436",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jambhul Ghat",
+    "name_mr": "",
+    "code": "540436",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540483",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "540483",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540490",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dabaka Heti",
+    "name_mr": "",
+    "code": "540490",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "rampur-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "RAMPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540351",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Majara Begde",
+    "name_mr": "",
+    "code": "540351",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540352",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "540352",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540491",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dongargaon Chak",
+    "name_mr": "",
+    "code": "540491",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540400",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kanhalgaon Kunbi Rith",
+    "name_mr": "",
+    "code": "540400",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540468",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "540468",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540401",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Navegaon Brahman",
+    "name_mr": "",
+    "code": "540401",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540391",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dongarla",
+    "name_mr": "",
+    "code": "540391",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540392",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sawarla",
+    "name_mr": "",
+    "code": "540392",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540466",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "540466",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540472",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Lohara",
+    "name_mr": "",
+    "code": "540472",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540402",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Adhyali",
+    "name_mr": "",
+    "code": "540402",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540474",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wagdara Chak",
+    "name_mr": "",
+    "code": "540474",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540473",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Lohara Kh Rith",
+    "name_mr": "",
+    "code": "540473",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540477",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "540477",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540403",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "540403",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540409",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "540409",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540408",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kosekanhal Rith",
+    "name_mr": "",
+    "code": "540408",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540431",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mangalgaon",
+    "name_mr": "",
+    "code": "540431",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540444",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Panjarepar",
+    "name_mr": "",
+    "code": "540444",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540440",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Vakarla",
+    "name_mr": "",
+    "code": "540440",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540452",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "540452",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540451",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Susundri",
+    "name_mr": "",
+    "code": "540451",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540450",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jawalabodi",
+    "name_mr": "",
+    "code": "540450",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540449",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Dhanbodi",
+    "name_mr": "",
+    "code": "540449",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540448",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chichala Paiku",
+    "name_mr": "",
+    "code": "540448",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540447",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "540447",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540446",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Ajgaon",
+    "name_mr": "",
+    "code": "540446",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540493",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Lohara Bk",
+    "name_mr": "",
+    "code": "540493",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540361",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Rengabodi R",
+    "name_mr": "",
+    "code": "540361",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540498",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "540498",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540354",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Amdi Begde",
+    "name_mr": "",
+    "code": "540354",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540552",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chikhalapar",
+    "name_mr": "",
+    "code": "540552",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540546",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kothari",
+    "name_mr": "",
+    "code": "540546",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540362",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khadsangi",
+    "name_mr": "",
+    "code": "540362",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540499",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pardhanheti",
+    "name_mr": "",
+    "code": "540499",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540370",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bandar",
+    "name_mr": "",
+    "code": "540370",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540503",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Lawari",
+    "name_mr": "",
+    "code": "540503",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540551",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Tekadi Paiku",
+    "name_mr": "",
+    "code": "540551",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540500",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gaurkheda",
+    "name_mr": "",
+    "code": "540500",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540501",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Rampur R",
+    "name_mr": "",
+    "code": "540501",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540558",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chichala Manusmari",
+    "name_mr": "",
+    "code": "540558",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540359",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "540359",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540382",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pandharpauni",
+    "name_mr": "",
+    "code": "540382",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540502",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Shivan Payali",
+    "name_mr": "",
+    "code": "540502",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "kharsingi-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "KHARSINGI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540368",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Baradghata",
+    "name_mr": "",
+    "code": "540368",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540553",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kalamgaon",
+    "name_mr": "",
+    "code": "540553",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540556",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bhilgaon Rith",
+    "name_mr": "",
+    "code": "540556",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540360",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Vahangaon",
+    "name_mr": "",
+    "code": "540360",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540355",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Chichghat",
+    "name_mr": "",
+    "code": "540355",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540369",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "540369",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540508",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "540508",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540367",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mangrud",
+    "name_mr": "",
+    "code": "540367",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540559",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Kawadsi",
+    "name_mr": "",
+    "code": "540559",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540507",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Owala",
+    "name_mr": "",
+    "code": "540507",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540356",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Murpar",
+    "name_mr": "",
+    "code": "540356",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540505",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "540505",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540504",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Adegaon Chak",
+    "name_mr": "",
+    "code": "540504",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540554",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Katara",
+    "name_mr": "",
+    "code": "540554",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540509",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "540509",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540515",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "540515",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540506",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "540506",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540358",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khursapur",
+    "name_mr": "",
+    "code": "540358",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540561",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Borgaon Doye",
+    "name_mr": "",
+    "code": "540561",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540562",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Borgaon Rodi",
+    "name_mr": "",
+    "code": "540562",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540563",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "540563",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540514",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gorwat",
+    "name_mr": "",
+    "code": "540514",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540357",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "540357",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540511",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pandharwani",
+    "name_mr": "",
+    "code": "540511",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540566",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Saradpar",
+    "name_mr": "",
+    "code": "540566",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540373",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Talodhi Gaonganana",
+    "name_mr": "",
+    "code": "540373",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540513",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khutala",
+    "name_mr": "",
+    "code": "540513",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540516",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kajalsar",
+    "name_mr": "",
+    "code": "540516",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540371",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Daldali",
+    "name_mr": "",
+    "code": "540371",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540517",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gorwat Chak",
+    "name_mr": "",
+    "code": "540517",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540377",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Tekepar",
+    "name_mr": "",
+    "code": "540377",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540372",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pendhari Bhagade",
+    "name_mr": "",
+    "code": "540372",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540375",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Talodhi Tukum",
+    "name_mr": "",
+    "code": "540375",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540510",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mokhala",
+    "name_mr": "",
+    "code": "540510",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540380",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Pendhari Tukum",
+    "name_mr": "",
+    "code": "540380",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540568",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Panjarepar",
+    "name_mr": "",
+    "code": "540568",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540512",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khambala",
+    "name_mr": "",
+    "code": "540512",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540570",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Masal Tukum",
+    "name_mr": "",
+    "code": "540570",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540376",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Masal Kh",
+    "name_mr": "",
+    "code": "540376",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540569",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Nandara",
+    "name_mr": "",
+    "code": "540569",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540567",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mhasali",
+    "name_mr": "",
+    "code": "540567",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540379",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kitadi Tukum",
+    "name_mr": "",
+    "code": "540379",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540518",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Uparpeth Rith",
+    "name_mr": "",
+    "code": "540518",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540521",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Harni",
+    "name_mr": "",
+    "code": "540521",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540522",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Usegaon",
+    "name_mr": "",
+    "code": "540522",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540374",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Tekepar Tukum",
+    "name_mr": "",
+    "code": "540374",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540378",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "540378",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540519",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Motegaon",
+    "name_mr": "",
+    "code": "540519",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540520",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mangali",
+    "name_mr": "",
+    "code": "540520",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540573",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kosambi",
+    "name_mr": "",
+    "code": "540573",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540574",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Masal Bk.",
+    "name_mr": "",
+    "code": "540574",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540577",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bamhangaon",
+    "name_mr": "",
+    "code": "540577",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540576",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Satara",
+    "name_mr": "",
+    "code": "540576",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540523",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sonegaon Gawande",
+    "name_mr": "",
+    "code": "540523",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540575",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kolara",
+    "name_mr": "",
+    "code": "540575",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540572",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Manemohadi",
+    "name_mr": "",
+    "code": "540572",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540571",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "540571",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540526",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gondeda",
+    "name_mr": "",
+    "code": "540526",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540381",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Ramdegi",
+    "name_mr": "",
+    "code": "540381",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540524",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Mahadwadi",
+    "name_mr": "",
+    "code": "540524",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540578",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kolara Tukum",
+    "name_mr": "",
+    "code": "540578",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540580",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Tekadi Subhani",
+    "name_mr": "",
+    "code": "540580",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540583",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chak Karbada",
+    "name_mr": "",
+    "code": "540583",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540525",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Kewada",
+    "name_mr": "",
+    "code": "540525",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540581",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Madnapur",
+    "name_mr": "",
+    "code": "540581",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540528",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wagheda",
+    "name_mr": "",
+    "code": "540528",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540527",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wadasi",
+    "name_mr": "",
+    "code": "540527",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540585",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Tekadi Mandavzari",
+    "name_mr": "",
+    "code": "540585",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540529",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "540529",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540579",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Karbada",
+    "name_mr": "",
+    "code": "540579",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540586",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chaiti Rith",
+    "name_mr": "",
+    "code": "540586",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540532",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khatoda",
+    "name_mr": "",
+    "code": "540532",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540582",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Madnapur Tukum",
+    "name_mr": "",
+    "code": "540582",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540533",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bungizora",
+    "name_mr": "",
+    "code": "540533",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540584",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chaiti Tukum",
+    "name_mr": "",
+    "code": "540584",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540531",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Belara Rith",
+    "name_mr": "",
+    "code": "540531",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540537",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gondmohadi",
+    "name_mr": "",
+    "code": "540537",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540530",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Vihirgaon Tukum",
+    "name_mr": "",
+    "code": "540530",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540534",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Wasan Vihira",
+    "name_mr": "",
+    "code": "540534",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540536",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "540536",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "gond-mohari-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "GOND MOHARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540587",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Jamani",
+    "name_mr": "",
+    "code": "540587",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540535",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Piparda",
+    "name_mr": "",
+    "code": "540535",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540329",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Bhiwkund",
+    "name_mr": "",
+    "code": "540329",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540330",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "540330",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540332",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Makona",
+    "name_mr": "",
+    "code": "540332",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540331",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "540331",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540334",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Khangaon",
+    "name_mr": "",
+    "code": "540334",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-540333",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Gujgavhan",
+    "name_mr": "",
+    "code": "540333",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-255713",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Chimur (M CI)",
+    "name_mr": "",
+    "code": "255713",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-651904",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Navin Navegaon( N V)",
+    "name_mr": "",
+    "code": "651904",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  },
+  {
+    "village_id": "v-651903",
+    "district_id": "chandrapur",
+    "taluka_id": "chimur",
+    "name_en": "Navin Jamni (N.V.)",
+    "name_mr": "",
+    "code": "651903",
+    "boundary_file": "/data/boundaries/villages/chandrapur/chimur.geojson"
+  }
+]

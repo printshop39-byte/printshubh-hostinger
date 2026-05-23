@@ -1,0 +1,1226 @@
+[
+  {
+    "village_id": "reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540685",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Bond",
+    "name_mr": "",
+    "code": "540685",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540688",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sonuli",
+    "name_mr": "",
+    "code": "540688",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540674",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "540674",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540624",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Jankapur",
+    "name_mr": "",
+    "code": "540624",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540625",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chichala",
+    "name_mr": "",
+    "code": "540625",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540677",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "540677",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540626",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Visapur",
+    "name_mr": "",
+    "code": "540626",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540627",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sapepar Raiyyatwari",
+    "name_mr": "",
+    "code": "540627",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540684",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Pardi Jatin",
+    "name_mr": "",
+    "code": "540684",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540689",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Devpayli",
+    "name_mr": "",
+    "code": "540689",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540629",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Palasgaon Kh",
+    "name_mr": "",
+    "code": "540629",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540706",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Yenoli",
+    "name_mr": "",
+    "code": "540706",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540628",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Owala",
+    "name_mr": "",
+    "code": "540628",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540678",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sonuli Bk",
+    "name_mr": "",
+    "code": "540678",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540679",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sapepar",
+    "name_mr": "",
+    "code": "540679",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540631",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sawangi Badge",
+    "name_mr": "",
+    "code": "540631",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540691",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Balapur Bk",
+    "name_mr": "",
+    "code": "540691",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540630",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Palasgaon Tukum",
+    "name_mr": "",
+    "code": "540630",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540683",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Gaimukh",
+    "name_mr": "",
+    "code": "540683",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540705",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Yenoli Chak",
+    "name_mr": "",
+    "code": "540705",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540707",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Dhamangaon Mal",
+    "name_mr": "",
+    "code": "540707",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540703",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kojbi",
+    "name_mr": "",
+    "code": "540703",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540681",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "540681",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540680",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Talodhi",
+    "name_mr": "",
+    "code": "540680",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540704",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Vaijapur",
+    "name_mr": "",
+    "code": "540704",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540588",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kanpa",
+    "name_mr": "",
+    "code": "540588",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540633",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Irvha",
+    "name_mr": "",
+    "code": "540633",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540632",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Paharni",
+    "name_mr": "",
+    "code": "540632",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540634",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Tekari",
+    "name_mr": "",
+    "code": "540634",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540589",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Bikli",
+    "name_mr": "",
+    "code": "540589",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "brahmapuri-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "BRAHMAPURI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540590",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Banwahi",
+    "name_mr": "",
+    "code": "540590",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540635",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Dhorpa",
+    "name_mr": "",
+    "code": "540635",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540637",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Moushi",
+    "name_mr": "",
+    "code": "540637",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540591",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Banwahi Chak",
+    "name_mr": "",
+    "code": "540591",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540636",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Moushi Chak",
+    "name_mr": "",
+    "code": "540636",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540593",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mangali",
+    "name_mr": "",
+    "code": "540593",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540592",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mohadi Mokasa",
+    "name_mr": "",
+    "code": "540592",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-18",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "bramhapuri-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "BRAMHAPURI  RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "budurtal-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "BUDURTAL RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540595",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sale Bhatti Chak",
+    "name_mr": "",
+    "code": "540595",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540600",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kunghada Chak",
+    "name_mr": "",
+    "code": "540600",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540596",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kotgaon",
+    "name_mr": "",
+    "code": "540596",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540640",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Telimendha",
+    "name_mr": "",
+    "code": "540640",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540594",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sale Bhatti",
+    "name_mr": "",
+    "code": "540594",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540639",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mhasali",
+    "name_mr": "",
+    "code": "540639",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540601",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kunghada",
+    "name_mr": "",
+    "code": "540601",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540638",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Balapur Kh",
+    "name_mr": "",
+    "code": "540638",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540641",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kothulana",
+    "name_mr": "",
+    "code": "540641",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540647",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Panholi",
+    "name_mr": "",
+    "code": "540647",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540598",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "540598",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540642",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Vilam",
+    "name_mr": "",
+    "code": "540642",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540599",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Rengatur",
+    "name_mr": "",
+    "code": "540599",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540648",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Panholi Mendha",
+    "name_mr": "",
+    "code": "540648",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540646",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "540646",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540645",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Devtak",
+    "name_mr": "",
+    "code": "540645",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540603",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kasarla",
+    "name_mr": "",
+    "code": "540603",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540644",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chikmara",
+    "name_mr": "",
+    "code": "540644",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540651",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Panjarepar",
+    "name_mr": "",
+    "code": "540651",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540602",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Korambi",
+    "name_mr": "",
+    "code": "540602",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540604",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Dongargaon Kh",
+    "name_mr": "",
+    "code": "540604",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540652",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kordha",
+    "name_mr": "",
+    "code": "540652",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540649",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kirmiti Mendha",
+    "name_mr": "",
+    "code": "540649",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540650",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kirmiti",
+    "name_mr": "",
+    "code": "540650",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540653",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Navegaon Pandav",
+    "name_mr": "",
+    "code": "540653",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-276361",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Nagbhir (M CI)",
+    "name_mr": "",
+    "code": "276361",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540656",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "540656",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540659",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Minthur",
+    "name_mr": "",
+    "code": "540659",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540658",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Ranparsodi",
+    "name_mr": "",
+    "code": "540658",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "bramhapuri-reserved-forest-dup-19",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "BRAMHAPURI  RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540657",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sakhara Rith",
+    "name_mr": "",
+    "code": "540657",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540660",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mindala",
+    "name_mr": "",
+    "code": "540660",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540668",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sakhara Chak",
+    "name_mr": "",
+    "code": "540668",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540665",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Wasala Makta",
+    "name_mr": "",
+    "code": "540665",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540666",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kosambi Chak 1",
+    "name_mr": "",
+    "code": "540666",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540612",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Ghodazari",
+    "name_mr": "",
+    "code": "540612",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540667",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kosambi Chak 2",
+    "name_mr": "",
+    "code": "540667",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540669",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kosambi Gaoli",
+    "name_mr": "",
+    "code": "540669",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540661",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kodepar",
+    "name_mr": "",
+    "code": "540661",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540670",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Nawegaon Hundeshwari",
+    "name_mr": "",
+    "code": "540670",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "bramhapuri-reserved-forest-dup-20",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "BRAMHAPURI  RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540662",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "540662",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-21",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540616",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chindhimal",
+    "name_mr": "",
+    "code": "540616",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540671",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Gowarpeth",
+    "name_mr": "",
+    "code": "540671",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540664",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Wasala Mendha",
+    "name_mr": "",
+    "code": "540664",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540617",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "540617",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540672",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Telandongari Chak",
+    "name_mr": "",
+    "code": "540672",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540663",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kitali Mendha",
+    "name_mr": "",
+    "code": "540663",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540618",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Huma",
+    "name_mr": "",
+    "code": "540618",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540621",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chindhi Chak",
+    "name_mr": "",
+    "code": "540621",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540675",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kamath Chak",
+    "name_mr": "",
+    "code": "540675",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540687",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Nawanagar",
+    "name_mr": "",
+    "code": "540687",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540676",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kharbi",
+    "name_mr": "",
+    "code": "540676",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540620",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kitali Bormala",
+    "name_mr": "",
+    "code": "540620",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540619",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "540619",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540622",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Navegaon Mal",
+    "name_mr": "",
+    "code": "540622",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540686",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Rajoli",
+    "name_mr": "",
+    "code": "540686",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540682",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "540682",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540700",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chargaon Manapur",
+    "name_mr": "",
+    "code": "540700",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540690",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mohdar",
+    "name_mr": "",
+    "code": "540690",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540694",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Balapur Tukum",
+    "name_mr": "",
+    "code": "540694",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540702",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kojbi Chak",
+    "name_mr": "",
+    "code": "540702",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540701",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chargaon Chak",
+    "name_mr": "",
+    "code": "540701",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540698",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sawarla",
+    "name_mr": "",
+    "code": "540698",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540696",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Akapur",
+    "name_mr": "",
+    "code": "540696",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540710",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Nanded",
+    "name_mr": "",
+    "code": "540710",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540697",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Ushrala",
+    "name_mr": "",
+    "code": "540697",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540695",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "540695",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540693",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Yenoli",
+    "name_mr": "",
+    "code": "540693",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540699",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mendha Chargaon",
+    "name_mr": "",
+    "code": "540699",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540715",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sonuli Chak",
+    "name_mr": "",
+    "code": "540715",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540716",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Walni",
+    "name_mr": "",
+    "code": "540716",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540721",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "540721",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540723",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Gangasagar Heti",
+    "name_mr": "",
+    "code": "540723",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540714",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sonuli",
+    "name_mr": "",
+    "code": "540714",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540717",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "540717",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540722",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Mendha Dakhali Ushrala",
+    "name_mr": "",
+    "code": "540722",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540712",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Girgaon",
+    "name_mr": "",
+    "code": "540712",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540711",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Zadbori",
+    "name_mr": "",
+    "code": "540711",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540713",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "540713",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540725",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Alewahi",
+    "name_mr": "",
+    "code": "540725",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540718",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "540718",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540724",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Jivanapur",
+    "name_mr": "",
+    "code": "540724",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540720",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Umargaon",
+    "name_mr": "",
+    "code": "540720",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540719",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sonapur Tukum",
+    "name_mr": "",
+    "code": "540719",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "pendhari-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "PENDHARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540673",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Sarangad",
+    "name_mr": "",
+    "code": "540673",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540708",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Dhamagaon Chak",
+    "name_mr": "",
+    "code": "540708",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540709",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kachepar",
+    "name_mr": "",
+    "code": "540709",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540692",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Kotalpar",
+    "name_mr": "",
+    "code": "540692",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540623",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Adyal Mendha",
+    "name_mr": "",
+    "code": "540623",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540610",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Khairi Kh.",
+    "name_mr": "",
+    "code": "540610",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  },
+  {
+    "village_id": "v-540654",
+    "district_id": "chandrapur",
+    "taluka_id": "nagbhir",
+    "name_en": "Khairi Bk.",
+    "name_mr": "",
+    "code": "540654",
+    "boundary_file": "/data/boundaries/villages/chandrapur/nagbhir.geojson"
+  }
+]

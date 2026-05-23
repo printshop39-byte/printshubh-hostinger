@@ -1,0 +1,2369 @@
+[
+  {
+    "village_id": "v-651775",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vadpada",
+    "name_mr": "",
+    "code": "651775",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526302",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Satmane",
+    "name_mr": "",
+    "code": "526302",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526269",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "526269",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526275",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jamki",
+    "name_mr": "",
+    "code": "526275",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526305",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chhavadi",
+    "name_mr": "",
+    "code": "526305",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526304",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Lonkhede",
+    "name_mr": "",
+    "code": "526304",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526307",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mhasale",
+    "name_mr": "",
+    "code": "526307",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526399",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pankheda",
+    "name_mr": "",
+    "code": "526399",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526425",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pimpalner",
+    "name_mr": "",
+    "code": "526425",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526396",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kaksewad",
+    "name_mr": "",
+    "code": "526396",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526402",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "526402",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526436",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Virkhel",
+    "name_mr": "",
+    "code": "526436",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526434",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sitarampur",
+    "name_mr": "",
+    "code": "526434",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526435",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kokangaon",
+    "name_mr": "",
+    "code": "526435",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-276339",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sakri (NP)",
+    "name_mr": "",
+    "code": "276339",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526380",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nawenagar",
+    "name_mr": "",
+    "code": "526380",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526384",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nandarakhi",
+    "name_mr": "",
+    "code": "526384",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526381",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jayramnagar",
+    "name_mr": "",
+    "code": "526381",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526365",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Rohan",
+    "name_mr": "",
+    "code": "526365",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526321",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mahir",
+    "name_mr": "",
+    "code": "526321",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526314",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malkhede",
+    "name_mr": "",
+    "code": "526314",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526379",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jebapur",
+    "name_mr": "",
+    "code": "526379",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526328",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "526328",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526421",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Samode",
+    "name_mr": "",
+    "code": "526421",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526422",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mhasdi Pr.pimpalner",
+    "name_mr": "",
+    "code": "526422",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526382",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kailasnagar",
+    "name_mr": "",
+    "code": "526382",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526439",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shenpur",
+    "name_mr": "",
+    "code": "526439",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526440",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhadane",
+    "name_mr": "",
+    "code": "526440",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526324",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gondas",
+    "name_mr": "",
+    "code": "526324",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526395",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ozarade",
+    "name_mr": "",
+    "code": "526395",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526441",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nawadane",
+    "name_mr": "",
+    "code": "526441",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526390",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dongarpada",
+    "name_mr": "",
+    "code": "526390",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526329",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Tamaswadi",
+    "name_mr": "",
+    "code": "526329",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526393",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pokare",
+    "name_mr": "",
+    "code": "526393",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526331",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Akkalpada",
+    "name_mr": "",
+    "code": "526331",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526442",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malpur",
+    "name_mr": "",
+    "code": "526442",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526330",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ichchapur",
+    "name_mr": "",
+    "code": "526330",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526401",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malyachapada",
+    "name_mr": "",
+    "code": "526401",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526297",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Aichale",
+    "name_mr": "",
+    "code": "526297",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526254",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chhadwel (korde)",
+    "name_mr": "",
+    "code": "526254",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526245",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sinbun",
+    "name_mr": "",
+    "code": "526245",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526244",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kaltek",
+    "name_mr": "",
+    "code": "526244",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526299",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Indawe",
+    "name_mr": "",
+    "code": "526299",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526298",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Hatti KH",
+    "name_mr": "",
+    "code": "526298",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526255",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Korde",
+    "name_mr": "",
+    "code": "526255",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526249",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jamade",
+    "name_mr": "",
+    "code": "526249",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526242",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vitawe",
+    "name_mr": "",
+    "code": "526242",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526243",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pachale",
+    "name_mr": "",
+    "code": "526243",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526250",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Khori",
+    "name_mr": "",
+    "code": "526250",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526238",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Panchmauli",
+    "name_mr": "",
+    "code": "526238",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526257",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Basar",
+    "name_mr": "",
+    "code": "526257",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526281",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Phophade",
+    "name_mr": "",
+    "code": "526281",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526252",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kuttarmare",
+    "name_mr": "",
+    "code": "526252",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526256",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Amkhel",
+    "name_mr": "",
+    "code": "526256",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526253",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhavali Vihir",
+    "name_mr": "",
+    "code": "526253",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526261",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Raikot",
+    "name_mr": "",
+    "code": "526261",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526280",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Akhade",
+    "name_mr": "",
+    "code": "526280",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526279",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vajadare",
+    "name_mr": "",
+    "code": "526279",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526259",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mavajipada",
+    "name_mr": "",
+    "code": "526259",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526277",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Varsus",
+    "name_mr": "",
+    "code": "526277",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526282",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhagapur",
+    "name_mr": "",
+    "code": "526282",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526266",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhortipada",
+    "name_mr": "",
+    "code": "526266",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526267",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Zirani",
+    "name_mr": "",
+    "code": "526267",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526278",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Runmali",
+    "name_mr": "",
+    "code": "526278",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526268",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chipalipada",
+    "name_mr": "",
+    "code": "526268",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526260",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Burudkhe",
+    "name_mr": "",
+    "code": "526260",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526263",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Devjipada",
+    "name_mr": "",
+    "code": "526263",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526262",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Lagalwal",
+    "name_mr": "",
+    "code": "526262",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526335",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Amali",
+    "name_mr": "",
+    "code": "526335",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526276",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vaskhedi",
+    "name_mr": "",
+    "code": "526276",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526283",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ubharandi",
+    "name_mr": "",
+    "code": "526283",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526271",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Raitel",
+    "name_mr": "",
+    "code": "526271",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526284",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jaitane",
+    "name_mr": "",
+    "code": "526284",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526272",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gulnare",
+    "name_mr": "",
+    "code": "526272",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526274",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Babhulade",
+    "name_mr": "",
+    "code": "526274",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526346",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chaupale",
+    "name_mr": "",
+    "code": "526346",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526273",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jambhore",
+    "name_mr": "",
+    "code": "526273",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526293",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Hodadane",
+    "name_mr": "",
+    "code": "526293",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526285",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Khudane",
+    "name_mr": "",
+    "code": "526285",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526355",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dahiwel",
+    "name_mr": "",
+    "code": "526355",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526339",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bodakikhadi",
+    "name_mr": "",
+    "code": "526339",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526292",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vehergaon",
+    "name_mr": "",
+    "code": "526292",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526291",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Rojgaon",
+    "name_mr": "",
+    "code": "526291",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526286",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Domkani",
+    "name_mr": "",
+    "code": "526286",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526463",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "526463",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526288",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhamer",
+    "name_mr": "",
+    "code": "526288",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526289",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "526289",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526337",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Torankudi",
+    "name_mr": "",
+    "code": "526337",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526334",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shivarimal",
+    "name_mr": "",
+    "code": "526334",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526306",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Amode",
+    "name_mr": "",
+    "code": "526306",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526344",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sutare",
+    "name_mr": "",
+    "code": "526344",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526343",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kuruswade",
+    "name_mr": "",
+    "code": "526343",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526342",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Machmal",
+    "name_mr": "",
+    "code": "526342",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526287",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Saltek",
+    "name_mr": "",
+    "code": "526287",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526340",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malangaon",
+    "name_mr": "",
+    "code": "526340",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526354",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Satarpada",
+    "name_mr": "",
+    "code": "526354",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526345",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gartad",
+    "name_mr": "",
+    "code": "526345",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526309",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Hatti BK",
+    "name_mr": "",
+    "code": "526309",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526295",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhadgaon (u)",
+    "name_mr": "",
+    "code": "526295",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526308",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ghanegaon",
+    "name_mr": "",
+    "code": "526308",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526294",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vardharne",
+    "name_mr": "",
+    "code": "526294",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526352",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jamkhel",
+    "name_mr": "",
+    "code": "526352",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526353",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shirsole",
+    "name_mr": "",
+    "code": "526353",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526310",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Phophare",
+    "name_mr": "",
+    "code": "526310",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526315",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chhadwel (p)",
+    "name_mr": "",
+    "code": "526315",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526357",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kirwade",
+    "name_mr": "",
+    "code": "526357",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526350",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kuher",
+    "name_mr": "",
+    "code": "526350",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526351",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Rohod",
+    "name_mr": "",
+    "code": "526351",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526311",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nagpur (v)",
+    "name_mr": "",
+    "code": "526311",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526316",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ashtane",
+    "name_mr": "",
+    "code": "526316",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526318",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Perejpur",
+    "name_mr": "",
+    "code": "526318",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526358",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bodgaon",
+    "name_mr": "",
+    "code": "526358",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526361",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ghodade",
+    "name_mr": "",
+    "code": "526361",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526348",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Hanumantpada",
+    "name_mr": "",
+    "code": "526348",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526359",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Maindane",
+    "name_mr": "",
+    "code": "526359",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526377",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhangai",
+    "name_mr": "",
+    "code": "526377",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526320",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kalambhir",
+    "name_mr": "",
+    "code": "526320",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526373",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Tembhe Pr. Warse",
+    "name_mr": "",
+    "code": "526373",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526360",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Amode",
+    "name_mr": "",
+    "code": "526360",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526372",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bagulnagar",
+    "name_mr": "",
+    "code": "526372",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526319",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ambapur",
+    "name_mr": "",
+    "code": "526319",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526317",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kawathe",
+    "name_mr": "",
+    "code": "526317",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526312",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ubhand",
+    "name_mr": "",
+    "code": "526312",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526374",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kuttarkhamb",
+    "name_mr": "",
+    "code": "526374",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526313",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Aine",
+    "name_mr": "",
+    "code": "526313",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526369",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Karanjati",
+    "name_mr": "",
+    "code": "526369",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526383",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "526383",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526363",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dholipada",
+    "name_mr": "",
+    "code": "526363",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526296",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Tembhe Pr.bhamer",
+    "name_mr": "",
+    "code": "526296",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526370",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Devli Pada",
+    "name_mr": "",
+    "code": "526370",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526371",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "526371",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526364",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhavali Vihir",
+    "name_mr": "",
+    "code": "526364",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526362",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Surpan",
+    "name_mr": "",
+    "code": "526362",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526378",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dapur",
+    "name_mr": "",
+    "code": "526378",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526375",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Punajinagar",
+    "name_mr": "",
+    "code": "526375",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526366",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Zanzale",
+    "name_mr": "",
+    "code": "526366",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526323",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhadane",
+    "name_mr": "",
+    "code": "526323",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526322",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shewali (D )",
+    "name_mr": "",
+    "code": "526322",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526327",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Datarti",
+    "name_mr": "",
+    "code": "526327",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526326",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nandwan",
+    "name_mr": "",
+    "code": "526326",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526400",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chinchpada",
+    "name_mr": "",
+    "code": "526400",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526332",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sayyadnagar",
+    "name_mr": "",
+    "code": "526332",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526392",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kudashi",
+    "name_mr": "",
+    "code": "526392",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526443",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nagpur (ko)",
+    "name_mr": "",
+    "code": "526443",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526325",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kokale",
+    "name_mr": "",
+    "code": "526325",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526424",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jirapur",
+    "name_mr": "",
+    "code": "526424",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526423",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chikase",
+    "name_mr": "",
+    "code": "526423",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526333",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhamnar",
+    "name_mr": "",
+    "code": "526333",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526388",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kalamba",
+    "name_mr": "",
+    "code": "526388",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526444",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kasare",
+    "name_mr": "",
+    "code": "526444",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526457",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vasmar",
+    "name_mr": "",
+    "code": "526457",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526418",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "526418",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526394",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mahuband",
+    "name_mr": "",
+    "code": "526394",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526419",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malanjan",
+    "name_mr": "",
+    "code": "526419",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526458",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chinchkhede",
+    "name_mr": "",
+    "code": "526458",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526391",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Savarimal",
+    "name_mr": "",
+    "code": "526391",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526445",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sayane",
+    "name_mr": "",
+    "code": "526445",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526417",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gavhanipada",
+    "name_mr": "",
+    "code": "526417",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526426",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Deshshirwade",
+    "name_mr": "",
+    "code": "526426",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526451",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nadse",
+    "name_mr": "",
+    "code": "526451",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526427",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kadyale",
+    "name_mr": "",
+    "code": "526427",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526403",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dangshirwade",
+    "name_mr": "",
+    "code": "526403",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526453",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Behed",
+    "name_mr": "",
+    "code": "526453",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526452",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Darkhel",
+    "name_mr": "",
+    "code": "526452",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526405",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Warse",
+    "name_mr": "",
+    "code": "526405",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526446",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "526446",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526450",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chhail",
+    "name_mr": "",
+    "code": "526450",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526407",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chorwad",
+    "name_mr": "",
+    "code": "526407",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526428",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shewadi",
+    "name_mr": "",
+    "code": "526428",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526431",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Balhane",
+    "name_mr": "",
+    "code": "526431",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526447",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dighawe",
+    "name_mr": "",
+    "code": "526447",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526406",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Lakhale",
+    "name_mr": "",
+    "code": "526406",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526420",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Umbhare",
+    "name_mr": "",
+    "code": "526420",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526412",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mapalgaon",
+    "name_mr": "",
+    "code": "526412",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526408",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pimpalgaon Kh.",
+    "name_mr": "",
+    "code": "526408",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526459",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mhasdi Pr.ner",
+    "name_mr": "",
+    "code": "526459",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526430",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhongade Digar",
+    "name_mr": "",
+    "code": "526430",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526429",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shelbari",
+    "name_mr": "",
+    "code": "526429",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526448",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Umbharti",
+    "name_mr": "",
+    "code": "526448",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526432",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pargaon",
+    "name_mr": "",
+    "code": "526432",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526437",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhamandhar",
+    "name_mr": "",
+    "code": "526437",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526454",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nilgavhan",
+    "name_mr": "",
+    "code": "526454",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526455",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vitai",
+    "name_mr": "",
+    "code": "526455",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526456",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kalgaon",
+    "name_mr": "",
+    "code": "526456",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526438",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mandane",
+    "name_mr": "",
+    "code": "526438",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526416",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vardadi",
+    "name_mr": "",
+    "code": "526416",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526460",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kakani",
+    "name_mr": "",
+    "code": "526460",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526462",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shewali (M )",
+    "name_mr": "",
+    "code": "526462",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526461",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhadgaon (ma)",
+    "name_mr": "",
+    "code": "526461",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526248",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Petale",
+    "name_mr": "",
+    "code": "526248",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526247",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Panhalipada",
+    "name_mr": "",
+    "code": "526247",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526241",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Valwhe",
+    "name_mr": "",
+    "code": "526241",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526300",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Balsane",
+    "name_mr": "",
+    "code": "526300",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526258",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ranjangaon",
+    "name_mr": "",
+    "code": "526258",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526301",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dusane",
+    "name_mr": "",
+    "code": "526301",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526398",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sukapur",
+    "name_mr": "",
+    "code": "526398",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526264",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nawapada",
+    "name_mr": "",
+    "code": "526264",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526449",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pratappur",
+    "name_mr": "",
+    "code": "526449",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526290",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "526290",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651791",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kelipada",
+    "name_mr": "",
+    "code": "651791",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526385",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Basarawal",
+    "name_mr": "",
+    "code": "526385",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-910826",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kaldar",
+    "name_mr": "",
+    "code": "910826",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526356",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bhondgaon",
+    "name_mr": "",
+    "code": "526356",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651807",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Umnyamal",
+    "name_mr": "",
+    "code": "651807",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526413",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bopkhel",
+    "name_mr": "",
+    "code": "526413",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651808",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Rampura",
+    "name_mr": "",
+    "code": "651808",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526367",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Charanmal",
+    "name_mr": "",
+    "code": "526367",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651785",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gavali",
+    "name_mr": "",
+    "code": "651785",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-910827",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Umberkhandwa",
+    "name_mr": "",
+    "code": "910827",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526336",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Dhaner",
+    "name_mr": "",
+    "code": "526336",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651773",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "651773",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526246",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Isarde",
+    "name_mr": "",
+    "code": "526246",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526303",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kadre",
+    "name_mr": "",
+    "code": "526303",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651786",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Maldipada",
+    "name_mr": "",
+    "code": "651786",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526368",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kadupada",
+    "name_mr": "",
+    "code": "526368",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651783",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Rainpada",
+    "name_mr": "",
+    "code": "651783",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526349",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kakarde",
+    "name_mr": "",
+    "code": "526349",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651793",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Amber",
+    "name_mr": "",
+    "code": "651793",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526387",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Khairkhunda",
+    "name_mr": "",
+    "code": "526387",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651781",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Jamzira",
+    "name_mr": "",
+    "code": "651781",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526341",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Khandbare",
+    "name_mr": "",
+    "code": "526341",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651780",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Zirnipada",
+    "name_mr": "",
+    "code": "651780",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526338",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kharadbari",
+    "name_mr": "",
+    "code": "526338",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651779",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bardipada",
+    "name_mr": "",
+    "code": "651779",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526404",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Khargaon",
+    "name_mr": "",
+    "code": "526404",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651810",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Vijaypur",
+    "name_mr": "",
+    "code": "651810",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526415",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Khatyal",
+    "name_mr": "",
+    "code": "526415",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526347",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Lavhartodi",
+    "name_mr": "",
+    "code": "526347",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651782",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Davnayapada",
+    "name_mr": "",
+    "code": "651782",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651794",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malamba",
+    "name_mr": "",
+    "code": "651794",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526389",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Malgaon Pr.warse",
+    "name_mr": "",
+    "code": "526389",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526409",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mohagaon",
+    "name_mr": "",
+    "code": "526409",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526411",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Manjari",
+    "name_mr": "",
+    "code": "526411",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651804",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chavdipada",
+    "name_mr": "",
+    "code": "651804",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651788",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chipi",
+    "name_mr": "",
+    "code": "651788",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651789",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "651789",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526376",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mohane",
+    "name_mr": "",
+    "code": "526376",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651787",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Gunjal",
+    "name_mr": "",
+    "code": "651787",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651776",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bandarpada",
+    "name_mr": "",
+    "code": "651776",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526270",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Nagaziri",
+    "name_mr": "",
+    "code": "526270",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526239",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pinjar Zadi",
+    "name_mr": "",
+    "code": "526239",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651770",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sabarsoda",
+    "name_mr": "",
+    "code": "651770",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526433",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shewage",
+    "name_mr": "",
+    "code": "526433",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651812",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sriramtanda",
+    "name_mr": "",
+    "code": "651812",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526414",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shiv",
+    "name_mr": "",
+    "code": "526414",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526251",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Titane",
+    "name_mr": "",
+    "code": "526251",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651809",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shivpatilpada",
+    "name_mr": "",
+    "code": "651809",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651774",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Ambemohor",
+    "name_mr": "",
+    "code": "651774",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526386",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Umarpata",
+    "name_mr": "",
+    "code": "526386",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651792",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Daripada",
+    "name_mr": "",
+    "code": "651792",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526397",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "526397",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526410",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Shenwad",
+    "name_mr": "",
+    "code": "526410",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526240",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Pangan",
+    "name_mr": "",
+    "code": "526240",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651772",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kolpada (N.V.)",
+    "name_mr": "",
+    "code": "651772",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651771",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mogarpada",
+    "name_mr": "",
+    "code": "651771",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526265",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Bramhanwel",
+    "name_mr": "",
+    "code": "526265",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-526464",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sakri",
+    "name_mr": "",
+    "code": "526464",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651805",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mavchipada",
+    "name_mr": "",
+    "code": "651805",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651800",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Holchyapada (N.V.)",
+    "name_mr": "",
+    "code": "651800",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651798",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Mahalyachapada (N.V.)",
+    "name_mr": "",
+    "code": "651798",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651801",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Harpada (N.V.)",
+    "name_mr": "",
+    "code": "651801",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651797",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Sander (N.V.)",
+    "name_mr": "",
+    "code": "651797",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  },
+  {
+    "village_id": "v-651799",
+    "district_id": "dhule",
+    "taluka_id": "sakri",
+    "name_en": "Kevdipada (N.V.)",
+    "name_mr": "",
+    "code": "651799",
+    "boundary_file": "/data/boundaries/villages/dhule/sakri.geojson"
+  }
+]

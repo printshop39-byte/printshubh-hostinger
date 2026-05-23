@@ -1,0 +1,1496 @@
+[
+  {
+    "village_id": "v-535481",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Tuyapar",
+    "name_mr": "",
+    "code": "535481",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535486",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Fulzari (Fv)",
+    "name_mr": "",
+    "code": "535486",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535492",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Katta",
+    "name_mr": "",
+    "code": "535492",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535494",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khidki",
+    "name_mr": "",
+    "code": "535494",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535495",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khanora",
+    "name_mr": "",
+    "code": "535495",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535490",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pipriya",
+    "name_mr": "",
+    "code": "535490",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535496",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Lakhapur",
+    "name_mr": "",
+    "code": "535496",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535487",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Mohagaon (Rithi)",
+    "name_mr": "",
+    "code": "535487",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535502",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "535502",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535503",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bothiya(palora)",
+    "name_mr": "",
+    "code": "535503",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535488",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ghoti",
+    "name_mr": "",
+    "code": "535488",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535489",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Salai",
+    "name_mr": "",
+    "code": "535489",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535497",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "535497",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535498",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Fulzari",
+    "name_mr": "",
+    "code": "535498",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535501",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Saundani",
+    "name_mr": "",
+    "code": "535501",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535500",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Warghat",
+    "name_mr": "",
+    "code": "535500",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535521",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Jamuniya",
+    "name_mr": "",
+    "code": "535521",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535512",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "535512",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535511",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "535511",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535499",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hiwara (Bazar)",
+    "name_mr": "",
+    "code": "535499",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535517",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chiknapur",
+    "name_mr": "",
+    "code": "535517",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535520",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Tuyapar",
+    "name_mr": "",
+    "code": "535520",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535533",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Mukanapur",
+    "name_mr": "",
+    "code": "535533",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535535",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chorkhumari",
+    "name_mr": "",
+    "code": "535535",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535530",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Umri",
+    "name_mr": "",
+    "code": "535530",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535541",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chhatrapur",
+    "name_mr": "",
+    "code": "535541",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535528",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chichda",
+    "name_mr": "",
+    "code": "535528",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535531",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Maharajpur",
+    "name_mr": "",
+    "code": "535531",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535532",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Nahabi",
+    "name_mr": "",
+    "code": "535532",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535584",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Panchala (BK)",
+    "name_mr": "",
+    "code": "535584",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535585",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Mahadula",
+    "name_mr": "",
+    "code": "535585",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535574",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sivani (Rithi)",
+    "name_mr": "",
+    "code": "535574",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535577",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chakorda (Rithi)",
+    "name_mr": "",
+    "code": "535577",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535579",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sagrampur",
+    "name_mr": "",
+    "code": "535579",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535595",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Nagardhan",
+    "name_mr": "",
+    "code": "535595",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535572",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kawalapur",
+    "name_mr": "",
+    "code": "535572",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535573",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Dudhala (R)",
+    "name_mr": "",
+    "code": "535573",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535593",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Devhada (R)",
+    "name_mr": "",
+    "code": "535593",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535591",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khandala (Kh)",
+    "name_mr": "",
+    "code": "535591",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535594",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chichala",
+    "name_mr": "",
+    "code": "535594",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535605",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Masala",
+    "name_mr": "",
+    "code": "535605",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535592",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Minsi (Rithi)",
+    "name_mr": "",
+    "code": "535592",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535597",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hamlapuri",
+    "name_mr": "",
+    "code": "535597",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535598",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hatodi",
+    "name_mr": "",
+    "code": "535598",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535600",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kachurwahi",
+    "name_mr": "",
+    "code": "535600",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535604",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "535604",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535599",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Lohadongari",
+    "name_mr": "",
+    "code": "535599",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535586",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bhandar Bodi",
+    "name_mr": "",
+    "code": "535586",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535566",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Patgowari",
+    "name_mr": "",
+    "code": "535566",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535560",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Rampuri (R)",
+    "name_mr": "",
+    "code": "535560",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535556",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Mandri",
+    "name_mr": "",
+    "code": "535556",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535561",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kawadak",
+    "name_mr": "",
+    "code": "535561",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535534",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Dongri",
+    "name_mr": "",
+    "code": "535534",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535555",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Guguldoh",
+    "name_mr": "",
+    "code": "535555",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535553",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Musewadi",
+    "name_mr": "",
+    "code": "535553",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535552",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Gudegaon",
+    "name_mr": "",
+    "code": "535552",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535554",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "535554",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535543",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Deoli",
+    "name_mr": "",
+    "code": "535543",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535542",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bondri",
+    "name_mr": "",
+    "code": "535542",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535548",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chaugan",
+    "name_mr": "",
+    "code": "535548",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535550",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sonpur",
+    "name_mr": "",
+    "code": "535550",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535610",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kandri (CT)",
+    "name_mr": "",
+    "code": "535610",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535549",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pindkapur",
+    "name_mr": "",
+    "code": "535549",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535551",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Mangli",
+    "name_mr": "",
+    "code": "535551",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535545",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bhilewada",
+    "name_mr": "",
+    "code": "535545",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535546",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Soneghat",
+    "name_mr": "",
+    "code": "535546",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535544",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hiwara (Bende)",
+    "name_mr": "",
+    "code": "535544",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535547",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "535547",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535608",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Shivani (Bhodaki)",
+    "name_mr": "",
+    "code": "535608",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535559",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kelapur (R)",
+    "name_mr": "",
+    "code": "535559",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535589",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "535589",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535580",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "535580",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535569",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bijewada",
+    "name_mr": "",
+    "code": "535569",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535575",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Manapur",
+    "name_mr": "",
+    "code": "535575",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535582",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khindsi (R)",
+    "name_mr": "",
+    "code": "535582",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535607",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "535607",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535576",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pachpaoli",
+    "name_mr": "",
+    "code": "535576",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535581",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "535581",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535578",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Navegaon (R)",
+    "name_mr": "",
+    "code": "535578",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535590",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "535590",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535408",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hiwari",
+    "name_mr": "",
+    "code": "535408",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535606",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ghoti",
+    "name_mr": "",
+    "code": "535606",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-94",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535526",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chorbahuli (Fo)",
+    "name_mr": "",
+    "code": "535526",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535563",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "535563",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535558",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pipriyapeth (R)",
+    "name_mr": "",
+    "code": "535558",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535565",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Mansar",
+    "name_mr": "",
+    "code": "535565",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535562",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sitalwadi",
+    "name_mr": "",
+    "code": "535562",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-251353",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ramtek (M Cl)",
+    "name_mr": "",
+    "code": "251353",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535564",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "535564",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535609",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kirnapur",
+    "name_mr": "",
+    "code": "535609",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535587",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hasapur",
+    "name_mr": "",
+    "code": "535587",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535570",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "535570",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535557",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "535557",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535583",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Panchala (KH)",
+    "name_mr": "",
+    "code": "535583",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535588",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Salaimeta",
+    "name_mr": "",
+    "code": "535588",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535571",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bhojapur",
+    "name_mr": "",
+    "code": "535571",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535458",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Dulara",
+    "name_mr": "",
+    "code": "535458",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535459",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chawari",
+    "name_mr": "",
+    "code": "535459",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535466",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bandra",
+    "name_mr": "",
+    "code": "535466",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535469",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bakhari (Ri)",
+    "name_mr": "",
+    "code": "535469",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535468",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Usripar",
+    "name_mr": "",
+    "code": "535468",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535464",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Goreghat",
+    "name_mr": "",
+    "code": "535464",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535467",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sawara",
+    "name_mr": "",
+    "code": "535467",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535471",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kadbikheda",
+    "name_mr": "",
+    "code": "535471",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535465",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "535465",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535473",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kamthi",
+    "name_mr": "",
+    "code": "535473",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535474",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Wadamba (Malgujari)",
+    "name_mr": "",
+    "code": "535474",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535472",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Dongartal",
+    "name_mr": "",
+    "code": "535472",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535463",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Nawegaon (Kh)",
+    "name_mr": "",
+    "code": "535463",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-102",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535484",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Zinzariya",
+    "name_mr": "",
+    "code": "535484",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535485",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khapa",
+    "name_mr": "",
+    "code": "535485",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535475",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Wadamba (Rayatwari)",
+    "name_mr": "",
+    "code": "535475",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535483",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Deolapar",
+    "name_mr": "",
+    "code": "535483",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535479",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Karajghat",
+    "name_mr": "",
+    "code": "535479",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535482",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Umri",
+    "name_mr": "",
+    "code": "535482",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535476",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "535476",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535477",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khirsadi (Rithi)",
+    "name_mr": "",
+    "code": "535477",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535491",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sillari",
+    "name_mr": "",
+    "code": "535491",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535478",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Belda",
+    "name_mr": "",
+    "code": "535478",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535493",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sindewani",
+    "name_mr": "",
+    "code": "535493",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535522",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Dahoda",
+    "name_mr": "",
+    "code": "535522",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535504",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "535504",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535509",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "WanPauni",
+    "name_mr": "",
+    "code": "535509",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535507",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sitapur",
+    "name_mr": "",
+    "code": "535507",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535523",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "535523",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535505",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "535505",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535508",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pauni",
+    "name_mr": "",
+    "code": "535508",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535513",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Salai",
+    "name_mr": "",
+    "code": "535513",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535506",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Moudi",
+    "name_mr": "",
+    "code": "535506",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535510",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kharpada",
+    "name_mr": "",
+    "code": "535510",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535525",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pathrai",
+    "name_mr": "",
+    "code": "535525",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535524",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ambazari",
+    "name_mr": "",
+    "code": "535524",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535519",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sarra",
+    "name_mr": "",
+    "code": "535519",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535514",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ghoti",
+    "name_mr": "",
+    "code": "535514",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535536",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chorbahuli (Mogra)",
+    "name_mr": "",
+    "code": "535536",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535515",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ramjam",
+    "name_mr": "",
+    "code": "535515",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535527",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Maharapeth (R)",
+    "name_mr": "",
+    "code": "535527",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535539",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "535539",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535538",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khumari",
+    "name_mr": "",
+    "code": "535538",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535529",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Murda",
+    "name_mr": "",
+    "code": "535529",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535540",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sarakha",
+    "name_mr": "",
+    "code": "535540",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535537",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Bhondewada",
+    "name_mr": "",
+    "code": "535537",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535603",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chokhala",
+    "name_mr": "",
+    "code": "535603",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535602",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Kirnapur",
+    "name_mr": "",
+    "code": "535602",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535601",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khodegaon",
+    "name_mr": "",
+    "code": "535601",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535596",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Ajani",
+    "name_mr": "",
+    "code": "535596",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-105",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535456",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Manegaon Tek",
+    "name_mr": "",
+    "code": "535456",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535457",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Karwahi",
+    "name_mr": "",
+    "code": "535457",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535454",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Khursapar",
+    "name_mr": "",
+    "code": "535454",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535455",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Garra",
+    "name_mr": "",
+    "code": "535455",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535460",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Lodha",
+    "name_mr": "",
+    "code": "535460",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535461",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Sitapur",
+    "name_mr": "",
+    "code": "535461",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535462",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pindkapar",
+    "name_mr": "",
+    "code": "535462",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535480",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Murzad",
+    "name_mr": "",
+    "code": "535480",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535518",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pusda",
+    "name_mr": "",
+    "code": "535518",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535470",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Totaladoh",
+    "name_mr": "",
+    "code": "535470",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535567",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Hetitola",
+    "name_mr": "",
+    "code": "535567",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-535516",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Tangla",
+    "name_mr": "",
+    "code": "535516",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-651850",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Chikanapur",
+    "name_mr": "",
+    "code": "651850",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-651851",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pusda (RHV-2) (N.V.)",
+    "name_mr": "",
+    "code": "651851",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  },
+  {
+    "village_id": "v-651849",
+    "district_id": "nagpur",
+    "taluka_id": "ramtek",
+    "name_en": "Pusda (RHV-1) (N.V.)",
+    "name_mr": "",
+    "code": "651849",
+    "boundary_file": "/data/boundaries/villages/nagpur/ramtek.geojson"
+  }
+]

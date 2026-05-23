@@ -1,0 +1,983 @@
+[
+  {
+    "village_id": "v-537170",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Khurshipar",
+    "name_mr": "",
+    "code": "537170",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537169",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pauldawana",
+    "name_mr": "",
+    "code": "537169",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537171",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kesalwada (pawar)",
+    "name_mr": "",
+    "code": "537171",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537172",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "537172",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537173",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Gondsawari",
+    "name_mr": "",
+    "code": "537173",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537203",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Sindipar",
+    "name_mr": "",
+    "code": "537203",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537204",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "537204",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537174",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Chikhalbodi",
+    "name_mr": "",
+    "code": "537174",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537176",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Rengepar (kotha)",
+    "name_mr": "",
+    "code": "537176",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537177",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Salebhata",
+    "name_mr": "",
+    "code": "537177",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537205",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Nilagondi",
+    "name_mr": "",
+    "code": "537205",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "protected-forest",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "PROTECTED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537206",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Morgaon",
+    "name_mr": "",
+    "code": "537206",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537180",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Singori",
+    "name_mr": "",
+    "code": "537180",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537181",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Khedepar",
+    "name_mr": "",
+    "code": "537181",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537175",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Daitmangli",
+    "name_mr": "",
+    "code": "537175",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537179",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Masalmeta",
+    "name_mr": "",
+    "code": "537179",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537207",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Rajegaon",
+    "name_mr": "",
+    "code": "537207",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537183",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Sonekhari",
+    "name_mr": "",
+    "code": "537183",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537182",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mendha (somalwada)",
+    "name_mr": "",
+    "code": "537182",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537178",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "537178",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537185",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Somalwada",
+    "name_mr": "",
+    "code": "537185",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537208",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Samewada",
+    "name_mr": "",
+    "code": "537208",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537184",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kinhi (Gadegaon)",
+    "name_mr": "",
+    "code": "537184",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537187",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Lakhori",
+    "name_mr": "",
+    "code": "537187",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537186",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Yetewahi",
+    "name_mr": "",
+    "code": "537186",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537188",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Alesur",
+    "name_mr": "",
+    "code": "537188",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537191",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "537191",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537192",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "537192",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537209",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "537209",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-276323",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Lakhani (NP)",
+    "name_mr": "",
+    "code": "276323",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537189",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "537189",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537210",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "537210",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537272",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Murmadi (CT)",
+    "name_mr": "",
+    "code": "537272",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537193",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kesalwada (Waghaye)",
+    "name_mr": "",
+    "code": "537193",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537194",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Garada",
+    "name_mr": "",
+    "code": "537194",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537197",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Seloti",
+    "name_mr": "",
+    "code": "537197",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537195",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Sipewada",
+    "name_mr": "",
+    "code": "537195",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537198",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mendha (pohara)",
+    "name_mr": "",
+    "code": "537198",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537213",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pohara",
+    "name_mr": "",
+    "code": "537213",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537196",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Channa",
+    "name_mr": "",
+    "code": "537196",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "rampuri-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "RAMPURI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537217",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Dhabetekari",
+    "name_mr": "",
+    "code": "537217",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537200",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Malkazari",
+    "name_mr": "",
+    "code": "537200",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537199",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Dhanala",
+    "name_mr": "",
+    "code": "537199",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537218",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "537218",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537214",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "537214",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537215",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Gadpendhari",
+    "name_mr": "",
+    "code": "537215",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537216",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Shivani",
+    "name_mr": "",
+    "code": "537216",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537201",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Purkabodi",
+    "name_mr": "",
+    "code": "537201",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537219",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Miregaon",
+    "name_mr": "",
+    "code": "537219",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537224",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kaneri",
+    "name_mr": "",
+    "code": "537224",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537222",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mogara",
+    "name_mr": "",
+    "code": "537222",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537202",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Khaurshipar",
+    "name_mr": "",
+    "code": "537202",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537220",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Rampuri",
+    "name_mr": "",
+    "code": "537220",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "purkabori-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "PURKABORI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537221",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Nanhori",
+    "name_mr": "",
+    "code": "537221",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537223",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "537223",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537229",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Sonmala",
+    "name_mr": "",
+    "code": "537229",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537228",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "537228",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537225",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Dighori",
+    "name_mr": "",
+    "code": "537225",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537240",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "537240",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537244",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mangali",
+    "name_mr": "",
+    "code": "537244",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537241",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "537241",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537227",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Murmadi (Tup)",
+    "name_mr": "",
+    "code": "537227",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537239",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kesalwada",
+    "name_mr": "",
+    "code": "537239",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537238",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Rengola",
+    "name_mr": "",
+    "code": "537238",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537242",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Gurdha",
+    "name_mr": "",
+    "code": "537242",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537226",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "537226",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537237",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Alesur",
+    "name_mr": "",
+    "code": "537237",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537230",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Bhugaon",
+    "name_mr": "",
+    "code": "537230",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537243",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Macharana",
+    "name_mr": "",
+    "code": "537243",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537231",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "537231",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537234",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kolara",
+    "name_mr": "",
+    "code": "537234",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537232",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Zarap",
+    "name_mr": "",
+    "code": "537232",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537250",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "537250",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537249",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Jewanala",
+    "name_mr": "",
+    "code": "537249",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537245",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Bandrazari",
+    "name_mr": "",
+    "code": "537245",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537247",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Murmadi",
+    "name_mr": "",
+    "code": "537247",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537251",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Ghodezari",
+    "name_mr": "",
+    "code": "537251",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537233",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kolari",
+    "name_mr": "",
+    "code": "537233",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537248",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Murmadi (Hamesha)",
+    "name_mr": "",
+    "code": "537248",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537253",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kawadsi",
+    "name_mr": "",
+    "code": "537253",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537246",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "537246",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537252",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "537252",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537266",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kharashi",
+    "name_mr": "",
+    "code": "537266",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537235",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "537235",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537254",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pahadi",
+    "name_mr": "",
+    "code": "537254",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537267",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Khunari",
+    "name_mr": "",
+    "code": "537267",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537257",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kotali",
+    "name_mr": "",
+    "code": "537257",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537263",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Mangapur",
+    "name_mr": "",
+    "code": "537263",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537255",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Sangaon",
+    "name_mr": "",
+    "code": "537255",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537236",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "537236",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537256",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Deori (Hemesha)",
+    "name_mr": "",
+    "code": "537256",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537258",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Deori",
+    "name_mr": "",
+    "code": "537258",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537265",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Palandur",
+    "name_mr": "",
+    "code": "537265",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537264",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Kawale Wada",
+    "name_mr": "",
+    "code": "537264",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537262",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Gondi",
+    "name_mr": "",
+    "code": "537262",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537268",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "537268",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537261",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Rajoli",
+    "name_mr": "",
+    "code": "537261",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "wakal-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "WAKAL RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537260",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Dhwarkheda",
+    "name_mr": "",
+    "code": "537260",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537270",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "537270",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537259",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Wakal",
+    "name_mr": "",
+    "code": "537259",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537271",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Marhegaon",
+    "name_mr": "",
+    "code": "537271",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537269",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Narva",
+    "name_mr": "",
+    "code": "537269",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537211",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Rengepar (Kohali)",
+    "name_mr": "",
+    "code": "537211",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  },
+  {
+    "village_id": "v-537212",
+    "district_id": "bhandara",
+    "taluka_id": "lakhani",
+    "name_en": "Chichtola",
+    "name_mr": "",
+    "code": "537212",
+    "boundary_file": "/data/boundaries/villages/bhandara/lakhani.geojson"
+  }
+]

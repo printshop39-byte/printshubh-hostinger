@@ -1,0 +1,51 @@
+[
+  {
+    "taluka_id": "manora",
+    "district_id": "washim-502",
+    "name_en": "MANORA",
+    "name_mr": "",
+    "lgd": "03998"
+  },
+  {
+    "taluka_id": "malegaon",
+    "district_id": "washim-502",
+    "name_en": "MALEGAON",
+    "name_mr": "",
+    "lgd": "03995"
+  },
+  {
+    "taluka_id": "karanja",
+    "district_id": "washim-502",
+    "name_en": "KARANJA",
+    "name_mr": "",
+    "lgd": "03997"
+  },
+  {
+    "taluka_id": "washim",
+    "district_id": "washim-502",
+    "name_en": "WASHIM",
+    "name_mr": "",
+    "lgd": "03999"
+  },
+  {
+    "taluka_id": "risod",
+    "district_id": "washim-502",
+    "name_en": "RISOD",
+    "name_mr": "",
+    "lgd": "04000"
+  },
+  {
+    "taluka_id": "mangrulpir",
+    "district_id": "washim-502",
+    "name_en": "MANGRULPIR",
+    "name_mr": "",
+    "lgd": "03996"
+  },
+  {
+    "taluka_id": "darwha",
+    "district_id": "washim-502",
+    "name_en": "DARWHA",
+    "name_mr": "",
+    "lgd": "04083"
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "village_id": "v-535771",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "535771",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-805410",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bidgaon-Tarodi (Kh)-Pandhurna (NP)",
+    "name_mr": "",
+    "code": "805410",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535778",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "535778",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535774",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bhamewada",
+    "name_mr": "",
+    "code": "535774",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535782",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Tarodi Bk",
+    "name_mr": "",
+    "code": "535782",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535781",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Dighori Bk",
+    "name_mr": "",
+    "code": "535781",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535780",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Garla",
+    "name_mr": "",
+    "code": "535780",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535779",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Palsad",
+    "name_mr": "",
+    "code": "535779",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535775",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Asalwada",
+    "name_mr": "",
+    "code": "535775",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535777",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Yekardi",
+    "name_mr": "",
+    "code": "535777",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535776",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Ambadi",
+    "name_mr": "",
+    "code": "535776",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535786",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Khedi",
+    "name_mr": "",
+    "code": "535786",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535795",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kesori",
+    "name_mr": "",
+    "code": "535795",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535796",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Jakhegaon",
+    "name_mr": "",
+    "code": "535796",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535797",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Chikna",
+    "name_mr": "",
+    "code": "535797",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535794",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Selu",
+    "name_mr": "",
+    "code": "535794",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535787",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "535787",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535798",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "535798",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535793",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Nimbha",
+    "name_mr": "",
+    "code": "535793",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535801",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bhugaon",
+    "name_mr": "",
+    "code": "535801",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535790",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Temsana",
+    "name_mr": "",
+    "code": "535790",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535791",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Adaka",
+    "name_mr": "",
+    "code": "535791",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535802",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Ninhai",
+    "name_mr": "",
+    "code": "535802",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535792",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kem",
+    "name_mr": "",
+    "code": "535792",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535803",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "535803",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535800",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Mangali",
+    "name_mr": "",
+    "code": "535800",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535799",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Ranmangali",
+    "name_mr": "",
+    "code": "535799",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535804",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Shivani",
+    "name_mr": "",
+    "code": "535804",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535808",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Nanha",
+    "name_mr": "",
+    "code": "535808",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535807",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Nerala",
+    "name_mr": "",
+    "code": "535807",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535805",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Zharap",
+    "name_mr": "",
+    "code": "535805",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535788",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Pandherkawada",
+    "name_mr": "",
+    "code": "535788",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535735",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Tandulwani",
+    "name_mr": "",
+    "code": "535735",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535736",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Babulkheda",
+    "name_mr": "",
+    "code": "535736",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535738",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Khapa",
+    "name_mr": "",
+    "code": "535738",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535737",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "535737",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535739",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Gumthi",
+    "name_mr": "",
+    "code": "535739",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535740",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Lonkhairi",
+    "name_mr": "",
+    "code": "535740",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535741",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Nanda",
+    "name_mr": "",
+    "code": "535741",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535745",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bina",
+    "name_mr": "",
+    "code": "535745",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535742",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Khaparkheda",
+    "name_mr": "",
+    "code": "535742",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-251358",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Mahadula (NP)",
+    "name_mr": "",
+    "code": "251358",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535810",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Koradi (CT)",
+    "name_mr": "",
+    "code": "535810",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535744",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Suradevi",
+    "name_mr": "",
+    "code": "535744",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535747",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Waregaon",
+    "name_mr": "",
+    "code": "535747",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535746",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bidbina",
+    "name_mr": "",
+    "code": "535746",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535743",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Panjara",
+    "name_mr": "",
+    "code": "535743",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-277294",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kamptee (CB)",
+    "name_mr": "",
+    "code": "277294",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535748",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kawtha",
+    "name_mr": "",
+    "code": "535748",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535751",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Khairy",
+    "name_mr": "",
+    "code": "535751",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535811",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Yerkheda (CT)",
+    "name_mr": "",
+    "code": "535811",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535749",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Khasala",
+    "name_mr": "",
+    "code": "535749",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-251356",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kamptee (M Cl)",
+    "name_mr": "",
+    "code": "251356",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535750",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Mhasala",
+    "name_mr": "",
+    "code": "535750",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535755",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Ajani",
+    "name_mr": "",
+    "code": "535755",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535756",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Gada",
+    "name_mr": "",
+    "code": "535756",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535757",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "535757",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535753",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Ranala",
+    "name_mr": "",
+    "code": "535753",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535752",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bhilgaon",
+    "name_mr": "",
+    "code": "535752",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535754",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Ghorpad",
+    "name_mr": "",
+    "code": "535754",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535758",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Undgaon",
+    "name_mr": "",
+    "code": "535758",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535759",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "535759",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535764",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Pawangaon",
+    "name_mr": "",
+    "code": "535764",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535763",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "535763",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535761",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Avandhi",
+    "name_mr": "",
+    "code": "535761",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535760",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Bhowari",
+    "name_mr": "",
+    "code": "535760",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535762",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Lihigaon",
+    "name_mr": "",
+    "code": "535762",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535772",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Gumthala",
+    "name_mr": "",
+    "code": "535772",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535767",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Dhargaon",
+    "name_mr": "",
+    "code": "535767",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535765",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Powari",
+    "name_mr": "",
+    "code": "535765",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535768",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "535768",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535766",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kapsi Bk",
+    "name_mr": "",
+    "code": "535766",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535770",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kadoli",
+    "name_mr": "",
+    "code": "535770",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535773",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Wadoda",
+    "name_mr": "",
+    "code": "535773",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535769",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Asoli.",
+    "name_mr": "",
+    "code": "535769",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535789",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Kusumbi",
+    "name_mr": "",
+    "code": "535789",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  },
+  {
+    "village_id": "v-535806",
+    "district_id": "nagpur",
+    "taluka_id": "kamptee",
+    "name_en": "Warambha",
+    "name_mr": "",
+    "code": "535806",
+    "boundary_file": "/data/boundaries/villages/nagpur/kamptee.geojson"
+  }
+]

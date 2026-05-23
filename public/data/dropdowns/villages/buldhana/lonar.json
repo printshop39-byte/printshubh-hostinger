@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-529567",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Yevati",
+    "name_mr": "",
+    "code": "529567",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529583",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Sonuna",
+    "name_mr": "",
+    "code": "529583",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529575",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pangradola",
+    "name_mr": "",
+    "code": "529575",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529568",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Parda Pr.lonar",
+    "name_mr": "",
+    "code": "529568",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529576",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Gotra",
+    "name_mr": "",
+    "code": "529576",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529528",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Wazar",
+    "name_mr": "",
+    "code": "529528",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529574",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Ajispur",
+    "name_mr": "",
+    "code": "529574",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529584",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Shivni Jat",
+    "name_mr": "",
+    "code": "529584",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529587",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Titavi",
+    "name_mr": "",
+    "code": "529587",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529588",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Khurampur",
+    "name_mr": "",
+    "code": "529588",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529585",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pathra",
+    "name_mr": "",
+    "code": "529585",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529594",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Madhi",
+    "name_mr": "",
+    "code": "529594",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529586",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bhiwapur",
+    "name_mr": "",
+    "code": "529586",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529591",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Nandra",
+    "name_mr": "",
+    "code": "529591",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529592",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Gandhari",
+    "name_mr": "",
+    "code": "529592",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529593",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Sawargaon Mundhe",
+    "name_mr": "",
+    "code": "529593",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529589",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Dhad",
+    "name_mr": "",
+    "code": "529589",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529590",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Raigaon",
+    "name_mr": "",
+    "code": "529590",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529535",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Narsapur",
+    "name_mr": "",
+    "code": "529535",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529534",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Banda",
+    "name_mr": "",
+    "code": "529534",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529531",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "529531",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529536",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "529536",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529530",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Shivni Pisa",
+    "name_mr": "",
+    "code": "529530",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529532",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Rajni",
+    "name_mr": "",
+    "code": "529532",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529533",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bhanapur",
+    "name_mr": "",
+    "code": "529533",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529529",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Gunjapur",
+    "name_mr": "",
+    "code": "529529",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529538",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Anjani Kh",
+    "name_mr": "",
+    "code": "529538",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529545",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "529545",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529537",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Yesapur",
+    "name_mr": "",
+    "code": "529537",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529511",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Khalegaon",
+    "name_mr": "",
+    "code": "529511",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529549",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Weni",
+    "name_mr": "",
+    "code": "529549",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529547",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Mohotkhed",
+    "name_mr": "",
+    "code": "529547",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529543",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pardi Pr.mehkar",
+    "name_mr": "",
+    "code": "529543",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529546",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Matarkhed",
+    "name_mr": "",
+    "code": "529546",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529544",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pardi Pr.lonar",
+    "name_mr": "",
+    "code": "529544",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529540",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Udanapur",
+    "name_mr": "",
+    "code": "529540",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529541",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Wadgaon Tejan",
+    "name_mr": "",
+    "code": "529541",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529548",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "529548",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529539",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Walhur",
+    "name_mr": "",
+    "code": "529539",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529505",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Mendwa",
+    "name_mr": "",
+    "code": "529505",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529510",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Maharchikna",
+    "name_mr": "",
+    "code": "529510",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529553",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bagulkhed",
+    "name_mr": "",
+    "code": "529553",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529554",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Gunjkhed",
+    "name_mr": "",
+    "code": "529554",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529512",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "529512",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529552",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Gundha",
+    "name_mr": "",
+    "code": "529552",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529542",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "529542",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529556",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Koyali",
+    "name_mr": "",
+    "code": "529556",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529506",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bibi",
+    "name_mr": "",
+    "code": "529506",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529509",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Khaparkhed",
+    "name_mr": "",
+    "code": "529509",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529508",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bramhan Chikna",
+    "name_mr": "",
+    "code": "529508",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529573",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Jafrabad",
+    "name_mr": "",
+    "code": "529573",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529558",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Shara",
+    "name_mr": "",
+    "code": "529558",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529513",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "529513",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529507",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pimpri Khandare",
+    "name_mr": "",
+    "code": "529507",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529580",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Dabha",
+    "name_mr": "",
+    "code": "529580",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529555",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pahur",
+    "name_mr": "",
+    "code": "529555",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529550",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Kamaljapur",
+    "name_mr": "",
+    "code": "529550",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529557",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pimpalkhuta",
+    "name_mr": "",
+    "code": "529557",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529520",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Govardhan Nagar",
+    "name_mr": "",
+    "code": "529520",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529561",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Matmal",
+    "name_mr": "",
+    "code": "529561",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529519",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Chorpangra",
+    "name_mr": "",
+    "code": "529519",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529559",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Gaikhed",
+    "name_mr": "",
+    "code": "529559",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529572",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Hirdav",
+    "name_mr": "",
+    "code": "529572",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529514",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Shindi",
+    "name_mr": "",
+    "code": "529514",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-251308",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Lonar (M CI)",
+    "name_mr": "",
+    "code": "251308",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529515",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Hiwarakhand",
+    "name_mr": "",
+    "code": "529515",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529551",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Palaskhed",
+    "name_mr": "",
+    "code": "529551",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529517",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Chikhala",
+    "name_mr": "",
+    "code": "529517",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529560",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Sarasawati",
+    "name_mr": "",
+    "code": "529560",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529579",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Ardav",
+    "name_mr": "",
+    "code": "529579",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529516",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Hatta",
+    "name_mr": "",
+    "code": "529516",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529518",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "529518",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529523",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "529523",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529562",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Tambola",
+    "name_mr": "",
+    "code": "529562",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529521",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Kingaon jatu",
+    "name_mr": "",
+    "code": "529521",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529522",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Devanagar",
+    "name_mr": "",
+    "code": "529522",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529571",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Pimpalner",
+    "name_mr": "",
+    "code": "529571",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529582",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Wadhav",
+    "name_mr": "",
+    "code": "529582",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529563",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "529563",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529581",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Kaulkhed",
+    "name_mr": "",
+    "code": "529581",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529578",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Jambul",
+    "name_mr": "",
+    "code": "529578",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529526",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bibkhed",
+    "name_mr": "",
+    "code": "529526",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529525",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Bhumrala",
+    "name_mr": "",
+    "code": "529525",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529566",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Dhayfal",
+    "name_mr": "",
+    "code": "529566",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529565",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Chincholi Sangle",
+    "name_mr": "",
+    "code": "529565",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529564",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Deulgaon Kundpal",
+    "name_mr": "",
+    "code": "529564",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529570",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Kundlas",
+    "name_mr": "",
+    "code": "529570",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529524",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Sawargaon Teli",
+    "name_mr": "",
+    "code": "529524",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529569",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Ambhora",
+    "name_mr": "",
+    "code": "529569",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529527",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "529527",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  },
+  {
+    "village_id": "v-529577",
+    "district_id": "buldhana",
+    "taluka_id": "lonar",
+    "name_en": "Deulgaon Waisa",
+    "name_mr": "",
+    "code": "529577",
+    "boundary_file": "/data/boundaries/villages/buldhana/lonar.geojson"
+  }
+]

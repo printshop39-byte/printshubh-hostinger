@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-559041",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Rupur",
+    "name_mr": "",
+    "code": "559041",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559039",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Vighanwadi",
+    "name_mr": "",
+    "code": "559039",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559042",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Gomalwada",
+    "name_mr": "",
+    "code": "559042",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559078",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Aurangpur",
+    "name_mr": "",
+    "code": "559078",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559089",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Takalwadi",
+    "name_mr": "",
+    "code": "559089",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559087",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Yewalwadi",
+    "name_mr": "",
+    "code": "559087",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559088",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Vanjarwadi",
+    "name_mr": "",
+    "code": "559088",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559080",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "559080",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559056",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Jatnandur",
+    "name_mr": "",
+    "code": "559056",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559077",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Hiversinga",
+    "name_mr": "",
+    "code": "559077",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559076",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Khokermoha",
+    "name_mr": "",
+    "code": "559076",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559083",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Raimoha",
+    "name_mr": "",
+    "code": "559083",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559046",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Kholyachiwadi",
+    "name_mr": "",
+    "code": "559046",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559084",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Sangalwadi",
+    "name_mr": "",
+    "code": "559084",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559045",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Pimpalyachiwadi",
+    "name_mr": "",
+    "code": "559045",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559049",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Madmapuri",
+    "name_mr": "",
+    "code": "559049",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559048",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Wadali",
+    "name_mr": "",
+    "code": "559048",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559079",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Shirapur Dhumal",
+    "name_mr": "",
+    "code": "559079",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559047",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Sawaswadi",
+    "name_mr": "",
+    "code": "559047",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559082",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "559082",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559050",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Bhadkel",
+    "name_mr": "",
+    "code": "559050",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559090",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Baragwadi",
+    "name_mr": "",
+    "code": "559090",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559092",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Malkachiwadi",
+    "name_mr": "",
+    "code": "559092",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559054",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Ukhalwadi",
+    "name_mr": "",
+    "code": "559054",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559081",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Ghugewadi",
+    "name_mr": "",
+    "code": "559081",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559093",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Bhanakwadi Kh.",
+    "name_mr": "",
+    "code": "559093",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559052",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Kharmatwadi (N.V.)",
+    "name_mr": "",
+    "code": "559052",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559051",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Khopti",
+    "name_mr": "",
+    "code": "559051",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559094",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Hatkarwadi",
+    "name_mr": "",
+    "code": "559094",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559055",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Morjalwadi",
+    "name_mr": "",
+    "code": "559055",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559057",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Jedhewadi",
+    "name_mr": "",
+    "code": "559057",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559058",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "559058",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559001",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Ghogaspargaon",
+    "name_mr": "",
+    "code": "559001",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559005",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Taradgavhan",
+    "name_mr": "",
+    "code": "559005",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559003",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Matori",
+    "name_mr": "",
+    "code": "559003",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559004",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Tintarwani",
+    "name_mr": "",
+    "code": "559004",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559002",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Malegaon Chakla",
+    "name_mr": "",
+    "code": "559002",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559006",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Shrungarwadi",
+    "name_mr": "",
+    "code": "559006",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559007",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "559007",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559010",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Borgaon Chakla",
+    "name_mr": "",
+    "code": "559010",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559009",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Varangalwadi",
+    "name_mr": "",
+    "code": "559009",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559008",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Narayanwadi",
+    "name_mr": "",
+    "code": "559008",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559027",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Tembhurni",
+    "name_mr": "",
+    "code": "559027",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559011",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Ukhanda Chakla",
+    "name_mr": "",
+    "code": "559011",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559012",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Sawargaon Chakla",
+    "name_mr": "",
+    "code": "559012",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559025",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Shripatwadi",
+    "name_mr": "",
+    "code": "559025",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559013",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Khamkarwadi (N.V.)",
+    "name_mr": "",
+    "code": "559013",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559060",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Hajipur",
+    "name_mr": "",
+    "code": "559060",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559059",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Fulsangvi",
+    "name_mr": "",
+    "code": "559059",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559015",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Nimgaon Mayamba",
+    "name_mr": "",
+    "code": "559015",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559026",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Ghatshil Pargaon",
+    "name_mr": "",
+    "code": "559026",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559014",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Rale Sangavi",
+    "name_mr": "",
+    "code": "559014",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559016",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Nandewali",
+    "name_mr": "",
+    "code": "559016",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559017",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Malewadi (N.V.)",
+    "name_mr": "",
+    "code": "559017",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559064",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Gazipur",
+    "name_mr": "",
+    "code": "559064",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559061",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Markadwadi",
+    "name_mr": "",
+    "code": "559061",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559065",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Taradgavhan",
+    "name_mr": "",
+    "code": "559065",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559018",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Bramhanath Yelamb",
+    "name_mr": "",
+    "code": "559018",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559066",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "559066",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559063",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Shirapurgat",
+    "name_mr": "",
+    "code": "559063",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559062",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Kamleshwar Dhanora",
+    "name_mr": "",
+    "code": "559062",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559028",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Manur",
+    "name_mr": "",
+    "code": "559028",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559022",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Dahiwandi",
+    "name_mr": "",
+    "code": "559022",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559070",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Paundul",
+    "name_mr": "",
+    "code": "559070",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559033",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "559033",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559019",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Bawi",
+    "name_mr": "",
+    "code": "559019",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559068",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Jamb",
+    "name_mr": "",
+    "code": "559068",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559023",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Warni",
+    "name_mr": "",
+    "code": "559023",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559024",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Mangewadi",
+    "name_mr": "",
+    "code": "559024",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-275726",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Shirur (NP)",
+    "name_mr": "",
+    "code": "275726",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559020",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Zapewadi",
+    "name_mr": "",
+    "code": "559020",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559031",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Badewadi",
+    "name_mr": "",
+    "code": "559031",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559069",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Khamba",
+    "name_mr": "",
+    "code": "559069",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559029",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Jathawad",
+    "name_mr": "",
+    "code": "559029",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559032",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Bargajwadi",
+    "name_mr": "",
+    "code": "559032",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559067",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Dhokwad",
+    "name_mr": "",
+    "code": "559067",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559073",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "559073",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559072",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Khalapuri",
+    "name_mr": "",
+    "code": "559072",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559071",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Limba",
+    "name_mr": "",
+    "code": "559071",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559036",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Kolwadi",
+    "name_mr": "",
+    "code": "559036",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559038",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Anandgaon",
+    "name_mr": "",
+    "code": "559038",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559037",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Kanhobachiwadi",
+    "name_mr": "",
+    "code": "559037",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559075",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Tagadgaon",
+    "name_mr": "",
+    "code": "559075",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559043",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Pimpalner",
+    "name_mr": "",
+    "code": "559043",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559040",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Rakshas Bhuwan",
+    "name_mr": "",
+    "code": "559040",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559091",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Rupewadi (N.V.)",
+    "name_mr": "",
+    "code": "559091",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559053",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Chahurwadi",
+    "name_mr": "",
+    "code": "559053",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559074",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Nagarewadi",
+    "name_mr": "",
+    "code": "559074",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559030",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Bahirwadi",
+    "name_mr": "",
+    "code": "559030",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559034",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Umbarmuli (N.V.)",
+    "name_mr": "",
+    "code": "559034",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  },
+  {
+    "village_id": "v-559044",
+    "district_id": "beed",
+    "taluka_id": "shirur-kasar",
+    "name_en": "Hingewadi",
+    "name_mr": "",
+    "code": "559044",
+    "boundary_file": "/data/boundaries/villages/beed/shirur-kasar.geojson"
+  }
+]

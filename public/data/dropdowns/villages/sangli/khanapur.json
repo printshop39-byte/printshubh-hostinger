@@ -1,0 +1,605 @@
+[
+  {
+    "village_id": "v-568544",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Gorewadi",
+    "name_mr": "",
+    "code": "568544",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568543",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Benapur",
+    "name_mr": "",
+    "code": "568543",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568547",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Rewangaon Kh",
+    "name_mr": "",
+    "code": "568547",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-276348",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Khanapur (NP)",
+    "name_mr": "",
+    "code": "276348",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568545",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Jakhinwadi",
+    "name_mr": "",
+    "code": "568545",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568529",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Dhawaleshwar",
+    "name_mr": "",
+    "code": "568529",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568550",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Ghoti Kh",
+    "name_mr": "",
+    "code": "568550",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568551",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Posewadi",
+    "name_mr": "",
+    "code": "568551",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568507",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Kurli",
+    "name_mr": "",
+    "code": "568507",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568560",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Hivare",
+    "name_mr": "",
+    "code": "568560",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568531",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhalwani",
+    "name_mr": "",
+    "code": "568531",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568549",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Ghoti Bk",
+    "name_mr": "",
+    "code": "568549",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568526",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhambarde",
+    "name_mr": "",
+    "code": "568526",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568527",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Wasumbe",
+    "name_mr": "",
+    "code": "568527",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568505",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Gardi",
+    "name_mr": "",
+    "code": "568505",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568542",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Shivshivapur",
+    "name_mr": "",
+    "code": "568542",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568540",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "568540",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568546",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Agastinagar",
+    "name_mr": "",
+    "code": "568546",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568528",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Renavi",
+    "name_mr": "",
+    "code": "568528",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-251635",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Vita (M Cl)",
+    "name_mr": "",
+    "code": "251635",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568548",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Rewangaon",
+    "name_mr": "",
+    "code": "568548",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568502",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Nagnathnagar",
+    "name_mr": "",
+    "code": "568502",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568523",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhood",
+    "name_mr": "",
+    "code": "568523",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568541",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Balvadi (Kha)",
+    "name_mr": "",
+    "code": "568541",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568503",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Himgangade",
+    "name_mr": "",
+    "code": "568503",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568537",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Balvadi Bhalvani",
+    "name_mr": "",
+    "code": "568537",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568539",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Wazar",
+    "name_mr": "",
+    "code": "568539",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568536",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Jadhavnagar",
+    "name_mr": "",
+    "code": "568536",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568515",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Vejegaon",
+    "name_mr": "",
+    "code": "568515",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568501",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Chikhalhol",
+    "name_mr": "",
+    "code": "568501",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568516",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhendvade",
+    "name_mr": "",
+    "code": "568516",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568517",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhagyanagar (Bhakuchawadi)",
+    "name_mr": "",
+    "code": "568517",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568520",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Waluj",
+    "name_mr": "",
+    "code": "568520",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568519",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Sangole",
+    "name_mr": "",
+    "code": "568519",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568518",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Salshinge",
+    "name_mr": "",
+    "code": "568518",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568504",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Ghanwad",
+    "name_mr": "",
+    "code": "568504",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568524",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Jondhalkhindi",
+    "name_mr": "",
+    "code": "568524",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568522",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Devnagar",
+    "name_mr": "",
+    "code": "568522",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568513",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhikawadi Bk.",
+    "name_mr": "",
+    "code": "568513",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568499",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Mahuli",
+    "name_mr": "",
+    "code": "568499",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568500",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Walkhad",
+    "name_mr": "",
+    "code": "568500",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568514",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Devikhindi",
+    "name_mr": "",
+    "code": "568514",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568525",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Madhalmuthi",
+    "name_mr": "",
+    "code": "568525",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568553",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Sultangade",
+    "name_mr": "",
+    "code": "568553",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568509",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Pare",
+    "name_mr": "",
+    "code": "568509",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568561",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Palashi",
+    "name_mr": "",
+    "code": "568561",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568564",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Banurgad",
+    "name_mr": "",
+    "code": "568564",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568554",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Ramnagar (Mulanwadi)",
+    "name_mr": "",
+    "code": "568554",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568532",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Kalambi",
+    "name_mr": "",
+    "code": "568532",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568555",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Mohi",
+    "name_mr": "",
+    "code": "568555",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568559",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Karanje",
+    "name_mr": "",
+    "code": "568559",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568563",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Tadachiwadi",
+    "name_mr": "",
+    "code": "568563",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568530",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Panchlingnagar",
+    "name_mr": "",
+    "code": "568530",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568556",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Shendgewadi",
+    "name_mr": "",
+    "code": "568556",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568557",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bhadakewadi",
+    "name_mr": "",
+    "code": "568557",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568533",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Khambale Bhalvani",
+    "name_mr": "",
+    "code": "568533",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568510",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Chinchani (Tas)",
+    "name_mr": "",
+    "code": "568510",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568506",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Karve",
+    "name_mr": "",
+    "code": "568506",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568562",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Kusbavade",
+    "name_mr": "",
+    "code": "568562",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568558",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "568558",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568534",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Alsund",
+    "name_mr": "",
+    "code": "568534",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568511",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "568511",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568512",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Bamani",
+    "name_mr": "",
+    "code": "568512",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568535",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Kamlapur",
+    "name_mr": "",
+    "code": "568535",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568538",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Tandalgaon",
+    "name_mr": "",
+    "code": "568538",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568508",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Ghadgewadi",
+    "name_mr": "",
+    "code": "568508",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  },
+  {
+    "village_id": "v-568521",
+    "district_id": "sangli",
+    "taluka_id": "khanapur",
+    "name_en": "Lengre",
+    "name_mr": "",
+    "code": "568521",
+    "boundary_file": "/data/boundaries/villages/sangli/khanapur.geojson"
+  }
+]

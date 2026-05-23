@@ -1,0 +1,1379 @@
+[
+  {
+    "village_id": "v-545234",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhanora Shelgaon",
+    "name_mr": "",
+    "code": "545234",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545230",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pimpalgaon   Dhage",
+    "name_mr": "",
+    "code": "545230",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545280",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kambegaon",
+    "name_mr": "",
+    "code": "545280",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545281",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hiparga (Chitali)",
+    "name_mr": "",
+    "code": "545281",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545236",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pokhar Bhoshi",
+    "name_mr": "",
+    "code": "545236",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545235",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "545235",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-251407",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Loha (M Cl)",
+    "name_mr": "",
+    "code": "251407",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545279",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Chitali",
+    "name_mr": "",
+    "code": "545279",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545266",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhanaj Kh.",
+    "name_mr": "",
+    "code": "545266",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545238",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kalambar Kh.",
+    "name_mr": "",
+    "code": "545238",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545278",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Haldav",
+    "name_mr": "",
+    "code": "545278",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545231",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhavri",
+    "name_mr": "",
+    "code": "545231",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545282",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "545282",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545284",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Berali Kh.",
+    "name_mr": "",
+    "code": "545284",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545267",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sugaon",
+    "name_mr": "",
+    "code": "545267",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545233",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "545233",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545232",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Raywadi",
+    "name_mr": "",
+    "code": "545232",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545293",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Risangaon",
+    "name_mr": "",
+    "code": "545293",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545294",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ashtur",
+    "name_mr": "",
+    "code": "545294",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545286",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Polewadi",
+    "name_mr": "",
+    "code": "545286",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545291",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Murambi",
+    "name_mr": "",
+    "code": "545291",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545283",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Maski",
+    "name_mr": "",
+    "code": "545283",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545285",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "545285",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545289",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kiroda",
+    "name_mr": "",
+    "code": "545289",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545298",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Haranwadi",
+    "name_mr": "",
+    "code": "545298",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545295",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ramtirth",
+    "name_mr": "",
+    "code": "545295",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545304",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Khedkarwadi",
+    "name_mr": "",
+    "code": "545304",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545290",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Deola Tanda",
+    "name_mr": "",
+    "code": "545290",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545297",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Nagarwadi",
+    "name_mr": "",
+    "code": "545297",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545296",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Lavhral",
+    "name_mr": "",
+    "code": "545296",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545299",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ghugewadi",
+    "name_mr": "",
+    "code": "545299",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545303",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Wagdarwadi",
+    "name_mr": "",
+    "code": "545303",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545302",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hirabori Tanda",
+    "name_mr": "",
+    "code": "545302",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545307",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Majare Sangvi",
+    "name_mr": "",
+    "code": "545307",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545310",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "545310",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545313",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Gaundgaon",
+    "name_mr": "",
+    "code": "545313",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545312",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Andga",
+    "name_mr": "",
+    "code": "545312",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545268",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Anteshwar",
+    "name_mr": "",
+    "code": "545268",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545190",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Bet Sangvi",
+    "name_mr": "",
+    "code": "545190",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545191",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Jawala",
+    "name_mr": "",
+    "code": "545191",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545194",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kharbi",
+    "name_mr": "",
+    "code": "545194",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545269",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Bharaswada",
+    "name_mr": "",
+    "code": "545269",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545193",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Bamni  P.U.",
+    "name_mr": "",
+    "code": "545193",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545192",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dagadgaon",
+    "name_mr": "",
+    "code": "545192",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545196",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "545196",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545195",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Derla",
+    "name_mr": "",
+    "code": "545195",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545244",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Chincholi  P.U.",
+    "name_mr": "",
+    "code": "545244",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545270",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Penur",
+    "name_mr": "",
+    "code": "545270",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545197",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Janapuri",
+    "name_mr": "",
+    "code": "545197",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545239",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Takalgaon",
+    "name_mr": "",
+    "code": "545239",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545243",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "545243",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545219",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhakni",
+    "name_mr": "",
+    "code": "545219",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545245",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kamlaj",
+    "name_mr": "",
+    "code": "545245",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545218",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Wadepuri",
+    "name_mr": "",
+    "code": "545218",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545240",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Jamrun",
+    "name_mr": "",
+    "code": "545240",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545220",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kiwala",
+    "name_mr": "",
+    "code": "545220",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545198",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sonkhed",
+    "name_mr": "",
+    "code": "545198",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545199",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Borgaon Kolha",
+    "name_mr": "",
+    "code": "545199",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545246",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kaudgaon",
+    "name_mr": "",
+    "code": "545246",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545242",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Martala",
+    "name_mr": "",
+    "code": "545242",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545200",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Palshi",
+    "name_mr": "",
+    "code": "545200",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545203",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Khed Manjara",
+    "name_mr": "",
+    "code": "545203",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545221",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Borgaon Kiwala",
+    "name_mr": "",
+    "code": "545221",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545201",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Bhendegaon",
+    "name_mr": "",
+    "code": "545201",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545247",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Yeli",
+    "name_mr": "",
+    "code": "545247",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545241",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Walki Bk.",
+    "name_mr": "",
+    "code": "545241",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545248",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hatni",
+    "name_mr": "",
+    "code": "545248",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545255",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Shambhargaon",
+    "name_mr": "",
+    "code": "545255",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545217",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Harbal P.U.",
+    "name_mr": "",
+    "code": "545217",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545210",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pimpranwadi",
+    "name_mr": "",
+    "code": "545210",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545204",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Shivani  Jamga",
+    "name_mr": "",
+    "code": "545204",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545205",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "545205",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545256",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kanjala",
+    "name_mr": "",
+    "code": "545256",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545225",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "545225",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545272",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "545272",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545271",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Borgaon Aknak",
+    "name_mr": "",
+    "code": "545271",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545209",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pimpalgaon (Ayab)",
+    "name_mr": "",
+    "code": "545209",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545208",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Khadak Manjari",
+    "name_mr": "",
+    "code": "545208",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545254",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kapshi Bk.",
+    "name_mr": "",
+    "code": "545254",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545226",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Telki",
+    "name_mr": "",
+    "code": "545226",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545249",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Donwada",
+    "name_mr": "",
+    "code": "545249",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545223",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Londhe Sangvi",
+    "name_mr": "",
+    "code": "545223",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545222",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Joshi Sangvi",
+    "name_mr": "",
+    "code": "545222",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545251",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kumbhargaon",
+    "name_mr": "",
+    "code": "545251",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545211",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hottalwadi",
+    "name_mr": "",
+    "code": "545211",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545257",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kanjalwadi",
+    "name_mr": "",
+    "code": "545257",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545250",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Waka",
+    "name_mr": "",
+    "code": "545250",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545212",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Madakewadi",
+    "name_mr": "",
+    "code": "545212",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545252",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kapshi Kh.",
+    "name_mr": "",
+    "code": "545252",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545214",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Harsad",
+    "name_mr": "",
+    "code": "545214",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545207",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sayal.",
+    "name_mr": "",
+    "code": "545207",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545213",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ambesangvi",
+    "name_mr": "",
+    "code": "545213",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545261",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pimpaldari",
+    "name_mr": "",
+    "code": "545261",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545253",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Walki  Kh.",
+    "name_mr": "",
+    "code": "545253",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545274",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sonmanjari",
+    "name_mr": "",
+    "code": "545274",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545258",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dolara",
+    "name_mr": "",
+    "code": "545258",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545227",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dapshed",
+    "name_mr": "",
+    "code": "545227",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545273",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Khambegaon",
+    "name_mr": "",
+    "code": "545273",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545206",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Bhadra",
+    "name_mr": "",
+    "code": "545206",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545216",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Walkewadi",
+    "name_mr": "",
+    "code": "545216",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545215",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "545215",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545259",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hindola",
+    "name_mr": "",
+    "code": "545259",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545260",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Karmala",
+    "name_mr": "",
+    "code": "545260",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545229",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "545229",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545228",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Nila",
+    "name_mr": "",
+    "code": "545228",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545276",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sunegaon",
+    "name_mr": "",
+    "code": "545276",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545264",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Jomegaon",
+    "name_mr": "",
+    "code": "545264",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545262",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Golegaon P.U.",
+    "name_mr": "",
+    "code": "545262",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545265",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhanaj  Bk.",
+    "name_mr": "",
+    "code": "545265",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545277",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "545277",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545224",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Gundewadi",
+    "name_mr": "",
+    "code": "545224",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545308",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dagad Sangvi",
+    "name_mr": "",
+    "code": "545308",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545309",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kadamachiwadi",
+    "name_mr": "",
+    "code": "545309",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545306",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Chondi",
+    "name_mr": "",
+    "code": "545306",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946188",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Thavara Tanda",
+    "name_mr": "",
+    "code": "946188",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545275",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhanora (Makta)",
+    "name_mr": "",
+    "code": "545275",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946162",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Shivajinagar Tanda",
+    "name_mr": "",
+    "code": "946162",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545314",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ghotka",
+    "name_mr": "",
+    "code": "545314",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-651953",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Bhamlanaik Tanda",
+    "name_mr": "",
+    "code": "651953",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545288",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Golegaon P.K.",
+    "name_mr": "",
+    "code": "545288",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946156",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Golegaonwadi",
+    "name_mr": "",
+    "code": "946156",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545287",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hadoli Jagir",
+    "name_mr": "",
+    "code": "545287",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946202",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ramachiwadi",
+    "name_mr": "",
+    "code": "946202",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946212",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ramnaik Tanda",
+    "name_mr": "",
+    "code": "946212",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946160",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Pethachiwadi",
+    "name_mr": "",
+    "code": "946160",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946194",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Gondhani Tanda",
+    "name_mr": "",
+    "code": "946194",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946181",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Ramnewadi",
+    "name_mr": "",
+    "code": "946181",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545237",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kalambar Bk.",
+    "name_mr": "",
+    "code": "545237",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946178",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Mokalewadi",
+    "name_mr": "",
+    "code": "946178",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545300",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Landgewadi",
+    "name_mr": "",
+    "code": "545300",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946176",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Khiru Tanda",
+    "name_mr": "",
+    "code": "946176",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946191",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Yaldari Tanda",
+    "name_mr": "",
+    "code": "946191",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545311",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Limboti",
+    "name_mr": "",
+    "code": "545311",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946179",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Nehrunagar",
+    "name_mr": "",
+    "code": "946179",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545301",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Malakoli",
+    "name_mr": "",
+    "code": "545301",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946189",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Vithoba Tanda",
+    "name_mr": "",
+    "code": "946189",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545305",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "545305",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946192",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Harishchandara Tanda",
+    "name_mr": "",
+    "code": "946192",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946177",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Lachma Tanda",
+    "name_mr": "",
+    "code": "946177",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545292",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sawargaon Nasarat",
+    "name_mr": "",
+    "code": "545292",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946159",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Hulayewadi",
+    "name_mr": "",
+    "code": "946159",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946211",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Koshtawadi",
+    "name_mr": "",
+    "code": "946211",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946184",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sakru Tanda",
+    "name_mr": "",
+    "code": "946184",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946200",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Manchu Tanda",
+    "name_mr": "",
+    "code": "946200",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946195",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Kesu Tanda",
+    "name_mr": "",
+    "code": "946195",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545202",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Shewadi",
+    "name_mr": "",
+    "code": "545202",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946186",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Sevalalnagar",
+    "name_mr": "",
+    "code": "946186",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-545263",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Umra",
+    "name_mr": "",
+    "code": "545263",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946158",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Dhanji Tanda",
+    "name_mr": "",
+    "code": "946158",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946209",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Govind Tanda",
+    "name_mr": "",
+    "code": "946209",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946201",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Parasram Tanda",
+    "name_mr": "",
+    "code": "946201",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946183",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Rupsing Tanda",
+    "name_mr": "",
+    "code": "946183",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  },
+  {
+    "village_id": "v-946196",
+    "district_id": "n-nded",
+    "taluka_id": "loha",
+    "name_en": "Fulmala Tanda (N.V.)",
+    "name_mr": "",
+    "code": "946196",
+    "boundary_file": "/data/boundaries/villages/n-nded/loha.geojson"
+  }
+]

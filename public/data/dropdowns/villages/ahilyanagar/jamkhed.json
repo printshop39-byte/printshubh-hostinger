@@ -1,0 +1,722 @@
+[
+  {
+    "village_id": "v-558641",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Kolhewadi",
+    "name_mr": "",
+    "code": "558641",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558640",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "558640",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558642",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Sakat",
+    "name_mr": "",
+    "code": "558642",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558639",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Moha",
+    "name_mr": "",
+    "code": "558639",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-251554",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Jamkhed (M CI)",
+    "name_mr": "",
+    "code": "251554",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558644",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Shiur",
+    "name_mr": "",
+    "code": "558644",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558677",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Nahuli",
+    "name_mr": "",
+    "code": "558677",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558651",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Patoda",
+    "name_mr": "",
+    "code": "558651",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558673",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Katewadi",
+    "name_mr": "",
+    "code": "558673",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558676",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "558676",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558652",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Parewadi",
+    "name_mr": "",
+    "code": "558652",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558675",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dolewadi",
+    "name_mr": "",
+    "code": "558675",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558682",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Jategaon",
+    "name_mr": "",
+    "code": "558682",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558653",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Arangaon",
+    "name_mr": "",
+    "code": "558653",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558674",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Rajuri",
+    "name_mr": "",
+    "code": "558674",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558683",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Jaibhaywadi",
+    "name_mr": "",
+    "code": "558683",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558649",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Kusadgaon",
+    "name_mr": "",
+    "code": "558649",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558648",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Saradwadi",
+    "name_mr": "",
+    "code": "558648",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558672",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Sarola",
+    "name_mr": "",
+    "code": "558672",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558650",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Sangvi",
+    "name_mr": "",
+    "code": "558650",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558692",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Mohari",
+    "name_mr": "",
+    "code": "558692",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558685",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Bandhkhadak",
+    "name_mr": "",
+    "code": "558685",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558654",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "558654",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558657",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "558657",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558663",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Vanjarwadi",
+    "name_mr": "",
+    "code": "558663",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558688",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Pimpalgaon Alwa",
+    "name_mr": "",
+    "code": "558688",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558691",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Pandharewadi",
+    "name_mr": "",
+    "code": "558691",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558695",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Kharda",
+    "name_mr": "",
+    "code": "558695",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558678",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Deodaithan",
+    "name_mr": "",
+    "code": "558678",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558643",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Savargaon",
+    "name_mr": "",
+    "code": "558643",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558679",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "558679",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558680",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "558680",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558632",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "558632",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558633",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Bhavarwadi",
+    "name_mr": "",
+    "code": "558633",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558681",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dighol",
+    "name_mr": "",
+    "code": "558681",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558634",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "558634",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558684",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Telangashi",
+    "name_mr": "",
+    "code": "558684",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558661",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Fakrabad",
+    "name_mr": "",
+    "code": "558661",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558655",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Disalewadi",
+    "name_mr": "",
+    "code": "558655",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558658",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Khurdaithan",
+    "name_mr": "",
+    "code": "558658",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558686",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Daradwadi",
+    "name_mr": "",
+    "code": "558686",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558656",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Zikri",
+    "name_mr": "",
+    "code": "558656",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558687",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "558687",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558698",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Ghodegaon",
+    "name_mr": "",
+    "code": "558698",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558689",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "558689",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558690",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Balgavhan",
+    "name_mr": "",
+    "code": "558690",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558662",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "558662",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558660",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Khandvi",
+    "name_mr": "",
+    "code": "558660",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558664",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Kaudgaon",
+    "name_mr": "",
+    "code": "558664",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558694",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Nagobawadi",
+    "name_mr": "",
+    "code": "558694",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558693",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Mungewadi",
+    "name_mr": "",
+    "code": "558693",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558667",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Pimparkhed",
+    "name_mr": "",
+    "code": "558667",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558659",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dhond Pargaon",
+    "name_mr": "",
+    "code": "558659",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558699",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Gurwadi",
+    "name_mr": "",
+    "code": "558699",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558668",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Bavi",
+    "name_mr": "",
+    "code": "558668",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558696",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "558696",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558697",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Apti",
+    "name_mr": "",
+    "code": "558697",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558701",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "558701",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558700",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Maharuli",
+    "name_mr": "",
+    "code": "558700",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558666",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Hasnabad",
+    "name_mr": "",
+    "code": "558666",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558702",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Nannaj",
+    "name_mr": "",
+    "code": "558702",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558665",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Girwali",
+    "name_mr": "",
+    "code": "558665",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558705",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Satephal",
+    "name_mr": "",
+    "code": "558705",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558703",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Wagha",
+    "name_mr": "",
+    "code": "558703",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558669",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Halgaon",
+    "name_mr": "",
+    "code": "558669",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558704",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Pimpalgaon Unda",
+    "name_mr": "",
+    "code": "558704",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558708",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Daundachiwadi",
+    "name_mr": "",
+    "code": "558708",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558706",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Vanjarwadi",
+    "name_mr": "",
+    "code": "558706",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558670",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Chondhi",
+    "name_mr": "",
+    "code": "558670",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558707",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Taradgaon",
+    "name_mr": "",
+    "code": "558707",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558714",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Jawala",
+    "name_mr": "",
+    "code": "558714",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558710",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Potewadi",
+    "name_mr": "",
+    "code": "558710",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558709",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Jawalke",
+    "name_mr": "",
+    "code": "558709",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558717",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "558717",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558671",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Aghi",
+    "name_mr": "",
+    "code": "558671",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558711",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Borle",
+    "name_mr": "",
+    "code": "558711",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558713",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Matewadi",
+    "name_mr": "",
+    "code": "558713",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558712",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Chobhewadi",
+    "name_mr": "",
+    "code": "558712",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558716",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Dhanegaon",
+    "name_mr": "",
+    "code": "558716",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  },
+  {
+    "village_id": "v-558715",
+    "district_id": "ahilyanagar",
+    "taluka_id": "jamkhed",
+    "name_en": "Munjewadi",
+    "name_mr": "",
+    "code": "558715",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/jamkhed.geojson"
+  }
+]

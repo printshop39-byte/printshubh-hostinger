@@ -1,0 +1,794 @@
+[
+  {
+    "village_id": "v-537975",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Salaitola",
+    "name_mr": "",
+    "code": "537975",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537976",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Gandhitola",
+    "name_mr": "",
+    "code": "537976",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537977",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bhajiyadand",
+    "name_mr": "",
+    "code": "537977",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537974",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Sakharitola",
+    "name_mr": "",
+    "code": "537974",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537978",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Durgutola",
+    "name_mr": "",
+    "code": "537978",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537981",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kadhotitola",
+    "name_mr": "",
+    "code": "537981",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538021",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Gendurzariya",
+    "name_mr": "",
+    "code": "538021",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538020",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Tahkazari",
+    "name_mr": "",
+    "code": "538020",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-276365",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Salekasa (NP)",
+    "name_mr": "",
+    "code": "276365",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538022",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Sirmalkasa",
+    "name_mr": "",
+    "code": "538022",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538029",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "538029",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538035",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Daldalkuhi",
+    "name_mr": "",
+    "code": "538035",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538036",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kachargad",
+    "name_mr": "",
+    "code": "538036",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538030",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Sonartola",
+    "name_mr": "",
+    "code": "538030",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538028",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bodal bodi",
+    "name_mr": "",
+    "code": "538028",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538031",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Isanatola",
+    "name_mr": "",
+    "code": "538031",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538037",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Diwatesur",
+    "name_mr": "",
+    "code": "538037",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538033",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Dhansuwa",
+    "name_mr": "",
+    "code": "538033",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538045",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Tirkhedi",
+    "name_mr": "",
+    "code": "538045",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537994",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "537994",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537986",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kotjambhora",
+    "name_mr": "",
+    "code": "537986",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537995",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Latori",
+    "name_mr": "",
+    "code": "537995",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537993",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "537993",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537992",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Pandhari",
+    "name_mr": "",
+    "code": "537992",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537996",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kunbitola",
+    "name_mr": "",
+    "code": "537996",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537987",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Asaitola",
+    "name_mr": "",
+    "code": "537987",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538003",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Ramatola",
+    "name_mr": "",
+    "code": "538003",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537997",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Zaliya",
+    "name_mr": "",
+    "code": "537997",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538001",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Sonpuri",
+    "name_mr": "",
+    "code": "538001",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537999",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kawarabandh",
+    "name_mr": "",
+    "code": "537999",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538000",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "538000",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538009",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bramhantola",
+    "name_mr": "",
+    "code": "538009",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538002",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Paol Dawana",
+    "name_mr": "",
+    "code": "538002",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538010",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Binzali",
+    "name_mr": "",
+    "code": "538010",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538008",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Pangaon",
+    "name_mr": "",
+    "code": "538008",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538014",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kholgad",
+    "name_mr": "",
+    "code": "538014",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538007",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kahali",
+    "name_mr": "",
+    "code": "538007",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538015",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Rondha",
+    "name_mr": "",
+    "code": "538015",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538012",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "538012",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538026",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bhonsula",
+    "name_mr": "",
+    "code": "538026",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538011",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Ghonsi",
+    "name_mr": "",
+    "code": "538011",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538025",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Nanwha",
+    "name_mr": "",
+    "code": "538025",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538016",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Nimba",
+    "name_mr": "",
+    "code": "538016",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538017",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kamakazari",
+    "name_mr": "",
+    "code": "538017",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538027",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bhajepar",
+    "name_mr": "",
+    "code": "538027",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538013",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Darbada",
+    "name_mr": "",
+    "code": "538013",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538034",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Nawatola",
+    "name_mr": "",
+    "code": "538034",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538041",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Dhanegaon",
+    "name_mr": "",
+    "code": "538041",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538046",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bhadipar",
+    "name_mr": "",
+    "code": "538046",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538043",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kosamtarra",
+    "name_mr": "",
+    "code": "538043",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538040",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Darrekasa",
+    "name_mr": "",
+    "code": "538040",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538047",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Salangtola",
+    "name_mr": "",
+    "code": "538047",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538038",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Toyagondi",
+    "name_mr": "",
+    "code": "538038",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538042",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Jamakudo",
+    "name_mr": "",
+    "code": "538042",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538039",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Banjari",
+    "name_mr": "",
+    "code": "538039",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538055",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Managad",
+    "name_mr": "",
+    "code": "538055",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538044",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Gorre",
+    "name_mr": "",
+    "code": "538044",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538056",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "538056",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538051",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Marka Khanda",
+    "name_mr": "",
+    "code": "538051",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538049",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Hititola",
+    "name_mr": "",
+    "code": "538049",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538048",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Karutola",
+    "name_mr": "",
+    "code": "538048",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538054",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kopalgad",
+    "name_mr": "",
+    "code": "538054",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538053",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Vicharpur",
+    "name_mr": "",
+    "code": "538053",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538050",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Labhan Dharni",
+    "name_mr": "",
+    "code": "538050",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538057",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Serpar",
+    "name_mr": "",
+    "code": "538057",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538052",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Chandsuraj",
+    "name_mr": "",
+    "code": "538052",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538059",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Halbitola",
+    "name_mr": "",
+    "code": "538059",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538064",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kular Bhatti",
+    "name_mr": "",
+    "code": "538064",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538058",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kotara",
+    "name_mr": "",
+    "code": "538058",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538060",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Bijepar",
+    "name_mr": "",
+    "code": "538060",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538063",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Maramjob",
+    "name_mr": "",
+    "code": "538063",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538062",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Domatola",
+    "name_mr": "",
+    "code": "538062",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538061",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Pandharwani",
+    "name_mr": "",
+    "code": "538061",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537985",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Powaritola",
+    "name_mr": "",
+    "code": "537985",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537988",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "537988",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537989",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Pathantola",
+    "name_mr": "",
+    "code": "537989",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537991",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Khedepar",
+    "name_mr": "",
+    "code": "537991",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537990",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Kumbhartola",
+    "name_mr": "",
+    "code": "537990",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537984",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Mokasitola",
+    "name_mr": "",
+    "code": "537984",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537982",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Sakaritola",
+    "name_mr": "",
+    "code": "537982",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537998",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Mohatola",
+    "name_mr": "",
+    "code": "537998",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537983",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Gonditola",
+    "name_mr": "",
+    "code": "537983",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538004",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Pipariya",
+    "name_mr": "",
+    "code": "538004",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538005",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Gallatola",
+    "name_mr": "",
+    "code": "538005",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538018",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Dandhari",
+    "name_mr": "",
+    "code": "538018",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-538019",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Murkudoh",
+    "name_mr": "",
+    "code": "538019",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537980",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Makkatola",
+    "name_mr": "",
+    "code": "537980",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  },
+  {
+    "village_id": "v-537979",
+    "district_id": "gondia",
+    "taluka_id": "salekasa",
+    "name_en": "Satgaon",
+    "name_mr": "",
+    "code": "537979",
+    "boundary_file": "/data/boundaries/villages/gondia/salekasa.geojson"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "village_id": "v-539456",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Mukali",
+    "name_mr": "",
+    "code": "539456",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539463",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Bhagwantnagar",
+    "name_mr": "",
+    "code": "539463",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539447",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Mallera",
+    "name_mr": "",
+    "code": "539447",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539448",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Udaynagar",
+    "name_mr": "",
+    "code": "539448",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539467",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Shrinagar",
+    "name_mr": "",
+    "code": "539467",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539484",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Sundarnagar",
+    "name_mr": "",
+    "code": "539484",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539468",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Mohurli",
+    "name_mr": "",
+    "code": "539468",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539462",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Shrirampur",
+    "name_mr": "",
+    "code": "539462",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539464",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Fuskimal",
+    "name_mr": "",
+    "code": "539464",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539465",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Fuski Chak",
+    "name_mr": "",
+    "code": "539465",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539483",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Khudirampalli",
+    "name_mr": "",
+    "code": "539483",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539457",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Mukali Tola",
+    "name_mr": "",
+    "code": "539457",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539485",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Ambatpalli",
+    "name_mr": "",
+    "code": "539485",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539459",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "539459",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539446",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Dhannur",
+    "name_mr": "",
+    "code": "539446",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "pedigundam-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "PEDIGUNDAM RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539432",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Garanji",
+    "name_mr": "",
+    "code": "539432",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539431",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Wengnur",
+    "name_mr": "",
+    "code": "539431",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539429",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Dewada",
+    "name_mr": "",
+    "code": "539429",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539430",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Adangepalli",
+    "name_mr": "",
+    "code": "539430",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539433",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Surgaon",
+    "name_mr": "",
+    "code": "539433",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539436",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Hetalkasa",
+    "name_mr": "",
+    "code": "539436",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539426",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Gandhinagar",
+    "name_mr": "",
+    "code": "539426",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539428",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Laxmipur",
+    "name_mr": "",
+    "code": "539428",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539438",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Gatta",
+    "name_mr": "",
+    "code": "539438",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539422",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Adpallimal",
+    "name_mr": "",
+    "code": "539422",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539435",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Bolepalli",
+    "name_mr": "",
+    "code": "539435",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539434",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Pulligudam",
+    "name_mr": "",
+    "code": "539434",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539423",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Adpalli Chak",
+    "name_mr": "",
+    "code": "539423",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539427",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Vijaynagar",
+    "name_mr": "",
+    "code": "539427",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539425",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Kalinagar",
+    "name_mr": "",
+    "code": "539425",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539443",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Koparalli Chak",
+    "name_mr": "",
+    "code": "539443",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539439",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Deshbandhugram",
+    "name_mr": "",
+    "code": "539439",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539452",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Vivekanandpur",
+    "name_mr": "",
+    "code": "539452",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539440",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Vishvanathnagar",
+    "name_mr": "",
+    "code": "539440",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539458",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Ganeshnagar",
+    "name_mr": "",
+    "code": "539458",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539454",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Bandukpalli",
+    "name_mr": "",
+    "code": "539454",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539424",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Rengewahi",
+    "name_mr": "",
+    "code": "539424",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539455",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Bhawanipur",
+    "name_mr": "",
+    "code": "539455",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539449",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "539449",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539453",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Tarunnagar",
+    "name_mr": "",
+    "code": "539453",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539445",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "539445",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539466",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Devnagar",
+    "name_mr": "",
+    "code": "539466",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539482",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Kothari",
+    "name_mr": "",
+    "code": "539482",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539486",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Gomani",
+    "name_mr": "",
+    "code": "539486",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539460",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Harinagar",
+    "name_mr": "",
+    "code": "539460",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539461",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Mathuranagar",
+    "name_mr": "",
+    "code": "539461",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539487",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Kodigaon",
+    "name_mr": "",
+    "code": "539487",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539488",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Chichela",
+    "name_mr": "",
+    "code": "539488",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539470",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Kanchanpur",
+    "name_mr": "",
+    "code": "539470",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539481",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Kolpalli",
+    "name_mr": "",
+    "code": "539481",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539472",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Gitali",
+    "name_mr": "",
+    "code": "539472",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539469",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Lagamheti Pach",
+    "name_mr": "",
+    "code": "539469",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539471",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Lagamchak",
+    "name_mr": "",
+    "code": "539471",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539479",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Dampur",
+    "name_mr": "",
+    "code": "539479",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539477",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Lagam",
+    "name_mr": "",
+    "code": "539477",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539480",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Shantigram",
+    "name_mr": "",
+    "code": "539480",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539478",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Tumargunda",
+    "name_mr": "",
+    "code": "539478",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539476",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Chutgurta Chak",
+    "name_mr": "",
+    "code": "539476",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539473",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Nagulwahi",
+    "name_mr": "",
+    "code": "539473",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539474",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Machhigatta",
+    "name_mr": "",
+    "code": "539474",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539489",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Marpalli",
+    "name_mr": "",
+    "code": "539489",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539475",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Yella",
+    "name_mr": "",
+    "code": "539475",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539444",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Kolsapur",
+    "name_mr": "",
+    "code": "539444",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539437",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Morkhandi Rith",
+    "name_mr": "",
+    "code": "539437",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-539450",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Baraswada",
+    "name_mr": "",
+    "code": "539450",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  },
+  {
+    "village_id": "v-276287",
+    "district_id": "gadchiroli",
+    "taluka_id": "mulchera",
+    "name_en": "Mulchera (NP)",
+    "name_mr": "",
+    "code": "276287",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/mulchera.geojson"
+  }
+]

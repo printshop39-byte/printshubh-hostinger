@@ -1,0 +1,488 @@
+[
+  {
+    "village_id": "v-560938",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Batanpur",
+    "name_mr": "",
+    "code": "560938",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560912",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Konali (N)",
+    "name_mr": "",
+    "code": "560912",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560913",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Manki",
+    "name_mr": "",
+    "code": "560913",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560911",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Nagral",
+    "name_mr": "",
+    "code": "560911",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560914",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Bhopani",
+    "name_mr": "",
+    "code": "560914",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-276377",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Deoni (NP)",
+    "name_mr": "",
+    "code": "276377",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560886",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Dharmapuri",
+    "name_mr": "",
+    "code": "560886",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560887",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Gurdhal (her)",
+    "name_mr": "",
+    "code": "560887",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560916",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Honali",
+    "name_mr": "",
+    "code": "560916",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560885",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "560885",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560918",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Kamalwadi",
+    "name_mr": "",
+    "code": "560918",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560915",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "560915",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560888",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Kamaroddinpur",
+    "name_mr": "",
+    "code": "560888",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560891",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Chawan Hipparga",
+    "name_mr": "",
+    "code": "560891",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560892",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Sayyadpur",
+    "name_mr": "",
+    "code": "560892",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560890",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Nagtirthawadi",
+    "name_mr": "",
+    "code": "560890",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560923",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Hanchanal",
+    "name_mr": "",
+    "code": "560923",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560889",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Talegaon (bhogeshwar)",
+    "name_mr": "",
+    "code": "560889",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560898",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Jawalga",
+    "name_mr": "",
+    "code": "560898",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560919",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Neknal",
+    "name_mr": "",
+    "code": "560919",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560893",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Kawathala",
+    "name_mr": "",
+    "code": "560893",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560924",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Sangam",
+    "name_mr": "",
+    "code": "560924",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560925",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Ajani",
+    "name_mr": "",
+    "code": "560925",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560894",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Darewadi",
+    "name_mr": "",
+    "code": "560894",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560895",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Walandi",
+    "name_mr": "",
+    "code": "560895",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560921",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Vilegaon",
+    "name_mr": "",
+    "code": "560921",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560926",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Wagadari [walandi]",
+    "name_mr": "",
+    "code": "560926",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560920",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Achwala",
+    "name_mr": "",
+    "code": "560920",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560896",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Ismailwadi",
+    "name_mr": "",
+    "code": "560896",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560929",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Devani Kh",
+    "name_mr": "",
+    "code": "560929",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560928",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Borol",
+    "name_mr": "",
+    "code": "560928",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560927",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Shivajinagar Tanda",
+    "name_mr": "",
+    "code": "560927",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560900",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Hisamnagar",
+    "name_mr": "",
+    "code": "560900",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560908",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Dawan Hipparga",
+    "name_mr": "",
+    "code": "560908",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560930",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Ambegaon",
+    "name_mr": "",
+    "code": "560930",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560901",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Helamb",
+    "name_mr": "",
+    "code": "560901",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560902",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Anantwadi",
+    "name_mr": "",
+    "code": "560902",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560909",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Ambanagar",
+    "name_mr": "",
+    "code": "560909",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560931",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Wadmurambi",
+    "name_mr": "",
+    "code": "560931",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560934",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Gurnal",
+    "name_mr": "",
+    "code": "560934",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560935",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Sindhikamth",
+    "name_mr": "",
+    "code": "560935",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560906",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Bombli Kh",
+    "name_mr": "",
+    "code": "560906",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560907",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Mahadevwadi",
+    "name_mr": "",
+    "code": "560907",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560904",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Dhanegaon",
+    "name_mr": "",
+    "code": "560904",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560903",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Bombli Bk",
+    "name_mr": "",
+    "code": "560903",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560933",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Indral",
+    "name_mr": "",
+    "code": "560933",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560932",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Bolegaon",
+    "name_mr": "",
+    "code": "560932",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560905",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Takali (walandi)",
+    "name_mr": "",
+    "code": "560905",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560936",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Gaundgaon",
+    "name_mr": "",
+    "code": "560936",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560937",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Lasona",
+    "name_mr": "",
+    "code": "560937",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560910",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "560910",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560917",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Dongarewadi",
+    "name_mr": "",
+    "code": "560917",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560899",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Wagnalwadi",
+    "name_mr": "",
+    "code": "560899",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  },
+  {
+    "village_id": "v-560897",
+    "district_id": "latur",
+    "taluka_id": "deoni",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "560897",
+    "boundary_file": "/data/boundaries/villages/latur/deoni.geojson"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "village_id": "v-552409",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Sakawar",
+    "name_mr": "",
+    "code": "552409",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552416",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Medhe",
+    "name_mr": "",
+    "code": "552416",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552415",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Bhatane",
+    "name_mr": "",
+    "code": "552415",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552417",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Vadghar",
+    "name_mr": "",
+    "code": "552417",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552406",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Dolivpada",
+    "name_mr": "",
+    "code": "552406",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552410",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Chimane",
+    "name_mr": "",
+    "code": "552410",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552418",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Kalambhon",
+    "name_mr": "",
+    "code": "552418",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552413",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Bhaliwali",
+    "name_mr": "",
+    "code": "552413",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552405",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Khardi",
+    "name_mr": "",
+    "code": "552405",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552411",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Hedavade",
+    "name_mr": "",
+    "code": "552411",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552412",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Khaniwade",
+    "name_mr": "",
+    "code": "552412",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "creek",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552422",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Adne",
+    "name_mr": "",
+    "code": "552422",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552420",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Bhinar",
+    "name_mr": "",
+    "code": "552420",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552419",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Ambode",
+    "name_mr": "",
+    "code": "552419",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552414",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Navasai",
+    "name_mr": "",
+    "code": "552414",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552421",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Saiwan",
+    "name_mr": "",
+    "code": "552421",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552399",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Kolhapur",
+    "name_mr": "",
+    "code": "552399",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552426",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Shivansai",
+    "name_mr": "",
+    "code": "552426",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552425",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Usgaon",
+    "name_mr": "",
+    "code": "552425",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552401",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Mukkam",
+    "name_mr": "",
+    "code": "552401",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552423",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Shirvali",
+    "name_mr": "",
+    "code": "552423",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552402",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Arnala",
+    "name_mr": "",
+    "code": "552402",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-251463",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Vasai-Virar City (M Corp)",
+    "name_mr": "",
+    "code": "251463",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552424",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Parol",
+    "name_mr": "",
+    "code": "552424",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552432",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Karanjon",
+    "name_mr": "",
+    "code": "552432",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552400",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Patilgaon",
+    "name_mr": "",
+    "code": "552400",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552431",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Majivali",
+    "name_mr": "",
+    "code": "552431",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552430",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Depivali",
+    "name_mr": "",
+    "code": "552430",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552433",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Tilher",
+    "name_mr": "",
+    "code": "552433",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552445",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Shilottar",
+    "name_mr": "",
+    "code": "552445",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552446",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Nagale",
+    "name_mr": "",
+    "code": "552446",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552404",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Kalamb",
+    "name_mr": "",
+    "code": "552404",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552434",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Rangaon (CT)",
+    "name_mr": "",
+    "code": "552434",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552444",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Poman",
+    "name_mr": "",
+    "code": "552444",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552435",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Vaslai",
+    "name_mr": "",
+    "code": "552435",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552436",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Actan",
+    "name_mr": "",
+    "code": "552436",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552437",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Tarkhad",
+    "name_mr": "",
+    "code": "552437",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552443",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Mori",
+    "name_mr": "",
+    "code": "552443",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552442",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Sarjamori",
+    "name_mr": "",
+    "code": "552442",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552438",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Khochivade",
+    "name_mr": "",
+    "code": "552438",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552440",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Panju",
+    "name_mr": "",
+    "code": "552440",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "v-552398",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "Tembhi",
+    "name_mr": "",
+    "code": "552398",
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  },
+  {
+    "village_id": "creek-dup-166",
+    "district_id": "palghar",
+    "taluka_id": "vasai",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/palghar/vasai.geojson"
+  }
+]

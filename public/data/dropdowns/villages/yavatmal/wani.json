@@ -1,0 +1,1460 @@
+[
+  {
+    "village_id": "v-543940",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shelu Kh",
+    "name_mr": "",
+    "code": "543940",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543942",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nandepera",
+    "name_mr": "",
+    "code": "543942",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543941",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Bhurki",
+    "name_mr": "",
+    "code": "543941",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543947",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Rangana",
+    "name_mr": "",
+    "code": "543947",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543945",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pohana",
+    "name_mr": "",
+    "code": "543945",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543943",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "543943",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543946",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Majra",
+    "name_mr": "",
+    "code": "543946",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543950",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wanjari",
+    "name_mr": "",
+    "code": "543950",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543944",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Bhandewada",
+    "name_mr": "",
+    "code": "543944",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543948",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Zola",
+    "name_mr": "",
+    "code": "543948",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543951",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nagala",
+    "name_mr": "",
+    "code": "543951",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543966",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Sawarla",
+    "name_mr": "",
+    "code": "543966",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544100",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Rajur (CT)",
+    "name_mr": "",
+    "code": "544100",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543967",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kona",
+    "name_mr": "",
+    "code": "543967",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543949",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wadgaon Tip",
+    "name_mr": "",
+    "code": "543949",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543952",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Durgadi",
+    "name_mr": "",
+    "code": "543952",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543953",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Bodad Bk.",
+    "name_mr": "",
+    "code": "543953",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543965",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kalmana Kh",
+    "name_mr": "",
+    "code": "543965",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543954",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nimbala",
+    "name_mr": "",
+    "code": "543954",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543968",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Gowari",
+    "name_mr": "",
+    "code": "543968",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543975",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Naigaon Kh",
+    "name_mr": "",
+    "code": "543975",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543969",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Agashi",
+    "name_mr": "",
+    "code": "543969",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543962",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "543962",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543961",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Zarpat",
+    "name_mr": "",
+    "code": "543961",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543955",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Somnala",
+    "name_mr": "",
+    "code": "543955",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543964",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "543964",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-251397",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wani (M Cl)",
+    "name_mr": "",
+    "code": "251397",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543970",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kolera",
+    "name_mr": "",
+    "code": "543970",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543971",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Bramhani",
+    "name_mr": "",
+    "code": "543971",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543973",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "543973",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543972",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nilapur",
+    "name_mr": "",
+    "code": "543972",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543960",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Palsoni",
+    "name_mr": "",
+    "code": "543960",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543981",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "543981",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543974",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Aheri",
+    "name_mr": "",
+    "code": "543974",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543956",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Belghat",
+    "name_mr": "",
+    "code": "543956",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544020",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Murdhoni",
+    "name_mr": "",
+    "code": "544020",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543957",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "543957",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543963",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "543963",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543976",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Lalguda",
+    "name_mr": "",
+    "code": "543976",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543982",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Junada",
+    "name_mr": "",
+    "code": "543982",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543984",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Lathi",
+    "name_mr": "",
+    "code": "543984",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543986",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kesurli",
+    "name_mr": "",
+    "code": "543986",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544022",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Korambhi",
+    "name_mr": "",
+    "code": "544022",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544023",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Maregaon",
+    "name_mr": "",
+    "code": "544023",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544024",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Rasa",
+    "name_mr": "",
+    "code": "544024",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543997",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Niwali",
+    "name_mr": "",
+    "code": "543997",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543999",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Niljai",
+    "name_mr": "",
+    "code": "543999",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544025",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Fulora",
+    "name_mr": "",
+    "code": "544025",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543998",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "543998",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543996",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shelu BK",
+    "name_mr": "",
+    "code": "543996",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543992",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Petur",
+    "name_mr": "",
+    "code": "543992",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544036",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shirgiri",
+    "name_mr": "",
+    "code": "544036",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543995",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "543995",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544035",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Suknegaon",
+    "name_mr": "",
+    "code": "544035",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543994",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wargaon",
+    "name_mr": "",
+    "code": "543994",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544003",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Punvat",
+    "name_mr": "",
+    "code": "544003",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543958",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "543958",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543977",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dhoptala",
+    "name_mr": "",
+    "code": "543977",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543978",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Bhalar",
+    "name_mr": "",
+    "code": "543978",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543959",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Vyankatpur",
+    "name_mr": "",
+    "code": "543959",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543980",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "543980",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543979",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Welhala",
+    "name_mr": "",
+    "code": "543979",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544019",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mohorli",
+    "name_mr": "",
+    "code": "544019",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544021",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dhabapur",
+    "name_mr": "",
+    "code": "544021",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544015",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nawegaon",
+    "name_mr": "",
+    "code": "544015",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544018",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Virkund",
+    "name_mr": "",
+    "code": "544018",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543989",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "543989",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543987",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dhandir",
+    "name_mr": "",
+    "code": "543987",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543983",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Ukani",
+    "name_mr": "",
+    "code": "543983",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543988",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "543988",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544014",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "544014",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543990",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Manki",
+    "name_mr": "",
+    "code": "543990",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544016",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Vithalnagar",
+    "name_mr": "",
+    "code": "544016",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543985",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Besa",
+    "name_mr": "",
+    "code": "543985",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543991",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Khekadi",
+    "name_mr": "",
+    "code": "543991",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-543993",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mandar",
+    "name_mr": "",
+    "code": "543993",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544017",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "544017",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544004",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Purad",
+    "name_mr": "",
+    "code": "544004",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544039",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "544039",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544006",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "544006",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544027",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Ghonsa",
+    "name_mr": "",
+    "code": "544027",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544000",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "544000",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544038",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Warzadi",
+    "name_mr": "",
+    "code": "544038",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544026",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "544026",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544037",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "544037",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544005",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Surdapur",
+    "name_mr": "",
+    "code": "544005",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544001",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "544001",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544034",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Godgaon",
+    "name_mr": "",
+    "code": "544034",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544031",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kumbharkhani",
+    "name_mr": "",
+    "code": "544031",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544002",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Naigaon Bk.",
+    "name_mr": "",
+    "code": "544002",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544040",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mendholi",
+    "name_mr": "",
+    "code": "544040",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544032",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Injasan",
+    "name_mr": "",
+    "code": "544032",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544028",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "544028",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544029",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Gondhala",
+    "name_mr": "",
+    "code": "544029",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544044",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "544044",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544030",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Sakhara",
+    "name_mr": "",
+    "code": "544030",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544043",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wadjapur",
+    "name_mr": "",
+    "code": "544043",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544056",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Khandla",
+    "name_mr": "",
+    "code": "544056",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544007",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nipani Pimpri",
+    "name_mr": "",
+    "code": "544007",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544009",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kawadshi",
+    "name_mr": "",
+    "code": "544009",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544057",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "544057",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544010",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "544010",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544008",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "544008",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544033",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "544033",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544045",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kayar",
+    "name_mr": "",
+    "code": "544045",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544054",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Borgoan",
+    "name_mr": "",
+    "code": "544054",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544041",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "544041",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544042",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mahankalpur",
+    "name_mr": "",
+    "code": "544042",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544011",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "544011",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544055",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Welabai",
+    "name_mr": "",
+    "code": "544055",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544061",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shivni (jh)",
+    "name_mr": "",
+    "code": "544061",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544062",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mungoli",
+    "name_mr": "",
+    "code": "544062",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544053",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Keshav Nagar",
+    "name_mr": "",
+    "code": "544053",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544058",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kurli",
+    "name_mr": "",
+    "code": "544058",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544012",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shewala",
+    "name_mr": "",
+    "code": "544012",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544051",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "544051",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544048",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Patharpur",
+    "name_mr": "",
+    "code": "544048",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544013",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Yenad",
+    "name_mr": "",
+    "code": "544013",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544063",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Matholi",
+    "name_mr": "",
+    "code": "544063",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544064",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Jugad",
+    "name_mr": "",
+    "code": "544064",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544046",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "544046",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544052",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mohada",
+    "name_mr": "",
+    "code": "544052",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544047",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Wadhona Pilki",
+    "name_mr": "",
+    "code": "544047",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544050",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chendkapur",
+    "name_mr": "",
+    "code": "544050",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544059",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Shindola",
+    "name_mr": "",
+    "code": "544059",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544065",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Sakhara",
+    "name_mr": "",
+    "code": "544065",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544076",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Panchdhar",
+    "name_mr": "",
+    "code": "544076",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544049",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nerad",
+    "name_mr": "",
+    "code": "544049",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544066",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kolgaon",
+    "name_mr": "",
+    "code": "544066",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544077",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Purad",
+    "name_mr": "",
+    "code": "544077",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544060",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Yenak",
+    "name_mr": "",
+    "code": "544060",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544075",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "544075",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544074",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kurai",
+    "name_mr": "",
+    "code": "544074",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544068",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "544068",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544083",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Krishnanpur",
+    "name_mr": "",
+    "code": "544083",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544067",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "544067",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544071",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chanakha",
+    "name_mr": "",
+    "code": "544071",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544078",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kundra",
+    "name_mr": "",
+    "code": "544078",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544084",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Junoni",
+    "name_mr": "",
+    "code": "544084",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544080",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Hiwardhara",
+    "name_mr": "",
+    "code": "544080",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544079",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Mundra",
+    "name_mr": "",
+    "code": "544079",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544073",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Gowari",
+    "name_mr": "",
+    "code": "544073",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544082",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Modmajara",
+    "name_mr": "",
+    "code": "544082",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544069",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Paramdoh",
+    "name_mr": "",
+    "code": "544069",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544072",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pathri",
+    "name_mr": "",
+    "code": "544072",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544070",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Kalmana Bk.",
+    "name_mr": "",
+    "code": "544070",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544086",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "544086",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544094",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dhunki",
+    "name_mr": "",
+    "code": "544094",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544090",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Dhakori",
+    "name_mr": "",
+    "code": "544090",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544081",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Chilai",
+    "name_mr": "",
+    "code": "544081",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544085",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nimbala Kh.",
+    "name_mr": "",
+    "code": "544085",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544092",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Nimbala Bk.",
+    "name_mr": "",
+    "code": "544092",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544093",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Jamni",
+    "name_mr": "",
+    "code": "544093",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544087",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "544087",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544095",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Khed",
+    "name_mr": "",
+    "code": "544095",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544088",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Murti",
+    "name_mr": "",
+    "code": "544088",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544091",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Deurwada",
+    "name_mr": "",
+    "code": "544091",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544089",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "544089",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544096",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Tejapur",
+    "name_mr": "",
+    "code": "544096",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544097",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Amlon",
+    "name_mr": "",
+    "code": "544097",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544098",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Akapur",
+    "name_mr": "",
+    "code": "544098",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  },
+  {
+    "village_id": "v-544099",
+    "district_id": "yavatmal",
+    "taluka_id": "wani",
+    "name_en": "Gadeghat",
+    "name_mr": "",
+    "code": "544099",
+    "boundary_file": "/data/boundaries/villages/yavatmal/wani.geojson"
+  }
+]

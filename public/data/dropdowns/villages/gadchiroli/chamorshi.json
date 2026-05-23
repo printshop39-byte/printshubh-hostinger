@@ -1,0 +1,1892 @@
+[
+  {
+    "village_id": "v-539401",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jambela Rith",
+    "name_mr": "",
+    "code": "539401",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539311",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mudholi Chak No.2",
+    "name_mr": "",
+    "code": "539311",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "markhanda-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "MARKHANDA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539397",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Warur",
+    "name_mr": "",
+    "code": "539397",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539312",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mudholi Chak No.1",
+    "name_mr": "",
+    "code": "539312",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539320",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Somanpalli",
+    "name_mr": "",
+    "code": "539320",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539307",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Amrapali",
+    "name_mr": "",
+    "code": "539307",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539346",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chaudampalli",
+    "name_mr": "",
+    "code": "539346",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539345",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chaparala",
+    "name_mr": "",
+    "code": "539345",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539347",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Singampalli",
+    "name_mr": "",
+    "code": "539347",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539323",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ravindrapur",
+    "name_mr": "",
+    "code": "539323",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539313",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mudholi Rith",
+    "name_mr": "",
+    "code": "539313",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539402",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Potepalli Rayyatwari",
+    "name_mr": "",
+    "code": "539402",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539400",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Meteguda Rith",
+    "name_mr": "",
+    "code": "539400",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539321",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Dharmpur",
+    "name_mr": "",
+    "code": "539321",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539408",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Regadi",
+    "name_mr": "",
+    "code": "539408",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539314",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mudholi Tukum",
+    "name_mr": "",
+    "code": "539314",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539322",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "539322",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539414",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Thakurnagar",
+    "name_mr": "",
+    "code": "539414",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539315",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jairampur",
+    "name_mr": "",
+    "code": "539315",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539324",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rammohanpur",
+    "name_mr": "",
+    "code": "539324",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539319",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Konsari",
+    "name_mr": "",
+    "code": "539319",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539413",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Somanpur",
+    "name_mr": "",
+    "code": "539413",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539316",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bamhanidev",
+    "name_mr": "",
+    "code": "539316",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539325",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ramkrishnapur",
+    "name_mr": "",
+    "code": "539325",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539411",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bahadupur",
+    "name_mr": "",
+    "code": "539411",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539254",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Gilgaon",
+    "name_mr": "",
+    "code": "539254",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539251",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navegaon Raiyyatwari",
+    "name_mr": "",
+    "code": "539251",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539220",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Farada",
+    "name_mr": "",
+    "code": "539220",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539219",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mohurli Mokasa",
+    "name_mr": "",
+    "code": "539219",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539253",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bandhona",
+    "name_mr": "",
+    "code": "539253",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539218",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ghargaon",
+    "name_mr": "",
+    "code": "539218",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539252",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kunghada Raiyyatwari",
+    "name_mr": "",
+    "code": "539252",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539255",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhendikanhar",
+    "name_mr": "",
+    "code": "539255",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539256",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Thatari",
+    "name_mr": "",
+    "code": "539256",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539260",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navargaon",
+    "name_mr": "",
+    "code": "539260",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539257",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chitekanhar",
+    "name_mr": "",
+    "code": "539257",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539221",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Markandadeo",
+    "name_mr": "",
+    "code": "539221",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539222",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ramala",
+    "name_mr": "",
+    "code": "539222",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539223",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Dotkuli",
+    "name_mr": "",
+    "code": "539223",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539317",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Yadavpalli",
+    "name_mr": "",
+    "code": "539317",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539318",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Pardi Deo",
+    "name_mr": "",
+    "code": "539318",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539326",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "539326",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539344",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chandankhedi",
+    "name_mr": "",
+    "code": "539344",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539343",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kunghada Mal",
+    "name_mr": "",
+    "code": "539343",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539373",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Pettala Chak",
+    "name_mr": "",
+    "code": "539373",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539378",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jawaharnagar",
+    "name_mr": "",
+    "code": "539378",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539295",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Haladi Chak",
+    "name_mr": "",
+    "code": "539295",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539379",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Belgatta",
+    "name_mr": "",
+    "code": "539379",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539368",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navnitgram",
+    "name_mr": "",
+    "code": "539368",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "ghot-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "GHOT RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539362",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Narayanpur Chak No.1",
+    "name_mr": "",
+    "code": "539362",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539296",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Adyal",
+    "name_mr": "",
+    "code": "539296",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539301",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ganpur Raiyyatwari",
+    "name_mr": "",
+    "code": "539301",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539385",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Syamanagar",
+    "name_mr": "",
+    "code": "539385",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539371",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mangigaon",
+    "name_mr": "",
+    "code": "539371",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539384",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rashmipur",
+    "name_mr": "",
+    "code": "539384",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539390",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chapalwada Chak",
+    "name_mr": "",
+    "code": "539390",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539370",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Machhalighot",
+    "name_mr": "",
+    "code": "539370",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539372",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Belgatta Chak",
+    "name_mr": "",
+    "code": "539372",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539357",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Narayanpur Chak No.2",
+    "name_mr": "",
+    "code": "539357",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539391",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Makepalli Chak No.1",
+    "name_mr": "",
+    "code": "539391",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539416",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Narendrapur",
+    "name_mr": "",
+    "code": "539416",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539417",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Tumdi",
+    "name_mr": "",
+    "code": "539417",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539415",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "539415",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539418",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Gundapalli",
+    "name_mr": "",
+    "code": "539418",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539412",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Subhashgram",
+    "name_mr": "",
+    "code": "539412",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539327",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "539327",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539329",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "539329",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539419",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Anandgram",
+    "name_mr": "",
+    "code": "539419",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539330",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Khardi Rith",
+    "name_mr": "",
+    "code": "539330",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539328",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kadholi",
+    "name_mr": "",
+    "code": "539328",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539420",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Vasantpur",
+    "name_mr": "",
+    "code": "539420",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539332",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhumaki Rith",
+    "name_mr": "",
+    "code": "539332",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539333",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ankhoda",
+    "name_mr": "",
+    "code": "539333",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539331",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chandankhedi",
+    "name_mr": "",
+    "code": "539331",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539335",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Borghat Rith",
+    "name_mr": "",
+    "code": "539335",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539337",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bamhanpeth",
+    "name_mr": "",
+    "code": "539337",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539334",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ashti Nokewada",
+    "name_mr": "",
+    "code": "539334",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539336",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Nokewada Rith",
+    "name_mr": "",
+    "code": "539336",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539421",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ashti",
+    "name_mr": "",
+    "code": "539421",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539339",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Alapalli Masahat",
+    "name_mr": "",
+    "code": "539339",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539338",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Markanda Kansoba",
+    "name_mr": "",
+    "code": "539338",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539340",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Illur",
+    "name_mr": "",
+    "code": "539340",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539341",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Thakari",
+    "name_mr": "",
+    "code": "539341",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539342",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ramangatta",
+    "name_mr": "",
+    "code": "539342",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539293",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bawanchuwa",
+    "name_mr": "",
+    "code": "539293",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539272",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jogana",
+    "name_mr": "",
+    "code": "539272",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539264",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Nimgaon Raiyyatwari",
+    "name_mr": "",
+    "code": "539264",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539231",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navegaon Mal",
+    "name_mr": "",
+    "code": "539231",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539232",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Saganapur",
+    "name_mr": "",
+    "code": "539232",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539233",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Weltur Tukum",
+    "name_mr": "",
+    "code": "539233",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539230",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chakalpeth",
+    "name_mr": "",
+    "code": "539230",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539268",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Khorda Chak",
+    "name_mr": "",
+    "code": "539268",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539234",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Weltur Rith",
+    "name_mr": "",
+    "code": "539234",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539237",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kanholi",
+    "name_mr": "",
+    "code": "539237",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539265",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Nachangaon",
+    "name_mr": "",
+    "code": "539265",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539267",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "539267",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539276",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Pavi Muranda",
+    "name_mr": "",
+    "code": "539276",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539277",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Yedanur",
+    "name_mr": "",
+    "code": "539277",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539275",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Lenguda",
+    "name_mr": "",
+    "code": "539275",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539290",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Dhekani",
+    "name_mr": "",
+    "code": "539290",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539238",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Murkhala",
+    "name_mr": "",
+    "code": "539238",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539352",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Amgaon Chak No.2",
+    "name_mr": "",
+    "code": "539352",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539270",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Visapur Raiyyatwari",
+    "name_mr": "",
+    "code": "539270",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539258",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kuthegaon",
+    "name_mr": "",
+    "code": "539258",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539261",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Maler Chak",
+    "name_mr": "",
+    "code": "539261",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539224",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "539224",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539259",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Maler Mal",
+    "name_mr": "",
+    "code": "539259",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539263",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Talodhi Mokasa",
+    "name_mr": "",
+    "code": "539263",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539262",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navtala Tukum",
+    "name_mr": "",
+    "code": "539262",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539225",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "539225",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539227",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Fokurdi",
+    "name_mr": "",
+    "code": "539227",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539226",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhendala",
+    "name_mr": "",
+    "code": "539226",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-276329",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chamorshi (NP)",
+    "name_mr": "",
+    "code": "276329",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539274",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ravanpalli",
+    "name_mr": "",
+    "code": "539274",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539271",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhadbhidi Mokasa",
+    "name_mr": "",
+    "code": "539271",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539273",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Murmuri",
+    "name_mr": "",
+    "code": "539273",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539292",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chichapalli Rith",
+    "name_mr": "",
+    "code": "539292",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539269",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Hivergaon",
+    "name_mr": "",
+    "code": "539269",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-45",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539266",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kurul",
+    "name_mr": "",
+    "code": "539266",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539235",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ekodi",
+    "name_mr": "",
+    "code": "539235",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539278",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Pavilasanpeth",
+    "name_mr": "",
+    "code": "539278",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539349",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rekhegaon",
+    "name_mr": "",
+    "code": "539349",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539348",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Amgaon Mahal",
+    "name_mr": "",
+    "code": "539348",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539240",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "539240",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539236",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kalamgaon",
+    "name_mr": "",
+    "code": "539236",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539241",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Vikrampur",
+    "name_mr": "",
+    "code": "539241",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539239",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Murkhala Chak",
+    "name_mr": "",
+    "code": "539239",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539281",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhivapur",
+    "name_mr": "",
+    "code": "539281",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539279",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Pandhari Bhatal",
+    "name_mr": "",
+    "code": "539279",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539280",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Walsara",
+    "name_mr": "",
+    "code": "539280",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539350",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Anantpur",
+    "name_mr": "",
+    "code": "539350",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539282",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Shrinivaspur",
+    "name_mr": "",
+    "code": "539282",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539283",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Krishnanagar",
+    "name_mr": "",
+    "code": "539283",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539242",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jaynagar",
+    "name_mr": "",
+    "code": "539242",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539289",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Fuser",
+    "name_mr": "",
+    "code": "539289",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-46",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539288",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Abapur",
+    "name_mr": "",
+    "code": "539288",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539285",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Gauripur",
+    "name_mr": "",
+    "code": "539285",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539287",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Mutnur",
+    "name_mr": "",
+    "code": "539287",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539244",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Lakhamapur Bori",
+    "name_mr": "",
+    "code": "539244",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539351",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Amgaon Chak No.1",
+    "name_mr": "",
+    "code": "539351",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539291",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Manger Rith",
+    "name_mr": "",
+    "code": "539291",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539353",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Janala Tukum",
+    "name_mr": "",
+    "code": "539353",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539243",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ramsagar",
+    "name_mr": "",
+    "code": "539243",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "ghot-reserved-forest-dup-47",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "GHOT RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539284",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rajangatta",
+    "name_mr": "",
+    "code": "539284",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539248",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "539248",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539249",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Darli Rith",
+    "name_mr": "",
+    "code": "539249",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539354",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jangam Kurul",
+    "name_mr": "",
+    "code": "539354",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539250",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhoganbodi",
+    "name_mr": "",
+    "code": "539250",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "ghot-reserved-forest-dup-48",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "GHOT RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539358",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Karkapalli Chak",
+    "name_mr": "",
+    "code": "539358",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539247",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Wakadi",
+    "name_mr": "",
+    "code": "539247",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539245",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhikshimal",
+    "name_mr": "",
+    "code": "539245",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539355",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhadbhidi alias Bilaspur",
+    "name_mr": "",
+    "code": "539355",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539360",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Maroda",
+    "name_mr": "",
+    "code": "539360",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539286",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Karkapalli Mal",
+    "name_mr": "",
+    "code": "539286",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539367",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kothari",
+    "name_mr": "",
+    "code": "539367",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539246",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Bhikshichak",
+    "name_mr": "",
+    "code": "539246",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539365",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Haldawahi Tola (Navgram)",
+    "name_mr": "",
+    "code": "539365",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539364",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Haladiwahi",
+    "name_mr": "",
+    "code": "539364",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539380",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Narayanpurmal",
+    "name_mr": "",
+    "code": "539380",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539359",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navgram",
+    "name_mr": "",
+    "code": "539359",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539363",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rajur Bk.",
+    "name_mr": "",
+    "code": "539363",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539294",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Haladi",
+    "name_mr": "",
+    "code": "539294",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539366",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Made Mudholi",
+    "name_mr": "",
+    "code": "539366",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539361",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Jamgiri",
+    "name_mr": "",
+    "code": "539361",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539383",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Vishnupur",
+    "name_mr": "",
+    "code": "539383",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539356",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Netajinagar",
+    "name_mr": "",
+    "code": "539356",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539374",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rajur Kh.",
+    "name_mr": "",
+    "code": "539374",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539376",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Giripeth",
+    "name_mr": "",
+    "code": "539376",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539382",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Gahubodi",
+    "name_mr": "",
+    "code": "539382",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539375",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Pettala Mal",
+    "name_mr": "",
+    "code": "539375",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539381",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Rajgopalpur",
+    "name_mr": "",
+    "code": "539381",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539299",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kishtapur",
+    "name_mr": "",
+    "code": "539299",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539369",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Simultala",
+    "name_mr": "",
+    "code": "539369",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539298",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chitranjanpur",
+    "name_mr": "",
+    "code": "539298",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539392",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Makepalli Chak No.4",
+    "name_mr": "",
+    "code": "539392",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539297",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Saganapur",
+    "name_mr": "",
+    "code": "539297",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539300",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Sellur",
+    "name_mr": "",
+    "code": "539300",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539387",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Ghot",
+    "name_mr": "",
+    "code": "539387",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539405",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Made Amgaon Chak No.2",
+    "name_mr": "",
+    "code": "539405",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539304",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Durgapur",
+    "name_mr": "",
+    "code": "539304",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539388",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Kardul Tola (Navgram)",
+    "name_mr": "",
+    "code": "539388",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539310",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chandeshwar",
+    "name_mr": "",
+    "code": "539310",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539303",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Laxmanpur",
+    "name_mr": "",
+    "code": "539303",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539396",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Chapalwada",
+    "name_mr": "",
+    "code": "539396",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539389",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Darpanguda",
+    "name_mr": "",
+    "code": "539389",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539306",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Amboli",
+    "name_mr": "",
+    "code": "539306",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539386",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Singela Rith",
+    "name_mr": "",
+    "code": "539386",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539395",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Makepalli Chak No.2",
+    "name_mr": "",
+    "code": "539395",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539394",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Made Amgaon",
+    "name_mr": "",
+    "code": "539394",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539302",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Vittalpur",
+    "name_mr": "",
+    "code": "539302",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539406",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Makepalli Mal",
+    "name_mr": "",
+    "code": "539406",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539407",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Vikaspalli",
+    "name_mr": "",
+    "code": "539407",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539308",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Priyadarshani",
+    "name_mr": "",
+    "code": "539308",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539404",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Made Amgaon Chak No.1",
+    "name_mr": "",
+    "code": "539404",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539410",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Gandhinagar",
+    "name_mr": "",
+    "code": "539410",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539399",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Nikatwada",
+    "name_mr": "",
+    "code": "539399",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539305",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Yenapur",
+    "name_mr": "",
+    "code": "539305",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539409",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Palaspur",
+    "name_mr": "",
+    "code": "539409",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539393",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Makepalli Chak No.3",
+    "name_mr": "",
+    "code": "539393",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539403",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Potepalli Patch",
+    "name_mr": "",
+    "code": "539403",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539398",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "539398",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539309",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Waigaon",
+    "name_mr": "",
+    "code": "539309",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  },
+  {
+    "village_id": "v-539377",
+    "district_id": "gadchiroli",
+    "taluka_id": "chamorshi",
+    "name_en": "Shantinagar",
+    "name_mr": "",
+    "code": "539377",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/chamorshi.geojson"
+  }
+]

@@ -1,0 +1,1442 @@
+[
+  {
+    "village_id": "v-547417",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Tapovan",
+    "name_mr": "",
+    "code": "547417",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547415",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Chandai eko",
+    "name_mr": "",
+    "code": "547415",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547387",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon sutar",
+    "name_mr": "",
+    "code": "547387",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547418",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Longaon",
+    "name_mr": "",
+    "code": "547418",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547412",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Umarkheda",
+    "name_mr": "",
+    "code": "547412",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547386",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Palaskheda dabhadi",
+    "name_mr": "",
+    "code": "547386",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547388",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon sermulki",
+    "name_mr": "",
+    "code": "547388",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547389",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kota dabhadi",
+    "name_mr": "",
+    "code": "547389",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547416",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Rajur",
+    "name_mr": "",
+    "code": "547416",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547414",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Chandai tepli",
+    "name_mr": "",
+    "code": "547414",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547383",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Ekephal",
+    "name_mr": "",
+    "code": "547383",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547413",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Khamkheda",
+    "name_mr": "",
+    "code": "547413",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547381",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jawkheda Kh.",
+    "name_mr": "",
+    "code": "547381",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547384",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "547384",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547409",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Palaskheda thombari",
+    "name_mr": "",
+    "code": "547409",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547395",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon Thot",
+    "name_mr": "",
+    "code": "547395",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547382",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jawkheda Bk.",
+    "name_mr": "",
+    "code": "547382",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547378",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Fulenagar",
+    "name_mr": "",
+    "code": "547378",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547408",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Chandai thombri",
+    "name_mr": "",
+    "code": "547408",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547405",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Janephal dabhadi",
+    "name_mr": "",
+    "code": "547405",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547373",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon kolte",
+    "name_mr": "",
+    "code": "547373",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547377",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Khadgaon",
+    "name_mr": "",
+    "code": "547377",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547406",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "547406",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547410",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Thigalkheda",
+    "name_mr": "",
+    "code": "547410",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547396",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Palaskheda Pimpale",
+    "name_mr": "",
+    "code": "547396",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547374",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Sawkheda",
+    "name_mr": "",
+    "code": "547374",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547380",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "547380",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547397",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Banegaon",
+    "name_mr": "",
+    "code": "547397",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547379",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Latifpur",
+    "name_mr": "",
+    "code": "547379",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547404",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Takli hivardi",
+    "name_mr": "",
+    "code": "547404",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547375",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Ita",
+    "name_mr": "",
+    "code": "547375",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547376",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Ram Nagar",
+    "name_mr": "",
+    "code": "547376",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547368",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Sirasgaon waghrul",
+    "name_mr": "",
+    "code": "547368",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547367",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Takli bajad",
+    "name_mr": "",
+    "code": "547367",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547411",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon barao",
+    "name_mr": "",
+    "code": "547411",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547371",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Deulgaon (kaman)",
+    "name_mr": "",
+    "code": "547371",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547403",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Borgaon taru",
+    "name_mr": "",
+    "code": "547403",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547407",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Deulgaon tad",
+    "name_mr": "",
+    "code": "547407",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547399",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kedarkheda",
+    "name_mr": "",
+    "code": "547399",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547400",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon (sul)",
+    "name_mr": "",
+    "code": "547400",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547369",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Borgaon khadak",
+    "name_mr": "",
+    "code": "547369",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547372",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Vazirkheda",
+    "name_mr": "",
+    "code": "547372",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547398",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Bamkheda",
+    "name_mr": "",
+    "code": "547398",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547391",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Merkheda",
+    "name_mr": "",
+    "code": "547391",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547390",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Walsakhalsa",
+    "name_mr": "",
+    "code": "547390",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547393",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Nalni Bk.",
+    "name_mr": "",
+    "code": "547393",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547365",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Rajala",
+    "name_mr": "",
+    "code": "547365",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547370",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Hasanabad",
+    "name_mr": "",
+    "code": "547370",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547366",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pandharpur",
+    "name_mr": "",
+    "code": "547366",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547394",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Khaparkheda",
+    "name_mr": "",
+    "code": "547394",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547327",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Nalni Kh.",
+    "name_mr": "",
+    "code": "547327",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547328",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Samarth Nagar",
+    "name_mr": "",
+    "code": "547328",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547401",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Walsa dawargaon",
+    "name_mr": "",
+    "code": "547401",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547392",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jawkheda thombari",
+    "name_mr": "",
+    "code": "547392",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547359",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Belura",
+    "name_mr": "",
+    "code": "547359",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547402",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dawargaon",
+    "name_mr": "",
+    "code": "547402",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547361",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Goshegaon",
+    "name_mr": "",
+    "code": "547361",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547364",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "547364",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547360",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Koparda",
+    "name_mr": "",
+    "code": "547360",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547362",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "547362",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547326",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Tadegaon",
+    "name_mr": "",
+    "code": "547326",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547325",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Tadegaonwadi",
+    "name_mr": "",
+    "code": "547325",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547324",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Baranjala (sabale)",
+    "name_mr": "",
+    "code": "547324",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547323",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Baranjala (lokhande)",
+    "name_mr": "",
+    "code": "547323",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547358",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Soegaon devi",
+    "name_mr": "",
+    "code": "547358",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547363",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Sirasgaon (mandap)",
+    "name_mr": "",
+    "code": "547363",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547352",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "547352",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547349",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kathora (jainpur)",
+    "name_mr": "",
+    "code": "547349",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547348",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jainpur (kathora)",
+    "name_mr": "",
+    "code": "547348",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547321",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kodoli",
+    "name_mr": "",
+    "code": "547321",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547320",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Takli bhokardan",
+    "name_mr": "",
+    "code": "547320",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547357",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Garkheda",
+    "name_mr": "",
+    "code": "547357",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547347",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "547347",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547322",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Lingewadi",
+    "name_mr": "",
+    "code": "547322",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547351",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kshirsagar",
+    "name_mr": "",
+    "code": "547351",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547353",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jomala",
+    "name_mr": "",
+    "code": "547353",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547354",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "547354",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547350",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Nanja",
+    "name_mr": "",
+    "code": "547350",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547319",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dautpur",
+    "name_mr": "",
+    "code": "547319",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547355",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Masanpur",
+    "name_mr": "",
+    "code": "547355",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547345",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Muthad",
+    "name_mr": "",
+    "code": "547345",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547318",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "547318",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547317",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Sipora Bazar",
+    "name_mr": "",
+    "code": "547317",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547307",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Viregaon",
+    "name_mr": "",
+    "code": "547307",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547346",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Ibrahimpur",
+    "name_mr": "",
+    "code": "547346",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547356",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Chorhala",
+    "name_mr": "",
+    "code": "547356",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547306",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Palaskheda Bhokardan",
+    "name_mr": "",
+    "code": "547306",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-251422",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Bhokardan (M Cl)",
+    "name_mr": "",
+    "code": "251422",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547339",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Alapur",
+    "name_mr": "",
+    "code": "547339",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547341",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Nasirabad",
+    "name_mr": "",
+    "code": "547341",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547340",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Rampur Bk.",
+    "name_mr": "",
+    "code": "547340",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547337",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "547337",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547316",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Borgaon (jahagir)",
+    "name_mr": "",
+    "code": "547316",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547344",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Malkheda",
+    "name_mr": "",
+    "code": "547344",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547313",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Walsa wadala",
+    "name_mr": "",
+    "code": "547313",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547315",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Nimbola",
+    "name_mr": "",
+    "code": "547315",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547304",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Bhaydi",
+    "name_mr": "",
+    "code": "547304",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547342",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Perjapur",
+    "name_mr": "",
+    "code": "547342",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547314",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Tadkalas",
+    "name_mr": "",
+    "code": "547314",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547335",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pralhadpur",
+    "name_mr": "",
+    "code": "547335",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547305",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "547305",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547343",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Subhanpur",
+    "name_mr": "",
+    "code": "547343",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547338",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Manapur",
+    "name_mr": "",
+    "code": "547338",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547336",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "547336",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547312",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kolegaon",
+    "name_mr": "",
+    "code": "547312",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547334",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Gokul",
+    "name_mr": "",
+    "code": "547334",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547303",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Wadshed",
+    "name_mr": "",
+    "code": "547303",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547331",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Wadi Bk.",
+    "name_mr": "",
+    "code": "547331",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547309",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kotha jahagir",
+    "name_mr": "",
+    "code": "547309",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547311",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Godri",
+    "name_mr": "",
+    "code": "547311",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547301",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Danapur",
+    "name_mr": "",
+    "code": "547301",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547333",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Avhana",
+    "name_mr": "",
+    "code": "547333",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547310",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "547310",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547332",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Bhivpur",
+    "name_mr": "",
+    "code": "547332",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547330",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Wadi Kh",
+    "name_mr": "",
+    "code": "547330",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547302",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dagadwadi",
+    "name_mr": "",
+    "code": "547302",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547308",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kosgaon",
+    "name_mr": "",
+    "code": "547308",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547300",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dehed",
+    "name_mr": "",
+    "code": "547300",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547296",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Palaskheda murtad",
+    "name_mr": "",
+    "code": "547296",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547294",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kathora bajar",
+    "name_mr": "",
+    "code": "547294",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547299",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Mohalai",
+    "name_mr": "",
+    "code": "547299",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547295",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Surangali",
+    "name_mr": "",
+    "code": "547295",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547297",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Warud bk",
+    "name_mr": "",
+    "code": "547297",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547298",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Relgaon",
+    "name_mr": "",
+    "code": "547298",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547329",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Wakdi",
+    "name_mr": "",
+    "code": "547329",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547293",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kukdi",
+    "name_mr": "",
+    "code": "547293",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547289",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Savangi Aughadrao",
+    "name_mr": "",
+    "code": "547289",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547292",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Karajgaon",
+    "name_mr": "",
+    "code": "547292",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547282",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kalyani",
+    "name_mr": "",
+    "code": "547282",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547280",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Janephal (gaikwad)",
+    "name_mr": "",
+    "code": "547280",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547290",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pimpalgaon (renukai)",
+    "name_mr": "",
+    "code": "547290",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547291",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Kotha koli",
+    "name_mr": "",
+    "code": "547291",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547279",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Karlawadi",
+    "name_mr": "",
+    "code": "547279",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547285",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Leha",
+    "name_mr": "",
+    "code": "547285",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547278",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Anwa",
+    "name_mr": "",
+    "code": "547278",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547281",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Anvapada",
+    "name_mr": "",
+    "code": "547281",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547288",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Paradh Bk.",
+    "name_mr": "",
+    "code": "547288",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547283",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Hisoda Bk.",
+    "name_mr": "",
+    "code": "547283",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547286",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Paradh Kh.",
+    "name_mr": "",
+    "code": "547286",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547284",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Hisoda Kh.",
+    "name_mr": "",
+    "code": "547284",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547275",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jalgaon (sapakal)",
+    "name_mr": "",
+    "code": "547275",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547272",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Selud",
+    "name_mr": "",
+    "code": "547272",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547277",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dhondkheda",
+    "name_mr": "",
+    "code": "547277",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547276",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Koda",
+    "name_mr": "",
+    "code": "547276",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547287",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Padmavati",
+    "name_mr": "",
+    "code": "547287",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547273",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "547273",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547274",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "547274",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547268",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Wadhod tangda",
+    "name_mr": "",
+    "code": "547268",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547269",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "547269",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547271",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Walsawangi",
+    "name_mr": "",
+    "code": "547271",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547267",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Bhorkheda",
+    "name_mr": "",
+    "code": "547267",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547270",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Sunderwadi",
+    "name_mr": "",
+    "code": "547270",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547266",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Dhawada",
+    "name_mr": "",
+    "code": "547266",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547265",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Vizora",
+    "name_mr": "",
+    "code": "547265",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547264",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Jaidevwadi",
+    "name_mr": "",
+    "code": "547264",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547263",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "547263",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547262",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Mehgaon",
+    "name_mr": "",
+    "code": "547262",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547419",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Gavhan Sangameshwar",
+    "name_mr": "",
+    "code": "547419",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-547385",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "547385",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  },
+  {
+    "village_id": "v-651980",
+    "district_id": "jalna",
+    "taluka_id": "bhokardan",
+    "name_en": "Bismillakha",
+    "name_mr": "",
+    "code": "651980",
+    "boundary_file": "/data/boundaries/villages/jalna/bhokardan.geojson"
+  }
+]

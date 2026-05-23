@@ -1,0 +1,893 @@
+[
+  {
+    "village_id": "v-551754",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "551754",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551753",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Ambeghar Dharampur",
+    "name_mr": "",
+    "code": "551753",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551745",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kosesari",
+    "name_mr": "",
+    "code": "551745",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551744",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Bhavadi",
+    "name_mr": "",
+    "code": "551744",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551751",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Therunde",
+    "name_mr": "",
+    "code": "551751",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551763",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Varanwadi",
+    "name_mr": "",
+    "code": "551763",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551755",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kasa Bk.",
+    "name_mr": "",
+    "code": "551755",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551760",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Talavali Tarf Dengachimet",
+    "name_mr": "",
+    "code": "551760",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551752",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kawadas",
+    "name_mr": "",
+    "code": "551752",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551757",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Talawade",
+    "name_mr": "",
+    "code": "551757",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551746",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Veti",
+    "name_mr": "",
+    "code": "551746",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551756",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Sarshi",
+    "name_mr": "",
+    "code": "551756",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551762",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Madacha  Pada",
+    "name_mr": "",
+    "code": "551762",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551761",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Karhe",
+    "name_mr": "",
+    "code": "551761",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551759",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kunj",
+    "name_mr": "",
+    "code": "551759",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551747",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Murbad",
+    "name_mr": "",
+    "code": "551747",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551748",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vangarje",
+    "name_mr": "",
+    "code": "551748",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551765",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Wehelpada",
+    "name_mr": "",
+    "code": "551765",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551788",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Sawade",
+    "name_mr": "",
+    "code": "551788",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551782",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Ghanode",
+    "name_mr": "",
+    "code": "551782",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551758",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "551758",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551770",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Sawarai",
+    "name_mr": "",
+    "code": "551770",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551769",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Medhi",
+    "name_mr": "",
+    "code": "551769",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551771",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kegva",
+    "name_mr": "",
+    "code": "551771",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551749",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Pimpalshet Bk.",
+    "name_mr": "",
+    "code": "551749",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551772",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Dadade",
+    "name_mr": "",
+    "code": "551772",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551773",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Devapur",
+    "name_mr": "",
+    "code": "551773",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551934",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vijaynagar",
+    "name_mr": "",
+    "code": "551934",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551764",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vittalnagar",
+    "name_mr": "",
+    "code": "551764",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551776",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Chandranagar",
+    "name_mr": "",
+    "code": "551776",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551795",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Khuded",
+    "name_mr": "",
+    "code": "551795",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551777",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vilshet",
+    "name_mr": "",
+    "code": "551777",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551766",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Shavate",
+    "name_mr": "",
+    "code": "551766",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551768",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Balapur",
+    "name_mr": "",
+    "code": "551768",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551775",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Dolhari Bk.",
+    "name_mr": "",
+    "code": "551775",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551778",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kondgaon",
+    "name_mr": "",
+    "code": "551778",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551781",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Karsud",
+    "name_mr": "",
+    "code": "551781",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551787",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Dolhari Kh.",
+    "name_mr": "",
+    "code": "551787",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551786",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Satkor",
+    "name_mr": "",
+    "code": "551786",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551796",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Hanumantpada",
+    "name_mr": "",
+    "code": "551796",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551767",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Ambeghar (Balapur)",
+    "name_mr": "",
+    "code": "551767",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551789",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Gadadhe",
+    "name_mr": "",
+    "code": "551789",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551793",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Suksale",
+    "name_mr": "",
+    "code": "551793",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551794",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Jambhe",
+    "name_mr": "",
+    "code": "551794",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551834",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vasuri",
+    "name_mr": "",
+    "code": "551834",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551841",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Male",
+    "name_mr": "",
+    "code": "551841",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551840",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kawale",
+    "name_mr": "",
+    "code": "551840",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551842",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Apti Kh.",
+    "name_mr": "",
+    "code": "551842",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551843",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kashivali Tarf Alonde",
+    "name_mr": "",
+    "code": "551843",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551797",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Sakhare",
+    "name_mr": "",
+    "code": "551797",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551790",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Nagzari",
+    "name_mr": "",
+    "code": "551790",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551811",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Ghaneghar",
+    "name_mr": "",
+    "code": "551811",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551785",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Uparale",
+    "name_mr": "",
+    "code": "551785",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-276316",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vikramgad (NP)",
+    "name_mr": "",
+    "code": "276316",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551784",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Apti Bk.",
+    "name_mr": "",
+    "code": "551784",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551806",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Tetawali",
+    "name_mr": "",
+    "code": "551806",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551779",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Talavali Tarf Satkor",
+    "name_mr": "",
+    "code": "551779",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551780",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vedhe",
+    "name_mr": "",
+    "code": "551780",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551799",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Tembholi",
+    "name_mr": "",
+    "code": "551799",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551816",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Shil",
+    "name_mr": "",
+    "code": "551816",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551812",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Borande",
+    "name_mr": "",
+    "code": "551812",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551814",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Shil",
+    "name_mr": "",
+    "code": "551814",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551817",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Zadapoli",
+    "name_mr": "",
+    "code": "551817",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551820",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Malwade",
+    "name_mr": "",
+    "code": "551820",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551815",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Hatane",
+    "name_mr": "",
+    "code": "551815",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551813",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Bangarchole",
+    "name_mr": "",
+    "code": "551813",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551819",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "551819",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551824",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Moho Bk.",
+    "name_mr": "",
+    "code": "551824",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551818",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Sajan",
+    "name_mr": "",
+    "code": "551818",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551826",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Mhasaroli",
+    "name_mr": "",
+    "code": "551826",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551827",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Shilshet",
+    "name_mr": "",
+    "code": "551827",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551829",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kev",
+    "name_mr": "",
+    "code": "551829",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551807",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Bandhan",
+    "name_mr": "",
+    "code": "551807",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551783",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Chari Bk.",
+    "name_mr": "",
+    "code": "551783",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551800",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Pochade",
+    "name_mr": "",
+    "code": "551800",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551798",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Andhari",
+    "name_mr": "",
+    "code": "551798",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551804",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Man",
+    "name_mr": "",
+    "code": "551804",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551805",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Deharje",
+    "name_mr": "",
+    "code": "551805",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551802",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Khand",
+    "name_mr": "",
+    "code": "551802",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551803",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Onde",
+    "name_mr": "",
+    "code": "551803",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551825",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Kurze",
+    "name_mr": "",
+    "code": "551825",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551809",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Chinchghar",
+    "name_mr": "",
+    "code": "551809",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551810",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Bhopoli",
+    "name_mr": "",
+    "code": "551810",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551808",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Khandeghar",
+    "name_mr": "",
+    "code": "551808",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551801",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "551801",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551822",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Alonde",
+    "name_mr": "",
+    "code": "551822",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551828",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Nalshet",
+    "name_mr": "",
+    "code": "551828",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551836",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Bhanapur",
+    "name_mr": "",
+    "code": "551836",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551837",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Baste",
+    "name_mr": "",
+    "code": "551837",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551823",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Moho Kh.",
+    "name_mr": "",
+    "code": "551823",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551832",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Savaroli",
+    "name_mr": "",
+    "code": "551832",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551831",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Ambivali",
+    "name_mr": "",
+    "code": "551831",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551839",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Potkhal",
+    "name_mr": "",
+    "code": "551839",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551830",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Vadapoli",
+    "name_mr": "",
+    "code": "551830",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551835",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Utavali",
+    "name_mr": "",
+    "code": "551835",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551838",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Shelpada",
+    "name_mr": "",
+    "code": "551838",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551833",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Indgaon",
+    "name_mr": "",
+    "code": "551833",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551774",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Anandpur",
+    "name_mr": "",
+    "code": "551774",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  },
+  {
+    "village_id": "v-551821",
+    "district_id": "palghar",
+    "taluka_id": "vikramgad",
+    "name_en": "Khoste",
+    "name_mr": "",
+    "code": "551821",
+    "boundary_file": "/data/boundaries/villages/palghar/vikramgad.geojson"
+  }
+]

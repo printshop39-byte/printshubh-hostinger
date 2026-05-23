@@ -1,0 +1,1262 @@
+[
+  {
+    "village_id": "submerged",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526048",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "526048",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-251280",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Shirpur-Warwade (M Cl)",
+    "name_mr": "",
+    "code": "251280",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526051",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Mandal",
+    "name_mr": "",
+    "code": "526051",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526049",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hingoni Bk",
+    "name_mr": "",
+    "code": "526049",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526045",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Rudawali",
+    "name_mr": "",
+    "code": "526045",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526052",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kalmasare",
+    "name_mr": "",
+    "code": "526052",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526078",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Mahadeo Dondwade",
+    "name_mr": "",
+    "code": "526078",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526070",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tande",
+    "name_mr": "",
+    "code": "526070",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526053",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ajande Kh.",
+    "name_mr": "",
+    "code": "526053",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526054",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Amode",
+    "name_mr": "",
+    "code": "526054",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526055",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kharde Bk",
+    "name_mr": "",
+    "code": "526055",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526079",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Malpur (Anerdam)",
+    "name_mr": "",
+    "code": "526079",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526071",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Asali",
+    "name_mr": "",
+    "code": "526071",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526058",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Sakvad",
+    "name_mr": "",
+    "code": "526058",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526075",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhorkheda",
+    "name_mr": "",
+    "code": "526075",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526057",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Balade",
+    "name_mr": "",
+    "code": "526057",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526059",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Gartad",
+    "name_mr": "",
+    "code": "526059",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526056",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Untawad",
+    "name_mr": "",
+    "code": "526056",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526061",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Uparpind",
+    "name_mr": "",
+    "code": "526061",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526069",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Adhe",
+    "name_mr": "",
+    "code": "526069",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526076",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Godi",
+    "name_mr": "",
+    "code": "526076",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526062",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Gidhade",
+    "name_mr": "",
+    "code": "526062",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526068",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "526068",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526060",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tajpuri",
+    "name_mr": "",
+    "code": "526060",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526085",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Saver",
+    "name_mr": "",
+    "code": "526085",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526063",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Patharde",
+    "name_mr": "",
+    "code": "526063",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526066",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Savalade",
+    "name_mr": "",
+    "code": "526066",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525959",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Borpani",
+    "name_mr": "",
+    "code": "525959",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525958",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Chakadu",
+    "name_mr": "",
+    "code": "525958",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526012",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "526012",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525971",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "New Boradi",
+    "name_mr": "",
+    "code": "525971",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525954",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Durbadya",
+    "name_mr": "",
+    "code": "525954",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525968",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Boradi",
+    "name_mr": "",
+    "code": "525968",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525956",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Umarda",
+    "name_mr": "",
+    "code": "525956",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525955",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Vakwad",
+    "name_mr": "",
+    "code": "525955",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525966",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Semalya",
+    "name_mr": "",
+    "code": "525966",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525969",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Budki",
+    "name_mr": "",
+    "code": "525969",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525965",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Mohida",
+    "name_mr": "",
+    "code": "525965",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525983",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Palasner",
+    "name_mr": "",
+    "code": "525983",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525984",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hedrya",
+    "name_mr": "",
+    "code": "525984",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525985",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Panakhed",
+    "name_mr": "",
+    "code": "525985",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525975",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Wasardi",
+    "name_mr": "",
+    "code": "525975",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525991",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Khairkhuti",
+    "name_mr": "",
+    "code": "525991",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525974",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Nandarde",
+    "name_mr": "",
+    "code": "525974",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525989",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Sangavi",
+    "name_mr": "",
+    "code": "525989",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526023",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tarhad (Kasbe)",
+    "name_mr": "",
+    "code": "526023",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526022",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Abhanpur Kh.",
+    "name_mr": "",
+    "code": "526022",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525990",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Joyada",
+    "name_mr": "",
+    "code": "525990",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525977",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Wadi Bk.",
+    "name_mr": "",
+    "code": "525977",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526025",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Mukhed",
+    "name_mr": "",
+    "code": "526025",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525976",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Chandase",
+    "name_mr": "",
+    "code": "525976",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526024",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Jalod",
+    "name_mr": "",
+    "code": "526024",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526026",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ukhalwadi",
+    "name_mr": "",
+    "code": "526026",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525992",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Jamnyapada",
+    "name_mr": "",
+    "code": "525992",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526000",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Devsingpada",
+    "name_mr": "",
+    "code": "526000",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525978",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Wadi Kh.",
+    "name_mr": "",
+    "code": "525978",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525994",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Khambale",
+    "name_mr": "",
+    "code": "525994",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526008",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Varzadi",
+    "name_mr": "",
+    "code": "526008",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525979",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Balkuwe",
+    "name_mr": "",
+    "code": "525979",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526002",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ambe",
+    "name_mr": "",
+    "code": "526002",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526030",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Old Bhampur (old Bhamte)",
+    "name_mr": "",
+    "code": "526030",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525993",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhilardevpada",
+    "name_mr": "",
+    "code": "525993",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525998",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hadakhed",
+    "name_mr": "",
+    "code": "525998",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526034",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Varul",
+    "name_mr": "",
+    "code": "526034",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525980",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kuwe",
+    "name_mr": "",
+    "code": "525980",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526027",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tarhadi Tarf Tarhad",
+    "name_mr": "",
+    "code": "526027",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526032",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Vikharan Kh.",
+    "name_mr": "",
+    "code": "526032",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526009",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Nimzari",
+    "name_mr": "",
+    "code": "526009",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525981",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Waghadi",
+    "name_mr": "",
+    "code": "525981",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526007",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hingoni",
+    "name_mr": "",
+    "code": "526007",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526031",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Vikharan BK",
+    "name_mr": "",
+    "code": "526031",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526028",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Mamane",
+    "name_mr": "",
+    "code": "526028",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526004",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Dhavalivihir",
+    "name_mr": "",
+    "code": "526004",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526029",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhatane",
+    "name_mr": "",
+    "code": "526029",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526038",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Arthe Bk.",
+    "name_mr": "",
+    "code": "526038",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525999",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Anjangaon",
+    "name_mr": "",
+    "code": "525999",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526006",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Lauki",
+    "name_mr": "",
+    "code": "526006",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526033",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Nave Bhamate",
+    "name_mr": "",
+    "code": "526033",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526011",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Sule",
+    "name_mr": "",
+    "code": "526011",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526017",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhoiti",
+    "name_mr": "",
+    "code": "526017",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526039",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Arthe Kh.",
+    "name_mr": "",
+    "code": "526039",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526015",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Higaon",
+    "name_mr": "",
+    "code": "526015",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526042",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Khankheda Pr. Thalner",
+    "name_mr": "",
+    "code": "526042",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526013",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Rohini",
+    "name_mr": "",
+    "code": "526013",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526016",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hivarkheda",
+    "name_mr": "",
+    "code": "526016",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526005",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Lakadya Hanuman",
+    "name_mr": "",
+    "code": "526005",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526041",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tekwade",
+    "name_mr": "",
+    "code": "526041",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526037",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Londnare",
+    "name_mr": "",
+    "code": "526037",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526035",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Anturli",
+    "name_mr": "",
+    "code": "526035",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526036",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Javkhede",
+    "name_mr": "",
+    "code": "526036",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526019",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Karvand",
+    "name_mr": "",
+    "code": "526019",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525960",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Fattepur Knagai",
+    "name_mr": "",
+    "code": "525960",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526010",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Natwade",
+    "name_mr": "",
+    "code": "526010",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526018",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Chilare",
+    "name_mr": "",
+    "code": "526018",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526040",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Chandpuri",
+    "name_mr": "",
+    "code": "526040",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526020",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Dahivad",
+    "name_mr": "",
+    "code": "526020",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526046",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Vanaval",
+    "name_mr": "",
+    "code": "526046",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526044",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tembhe Bk.",
+    "name_mr": "",
+    "code": "526044",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526043",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bharvade",
+    "name_mr": "",
+    "code": "526043",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525982",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Subhash Nagar",
+    "name_mr": "",
+    "code": "525982",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526047",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Jatode",
+    "name_mr": "",
+    "code": "526047",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526050",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Shingave",
+    "name_mr": "",
+    "code": "526050",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526072",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ahilyapur",
+    "name_mr": "",
+    "code": "526072",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526064",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kharde Kh.",
+    "name_mr": "",
+    "code": "526064",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526067",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kurkhali",
+    "name_mr": "",
+    "code": "526067",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526084",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ajanad",
+    "name_mr": "",
+    "code": "526084",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526065",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Babhulde",
+    "name_mr": "",
+    "code": "526065",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526077",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Thalner",
+    "name_mr": "",
+    "code": "526077",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526080",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tonde",
+    "name_mr": "",
+    "code": "526080",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526083",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Babhalaj",
+    "name_mr": "",
+    "code": "526083",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526073",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Jaitpur",
+    "name_mr": "",
+    "code": "526073",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526081",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hisale",
+    "name_mr": "",
+    "code": "526081",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526082",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Tardi",
+    "name_mr": "",
+    "code": "526082",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526086",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhatpure",
+    "name_mr": "",
+    "code": "526086",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526074",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Wathode",
+    "name_mr": "",
+    "code": "526074",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526087",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhavere",
+    "name_mr": "",
+    "code": "526087",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526089",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ajande Bk.",
+    "name_mr": "",
+    "code": "526089",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526088",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Pimpale",
+    "name_mr": "",
+    "code": "526088",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526090",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hol",
+    "name_mr": "",
+    "code": "526090",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526092",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Bhortek",
+    "name_mr": "",
+    "code": "526092",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526093",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Manjrod",
+    "name_mr": "",
+    "code": "526093",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526094",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Japore",
+    "name_mr": "",
+    "code": "526094",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526091",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Nanthe",
+    "name_mr": "",
+    "code": "526091",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526095",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Pilode",
+    "name_mr": "",
+    "code": "526095",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526096",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Ghodasgaon",
+    "name_mr": "",
+    "code": "526096",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525950",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Malkatar",
+    "name_mr": "",
+    "code": "525950",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525951",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Gadhaddeo",
+    "name_mr": "",
+    "code": "525951",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525952",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Gurhadpani",
+    "name_mr": "",
+    "code": "525952",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525953",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kakadmal",
+    "name_mr": "",
+    "code": "525953",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526001",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Vadle Kh.",
+    "name_mr": "",
+    "code": "526001",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-526014",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Khamkhede Pr. Ambe",
+    "name_mr": "",
+    "code": "526014",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525964",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Zende-anjan",
+    "name_mr": "",
+    "code": "525964",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-35",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-36",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525987",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Dondwade",
+    "name_mr": "",
+    "code": "525987",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525988",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Budkivihir",
+    "name_mr": "",
+    "code": "525988",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525986",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Hated",
+    "name_mr": "",
+    "code": "525986",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  },
+  {
+    "village_id": "v-525957",
+    "district_id": "dhule",
+    "taluka_id": "shirpur",
+    "name_en": "Kodid",
+    "name_mr": "",
+    "code": "525957",
+    "boundary_file": "/data/boundaries/villages/dhule/shirpur.geojson"
+  }
+]

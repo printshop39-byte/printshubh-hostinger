@@ -1,0 +1,1739 @@
+[
+  {
+    "village_id": "v-540193",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nagala Rith",
+    "name_mr": "",
+    "code": "540193",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540204",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wanoja",
+    "name_mr": "",
+    "code": "540204",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540191",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ekona",
+    "name_mr": "",
+    "code": "540191",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540201",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Surla",
+    "name_mr": "",
+    "code": "540201",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540203",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khanji",
+    "name_mr": "",
+    "code": "540203",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540192",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Marda",
+    "name_mr": "",
+    "code": "540192",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540212",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "540212",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540202",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "540202",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540213",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Jamgaon Kh",
+    "name_mr": "",
+    "code": "540213",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-251376",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Warora (MCI)",
+    "name_mr": "",
+    "code": "251376",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540206",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Tulana",
+    "name_mr": "",
+    "code": "540206",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540205",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ashti",
+    "name_mr": "",
+    "code": "540205",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540210",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ekarjuma",
+    "name_mr": "",
+    "code": "540210",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540211",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Sakhardoh",
+    "name_mr": "",
+    "code": "540211",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540208",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kalamgavhan",
+    "name_mr": "",
+    "code": "540208",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540209",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Sembal",
+    "name_mr": "",
+    "code": "540209",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540207",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Karanji",
+    "name_mr": "",
+    "code": "540207",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540174",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bamarda",
+    "name_mr": "",
+    "code": "540174",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540175",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dindoda Bk",
+    "name_mr": "",
+    "code": "540175",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540176",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Soit",
+    "name_mr": "",
+    "code": "540176",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540274",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dindoda Kh",
+    "name_mr": "",
+    "code": "540274",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540200",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Jamgaon Bk",
+    "name_mr": "",
+    "code": "540200",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540214",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Gaul Bk",
+    "name_mr": "",
+    "code": "540214",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540287",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "540287",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540289",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nimdhela",
+    "name_mr": "",
+    "code": "540289",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540217",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Barvha",
+    "name_mr": "",
+    "code": "540217",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "kawadapur-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "KAWADAPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540148",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "540148",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540304",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chargaon Tukum",
+    "name_mr": "",
+    "code": "540304",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540307",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Belgaon Mokasa",
+    "name_mr": "",
+    "code": "540307",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540306",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Belgaon Chak",
+    "name_mr": "",
+    "code": "540306",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540147",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Gaoshet",
+    "name_mr": "",
+    "code": "540147",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540294",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Gunjala",
+    "name_mr": "",
+    "code": "540294",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540295",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nandara",
+    "name_mr": "",
+    "code": "540295",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540241",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Tumgaon",
+    "name_mr": "",
+    "code": "540241",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540244",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadadha Society",
+    "name_mr": "",
+    "code": "540244",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540153",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ukharda",
+    "name_mr": "",
+    "code": "540153",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540246",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pandhartala",
+    "name_mr": "",
+    "code": "540246",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540308",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Waigaon Bhoyar",
+    "name_mr": "",
+    "code": "540308",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540302",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kawadsi",
+    "name_mr": "",
+    "code": "540302",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540309",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Waigaon Khadatkar",
+    "name_mr": "",
+    "code": "540309",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540242",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Umari Raiyyatwari",
+    "name_mr": "",
+    "code": "540242",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "kawadapur-reserved-forest-dup-22",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "KAWADAPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540247",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Tadgavhan",
+    "name_mr": "",
+    "code": "540247",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "temurda-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "TEMURDA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540243",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mangali Deotale",
+    "name_mr": "",
+    "code": "540243",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540154",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Keli",
+    "name_mr": "",
+    "code": "540154",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540151",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Gaul Kh",
+    "name_mr": "",
+    "code": "540151",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540296",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Borgaon Bhosale",
+    "name_mr": "",
+    "code": "540296",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540300",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadadha Tukum",
+    "name_mr": "",
+    "code": "540300",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540299",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "540299",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540152",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Sbegaon",
+    "name_mr": "",
+    "code": "540152",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540283",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Sakhara Rajapur",
+    "name_mr": "",
+    "code": "540283",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540215",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Muradgaon",
+    "name_mr": "",
+    "code": "540215",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540236",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Fattapur Raiyyatwari",
+    "name_mr": "",
+    "code": "540236",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540216",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "540216",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540234",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mandavgurhad",
+    "name_mr": "",
+    "code": "540234",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540149",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nagari",
+    "name_mr": "",
+    "code": "540149",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540291",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ralegaon",
+    "name_mr": "",
+    "code": "540291",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540233",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Lonar Dhote",
+    "name_mr": "",
+    "code": "540233",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540290",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bembal",
+    "name_mr": "",
+    "code": "540290",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540305",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bembal Tukum",
+    "name_mr": "",
+    "code": "540305",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540284",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Lodhi Kheda",
+    "name_mr": "",
+    "code": "540284",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540238",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "540238",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540292",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Borgaon Mokasa",
+    "name_mr": "",
+    "code": "540292",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540231",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Warar Makta",
+    "name_mr": "",
+    "code": "540231",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540285",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Singarwadi",
+    "name_mr": "",
+    "code": "540285",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540293",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "540293",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "forest-dup-25",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540248",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kem",
+    "name_mr": "",
+    "code": "540248",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540239",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ajangaon",
+    "name_mr": "",
+    "code": "540239",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540245",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Borgaon Shiwanfal",
+    "name_mr": "",
+    "code": "540245",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540237",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pimpalgaon Singara",
+    "name_mr": "",
+    "code": "540237",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540150",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Jamkhula",
+    "name_mr": "",
+    "code": "540150",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540303",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chargaon Bk",
+    "name_mr": "",
+    "code": "540303",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "kharsinghi-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "KHARSINGHI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540279",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Yerkheda",
+    "name_mr": "",
+    "code": "540279",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540223",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bodakha",
+    "name_mr": "",
+    "code": "540223",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540222",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "540222",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540229",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mahalgaon Kh",
+    "name_mr": "",
+    "code": "540229",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "forest-dup-26",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540224",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chakmaksur",
+    "name_mr": "",
+    "code": "540224",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540275",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Susa",
+    "name_mr": "",
+    "code": "540275",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540276",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ambora",
+    "name_mr": "",
+    "code": "540276",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540219",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khambada",
+    "name_mr": "",
+    "code": "540219",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540280",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Panjarepar",
+    "name_mr": "",
+    "code": "540280",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540218",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bopapur",
+    "name_mr": "",
+    "code": "540218",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540221",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kosarsar",
+    "name_mr": "",
+    "code": "540221",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540278",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "540278",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540282",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Abamakta",
+    "name_mr": "",
+    "code": "540282",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540277",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mokhala",
+    "name_mr": "",
+    "code": "540277",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540225",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Maksur",
+    "name_mr": "",
+    "code": "540225",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540281",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "540281",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540227",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chak Kawadapur",
+    "name_mr": "",
+    "code": "540227",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540220",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wathoda",
+    "name_mr": "",
+    "code": "540220",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540226",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chak Gurhad",
+    "name_mr": "",
+    "code": "540226",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540228",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kawadapur Mokasa",
+    "name_mr": "",
+    "code": "540228",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540230",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Alpharalias Satara",
+    "name_mr": "",
+    "code": "540230",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540235",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "540235",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540232",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Sumthana",
+    "name_mr": "",
+    "code": "540232",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540286",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "540286",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540288",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "540288",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540249",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Gujgavhan",
+    "name_mr": "",
+    "code": "540249",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540298",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kekapur",
+    "name_mr": "",
+    "code": "540298",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540240",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mhasala",
+    "name_mr": "",
+    "code": "540240",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540327",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Shiwani",
+    "name_mr": "",
+    "code": "540327",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540301",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadadhamal",
+    "name_mr": "",
+    "code": "540301",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540251",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pachgaon",
+    "name_mr": "",
+    "code": "540251",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540328",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bhanusakhindi",
+    "name_mr": "",
+    "code": "540328",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540155",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Yewati",
+    "name_mr": "",
+    "code": "540155",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540252",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pijdura",
+    "name_mr": "",
+    "code": "540252",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540250",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kotbala",
+    "name_mr": "",
+    "code": "540250",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540325",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Arjuni",
+    "name_mr": "",
+    "code": "540325",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540158",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mahadoli",
+    "name_mr": "",
+    "code": "540158",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540310",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chargaon Kh",
+    "name_mr": "",
+    "code": "540310",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540157",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kurla",
+    "name_mr": "",
+    "code": "540157",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540326",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Arjuni Tukum",
+    "name_mr": "",
+    "code": "540326",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540257",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chikani",
+    "name_mr": "",
+    "code": "540257",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540255",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Jamani Bk",
+    "name_mr": "",
+    "code": "540255",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540156",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Waghnakh",
+    "name_mr": "",
+    "code": "540156",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540312",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Antapur",
+    "name_mr": "",
+    "code": "540312",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540254",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "540254",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540297",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khemjai",
+    "name_mr": "",
+    "code": "540297",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540253",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chichala",
+    "name_mr": "",
+    "code": "540253",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540311",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bhendala",
+    "name_mr": "",
+    "code": "540311",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540256",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Tadala Bopapur",
+    "name_mr": "",
+    "code": "540256",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540313",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pohe",
+    "name_mr": "",
+    "code": "540313",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540267",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bhatala",
+    "name_mr": "",
+    "code": "540267",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540159",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kharwad",
+    "name_mr": "",
+    "code": "540159",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540266",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Asala",
+    "name_mr": "",
+    "code": "540266",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540263",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Tembhurda",
+    "name_mr": "",
+    "code": "540263",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540260",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "540260",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540261",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Takali Vibhutrao",
+    "name_mr": "",
+    "code": "540261",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540324",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "540324",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540322",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dadapur",
+    "name_mr": "",
+    "code": "540322",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540323",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "540323",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540262",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Atmurdi",
+    "name_mr": "",
+    "code": "540262",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540265",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mowada",
+    "name_mr": "",
+    "code": "540265",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540161",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pauni",
+    "name_mr": "",
+    "code": "540161",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540160",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Jalka",
+    "name_mr": "",
+    "code": "540160",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540315",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khekadapur",
+    "name_mr": "",
+    "code": "540315",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540314",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ratnala",
+    "name_mr": "",
+    "code": "540314",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540264",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Pimpalgaon Maroti",
+    "name_mr": "",
+    "code": "540264",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540321",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Shegaon Bk",
+    "name_mr": "",
+    "code": "540321",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540258",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dahala Rith",
+    "name_mr": "",
+    "code": "540258",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540166",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "540166",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540184",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "540184",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540316",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mesa",
+    "name_mr": "",
+    "code": "540316",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "shegaon-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "SHEGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540270",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Borgaon De",
+    "name_mr": "",
+    "code": "540270",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540259",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "540259",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540269",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Salori",
+    "name_mr": "",
+    "code": "540269",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540268",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nagpur Tukum",
+    "name_mr": "",
+    "code": "540268",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540164",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Waldhur",
+    "name_mr": "",
+    "code": "540164",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540168",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Ashi",
+    "name_mr": "",
+    "code": "540168",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540162",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "540162",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540186",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Yensa",
+    "name_mr": "",
+    "code": "540186",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540165",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Girsawali",
+    "name_mr": "",
+    "code": "540165",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540185",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kondala",
+    "name_mr": "",
+    "code": "540185",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540173",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bakharda",
+    "name_mr": "",
+    "code": "540173",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540167",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khartangadi",
+    "name_mr": "",
+    "code": "540167",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540163",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wanneri",
+    "name_mr": "",
+    "code": "540163",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540187",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Majara Rai",
+    "name_mr": "",
+    "code": "540187",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540271",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bandara",
+    "name_mr": "",
+    "code": "540271",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540320",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Jamani",
+    "name_mr": "",
+    "code": "540320",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540183",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "540183",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540319",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mahalgaon Bk",
+    "name_mr": "",
+    "code": "540319",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540172",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Madheli",
+    "name_mr": "",
+    "code": "540172",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540188",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Salori Yensa Block",
+    "name_mr": "",
+    "code": "540188",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540317",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "540317",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540171",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wandhali",
+    "name_mr": "",
+    "code": "540171",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540318",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khekadi",
+    "name_mr": "",
+    "code": "540318",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540189",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nimsada",
+    "name_mr": "",
+    "code": "540189",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540170",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Longadaga",
+    "name_mr": "",
+    "code": "540170",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540182",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Panzurni",
+    "name_mr": "",
+    "code": "540182",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540169",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Nandara",
+    "name_mr": "",
+    "code": "540169",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540190",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Charurkhati",
+    "name_mr": "",
+    "code": "540190",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540272",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khatoda",
+    "name_mr": "",
+    "code": "540272",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540179",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "540179",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540273",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Wanali Wangram",
+    "name_mr": "",
+    "code": "540273",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540196",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Chinora",
+    "name_mr": "",
+    "code": "540196",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540197",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Anandvan",
+    "name_mr": "",
+    "code": "540197",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540198",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Khairgaon Tukum",
+    "name_mr": "",
+    "code": "540198",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540180",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Amadi",
+    "name_mr": "",
+    "code": "540180",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540194",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Naideo",
+    "name_mr": "",
+    "code": "540194",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540181",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Niljai",
+    "name_mr": "",
+    "code": "540181",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540199",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "540199",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540178",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "540178",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540195",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Mohabala",
+    "name_mr": "",
+    "code": "540195",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-540177",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Kohapara",
+    "name_mr": "",
+    "code": "540177",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  },
+  {
+    "village_id": "v-651902",
+    "district_id": "chandrapur",
+    "taluka_id": "warora",
+    "name_en": "Navin Palasgaon (Singru) (N.V.)",
+    "name_mr": "",
+    "code": "651902",
+    "boundary_file": "/data/boundaries/villages/chandrapur/warora.geojson"
+  }
+]

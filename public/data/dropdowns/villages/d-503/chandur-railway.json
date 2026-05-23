@@ -1,0 +1,839 @@
+[
+  {
+    "village_id": "v-533185",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Lalkhed",
+    "name_mr": "",
+    "code": "533185",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533199",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Manjarkhed",
+    "name_mr": "",
+    "code": "533199",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533190",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Lasnapur",
+    "name_mr": "",
+    "code": "533190",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533187",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Baslapur",
+    "name_mr": "",
+    "code": "533187",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533191",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Mandwa",
+    "name_mr": "",
+    "code": "533191",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-251330",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Chandur Railway (M Cl)",
+    "name_mr": "",
+    "code": "251330",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533201",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Malkhed",
+    "name_mr": "",
+    "code": "533201",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533192",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dhanapur",
+    "name_mr": "",
+    "code": "533192",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533194",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Shirajgaon Korde",
+    "name_mr": "",
+    "code": "533194",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533203",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Budhali",
+    "name_mr": "",
+    "code": "533203",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533227",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dhanora Mogal",
+    "name_mr": "",
+    "code": "533227",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533225",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "533225",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533228",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sawangi Sangam",
+    "name_mr": "",
+    "code": "533228",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533226",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kodori Harak",
+    "name_mr": "",
+    "code": "533226",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533233",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Jahagirpur",
+    "name_mr": "",
+    "code": "533233",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533230",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sonora Kh.",
+    "name_mr": "",
+    "code": "533230",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533232",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ashrafpur",
+    "name_mr": "",
+    "code": "533232",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533234",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Murtizapur",
+    "name_mr": "",
+    "code": "533234",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533241",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Jawra",
+    "name_mr": "",
+    "code": "533241",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533220",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Palaskhed",
+    "name_mr": "",
+    "code": "533220",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533210",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Neknampur",
+    "name_mr": "",
+    "code": "533210",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533211",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sangulwada",
+    "name_mr": "",
+    "code": "533211",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533212",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Bagapur",
+    "name_mr": "",
+    "code": "533212",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533221",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kawtha Kadu",
+    "name_mr": "",
+    "code": "533221",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533205",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Khudavantpur",
+    "name_mr": "",
+    "code": "533205",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533214",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Supalwada",
+    "name_mr": "",
+    "code": "533214",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533218",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kalamgaon",
+    "name_mr": "",
+    "code": "533218",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533217",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Satefal",
+    "name_mr": "",
+    "code": "533217",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533222",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Hadpa",
+    "name_mr": "",
+    "code": "533222",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533219",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kalamjapur",
+    "name_mr": "",
+    "code": "533219",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533223",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dighi Kolhe",
+    "name_mr": "",
+    "code": "533223",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533229",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Bhiltek",
+    "name_mr": "",
+    "code": "533229",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533224",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kohla",
+    "name_mr": "",
+    "code": "533224",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533231",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sonora Bk",
+    "name_mr": "",
+    "code": "533231",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533259",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kharbi Mandavgad",
+    "name_mr": "",
+    "code": "533259",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533258",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Zibla",
+    "name_mr": "",
+    "code": "533258",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533261",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Yerad",
+    "name_mr": "",
+    "code": "533261",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533216",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dhanodi",
+    "name_mr": "",
+    "code": "533216",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533215",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Wadgaonbhat",
+    "name_mr": "",
+    "code": "533215",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533173",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Karala",
+    "name_mr": "",
+    "code": "533173",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533177",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Salora Kh.",
+    "name_mr": "",
+    "code": "533177",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533170",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "533170",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533171",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Chirodi",
+    "name_mr": "",
+    "code": "533171",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533175",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Pathargaon",
+    "name_mr": "",
+    "code": "533175",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533174",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Thugaon",
+    "name_mr": "",
+    "code": "533174",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533176",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Amla Vishveshwar",
+    "name_mr": "",
+    "code": "533176",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533178",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Jalka Jagtap",
+    "name_mr": "",
+    "code": "533178",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533172",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Gaurkheda",
+    "name_mr": "",
+    "code": "533172",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533179",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Umarpur",
+    "name_mr": "",
+    "code": "533179",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533181",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Nimla",
+    "name_mr": "",
+    "code": "533181",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533182",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sawangi Magrapur",
+    "name_mr": "",
+    "code": "533182",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533180",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Amdori",
+    "name_mr": "",
+    "code": "533180",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533183",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Bramhi",
+    "name_mr": "",
+    "code": "533183",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533184",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sawanga Vithoba",
+    "name_mr": "",
+    "code": "533184",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533189",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Tembhurni",
+    "name_mr": "",
+    "code": "533189",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533188",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "533188",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533186",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Mota",
+    "name_mr": "",
+    "code": "533186",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533200",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "533200",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533193",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dilawarpur",
+    "name_mr": "",
+    "code": "533193",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533195",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Tuljapur",
+    "name_mr": "",
+    "code": "533195",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533206",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dhanora Mhali",
+    "name_mr": "",
+    "code": "533206",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533197",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Rajana",
+    "name_mr": "",
+    "code": "533197",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533196",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "533196",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533207",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ambapur",
+    "name_mr": "",
+    "code": "533207",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533208",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Shivni",
+    "name_mr": "",
+    "code": "533208",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533202",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "533202",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533209",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Songaon",
+    "name_mr": "",
+    "code": "533209",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533204",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ajitpur",
+    "name_mr": "",
+    "code": "533204",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533213",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ismailpur",
+    "name_mr": "",
+    "code": "533213",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533236",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ekpala",
+    "name_mr": "",
+    "code": "533236",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533237",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Rajura",
+    "name_mr": "",
+    "code": "533237",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533242",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Nimgavhan",
+    "name_mr": "",
+    "code": "533242",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533239",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Baggi",
+    "name_mr": "",
+    "code": "533239",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533240",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ibrahimpur",
+    "name_mr": "",
+    "code": "533240",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533238",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Nimbha",
+    "name_mr": "",
+    "code": "533238",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533235",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Tongalabad",
+    "name_mr": "",
+    "code": "533235",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533243",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Danapur",
+    "name_mr": "",
+    "code": "533243",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533245",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Jawala",
+    "name_mr": "",
+    "code": "533245",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533244",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Manjarkhed Danapur",
+    "name_mr": "",
+    "code": "533244",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533255",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Ghuikhed",
+    "name_mr": "",
+    "code": "533255",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533246",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "533246",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533254",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Titwa",
+    "name_mr": "",
+    "code": "533254",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533247",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Wajradevi",
+    "name_mr": "",
+    "code": "533247",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533248",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "533248",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533252",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Dhotra",
+    "name_mr": "",
+    "code": "533252",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533253",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Mogra",
+    "name_mr": "",
+    "code": "533253",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533250",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Khambala",
+    "name_mr": "",
+    "code": "533250",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533251",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Kirjawala",
+    "name_mr": "",
+    "code": "533251",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533249",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Both",
+    "name_mr": "",
+    "code": "533249",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533256",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Eklara",
+    "name_mr": "",
+    "code": "533256",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533260",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Sawanga Bk.",
+    "name_mr": "",
+    "code": "533260",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533257",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Chandur Kheda",
+    "name_mr": "",
+    "code": "533257",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  },
+  {
+    "village_id": "v-533198",
+    "district_id": "d-503",
+    "taluka_id": "chandur-railway",
+    "name_en": "Chandur Wadi",
+    "name_mr": "",
+    "code": "533198",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-railway.geojson"
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "village_id": "v-566680",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Tulas",
+    "name_mr": "",
+    "code": "566680",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566682",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Subhashwadi",
+    "name_mr": "",
+    "code": "566682",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566683",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Parabwadi",
+    "name_mr": "",
+    "code": "566683",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566684",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Khatarwadi",
+    "name_mr": "",
+    "code": "566684",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566687",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Matond",
+    "name_mr": "",
+    "code": "566687",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566668",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Navabag",
+    "name_mr": "",
+    "code": "566668",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566664",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Adari",
+    "name_mr": "",
+    "code": "566664",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566669",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Ubhadanda",
+    "name_mr": "",
+    "code": "566669",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566670",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Vagheshwar",
+    "name_mr": "",
+    "code": "566670",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566665",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Bhendamala",
+    "name_mr": "",
+    "code": "566665",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566685",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Padatal",
+    "name_mr": "",
+    "code": "566685",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566667",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Namas",
+    "name_mr": "",
+    "code": "566667",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566676",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Ansur",
+    "name_mr": "",
+    "code": "566676",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566671",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Siddhawadi",
+    "name_mr": "",
+    "code": "566671",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566666",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Adari",
+    "name_mr": "",
+    "code": "566666",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566686",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Pal",
+    "name_mr": "",
+    "code": "566686",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566672",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kambaliwadi",
+    "name_mr": "",
+    "code": "566672",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566673",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Sukhatanbag",
+    "name_mr": "",
+    "code": "566673",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566675",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Varachemad",
+    "name_mr": "",
+    "code": "566675",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566691",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Vadakhol",
+    "name_mr": "",
+    "code": "566691",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566674",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kurlewadi",
+    "name_mr": "",
+    "code": "566674",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566678",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Muth",
+    "name_mr": "",
+    "code": "566678",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566679",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Girapwadi",
+    "name_mr": "",
+    "code": "566679",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566677",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Mochemad",
+    "name_mr": "",
+    "code": "566677",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566692",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Nhaichiad",
+    "name_mr": "",
+    "code": "566692",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566681",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Hodawade",
+    "name_mr": "",
+    "code": "566681",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566663",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Math",
+    "name_mr": "",
+    "code": "566663",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566650",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Wayangani",
+    "name_mr": "",
+    "code": "566650",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566655",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Dabholi",
+    "name_mr": "",
+    "code": "566655",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-251611",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Vengurla (M CI)",
+    "name_mr": "",
+    "code": "251611",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566632",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Chipi",
+    "name_mr": "",
+    "code": "566632",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566634",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Karli",
+    "name_mr": "",
+    "code": "566634",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566633",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Parule",
+    "name_mr": "",
+    "code": "566633",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566635",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Ravadas",
+    "name_mr": "",
+    "code": "566635",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566636",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Gavan",
+    "name_mr": "",
+    "code": "566636",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566638",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Bhogave",
+    "name_mr": "",
+    "code": "566638",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566637",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Shelapi",
+    "name_mr": "",
+    "code": "566637",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566639",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kochare",
+    "name_mr": "",
+    "code": "566639",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566643",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Mhapan",
+    "name_mr": "",
+    "code": "566643",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566640",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Shriramwadi",
+    "name_mr": "",
+    "code": "566640",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566645",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Khalchiwadi",
+    "name_mr": "",
+    "code": "566645",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566644",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Malai",
+    "name_mr": "",
+    "code": "566644",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566641",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Mayana",
+    "name_mr": "",
+    "code": "566641",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566642",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Medha",
+    "name_mr": "",
+    "code": "566642",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566647",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kelus",
+    "name_mr": "",
+    "code": "566647",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566653",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Palkarwadi",
+    "name_mr": "",
+    "code": "566653",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566659",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kamblevir",
+    "name_mr": "",
+    "code": "566659",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566646",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Khavane",
+    "name_mr": "",
+    "code": "566646",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566658",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Bhandarwada",
+    "name_mr": "",
+    "code": "566658",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566652",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Warchiwadi",
+    "name_mr": "",
+    "code": "566652",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566654",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Vetore",
+    "name_mr": "",
+    "code": "566654",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566657",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Adeli",
+    "name_mr": "",
+    "code": "566657",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566649",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Talekarwadi",
+    "name_mr": "",
+    "code": "566649",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566651",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Khanoli",
+    "name_mr": "",
+    "code": "566651",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566648",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kalavi",
+    "name_mr": "",
+    "code": "566648",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566662",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "566662",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566656",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Sataye",
+    "name_mr": "",
+    "code": "566656",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566690",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Josoli",
+    "name_mr": "",
+    "code": "566690",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566693",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "566693",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566696",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Tank",
+    "name_mr": "",
+    "code": "566696",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566694",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Sonsure",
+    "name_mr": "",
+    "code": "566694",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566695",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Sakhelekhol",
+    "name_mr": "",
+    "code": "566695",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566699",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Arawali",
+    "name_mr": "",
+    "code": "566699",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566697",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Sagartirtha",
+    "name_mr": "",
+    "code": "566697",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566698",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Temb",
+    "name_mr": "",
+    "code": "566698",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566700",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Bandh",
+    "name_mr": "",
+    "code": "566700",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566701",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Shiroda",
+    "name_mr": "",
+    "code": "566701",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566703",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Bagayat",
+    "name_mr": "",
+    "code": "566703",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566704",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Velagar",
+    "name_mr": "",
+    "code": "566704",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566702",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Parabgaon",
+    "name_mr": "",
+    "code": "566702",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566707",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Gandhinagar",
+    "name_mr": "",
+    "code": "566707",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566705",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Khalchikar",
+    "name_mr": "",
+    "code": "566705",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566706",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Varachiker",
+    "name_mr": "",
+    "code": "566706",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566708",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Huda",
+    "name_mr": "",
+    "code": "566708",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566709",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Mhartale",
+    "name_mr": "",
+    "code": "566709",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566711",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Sukhalbhat",
+    "name_mr": "",
+    "code": "566711",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566710",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Bombadojichiwadi",
+    "name_mr": "",
+    "code": "566710",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566714",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Gavatale",
+    "name_mr": "",
+    "code": "566714",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566712",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Redi",
+    "name_mr": "",
+    "code": "566712",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566713",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Kanyale",
+    "name_mr": "",
+    "code": "566713",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566661",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Deosu",
+    "name_mr": "",
+    "code": "566661",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566660",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Vajarath",
+    "name_mr": "",
+    "code": "566660",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566688",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Pendur",
+    "name_mr": "",
+    "code": "566688",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  },
+  {
+    "village_id": "v-566689",
+    "district_id": "sindhudurg",
+    "taluka_id": "vengurla",
+    "name_en": "Satvayangani",
+    "name_mr": "",
+    "code": "566689",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vengurla.geojson"
+  }
+]

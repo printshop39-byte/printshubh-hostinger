@@ -1,0 +1,641 @@
+[
+  {
+    "village_id": "v-553001",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vadavali Bk.",
+    "name_mr": "",
+    "code": "553001",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-553002",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Antarli",
+    "name_mr": "",
+    "code": "553002",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-553003",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Shirdhon",
+    "name_mr": "",
+    "code": "553003",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-553004",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vadavali Kh.",
+    "name_mr": "",
+    "code": "553004",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552947",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Dahivali",
+    "name_mr": "",
+    "code": "552947",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552957",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kolimb",
+    "name_mr": "",
+    "code": "552957",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552958",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kunde",
+    "name_mr": "",
+    "code": "552958",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552959",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Mamnoli",
+    "name_mr": "",
+    "code": "552959",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552922",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Gerase",
+    "name_mr": "",
+    "code": "552922",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552920",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Bere",
+    "name_mr": "",
+    "code": "552920",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552921",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kosale",
+    "name_mr": "",
+    "code": "552921",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552923",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vehale",
+    "name_mr": "",
+    "code": "552923",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552924",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kakadpada",
+    "name_mr": "",
+    "code": "552924",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552919",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Valkas",
+    "name_mr": "",
+    "code": "552919",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552925",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Palsoli",
+    "name_mr": "",
+    "code": "552925",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552927",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ju",
+    "name_mr": "",
+    "code": "552927",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552926",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vaveghar",
+    "name_mr": "",
+    "code": "552926",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552928",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Khadavali",
+    "name_mr": "",
+    "code": "552928",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552934",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Danbav",
+    "name_mr": "",
+    "code": "552934",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552935",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Arele",
+    "name_mr": "",
+    "code": "552935",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552932",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Nadgaon",
+    "name_mr": "",
+    "code": "552932",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552936",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ushid",
+    "name_mr": "",
+    "code": "552936",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552930",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Raye",
+    "name_mr": "",
+    "code": "552930",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552929",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ozarli",
+    "name_mr": "",
+    "code": "552929",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552933",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Pitambare Nagar",
+    "name_mr": "",
+    "code": "552933",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552931",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Chinchavali",
+    "name_mr": "",
+    "code": "552931",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552937",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Phalegaon",
+    "name_mr": "",
+    "code": "552937",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552940",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Nimbavli",
+    "name_mr": "",
+    "code": "552940",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552939",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Utane",
+    "name_mr": "",
+    "code": "552939",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552945",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Guravali",
+    "name_mr": "",
+    "code": "552945",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552938",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ambivali Tarf Vasundri",
+    "name_mr": "",
+    "code": "552938",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552941",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vasundri",
+    "name_mr": "",
+    "code": "552941",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552946",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Runde",
+    "name_mr": "",
+    "code": "552946",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552944",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Mos",
+    "name_mr": "",
+    "code": "552944",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552942",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Konderi",
+    "name_mr": "",
+    "code": "552942",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552948",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Adivali",
+    "name_mr": "",
+    "code": "552948",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552949",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Mhaskal",
+    "name_mr": "",
+    "code": "552949",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552943",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Sangode",
+    "name_mr": "",
+    "code": "552943",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552950",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ghotsai",
+    "name_mr": "",
+    "code": "552950",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552956",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Bapsai",
+    "name_mr": "",
+    "code": "552956",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552978",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Nandap",
+    "name_mr": "",
+    "code": "552978",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552955",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Anakhar",
+    "name_mr": "",
+    "code": "552955",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552951",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Manivali",
+    "name_mr": "",
+    "code": "552951",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552961",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Navgaon",
+    "name_mr": "",
+    "code": "552961",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552954",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Revati",
+    "name_mr": "",
+    "code": "552954",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552953",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Goveli",
+    "name_mr": "",
+    "code": "552953",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552952",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Rayate",
+    "name_mr": "",
+    "code": "552952",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552960",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kelni",
+    "name_mr": "",
+    "code": "552960",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-553005",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kambe (CT)",
+    "name_mr": "",
+    "code": "553005",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552979",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Varp",
+    "name_mr": "",
+    "code": "552979",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552962",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Pimpaloli",
+    "name_mr": "",
+    "code": "552962",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552963",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ane",
+    "name_mr": "",
+    "code": "552963",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552967",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Chavare",
+    "name_mr": "",
+    "code": "552967",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552966",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ron",
+    "name_mr": "",
+    "code": "552966",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552965",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vaholi",
+    "name_mr": "",
+    "code": "552965",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-553006",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Mharal Bk (CT)",
+    "name_mr": "",
+    "code": "553006",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552969",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Manjali Tarf Barhe",
+    "name_mr": "",
+    "code": "552969",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552964",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Bhisod",
+    "name_mr": "",
+    "code": "552964",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552971",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Nalimbi",
+    "name_mr": "",
+    "code": "552971",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552968",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Antade",
+    "name_mr": "",
+    "code": "552968",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552977",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Poi",
+    "name_mr": "",
+    "code": "552977",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552976",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Dahagaon",
+    "name_mr": "",
+    "code": "552976",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552970",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Apati Tarf Chon",
+    "name_mr": "",
+    "code": "552970",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552975",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Apati Tarf Barhe",
+    "name_mr": "",
+    "code": "552975",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552974",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Vasant  Shelvali",
+    "name_mr": "",
+    "code": "552974",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552973",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Jambhul",
+    "name_mr": "",
+    "code": "552973",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552972",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Ambivali  Tarf   Chon",
+    "name_mr": "",
+    "code": "552972",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-553000",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Khoni",
+    "name_mr": "",
+    "code": "553000",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552999",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Dhamtan",
+    "name_mr": "",
+    "code": "552999",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-552980",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Mharal Kh. (N.V.)",
+    "name_mr": "",
+    "code": "552980",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  },
+  {
+    "village_id": "v-251483",
+    "district_id": "thane",
+    "taluka_id": "kalyan",
+    "name_en": "Kalyan-Dombivali (M Corp)",
+    "name_mr": "",
+    "code": "251483",
+    "boundary_file": "/data/boundaries/villages/thane/kalyan.geojson"
+  }
+]

@@ -1,0 +1,1496 @@
+[
+  {
+    "village_id": "v-525295",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Goradi",
+    "name_mr": "",
+    "code": "525295",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525199",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Borsisa",
+    "name_mr": "",
+    "code": "525199",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525297",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Roshamal Kh",
+    "name_mr": "",
+    "code": "525297",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525330",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhadal",
+    "name_mr": "",
+    "code": "525330",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525332",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhamane",
+    "name_mr": "",
+    "code": "525332",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525244",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kundya",
+    "name_mr": "",
+    "code": "525244",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525336",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Phalai",
+    "name_mr": "",
+    "code": "525336",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525197",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chitkhedi",
+    "name_mr": "",
+    "code": "525197",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525334",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sawaryadigar",
+    "name_mr": "",
+    "code": "525334",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525339",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sindidigar",
+    "name_mr": "",
+    "code": "525339",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525335",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Japi",
+    "name_mr": "",
+    "code": "525335",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525285",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Pimpalchop",
+    "name_mr": "",
+    "code": "525285",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525195",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Surung",
+    "name_mr": "",
+    "code": "525195",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525340",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "525340",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525293",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Shelgada",
+    "name_mr": "",
+    "code": "525293",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525304",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bilgaon",
+    "name_mr": "",
+    "code": "525304",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525305",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Genda",
+    "name_mr": "",
+    "code": "525305",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525341",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "525341",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525299",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Akwani",
+    "name_mr": "",
+    "code": "525299",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525284",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Paula",
+    "name_mr": "",
+    "code": "525284",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525201",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Nal Gavhan",
+    "name_mr": "",
+    "code": "525201",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525247",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Toranmal (New)",
+    "name_mr": "",
+    "code": "525247",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525345",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Toranmal (june)",
+    "name_mr": "",
+    "code": "525345",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525224",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Nimkhedi",
+    "name_mr": "",
+    "code": "525224",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525307",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "525307",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525298",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kuktar",
+    "name_mr": "",
+    "code": "525298",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525342",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kuwarkhot",
+    "name_mr": "",
+    "code": "525342",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525306",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khutwada",
+    "name_mr": "",
+    "code": "525306",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525312",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sindvani",
+    "name_mr": "",
+    "code": "525312",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525203",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Jalola",
+    "name_mr": "",
+    "code": "525203",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525343",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Trishul",
+    "name_mr": "",
+    "code": "525343",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525308",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khardi Bk",
+    "name_mr": "",
+    "code": "525308",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525205",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Nandalwad",
+    "name_mr": "",
+    "code": "525205",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525206",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "525206",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525245",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Velkhedi",
+    "name_mr": "",
+    "code": "525245",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525309",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kamod Bk",
+    "name_mr": "",
+    "code": "525309",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525226",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Umarani Bk",
+    "name_mr": "",
+    "code": "525226",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525208",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Amala",
+    "name_mr": "",
+    "code": "525208",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525210",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Son Kh",
+    "name_mr": "",
+    "code": "525210",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525207",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Achapa",
+    "name_mr": "",
+    "code": "525207",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525202",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhanoli",
+    "name_mr": "",
+    "code": "525202",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525344",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kuklad",
+    "name_mr": "",
+    "code": "525344",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525204",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chhapari",
+    "name_mr": "",
+    "code": "525204",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525214",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Katri Forest",
+    "name_mr": "",
+    "code": "525214",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525310",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Rajbardi",
+    "name_mr": "",
+    "code": "525310",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525212",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khadkya",
+    "name_mr": "",
+    "code": "525212",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525234",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhogawade Kh",
+    "name_mr": "",
+    "code": "525234",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525225",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhogawade Bk",
+    "name_mr": "",
+    "code": "525225",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525211",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Son Bk",
+    "name_mr": "",
+    "code": "525211",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525213",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Katri",
+    "name_mr": "",
+    "code": "525213",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525227",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Umarani Kh",
+    "name_mr": "",
+    "code": "525227",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525311",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Shelkui",
+    "name_mr": "",
+    "code": "525311",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-276345",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Dhadgaon-Wadphalya-Roshmal Bk. (NP)",
+    "name_mr": "",
+    "code": "276345",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525209",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Jamanvahi",
+    "name_mr": "",
+    "code": "525209",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525313",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Katra",
+    "name_mr": "",
+    "code": "525313",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525235",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Dhanaje Bk",
+    "name_mr": "",
+    "code": "525235",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525217",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khanbara",
+    "name_mr": "",
+    "code": "525217",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525239",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Dhanaje Kh",
+    "name_mr": "",
+    "code": "525239",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525216",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kundal",
+    "name_mr": "",
+    "code": "525216",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525314",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Telkhedi",
+    "name_mr": "",
+    "code": "525314",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525346",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kelapani",
+    "name_mr": "",
+    "code": "525346",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525229",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Surwani",
+    "name_mr": "",
+    "code": "525229",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525246",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mundalgaon",
+    "name_mr": "",
+    "code": "525246",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525228",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhujgaon",
+    "name_mr": "",
+    "code": "525228",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525236",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Borwan",
+    "name_mr": "",
+    "code": "525236",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525232",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Harankhuri",
+    "name_mr": "",
+    "code": "525232",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525218",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mojara",
+    "name_mr": "",
+    "code": "525218",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525230",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Somane",
+    "name_mr": "",
+    "code": "525230",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525215",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khuntamodi",
+    "name_mr": "",
+    "code": "525215",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525249",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Jugani",
+    "name_mr": "",
+    "code": "525249",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525315",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Tembhurni",
+    "name_mr": "",
+    "code": "525315",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525241",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bilbarpada",
+    "name_mr": "",
+    "code": "525241",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525258",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kusumveri",
+    "name_mr": "",
+    "code": "525258",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525243",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kharwad",
+    "name_mr": "",
+    "code": "525243",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525259",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Palkha",
+    "name_mr": "",
+    "code": "525259",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525260",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Nawegaon",
+    "name_mr": "",
+    "code": "525260",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525231",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mundalwad",
+    "name_mr": "",
+    "code": "525231",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525240",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chondwade Kh",
+    "name_mr": "",
+    "code": "525240",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525220",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Varkhedi Kh",
+    "name_mr": "",
+    "code": "525220",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525242",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Ambari",
+    "name_mr": "",
+    "code": "525242",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525222",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Tembhala",
+    "name_mr": "",
+    "code": "525222",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525317",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mandvi Bk",
+    "name_mr": "",
+    "code": "525317",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525238",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chondwade Bk",
+    "name_mr": "",
+    "code": "525238",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525318",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Nigadi",
+    "name_mr": "",
+    "code": "525318",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525261",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mankhedi Bk",
+    "name_mr": "",
+    "code": "525261",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525221",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Hatdhui",
+    "name_mr": "",
+    "code": "525221",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525219",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Varkhedi Bk",
+    "name_mr": "",
+    "code": "525219",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525262",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Radikalam",
+    "name_mr": "",
+    "code": "525262",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525223",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kharda",
+    "name_mr": "",
+    "code": "525223",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525257",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chippal",
+    "name_mr": "",
+    "code": "525257",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525316",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mankhedi Kh",
+    "name_mr": "",
+    "code": "525316",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525348",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Jarali",
+    "name_mr": "",
+    "code": "525348",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525256",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Manwani Kh",
+    "name_mr": "",
+    "code": "525256",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525319",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mandvi Kh",
+    "name_mr": "",
+    "code": "525319",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525347",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Valval",
+    "name_mr": "",
+    "code": "525347",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525322",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khadkale Kh",
+    "name_mr": "",
+    "code": "525322",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525320",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khadkale Bk",
+    "name_mr": "",
+    "code": "525320",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525350",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chhinalkuwa",
+    "name_mr": "",
+    "code": "525350",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525321",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bodala",
+    "name_mr": "",
+    "code": "525321",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525255",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khushgavhan",
+    "name_mr": "",
+    "code": "525255",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525349",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kamod Kh",
+    "name_mr": "",
+    "code": "525349",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525254",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mokh Bk",
+    "name_mr": "",
+    "code": "525254",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525271",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chulwad",
+    "name_mr": "",
+    "code": "525271",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525263",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Manwani Bk",
+    "name_mr": "",
+    "code": "525263",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525351",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Gaurya",
+    "name_mr": "",
+    "code": "525351",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525269",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kela Bk",
+    "name_mr": "",
+    "code": "525269",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525324",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kelimojara",
+    "name_mr": "",
+    "code": "525324",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525323",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Vavi",
+    "name_mr": "",
+    "code": "525323",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525270",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sisa",
+    "name_mr": "",
+    "code": "525270",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525352",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sirsani",
+    "name_mr": "",
+    "code": "525352",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525326",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Maktarzira",
+    "name_mr": "",
+    "code": "525326",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525265",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mokh Kh",
+    "name_mr": "",
+    "code": "525265",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525264",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kela Kh",
+    "name_mr": "",
+    "code": "525264",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525354",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bijari",
+    "name_mr": "",
+    "code": "525354",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525325",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Zummad",
+    "name_mr": "",
+    "code": "525325",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525250",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khamala",
+    "name_mr": "",
+    "code": "525250",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525251",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kakarda",
+    "name_mr": "",
+    "code": "525251",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525273",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kalibel",
+    "name_mr": "",
+    "code": "525273",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525252",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Ghatli",
+    "name_mr": "",
+    "code": "525252",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525272",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kakarpati",
+    "name_mr": "",
+    "code": "525272",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525267",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Talai",
+    "name_mr": "",
+    "code": "525267",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525266",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Panbari",
+    "name_mr": "",
+    "code": "525266",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525276",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "525276",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525268",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Padamund",
+    "name_mr": "",
+    "code": "525268",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525277",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chittar",
+    "name_mr": "",
+    "code": "525277",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525253",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kamod",
+    "name_mr": "",
+    "code": "525253",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525278",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chittar Forest",
+    "name_mr": "",
+    "code": "525278",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525275",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Ramsala",
+    "name_mr": "",
+    "code": "525275",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525279",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Ukhaliamba",
+    "name_mr": "",
+    "code": "525279",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525274",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Asali",
+    "name_mr": "",
+    "code": "525274",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525353",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Pimpalbari",
+    "name_mr": "",
+    "code": "525353",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525355",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chinchkathi",
+    "name_mr": "",
+    "code": "525355",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525280",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mal",
+    "name_mr": "",
+    "code": "525280",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525283",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Astamba Forest",
+    "name_mr": "",
+    "code": "525283",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525356",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Chandsaili",
+    "name_mr": "",
+    "code": "525356",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525281",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Valiamba",
+    "name_mr": "",
+    "code": "525281",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525282",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Astamba",
+    "name_mr": "",
+    "code": "525282",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525289",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bharad",
+    "name_mr": "",
+    "code": "525289",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-117",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525331",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhabri",
+    "name_mr": "",
+    "code": "525331",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525328",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sadri",
+    "name_mr": "",
+    "code": "525328",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-118",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525327",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Warwali",
+    "name_mr": "",
+    "code": "525327",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525333",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Bhusha",
+    "name_mr": "",
+    "code": "525333",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525337",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Sawarya",
+    "name_mr": "",
+    "code": "525337",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525290",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Shikka",
+    "name_mr": "",
+    "code": "525290",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525338",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Lekhada",
+    "name_mr": "",
+    "code": "525338",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525288",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Thuwani",
+    "name_mr": "",
+    "code": "525288",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525287",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Keli",
+    "name_mr": "",
+    "code": "525287",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525286",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Atti",
+    "name_mr": "",
+    "code": "525286",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525292",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Domkhedi",
+    "name_mr": "",
+    "code": "525292",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525301",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Junana",
+    "name_mr": "",
+    "code": "525301",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525302",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Mal",
+    "name_mr": "",
+    "code": "525302",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-119",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525303",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Khardi Kh",
+    "name_mr": "",
+    "code": "525303",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525291",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Nimgavhan",
+    "name_mr": "",
+    "code": "525291",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525300",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Shelda",
+    "name_mr": "",
+    "code": "525300",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525248",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Godamba",
+    "name_mr": "",
+    "code": "525248",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525196",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Tinasmal",
+    "name_mr": "",
+    "code": "525196",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525294",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Makadkund",
+    "name_mr": "",
+    "code": "525294",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525200",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Vahawani",
+    "name_mr": "",
+    "code": "525200",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-120",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525296",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "525296",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525198",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Duttal",
+    "name_mr": "",
+    "code": "525198",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  },
+  {
+    "village_id": "v-525329",
+    "district_id": "nandurb-r",
+    "taluka_id": "akrani",
+    "name_en": "Udadya",
+    "name_mr": "",
+    "code": "525329",
+    "boundary_file": "/data/boundaries/villages/nandurb-r/akrani.geojson"
+  }
+]

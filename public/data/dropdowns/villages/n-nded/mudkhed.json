@@ -1,0 +1,515 @@
+[
+  {
+    "village_id": "v-544768",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wadi Kamali",
+    "name_mr": "",
+    "code": "544768",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544765",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Amrapur (Dudhanwadi)",
+    "name_mr": "",
+    "code": "544765",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544761",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Pardi (Vaijapur)",
+    "name_mr": "",
+    "code": "544761",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544767",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Jawala Pathak",
+    "name_mr": "",
+    "code": "544767",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544774",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Jawala Murhar",
+    "name_mr": "",
+    "code": "544774",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544763",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Vaijapur(pardi)",
+    "name_mr": "",
+    "code": "544763",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544770",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Hissa Pathrad",
+    "name_mr": "",
+    "code": "544770",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544771",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Pathrad",
+    "name_mr": "",
+    "code": "544771",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544775",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Niwgha",
+    "name_mr": "",
+    "code": "544775",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544777",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Pimpalkoutha(M)",
+    "name_mr": "",
+    "code": "544777",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544762",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Rajwadi",
+    "name_mr": "",
+    "code": "544762",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544772",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Dhanaj",
+    "name_mr": "",
+    "code": "544772",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544773",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Saregaon",
+    "name_mr": "",
+    "code": "544773",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-251402",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Mudkhed (M Cl)",
+    "name_mr": "",
+    "code": "251402",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544786",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Mugat",
+    "name_mr": "",
+    "code": "544786",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544776",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Khambhala",
+    "name_mr": "",
+    "code": "544776",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544778",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Mendka",
+    "name_mr": "",
+    "code": "544778",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544779",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wardada Tanda",
+    "name_mr": "",
+    "code": "544779",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544785",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Ijali",
+    "name_mr": "",
+    "code": "544785",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544780",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "544780",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544789",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Chikala",
+    "name_mr": "",
+    "code": "544789",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544781",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Kolha",
+    "name_mr": "",
+    "code": "544781",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544787",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Amdura",
+    "name_mr": "",
+    "code": "544787",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544784",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wadi Muktapur",
+    "name_mr": "",
+    "code": "544784",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544783",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Hajapur",
+    "name_mr": "",
+    "code": "544783",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544782",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "544782",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544788",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wadi Muktaji",
+    "name_mr": "",
+    "code": "544788",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544796",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wadi Niyamtullapur",
+    "name_mr": "",
+    "code": "544796",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544797",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Wasri",
+    "name_mr": "",
+    "code": "544797",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544790",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Chikala Tanda",
+    "name_mr": "",
+    "code": "544790",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544791",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Gopalwadi",
+    "name_mr": "",
+    "code": "544791",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544798",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Sankhtirth",
+    "name_mr": "",
+    "code": "544798",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544794",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Rohi Pimpalgaon Tanda",
+    "name_mr": "",
+    "code": "544794",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544799",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Devapur",
+    "name_mr": "",
+    "code": "544799",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544793",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Pimpalkautha (Chau)",
+    "name_mr": "",
+    "code": "544793",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544792",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Pagargaon",
+    "name_mr": "",
+    "code": "544792",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544800",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Kamlaj",
+    "name_mr": "",
+    "code": "544800",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544801",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Malkautha",
+    "name_mr": "",
+    "code": "544801",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544807",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Daregaonwadi",
+    "name_mr": "",
+    "code": "544807",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544802",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Mahati",
+    "name_mr": "",
+    "code": "544802",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544756",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Nageli",
+    "name_mr": "",
+    "code": "544756",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544757",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Tirkaswadi",
+    "name_mr": "",
+    "code": "544757",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544755",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Barad",
+    "name_mr": "",
+    "code": "544755",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544758",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Patharwadi",
+    "name_mr": "",
+    "code": "544758",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544759",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Shemboli",
+    "name_mr": "",
+    "code": "544759",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544764",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "544764",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544760",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Borgaonsita",
+    "name_mr": "",
+    "code": "544760",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544766",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Borgaon Nandri",
+    "name_mr": "",
+    "code": "544766",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544803",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Chilpimpri",
+    "name_mr": "",
+    "code": "544803",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544805",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Khujda",
+    "name_mr": "",
+    "code": "544805",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544804",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "544804",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544769",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Tarbujapur",
+    "name_mr": "",
+    "code": "544769",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544806",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "544806",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-946164",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Daregaon Tanda",
+    "name_mr": "",
+    "code": "946164",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-544795",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Rohi Pimpalgoan",
+    "name_mr": "",
+    "code": "544795",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-946172",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Vasantwadi",
+    "name_mr": "",
+    "code": "946172",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  },
+  {
+    "village_id": "v-655647",
+    "district_id": "n-nded",
+    "taluka_id": "mudkhed",
+    "name_en": "Chikala Tanda",
+    "name_mr": "",
+    "code": "655647",
+    "boundary_file": "/data/boundaries/villages/n-nded/mudkhed.geojson"
+  }
+]

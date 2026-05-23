@@ -1,0 +1,812 @@
+[
+  {
+    "village_id": "v-544676",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Chikhali Bk.",
+    "name_mr": "",
+    "code": "544676",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544678",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pimpri Mahipal",
+    "name_mr": "",
+    "code": "544678",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544705",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Chimegaon",
+    "name_mr": "",
+    "code": "544705",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544706",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Bondhar Tarf Nerli",
+    "name_mr": "",
+    "code": "544706",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544671",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Khurgaon",
+    "name_mr": "",
+    "code": "544671",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544707",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Nerli",
+    "name_mr": "",
+    "code": "544707",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544704",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Chikhali Kh.",
+    "name_mr": "",
+    "code": "544704",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544679",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadwana",
+    "name_mr": "",
+    "code": "544679",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544680",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Marlak Bk.",
+    "name_mr": "",
+    "code": "544680",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544684",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "544684",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544672",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pasadgaon",
+    "name_mr": "",
+    "code": "544672",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544683",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "544683",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544673",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kakandi Tarf Pasadgaon",
+    "name_mr": "",
+    "code": "544673",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544746",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kalhal",
+    "name_mr": "",
+    "code": "544746",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544747",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Markand",
+    "name_mr": "",
+    "code": "544747",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544739",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Gopalchavdi",
+    "name_mr": "",
+    "code": "544739",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544749",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pimpalgaon Nimji",
+    "name_mr": "",
+    "code": "544749",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544734",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Bhayegaon",
+    "name_mr": "",
+    "code": "544734",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544748",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Bhanagi",
+    "name_mr": "",
+    "code": "544748",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544742",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "544742",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544750",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wahegaon",
+    "name_mr": "",
+    "code": "544750",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544743",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Khupsarwadi",
+    "name_mr": "",
+    "code": "544743",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544735",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kikki",
+    "name_mr": "",
+    "code": "544735",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544744",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "544744",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544692",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Sugaon Kh.",
+    "name_mr": "",
+    "code": "544692",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544722",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Sattarpur",
+    "name_mr": "",
+    "code": "544722",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544696",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Naleshwar",
+    "name_mr": "",
+    "code": "544696",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544721",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "544721",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544711",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Hassapur",
+    "name_mr": "",
+    "code": "544711",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544752",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wajegaon",
+    "name_mr": "",
+    "code": "544752",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544728",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Siddhanath",
+    "name_mr": "",
+    "code": "544728",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544727",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadi Kardel",
+    "name_mr": "",
+    "code": "544727",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544726",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "544726",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544753",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Dhanegaon (CT)",
+    "name_mr": "",
+    "code": "544753",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544729",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Punegaon",
+    "name_mr": "",
+    "code": "544729",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544725",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Elechpur",
+    "name_mr": "",
+    "code": "544725",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544700",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pimpalgaon Korka",
+    "name_mr": "",
+    "code": "544700",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544730",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadi Puyad",
+    "name_mr": "",
+    "code": "544730",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544738",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Mujampeth",
+    "name_mr": "",
+    "code": "544738",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544703",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kottirth",
+    "name_mr": "",
+    "code": "544703",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544701",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Borgaon Telang",
+    "name_mr": "",
+    "code": "544701",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544740",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Babulgaon",
+    "name_mr": "",
+    "code": "544740",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544741",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Gundegaon",
+    "name_mr": "",
+    "code": "544741",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544737",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kakandi",
+    "name_mr": "",
+    "code": "544737",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544736",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Rahegaon",
+    "name_mr": "",
+    "code": "544736",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544697",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "544697",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544702",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Thugaon",
+    "name_mr": "",
+    "code": "544702",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544699",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Rahati Bk.",
+    "name_mr": "",
+    "code": "544699",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544731",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "544731",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544698",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Someshwar",
+    "name_mr": "",
+    "code": "544698",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544754",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Balirampur (CT)",
+    "name_mr": "",
+    "code": "544754",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544751",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Gangabet",
+    "name_mr": "",
+    "code": "544751",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544732",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Tuppa",
+    "name_mr": "",
+    "code": "544732",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544745",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Vishnupuri",
+    "name_mr": "",
+    "code": "544745",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544733",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pimpalgaon (Mistri)",
+    "name_mr": "",
+    "code": "544733",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544669",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kasarkheda",
+    "name_mr": "",
+    "code": "544669",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544667",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Alegaon",
+    "name_mr": "",
+    "code": "544667",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544668",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Ekdara",
+    "name_mr": "",
+    "code": "544668",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544674",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Bhalki",
+    "name_mr": "",
+    "code": "544674",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544670",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Nandusa",
+    "name_mr": "",
+    "code": "544670",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544675",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Hadidadpur",
+    "name_mr": "",
+    "code": "544675",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544677",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Nila",
+    "name_mr": "",
+    "code": "544677",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544681",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Marlak Kh.",
+    "name_mr": "",
+    "code": "544681",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544708",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Puyni",
+    "name_mr": "",
+    "code": "544708",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544682",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Sayal",
+    "name_mr": "",
+    "code": "544682",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544709",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadi Bk.",
+    "name_mr": "",
+    "code": "544709",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544686",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "544686",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544685",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Limbgaon",
+    "name_mr": "",
+    "code": "544685",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544712",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Kamtha Kh.",
+    "name_mr": "",
+    "code": "544712",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544687",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Pokharni",
+    "name_mr": "",
+    "code": "544687",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544716",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "544716",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544715",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadi Wagji",
+    "name_mr": "",
+    "code": "544715",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-251401",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Nanded Waghala (M Corp)",
+    "name_mr": "",
+    "code": "251401",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544718",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadi Janji",
+    "name_mr": "",
+    "code": "544718",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544689",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wanegaon",
+    "name_mr": "",
+    "code": "544689",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544720",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Brahmanwada",
+    "name_mr": "",
+    "code": "544720",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544688",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "544688",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544690",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Bhanpur",
+    "name_mr": "",
+    "code": "544690",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544691",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Daryapur",
+    "name_mr": "",
+    "code": "544691",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544695",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Dhoki",
+    "name_mr": "",
+    "code": "544695",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544717",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Bondhar Tarf Haveli",
+    "name_mr": "",
+    "code": "544717",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544719",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Trikut",
+    "name_mr": "",
+    "code": "544719",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544723",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wangi",
+    "name_mr": "",
+    "code": "544723",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544710",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Nasaratpur",
+    "name_mr": "",
+    "code": "544710",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544724",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Injegaon",
+    "name_mr": "",
+    "code": "544724",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544693",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Sugaon Bk.",
+    "name_mr": "",
+    "code": "544693",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544714",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Khadkut",
+    "name_mr": "",
+    "code": "544714",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544713",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Wadi Emshet",
+    "name_mr": "",
+    "code": "544713",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-544694",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Waghi",
+    "name_mr": "",
+    "code": "544694",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  },
+  {
+    "village_id": "v-946146",
+    "district_id": "n-nded",
+    "taluka_id": "nanded",
+    "name_en": "Waghi Tanda",
+    "name_mr": "",
+    "code": "946146",
+    "boundary_file": "/data/boundaries/villages/n-nded/nanded.geojson"
+  }
+]

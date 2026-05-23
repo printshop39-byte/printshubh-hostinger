@@ -1,0 +1,30 @@
+[
+  {
+    "taluka_id": "shirpur",
+    "district_id": "dhule",
+    "name_en": "SHIRPUR",
+    "name_mr": "",
+    "lgd": "03956"
+  },
+  {
+    "taluka_id": "sindkhede",
+    "district_id": "dhule",
+    "name_en": "SINDKHEDE",
+    "name_mr": "",
+    "lgd": "03957"
+  },
+  {
+    "taluka_id": "dhule",
+    "district_id": "dhule",
+    "name_en": "DHULE",
+    "name_mr": "",
+    "lgd": "03959"
+  },
+  {
+    "taluka_id": "sakri",
+    "district_id": "dhule",
+    "name_en": "SAKRI",
+    "name_mr": "",
+    "lgd": "03958"
+  }
+]

@@ -1,0 +1,1667 @@
+[
+  {
+    "village_id": "v-555231",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khireshwar",
+    "name_mr": "",
+    "code": "555231",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555232",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kolhewadi",
+    "name_mr": "",
+    "code": "555232",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555343",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sukalwedhe",
+    "name_mr": "",
+    "code": "555343",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555352",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dhalewadi Tarf Haveli",
+    "name_mr": "",
+    "code": "555352",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555393",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ane",
+    "name_mr": "",
+    "code": "555393",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555337",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Yenere",
+    "name_mr": "",
+    "code": "555337",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555354",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "555354",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555340",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Tambe",
+    "name_mr": "",
+    "code": "555340",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555338",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kale",
+    "name_mr": "",
+    "code": "555338",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555395",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Rajuri",
+    "name_mr": "",
+    "code": "555395",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555376",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Yedgaon",
+    "name_mr": "",
+    "code": "555376",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555353",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kuran",
+    "name_mr": "",
+    "code": "555353",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555358",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Basti",
+    "name_mr": "",
+    "code": "555358",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555377",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Vaishakh Khede",
+    "name_mr": "",
+    "code": "555377",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555365",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Vadaj",
+    "name_mr": "",
+    "code": "555365",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555277",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bhatkalwadi",
+    "name_mr": "",
+    "code": "555277",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555366",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Katede",
+    "name_mr": "",
+    "code": "555366",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555233",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kopare",
+    "name_mr": "",
+    "code": "555233",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555234",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Jambhulshi",
+    "name_mr": "",
+    "code": "555234",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555241",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sanganore",
+    "name_mr": "",
+    "code": "555241",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555235",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Mandave",
+    "name_mr": "",
+    "code": "555235",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555255",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ambe Gavhan",
+    "name_mr": "",
+    "code": "555255",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555242",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khubi",
+    "name_mr": "",
+    "code": "555242",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555254",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Chilhewadi",
+    "name_mr": "",
+    "code": "555254",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555248",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Madh",
+    "name_mr": "",
+    "code": "555248",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555243",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Karanjale",
+    "name_mr": "",
+    "code": "555243",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555236",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Muthalne",
+    "name_mr": "",
+    "code": "555236",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555244",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Taleran",
+    "name_mr": "",
+    "code": "555244",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555256",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pachgharwadi",
+    "name_mr": "",
+    "code": "555256",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555281",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ajanawale",
+    "name_mr": "",
+    "code": "555281",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555239",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimpalgaon Joga",
+    "name_mr": "",
+    "code": "555239",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555284",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khatkale",
+    "name_mr": "",
+    "code": "555284",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555259",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Otur",
+    "name_mr": "",
+    "code": "555259",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555285",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khaire",
+    "name_mr": "",
+    "code": "555285",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555293",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Godre",
+    "name_mr": "",
+    "code": "555293",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555294",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Alame",
+    "name_mr": "",
+    "code": "555294",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555287",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Jalwandi",
+    "name_mr": "",
+    "code": "555287",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555291",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Undekhadak",
+    "name_mr": "",
+    "code": "555291",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555286",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hirdi",
+    "name_mr": "",
+    "code": "555286",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555306",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "555306",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555288",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Phagul Gavhan",
+    "name_mr": "",
+    "code": "555288",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555295",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ballalwadi",
+    "name_mr": "",
+    "code": "555295",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555289",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khadkumbe",
+    "name_mr": "",
+    "code": "555289",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555308",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kewadi",
+    "name_mr": "",
+    "code": "555308",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555290",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Usran",
+    "name_mr": "",
+    "code": "555290",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555275",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ale",
+    "name_mr": "",
+    "code": "555275",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555265",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Umbraj",
+    "name_mr": "",
+    "code": "555265",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555323",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dhalewadi Tarf Minher",
+    "name_mr": "",
+    "code": "555323",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555304",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimpalgaon Siddhanath",
+    "name_mr": "",
+    "code": "555304",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555326",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bhivade Kh.",
+    "name_mr": "",
+    "code": "555326",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555320",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khangaon",
+    "name_mr": "",
+    "code": "555320",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555318",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Aptale",
+    "name_mr": "",
+    "code": "555318",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555299",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Tejewadi",
+    "name_mr": "",
+    "code": "555299",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555321",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Surale",
+    "name_mr": "",
+    "code": "555321",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555322",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Wanewadi",
+    "name_mr": "",
+    "code": "555322",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555324",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shivali",
+    "name_mr": "",
+    "code": "555324",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555329",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ingaloon",
+    "name_mr": "",
+    "code": "555329",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555273",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Santwadi",
+    "name_mr": "",
+    "code": "555273",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555391",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "555391",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555390",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nalawane",
+    "name_mr": "",
+    "code": "555390",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-251516",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Junnar (M Cl)",
+    "name_mr": "",
+    "code": "251516",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555401",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Gulunchwadi",
+    "name_mr": "",
+    "code": "555401",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555400",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "555400",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555364",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nimdari",
+    "name_mr": "",
+    "code": "555364",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555380",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Vadgaon Kandali",
+    "name_mr": "",
+    "code": "555380",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555369",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "555369",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555398",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Gunjalwadi",
+    "name_mr": "",
+    "code": "555398",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555363",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "555363",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555402",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Belhe",
+    "name_mr": "",
+    "code": "555402",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555362",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Gunjalwadi",
+    "name_mr": "",
+    "code": "555362",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555383",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Warulwadi",
+    "name_mr": "",
+    "code": "555383",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555385",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bori Kh.",
+    "name_mr": "",
+    "code": "555385",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555384",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hivare Tarf Narayangaon",
+    "name_mr": "",
+    "code": "555384",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555370",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khilarwadi",
+    "name_mr": "",
+    "code": "555370",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555403",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Yadavwadi",
+    "name_mr": "",
+    "code": "555403",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555246",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bagadwadi",
+    "name_mr": "",
+    "code": "555246",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555237",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Alu",
+    "name_mr": "",
+    "code": "555237",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555283",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Devale",
+    "name_mr": "",
+    "code": "555283",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555257",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ahinavewadi",
+    "name_mr": "",
+    "code": "555257",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555253",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Udapur",
+    "name_mr": "",
+    "code": "555253",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555238",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Mandarne",
+    "name_mr": "",
+    "code": "555238",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555282",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nimgiri",
+    "name_mr": "",
+    "code": "555282",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555252",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dingore",
+    "name_mr": "",
+    "code": "555252",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555245",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pargaon Tarf Madh",
+    "name_mr": "",
+    "code": "555245",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555250",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pangari Tarf Madh",
+    "name_mr": "",
+    "code": "555250",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555280",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ghatghar",
+    "name_mr": "",
+    "code": "555280",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555258",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Rohkadi",
+    "name_mr": "",
+    "code": "555258",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555249",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Watkhale",
+    "name_mr": "",
+    "code": "555249",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555247",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sitewadi",
+    "name_mr": "",
+    "code": "555247",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555251",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kolwadi",
+    "name_mr": "",
+    "code": "555251",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555307",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Rajur",
+    "name_mr": "",
+    "code": "555307",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555310",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pur",
+    "name_mr": "",
+    "code": "555310",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555305",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Aldare",
+    "name_mr": "",
+    "code": "555305",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555264",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khamundi",
+    "name_mr": "",
+    "code": "555264",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555309",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Chawand",
+    "name_mr": "",
+    "code": "555309",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555313",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Amboli",
+    "name_mr": "",
+    "code": "555313",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555297",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Netwad",
+    "name_mr": "",
+    "code": "555297",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555315",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Mankeshwar",
+    "name_mr": "",
+    "code": "555315",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555298",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Malwadi",
+    "name_mr": "",
+    "code": "555298",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555263",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dumbarwadi",
+    "name_mr": "",
+    "code": "555263",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555302",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "555302",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555296",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pangari Tarf Otur",
+    "name_mr": "",
+    "code": "555296",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555325",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bhivade Bk.",
+    "name_mr": "",
+    "code": "555325",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555260",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Tikekarwadi",
+    "name_mr": "",
+    "code": "555260",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555311",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shiroli Tarf Kukadneher",
+    "name_mr": "",
+    "code": "555311",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555266",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimpri Pendhar",
+    "name_mr": "",
+    "code": "555266",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555316",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Tejur",
+    "name_mr": "",
+    "code": "555316",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555261",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hivare Kh",
+    "name_mr": "",
+    "code": "555261",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555268",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Jambhulpat",
+    "name_mr": "",
+    "code": "555268",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555314",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Uchhil",
+    "name_mr": "",
+    "code": "555314",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555267",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Gaymukhwadi",
+    "name_mr": "",
+    "code": "555267",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555271",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Padirwadi",
+    "name_mr": "",
+    "code": "555271",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555312",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Manikdoh",
+    "name_mr": "",
+    "code": "555312",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555262",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dholwad",
+    "name_mr": "",
+    "code": "555262",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555317",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Keli",
+    "name_mr": "",
+    "code": "555317",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555301",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kumshet",
+    "name_mr": "",
+    "code": "555301",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555269",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Navalewadi",
+    "name_mr": "",
+    "code": "555269",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555327",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hatvij",
+    "name_mr": "",
+    "code": "555327",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555344",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "555344",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555300",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shiroli Kh",
+    "name_mr": "",
+    "code": "555300",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555303",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hatban",
+    "name_mr": "",
+    "code": "555303",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555328",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ambe",
+    "name_mr": "",
+    "code": "555328",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555319",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nirgude",
+    "name_mr": "",
+    "code": "555319",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555272",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Alefata",
+    "name_mr": "",
+    "code": "555272",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555373",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Vighnaharnagar",
+    "name_mr": "",
+    "code": "555373",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555330",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sonawale",
+    "name_mr": "",
+    "code": "555330",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555374",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hivare Bk",
+    "name_mr": "",
+    "code": "555374",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555345",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Somatwadi",
+    "name_mr": "",
+    "code": "555345",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555332",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shinde",
+    "name_mr": "",
+    "code": "555332",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555279",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kalwadi",
+    "name_mr": "",
+    "code": "555279",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555350",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hapus Baug",
+    "name_mr": "",
+    "code": "555350",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555346",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Barav",
+    "name_mr": "",
+    "code": "555346",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555351",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shiroli Bk",
+    "name_mr": "",
+    "code": "555351",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555333",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ralegan",
+    "name_mr": "",
+    "code": "555333",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555372",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ozar",
+    "name_mr": "",
+    "code": "555372",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555331",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ghangaldare",
+    "name_mr": "",
+    "code": "555331",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555347",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Amrapur",
+    "name_mr": "",
+    "code": "555347",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555278",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Chalakwadi",
+    "name_mr": "",
+    "code": "555278",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555348",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Agar",
+    "name_mr": "",
+    "code": "555348",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555394",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Unchkhadakwadi",
+    "name_mr": "",
+    "code": "555394",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555336",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kusur",
+    "name_mr": "",
+    "code": "555336",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555334",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Botarde",
+    "name_mr": "",
+    "code": "555334",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555270",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Wadgaon Anand",
+    "name_mr": "",
+    "code": "555270",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555276",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimpalwandi",
+    "name_mr": "",
+    "code": "555276",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555342",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimparwadi",
+    "name_mr": "",
+    "code": "555342",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555274",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kolwadi",
+    "name_mr": "",
+    "code": "555274",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555335",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Belsar",
+    "name_mr": "",
+    "code": "555335",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555341",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hivare Tarf Minher",
+    "name_mr": "",
+    "code": "555341",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555355",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dhamankhel",
+    "name_mr": "",
+    "code": "555355",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555392",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pemdara",
+    "name_mr": "",
+    "code": "555392",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555375",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "555375",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555359",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Vadgaon Sahani",
+    "name_mr": "",
+    "code": "555359",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555356",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Baglohare",
+    "name_mr": "",
+    "code": "555356",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555357",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nimgaon Tarf Mahalunge",
+    "name_mr": "",
+    "code": "555357",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555399",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bangarwadi",
+    "name_mr": "",
+    "code": "555399",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555379",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kandali",
+    "name_mr": "",
+    "code": "555379",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555360",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimpalgaon T Narayangaon",
+    "name_mr": "",
+    "code": "555360",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555361",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "555361",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555368",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Parunde",
+    "name_mr": "",
+    "code": "555368",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555382",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Narayangaon",
+    "name_mr": "",
+    "code": "555382",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555396",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bori Bk.",
+    "name_mr": "",
+    "code": "555396",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555378",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bhorwadi",
+    "name_mr": "",
+    "code": "555378",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555367",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Buchakewadi",
+    "name_mr": "",
+    "code": "555367",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555381",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nagadwadi",
+    "name_mr": "",
+    "code": "555381",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555397",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Tambewadi",
+    "name_mr": "",
+    "code": "555397",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555388",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Khodad",
+    "name_mr": "",
+    "code": "555388",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555405",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Jadhav Wadi",
+    "name_mr": "",
+    "code": "555405",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555386",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Shiroli T Ale",
+    "name_mr": "",
+    "code": "555386",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555404",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kombadwadi",
+    "name_mr": "",
+    "code": "555404",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555407",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Ranmalawadi",
+    "name_mr": "",
+    "code": "555407",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555406",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sakori T Belhe",
+    "name_mr": "",
+    "code": "555406",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555387",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "555387",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555408",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Nimgaon Sawa",
+    "name_mr": "",
+    "code": "555408",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555389",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Manjarwadi",
+    "name_mr": "",
+    "code": "555389",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555411",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Zapwadi",
+    "name_mr": "",
+    "code": "555411",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555410",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "555410",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555412",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pargaon Tarf Ale",
+    "name_mr": "",
+    "code": "555412",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555409",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Aurangpur",
+    "name_mr": "",
+    "code": "555409",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555413",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Pimpri Kawala",
+    "name_mr": "",
+    "code": "555413",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555339",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Datkhilwadi",
+    "name_mr": "",
+    "code": "555339",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555240",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bhoirwadi",
+    "name_mr": "",
+    "code": "555240",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555371",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Bhorwadi",
+    "name_mr": "",
+    "code": "555371",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555349",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Badshaha Talao",
+    "name_mr": "",
+    "code": "555349",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-555292",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Hadsar",
+    "name_mr": "",
+    "code": "555292",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  },
+  {
+    "village_id": "v-943015",
+    "district_id": "pune",
+    "taluka_id": "junnar",
+    "name_en": "Kotamvadi",
+    "name_mr": "",
+    "code": "943015",
+    "boundary_file": "/data/boundaries/villages/pune/junnar.geojson"
+  }
+]

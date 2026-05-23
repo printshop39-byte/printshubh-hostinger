@@ -1,0 +1,79 @@
+[
+  {
+    "taluka_id": "ashti",
+    "district_id": "beed",
+    "name_en": "ASHTI",
+    "name_mr": "",
+    "lgd": "04215"
+  },
+  {
+    "taluka_id": "beed",
+    "district_id": "beed",
+    "name_en": "BEED",
+    "name_mr": "",
+    "lgd": "04221"
+  },
+  {
+    "taluka_id": "ambejogai",
+    "district_id": "beed",
+    "name_en": "AMBEJOGAI",
+    "name_mr": "",
+    "lgd": "04225"
+  },
+  {
+    "taluka_id": "wadwani",
+    "district_id": "beed",
+    "name_en": "WADWANI",
+    "name_mr": "",
+    "lgd": "04220"
+  },
+  {
+    "taluka_id": "dharur",
+    "district_id": "beed",
+    "name_en": "DHARUR",
+    "name_mr": "",
+    "lgd": "04223"
+  },
+  {
+    "taluka_id": "majalgaon",
+    "district_id": "beed",
+    "name_en": "MAJALGAON",
+    "name_mr": "",
+    "lgd": "04219"
+  },
+  {
+    "taluka_id": "kaij",
+    "district_id": "beed",
+    "name_en": "KAIJ",
+    "name_mr": "",
+    "lgd": "04222"
+  },
+  {
+    "taluka_id": "parli",
+    "district_id": "beed",
+    "name_en": "PARLI",
+    "name_mr": "",
+    "lgd": "04224"
+  },
+  {
+    "taluka_id": "patoda",
+    "district_id": "beed",
+    "name_en": "PATODA",
+    "name_mr": "",
+    "lgd": "04216"
+  },
+  {
+    "taluka_id": "shirur-kasar",
+    "district_id": "beed",
+    "name_en": "SHIRUR (KASAR)",
+    "name_mr": "",
+    "lgd": "04217"
+  },
+  {
+    "taluka_id": "georai",
+    "district_id": "beed",
+    "name_en": "GEORAI",
+    "name_mr": "",
+    "lgd": "04218"
+  }
+]

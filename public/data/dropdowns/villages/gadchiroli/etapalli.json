@@ -1,0 +1,1793 @@
+[
+  {
+    "village_id": "v-539495",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kurumwada",
+    "name_mr": "",
+    "code": "539495",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539501",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Channabodi",
+    "name_mr": "",
+    "code": "539501",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539509",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Irpanpaili",
+    "name_mr": "",
+    "code": "539509",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539500",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jarawandi",
+    "name_mr": "",
+    "code": "539500",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539508",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kandli",
+    "name_mr": "",
+    "code": "539508",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539510",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Morawahi",
+    "name_mr": "",
+    "code": "539510",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539502",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Sohagaon",
+    "name_mr": "",
+    "code": "539502",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539507",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Umargatta",
+    "name_mr": "",
+    "code": "539507",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539511",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Malangatta",
+    "name_mr": "",
+    "code": "539511",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539503",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Manjigad",
+    "name_mr": "",
+    "code": "539503",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539512",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gumadi M",
+    "name_mr": "",
+    "code": "539512",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539513",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tekka",
+    "name_mr": "",
+    "code": "539513",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539506",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Bhapda",
+    "name_mr": "",
+    "code": "539506",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539490",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wadsakala",
+    "name_mr": "",
+    "code": "539490",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539492",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "539492",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539493",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Welmagad",
+    "name_mr": "",
+    "code": "539493",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539491",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Dindvi",
+    "name_mr": "",
+    "code": "539491",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539499",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jambulgatta",
+    "name_mr": "",
+    "code": "539499",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539494",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gartawahi",
+    "name_mr": "",
+    "code": "539494",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539661",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mangar (S)",
+    "name_mr": "",
+    "code": "539661",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539496",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Dolanda",
+    "name_mr": "",
+    "code": "539496",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539498",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wadsa Kh",
+    "name_mr": "",
+    "code": "539498",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539514",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Hanapaili",
+    "name_mr": "",
+    "code": "539514",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539515",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Sarkheda",
+    "name_mr": "",
+    "code": "539515",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539517",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kasurwahi",
+    "name_mr": "",
+    "code": "539517",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539516",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Recha",
+    "name_mr": "",
+    "code": "539516",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539519",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Reknar",
+    "name_mr": "",
+    "code": "539519",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539505",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Sinbhatti",
+    "name_mr": "",
+    "code": "539505",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539518",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kohaka",
+    "name_mr": "",
+    "code": "539518",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539504",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wandoli",
+    "name_mr": "",
+    "code": "539504",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539523",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Alenga M",
+    "name_mr": "",
+    "code": "539523",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539521",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mandoli Rithi",
+    "name_mr": "",
+    "code": "539521",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539520",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Paidi",
+    "name_mr": "",
+    "code": "539520",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539525",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Pendulwahi",
+    "name_mr": "",
+    "code": "539525",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539524",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ropi",
+    "name_mr": "",
+    "code": "539524",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539566",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Medhari",
+    "name_mr": "",
+    "code": "539566",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539536",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gadadapalli",
+    "name_mr": "",
+    "code": "539536",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539529",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jaweli Bk (S)",
+    "name_mr": "",
+    "code": "539529",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539531",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Karka Kh",
+    "name_mr": "",
+    "code": "539531",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539528",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Karrem (M)",
+    "name_mr": "",
+    "code": "539528",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539526",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Bhumkan",
+    "name_mr": "",
+    "code": "539526",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539539",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kothari",
+    "name_mr": "",
+    "code": "539539",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539527",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gundam",
+    "name_mr": "",
+    "code": "539527",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539537",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Koindul",
+    "name_mr": "",
+    "code": "539537",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539538",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Magdandi",
+    "name_mr": "",
+    "code": "539538",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539534",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kotmi",
+    "name_mr": "",
+    "code": "539534",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539532",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Asawandi",
+    "name_mr": "",
+    "code": "539532",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539530",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kanhalgaon (M)",
+    "name_mr": "",
+    "code": "539530",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539535",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Nainguda",
+    "name_mr": "",
+    "code": "539535",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539533",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Nawegaon",
+    "name_mr": "",
+    "code": "539533",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539547",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Chokhewada",
+    "name_mr": "",
+    "code": "539547",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539541",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gudram",
+    "name_mr": "",
+    "code": "539541",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539544",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kotakonda Bk",
+    "name_mr": "",
+    "code": "539544",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539540",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ghotesur",
+    "name_mr": "",
+    "code": "539540",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539542",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Manewara",
+    "name_mr": "",
+    "code": "539542",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539550",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Yetawahi",
+    "name_mr": "",
+    "code": "539550",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539551",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kondawahi M",
+    "name_mr": "",
+    "code": "539551",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539548",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Zurri S",
+    "name_mr": "",
+    "code": "539548",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539549",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Zurri M",
+    "name_mr": "",
+    "code": "539549",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539552",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gaderi",
+    "name_mr": "",
+    "code": "539552",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539546",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kasansur",
+    "name_mr": "",
+    "code": "539546",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539558",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wenasar",
+    "name_mr": "",
+    "code": "539558",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539554",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Musaramguda M",
+    "name_mr": "",
+    "code": "539554",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539553",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Musaramguda S",
+    "name_mr": "",
+    "code": "539553",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539543",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Karka Bk",
+    "name_mr": "",
+    "code": "539543",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539545",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kotakonda Kh",
+    "name_mr": "",
+    "code": "539545",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539522",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Medhari",
+    "name_mr": "",
+    "code": "539522",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539561",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Sewari (M)",
+    "name_mr": "",
+    "code": "539561",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539556",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Waghezari (M)",
+    "name_mr": "",
+    "code": "539556",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539557",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Punnur (S)",
+    "name_mr": "",
+    "code": "539557",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539555",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Waghezari (S)",
+    "name_mr": "",
+    "code": "539555",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539562",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Sewari",
+    "name_mr": "",
+    "code": "539562",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539560",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kamke Alias Ghotsur",
+    "name_mr": "",
+    "code": "539560",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539559",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Petha (S)",
+    "name_mr": "",
+    "code": "539559",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539564",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jijawandi",
+    "name_mr": "",
+    "code": "539564",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539565",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jaweli Kh (S)",
+    "name_mr": "",
+    "code": "539565",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539563",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kukeli (M)",
+    "name_mr": "",
+    "code": "539563",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539576",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wattegatta (M)",
+    "name_mr": "",
+    "code": "539576",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539575",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Halewara",
+    "name_mr": "",
+    "code": "539575",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539577",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gattepalli (S)",
+    "name_mr": "",
+    "code": "539577",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539567",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wangeturi",
+    "name_mr": "",
+    "code": "539567",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-58",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539568",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kundum",
+    "name_mr": "",
+    "code": "539568",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539587",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Rekabhatal",
+    "name_mr": "",
+    "code": "539587",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539571",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kachler",
+    "name_mr": "",
+    "code": "539571",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539569",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Burgi (M)",
+    "name_mr": "",
+    "code": "539569",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539572",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ragadandi",
+    "name_mr": "",
+    "code": "539572",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539574",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kothi (M)",
+    "name_mr": "",
+    "code": "539574",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539588",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Puskoti (S)",
+    "name_mr": "",
+    "code": "539588",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539589",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Todgatta (M)",
+    "name_mr": "",
+    "code": "539589",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539586",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Dodhur (S)",
+    "name_mr": "",
+    "code": "539586",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539578",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Bater (M)",
+    "name_mr": "",
+    "code": "539578",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539599",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Rekameta",
+    "name_mr": "",
+    "code": "539599",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539633",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tadpalli Alias Naralhur",
+    "name_mr": "",
+    "code": "539633",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539590",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Hindur (M)",
+    "name_mr": "",
+    "code": "539590",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539580",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Dewada M",
+    "name_mr": "",
+    "code": "539580",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539631",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ekansur (S)",
+    "name_mr": "",
+    "code": "539631",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539573",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kornar (M)",
+    "name_mr": "",
+    "code": "539573",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-59",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539585",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Nandwadi",
+    "name_mr": "",
+    "code": "539585",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539591",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Machawancha Cha",
+    "name_mr": "",
+    "code": "539591",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539594",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Hachbodi",
+    "name_mr": "",
+    "code": "539594",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539632",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ekansur (M)",
+    "name_mr": "",
+    "code": "539632",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539630",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Geda",
+    "name_mr": "",
+    "code": "539630",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539595",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mardkuhi (S)",
+    "name_mr": "",
+    "code": "539595",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539581",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kudari (S)",
+    "name_mr": "",
+    "code": "539581",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539579",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Maveli (M)",
+    "name_mr": "",
+    "code": "539579",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539600",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wateli",
+    "name_mr": "",
+    "code": "539600",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539570",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Walmagad",
+    "name_mr": "",
+    "code": "539570",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539584",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Hetalkasa",
+    "name_mr": "",
+    "code": "539584",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539638",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tambada (M)",
+    "name_mr": "",
+    "code": "539638",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539592",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Hikker (M)",
+    "name_mr": "",
+    "code": "539592",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539597",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gardewada",
+    "name_mr": "",
+    "code": "539597",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539593",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Murwada",
+    "name_mr": "",
+    "code": "539593",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539596",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Deopadi",
+    "name_mr": "",
+    "code": "539596",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539634",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Lanzi (S)",
+    "name_mr": "",
+    "code": "539634",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539629",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Chandanweli (S)",
+    "name_mr": "",
+    "code": "539629",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539602",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Modaske",
+    "name_mr": "",
+    "code": "539602",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539601",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jajawandi",
+    "name_mr": "",
+    "code": "539601",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539617",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Koindwarsa",
+    "name_mr": "",
+    "code": "539617",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539583",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Moharli",
+    "name_mr": "",
+    "code": "539583",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539582",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Nagulwadi (M)",
+    "name_mr": "",
+    "code": "539582",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539637",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tambada (S)",
+    "name_mr": "",
+    "code": "539637",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539598",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tadguda",
+    "name_mr": "",
+    "code": "539598",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539641",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Makkepalli",
+    "name_mr": "",
+    "code": "539641",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539635",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Alenga (M)",
+    "name_mr": "",
+    "code": "539635",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539645",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Karampalli (S)",
+    "name_mr": "",
+    "code": "539645",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539640",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Barsewada (M)",
+    "name_mr": "",
+    "code": "539640",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539639",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Doddi (M)",
+    "name_mr": "",
+    "code": "539639",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539616",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Besewada",
+    "name_mr": "",
+    "code": "539616",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539636",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Doddi S",
+    "name_mr": "",
+    "code": "539636",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539603",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Puske (M)",
+    "name_mr": "",
+    "code": "539603",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539614",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gattaguda (S)",
+    "name_mr": "",
+    "code": "539614",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539644",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Todsa (S)",
+    "name_mr": "",
+    "code": "539644",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539611",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Adange (M)",
+    "name_mr": "",
+    "code": "539611",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539618",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Wadavi",
+    "name_mr": "",
+    "code": "539618",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539615",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gatta (S)",
+    "name_mr": "",
+    "code": "539615",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539647",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Petha (S)",
+    "name_mr": "",
+    "code": "539647",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539648",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ekara Bk",
+    "name_mr": "",
+    "code": "539648",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539604",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Nender (M)",
+    "name_mr": "",
+    "code": "539604",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539613",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jambiya",
+    "name_mr": "",
+    "code": "539613",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539646",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Bande (M)",
+    "name_mr": "",
+    "code": "539646",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539658",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Ekara Kh",
+    "name_mr": "",
+    "code": "539658",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539606",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Surjagad",
+    "name_mr": "",
+    "code": "539606",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539610",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Pamajiguda (S)",
+    "name_mr": "",
+    "code": "539610",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539612",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Titoda (S)",
+    "name_mr": "",
+    "code": "539612",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539620",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gilanguda",
+    "name_mr": "",
+    "code": "539620",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539628",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gundjur",
+    "name_mr": "",
+    "code": "539628",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539605",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mallampad (S)",
+    "name_mr": "",
+    "code": "539605",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539619",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mohandi",
+    "name_mr": "",
+    "code": "539619",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539659",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Zareguda",
+    "name_mr": "",
+    "code": "539659",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539660",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Hedri",
+    "name_mr": "",
+    "code": "539660",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539621",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Zareguda (S)",
+    "name_mr": "",
+    "code": "539621",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-276330",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Etapalli (NP)",
+    "name_mr": "",
+    "code": "276330",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539627",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kunjemarka (M)",
+    "name_mr": "",
+    "code": "539627",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539609",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Parsalgondi",
+    "name_mr": "",
+    "code": "539609",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539497",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mungner",
+    "name_mr": "",
+    "code": "539497",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539622",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Pusumpalli (M)",
+    "name_mr": "",
+    "code": "539622",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539662",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Parsalgondi (S)",
+    "name_mr": "",
+    "code": "539662",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539657",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tumargunda Bk",
+    "name_mr": "",
+    "code": "539657",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539675",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Udera (M)",
+    "name_mr": "",
+    "code": "539675",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539649",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tumargunda Kh",
+    "name_mr": "",
+    "code": "539649",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539608",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Italnar",
+    "name_mr": "",
+    "code": "539608",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539626",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gorgatta (M)",
+    "name_mr": "",
+    "code": "539626",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539654",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Jaweli (M)",
+    "name_mr": "",
+    "code": "539654",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539663",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Aldandi (S)",
+    "name_mr": "",
+    "code": "539663",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539651",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Dumme (S)",
+    "name_mr": "",
+    "code": "539651",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539623",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Alenga (S)",
+    "name_mr": "",
+    "code": "539623",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539664",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Aldandi (M)",
+    "name_mr": "",
+    "code": "539664",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539625",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Yadasgondi",
+    "name_mr": "",
+    "code": "539625",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539656",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Pandewahi (S)",
+    "name_mr": "",
+    "code": "539656",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539655",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gurupalli",
+    "name_mr": "",
+    "code": "539655",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539672",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Reknar (S)",
+    "name_mr": "",
+    "code": "539672",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539607",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Godeli (M)",
+    "name_mr": "",
+    "code": "539607",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539670",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Udera (S)",
+    "name_mr": "",
+    "code": "539670",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-60",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539624",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Bodmeta",
+    "name_mr": "",
+    "code": "539624",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539665",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Pandelwahi (M)",
+    "name_mr": "",
+    "code": "539665",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539669",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tatigudam (M)",
+    "name_mr": "",
+    "code": "539669",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539671",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Markal",
+    "name_mr": "",
+    "code": "539671",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539668",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Tatigudam (S)",
+    "name_mr": "",
+    "code": "539668",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539673",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Fundi (M)",
+    "name_mr": "",
+    "code": "539673",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-61",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539666",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Karrem (M)",
+    "name_mr": "",
+    "code": "539666",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539676",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Yemali",
+    "name_mr": "",
+    "code": "539676",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539667",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Birdi (S)",
+    "name_mr": "",
+    "code": "539667",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539674",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Burgi (S)",
+    "name_mr": "",
+    "code": "539674",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539678",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Pindiguddam (M)",
+    "name_mr": "",
+    "code": "539678",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539685",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kandoli (S)",
+    "name_mr": "",
+    "code": "539685",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539677",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kondawahi (M)",
+    "name_mr": "",
+    "code": "539677",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539683",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Abanpalli M",
+    "name_mr": "",
+    "code": "539683",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539684",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Kandoli (M)",
+    "name_mr": "",
+    "code": "539684",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539681",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Paima (S)",
+    "name_mr": "",
+    "code": "539681",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539682",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Mangutha (M)",
+    "name_mr": "",
+    "code": "539682",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539680",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Paima (M)",
+    "name_mr": "",
+    "code": "539680",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539686",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Gattepalli",
+    "name_mr": "",
+    "code": "539686",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  },
+  {
+    "village_id": "v-539679",
+    "district_id": "gadchiroli",
+    "taluka_id": "etapalli",
+    "name_en": "Teradoh",
+    "name_mr": "",
+    "code": "539679",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/etapalli.geojson"
+  }
+]

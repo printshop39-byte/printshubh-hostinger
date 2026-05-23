@@ -1,0 +1,758 @@
+[
+  {
+    "village_id": "v-562623",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Akole",
+    "name_mr": "",
+    "code": "562623",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562635",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Borale",
+    "name_mr": "",
+    "code": "562635",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562624",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Shelewadi",
+    "name_mr": "",
+    "code": "562624",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562625",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Laxami Dahiwadi",
+    "name_mr": "",
+    "code": "562625",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562656",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "562656",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562639",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Kacharewadi",
+    "name_mr": "",
+    "code": "562639",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562655",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Andhalgaon",
+    "name_mr": "",
+    "code": "562655",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562647",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Arali",
+    "name_mr": "",
+    "code": "562647",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562658",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Khupsangi",
+    "name_mr": "",
+    "code": "562658",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562645",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Bhalewadi",
+    "name_mr": "",
+    "code": "562645",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562620",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mallewadi",
+    "name_mr": "",
+    "code": "562620",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562631",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Machanur",
+    "name_mr": "",
+    "code": "562631",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562619",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Gharniki",
+    "name_mr": "",
+    "code": "562619",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562632",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Tamdardi",
+    "name_mr": "",
+    "code": "562632",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562633",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Tandor",
+    "name_mr": "",
+    "code": "562633",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562622",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "562622",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562618",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Marapur",
+    "name_mr": "",
+    "code": "562618",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562634",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Siddapur",
+    "name_mr": "",
+    "code": "562634",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562617",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Gunjegaon",
+    "name_mr": "",
+    "code": "562617",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562636",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Rahatewadi",
+    "name_mr": "",
+    "code": "562636",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562616",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mahamadabad (Shetfal)",
+    "name_mr": "",
+    "code": "562616",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562637",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mundhewadi",
+    "name_mr": "",
+    "code": "562637",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562628",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Uchethan",
+    "name_mr": "",
+    "code": "562628",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562627",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mudhavi",
+    "name_mr": "",
+    "code": "562627",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562629",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Bathan",
+    "name_mr": "",
+    "code": "562629",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562626",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Dharamgaon",
+    "name_mr": "",
+    "code": "562626",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562621",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Dhavalas",
+    "name_mr": "",
+    "code": "562621",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562630",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Bramhapuri",
+    "name_mr": "",
+    "code": "562630",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562646",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Donaj",
+    "name_mr": "",
+    "code": "562646",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562643",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Khomnal",
+    "name_mr": "",
+    "code": "562643",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562640",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "562640",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562657",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Patkhal",
+    "name_mr": "",
+    "code": "562657",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562644",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Talsangi",
+    "name_mr": "",
+    "code": "562644",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562649",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Maravade",
+    "name_mr": "",
+    "code": "562649",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562648",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Nandur",
+    "name_mr": "",
+    "code": "562648",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562642",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Hivargaon",
+    "name_mr": "",
+    "code": "562642",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562664",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Hajapur",
+    "name_mr": "",
+    "code": "562664",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562681",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Lamantanda",
+    "name_mr": "",
+    "code": "562681",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562659",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Lendave Chichale",
+    "name_mr": "",
+    "code": "562659",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562652",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Bhalwani",
+    "name_mr": "",
+    "code": "562652",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562650",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Diksal",
+    "name_mr": "",
+    "code": "562650",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562662",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Junoni",
+    "name_mr": "",
+    "code": "562662",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562684",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Karjal",
+    "name_mr": "",
+    "code": "562684",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562665",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Jalihal",
+    "name_mr": "",
+    "code": "562665",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562663",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Metkarwadi",
+    "name_mr": "",
+    "code": "562663",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562683",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Katral",
+    "name_mr": "",
+    "code": "562683",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562661",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Gonewadi",
+    "name_mr": "",
+    "code": "562661",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562682",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Kagasht",
+    "name_mr": "",
+    "code": "562682",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562666",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "562666",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562651",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Yedrav",
+    "name_mr": "",
+    "code": "562651",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562660",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Shirashi",
+    "name_mr": "",
+    "code": "562660",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562685",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Huljanti",
+    "name_mr": "",
+    "code": "562685",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562654",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Khave",
+    "name_mr": "",
+    "code": "562654",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562653",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Jitti",
+    "name_mr": "",
+    "code": "562653",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562669",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Nimboni",
+    "name_mr": "",
+    "code": "562669",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562667",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Nandeshwar",
+    "name_mr": "",
+    "code": "562667",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562670",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Radde",
+    "name_mr": "",
+    "code": "562670",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562686",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "562686",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562668",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Siddhankeri",
+    "name_mr": "",
+    "code": "562668",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562687",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Pout",
+    "name_mr": "",
+    "code": "562687",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562688",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Bavachi",
+    "name_mr": "",
+    "code": "562688",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562692",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Soddi",
+    "name_mr": "",
+    "code": "562692",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562671",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Bhose",
+    "name_mr": "",
+    "code": "562671",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562675",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Chikhalgi",
+    "name_mr": "",
+    "code": "562675",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562691",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Yelagi",
+    "name_mr": "",
+    "code": "562691",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562690",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Salagar Kh.",
+    "name_mr": "",
+    "code": "562690",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562689",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Jangalgi",
+    "name_mr": "",
+    "code": "562689",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562693",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Shivangi",
+    "name_mr": "",
+    "code": "562693",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562674",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Shirnadgi",
+    "name_mr": "",
+    "code": "562674",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562695",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Salagar Bk.",
+    "name_mr": "",
+    "code": "562695",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562673",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Hunnar",
+    "name_mr": "",
+    "code": "562673",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562694",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Asabewadi",
+    "name_mr": "",
+    "code": "562694",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562672",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Manewadi",
+    "name_mr": "",
+    "code": "562672",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562676",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Maroli",
+    "name_mr": "",
+    "code": "562676",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562677",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mahamadabad (Hunnar)",
+    "name_mr": "",
+    "code": "562677",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562696",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Lavangi",
+    "name_mr": "",
+    "code": "562696",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562678",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Revewadi",
+    "name_mr": "",
+    "code": "562678",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562679",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Lonar",
+    "name_mr": "",
+    "code": "562679",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562680",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Padolkarwadi",
+    "name_mr": "",
+    "code": "562680",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562638",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mangalvedha",
+    "name_mr": "",
+    "code": "562638",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-912928",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Sant Damaji Nagar",
+    "name_mr": "",
+    "code": "912928",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-562641",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Fatewadi",
+    "name_mr": "",
+    "code": "562641",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-912927",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Sant Chokhamela Nagar",
+    "name_mr": "",
+    "code": "912927",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  },
+  {
+    "village_id": "v-251580",
+    "district_id": "solapur",
+    "taluka_id": "mangalvedhe",
+    "name_en": "Mangalvedhe (M Cl)",
+    "name_mr": "",
+    "code": "251580",
+    "boundary_file": "/data/boundaries/villages/solapur/mangalvedhe.geojson"
+  }
+]

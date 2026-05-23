@@ -1,0 +1,956 @@
+[
+  {
+    "village_id": "v-537080",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Ghanod",
+    "name_mr": "",
+    "code": "537080",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537090",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Amgaon Bk.",
+    "name_mr": "",
+    "code": "537090",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537081",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "537081",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537086",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Makkitola",
+    "name_mr": "",
+    "code": "537086",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537088",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Nipiyartola",
+    "name_mr": "",
+    "code": "537088",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537092",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "537092",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537089",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Bampewada",
+    "name_mr": "",
+    "code": "537089",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537095",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Rengepar",
+    "name_mr": "",
+    "code": "537095",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537087",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Palaspani",
+    "name_mr": "",
+    "code": "537087",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "wadegaon-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "WADEGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537103",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Kinhi(Ekodi)",
+    "name_mr": "",
+    "code": "537103",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537091",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Amgaon Kh.",
+    "name_mr": "",
+    "code": "537091",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537097",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "537097",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537096",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Satalwada",
+    "name_mr": "",
+    "code": "537096",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537102",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Yekodi",
+    "name_mr": "",
+    "code": "537102",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537098",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Walmazari",
+    "name_mr": "",
+    "code": "537098",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537100",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "537100",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537099",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "537099",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537112",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "537112",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537111",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Tudmapuri",
+    "name_mr": "",
+    "code": "537111",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537101",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Parastola",
+    "name_mr": "",
+    "code": "537101",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537109",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Pindkepar",
+    "name_mr": "",
+    "code": "537109",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537110",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Alebedar",
+    "name_mr": "",
+    "code": "537110",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "mokhe-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "MOKHE RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "sarathi-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "SARATHI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537116",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sarati",
+    "name_mr": "",
+    "code": "537116",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537131",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "537131",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537133",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sundari",
+    "name_mr": "",
+    "code": "537133",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537132",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "537132",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537126",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "537126",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537123",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Gadkumbhali",
+    "name_mr": "",
+    "code": "537123",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537135",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "537135",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537130",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Lawari",
+    "name_mr": "",
+    "code": "537130",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537124",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Dharmapuri",
+    "name_mr": "",
+    "code": "537124",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537125",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Mohgata",
+    "name_mr": "",
+    "code": "537125",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537127",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "537127",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537134",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "537134",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537129",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Kumbhali",
+    "name_mr": "",
+    "code": "537129",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537141",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Wadad",
+    "name_mr": "",
+    "code": "537141",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "umarjhari-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "UMARJHARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537076",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Pangadi",
+    "name_mr": "",
+    "code": "537076",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537079",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Gidalpar",
+    "name_mr": "",
+    "code": "537079",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537073",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Bundalghat",
+    "name_mr": "",
+    "code": "537073",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537078",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Pitezari",
+    "name_mr": "",
+    "code": "537078",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537108",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "537108",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537075",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Umarzari",
+    "name_mr": "",
+    "code": "537075",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537074",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "537074",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537094",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Malutola",
+    "name_mr": "",
+    "code": "537094",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537084",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "537084",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537083",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Chandori",
+    "name_mr": "",
+    "code": "537083",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537093",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Khamba",
+    "name_mr": "",
+    "code": "537093",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "dudhara-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "DUDHARA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537085",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Usgaon",
+    "name_mr": "",
+    "code": "537085",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537082",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Ategaon",
+    "name_mr": "",
+    "code": "537082",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537105",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sonpuri",
+    "name_mr": "",
+    "code": "537105",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537114",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Mokhe",
+    "name_mr": "",
+    "code": "537114",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "patri-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "PATRI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537113",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sitepar",
+    "name_mr": "",
+    "code": "537113",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537104",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Gudhari",
+    "name_mr": "",
+    "code": "537104",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537119",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "537119",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537106",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Bodra",
+    "name_mr": "",
+    "code": "537106",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537118",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Jamanapur",
+    "name_mr": "",
+    "code": "537118",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537120",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Wirshi",
+    "name_mr": "",
+    "code": "537120",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537117",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Khairlanji",
+    "name_mr": "",
+    "code": "537117",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537121",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Ukara",
+    "name_mr": "",
+    "code": "537121",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537107",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Makardhokada",
+    "name_mr": "",
+    "code": "537107",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "chargaon-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "CHARGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537115",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Chichgaon",
+    "name_mr": "",
+    "code": "537115",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537077",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Jambhali S.",
+    "name_mr": "",
+    "code": "537077",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-276319",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sakoli (M Cl)",
+    "name_mr": "",
+    "code": "276319",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537137",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "537137",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537128",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Mohgata Rayyt.",
+    "name_mr": "",
+    "code": "537128",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537136",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sawarbandh",
+    "name_mr": "",
+    "code": "537136",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537140",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Bonde",
+    "name_mr": "",
+    "code": "537140",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537143",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "537143",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537142",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "537142",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537138",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Baradkinhi",
+    "name_mr": "",
+    "code": "537138",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537139",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "537139",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537145",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Gondumari",
+    "name_mr": "",
+    "code": "537145",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537146",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "537146",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537144",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Nilaj",
+    "name_mr": "",
+    "code": "537144",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "wagholi-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "WAGHOLI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537148",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "537148",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537152",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Zadgaon",
+    "name_mr": "",
+    "code": "537152",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537149",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Watetekar",
+    "name_mr": "",
+    "code": "537149",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537147",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sakara",
+    "name_mr": "",
+    "code": "537147",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537154",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Wangi",
+    "name_mr": "",
+    "code": "537154",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537151",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sivanibandh",
+    "name_mr": "",
+    "code": "537151",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537150",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Nyaharwani",
+    "name_mr": "",
+    "code": "537150",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537156",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Papala Bk.",
+    "name_mr": "",
+    "code": "537156",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537155",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Bolde",
+    "name_mr": "",
+    "code": "537155",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537161",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Katangdhara",
+    "name_mr": "",
+    "code": "537161",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537153",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Papala Kh.",
+    "name_mr": "",
+    "code": "537153",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537166",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sangadi",
+    "name_mr": "",
+    "code": "537166",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537160",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sangaon",
+    "name_mr": "",
+    "code": "537160",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537158",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Kesalwada",
+    "name_mr": "",
+    "code": "537158",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537162",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Sasara",
+    "name_mr": "",
+    "code": "537162",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537157",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Salai Bk.",
+    "name_mr": "",
+    "code": "537157",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537159",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Salai(kh)",
+    "name_mr": "",
+    "code": "537159",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537163",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "537163",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "gumgaon-pipalgaon-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "GUMGAON PIPALGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537164",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Salebardi",
+    "name_mr": "",
+    "code": "537164",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537165",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Yetgaon",
+    "name_mr": "",
+    "code": "537165",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-75",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  },
+  {
+    "village_id": "v-537167",
+    "district_id": "bhandara",
+    "taluka_id": "sakoli",
+    "name_en": "Siregaontola",
+    "name_mr": "",
+    "code": "537167",
+    "boundary_file": "/data/boundaries/villages/bhandara/sakoli.geojson"
+  }
+]

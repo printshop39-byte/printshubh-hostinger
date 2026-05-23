@@ -1,0 +1,1181 @@
+[
+  {
+    "village_id": "v-546709",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Zari",
+    "name_mr": "",
+    "code": "546709",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546713",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Jodparli",
+    "name_mr": "",
+    "code": "546713",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546712",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pingli kothala",
+    "name_mr": "",
+    "code": "546712",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546714",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Takli Bobade",
+    "name_mr": "",
+    "code": "546714",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546710",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "546710",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546711",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sadegaon",
+    "name_mr": "",
+    "code": "546711",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546708",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Mandwa",
+    "name_mr": "",
+    "code": "546708",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546685",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Kashtagaon",
+    "name_mr": "",
+    "code": "546685",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546686",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "546686",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546687",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "546687",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546688",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "546688",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546719",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Khanapur Tarf Zari",
+    "name_mr": "",
+    "code": "546719",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546715",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sawangi kh.",
+    "name_mr": "",
+    "code": "546715",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546684",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Wadgaon tarf takli",
+    "name_mr": "",
+    "code": "546684",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546717",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pimpla",
+    "name_mr": "",
+    "code": "546717",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546721",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Nandapur",
+    "name_mr": "",
+    "code": "546721",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546720",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Gokulwadi",
+    "name_mr": "",
+    "code": "546720",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546691",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pimpalgaon sayyadmia",
+    "name_mr": "",
+    "code": "546691",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546718",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Jalalpur",
+    "name_mr": "",
+    "code": "546718",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546716",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Wadi damai",
+    "name_mr": "",
+    "code": "546716",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546694",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "546694",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546690",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "546690",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546689",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sarangapur",
+    "name_mr": "",
+    "code": "546689",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546800",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sirsi kh.",
+    "name_mr": "",
+    "code": "546800",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546803",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dampuri",
+    "name_mr": "",
+    "code": "546803",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546801",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sirsi bk.",
+    "name_mr": "",
+    "code": "546801",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546797",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Ambe takli",
+    "name_mr": "",
+    "code": "546797",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546806",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Indewadi",
+    "name_mr": "",
+    "code": "546806",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546807",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Bramhapuri tarf pathri",
+    "name_mr": "",
+    "code": "546807",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546804",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Porwad",
+    "name_mr": "",
+    "code": "546804",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546802",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Thola",
+    "name_mr": "",
+    "code": "546802",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546809",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Daithana",
+    "name_mr": "",
+    "code": "546809",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546811",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Malsonna",
+    "name_mr": "",
+    "code": "546811",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546810",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dhondi",
+    "name_mr": "",
+    "code": "546810",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546808",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Salapuri",
+    "name_mr": "",
+    "code": "546808",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546812",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dhasadi",
+    "name_mr": "",
+    "code": "546812",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546723",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sanpuri",
+    "name_mr": "",
+    "code": "546723",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546756",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Takli kumbhakarna",
+    "name_mr": "",
+    "code": "546756",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546692",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Ekrukha Tarf Pedgaon",
+    "name_mr": "",
+    "code": "546692",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546732",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sambar",
+    "name_mr": "",
+    "code": "546732",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546693",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Ismailpur tarf parbhani",
+    "name_mr": "",
+    "code": "546693",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546725",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Mangangaon",
+    "name_mr": "",
+    "code": "546725",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546731",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Matakarala",
+    "name_mr": "",
+    "code": "546731",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546722",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "546722",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546724",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Hingla",
+    "name_mr": "",
+    "code": "546724",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546726",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dharangaon",
+    "name_mr": "",
+    "code": "546726",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546699",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Kinhola",
+    "name_mr": "",
+    "code": "546699",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546727",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Karadgaon",
+    "name_mr": "",
+    "code": "546727",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546696",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Narsapur tarf pedgaon",
+    "name_mr": "",
+    "code": "546696",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546733",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sukapurwadi",
+    "name_mr": "",
+    "code": "546733",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546698",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Bramhapuri tarf pedgaon",
+    "name_mr": "",
+    "code": "546698",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546734",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pimpalgaon tong",
+    "name_mr": "",
+    "code": "546734",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546695",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "546695",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546730",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Satla",
+    "name_mr": "",
+    "code": "546730",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546735",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Durdi",
+    "name_mr": "",
+    "code": "546735",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546729",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Samsapur",
+    "name_mr": "",
+    "code": "546729",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546736",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Murumba",
+    "name_mr": "",
+    "code": "546736",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546728",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dhar",
+    "name_mr": "",
+    "code": "546728",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546704",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Panhera",
+    "name_mr": "",
+    "code": "546704",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546737",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Deothana",
+    "name_mr": "",
+    "code": "546737",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546697",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pedgaon",
+    "name_mr": "",
+    "code": "546697",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546757",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Nandkheda",
+    "name_mr": "",
+    "code": "546757",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546700",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Bhogaon",
+    "name_mr": "",
+    "code": "546700",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-251416",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Parbhani (M Corp)",
+    "name_mr": "",
+    "code": "251416",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546707",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Tuljapur",
+    "name_mr": "",
+    "code": "546707",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546761",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dharmapuri",
+    "name_mr": "",
+    "code": "546761",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546706",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Hasnapur",
+    "name_mr": "",
+    "code": "546706",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546705",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Gavha",
+    "name_mr": "",
+    "code": "546705",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546738",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Saba",
+    "name_mr": "",
+    "code": "546738",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546758",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Wangi",
+    "name_mr": "",
+    "code": "546758",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546739",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Nandgaon bk.",
+    "name_mr": "",
+    "code": "546739",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546762",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Parawa",
+    "name_mr": "",
+    "code": "546762",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546741",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Nandgaon Kh",
+    "name_mr": "",
+    "code": "546741",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546703",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Mohapuri",
+    "name_mr": "",
+    "code": "546703",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546763",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Jamb",
+    "name_mr": "",
+    "code": "546763",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546759",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Asola",
+    "name_mr": "",
+    "code": "546759",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546764",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Kaudgaon tarf singanapur",
+    "name_mr": "",
+    "code": "546764",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546740",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Alapur pandhari",
+    "name_mr": "",
+    "code": "546740",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546702",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Aland",
+    "name_mr": "",
+    "code": "546702",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546742",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Rahati",
+    "name_mr": "",
+    "code": "546742",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546760",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "546760",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546743",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "546743",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546744",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Ukhalad",
+    "name_mr": "",
+    "code": "546744",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546701",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Mandakhali",
+    "name_mr": "",
+    "code": "546701",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546765",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Bramhangaon",
+    "name_mr": "",
+    "code": "546765",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546771",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sonna",
+    "name_mr": "",
+    "code": "546771",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546749",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pingali",
+    "name_mr": "",
+    "code": "546749",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546767",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "546767",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546746",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Babhali",
+    "name_mr": "",
+    "code": "546746",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546745",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pimpari deshmukh",
+    "name_mr": "",
+    "code": "546745",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546750",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sendra",
+    "name_mr": "",
+    "code": "546750",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546766",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Bramhapuri tarf lohgaon",
+    "name_mr": "",
+    "code": "546766",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546768",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Balsa kh.",
+    "name_mr": "",
+    "code": "546768",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546770",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "546770",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546774",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "546774",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546747",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Tattu jawala",
+    "name_mr": "",
+    "code": "546747",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546773",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Narsapur tarf parbhani",
+    "name_mr": "",
+    "code": "546773",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546772",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Ujalamba",
+    "name_mr": "",
+    "code": "546772",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546777",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sayala",
+    "name_mr": "",
+    "code": "546777",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546775",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "546775",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546769",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Dafwadi",
+    "name_mr": "",
+    "code": "546769",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546786",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "546786",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546784",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Borwand kh.",
+    "name_mr": "",
+    "code": "546784",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546776",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Ithalapur Deshmukh",
+    "name_mr": "",
+    "code": "546776",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546748",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Mirkhel",
+    "name_mr": "",
+    "code": "546748",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546751",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Tadlimbla",
+    "name_mr": "",
+    "code": "546751",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546778",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Takalgavhan",
+    "name_mr": "",
+    "code": "546778",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546783",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Singnapur",
+    "name_mr": "",
+    "code": "546783",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546779",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Paralgavhan",
+    "name_mr": "",
+    "code": "546779",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546785",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pimpalgaon Thombare",
+    "name_mr": "",
+    "code": "546785",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546790",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Borwand bk.",
+    "name_mr": "",
+    "code": "546790",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546781",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Lohagaon",
+    "name_mr": "",
+    "code": "546781",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546782",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Amadapur",
+    "name_mr": "",
+    "code": "546782",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546789",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Surpimpari",
+    "name_mr": "",
+    "code": "546789",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546780",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Zadgaon",
+    "name_mr": "",
+    "code": "546780",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546787",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "546787",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546754",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pandhari",
+    "name_mr": "",
+    "code": "546754",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546753",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Purjawala",
+    "name_mr": "",
+    "code": "546753",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546794",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Wadgaon tarf bharaswad",
+    "name_mr": "",
+    "code": "546794",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546752",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Varpud",
+    "name_mr": "",
+    "code": "546752",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546755",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pathra",
+    "name_mr": "",
+    "code": "546755",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546788",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Tamaswadi",
+    "name_mr": "",
+    "code": "546788",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546798",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Sahajpur",
+    "name_mr": "",
+    "code": "546798",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546793",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Bharaswad",
+    "name_mr": "",
+    "code": "546793",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546799",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Jawala",
+    "name_mr": "",
+    "code": "546799",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546791",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Tadpangari",
+    "name_mr": "",
+    "code": "546791",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546796",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pokharni",
+    "name_mr": "",
+    "code": "546796",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546792",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Pegargavhan",
+    "name_mr": "",
+    "code": "546792",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546813",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Angalgaon",
+    "name_mr": "",
+    "code": "546813",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546795",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Kuotamwadi",
+    "name_mr": "",
+    "code": "546795",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  },
+  {
+    "village_id": "v-546805",
+    "district_id": "parbhani",
+    "taluka_id": "parbhani",
+    "name_en": "Kailaswadi",
+    "name_mr": "",
+    "code": "546805",
+    "boundary_file": "/data/boundaries/villages/parbhani/parbhani.geojson"
+  }
+]

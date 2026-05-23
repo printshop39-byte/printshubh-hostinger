@@ -1,0 +1,902 @@
+[
+  {
+    "village_id": "v-560940",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kumdhal (her)",
+    "name_mr": "",
+    "code": "560940",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560939",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dhotarwadi",
+    "name_mr": "",
+    "code": "560939",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560941",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Arasnal",
+    "name_mr": "",
+    "code": "560941",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560956",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Mortalwadi",
+    "name_mr": "",
+    "code": "560956",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560959",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Wanjarwadi",
+    "name_mr": "",
+    "code": "560959",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560955",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Chimachiwadi",
+    "name_mr": "",
+    "code": "560955",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560960",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Handarguli",
+    "name_mr": "",
+    "code": "560960",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560957",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Halli",
+    "name_mr": "",
+    "code": "560957",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560958",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Rudrawadi",
+    "name_mr": "",
+    "code": "560958",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560961",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Adolwadi",
+    "name_mr": "",
+    "code": "560961",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560962",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Wadhawana Kh",
+    "name_mr": "",
+    "code": "560962",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560965",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Wadhawana Bk",
+    "name_mr": "",
+    "code": "560965",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560964",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dangewadi",
+    "name_mr": "",
+    "code": "560964",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560973",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Gudsur",
+    "name_mr": "",
+    "code": "560973",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560963",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Sukani",
+    "name_mr": "",
+    "code": "560963",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560969",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Hipparga (D)",
+    "name_mr": "",
+    "code": "560969",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560968",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Daul (H)",
+    "name_mr": "",
+    "code": "560968",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560942",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kiniyalladevi",
+    "name_mr": "",
+    "code": "560942",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560943",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Umarga Manna",
+    "name_mr": "",
+    "code": "560943",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560977",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Deulwadi",
+    "name_mr": "",
+    "code": "560977",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560967",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kherda Kh",
+    "name_mr": "",
+    "code": "560967",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560974",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Mortalwadi (N)",
+    "name_mr": "",
+    "code": "560974",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560966",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Ekurka Road",
+    "name_mr": "",
+    "code": "560966",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560975",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Nalgir",
+    "name_mr": "",
+    "code": "560975",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560945",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Honihipparga",
+    "name_mr": "",
+    "code": "560945",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560976",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Mutalgaon",
+    "name_mr": "",
+    "code": "560976",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560970",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kallur",
+    "name_mr": "",
+    "code": "560970",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560978",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Chondi",
+    "name_mr": "",
+    "code": "560978",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560971",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dongarshelki",
+    "name_mr": "",
+    "code": "560971",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560944",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Anapwadi",
+    "name_mr": "",
+    "code": "560944",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560972",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Nawandi",
+    "name_mr": "",
+    "code": "560972",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560948",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Ismalpur",
+    "name_mr": "",
+    "code": "560948",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560979",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kodali",
+    "name_mr": "",
+    "code": "560979",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560947",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Hangarga Kudar",
+    "name_mr": "",
+    "code": "560947",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560949",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Tondar",
+    "name_mr": "",
+    "code": "560949",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560946",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kshetrafal",
+    "name_mr": "",
+    "code": "560946",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560980",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Manjari",
+    "name_mr": "",
+    "code": "560980",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560982",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kasral",
+    "name_mr": "",
+    "code": "560982",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561008",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Avalkonda",
+    "name_mr": "",
+    "code": "561008",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560983",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Takali (udgir)",
+    "name_mr": "",
+    "code": "560983",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561006",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Haknakwadi",
+    "name_mr": "",
+    "code": "561006",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560981",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Sumthana",
+    "name_mr": "",
+    "code": "560981",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561013",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Somnathpur",
+    "name_mr": "",
+    "code": "561013",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561007",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "561007",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561010",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Nagalgaon",
+    "name_mr": "",
+    "code": "561010",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560950",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kumtha Kh",
+    "name_mr": "",
+    "code": "560950",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560986",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Wagdari",
+    "name_mr": "",
+    "code": "560986",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561014",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "561014",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561017",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Maroti Tanda",
+    "name_mr": "",
+    "code": "561017",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560987",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Limbgaon",
+    "name_mr": "",
+    "code": "560987",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560991",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "560991",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561009",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kashiram / Somlatanda",
+    "name_mr": "",
+    "code": "561009",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561011",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Bortal Tanda",
+    "name_mr": "",
+    "code": "561011",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560990",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Chandegaon",
+    "name_mr": "",
+    "code": "560990",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560997",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "560997",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561015",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "561015",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560998",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Haibatpur",
+    "name_mr": "",
+    "code": "560998",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560988",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kumdal",
+    "name_mr": "",
+    "code": "560988",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560953",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Karadkhed",
+    "name_mr": "",
+    "code": "560953",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560989",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Mallapur",
+    "name_mr": "",
+    "code": "560989",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561025",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Gurdhal (udgir)",
+    "name_mr": "",
+    "code": "561025",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561016",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Tiwatgyal",
+    "name_mr": "",
+    "code": "561016",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561037",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Nideban (CT)",
+    "name_mr": "",
+    "code": "561037",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561026",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Shirol",
+    "name_mr": "",
+    "code": "561026",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560954",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Waigaon",
+    "name_mr": "",
+    "code": "560954",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561027",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Janapur",
+    "name_mr": "",
+    "code": "561027",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561021",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Banshelki",
+    "name_mr": "",
+    "code": "561021",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560999",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Shekapur",
+    "name_mr": "",
+    "code": "560999",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560992",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Satala Bk",
+    "name_mr": "",
+    "code": "560992",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561018",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Kaulkhed",
+    "name_mr": "",
+    "code": "561018",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561020",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Madlapur",
+    "name_mr": "",
+    "code": "561020",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560996",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Bhakaskheda",
+    "name_mr": "",
+    "code": "560996",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561024",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Shelhal",
+    "name_mr": "",
+    "code": "561024",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561002",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Chighali",
+    "name_mr": "",
+    "code": "561002",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561019",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "561019",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561001",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Karkheli",
+    "name_mr": "",
+    "code": "561001",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561028",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Tondchir",
+    "name_mr": "",
+    "code": "561028",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560995",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "560995",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560994",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Mahadevwadi",
+    "name_mr": "",
+    "code": "560994",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561022",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Netragaon",
+    "name_mr": "",
+    "code": "561022",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561034",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dhondi Hipparga",
+    "name_mr": "",
+    "code": "561034",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561000",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dawangaon",
+    "name_mr": "",
+    "code": "561000",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561023",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Jaknal",
+    "name_mr": "",
+    "code": "561023",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561035",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Tadlapur",
+    "name_mr": "",
+    "code": "561035",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560993",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Shambhu Umarga",
+    "name_mr": "",
+    "code": "560993",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561003",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dewarjan",
+    "name_mr": "",
+    "code": "561003",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561030",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Bamni",
+    "name_mr": "",
+    "code": "561030",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561029",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Mogha",
+    "name_mr": "",
+    "code": "561029",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561031",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Yenki",
+    "name_mr": "",
+    "code": "561031",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561004",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Hanmantwadi",
+    "name_mr": "",
+    "code": "561004",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561033",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Belshakarga",
+    "name_mr": "",
+    "code": "561033",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561005",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Karwandi",
+    "name_mr": "",
+    "code": "561005",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561036",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Rawangaon",
+    "name_mr": "",
+    "code": "561036",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561032",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Togari",
+    "name_mr": "",
+    "code": "561032",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560951",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Her",
+    "name_mr": "",
+    "code": "560951",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560952",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Boyachiwadi",
+    "name_mr": "",
+    "code": "560952",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560984",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Dhadaknal",
+    "name_mr": "",
+    "code": "560984",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-560985",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Borgaon Bk",
+    "name_mr": "",
+    "code": "560985",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-561012",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Udgir",
+    "name_mr": "",
+    "code": "561012",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  },
+  {
+    "village_id": "v-251565",
+    "district_id": "latur",
+    "taluka_id": "udgir",
+    "name_en": "Udgir (M CI)",
+    "name_mr": "",
+    "code": "251565",
+    "boundary_file": "/data/boundaries/villages/latur/udgir.geojson"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-526773",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Shiragad",
+    "name_mr": "",
+    "code": "526773",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526805",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Sangvi Kh",
+    "name_mr": "",
+    "code": "526805",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526807",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Chikhali Bk",
+    "name_mr": "",
+    "code": "526807",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526806",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Chikhali Kh",
+    "name_mr": "",
+    "code": "526806",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526841",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Virode",
+    "name_mr": "",
+    "code": "526841",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526792",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Pilode Kh",
+    "name_mr": "",
+    "code": "526792",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526808",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Mhaiswadi",
+    "name_mr": "",
+    "code": "526808",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526774",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Pathrale",
+    "name_mr": "",
+    "code": "526774",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526842",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Vadhode Pr Sawada",
+    "name_mr": "",
+    "code": "526842",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526803",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Borawal Kh",
+    "name_mr": "",
+    "code": "526803",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526804",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Tembhi Kh",
+    "name_mr": "",
+    "code": "526804",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526802",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Bhalshiv",
+    "name_mr": "",
+    "code": "526802",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526801",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "526801",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526815",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Pilode Bk",
+    "name_mr": "",
+    "code": "526815",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526833",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Hingone",
+    "name_mr": "",
+    "code": "526833",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526764",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "526764",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526835",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Borkhede Bk",
+    "name_mr": "",
+    "code": "526835",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526779",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "526779",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526767",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "526767",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526784",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Chunchale",
+    "name_mr": "",
+    "code": "526784",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526836",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Nhavi Pr Yaval",
+    "name_mr": "",
+    "code": "526836",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526780",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Korpawli",
+    "name_mr": "",
+    "code": "526780",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526834",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Marul",
+    "name_mr": "",
+    "code": "526834",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526766",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kingaon Kh",
+    "name_mr": "",
+    "code": "526766",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526795",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Parsade Bk",
+    "name_mr": "",
+    "code": "526795",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526796",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kolwad",
+    "name_mr": "",
+    "code": "526796",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526783",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Borale",
+    "name_mr": "",
+    "code": "526783",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526820",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Sangvi Bk",
+    "name_mr": "",
+    "code": "526820",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526765",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kingaon Bk",
+    "name_mr": "",
+    "code": "526765",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526769",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "526769",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526781",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Mahelkhedi",
+    "name_mr": "",
+    "code": "526781",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526770",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Giradgaon",
+    "name_mr": "",
+    "code": "526770",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526800",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Yawal (Rural)",
+    "name_mr": "",
+    "code": "526800",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526768",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Unthawad",
+    "name_mr": "",
+    "code": "526768",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526786",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Sakali",
+    "name_mr": "",
+    "code": "526786",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526788",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Viravali Bk",
+    "name_mr": "",
+    "code": "526788",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526797",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Satod Pr Yawal",
+    "name_mr": "",
+    "code": "526797",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526798",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Chitode",
+    "name_mr": "",
+    "code": "526798",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526782",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Navare",
+    "name_mr": "",
+    "code": "526782",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526771",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Dambhurni",
+    "name_mr": "",
+    "code": "526771",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526787",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Vadhode Pr Yawal",
+    "name_mr": "",
+    "code": "526787",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526837",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Hambardi",
+    "name_mr": "",
+    "code": "526837",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526785",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Waghode",
+    "name_mr": "",
+    "code": "526785",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-251285",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Faizpur (M Cl)",
+    "name_mr": "",
+    "code": "251285",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526821",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Bhalod",
+    "name_mr": "",
+    "code": "526821",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526838",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Amode",
+    "name_mr": "",
+    "code": "526838",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526812",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Takarkhede",
+    "name_mr": "",
+    "code": "526812",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526811",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Borawal Bk",
+    "name_mr": "",
+    "code": "526811",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526813",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Waghlud",
+    "name_mr": "",
+    "code": "526813",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526827",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kosgaon",
+    "name_mr": "",
+    "code": "526827",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526826",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Ridhori",
+    "name_mr": "",
+    "code": "526826",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526828",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Bhortek",
+    "name_mr": "",
+    "code": "526828",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526831",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kasve",
+    "name_mr": "",
+    "code": "526831",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526832",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Duskhede",
+    "name_mr": "",
+    "code": "526832",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526829",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Aklud",
+    "name_mr": "",
+    "code": "526829",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526830",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kathore Pr Savada",
+    "name_mr": "",
+    "code": "526830",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526754",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Gadrya",
+    "name_mr": "",
+    "code": "526754",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526755",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Jamnya",
+    "name_mr": "",
+    "code": "526755",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526753",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Usmali",
+    "name_mr": "",
+    "code": "526753",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526756",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Vaghazira",
+    "name_mr": "",
+    "code": "526756",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526763",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Malod",
+    "name_mr": "",
+    "code": "526763",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526778",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Savkhedesim",
+    "name_mr": "",
+    "code": "526778",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526757",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Manapur",
+    "name_mr": "",
+    "code": "526757",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526758",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Khalkot",
+    "name_mr": "",
+    "code": "526758",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526794",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Vadri Kh",
+    "name_mr": "",
+    "code": "526794",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526776",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Haripura",
+    "name_mr": "",
+    "code": "526776",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526759",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Tolane",
+    "name_mr": "",
+    "code": "526759",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526777",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Mohrale",
+    "name_mr": "",
+    "code": "526777",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526818",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Dangarkuthora",
+    "name_mr": "",
+    "code": "526818",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526761",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "526761",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526819",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Borkhede Kh",
+    "name_mr": "",
+    "code": "526819",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526760",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Ichkheda",
+    "name_mr": "",
+    "code": "526760",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526762",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Kasarkhede",
+    "name_mr": "",
+    "code": "526762",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526799",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Atrawal",
+    "name_mr": "",
+    "code": "526799",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526822",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Bhamnod",
+    "name_mr": "",
+    "code": "526822",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526789",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Shirsad",
+    "name_mr": "",
+    "code": "526789",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526790",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Dagadi",
+    "name_mr": "",
+    "code": "526790",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526772",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Nhavi Pr Adawad",
+    "name_mr": "",
+    "code": "526772",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526791",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Manwel",
+    "name_mr": "",
+    "code": "526791",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526840",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Pimprud",
+    "name_mr": "",
+    "code": "526840",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526793",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Thorgavhan",
+    "name_mr": "",
+    "code": "526793",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526823",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Padalse",
+    "name_mr": "",
+    "code": "526823",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526809",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Rojore",
+    "name_mr": "",
+    "code": "526809",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526814",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Anjale",
+    "name_mr": "",
+    "code": "526814",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526810",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "526810",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526824",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Vanoli",
+    "name_mr": "",
+    "code": "526824",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526825",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Karanji",
+    "name_mr": "",
+    "code": "526825",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526775",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Ambapani",
+    "name_mr": "",
+    "code": "526775",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-526839",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Faizpur (Rural)",
+    "name_mr": "",
+    "code": "526839",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  },
+  {
+    "village_id": "v-251284",
+    "district_id": "jalgaon",
+    "taluka_id": "yawal",
+    "name_en": "Yawal (M Cl)",
+    "name_mr": "",
+    "code": "251284",
+    "boundary_file": "/data/boundaries/villages/jalgaon/yawal.geojson"
+  }
+]

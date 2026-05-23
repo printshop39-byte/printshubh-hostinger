@@ -1,0 +1,830 @@
+[
+  {
+    "village_id": "v-547721",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Laxmannagar",
+    "name_mr": "",
+    "code": "547721",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547719",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kandari Kh.",
+    "name_mr": "",
+    "code": "547719",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547722",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kandari Bk.",
+    "name_mr": "",
+    "code": "547722",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547705",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Ujjainpuri",
+    "name_mr": "",
+    "code": "547705",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547720",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Laxman Tanda",
+    "name_mr": "",
+    "code": "547720",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547694",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Anwi",
+    "name_mr": "",
+    "code": "547694",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547718",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Sagarwadi",
+    "name_mr": "",
+    "code": "547718",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547697",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Pathar Deolgaon",
+    "name_mr": "",
+    "code": "547697",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547681",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Waghrul Dongargaon",
+    "name_mr": "",
+    "code": "547681",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547698",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Bawane Pangri",
+    "name_mr": "",
+    "code": "547698",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547696",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "547696",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547693",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Wanjarwadi",
+    "name_mr": "",
+    "code": "547693",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547760",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Ghotan",
+    "name_mr": "",
+    "code": "547760",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547759",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Ranjangaon",
+    "name_mr": "",
+    "code": "547759",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547756",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Butegaon",
+    "name_mr": "",
+    "code": "547756",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547755",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "547755",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547753",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "547753",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547745",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Wakulni",
+    "name_mr": "",
+    "code": "547745",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547758",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kajla",
+    "name_mr": "",
+    "code": "547758",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547752",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Nanegaon",
+    "name_mr": "",
+    "code": "547752",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547757",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Pankheda",
+    "name_mr": "",
+    "code": "547757",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547754",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "547754",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547746",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Bajar Wahegaon",
+    "name_mr": "",
+    "code": "547746",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547751",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Manjargaon",
+    "name_mr": "",
+    "code": "547751",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547744",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Malegaon Kh.",
+    "name_mr": "",
+    "code": "547744",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547748",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dhoksal",
+    "name_mr": "",
+    "code": "547748",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547750",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Deopimpalgaon",
+    "name_mr": "",
+    "code": "547750",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547747",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Roshangaon",
+    "name_mr": "",
+    "code": "547747",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547743",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kusali",
+    "name_mr": "",
+    "code": "547743",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547749",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Bhilpuri Kh.",
+    "name_mr": "",
+    "code": "547749",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547742",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kasturwadi",
+    "name_mr": "",
+    "code": "547742",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547741",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Ambadgaon",
+    "name_mr": "",
+    "code": "547741",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547717",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Pirsavangi",
+    "name_mr": "",
+    "code": "547717",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547716",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Haldola",
+    "name_mr": "",
+    "code": "547716",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547715",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Jawasgaon",
+    "name_mr": "",
+    "code": "547715",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547740",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dhopteshwar",
+    "name_mr": "",
+    "code": "547740",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547738",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "547738",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547735",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kadegaon",
+    "name_mr": "",
+    "code": "547735",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547739",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Deogaon",
+    "name_mr": "",
+    "code": "547739",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547712",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Matarewadi",
+    "name_mr": "",
+    "code": "547712",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547734",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Warudi",
+    "name_mr": "",
+    "code": "547734",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547713",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "547713",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-276369",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Badnapur (NP)",
+    "name_mr": "",
+    "code": "276369",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547737",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Ramkheda",
+    "name_mr": "",
+    "code": "547737",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547714",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dawalwadi",
+    "name_mr": "",
+    "code": "547714",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547711",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "547711",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547733",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Georai",
+    "name_mr": "",
+    "code": "547733",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547730",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "547730",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547731",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Gokulwadi",
+    "name_mr": "",
+    "code": "547731",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547710",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Khadgaon",
+    "name_mr": "",
+    "code": "547710",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547732",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dudhanwadi",
+    "name_mr": "",
+    "code": "547732",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547729",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Nikalak",
+    "name_mr": "",
+    "code": "547729",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547706",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Bharadkheda",
+    "name_mr": "",
+    "code": "547706",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547707",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Keligavhan",
+    "name_mr": "",
+    "code": "547707",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547709",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Mandwa",
+    "name_mr": "",
+    "code": "547709",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547708",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Najik Pangri",
+    "name_mr": "",
+    "code": "547708",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547728",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Walha",
+    "name_mr": "",
+    "code": "547728",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547702",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Sindhi Pimpalgaon",
+    "name_mr": "",
+    "code": "547702",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547727",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "547727",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547703",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Chitoda",
+    "name_mr": "",
+    "code": "547703",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547704",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Rala",
+    "name_mr": "",
+    "code": "547704",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547726",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Khadakwadi",
+    "name_mr": "",
+    "code": "547726",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547700",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Mandeolgaon",
+    "name_mr": "",
+    "code": "547700",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547724",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dhasla",
+    "name_mr": "",
+    "code": "547724",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547699",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dagadwadi",
+    "name_mr": "",
+    "code": "547699",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547701",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Asola",
+    "name_mr": "",
+    "code": "547701",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547725",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "547725",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547723",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Pirwadi",
+    "name_mr": "",
+    "code": "547723",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547690",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Shirasgaon Ghati",
+    "name_mr": "",
+    "code": "547690",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547680",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Waghrul Dabhadi",
+    "name_mr": "",
+    "code": "547680",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547691",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dawargaon",
+    "name_mr": "",
+    "code": "547691",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547679",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Asarkheda",
+    "name_mr": "",
+    "code": "547679",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547688",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Bhakarwadi",
+    "name_mr": "",
+    "code": "547688",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547687",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "547687",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547692",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Kinhola",
+    "name_mr": "",
+    "code": "547692",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547678",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Tupewadi",
+    "name_mr": "",
+    "code": "547678",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547684",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Bhatkheda",
+    "name_mr": "",
+    "code": "547684",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547685",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "547685",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547686",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "547686",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547676",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "547676",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547683",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Mevhana",
+    "name_mr": "",
+    "code": "547683",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547672",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Mhasla",
+    "name_mr": "",
+    "code": "547672",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547677",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Chanegaon",
+    "name_mr": "",
+    "code": "547677",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547670",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Nandkheda",
+    "name_mr": "",
+    "code": "547670",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547682",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dabhadi",
+    "name_mr": "",
+    "code": "547682",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547675",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Dangargaon Dabhadi",
+    "name_mr": "",
+    "code": "547675",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547674",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Hivra Dabhadi",
+    "name_mr": "",
+    "code": "547674",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547671",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Talni Lodhewadi",
+    "name_mr": "",
+    "code": "547671",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547689",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Londhewadi",
+    "name_mr": "",
+    "code": "547689",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547673",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Vilhadi",
+    "name_mr": "",
+    "code": "547673",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-547695",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "547695",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  },
+  {
+    "village_id": "v-943420",
+    "district_id": "jalna",
+    "taluka_id": "badnapur",
+    "name_en": "Hanuman Nagar",
+    "name_mr": "",
+    "code": "943420",
+    "boundary_file": "/data/boundaries/villages/jalna/badnapur.geojson"
+  }
+]

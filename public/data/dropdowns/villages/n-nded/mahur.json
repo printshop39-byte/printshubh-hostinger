@@ -1,0 +1,839 @@
+[
+  {
+    "village_id": "v-544160",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Sayphal",
+    "name_mr": "",
+    "code": "544160",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544112",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Gokulnagar",
+    "name_mr": "",
+    "code": "544112",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544161",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Koli",
+    "name_mr": "",
+    "code": "544161",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544110",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Padsa",
+    "name_mr": "",
+    "code": "544110",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544111",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Wadsa",
+    "name_mr": "",
+    "code": "544111",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544109",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "544109",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544121",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Murli",
+    "name_mr": "",
+    "code": "544121",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544108",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Nimbayat",
+    "name_mr": "",
+    "code": "544108",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544162",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Madnapur",
+    "name_mr": "",
+    "code": "544162",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544167",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Satiguda",
+    "name_mr": "",
+    "code": "544167",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544165",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Vasram Tanda",
+    "name_mr": "",
+    "code": "544165",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544163",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Bondgavhan",
+    "name_mr": "",
+    "code": "544163",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544107",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Ner",
+    "name_mr": "",
+    "code": "544107",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544166",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Gondkhedi",
+    "name_mr": "",
+    "code": "544166",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544114",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Karalgaon",
+    "name_mr": "",
+    "code": "544114",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544169",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Shindkhed",
+    "name_mr": "",
+    "code": "544169",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544171",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Sawarkhed",
+    "name_mr": "",
+    "code": "544171",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544106",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Lanji",
+    "name_mr": "",
+    "code": "544106",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544168",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Rupanaik Tanda",
+    "name_mr": "",
+    "code": "544168",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544125",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Nakhegaon",
+    "name_mr": "",
+    "code": "544125",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544123",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Malwada",
+    "name_mr": "",
+    "code": "544123",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544105",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Kasbag",
+    "name_mr": "",
+    "code": "544105",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544117",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Banjara Tanda",
+    "name_mr": "",
+    "code": "544117",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544170",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Lokarwadi",
+    "name_mr": "",
+    "code": "544170",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544104",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Shekapur",
+    "name_mr": "",
+    "code": "544104",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544128",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Papalwadi",
+    "name_mr": "",
+    "code": "544128",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544127",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Umra",
+    "name_mr": "",
+    "code": "544127",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544126",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Hiwalani",
+    "name_mr": "",
+    "code": "544126",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544183",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Nayakwadi",
+    "name_mr": "",
+    "code": "544183",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544124",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Lakhamapur Tanda",
+    "name_mr": "",
+    "code": "544124",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544103",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Keroli",
+    "name_mr": "",
+    "code": "544103",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-258024",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Mahoor (NP)",
+    "name_mr": "",
+    "code": "258024",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544185",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Waiphani",
+    "name_mr": "",
+    "code": "544185",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544182",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Anjankhed",
+    "name_mr": "",
+    "code": "544182",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544178",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Met",
+    "name_mr": "",
+    "code": "544178",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544102",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Rui",
+    "name_mr": "",
+    "code": "544102",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544187",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Karanji (Sindkhed)",
+    "name_mr": "",
+    "code": "544187",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544184",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Selu",
+    "name_mr": "",
+    "code": "544184",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544188",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Gondwadsa",
+    "name_mr": "",
+    "code": "544188",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544131",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Gundwal",
+    "name_mr": "",
+    "code": "544131",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544176",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Malkaguda Tanda",
+    "name_mr": "",
+    "code": "544176",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544186",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Bhagwati",
+    "name_mr": "",
+    "code": "544186",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544190",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Malkaguda",
+    "name_mr": "",
+    "code": "544190",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544130",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Dattamanjari",
+    "name_mr": "",
+    "code": "544130",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544189",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Rupala Naik Tanda",
+    "name_mr": "",
+    "code": "544189",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544145",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Salambi",
+    "name_mr": "",
+    "code": "544145",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544143",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "She.Ph Wazra",
+    "name_mr": "",
+    "code": "544143",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544181",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Lasanwadi",
+    "name_mr": "",
+    "code": "544181",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544144",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Kasarpeth",
+    "name_mr": "",
+    "code": "544144",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544180",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Tulshi",
+    "name_mr": "",
+    "code": "544180",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544101",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Hadsani",
+    "name_mr": "",
+    "code": "544101",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544132",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Anamal",
+    "name_mr": "",
+    "code": "544132",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544146",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Mandva (Mahur)",
+    "name_mr": "",
+    "code": "544146",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544133",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Tandala",
+    "name_mr": "",
+    "code": "544133",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544191",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Bhorad",
+    "name_mr": "",
+    "code": "544191",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544141",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Panola",
+    "name_mr": "",
+    "code": "544141",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544142",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Anjani",
+    "name_mr": "",
+    "code": "544142",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544193",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Junapani",
+    "name_mr": "",
+    "code": "544193",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544192",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Chorad",
+    "name_mr": "",
+    "code": "544192",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544148",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Borwadi",
+    "name_mr": "",
+    "code": "544148",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544135",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Digdi (Ku)",
+    "name_mr": "",
+    "code": "544135",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544134",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Mamtapur(D)",
+    "name_mr": "",
+    "code": "544134",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544150",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Pavnala",
+    "name_mr": "",
+    "code": "544150",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544147",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Wanola",
+    "name_mr": "",
+    "code": "544147",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544137",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Iwleshwar",
+    "name_mr": "",
+    "code": "544137",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544136",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Hingani",
+    "name_mr": "",
+    "code": "544136",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544157",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Mendki",
+    "name_mr": "",
+    "code": "544157",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544152",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Pachunda",
+    "name_mr": "",
+    "code": "544152",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544138",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Mahadapur",
+    "name_mr": "",
+    "code": "544138",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544140",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Raigad(D)",
+    "name_mr": "",
+    "code": "544140",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544151",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Kupti (Nahoor)",
+    "name_mr": "",
+    "code": "544151",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544139",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Shivur",
+    "name_mr": "",
+    "code": "544139",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544149",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Dahegaon (Sa.)",
+    "name_mr": "",
+    "code": "544149",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544156",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Digdi (mohpur)",
+    "name_mr": "",
+    "code": "544156",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544155",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Dhanora (Digdi)",
+    "name_mr": "",
+    "code": "544155",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544177",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "544177",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544179",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Asoli Tanda",
+    "name_mr": "",
+    "code": "544179",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544172",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Hardap",
+    "name_mr": "",
+    "code": "544172",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544174",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "544174",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544175",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Wai Tanda",
+    "name_mr": "",
+    "code": "544175",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544173",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Hardap Tanda",
+    "name_mr": "",
+    "code": "544173",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544158",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Mungashi",
+    "name_mr": "",
+    "code": "544158",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544159",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Rampur (Mu.)",
+    "name_mr": "",
+    "code": "544159",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544154",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Sakur",
+    "name_mr": "",
+    "code": "544154",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544153",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Vanola Tanda",
+    "name_mr": "",
+    "code": "544153",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544115",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "544115",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544113",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Gondegaon Tanda",
+    "name_mr": "",
+    "code": "544113",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544122",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "544122",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-945904",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Jaggunaik Tanda",
+    "name_mr": "",
+    "code": "945904",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544119",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "544119",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544118",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Dasunaik Tanda",
+    "name_mr": "",
+    "code": "544118",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544116",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Machehhandra Pardi",
+    "name_mr": "",
+    "code": "544116",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  },
+  {
+    "village_id": "v-544120",
+    "district_id": "n-nded",
+    "taluka_id": "mahur",
+    "name_en": "Dasunaik Tanda",
+    "name_mr": "",
+    "code": "544120",
+    "boundary_file": "/data/boundaries/villages/n-nded/mahur.geojson"
+  }
+]

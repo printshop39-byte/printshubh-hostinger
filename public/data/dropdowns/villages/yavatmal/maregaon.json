@@ -1,0 +1,1037 @@
+[
+  {
+    "village_id": "v-543734",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "543734",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543735",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kosara",
+    "name_mr": "",
+    "code": "543735",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543697",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Bori-bk.",
+    "name_mr": "",
+    "code": "543697",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543738",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Chinchmandal",
+    "name_mr": "",
+    "code": "543738",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543736",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "543736",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543744",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Zagada",
+    "name_mr": "",
+    "code": "543744",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543743",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Shivani Dhobi",
+    "name_mr": "",
+    "code": "543743",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543740",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "543740",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543741",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Chanoda",
+    "name_mr": "",
+    "code": "543741",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543742",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "543742",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543739",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kegaon",
+    "name_mr": "",
+    "code": "543739",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543737",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dapora",
+    "name_mr": "",
+    "code": "543737",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543745",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mukata",
+    "name_mr": "",
+    "code": "543745",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543748",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kanada",
+    "name_mr": "",
+    "code": "543748",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543750",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Majara",
+    "name_mr": "",
+    "code": "543750",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543752",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khairgaon",
+    "name_mr": "",
+    "code": "543752",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543749",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Chopan",
+    "name_mr": "",
+    "code": "543749",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543746",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dandgaon",
+    "name_mr": "",
+    "code": "543746",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543751",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Bodad",
+    "name_mr": "",
+    "code": "543751",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543698",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "543698",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543699",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kothurla",
+    "name_mr": "",
+    "code": "543699",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543747",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Hiwara-Majara",
+    "name_mr": "",
+    "code": "543747",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543704",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kumbha",
+    "name_mr": "",
+    "code": "543704",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543703",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "543703",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543757",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Goraj",
+    "name_mr": "",
+    "code": "543757",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543702",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mangali",
+    "name_mr": "",
+    "code": "543702",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543758",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Apati",
+    "name_mr": "",
+    "code": "543758",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543700",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Rameshwar",
+    "name_mr": "",
+    "code": "543700",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543753",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Tukapur",
+    "name_mr": "",
+    "code": "543753",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543765",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dewala",
+    "name_mr": "",
+    "code": "543765",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543754",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mardi",
+    "name_mr": "",
+    "code": "543754",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543755",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Bamarda",
+    "name_mr": "",
+    "code": "543755",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543701",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Sindi",
+    "name_mr": "",
+    "code": "543701",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543760",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Wanoja",
+    "name_mr": "",
+    "code": "543760",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543756",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Phefarwada",
+    "name_mr": "",
+    "code": "543756",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543759",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "543759",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543764",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "543764",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543707",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Sakhara",
+    "name_mr": "",
+    "code": "543707",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543762",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pimprad (Vangram)",
+    "name_mr": "",
+    "code": "543762",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543761",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Machhindra",
+    "name_mr": "",
+    "code": "543761",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543763",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Phiski (Vangram)",
+    "name_mr": "",
+    "code": "543763",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543708",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "543708",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543770",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "543770",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543771",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "543771",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543705",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Shrirampur (NV)",
+    "name_mr": "",
+    "code": "543705",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543766",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pahapal",
+    "name_mr": "",
+    "code": "543766",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543769",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "543769",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543706",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Indiragram (NV)",
+    "name_mr": "",
+    "code": "543706",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543773",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dol.Dongargaon",
+    "name_mr": "",
+    "code": "543773",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543772",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khadaki (Vangram)",
+    "name_mr": "",
+    "code": "543772",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543776",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pisgaon",
+    "name_mr": "",
+    "code": "543776",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543777",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pandharkawada",
+    "name_mr": "",
+    "code": "543777",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543721",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Buranda",
+    "name_mr": "",
+    "code": "543721",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543715",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Ghoguldara",
+    "name_mr": "",
+    "code": "543715",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543767",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Bori Kh",
+    "name_mr": "",
+    "code": "543767",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543716",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pandawihir",
+    "name_mr": "",
+    "code": "543716",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543778",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Chinchala",
+    "name_mr": "",
+    "code": "543778",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543780",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Bhalewadi",
+    "name_mr": "",
+    "code": "543780",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543768",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Madanapar",
+    "name_mr": "",
+    "code": "543768",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543775",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Lakhapur",
+    "name_mr": "",
+    "code": "543775",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543774",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Akapur",
+    "name_mr": "",
+    "code": "543774",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543714",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Shivnala",
+    "name_mr": "",
+    "code": "543714",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543779",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "543779",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543710",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "543710",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543717",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Jalaka",
+    "name_mr": "",
+    "code": "543717",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543782",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "543782",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543711",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Narsala",
+    "name_mr": "",
+    "code": "543711",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543713",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khekadwai",
+    "name_mr": "",
+    "code": "543713",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543781",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Salebhatti",
+    "name_mr": "",
+    "code": "543781",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543783",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Net",
+    "name_mr": "",
+    "code": "543783",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-276310",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Maregaon (NP)",
+    "name_mr": "",
+    "code": "276310",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543712",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Ghoddara",
+    "name_mr": "",
+    "code": "543712",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543720",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Chinchoni Botoni",
+    "name_mr": "",
+    "code": "543720",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543718",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pandhardevi (Vangram)",
+    "name_mr": "",
+    "code": "543718",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543719",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Ambora",
+    "name_mr": "",
+    "code": "543719",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543784",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Gawarala",
+    "name_mr": "",
+    "code": "543784",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543709",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "GondBuranda",
+    "name_mr": "",
+    "code": "543709",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543785",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mangarul",
+    "name_mr": "",
+    "code": "543785",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543790",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "543790",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543724",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Awalgaon",
+    "name_mr": "",
+    "code": "543724",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543789",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Karanwadi",
+    "name_mr": "",
+    "code": "543789",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543787",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "543787",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543797",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kolgaon",
+    "name_mr": "",
+    "code": "543797",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543791",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "543791",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543788",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Takalkheda",
+    "name_mr": "",
+    "code": "543788",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543723",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khairgaon",
+    "name_mr": "",
+    "code": "543723",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543725",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "543725",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543722",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Sarati",
+    "name_mr": "",
+    "code": "543722",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543795",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "543795",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543792",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Hatwanjari",
+    "name_mr": "",
+    "code": "543792",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543798",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Wadgaon (Waghade)",
+    "name_mr": "",
+    "code": "543798",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543796",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "543796",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543726",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Durgada",
+    "name_mr": "",
+    "code": "543726",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543727",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "543727",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543799",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Wegaon",
+    "name_mr": "",
+    "code": "543799",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543793",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Dhanpur",
+    "name_mr": "",
+    "code": "543793",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543728",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "543728",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543729",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mendhani",
+    "name_mr": "",
+    "code": "543729",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543794",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Mhais Dodaka",
+    "name_mr": "",
+    "code": "543794",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543730",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Khandani",
+    "name_mr": "",
+    "code": "543730",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543802",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Saganapur",
+    "name_mr": "",
+    "code": "543802",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543801",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Hiwari",
+    "name_mr": "",
+    "code": "543801",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543800",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kegaon",
+    "name_mr": "",
+    "code": "543800",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543803",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Rohpat",
+    "name_mr": "",
+    "code": "543803",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543731",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Maregaon (Vangram)",
+    "name_mr": "",
+    "code": "543731",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543805",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "543805",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543806",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Arjuni",
+    "name_mr": "",
+    "code": "543806",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543732",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Uchatdevi (Vangram)",
+    "name_mr": "",
+    "code": "543732",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543807",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Godani",
+    "name_mr": "",
+    "code": "543807",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543733",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Girjapur (Vangram)",
+    "name_mr": "",
+    "code": "543733",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543804",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "543804",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543809",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Umarghat",
+    "name_mr": "",
+    "code": "543809",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543808",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Jaglon",
+    "name_mr": "",
+    "code": "543808",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543810",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Asan",
+    "name_mr": "",
+    "code": "543810",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  },
+  {
+    "village_id": "v-543811",
+    "district_id": "yavatmal",
+    "taluka_id": "maregaon",
+    "name_en": "Kilona",
+    "name_mr": "",
+    "code": "543811",
+    "boundary_file": "/data/boundaries/villages/yavatmal/maregaon.geojson"
+  }
+]

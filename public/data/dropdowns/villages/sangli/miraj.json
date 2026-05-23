@@ -1,0 +1,614 @@
+[
+  {
+    "village_id": "v-568717",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Karoli (m)",
+    "name_mr": "",
+    "code": "568717",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568716",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Soni",
+    "name_mr": "",
+    "code": "568716",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568718",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Bhose",
+    "name_mr": "",
+    "code": "568718",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568706",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Nandra",
+    "name_mr": "",
+    "code": "568706",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568722",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kavalapur",
+    "name_mr": "",
+    "code": "568722",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568713",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kakadwadi",
+    "name_mr": "",
+    "code": "568713",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568709",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Bisur",
+    "name_mr": "",
+    "code": "568709",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568719",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Patgaon",
+    "name_mr": "",
+    "code": "568719",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568693",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Tung",
+    "name_mr": "",
+    "code": "568693",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568714",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Sambarwadi",
+    "name_mr": "",
+    "code": "568714",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568695",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kasabe Digraj",
+    "name_mr": "",
+    "code": "568695",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568694",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Mouje Digraj",
+    "name_mr": "",
+    "code": "568694",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568730",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Khanderajuri",
+    "name_mr": "",
+    "code": "568730",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568727",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Siddhewadi",
+    "name_mr": "",
+    "code": "568727",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568721",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Rasulwadi",
+    "name_mr": "",
+    "code": "568721",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568715",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kanchanpur",
+    "name_mr": "",
+    "code": "568715",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568710",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Karnal",
+    "name_mr": "",
+    "code": "568710",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568758",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Budhgaon (CT)",
+    "name_mr": "",
+    "code": "568758",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568728",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Malgaon",
+    "name_mr": "",
+    "code": "568728",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568726",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kalambi",
+    "name_mr": "",
+    "code": "568726",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568729",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Gundewadi",
+    "name_mr": "",
+    "code": "568729",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568720",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Manmodi",
+    "name_mr": "",
+    "code": "568720",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568696",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Sheri Kavathe",
+    "name_mr": "",
+    "code": "568696",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568697",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Dudhgaon",
+    "name_mr": "",
+    "code": "568697",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568723",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kanadwadi",
+    "name_mr": "",
+    "code": "568723",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568732",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Dongarwadi",
+    "name_mr": "",
+    "code": "568732",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568759",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Madhavnagar (CT)",
+    "name_mr": "",
+    "code": "568759",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568711",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Padmale",
+    "name_mr": "",
+    "code": "568711",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568735",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Salgare",
+    "name_mr": "",
+    "code": "568735",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568725",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Tanang",
+    "name_mr": "",
+    "code": "568725",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568733",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kadamwadi",
+    "name_mr": "",
+    "code": "568733",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568712",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Bamnoli",
+    "name_mr": "",
+    "code": "568712",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568731",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Payappachiwadi",
+    "name_mr": "",
+    "code": "568731",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568724",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Savali",
+    "name_mr": "",
+    "code": "568724",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568702",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Samdoli",
+    "name_mr": "",
+    "code": "568702",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568739",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Shipur",
+    "name_mr": "",
+    "code": "568739",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568698",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Savalwadi",
+    "name_mr": "",
+    "code": "568698",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568741",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Erandoli",
+    "name_mr": "",
+    "code": "568741",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568700",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Malwadi",
+    "name_mr": "",
+    "code": "568700",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568742",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "568742",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568701",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kavathe Piran",
+    "name_mr": "",
+    "code": "568701",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568734",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Belanki",
+    "name_mr": "",
+    "code": "568734",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568737",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Janaraowadi",
+    "name_mr": "",
+    "code": "568737",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568703",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Haripur",
+    "name_mr": "",
+    "code": "568703",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-251639",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Sangli Miraj Kupwad (M Corp)",
+    "name_mr": "",
+    "code": "251639",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568699",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Mola Kumbhoj",
+    "name_mr": "",
+    "code": "568699",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568740",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Vyankuchiwadi",
+    "name_mr": "",
+    "code": "568740",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568738",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Santoshwadi",
+    "name_mr": "",
+    "code": "568738",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568743",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "568743",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568754",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Arag",
+    "name_mr": "",
+    "code": "568754",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568745",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Bamani",
+    "name_mr": "",
+    "code": "568745",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568705",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Inam Dhamani",
+    "name_mr": "",
+    "code": "568705",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568746",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Nilaji",
+    "name_mr": "",
+    "code": "568746",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568756",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Lingnur",
+    "name_mr": "",
+    "code": "568756",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568704",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Ankali",
+    "name_mr": "",
+    "code": "568704",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568744",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Bolwad",
+    "name_mr": "",
+    "code": "568744",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568752",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Bedag",
+    "name_mr": "",
+    "code": "568752",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568757",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Khatav",
+    "name_mr": "",
+    "code": "568757",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568747",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Vaddi",
+    "name_mr": "",
+    "code": "568747",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568749",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Vijay Nagar",
+    "name_mr": "",
+    "code": "568749",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568755",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "568755",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568750",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Mhaisal(s)",
+    "name_mr": "",
+    "code": "568750",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568748",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Dhavali",
+    "name_mr": "",
+    "code": "568748",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568751",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Narwad",
+    "name_mr": "",
+    "code": "568751",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568753",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Laxmiwadi",
+    "name_mr": "",
+    "code": "568753",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568736",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Chabukswarwadi",
+    "name_mr": "",
+    "code": "568736",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568707",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Kavaji Khotwadi",
+    "name_mr": "",
+    "code": "568707",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  },
+  {
+    "village_id": "v-568708",
+    "district_id": "sangli",
+    "taluka_id": "miraj",
+    "name_en": "Wajegaon",
+    "name_mr": "",
+    "code": "568708",
+    "boundary_file": "/data/boundaries/villages/sangli/miraj.geojson"
+  }
+]

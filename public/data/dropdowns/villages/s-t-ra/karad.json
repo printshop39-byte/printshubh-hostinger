@@ -1,0 +1,2045 @@
+[
+  {
+    "village_id": "v-564466",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Harpalwadi",
+    "name_mr": "",
+    "code": "564466",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564467",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pal",
+    "name_mr": "",
+    "code": "564467",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564477",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "564477",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564490",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "564490",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564468",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bhagatwadi",
+    "name_mr": "",
+    "code": "564468",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564491",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gaikwadwadi",
+    "name_mr": "",
+    "code": "564491",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564489",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Banugadewadi",
+    "name_mr": "",
+    "code": "564489",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564485",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kalgaon",
+    "name_mr": "",
+    "code": "564485",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564476",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vadgaon umbraj",
+    "name_mr": "",
+    "code": "564476",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564469",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Marali",
+    "name_mr": "",
+    "code": "564469",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564488",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Helgaon",
+    "name_mr": "",
+    "code": "564488",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564472",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Maskarwadi",
+    "name_mr": "",
+    "code": "564472",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564479",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Parale",
+    "name_mr": "",
+    "code": "564479",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564492",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gosavewadi",
+    "name_mr": "",
+    "code": "564492",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564470",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Daphalwadi",
+    "name_mr": "",
+    "code": "564470",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564474",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chore",
+    "name_mr": "",
+    "code": "564474",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564473",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chorajwadi",
+    "name_mr": "",
+    "code": "564473",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564471",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Dhavarwadi",
+    "name_mr": "",
+    "code": "564471",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564487",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Belwadi",
+    "name_mr": "",
+    "code": "564487",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564478",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Wazewadi",
+    "name_mr": "",
+    "code": "564478",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564481",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Indoli",
+    "name_mr": "",
+    "code": "564481",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564501",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kival",
+    "name_mr": "",
+    "code": "564501",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564486",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chinchani",
+    "name_mr": "",
+    "code": "564486",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564500",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Khodjaiwadi",
+    "name_mr": "",
+    "code": "564500",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564496",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kharade",
+    "name_mr": "",
+    "code": "564496",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564495",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kacharewadi",
+    "name_mr": "",
+    "code": "564495",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564494",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Hanbarwadi",
+    "name_mr": "",
+    "code": "564494",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564475",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shakerwadi (N.V.)",
+    "name_mr": "",
+    "code": "564475",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564482",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Koriwale",
+    "name_mr": "",
+    "code": "564482",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564480",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bhuyachiwadi",
+    "name_mr": "",
+    "code": "564480",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564498",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "564498",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564518",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kavathe",
+    "name_mr": "",
+    "code": "564518",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564540",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shamgaon",
+    "name_mr": "",
+    "code": "564540",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564517",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Korti",
+    "name_mr": "",
+    "code": "564517",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564483",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Hingnole",
+    "name_mr": "",
+    "code": "564483",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564497",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Wanyachiwadi",
+    "name_mr": "",
+    "code": "564497",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564505",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Masur",
+    "name_mr": "",
+    "code": "564505",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564484",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Sabalwadi",
+    "name_mr": "",
+    "code": "564484",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564519",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Navin kavathe",
+    "name_mr": "",
+    "code": "564519",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564516",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bhosalewadi",
+    "name_mr": "",
+    "code": "564516",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564513",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Umbraj",
+    "name_mr": "",
+    "code": "564513",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564514",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Godwadi",
+    "name_mr": "",
+    "code": "564514",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564526",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Andharwadi",
+    "name_mr": "",
+    "code": "564526",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564520",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vadoli bhikeshwar",
+    "name_mr": "",
+    "code": "564520",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564504",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Wagheshwar",
+    "name_mr": "",
+    "code": "564504",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564515",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Mangwadi",
+    "name_mr": "",
+    "code": "564515",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564508",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kambirwadi",
+    "name_mr": "",
+    "code": "564508",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564521",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Dhanakwadi",
+    "name_mr": "",
+    "code": "564521",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564502",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Antvadi",
+    "name_mr": "",
+    "code": "564502",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564507",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Malwadi",
+    "name_mr": "",
+    "code": "564507",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564523",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shiwade",
+    "name_mr": "",
+    "code": "564523",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564503",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Risvad",
+    "name_mr": "",
+    "code": "564503",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564522",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Hanumanwadi",
+    "name_mr": "",
+    "code": "564522",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564527",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Khalkarwadi",
+    "name_mr": "",
+    "code": "564527",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564509",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Konegaon",
+    "name_mr": "",
+    "code": "564509",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564529",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Charegaon",
+    "name_mr": "",
+    "code": "564529",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564541",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pachund",
+    "name_mr": "",
+    "code": "564541",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564511",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "564511",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564534",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shiravade",
+    "name_mr": "",
+    "code": "564534",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564530",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Varade",
+    "name_mr": "",
+    "code": "564530",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564531",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Tasavade",
+    "name_mr": "",
+    "code": "564531",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564524",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bhavanwadi",
+    "name_mr": "",
+    "code": "564524",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564535",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "British-shirwade",
+    "name_mr": "",
+    "code": "564535",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564510",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pimpari",
+    "name_mr": "",
+    "code": "564510",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564539",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Mervawadi",
+    "name_mr": "",
+    "code": "564539",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564528",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shitalwadi",
+    "name_mr": "",
+    "code": "564528",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564537",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vadoli nileshwar",
+    "name_mr": "",
+    "code": "564537",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564533",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Talbid",
+    "name_mr": "",
+    "code": "564533",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564512",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yeshwantnagar",
+    "name_mr": "",
+    "code": "564512",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564565",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bholewadi",
+    "name_mr": "",
+    "code": "564565",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564536",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Nadashi",
+    "name_mr": "",
+    "code": "564536",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564532",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Belvade haveli",
+    "name_mr": "",
+    "code": "564532",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564542",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kamathi",
+    "name_mr": "",
+    "code": "564542",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564566",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Beldari",
+    "name_mr": "",
+    "code": "564566",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564547",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yadavawadi",
+    "name_mr": "",
+    "code": "564547",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564538",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vagheri",
+    "name_mr": "",
+    "code": "564538",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564546",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Koparde haveli",
+    "name_mr": "",
+    "code": "564546",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564544",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Karavadi",
+    "name_mr": "",
+    "code": "564544",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564545",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Parle",
+    "name_mr": "",
+    "code": "564545",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564555",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vahagaon",
+    "name_mr": "",
+    "code": "564555",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564543",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Surli",
+    "name_mr": "",
+    "code": "564543",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564556",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ghonasi",
+    "name_mr": "",
+    "code": "564556",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564567",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Mhopre",
+    "name_mr": "",
+    "code": "564567",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564569",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vasantgad",
+    "name_mr": "",
+    "code": "564569",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564568",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vastisakurdi",
+    "name_mr": "",
+    "code": "564568",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564557",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Khodshi",
+    "name_mr": "",
+    "code": "564557",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564550",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Rajmachi",
+    "name_mr": "",
+    "code": "564550",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564548",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Virvade",
+    "name_mr": "",
+    "code": "564548",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564558",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vanavasmachi",
+    "name_mr": "",
+    "code": "564558",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564549",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vanvasmachi",
+    "name_mr": "",
+    "code": "564549",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564570",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Abachiwadi",
+    "name_mr": "",
+    "code": "564570",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564561",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vanvadi (Sadashivgad)",
+    "name_mr": "",
+    "code": "564561",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564577",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Uttar Tambave",
+    "name_mr": "",
+    "code": "564577",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564578",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Sajur",
+    "name_mr": "",
+    "code": "564578",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564576",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Tambave",
+    "name_mr": "",
+    "code": "564576",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564683",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Hajarmachi",
+    "name_mr": "",
+    "code": "564683",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564684",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Saidapur",
+    "name_mr": "",
+    "code": "564684",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564575",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Sakurdi",
+    "name_mr": "",
+    "code": "564575",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564559",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vijaynagar",
+    "name_mr": "",
+    "code": "564559",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564573",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pashchimsupane",
+    "name_mr": "",
+    "code": "564573",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564581",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Patharwadi",
+    "name_mr": "",
+    "code": "564581",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564580",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gamewadi",
+    "name_mr": "",
+    "code": "564580",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564560",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Mundhe",
+    "name_mr": "",
+    "code": "564560",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564574",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Supane",
+    "name_mr": "",
+    "code": "564574",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564572",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Padalikese",
+    "name_mr": "",
+    "code": "564572",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564563",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gote",
+    "name_mr": "",
+    "code": "564563",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564552",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Sayapur",
+    "name_mr": "",
+    "code": "564552",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564553",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Tembhu",
+    "name_mr": "",
+    "code": "564553",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564579",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Arewadi",
+    "name_mr": "",
+    "code": "564579",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564562",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Govare",
+    "name_mr": "",
+    "code": "564562",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-251598",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Karad (M Cl)",
+    "name_mr": "",
+    "code": "251598",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564586",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kirpe",
+    "name_mr": "",
+    "code": "564586",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564571",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kese",
+    "name_mr": "",
+    "code": "564571",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564582",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Delewadi",
+    "name_mr": "",
+    "code": "564582",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564564",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Varunji",
+    "name_mr": "",
+    "code": "564564",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564585",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yenake",
+    "name_mr": "",
+    "code": "564585",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564584",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ane",
+    "name_mr": "",
+    "code": "564584",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564587",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yeravale",
+    "name_mr": "",
+    "code": "564587",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564554",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Koregaon",
+    "name_mr": "",
+    "code": "564554",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-251314",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Malkapur (M Cl)",
+    "name_mr": "",
+    "code": "251314",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564583",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ambavade",
+    "name_mr": "",
+    "code": "564583",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564666",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Goleshwar",
+    "name_mr": "",
+    "code": "564666",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564590",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Potale",
+    "name_mr": "",
+    "code": "564590",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564588",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chachegaon",
+    "name_mr": "",
+    "code": "564588",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564670",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Karve",
+    "name_mr": "",
+    "code": "564670",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564591",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kole",
+    "name_mr": "",
+    "code": "564591",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564671",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gopalnagar",
+    "name_mr": "",
+    "code": "564671",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564592",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kolewadi",
+    "name_mr": "",
+    "code": "564592",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564642",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Koyanavasahat",
+    "name_mr": "",
+    "code": "564642",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564594",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kusur",
+    "name_mr": "",
+    "code": "564594",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564595",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Tarukh",
+    "name_mr": "",
+    "code": "564595",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564641",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Jakhinwadi",
+    "name_mr": "",
+    "code": "564641",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564600",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gharewadi",
+    "name_mr": "",
+    "code": "564600",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564589",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ving",
+    "name_mr": "",
+    "code": "564589",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564599",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shinganwadi",
+    "name_mr": "",
+    "code": "564599",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564668",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pachwadwasahat",
+    "name_mr": "",
+    "code": "564668",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564667",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kapil",
+    "name_mr": "",
+    "code": "564667",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564601",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Navin Gaonthun Gharewadi",
+    "name_mr": "",
+    "code": "564601",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564672",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Wadgaon Haveli",
+    "name_mr": "",
+    "code": "564672",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564602",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "564602",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564593",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shendawadi",
+    "name_mr": "",
+    "code": "564593",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564669",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kodoli",
+    "name_mr": "",
+    "code": "564669",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564643",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Nandlapur",
+    "name_mr": "",
+    "code": "564643",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564646",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Munawale",
+    "name_mr": "",
+    "code": "564646",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564644",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Narayanwadi",
+    "name_mr": "",
+    "code": "564644",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564640",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "564640",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564596",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bamanwadi",
+    "name_mr": "",
+    "code": "564596",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564673",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Dushere",
+    "name_mr": "",
+    "code": "564673",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564638",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "564638",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564675",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Sanjaynagar",
+    "name_mr": "",
+    "code": "564675",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564676",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Thoerathmal",
+    "name_mr": "",
+    "code": "564676",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564645",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kaletake",
+    "name_mr": "",
+    "code": "564645",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564674",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shere",
+    "name_mr": "",
+    "code": "564674",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564603",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Tulsan",
+    "name_mr": "",
+    "code": "564603",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564637",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ondosha",
+    "name_mr": "",
+    "code": "564637",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564598",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "564598",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564647",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Atake",
+    "name_mr": "",
+    "code": "564647",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564658",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Patilmala",
+    "name_mr": "",
+    "code": "564658",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564677",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shenoli",
+    "name_mr": "",
+    "code": "564677",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564654",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chaugulemala",
+    "name_mr": "",
+    "code": "564654",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564604",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "pachupatewadi",
+    "name_mr": "",
+    "code": "564604",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564597",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vanarwadi",
+    "name_mr": "",
+    "code": "564597",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564653",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Sanjaynagar",
+    "name_mr": "",
+    "code": "564653",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564660",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "564660",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564657",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Thoratmala",
+    "name_mr": "",
+    "code": "564657",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564678",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shenolistalion",
+    "name_mr": "",
+    "code": "564678",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564651",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kale",
+    "name_mr": "",
+    "code": "564651",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564655",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chapnemala",
+    "name_mr": "",
+    "code": "564655",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564650",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Vathar",
+    "name_mr": "",
+    "code": "564650",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564656",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ond",
+    "name_mr": "",
+    "code": "564656",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564606",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Latakewadi",
+    "name_mr": "",
+    "code": "564606",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564605",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "vithobawadi",
+    "name_mr": "",
+    "code": "564605",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564649",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Rethare kh.",
+    "name_mr": "",
+    "code": "564649",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564652",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Junjarwadi",
+    "name_mr": "",
+    "code": "564652",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564648",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Jadhavmala",
+    "name_mr": "",
+    "code": "564648",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564607",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Havelwadi",
+    "name_mr": "",
+    "code": "564607",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564679",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gondi",
+    "name_mr": "",
+    "code": "564679",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564615",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Mhasoli",
+    "name_mr": "",
+    "code": "564615",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564639",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Navin Nandgaon",
+    "name_mr": "",
+    "code": "564639",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564616",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shelakewadi",
+    "name_mr": "",
+    "code": "564616",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564618",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yevati",
+    "name_mr": "",
+    "code": "564618",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564681",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Rethare bk.",
+    "name_mr": "",
+    "code": "564681",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564608",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Savade",
+    "name_mr": "",
+    "code": "564608",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564610",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Undale",
+    "name_mr": "",
+    "code": "564610",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564680",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Julewadi",
+    "name_mr": "",
+    "code": "564680",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564622",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Hanumantwadi",
+    "name_mr": "",
+    "code": "564622",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564609",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bandakerwadi",
+    "name_mr": "",
+    "code": "564609",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564661",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kalvade",
+    "name_mr": "",
+    "code": "564661",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564659",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Manu",
+    "name_mr": "",
+    "code": "564659",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564663",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Navinmalkheda",
+    "name_mr": "",
+    "code": "564663",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564621",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gharalwadi",
+    "name_mr": "",
+    "code": "564621",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564613",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Talgaon",
+    "name_mr": "",
+    "code": "564613",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564617",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shevalwadi",
+    "name_mr": "",
+    "code": "564617",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564662",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Malkhed",
+    "name_mr": "",
+    "code": "564662",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564664",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Belavade Bk",
+    "name_mr": "",
+    "code": "564664",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564614",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ghogaon",
+    "name_mr": "",
+    "code": "564614",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564620",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shewalewadi",
+    "name_mr": "",
+    "code": "564620",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564682",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Khubi",
+    "name_mr": "",
+    "code": "564682",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564665",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kasarshirambe",
+    "name_mr": "",
+    "code": "564665",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564627",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yelgaon",
+    "name_mr": "",
+    "code": "564627",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564623",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bhurbhushi",
+    "name_mr": "",
+    "code": "564623",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564625",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gotewadi",
+    "name_mr": "",
+    "code": "564625",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564629",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yenape",
+    "name_mr": "",
+    "code": "564629",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564635",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Maharugadewadi",
+    "name_mr": "",
+    "code": "564635",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564612",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Salshirambe",
+    "name_mr": "",
+    "code": "564612",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564636",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Jinti",
+    "name_mr": "",
+    "code": "564636",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564630",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Chormarwadi",
+    "name_mr": "",
+    "code": "564630",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564624",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bharewadi",
+    "name_mr": "",
+    "code": "564624",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564632",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shevalwadi",
+    "name_mr": "",
+    "code": "564632",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564626",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "564626",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564633",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Akaichiwadi",
+    "name_mr": "",
+    "code": "564633",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564634",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Botrewadi",
+    "name_mr": "",
+    "code": "564634",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564631",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Matekerwadi",
+    "name_mr": "",
+    "code": "564631",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564506",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Yadavwadi",
+    "name_mr": "",
+    "code": "564506",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564619",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shelekewadi",
+    "name_mr": "",
+    "code": "564619",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564611",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Shevalwadi",
+    "name_mr": "",
+    "code": "564611",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564628",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Loharwadi",
+    "name_mr": "",
+    "code": "564628",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564493",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Nigadi",
+    "name_mr": "",
+    "code": "564493",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564499",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Gholapwadi",
+    "name_mr": "",
+    "code": "564499",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564551",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Babarmachi",
+    "name_mr": "",
+    "code": "564551",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-652167",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Dicholi (Babarmachi) RHV",
+    "name_mr": "",
+    "code": "652167",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-564525",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Kalantrewadi",
+    "name_mr": "",
+    "code": "564525",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-946092",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Nanegaon",
+    "name_mr": "",
+    "code": "946092",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-654973",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Karanjoshi (Punarvasit) (N.V.)",
+    "name_mr": "",
+    "code": "654973",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-654972",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Bhambe (Punarvasit) (N.V.)",
+    "name_mr": "",
+    "code": "654972",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-652168",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Dicholi (Munawale-Kale) (N.V.)",
+    "name_mr": "",
+    "code": "652168",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  },
+  {
+    "village_id": "v-654974",
+    "district_id": "s-t-ra",
+    "taluka_id": "karad",
+    "name_en": "Savarghar (Punarvasit) (N.V.)",
+    "name_mr": "",
+    "code": "654974",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
+  }
+]

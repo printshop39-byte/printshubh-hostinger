@@ -1,0 +1,893 @@
+[
+  {
+    "village_id": "v-537671",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Khadipar",
+    "name_mr": "",
+    "code": "537671",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537668",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Asalpani",
+    "name_mr": "",
+    "code": "537668",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537669",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Timezari",
+    "name_mr": "",
+    "code": "537669",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537680",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Gahalatola",
+    "name_mr": "",
+    "code": "537680",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537691",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Deutola",
+    "name_mr": "",
+    "code": "537691",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537690",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Salangtola",
+    "name_mr": "",
+    "code": "537690",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537695",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Chilhati",
+    "name_mr": "",
+    "code": "537695",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537687",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bodunda",
+    "name_mr": "",
+    "code": "537687",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537683",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Saitola",
+    "name_mr": "",
+    "code": "537683",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537686",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "537686",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537696",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Ambetalao",
+    "name_mr": "",
+    "code": "537696",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537692",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bhadanga",
+    "name_mr": "",
+    "code": "537692",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537709",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Pindakepar",
+    "name_mr": "",
+    "code": "537709",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537693",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kamargaon",
+    "name_mr": "",
+    "code": "537693",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537694",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Babai",
+    "name_mr": "",
+    "code": "537694",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537701",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Gidhadi",
+    "name_mr": "",
+    "code": "537701",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537697",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kalimati",
+    "name_mr": "",
+    "code": "537697",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537685",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Ramatola",
+    "name_mr": "",
+    "code": "537685",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537707",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Mundipar",
+    "name_mr": "",
+    "code": "537707",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537688",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Alebedar",
+    "name_mr": "",
+    "code": "537688",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537702",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kawaditola",
+    "name_mr": "",
+    "code": "537702",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537699",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Hiratola",
+    "name_mr": "",
+    "code": "537699",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537684",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Malpuri",
+    "name_mr": "",
+    "code": "537684",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537708",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Garada",
+    "name_mr": "",
+    "code": "537708",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537698",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Chanditola",
+    "name_mr": "",
+    "code": "537698",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537706",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Palewada",
+    "name_mr": "",
+    "code": "537706",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537700",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Khosetola",
+    "name_mr": "",
+    "code": "537700",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537703",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Mohadi",
+    "name_mr": "",
+    "code": "537703",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537705",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kalpathari",
+    "name_mr": "",
+    "code": "537705",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537717",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "537717",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537704",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Mundharitola",
+    "name_mr": "",
+    "code": "537704",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537710",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Sondlagondi",
+    "name_mr": "",
+    "code": "537710",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537713",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Ghumarra",
+    "name_mr": "",
+    "code": "537713",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537711",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Jambhulpani",
+    "name_mr": "",
+    "code": "537711",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537718",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Tumsar",
+    "name_mr": "",
+    "code": "537718",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537714",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Akotola",
+    "name_mr": "",
+    "code": "537714",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537715",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kanhartola Chopa",
+    "name_mr": "",
+    "code": "537715",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537720",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Chopa",
+    "name_mr": "",
+    "code": "537720",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537716",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bajartola",
+    "name_mr": "",
+    "code": "537716",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537722",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Telankhedi",
+    "name_mr": "",
+    "code": "537722",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537719",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kanhartola",
+    "name_mr": "",
+    "code": "537719",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537712",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Murdoli",
+    "name_mr": "",
+    "code": "537712",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537725",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Changotola",
+    "name_mr": "",
+    "code": "537725",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537727",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Tedha",
+    "name_mr": "",
+    "code": "537727",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537726",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Hausitola",
+    "name_mr": "",
+    "code": "537726",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537723",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Sonartola (NV)",
+    "name_mr": "",
+    "code": "537723",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537724",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Mohagaon",
+    "name_mr": "",
+    "code": "537724",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537729",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Gawaritola",
+    "name_mr": "",
+    "code": "537729",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537721",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Palkheda",
+    "name_mr": "",
+    "code": "537721",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537731",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Gowaritola",
+    "name_mr": "",
+    "code": "537731",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537641",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Lendezari",
+    "name_mr": "",
+    "code": "537641",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537643",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Dawwa",
+    "name_mr": "",
+    "code": "537643",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537642",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Gondekhari",
+    "name_mr": "",
+    "code": "537642",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537654",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Dhanutola",
+    "name_mr": "",
+    "code": "537654",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537655",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Shaharwani",
+    "name_mr": "",
+    "code": "537655",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537644",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Tumkheda Bk",
+    "name_mr": "",
+    "code": "537644",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537653",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Isatola",
+    "name_mr": "",
+    "code": "537653",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537645",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Mohagaon Bk",
+    "name_mr": "",
+    "code": "537645",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537652",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kawalewada",
+    "name_mr": "",
+    "code": "537652",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537650",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Gankhaira",
+    "name_mr": "",
+    "code": "537650",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537651",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Satwa",
+    "name_mr": "",
+    "code": "537651",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537656",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "537656",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537657",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "537657",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537649",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Hirdamali",
+    "name_mr": "",
+    "code": "537649",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537659",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Dongarutola",
+    "name_mr": "",
+    "code": "537659",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537646",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Dhundatola (NV)",
+    "name_mr": "",
+    "code": "537646",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537662",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Purgaon",
+    "name_mr": "",
+    "code": "537662",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537661",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Chichgaon",
+    "name_mr": "",
+    "code": "537661",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537648",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Sarvatola",
+    "name_mr": "",
+    "code": "537648",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537658",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "537658",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537660",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Chichgaontola",
+    "name_mr": "",
+    "code": "537660",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537666",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "537666",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537647",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Dawdipar",
+    "name_mr": "",
+    "code": "537647",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537664",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bagholi",
+    "name_mr": "",
+    "code": "537664",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537667",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bagadbandh",
+    "name_mr": "",
+    "code": "537667",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537676",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Zanjiya",
+    "name_mr": "",
+    "code": "537676",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537665",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Sukhapur",
+    "name_mr": "",
+    "code": "537665",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-251510",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Goregaon (NP)",
+    "name_mr": "",
+    "code": "251510",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537663",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Silegaon",
+    "name_mr": "",
+    "code": "537663",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537677",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Bote",
+    "name_mr": "",
+    "code": "537677",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537678",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Soni",
+    "name_mr": "",
+    "code": "537678",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537670",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Khadipartola",
+    "name_mr": "",
+    "code": "537670",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537672",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Kurhadi",
+    "name_mr": "",
+    "code": "537672",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537673",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Katangi",
+    "name_mr": "",
+    "code": "537673",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537674",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Meghatola",
+    "name_mr": "",
+    "code": "537674",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537682",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "537682",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537679",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Nonitola",
+    "name_mr": "",
+    "code": "537679",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537689",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Mhasgaon",
+    "name_mr": "",
+    "code": "537689",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537681",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Ghoti",
+    "name_mr": "",
+    "code": "537681",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537730",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Tilli",
+    "name_mr": "",
+    "code": "537730",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537728",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Halbitola",
+    "name_mr": "",
+    "code": "537728",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537732",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Pipartola",
+    "name_mr": "",
+    "code": "537732",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537733",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Chichtola",
+    "name_mr": "",
+    "code": "537733",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537735",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Nimba",
+    "name_mr": "",
+    "code": "537735",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537734",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Pathantola",
+    "name_mr": "",
+    "code": "537734",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537736",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Halbitola",
+    "name_mr": "",
+    "code": "537736",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537737",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Zaliya",
+    "name_mr": "",
+    "code": "537737",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537738",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Pangadi",
+    "name_mr": "",
+    "code": "537738",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  },
+  {
+    "village_id": "v-537739",
+    "district_id": "gondia",
+    "taluka_id": "goregaon",
+    "name_en": "Rengepar",
+    "name_mr": "",
+    "code": "537739",
+    "boundary_file": "/data/boundaries/villages/gondia/goregaon.geojson"
+  }
+]

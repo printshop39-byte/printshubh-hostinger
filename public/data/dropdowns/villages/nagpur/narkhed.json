@@ -1,0 +1,1478 @@
+[
+  {
+    "village_id": "v-534896",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khaprikene",
+    "name_mr": "",
+    "code": "534896",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534805",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "534805",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534789",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Tara",
+    "name_mr": "",
+    "code": "534789",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534894",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ranwadi",
+    "name_mr": "",
+    "code": "534894",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "pathal-gondi-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "PATHAL GONDI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534895",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ambada",
+    "name_mr": "",
+    "code": "534895",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "talegaon-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "TALEGAON  RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534899",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khapa",
+    "name_mr": "",
+    "code": "534899",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534808",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Udapur (Rayyatwari)",
+    "name_mr": "",
+    "code": "534808",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534898",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Kukadi",
+    "name_mr": "",
+    "code": "534898",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534806",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ramthi",
+    "name_mr": "",
+    "code": "534806",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534897",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Kakaddara",
+    "name_mr": "",
+    "code": "534897",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534804",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Telegaon",
+    "name_mr": "",
+    "code": "534804",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534809",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khalangondri",
+    "name_mr": "",
+    "code": "534809",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534807",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Chichkumbha",
+    "name_mr": "",
+    "code": "534807",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534814",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Math",
+    "name_mr": "",
+    "code": "534814",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "saonga-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "SAONGA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534900",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ghogra",
+    "name_mr": "",
+    "code": "534900",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534910",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Agra",
+    "name_mr": "",
+    "code": "534910",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "joga-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "JOGA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534829",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Narkhed (Kamthi Tola)",
+    "name_mr": "",
+    "code": "534829",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534833",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Gondhani",
+    "name_mr": "",
+    "code": "534833",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534830",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Bhaiwadi",
+    "name_mr": "",
+    "code": "534830",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534831",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Indora",
+    "name_mr": "",
+    "code": "534831",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534832",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Gangaldoh",
+    "name_mr": "",
+    "code": "534832",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534828",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pimpalgaon (Wakhaji)",
+    "name_mr": "",
+    "code": "534828",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534854",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Chorkhairi",
+    "name_mr": "",
+    "code": "534854",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534853",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mannath",
+    "name_mr": "",
+    "code": "534853",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534827",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Banor",
+    "name_mr": "",
+    "code": "534827",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534839",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "534839",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534840",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Nandori",
+    "name_mr": "",
+    "code": "534840",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534842",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "534842",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534834",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Yerla",
+    "name_mr": "",
+    "code": "534834",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534836",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khairgaon",
+    "name_mr": "",
+    "code": "534836",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534858",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "534858",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534841",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Kharsoli",
+    "name_mr": "",
+    "code": "534841",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534849",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Yeni",
+    "name_mr": "",
+    "code": "534849",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534851",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mhasora",
+    "name_mr": "",
+    "code": "534851",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534847",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mogra",
+    "name_mr": "",
+    "code": "534847",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534857",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khapri",
+    "name_mr": "",
+    "code": "534857",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534850",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Nanda (Shinde)",
+    "name_mr": "",
+    "code": "534850",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534835",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Nasirpur",
+    "name_mr": "",
+    "code": "534835",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534846",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Toyapar",
+    "name_mr": "",
+    "code": "534846",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534848",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Koni",
+    "name_mr": "",
+    "code": "534848",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534859",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Shindi (Umari)",
+    "name_mr": "",
+    "code": "534859",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534843",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Dhotra",
+    "name_mr": "",
+    "code": "534843",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534837",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Dewali",
+    "name_mr": "",
+    "code": "534837",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534838",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Junona (Gharad)",
+    "name_mr": "",
+    "code": "534838",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534844",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khedikaryat",
+    "name_mr": "",
+    "code": "534844",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534868",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Lohgad (Theke)",
+    "name_mr": "",
+    "code": "534868",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-99",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534869",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Lohgad (Mal)",
+    "name_mr": "",
+    "code": "534869",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534874",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Thugaon (Nipani)",
+    "name_mr": "",
+    "code": "534874",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534860",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Junona (Fuke)",
+    "name_mr": "",
+    "code": "534860",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534861",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "534861",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534863",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ambola",
+    "name_mr": "",
+    "code": "534863",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534845",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mohadi (Dhotra)",
+    "name_mr": "",
+    "code": "534845",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534875",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Tinkheda",
+    "name_mr": "",
+    "code": "534875",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534876",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Wadgaon (Umari)",
+    "name_mr": "",
+    "code": "534876",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534772",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Devgram",
+    "name_mr": "",
+    "code": "534772",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534773",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "534773",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534871",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khutkheri",
+    "name_mr": "",
+    "code": "534871",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534866",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Malapur",
+    "name_mr": "",
+    "code": "534866",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534774",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Dindargaon",
+    "name_mr": "",
+    "code": "534774",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534862",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sipikhapa",
+    "name_mr": "",
+    "code": "534862",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534867",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Borkhedi (Theke)",
+    "name_mr": "",
+    "code": "534867",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534864",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khandala (Bk)",
+    "name_mr": "",
+    "code": "534864",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534872",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pipla (Kewalram)",
+    "name_mr": "",
+    "code": "534872",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534870",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Borkhedi (Mal)",
+    "name_mr": "",
+    "code": "534870",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534873",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mohgaon (Bhadade)",
+    "name_mr": "",
+    "code": "534873",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534865",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Singarkheda",
+    "name_mr": "",
+    "code": "534865",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534771",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Madna",
+    "name_mr": "",
+    "code": "534771",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534776",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Bopapur",
+    "name_mr": "",
+    "code": "534776",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534775",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sonpur",
+    "name_mr": "",
+    "code": "534775",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534770",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ramgaon",
+    "name_mr": "",
+    "code": "534770",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534877",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pimpalgaon Raut",
+    "name_mr": "",
+    "code": "534877",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534763",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mahendri",
+    "name_mr": "",
+    "code": "534763",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534765",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mirjapur",
+    "name_mr": "",
+    "code": "534765",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534777",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Milanpur",
+    "name_mr": "",
+    "code": "534777",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534769",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Jalalkheda",
+    "name_mr": "",
+    "code": "534769",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534767",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Gaulkheda",
+    "name_mr": "",
+    "code": "534767",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534768",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mundmalipura",
+    "name_mr": "",
+    "code": "534768",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534778",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mohanpur",
+    "name_mr": "",
+    "code": "534778",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534878",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Bhidhnur",
+    "name_mr": "",
+    "code": "534878",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534779",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Narsingi",
+    "name_mr": "",
+    "code": "534779",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534879",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Parsodi (Dixit)",
+    "name_mr": "",
+    "code": "534879",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534762",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Kharbadi",
+    "name_mr": "",
+    "code": "534762",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534782",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Peth Ismailpur (Muktapur)",
+    "name_mr": "",
+    "code": "534782",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534781",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Karimabad",
+    "name_mr": "",
+    "code": "534781",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534882",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khushalpur",
+    "name_mr": "",
+    "code": "534882",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534780",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Naigaon (Thakre)",
+    "name_mr": "",
+    "code": "534780",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534766",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Shabaspur",
+    "name_mr": "",
+    "code": "534766",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534881",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Wiwara",
+    "name_mr": "",
+    "code": "534881",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534764",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Nandni",
+    "name_mr": "",
+    "code": "534764",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534880",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Nababpur",
+    "name_mr": "",
+    "code": "534880",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534761",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khedi Kh",
+    "name_mr": "",
+    "code": "534761",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534797",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "534797",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534798",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "534798",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534783",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sinjar",
+    "name_mr": "",
+    "code": "534783",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534799",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sahajapur",
+    "name_mr": "",
+    "code": "534799",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534795",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Wadvihara",
+    "name_mr": "",
+    "code": "534795",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534800",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Bharsingi",
+    "name_mr": "",
+    "code": "534800",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534802",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Karanjoli",
+    "name_mr": "",
+    "code": "534802",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534784",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Bhayyapur",
+    "name_mr": "",
+    "code": "534784",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534785",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mahajanpur",
+    "name_mr": "",
+    "code": "534785",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534796",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Datewadi",
+    "name_mr": "",
+    "code": "534796",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534889",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Indarwada",
+    "name_mr": "",
+    "code": "534889",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534786",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "534786",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534760",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Thadipavni",
+    "name_mr": "",
+    "code": "534760",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534787",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Baradpavni",
+    "name_mr": "",
+    "code": "534787",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534883",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Babulkheda",
+    "name_mr": "",
+    "code": "534883",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534801",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Jolwadi",
+    "name_mr": "",
+    "code": "534801",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534888",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "534888",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534884",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Thaturwada",
+    "name_mr": "",
+    "code": "534884",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534887",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Naigaon (Dhote)",
+    "name_mr": "",
+    "code": "534887",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534892",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Jamgaon Kh",
+    "name_mr": "",
+    "code": "534892",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534793",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sakharkheda",
+    "name_mr": "",
+    "code": "534793",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534759",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Saiwada",
+    "name_mr": "",
+    "code": "534759",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534792",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Dawasa",
+    "name_mr": "",
+    "code": "534792",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534794",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mendhala",
+    "name_mr": "",
+    "code": "534794",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534891",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Maiwadi",
+    "name_mr": "",
+    "code": "534891",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534758",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ambada",
+    "name_mr": "",
+    "code": "534758",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534886",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "534886",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534885",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Warjali",
+    "name_mr": "",
+    "code": "534885",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534803",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Umatha",
+    "name_mr": "",
+    "code": "534803",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534757",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khargad",
+    "name_mr": "",
+    "code": "534757",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534893",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Jamgaon Bk",
+    "name_mr": "",
+    "code": "534893",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534790",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Banor",
+    "name_mr": "",
+    "code": "534790",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534791",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pimpaldhara",
+    "name_mr": "",
+    "code": "534791",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534890",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Panwadi",
+    "name_mr": "",
+    "code": "534890",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534788",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Utara",
+    "name_mr": "",
+    "code": "534788",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534810",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Rampuri (Mal)",
+    "name_mr": "",
+    "code": "534810",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534901",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "534901",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-100",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534813",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "534813",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534904",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sawanga (Lohari)",
+    "name_mr": "",
+    "code": "534904",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534903",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "534903",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534812",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Arambhi",
+    "name_mr": "",
+    "code": "534812",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534902",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "534902",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534811",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Rampuri (Rayyatwari)",
+    "name_mr": "",
+    "code": "534811",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534905",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Kharala",
+    "name_mr": "",
+    "code": "534905",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534907",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Kharashi",
+    "name_mr": "",
+    "code": "534907",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534906",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Jatlapur",
+    "name_mr": "",
+    "code": "534906",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534909",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Salai",
+    "name_mr": "",
+    "code": "534909",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534908",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Gumgaon",
+    "name_mr": "",
+    "code": "534908",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534818",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Manikwada",
+    "name_mr": "",
+    "code": "534818",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534819",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "534819",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534820",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Nawegaon",
+    "name_mr": "",
+    "code": "534820",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534821",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mohadi (Dalvi)",
+    "name_mr": "",
+    "code": "534821",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534817",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pilapur",
+    "name_mr": "",
+    "code": "534817",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534815",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Gaimukh",
+    "name_mr": "",
+    "code": "534815",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-251339",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Mowad (M Cl)",
+    "name_mr": "",
+    "code": "251339",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534816",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Belona",
+    "name_mr": "",
+    "code": "534816",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534823",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "534823",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534822",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "534822",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534825",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pithori",
+    "name_mr": "",
+    "code": "534825",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534824",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Sardi",
+    "name_mr": "",
+    "code": "534824",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534852",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Khedi Gowargondi",
+    "name_mr": "",
+    "code": "534852",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-104",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534826",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Ambada (Deshmukh)",
+    "name_mr": "",
+    "code": "534826",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534855",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Pipla (Kh)",
+    "name_mr": "",
+    "code": "534855",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-534856",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Shemda",
+    "name_mr": "",
+    "code": "534856",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  },
+  {
+    "village_id": "v-251340",
+    "district_id": "nagpur",
+    "taluka_id": "narkhed",
+    "name_en": "Narkhed (M Cl)",
+    "name_mr": "",
+    "code": "251340",
+    "boundary_file": "/data/boundaries/villages/nagpur/narkhed.geojson"
+  }
+]

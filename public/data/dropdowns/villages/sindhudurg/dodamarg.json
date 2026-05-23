@@ -1,0 +1,560 @@
+[
+  {
+    "village_id": "v-566945",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ambeli",
+    "name_mr": "",
+    "code": "566945",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566975",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Pikule",
+    "name_mr": "",
+    "code": "566975",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-263884",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kasai-Dodamarg (NP)",
+    "name_mr": "",
+    "code": "263884",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566979",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Girode",
+    "name_mr": "",
+    "code": "566979",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566978",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Usap",
+    "name_mr": "",
+    "code": "566978",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566980",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Vazare",
+    "name_mr": "",
+    "code": "566980",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566985",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Virdi",
+    "name_mr": "",
+    "code": "566985",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566984",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Talekhol",
+    "name_mr": "",
+    "code": "566984",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566981",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ambadgaon",
+    "name_mr": "",
+    "code": "566981",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566983",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ayee",
+    "name_mr": "",
+    "code": "566983",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566982",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Matane",
+    "name_mr": "",
+    "code": "566982",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566925",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Fukeri",
+    "name_mr": "",
+    "code": "566925",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566926",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Khadpade",
+    "name_mr": "",
+    "code": "566926",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566927",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Zolambe",
+    "name_mr": "",
+    "code": "566927",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566954",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Bhekurli",
+    "name_mr": "",
+    "code": "566954",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566947",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Terwan",
+    "name_mr": "",
+    "code": "566947",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566948",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Bambarde",
+    "name_mr": "",
+    "code": "566948",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566929",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Talkat",
+    "name_mr": "",
+    "code": "566929",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566928",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kolzar",
+    "name_mr": "",
+    "code": "566928",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566951",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Sonwal",
+    "name_mr": "",
+    "code": "566951",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566946",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Terwanmedhe",
+    "name_mr": "",
+    "code": "566946",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566955",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ker",
+    "name_mr": "",
+    "code": "566955",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566930",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Morgaon",
+    "name_mr": "",
+    "code": "566930",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566952",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Palye",
+    "name_mr": "",
+    "code": "566952",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566949",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ghatiwade",
+    "name_mr": "",
+    "code": "566949",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566953",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Morle",
+    "name_mr": "",
+    "code": "566953",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566950",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Hewale",
+    "name_mr": "",
+    "code": "566950",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566935",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Shirwal",
+    "name_mr": "",
+    "code": "566935",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566932",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ugade",
+    "name_mr": "",
+    "code": "566932",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566931",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Adali",
+    "name_mr": "",
+    "code": "566931",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566960",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Sargave",
+    "name_mr": "",
+    "code": "566960",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566934",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kumbral",
+    "name_mr": "",
+    "code": "566934",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566961",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kendre Kh",
+    "name_mr": "",
+    "code": "566961",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566959",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Aynode",
+    "name_mr": "",
+    "code": "566959",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566958",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ghotgewadi",
+    "name_mr": "",
+    "code": "566958",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566962",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kendre Bk",
+    "name_mr": "",
+    "code": "566962",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566936",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Bhike-Konal",
+    "name_mr": "",
+    "code": "566936",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566937",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kalane",
+    "name_mr": "",
+    "code": "566937",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566957",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Parme",
+    "name_mr": "",
+    "code": "566957",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566963",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Pal",
+    "name_mr": "",
+    "code": "566963",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566933",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Phondye",
+    "name_mr": "",
+    "code": "566933",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566965",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Konal",
+    "name_mr": "",
+    "code": "566965",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566956",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Ghotge",
+    "name_mr": "",
+    "code": "566956",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566940",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Panturli",
+    "name_mr": "",
+    "code": "566940",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566964",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Patye",
+    "name_mr": "",
+    "code": "566964",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566970",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Shirange",
+    "name_mr": "",
+    "code": "566970",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566966",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Awade",
+    "name_mr": "",
+    "code": "566966",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566967",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Sateli Bhedshi (CT)",
+    "name_mr": "",
+    "code": "566967",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566971",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Bodade",
+    "name_mr": "",
+    "code": "566971",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566943",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Maneri",
+    "name_mr": "",
+    "code": "566943",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566977",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Mangeli",
+    "name_mr": "",
+    "code": "566977",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566976",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Khokaral",
+    "name_mr": "",
+    "code": "566976",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566924",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kumbhavade",
+    "name_mr": "",
+    "code": "566924",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566969",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Bodan",
+    "name_mr": "",
+    "code": "566969",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566968",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Khanyale",
+    "name_mr": "",
+    "code": "566968",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566972",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Zare",
+    "name_mr": "",
+    "code": "566972",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566974",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Zare 2",
+    "name_mr": "",
+    "code": "566974",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566973",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Zare 1",
+    "name_mr": "",
+    "code": "566973",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566941",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kudase",
+    "name_mr": "",
+    "code": "566941",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566942",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Kudase Kh",
+    "name_mr": "",
+    "code": "566942",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566938",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Sasoli",
+    "name_mr": "",
+    "code": "566938",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  },
+  {
+    "village_id": "v-566939",
+    "district_id": "sindhudurg",
+    "taluka_id": "dodamarg",
+    "name_en": "Sasoli Kh",
+    "name_mr": "",
+    "code": "566939",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/dodamarg.geojson"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-548663",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Jatwa",
+    "name_mr": "",
+    "code": "548663",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548660",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "548660",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548662",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "548662",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548661",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Kanhegaon",
+    "name_mr": "",
+    "code": "548661",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548668",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Chincholi (Nakib)",
+    "name_mr": "",
+    "code": "548668",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548664",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Umravati",
+    "name_mr": "",
+    "code": "548664",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548671",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wawana",
+    "name_mr": "",
+    "code": "548671",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548673",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Padali Wawana",
+    "name_mr": "",
+    "code": "548673",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548674",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "548674",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548672",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Lalwan",
+    "name_mr": "",
+    "code": "548672",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548665",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Bodhegaon BK",
+    "name_mr": "",
+    "code": "548665",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548667",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Babra",
+    "name_mr": "",
+    "code": "548667",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548670",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Sonari KH",
+    "name_mr": "",
+    "code": "548670",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548669",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Sonari BK",
+    "name_mr": "",
+    "code": "548669",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548666",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Bodhegaon KH",
+    "name_mr": "",
+    "code": "548666",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548679",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "548679",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548675",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Nidhona",
+    "name_mr": "",
+    "code": "548675",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548676",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "548676",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548681",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Alad",
+    "name_mr": "",
+    "code": "548681",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548680",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "548680",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548682",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Satala BK",
+    "name_mr": "",
+    "code": "548682",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548684",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Satal Pimpri",
+    "name_mr": "",
+    "code": "548684",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548677",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Babhulgaon Kh",
+    "name_mr": "",
+    "code": "548677",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548678",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Mamnabad",
+    "name_mr": "",
+    "code": "548678",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548687",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wahegaon",
+    "name_mr": "",
+    "code": "548687",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548686",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Leha Babra",
+    "name_mr": "",
+    "code": "548686",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548685",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wiramgaon",
+    "name_mr": "",
+    "code": "548685",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548693",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Adgaon Bk",
+    "name_mr": "",
+    "code": "548693",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548692",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Dongargaon Shev",
+    "name_mr": "",
+    "code": "548692",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548698",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Borgaon Arj",
+    "name_mr": "",
+    "code": "548698",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548696",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wadod KH",
+    "name_mr": "",
+    "code": "548696",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548683",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Gumastala",
+    "name_mr": "",
+    "code": "548683",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548688",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Shirodi BK",
+    "name_mr": "",
+    "code": "548688",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548694",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wakod",
+    "name_mr": "",
+    "code": "548694",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548705",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wadod Bajar",
+    "name_mr": "",
+    "code": "548705",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548695",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Mahal Kinhola",
+    "name_mr": "",
+    "code": "548695",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548697",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Shevta BK",
+    "name_mr": "",
+    "code": "548697",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548699",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pedgaon Alad",
+    "name_mr": "",
+    "code": "548699",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548724",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pal",
+    "name_mr": "",
+    "code": "548724",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548723",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Malodyachiwadi",
+    "name_mr": "",
+    "code": "548723",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548704",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Shevta KH",
+    "name_mr": "",
+    "code": "548704",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548708",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pathri",
+    "name_mr": "",
+    "code": "548708",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548720",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pimpalgaon Walan",
+    "name_mr": "",
+    "code": "548720",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548703",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Jalgaon Mete",
+    "name_mr": "",
+    "code": "548703",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548701",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "548701",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548700",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Nimkheda",
+    "name_mr": "",
+    "code": "548700",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548721",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Kanhori",
+    "name_mr": "",
+    "code": "548721",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548691",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Shirodi KH",
+    "name_mr": "",
+    "code": "548691",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548702",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Georai Paiga",
+    "name_mr": "",
+    "code": "548702",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548707",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Kawitkheda",
+    "name_mr": "",
+    "code": "548707",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548711",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Bhawadi",
+    "name_mr": "",
+    "code": "548711",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548706",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Bhalgaon",
+    "name_mr": "",
+    "code": "548706",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548722",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Lahanyachiwadi",
+    "name_mr": "",
+    "code": "548722",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548713",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Georai Gungi",
+    "name_mr": "",
+    "code": "548713",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548712",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Selgaon",
+    "name_mr": "",
+    "code": "548712",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548710",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Narla",
+    "name_mr": "",
+    "code": "548710",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548732",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wanegaon BK",
+    "name_mr": "",
+    "code": "548732",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548709",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Waghalagaon",
+    "name_mr": "",
+    "code": "548709",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548717",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Wanegaon KH",
+    "name_mr": "",
+    "code": "548717",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-276353",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Phulambri (NP)",
+    "name_mr": "",
+    "code": "276353",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548718",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pimpalgaondeo",
+    "name_mr": "",
+    "code": "548718",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548725",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Dongargaon Kawad",
+    "name_mr": "",
+    "code": "548725",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548719",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Mhasla",
+    "name_mr": "",
+    "code": "548719",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548689",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Janefal",
+    "name_mr": "",
+    "code": "548689",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548726",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Bhoygaon",
+    "name_mr": "",
+    "code": "548726",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548714",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Adgaon Kh",
+    "name_mr": "",
+    "code": "548714",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548731",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Relgaon",
+    "name_mr": "",
+    "code": "548731",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548715",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Ranjangaon",
+    "name_mr": "",
+    "code": "548715",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548727",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pimpalgaon Gangdeo",
+    "name_mr": "",
+    "code": "548727",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548690",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "548690",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548733",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Waregaon",
+    "name_mr": "",
+    "code": "548733",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548729",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Daregaon",
+    "name_mr": "",
+    "code": "548729",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548728",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Sultanwadi",
+    "name_mr": "",
+    "code": "548728",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548734",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Kingaon",
+    "name_mr": "",
+    "code": "548734",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548737",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Bilda",
+    "name_mr": "",
+    "code": "548737",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548735",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Ganori",
+    "name_mr": "",
+    "code": "548735",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548736",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Murshadabadwadi",
+    "name_mr": "",
+    "code": "548736",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548738",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Sanjul",
+    "name_mr": "",
+    "code": "548738",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548741",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "548741",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548745",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Waghola",
+    "name_mr": "",
+    "code": "548745",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548740",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Chincholi BK",
+    "name_mr": "",
+    "code": "548740",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548716",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pirbawada",
+    "name_mr": "",
+    "code": "548716",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548742",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Jategaon",
+    "name_mr": "",
+    "code": "548742",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548743",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Girsawali",
+    "name_mr": "",
+    "code": "548743",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548744",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "548744",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548747",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Marsawali",
+    "name_mr": "",
+    "code": "548747",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548746",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Nandra",
+    "name_mr": "",
+    "code": "548746",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548659",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Pophala",
+    "name_mr": "",
+    "code": "548659",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548658",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "548658",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548657",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Takli Kolte",
+    "name_mr": "",
+    "code": "548657",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  },
+  {
+    "village_id": "v-548656",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "phulambri",
+    "name_en": "Ridhora",
+    "name_mr": "",
+    "code": "548656",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/phulambri.geojson"
+  }
+]

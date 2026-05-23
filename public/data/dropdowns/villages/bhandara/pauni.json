@@ -1,0 +1,1523 @@
+[
+  {
+    "village_id": "v-537277",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bhikarminsi",
+    "name_mr": "",
+    "code": "537277",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537278",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Minsi",
+    "name_mr": "",
+    "code": "537278",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537280",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Segaon",
+    "name_mr": "",
+    "code": "537280",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "purkabori-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "PURKABORI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537279",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Tirri",
+    "name_mr": "",
+    "code": "537279",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537276",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pannasi",
+    "name_mr": "",
+    "code": "537276",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537275",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kalewada",
+    "name_mr": "",
+    "code": "537275",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537273",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sawargaon (Nerala)",
+    "name_mr": "",
+    "code": "537273",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537281",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Rengepar (Rithi)",
+    "name_mr": "",
+    "code": "537281",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537274",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nerala",
+    "name_mr": "",
+    "code": "537274",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537284",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kamkazari",
+    "name_mr": "",
+    "code": "537284",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537283",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khairi (Tirri)",
+    "name_mr": "",
+    "code": "537283",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537282",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Tambekhani",
+    "name_mr": "",
+    "code": "537282",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537285",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Adyal",
+    "name_mr": "",
+    "code": "537285",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537287",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Saundal",
+    "name_mr": "",
+    "code": "537287",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537301",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Salewada",
+    "name_mr": "",
+    "code": "537301",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537303",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bhivkhidki",
+    "name_mr": "",
+    "code": "537303",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537305",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kesalapuri",
+    "name_mr": "",
+    "code": "537305",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537286",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Surbodi",
+    "name_mr": "",
+    "code": "537286",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537304",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Telpendhari",
+    "name_mr": "",
+    "code": "537304",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537300",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chikhali (Adyal)",
+    "name_mr": "",
+    "code": "537300",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537309",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Katurli",
+    "name_mr": "",
+    "code": "537309",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537302",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kesalwada (Chikhali)",
+    "name_mr": "",
+    "code": "537302",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537288",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khapari (Saundad)",
+    "name_mr": "",
+    "code": "537288",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537310",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pilandri",
+    "name_mr": "",
+    "code": "537310",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537289",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pathari (Chichal)",
+    "name_mr": "",
+    "code": "537289",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537306",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Umari (Adyal)",
+    "name_mr": "",
+    "code": "537306",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537298",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nevegaon Alias Palepar",
+    "name_mr": "",
+    "code": "537298",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537299",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sonegaon (Virli)",
+    "name_mr": "",
+    "code": "537299",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537297",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chichbodi",
+    "name_mr": "",
+    "code": "537297",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "kadurli-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "KADURLI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537308",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Somanala Kh.",
+    "name_mr": "",
+    "code": "537308",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537307",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Virali (Khandar)",
+    "name_mr": "",
+    "code": "537307",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537290",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "537290",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537317",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khambadi",
+    "name_mr": "",
+    "code": "537317",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537291",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Malchi",
+    "name_mr": "",
+    "code": "537291",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537312",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Akot",
+    "name_mr": "",
+    "code": "537312",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537318",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kodurli",
+    "name_mr": "",
+    "code": "537318",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537314",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kosara",
+    "name_mr": "",
+    "code": "537314",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537294",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "537294",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537316",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pimpalgaon (Nipani)",
+    "name_mr": "",
+    "code": "537316",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537352",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Borgaon (Asgaon)",
+    "name_mr": "",
+    "code": "537352",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537315",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Somanala Bk.",
+    "name_mr": "",
+    "code": "537315",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537313",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nirgudi",
+    "name_mr": "",
+    "code": "537313",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537311",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Wasela",
+    "name_mr": "",
+    "code": "537311",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537322",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bhawad",
+    "name_mr": "",
+    "code": "537322",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537321",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Fanoli",
+    "name_mr": "",
+    "code": "537321",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537293",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Gose Kh.",
+    "name_mr": "",
+    "code": "537293",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537320",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Atri",
+    "name_mr": "",
+    "code": "537320",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537323",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sendri Kh.",
+    "name_mr": "",
+    "code": "537323",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537326",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kurza",
+    "name_mr": "",
+    "code": "537326",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537325",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Lonhara",
+    "name_mr": "",
+    "code": "537325",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537333",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Ambadi (Navegaon)",
+    "name_mr": "",
+    "code": "537333",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537332",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khairi (Telota)",
+    "name_mr": "",
+    "code": "537332",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537362",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mujbi",
+    "name_mr": "",
+    "code": "537362",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537363",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Thana (Korambi)",
+    "name_mr": "",
+    "code": "537363",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537331",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Thana (Navegal)",
+    "name_mr": "",
+    "code": "537331",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537329",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Palora (Chauras)",
+    "name_mr": "",
+    "code": "537329",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537330",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sendri Bk.",
+    "name_mr": "",
+    "code": "537330",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "thana-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "THANA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537334",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Navegaon (Brahmi)",
+    "name_mr": "",
+    "code": "537334",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537359",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Parsodi (Gaidongri)",
+    "name_mr": "",
+    "code": "537359",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537364",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Korambhi (Khapri)",
+    "name_mr": "",
+    "code": "537364",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537345",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Ranala",
+    "name_mr": "",
+    "code": "537345",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537347",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Brahmi",
+    "name_mr": "",
+    "code": "537347",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537327",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Itgaon (Kurza)",
+    "name_mr": "",
+    "code": "537327",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537328",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Brahmani (Sindpuri)",
+    "name_mr": "",
+    "code": "537328",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537361",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khapari (Korambhi)",
+    "name_mr": "",
+    "code": "537361",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537340",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mokhara",
+    "name_mr": "",
+    "code": "537340",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537346",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nighavi",
+    "name_mr": "",
+    "code": "537346",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537365",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khaksi",
+    "name_mr": "",
+    "code": "537365",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537341",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khairi (Diwan)",
+    "name_mr": "",
+    "code": "537341",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537348",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bachewadi",
+    "name_mr": "",
+    "code": "537348",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "gaidongri-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "GAIDONGRI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537360",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mahalgaon (Parsodi)",
+    "name_mr": "",
+    "code": "537360",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537344",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Asgaon",
+    "name_mr": "",
+    "code": "537344",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537339",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bhendara",
+    "name_mr": "",
+    "code": "537339",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537338",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Wadegaon (Sindpuri)",
+    "name_mr": "",
+    "code": "537338",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537369",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Gaidongari",
+    "name_mr": "",
+    "code": "537369",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537336",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sindpuri (Pauni)",
+    "name_mr": "",
+    "code": "537336",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537366",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nagangaon",
+    "name_mr": "",
+    "code": "537366",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537335",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Ruyad",
+    "name_mr": "",
+    "code": "537335",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-248077",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pauni (M Cl)",
+    "name_mr": "",
+    "code": "248077",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537337",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Yenoda",
+    "name_mr": "",
+    "code": "537337",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537342",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Junona",
+    "name_mr": "",
+    "code": "537342",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537426",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Shivnala (Gondi)",
+    "name_mr": "",
+    "code": "537426",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537370",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kawadsi (Parsodi)",
+    "name_mr": "",
+    "code": "537370",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537350",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mohari",
+    "name_mr": "",
+    "code": "537350",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537349",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "537349",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537351",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Lawadi",
+    "name_mr": "",
+    "code": "537351",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537368",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chichgaon",
+    "name_mr": "",
+    "code": "537368",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537372",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chichkheda",
+    "name_mr": "",
+    "code": "537372",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537371",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Murmadi",
+    "name_mr": "",
+    "code": "537371",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537353",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Walani",
+    "name_mr": "",
+    "code": "537353",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537319",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Borgaon (Khambadi)",
+    "name_mr": "",
+    "code": "537319",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537374",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Jogikheda (Hamesha)",
+    "name_mr": "",
+    "code": "537374",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537381",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chandakapur (I)",
+    "name_mr": "",
+    "code": "537381",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537378",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "537378",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537375",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "537375",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537376",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Avatgaon",
+    "name_mr": "",
+    "code": "537376",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537373",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pahungaon",
+    "name_mr": "",
+    "code": "537373",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537380",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Belgata",
+    "name_mr": "",
+    "code": "537380",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537382",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kodurli(Khambadi)",
+    "name_mr": "",
+    "code": "537382",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537377",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "537377",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537354",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pauna Kh.",
+    "name_mr": "",
+    "code": "537354",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537388",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Wahi",
+    "name_mr": "",
+    "code": "537388",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537355",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mangali (Chauras)",
+    "name_mr": "",
+    "code": "537355",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537390",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Rajkota",
+    "name_mr": "",
+    "code": "537390",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537387",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Garadapur",
+    "name_mr": "",
+    "code": "537387",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537356",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Visapur",
+    "name_mr": "",
+    "code": "537356",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537357",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Umari (Visapur)",
+    "name_mr": "",
+    "code": "537357",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537383",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Rewani",
+    "name_mr": "",
+    "code": "537383",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537379",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Betala (Pauni)",
+    "name_mr": "",
+    "code": "537379",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537358",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pauna Bk.",
+    "name_mr": "",
+    "code": "537358",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537394",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Jogikheda",
+    "name_mr": "",
+    "code": "537394",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537413",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Dhanori",
+    "name_mr": "",
+    "code": "537413",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537389",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Lohara (Wahi)",
+    "name_mr": "",
+    "code": "537389",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537384",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Selari",
+    "name_mr": "",
+    "code": "537384",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537386",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kachekhani",
+    "name_mr": "",
+    "code": "537386",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537385",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Welwa",
+    "name_mr": "",
+    "code": "537385",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "bedurtal-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "BEDURTAL RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537395",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Ranala Alias Ahnapurna",
+    "name_mr": "",
+    "code": "537395",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537391",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nishti",
+    "name_mr": "",
+    "code": "537391",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537415",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bhojapur (Pauni)",
+    "name_mr": "",
+    "code": "537415",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "nishti-reservfd-orest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "NISHTI RESERVFD OREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537410",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Rohana (Wahi)",
+    "name_mr": "",
+    "code": "537410",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537409",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Singori (Wahi)",
+    "name_mr": "",
+    "code": "537409",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537393",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kotalpar",
+    "name_mr": "",
+    "code": "537393",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537392",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Salebhatti",
+    "name_mr": "",
+    "code": "537392",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537408",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Singora (Hamesha)",
+    "name_mr": "",
+    "code": "537408",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "erwa-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "ERWA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537416",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Gudegaon",
+    "name_mr": "",
+    "code": "537416",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537396",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nilaj (Amgaon)",
+    "name_mr": "",
+    "code": "537396",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537414",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sindhi",
+    "name_mr": "",
+    "code": "537414",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537402",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Amgaon (Adarsh)",
+    "name_mr": "",
+    "code": "537402",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537411",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sirsala",
+    "name_mr": "",
+    "code": "537411",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537417",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khatkheda",
+    "name_mr": "",
+    "code": "537417",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537405",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Waigaon",
+    "name_mr": "",
+    "code": "537405",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537404",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Thanegaon",
+    "name_mr": "",
+    "code": "537404",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537418",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Vilam",
+    "name_mr": "",
+    "code": "537418",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537397",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Tekadi",
+    "name_mr": "",
+    "code": "537397",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537401",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Panjarepar",
+    "name_mr": "",
+    "code": "537401",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537412",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mandavgota",
+    "name_mr": "",
+    "code": "537412",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537403",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khapari (Bhugar)",
+    "name_mr": "",
+    "code": "537403",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537407",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Asgaon",
+    "name_mr": "",
+    "code": "537407",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537400",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mendhegaon",
+    "name_mr": "",
+    "code": "537400",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537421",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Sedisomnala",
+    "name_mr": "",
+    "code": "537421",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537398",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Dhakundi",
+    "name_mr": "",
+    "code": "537398",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537406",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Bhuyar",
+    "name_mr": "",
+    "code": "537406",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537419",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Savarla",
+    "name_mr": "",
+    "code": "537419",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537420",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Nandikheda",
+    "name_mr": "",
+    "code": "537420",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537422",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khokari Dhorap",
+    "name_mr": "",
+    "code": "537422",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537399",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kakepar",
+    "name_mr": "",
+    "code": "537399",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537423",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kanhalgaon (Somnala)",
+    "name_mr": "",
+    "code": "537423",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537343",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Shivnala",
+    "name_mr": "",
+    "code": "537343",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537425",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kisanpur (Hamesha)",
+    "name_mr": "",
+    "code": "537425",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537424",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pradhan (Dhorap)",
+    "name_mr": "",
+    "code": "537424",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537427",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chandi",
+    "name_mr": "",
+    "code": "537427",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537428",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Channewada",
+    "name_mr": "",
+    "code": "537428",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537296",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chakara",
+    "name_mr": "",
+    "code": "537296",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-944329",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "944329",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537295",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chichal",
+    "name_mr": "",
+    "code": "537295",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-651897",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Pathari (RHV)",
+    "name_mr": "",
+    "code": "651897",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537292",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Gose Bk.",
+    "name_mr": "",
+    "code": "537292",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-944325",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Mendha (RHV)",
+    "name_mr": "",
+    "code": "944325",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537324",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kondha",
+    "name_mr": "",
+    "code": "537324",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-651899",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Malchi",
+    "name_mr": "",
+    "code": "651899",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-537367",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Kosambodi",
+    "name_mr": "",
+    "code": "537367",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  },
+  {
+    "village_id": "v-944327",
+    "district_id": "bhandara",
+    "taluka_id": "pauni",
+    "name_en": "Chichkheda",
+    "name_mr": "",
+    "code": "944327",
+    "boundary_file": "/data/boundaries/villages/bhandara/pauni.geojson"
+  }
+]

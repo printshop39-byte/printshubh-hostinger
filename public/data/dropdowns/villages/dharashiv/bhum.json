@@ -1,0 +1,866 @@
+[
+  {
+    "village_id": "v-561134",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Tambewadi",
+    "name_mr": "",
+    "code": "561134",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561225",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Gikhali",
+    "name_mr": "",
+    "code": "561225",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561226",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Sannewadi",
+    "name_mr": "",
+    "code": "561226",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561227",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Anjan soda",
+    "name_mr": "",
+    "code": "561227",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561228",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Chandwad",
+    "name_mr": "",
+    "code": "561228",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561229",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ghatnandur",
+    "name_mr": "",
+    "code": "561229",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561143",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Jotibachiwadi",
+    "name_mr": "",
+    "code": "561143",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561160",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Antarwali",
+    "name_mr": "",
+    "code": "561160",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561159",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Nali",
+    "name_mr": "",
+    "code": "561159",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561145",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Naliwadgaon",
+    "name_mr": "",
+    "code": "561145",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561147",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Dudhodi",
+    "name_mr": "",
+    "code": "561147",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561148",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Umachiwadi",
+    "name_mr": "",
+    "code": "561148",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561161",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Tintraj",
+    "name_mr": "",
+    "code": "561161",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561146",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "561146",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561150",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Wadachiwadi",
+    "name_mr": "",
+    "code": "561150",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561153",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Pathrud",
+    "name_mr": "",
+    "code": "561153",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561162",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Jejla",
+    "name_mr": "",
+    "code": "561162",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561206",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Dukkarwadi",
+    "name_mr": "",
+    "code": "561206",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561156",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Jamb",
+    "name_mr": "",
+    "code": "561156",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561205",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bhawanwadi",
+    "name_mr": "",
+    "code": "561205",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561135",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Nipani",
+    "name_mr": "",
+    "code": "561135",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561137",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "561137",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561138",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Andrud",
+    "name_mr": "",
+    "code": "561138",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561141",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ieet",
+    "name_mr": "",
+    "code": "561141",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561142",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Pakhrud",
+    "name_mr": "",
+    "code": "561142",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561139",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Pandharewadi",
+    "name_mr": "",
+    "code": "561139",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561140",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Dokewadi",
+    "name_mr": "",
+    "code": "561140",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561144",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Giralgaon",
+    "name_mr": "",
+    "code": "561144",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561165",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "561165",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561163",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Dandegaon",
+    "name_mr": "",
+    "code": "561163",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561207",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ramkund",
+    "name_mr": "",
+    "code": "561207",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561203",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Padoli",
+    "name_mr": "",
+    "code": "561203",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561166",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ambi",
+    "name_mr": "",
+    "code": "561166",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561164",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Birobachiwadi",
+    "name_mr": "",
+    "code": "561164",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561154",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bedarwadi",
+    "name_mr": "",
+    "code": "561154",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561158",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Matrewadi",
+    "name_mr": "",
+    "code": "561158",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561208",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Wakwad",
+    "name_mr": "",
+    "code": "561208",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561204",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Sukta",
+    "name_mr": "",
+    "code": "561204",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561209",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Songiri",
+    "name_mr": "",
+    "code": "561209",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561155",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Jayavantnagar",
+    "name_mr": "",
+    "code": "561155",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561187",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "561187",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561185",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Panhalwadi",
+    "name_mr": "",
+    "code": "561185",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561184",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bavi",
+    "name_mr": "",
+    "code": "561184",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561211",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ulup",
+    "name_mr": "",
+    "code": "561211",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561210",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Rameshwar",
+    "name_mr": "",
+    "code": "561210",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561183",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ralesangvi",
+    "name_mr": "",
+    "code": "561183",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561168",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Aliyabadwadi",
+    "name_mr": "",
+    "code": "561168",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561218",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bhongiri",
+    "name_mr": "",
+    "code": "561218",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561190",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Hiwarda",
+    "name_mr": "",
+    "code": "561190",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561189",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bhawanwadi",
+    "name_mr": "",
+    "code": "561189",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561191",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Patsangvi",
+    "name_mr": "",
+    "code": "561191",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561217",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "561217",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561188",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "561188",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561220",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Hadongi",
+    "name_mr": "",
+    "code": "561220",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561195",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Gormala",
+    "name_mr": "",
+    "code": "561195",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561212",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Barhanpur",
+    "name_mr": "",
+    "code": "561212",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561194",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Chumbli",
+    "name_mr": "",
+    "code": "561194",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561193",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Walwad",
+    "name_mr": "",
+    "code": "561193",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561221",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "561221",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561216",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Warewadgaon",
+    "name_mr": "",
+    "code": "561216",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561213",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "561213",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561192",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Walha",
+    "name_mr": "",
+    "code": "561192",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561222",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Dindori",
+    "name_mr": "",
+    "code": "561222",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561214",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bhogalgaon",
+    "name_mr": "",
+    "code": "561214",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561196",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Sadesangvi",
+    "name_mr": "",
+    "code": "561196",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561223",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Wanjarwadi",
+    "name_mr": "",
+    "code": "561223",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561215",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Nawalgaon",
+    "name_mr": "",
+    "code": "561215",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561198",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Chinchpur (D)",
+    "name_mr": "",
+    "code": "561198",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561224",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Arsoli",
+    "name_mr": "",
+    "code": "561224",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561175",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "561175",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561200",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Samangaon",
+    "name_mr": "",
+    "code": "561200",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561197",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Rosamba",
+    "name_mr": "",
+    "code": "561197",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561199",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ganegaon",
+    "name_mr": "",
+    "code": "561199",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561177",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "561177",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561176",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ashtewadi",
+    "name_mr": "",
+    "code": "561176",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561174",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "561174",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561202",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "561202",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561201",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "561201",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561178",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Devangra",
+    "name_mr": "",
+    "code": "561178",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561179",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Shekhapur",
+    "name_mr": "",
+    "code": "561179",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561169",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "561169",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561172",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Kanadi",
+    "name_mr": "",
+    "code": "561172",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561173",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Wangi kh.",
+    "name_mr": "",
+    "code": "561173",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561182",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Deolali",
+    "name_mr": "",
+    "code": "561182",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561171",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Ida",
+    "name_mr": "",
+    "code": "561171",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561170",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Pida",
+    "name_mr": "",
+    "code": "561170",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561180",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Wangi Bk.",
+    "name_mr": "",
+    "code": "561180",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561181",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Mankeshwar",
+    "name_mr": "",
+    "code": "561181",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561136",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Lanjeshwar",
+    "name_mr": "",
+    "code": "561136",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-251567",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bhum (M Cl)",
+    "name_mr": "",
+    "code": "251567",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561151",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Nannajwadi (N.V.)",
+    "name_mr": "",
+    "code": "561151",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561152",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Bagalwadi",
+    "name_mr": "",
+    "code": "561152",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561167",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Hangewadi",
+    "name_mr": "",
+    "code": "561167",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561157",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Irachiwadi",
+    "name_mr": "",
+    "code": "561157",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561186",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Burudwadi",
+    "name_mr": "",
+    "code": "561186",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  },
+  {
+    "village_id": "v-561149",
+    "district_id": "dharashiv",
+    "taluka_id": "bhum",
+    "name_en": "Nagewadi",
+    "name_mr": "",
+    "code": "561149",
+    "boundary_file": "/data/boundaries/villages/dharashiv/bhum.geojson"
+  }
+]

@@ -1,0 +1,1496 @@
+[
+  {
+    "village_id": "v-526556",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sanjori",
+    "name_mr": "",
+    "code": "526556",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526584",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nandre",
+    "name_mr": "",
+    "code": "526584",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526578",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Gotane",
+    "name_mr": "",
+    "code": "526578",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526531",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Ajang",
+    "name_mr": "",
+    "code": "526531",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526529",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nandale KH",
+    "name_mr": "",
+    "code": "526529",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526530",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kasvihir",
+    "name_mr": "",
+    "code": "526530",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526532",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kalkhede",
+    "name_mr": "",
+    "code": "526532",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526521",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Vadjai",
+    "name_mr": "",
+    "code": "526521",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526572",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahal Londha",
+    "name_mr": "",
+    "code": "526572",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526576",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Morane Pr.ner",
+    "name_mr": "",
+    "code": "526576",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526581",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Lonkhedi",
+    "name_mr": "",
+    "code": "526581",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526526",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Malane",
+    "name_mr": "",
+    "code": "526526",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526515",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Vani Bk.",
+    "name_mr": "",
+    "code": "526515",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526527",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Ambode",
+    "name_mr": "",
+    "code": "526527",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526535",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mukati",
+    "name_mr": "",
+    "code": "526535",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526580",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Lohgad",
+    "name_mr": "",
+    "code": "526580",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526582",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Deur Kh",
+    "name_mr": "",
+    "code": "526582",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526519",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Fagne",
+    "name_mr": "",
+    "code": "526519",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526557",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kundane-war",
+    "name_mr": "",
+    "code": "526557",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526579",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Chaugaon",
+    "name_mr": "",
+    "code": "526579",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526555",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Udane",
+    "name_mr": "",
+    "code": "526555",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526528",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nagaon KH",
+    "name_mr": "",
+    "code": "526528",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526621",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Ratanpura",
+    "name_mr": "",
+    "code": "526621",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526599",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sonewadi",
+    "name_mr": "",
+    "code": "526599",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526611",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Shirud",
+    "name_mr": "",
+    "code": "526611",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526612",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "526612",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526616",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Vani Kh.",
+    "name_mr": "",
+    "code": "526616",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526619",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dondwad",
+    "name_mr": "",
+    "code": "526619",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526618",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Vinchur",
+    "name_mr": "",
+    "code": "526618",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526607",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bendrepada",
+    "name_mr": "",
+    "code": "526607",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526605",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhadri",
+    "name_mr": "",
+    "code": "526605",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526606",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Purmepada",
+    "name_mr": "",
+    "code": "526606",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526604",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhadre",
+    "name_mr": "",
+    "code": "526604",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526617",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Khordad",
+    "name_mr": "",
+    "code": "526617",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526603",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mandal",
+    "name_mr": "",
+    "code": "526603",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526620",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Borkund",
+    "name_mr": "",
+    "code": "526620",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526627",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Chande",
+    "name_mr": "",
+    "code": "526627",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526629",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mordad Tanda",
+    "name_mr": "",
+    "code": "526629",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526622",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Horpada",
+    "name_mr": "",
+    "code": "526622",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526608",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kulthe",
+    "name_mr": "",
+    "code": "526608",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526628",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mordad",
+    "name_mr": "",
+    "code": "526628",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526624",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nane",
+    "name_mr": "",
+    "code": "526624",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526626",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Tarwade",
+    "name_mr": "",
+    "code": "526626",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526623",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nandale BK",
+    "name_mr": "",
+    "code": "526623",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526625",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sitane",
+    "name_mr": "",
+    "code": "526625",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526466",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Behed",
+    "name_mr": "",
+    "code": "526466",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526465",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Lamkani",
+    "name_mr": "",
+    "code": "526465",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526467",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Rami",
+    "name_mr": "",
+    "code": "526467",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526468",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Boris",
+    "name_mr": "",
+    "code": "526468",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526483",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Songir",
+    "name_mr": "",
+    "code": "526483",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526472",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nandane",
+    "name_mr": "",
+    "code": "526472",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526485",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dapuri",
+    "name_mr": "",
+    "code": "526485",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526470",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Wadne",
+    "name_mr": "",
+    "code": "526470",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526475",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Borsule",
+    "name_mr": "",
+    "code": "526475",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526476",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Navakothare",
+    "name_mr": "",
+    "code": "526476",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526486",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Tamaswadi",
+    "name_mr": "",
+    "code": "526486",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526484",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dapura",
+    "name_mr": "",
+    "code": "526484",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526477",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Saitale",
+    "name_mr": "",
+    "code": "526477",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526471",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Burzad",
+    "name_mr": "",
+    "code": "526471",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526487",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhanur",
+    "name_mr": "",
+    "code": "526487",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526474",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nikumbhe",
+    "name_mr": "",
+    "code": "526474",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526488",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Lonkute",
+    "name_mr": "",
+    "code": "526488",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526489",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sarvad",
+    "name_mr": "",
+    "code": "526489",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526473",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sayane",
+    "name_mr": "",
+    "code": "526473",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526478",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Chinchwar",
+    "name_mr": "",
+    "code": "526478",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526491",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kapadne",
+    "name_mr": "",
+    "code": "526491",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526505",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Henkalwadi",
+    "name_mr": "",
+    "code": "526505",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526492",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kauthal",
+    "name_mr": "",
+    "code": "526492",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526506",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mohadi Pr.dangari",
+    "name_mr": "",
+    "code": "526506",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526479",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Shirdane Pr.ner",
+    "name_mr": "",
+    "code": "526479",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526490",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Deobhane",
+    "name_mr": "",
+    "code": "526490",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526499",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Wadel",
+    "name_mr": "",
+    "code": "526499",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526493",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nyahalod",
+    "name_mr": "",
+    "code": "526493",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526498",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Tisgaon",
+    "name_mr": "",
+    "code": "526498",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526481",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mehergaon",
+    "name_mr": "",
+    "code": "526481",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526507",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sukawad Pr. Dangari",
+    "name_mr": "",
+    "code": "526507",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526469",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bamburle.pr.ner.",
+    "name_mr": "",
+    "code": "526469",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526497",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhandhane",
+    "name_mr": "",
+    "code": "526497",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526565",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Khandlai Kh.",
+    "name_mr": "",
+    "code": "526565",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526480",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Navalane",
+    "name_mr": "",
+    "code": "526480",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526482",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kawathi",
+    "name_mr": "",
+    "code": "526482",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526549",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nimdale",
+    "name_mr": "",
+    "code": "526549",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526496",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhodi",
+    "name_mr": "",
+    "code": "526496",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526494",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhamane",
+    "name_mr": "",
+    "code": "526494",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526509",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Satarne",
+    "name_mr": "",
+    "code": "526509",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526508",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Vishwanath",
+    "name_mr": "",
+    "code": "526508",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526564",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Khandlai Bk.",
+    "name_mr": "",
+    "code": "526564",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526495",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "526495",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526501",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Biladi",
+    "name_mr": "",
+    "code": "526501",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526502",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Japi",
+    "name_mr": "",
+    "code": "526502",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526510",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nawra",
+    "name_mr": "",
+    "code": "526510",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526550",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Gondur",
+    "name_mr": "",
+    "code": "526550",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526570",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bhadane",
+    "name_mr": "",
+    "code": "526570",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526566",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nurnagar",
+    "name_mr": "",
+    "code": "526566",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526512",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Shirdhane Pr.dangari",
+    "name_mr": "",
+    "code": "526512",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526575",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Aklad",
+    "name_mr": "",
+    "code": "526575",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526548",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sutare Pada",
+    "name_mr": "",
+    "code": "526548",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526516",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Arni",
+    "name_mr": "",
+    "code": "526516",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526511",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nawri",
+    "name_mr": "",
+    "code": "526511",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526504",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kundane (warkhede)",
+    "name_mr": "",
+    "code": "526504",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526513",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "526513",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526553",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "War",
+    "name_mr": "",
+    "code": "526553",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526573",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahal Kasad",
+    "name_mr": "",
+    "code": "526573",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526574",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahalmali",
+    "name_mr": "",
+    "code": "526574",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526567",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahal Kandamana",
+    "name_mr": "",
+    "code": "526567",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526571",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahal Pandhari",
+    "name_mr": "",
+    "code": "526571",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526514",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nawalnagar",
+    "name_mr": "",
+    "code": "526514",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526569",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahal Kali",
+    "name_mr": "",
+    "code": "526569",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526568",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Mahal Raiwat",
+    "name_mr": "",
+    "code": "526568",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526503",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nimkhedi",
+    "name_mr": "",
+    "code": "526503",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526583",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Deur Bk",
+    "name_mr": "",
+    "code": "526583",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526554",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Anandkhede",
+    "name_mr": "",
+    "code": "526554",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526577",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kusumbe",
+    "name_mr": "",
+    "code": "526577",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526591",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dahyane",
+    "name_mr": "",
+    "code": "526591",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526585",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Ubhand",
+    "name_mr": "",
+    "code": "526585",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526589",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Padalde",
+    "name_mr": "",
+    "code": "526589",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526560",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Raver",
+    "name_mr": "",
+    "code": "526560",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526522",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Saundane",
+    "name_mr": "",
+    "code": "526522",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526587",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Hingane",
+    "name_mr": "",
+    "code": "526587",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526590",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Balhane",
+    "name_mr": "",
+    "code": "526590",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526586",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Pimparkhede",
+    "name_mr": "",
+    "code": "526586",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526536",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bhirdai",
+    "name_mr": "",
+    "code": "526536",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526561",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Savalde",
+    "name_mr": "",
+    "code": "526561",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526523",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Babhulwadi",
+    "name_mr": "",
+    "code": "526523",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526534",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bhirdane",
+    "name_mr": "",
+    "code": "526534",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526533",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Amdad",
+    "name_mr": "",
+    "code": "526533",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526539",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Chinchkhede",
+    "name_mr": "",
+    "code": "526539",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526538",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sawali Tanda",
+    "name_mr": "",
+    "code": "526538",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526588",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Ajnale",
+    "name_mr": "",
+    "code": "526588",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526596",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Sadgaon",
+    "name_mr": "",
+    "code": "526596",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526594",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Laling",
+    "name_mr": "",
+    "code": "526594",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526592",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Junnar",
+    "name_mr": "",
+    "code": "526592",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526524",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Narvhal",
+    "name_mr": "",
+    "code": "526524",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526595",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Morshevadi",
+    "name_mr": "",
+    "code": "526595",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526562",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Ranmala",
+    "name_mr": "",
+    "code": "526562",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526593",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Diwanmala",
+    "name_mr": "",
+    "code": "526593",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526525",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Gad-utar",
+    "name_mr": "",
+    "code": "526525",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526597",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Henkalwadi",
+    "name_mr": "",
+    "code": "526597",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526537",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Savali",
+    "name_mr": "",
+    "code": "526537",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526542",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Vajirkhede",
+    "name_mr": "",
+    "code": "526542",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526541",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Anchade",
+    "name_mr": "",
+    "code": "526541",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526540",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Anchade Tanda",
+    "name_mr": "",
+    "code": "526540",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526563",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Tikhi",
+    "name_mr": "",
+    "code": "526563",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526544",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Hadsuni",
+    "name_mr": "",
+    "code": "526544",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526545",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Velhane",
+    "name_mr": "",
+    "code": "526545",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526547",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Tanda (Kundane) (V)",
+    "name_mr": "",
+    "code": "526547",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526543",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Borvihir",
+    "name_mr": "",
+    "code": "526543",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526614",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Babre",
+    "name_mr": "",
+    "code": "526614",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526546",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Kundane (velhane)",
+    "name_mr": "",
+    "code": "526546",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526598",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Anakwadi",
+    "name_mr": "",
+    "code": "526598",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526600",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "526600",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526615",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nimgul",
+    "name_mr": "",
+    "code": "526615",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526609",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Junwane",
+    "name_mr": "",
+    "code": "526609",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526601",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Moghan",
+    "name_mr": "",
+    "code": "526601",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526610",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Isarne",
+    "name_mr": "",
+    "code": "526610",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526613",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bodgaon",
+    "name_mr": "",
+    "code": "526613",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526602",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Hendrun",
+    "name_mr": "",
+    "code": "526602",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-251282",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Dhule (M Corp)",
+    "name_mr": "",
+    "code": "251282",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526632",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Awadhan",
+    "name_mr": "",
+    "code": "526632",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526551",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Bhokar",
+    "name_mr": "",
+    "code": "526551",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526559",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Chitod",
+    "name_mr": "",
+    "code": "526559",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526558",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Morane Pr. Laling",
+    "name_mr": "",
+    "code": "526558",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526552",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nakane",
+    "name_mr": "",
+    "code": "526552",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526500",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Nagaon BK",
+    "name_mr": "",
+    "code": "526500",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  },
+  {
+    "village_id": "v-526517",
+    "district_id": "dhule",
+    "taluka_id": "dhule",
+    "name_en": "Varkhede",
+    "name_mr": "",
+    "code": "526517",
+    "boundary_file": "/data/boundaries/villages/dhule/dhule.geojson"
+  }
+]

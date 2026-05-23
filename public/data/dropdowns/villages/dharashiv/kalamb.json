@@ -1,0 +1,893 @@
+[
+  {
+    "village_id": "v-561285",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Umara",
+    "name_mr": "",
+    "code": "561285",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561286",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "561286",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561287",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Bahula",
+    "name_mr": "",
+    "code": "561287",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561288",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Adhala",
+    "name_mr": "",
+    "code": "561288",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561290",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Bhogaji",
+    "name_mr": "",
+    "code": "561290",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561289",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Adsulwadi",
+    "name_mr": "",
+    "code": "561289",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561296",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Satra",
+    "name_mr": "",
+    "code": "561296",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561297",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Khondala",
+    "name_mr": "",
+    "code": "561297",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561294",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Pathardi",
+    "name_mr": "",
+    "code": "561294",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561295",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Athardi",
+    "name_mr": "",
+    "code": "561295",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561291",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Gambhirwadi",
+    "name_mr": "",
+    "code": "561291",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561292",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Itkur",
+    "name_mr": "",
+    "code": "561292",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561298",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Bhatsangvi",
+    "name_mr": "",
+    "code": "561298",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "submerged-dup-33",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561299",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Hawargaon",
+    "name_mr": "",
+    "code": "561299",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561320",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Awad Shirpura",
+    "name_mr": "",
+    "code": "561320",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561300",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "561300",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561307",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Diksal",
+    "name_mr": "",
+    "code": "561307",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561321",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Saundana Amba",
+    "name_mr": "",
+    "code": "561321",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "submerged-dup-34",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561323",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Lasra",
+    "name_mr": "",
+    "code": "561323",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561322",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wakdi Istal",
+    "name_mr": "",
+    "code": "561322",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561301",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Lohata(west)",
+    "name_mr": "",
+    "code": "561301",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561309",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Hasegaon Kej",
+    "name_mr": "",
+    "code": "561309",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561293",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Kothalwadi",
+    "name_mr": "",
+    "code": "561293",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561304",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Karanjkalla",
+    "name_mr": "",
+    "code": "561304",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561324",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Ranjani",
+    "name_mr": "",
+    "code": "561324",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561325",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Ghargaon",
+    "name_mr": "",
+    "code": "561325",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561308",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "561308",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561310",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wakdikej",
+    "name_mr": "",
+    "code": "561310",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561319",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Shiradhon",
+    "name_mr": "",
+    "code": "561319",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561303",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Hingangaon",
+    "name_mr": "",
+    "code": "561303",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561318",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Dabha",
+    "name_mr": "",
+    "code": "561318",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561326",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Tadgaon",
+    "name_mr": "",
+    "code": "561326",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561306",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Pimpalgaon Dola",
+    "name_mr": "",
+    "code": "561306",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561311",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Kanherwadi",
+    "name_mr": "",
+    "code": "561311",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561313",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Andora",
+    "name_mr": "",
+    "code": "561313",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561348",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "561348",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561317",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Kothala",
+    "name_mr": "",
+    "code": "561317",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561305",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Bhatshirapura",
+    "name_mr": "",
+    "code": "561305",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561327",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Jaiphal",
+    "name_mr": "",
+    "code": "561327",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561315",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Shelka Dhanora",
+    "name_mr": "",
+    "code": "561315",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561314",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "561314",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561336",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Borwanti",
+    "name_mr": "",
+    "code": "561336",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561335",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Ekurka",
+    "name_mr": "",
+    "code": "561335",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561347",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Moha",
+    "name_mr": "",
+    "code": "561347",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561312",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Massa (kh)",
+    "name_mr": "",
+    "code": "561312",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561337",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Jawala Khurd",
+    "name_mr": "",
+    "code": "561337",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561316",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Kherda",
+    "name_mr": "",
+    "code": "561316",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561328",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Raigavhan",
+    "name_mr": "",
+    "code": "561328",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561329",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Pimpari (sh)",
+    "name_mr": "",
+    "code": "561329",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561339",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Nagulgaon",
+    "name_mr": "",
+    "code": "561339",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561330",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Borgaon Kh.",
+    "name_mr": "",
+    "code": "561330",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561352",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Khamaswadi",
+    "name_mr": "",
+    "code": "561352",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561334",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Hasegaon(shirdhon)",
+    "name_mr": "",
+    "code": "561334",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561338",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Deodhanora",
+    "name_mr": "",
+    "code": "561338",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561331",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "561331",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561332",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Padoli",
+    "name_mr": "",
+    "code": "561332",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561333",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Nipani",
+    "name_mr": "",
+    "code": "561333",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561349",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "561349",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561341",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Gaurgaon",
+    "name_mr": "",
+    "code": "561341",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561345",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Babhalgaon",
+    "name_mr": "",
+    "code": "561345",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561367",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Partapur",
+    "name_mr": "",
+    "code": "561367",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561340",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Borgaon Bk.",
+    "name_mr": "",
+    "code": "561340",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561353",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Nagzarwadi",
+    "name_mr": "",
+    "code": "561353",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561346",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Dahiphal",
+    "name_mr": "",
+    "code": "561346",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561342",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wadgaon(shirdhon)",
+    "name_mr": "",
+    "code": "561342",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561357",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Gaur",
+    "name_mr": "",
+    "code": "561357",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561354",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Baramachiwadi",
+    "name_mr": "",
+    "code": "561354",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561370",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Sapnai",
+    "name_mr": "",
+    "code": "561370",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561368",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Pangaon",
+    "name_mr": "",
+    "code": "561368",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561343",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wathawada",
+    "name_mr": "",
+    "code": "561343",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561350",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Deolali",
+    "name_mr": "",
+    "code": "561350",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561355",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Shingoli",
+    "name_mr": "",
+    "code": "561355",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561351",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Malkaranja",
+    "name_mr": "",
+    "code": "561351",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561344",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Dhorala",
+    "name_mr": "",
+    "code": "561344",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561369",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Sanjitpur",
+    "name_mr": "",
+    "code": "561369",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561376",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Dudhalwadi",
+    "name_mr": "",
+    "code": "561376",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561375",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Yermala",
+    "name_mr": "",
+    "code": "561375",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561371",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Uplai",
+    "name_mr": "",
+    "code": "561371",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561356",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "561356",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561359",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Shelgaon Divani",
+    "name_mr": "",
+    "code": "561359",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561358",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Bhosa",
+    "name_mr": "",
+    "code": "561358",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561360",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wanewadi",
+    "name_mr": "",
+    "code": "561360",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561362",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Haladgaon",
+    "name_mr": "",
+    "code": "561362",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561374",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "561374",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561361",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Satephal",
+    "name_mr": "",
+    "code": "561361",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561373",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Chorakhali",
+    "name_mr": "",
+    "code": "561373",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561363",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Saundana (Dhoki)",
+    "name_mr": "",
+    "code": "561363",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561365",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Shelgaon(jagir)",
+    "name_mr": "",
+    "code": "561365",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561364",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Yerandgaon",
+    "name_mr": "",
+    "code": "561364",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561366",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Wadgaon(jagir)",
+    "name_mr": "",
+    "code": "561366",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561372",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Baratewadi",
+    "name_mr": "",
+    "code": "561372",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561377",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Bangarwadi",
+    "name_mr": "",
+    "code": "561377",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-561302",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Lohata (east)",
+    "name_mr": "",
+    "code": "561302",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-943986",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Kalamb",
+    "name_mr": "",
+    "code": "943986",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-251568",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Kalamb (M Cl)",
+    "name_mr": "",
+    "code": "251568",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  },
+  {
+    "village_id": "v-652132",
+    "district_id": "dharashiv",
+    "taluka_id": "kalamb",
+    "name_en": "Shivpur (N.V.)",
+    "name_mr": "",
+    "code": "652132",
+    "boundary_file": "/data/boundaries/villages/dharashiv/kalamb.geojson"
+  }
+]

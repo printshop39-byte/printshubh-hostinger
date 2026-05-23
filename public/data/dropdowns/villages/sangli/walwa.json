@@ -1,0 +1,884 @@
+[
+  {
+    "village_id": "v-568323",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Lavanmachi",
+    "name_mr": "",
+    "code": "568323",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568322",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kille Machhindra Gad",
+    "name_mr": "",
+    "code": "568322",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568324",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bhavaninagar",
+    "name_mr": "",
+    "code": "568324",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568326",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Beradmachi",
+    "name_mr": "",
+    "code": "568326",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568331",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Rethare Harnaksha",
+    "name_mr": "",
+    "code": "568331",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568325",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Yede Machchhindra",
+    "name_mr": "",
+    "code": "568325",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568327",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kole",
+    "name_mr": "",
+    "code": "568327",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568328",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Narsihapur",
+    "name_mr": "",
+    "code": "568328",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568332",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Dudhari",
+    "name_mr": "",
+    "code": "568332",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568312",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kasegaon",
+    "name_mr": "",
+    "code": "568312",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568330",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bichud",
+    "name_mr": "",
+    "code": "568330",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568333",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Takari",
+    "name_mr": "",
+    "code": "568333",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568314",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Tambave",
+    "name_mr": "",
+    "code": "568314",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568313",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Dhotrewadi",
+    "name_mr": "",
+    "code": "568313",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568329",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Shirate",
+    "name_mr": "",
+    "code": "568329",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568317",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Wategaon",
+    "name_mr": "",
+    "code": "568317",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568315",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Yewalewadi",
+    "name_mr": "",
+    "code": "568315",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568335",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kharatwadi",
+    "name_mr": "",
+    "code": "568335",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568340",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Gaundwadi",
+    "name_mr": "",
+    "code": "568340",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568339",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Banewadi",
+    "name_mr": "",
+    "code": "568339",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568321",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Nerle",
+    "name_mr": "",
+    "code": "568321",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568334",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bahe",
+    "name_mr": "",
+    "code": "568334",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568316",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Shene",
+    "name_mr": "",
+    "code": "568316",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568319",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kalamwadi",
+    "name_mr": "",
+    "code": "568319",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568341",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Satapewadi",
+    "name_mr": "",
+    "code": "568341",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568343",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "568343",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568320",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kedargaon",
+    "name_mr": "",
+    "code": "568320",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568342",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Masuchiwadi",
+    "name_mr": "",
+    "code": "568342",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568336",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Hubalwadi",
+    "name_mr": "",
+    "code": "568336",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568318",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bhatwade",
+    "name_mr": "",
+    "code": "568318",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568338",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Farnewadi(borgaon)",
+    "name_mr": "",
+    "code": "568338",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568337",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Sakharale",
+    "name_mr": "",
+    "code": "568337",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568347",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kapuskhed",
+    "name_mr": "",
+    "code": "568347",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568385",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "June Khed",
+    "name_mr": "",
+    "code": "568385",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568345",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Manikwadi",
+    "name_mr": "",
+    "code": "568345",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568348",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Peth",
+    "name_mr": "",
+    "code": "568348",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568346",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Mahadevwadi",
+    "name_mr": "",
+    "code": "568346",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568351",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Ghabakwadi",
+    "name_mr": "",
+    "code": "568351",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568352",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Surul",
+    "name_mr": "",
+    "code": "568352",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-251633",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Uran Islampur (M Cl)",
+    "name_mr": "",
+    "code": "251633",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568349",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Naykalwadi",
+    "name_mr": "",
+    "code": "568349",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568387",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Walwa",
+    "name_mr": "",
+    "code": "568387",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568350",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Ozarde",
+    "name_mr": "",
+    "code": "568350",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568354",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Jambhulwadi",
+    "name_mr": "",
+    "code": "568354",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568353",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Rethare Dharan",
+    "name_mr": "",
+    "code": "568353",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568386",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "568386",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568355",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Waghwadi",
+    "name_mr": "",
+    "code": "568355",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568357",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kameri",
+    "name_mr": "",
+    "code": "568357",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568359",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Maralnathpur",
+    "name_mr": "",
+    "code": "568359",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568344",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Tujarpur",
+    "name_mr": "",
+    "code": "568344",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568358",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Shivpuri",
+    "name_mr": "",
+    "code": "568358",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568390",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Gatadwadi",
+    "name_mr": "",
+    "code": "568390",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568360",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Karve",
+    "name_mr": "",
+    "code": "568360",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568391",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Gotkhindi",
+    "name_mr": "",
+    "code": "568391",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568361",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Dhagewadi",
+    "name_mr": "",
+    "code": "568361",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-251634",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Ashta (M Cl)",
+    "name_mr": "",
+    "code": "251634",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568362",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Jakraiwadi",
+    "name_mr": "",
+    "code": "568362",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568388",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Padavalwadi",
+    "name_mr": "",
+    "code": "568388",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568375",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Yede Nipani",
+    "name_mr": "",
+    "code": "568375",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568364",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Ladegaon",
+    "name_mr": "",
+    "code": "568364",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568363",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Vashi",
+    "name_mr": "",
+    "code": "568363",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568392",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bavchi",
+    "name_mr": "",
+    "code": "568392",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568405",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Mardawadi",
+    "name_mr": "",
+    "code": "568405",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568365",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Aitavade Bk",
+    "name_mr": "",
+    "code": "568365",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568374",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Itakare",
+    "name_mr": "",
+    "code": "568374",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568366",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Shekharwadi",
+    "name_mr": "",
+    "code": "568366",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568404",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Mirajwadi",
+    "name_mr": "",
+    "code": "568404",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568406",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Karandwadi",
+    "name_mr": "",
+    "code": "568406",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568378",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Yelur",
+    "name_mr": "",
+    "code": "568378",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568407",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Krishnanagar",
+    "name_mr": "",
+    "code": "568407",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568376",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "568376",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568367",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Dongarwadi",
+    "name_mr": "",
+    "code": "568367",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568372",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kurlap",
+    "name_mr": "",
+    "code": "568372",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568393",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Pokharni",
+    "name_mr": "",
+    "code": "568393",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568396",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bhadkimbe",
+    "name_mr": "",
+    "code": "568396",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568371",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Karanjvade",
+    "name_mr": "",
+    "code": "568371",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568369",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Chikurde",
+    "name_mr": "",
+    "code": "568369",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568383",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bahadurwadi",
+    "name_mr": "",
+    "code": "568383",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568380",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "568380",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568373",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Aitavade Kh",
+    "name_mr": "",
+    "code": "568373",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568402",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Phalkewadi & Chandachiwadi",
+    "name_mr": "",
+    "code": "568402",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568368",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Thanapude",
+    "name_mr": "",
+    "code": "568368",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568394",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "568394",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568403",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Rozawadi",
+    "name_mr": "",
+    "code": "568403",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568379",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kundalwadi",
+    "name_mr": "",
+    "code": "568379",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568370",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Devarde",
+    "name_mr": "",
+    "code": "568370",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568401",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kakachiwadi",
+    "name_mr": "",
+    "code": "568401",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568382",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Kanegaon",
+    "name_mr": "",
+    "code": "568382",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568395",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Dhavali",
+    "name_mr": "",
+    "code": "568395",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568400",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bagani",
+    "name_mr": "",
+    "code": "568400",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568397",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Koregaon",
+    "name_mr": "",
+    "code": "568397",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568381",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Bharatwadi",
+    "name_mr": "",
+    "code": "568381",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568398",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Pharnewadi(shigaon)",
+    "name_mr": "",
+    "code": "568398",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568399",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Shigaon",
+    "name_mr": "",
+    "code": "568399",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568384",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Nave Khed",
+    "name_mr": "",
+    "code": "568384",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568389",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Ahirwadi",
+    "name_mr": "",
+    "code": "568389",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568356",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Vitthalwadi",
+    "name_mr": "",
+    "code": "568356",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  },
+  {
+    "village_id": "v-568377",
+    "district_id": "sangli",
+    "taluka_id": "walwa",
+    "name_en": "Konoli",
+    "name_mr": "",
+    "code": "568377",
+    "boundary_file": "/data/boundaries/villages/sangli/walwa.geojson"
+  }
+]

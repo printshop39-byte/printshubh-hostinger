@@ -1,0 +1,506 @@
+[
+  {
+    "village_id": "v-557630",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Naur",
+    "name_mr": "",
+    "code": "557630",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557627",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Matulthan",
+    "name_mr": "",
+    "code": "557627",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557628",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Naygaon",
+    "name_mr": "",
+    "code": "557628",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557632",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Govardhanpur",
+    "name_mr": "",
+    "code": "557632",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557631",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "557631",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557629",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Jafrabad",
+    "name_mr": "",
+    "code": "557629",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557660",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Mahankal Wadgaon",
+    "name_mr": "",
+    "code": "557660",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557633",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Sarala",
+    "name_mr": "",
+    "code": "557633",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557635",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "557635",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557634",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "557634",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557661",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "557661",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557636",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Nimgaon Khairi",
+    "name_mr": "",
+    "code": "557636",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557640",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Undirgaon",
+    "name_mr": "",
+    "code": "557640",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557662",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Bhamathan",
+    "name_mr": "",
+    "code": "557662",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557641",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Haregaon",
+    "name_mr": "",
+    "code": "557641",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557665",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Malwadgaon",
+    "name_mr": "",
+    "code": "557665",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557663",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Kamalpur",
+    "name_mr": "",
+    "code": "557663",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557637",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "557637",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557644",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Bramhangaon Vetal",
+    "name_mr": "",
+    "code": "557644",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557666",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Muthewadgaon",
+    "name_mr": "",
+    "code": "557666",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557645",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Shirasgaon",
+    "name_mr": "",
+    "code": "557645",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557664",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Ghumandeo",
+    "name_mr": "",
+    "code": "557664",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557638",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "557638",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557668",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Bhokar",
+    "name_mr": "",
+    "code": "557668",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557667",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Wadala Mahadeo",
+    "name_mr": "",
+    "code": "557667",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557669",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Takalibhan",
+    "name_mr": "",
+    "code": "557669",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557670",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Khokar",
+    "name_mr": "",
+    "code": "557670",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557671",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Nipani Wadgaon",
+    "name_mr": "",
+    "code": "557671",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557656",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Belapur Bk.",
+    "name_mr": "",
+    "code": "557656",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557653",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Ekalahare",
+    "name_mr": "",
+    "code": "557653",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557657",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Ainatpur",
+    "name_mr": "",
+    "code": "557657",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557658",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Waladgaon",
+    "name_mr": "",
+    "code": "557658",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557652",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Ukkalgaon",
+    "name_mr": "",
+    "code": "557652",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557649",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Fatyabad",
+    "name_mr": "",
+    "code": "557649",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557648",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Mandve",
+    "name_mr": "",
+    "code": "557648",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557650",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Kuranpur",
+    "name_mr": "",
+    "code": "557650",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557659",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Umbargaon",
+    "name_mr": "",
+    "code": "557659",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557651",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Galnimb",
+    "name_mr": "",
+    "code": "557651",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557646",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Kadit KH",
+    "name_mr": "",
+    "code": "557646",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557673",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "557673",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557672",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Matapur",
+    "name_mr": "",
+    "code": "557672",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557681",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Gurjarwadi",
+    "name_mr": "",
+    "code": "557681",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557679",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Wangi",
+    "name_mr": "",
+    "code": "557679",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557680",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Wangi KH (NV)",
+    "name_mr": "",
+    "code": "557680",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557647",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Kadit BK",
+    "name_mr": "",
+    "code": "557647",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557654",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Belapur Kh",
+    "name_mr": "",
+    "code": "557654",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557682",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Khirdi",
+    "name_mr": "",
+    "code": "557682",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557674",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Padhegaon",
+    "name_mr": "",
+    "code": "557674",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557678",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Bherdapur",
+    "name_mr": "",
+    "code": "557678",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557677",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Malunje  BK",
+    "name_mr": "",
+    "code": "557677",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557676",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Ladgaon",
+    "name_mr": "",
+    "code": "557676",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557675",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Kanhegaon",
+    "name_mr": "",
+    "code": "557675",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557642",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Gondhavani",
+    "name_mr": "",
+    "code": "557642",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557643",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Bhairavnathnagar",
+    "name_mr": "",
+    "code": "557643",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-557639",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Dattanagar",
+    "name_mr": "",
+    "code": "557639",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  },
+  {
+    "village_id": "v-802826",
+    "district_id": "ahilyanagar",
+    "taluka_id": "shrirampur",
+    "name_en": "Shrirampur (M CI)",
+    "name_mr": "",
+    "code": "802826",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/shrirampur.geojson"
+  }
+]

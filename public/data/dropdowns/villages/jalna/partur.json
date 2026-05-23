@@ -1,0 +1,884 @@
+[
+  {
+    "village_id": "v-548111",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Sawangi Ganga Kinara",
+    "name_mr": "",
+    "code": "548111",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548106",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Landakdara Tanda",
+    "name_mr": "",
+    "code": "548106",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548110",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "548110",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548109",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Changtpuri",
+    "name_mr": "",
+    "code": "548109",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548105",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Anandgaon",
+    "name_mr": "",
+    "code": "548105",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548108",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Sawargaon Bk.",
+    "name_mr": "",
+    "code": "548108",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548107",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Sankanpuri",
+    "name_mr": "",
+    "code": "548107",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548096",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Palsi",
+    "name_mr": "",
+    "code": "548096",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548102",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Banachiwadi",
+    "name_mr": "",
+    "code": "548102",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548095",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Phulwadi",
+    "name_mr": "",
+    "code": "548095",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548103",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Wadarwadi",
+    "name_mr": "",
+    "code": "548103",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548104",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Loni Kh.",
+    "name_mr": "",
+    "code": "548104",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548101",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Pimpali Dhamangaon",
+    "name_mr": "",
+    "code": "548101",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548097",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Kanakwadi",
+    "name_mr": "",
+    "code": "548097",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548094",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Raigavhan",
+    "name_mr": "",
+    "code": "548094",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548098",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Satara Wahegaon",
+    "name_mr": "",
+    "code": "548098",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548100",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Kokate Hadgaon",
+    "name_mr": "",
+    "code": "548100",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548099",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Antarwala",
+    "name_mr": "",
+    "code": "548099",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548086",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Bramhanwadi",
+    "name_mr": "",
+    "code": "548086",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548091",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Wahegaon Satara",
+    "name_mr": "",
+    "code": "548091",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548090",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Dhonwadi",
+    "name_mr": "",
+    "code": "548090",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548087",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "548087",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548093",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Ashti",
+    "name_mr": "",
+    "code": "548093",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548082",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Asangaon",
+    "name_mr": "",
+    "code": "548082",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548085",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Likhit Pimpri",
+    "name_mr": "",
+    "code": "548085",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548089",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Paratwadi",
+    "name_mr": "",
+    "code": "548089",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548081",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Pandepokhari",
+    "name_mr": "",
+    "code": "548081",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548080",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Surumgaon",
+    "name_mr": "",
+    "code": "548080",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548083",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Karhala",
+    "name_mr": "",
+    "code": "548083",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548084",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Lingsa",
+    "name_mr": "",
+    "code": "548084",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548059",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Hanwadi",
+    "name_mr": "",
+    "code": "548059",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548076",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Shrishti Tanda",
+    "name_mr": "",
+    "code": "548076",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548079",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Mavpatoda",
+    "name_mr": "",
+    "code": "548079",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548078",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Patoda",
+    "name_mr": "",
+    "code": "548078",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548073",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Wahegaon Shrishti",
+    "name_mr": "",
+    "code": "548073",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548058",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Torna",
+    "name_mr": "",
+    "code": "548058",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548056",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Angalgaon",
+    "name_mr": "",
+    "code": "548056",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548057",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "548057",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548074",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Shrishti",
+    "name_mr": "",
+    "code": "548074",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548055",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "548055",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548075",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Daithna Bk.",
+    "name_mr": "",
+    "code": "548075",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548053",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Pimprula Bk.",
+    "name_mr": "",
+    "code": "548053",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548054",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Takli Rangopant",
+    "name_mr": "",
+    "code": "548054",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548077",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Yenora",
+    "name_mr": "",
+    "code": "548077",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548050",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Satona Kh.",
+    "name_mr": "",
+    "code": "548050",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548071",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Daithna Kh.",
+    "name_mr": "",
+    "code": "548071",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548070",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Hatdi",
+    "name_mr": "",
+    "code": "548070",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548051",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Satona Bk.",
+    "name_mr": "",
+    "code": "548051",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548052",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Usmanpur",
+    "name_mr": "",
+    "code": "548052",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548065",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Khandvi",
+    "name_mr": "",
+    "code": "548065",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548045",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Salgaon",
+    "name_mr": "",
+    "code": "548045",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548044",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Firozabad",
+    "name_mr": "",
+    "code": "548044",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548064",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Sirasgaon",
+    "name_mr": "",
+    "code": "548064",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548046",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Revalgaon",
+    "name_mr": "",
+    "code": "548046",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548047",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Vondegaon",
+    "name_mr": "",
+    "code": "548047",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548048",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Raniwahegaon",
+    "name_mr": "",
+    "code": "548048",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548063",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "548063",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548066",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Singona",
+    "name_mr": "",
+    "code": "548066",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548049",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Davla",
+    "name_mr": "",
+    "code": "548049",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548067",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Soijana",
+    "name_mr": "",
+    "code": "548067",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548068",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Shelwada",
+    "name_mr": "",
+    "code": "548068",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548069",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Walkhed",
+    "name_mr": "",
+    "code": "548069",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548041",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "548041",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548061",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Bamni",
+    "name_mr": "",
+    "code": "548061",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548040",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Mapegaon Bk.",
+    "name_mr": "",
+    "code": "548040",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548062",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Ananadwadi",
+    "name_mr": "",
+    "code": "548062",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548043",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Warphalwadi",
+    "name_mr": "",
+    "code": "548043",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548039",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Mapegaon Kh.",
+    "name_mr": "",
+    "code": "548039",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548042",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Warphal",
+    "name_mr": "",
+    "code": "548042",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548060",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Shewga",
+    "name_mr": "",
+    "code": "548060",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548038",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Pardhi",
+    "name_mr": "",
+    "code": "548038",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548037",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Koregaon",
+    "name_mr": "",
+    "code": "548037",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548035",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "548035",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548033",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Rohina Kh.",
+    "name_mr": "",
+    "code": "548033",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548034",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Eakrukha",
+    "name_mr": "",
+    "code": "548034",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-251425",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Partur (M Cl)",
+    "name_mr": "",
+    "code": "251425",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548027",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Masla",
+    "name_mr": "",
+    "code": "548027",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548036",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Waijoda",
+    "name_mr": "",
+    "code": "548036",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548031",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Shirdhar Jawala",
+    "name_mr": "",
+    "code": "548031",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548032",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Rohina Bk.",
+    "name_mr": "",
+    "code": "548032",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548026",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Kawjawala",
+    "name_mr": "",
+    "code": "548026",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548029",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Bramhawadgaon",
+    "name_mr": "",
+    "code": "548029",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548028",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Amba",
+    "name_mr": "",
+    "code": "548028",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548030",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "548030",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548022",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Nandra",
+    "name_mr": "",
+    "code": "548022",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548020",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "548020",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548019",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Kandari",
+    "name_mr": "",
+    "code": "548019",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548018",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Pimparkheda (Garad)",
+    "name_mr": "",
+    "code": "548018",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548015",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Waghadi",
+    "name_mr": "",
+    "code": "548015",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548025",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Dolhara",
+    "name_mr": "",
+    "code": "548025",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548021",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Dahifal Bhongane",
+    "name_mr": "",
+    "code": "548021",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548023",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Babultara",
+    "name_mr": "",
+    "code": "548023",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548024",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Babai",
+    "name_mr": "",
+    "code": "548024",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548016",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Edlapur",
+    "name_mr": "",
+    "code": "548016",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548017",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Watur",
+    "name_mr": "",
+    "code": "548017",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548092",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Hastur Tanda",
+    "name_mr": "",
+    "code": "548092",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548088",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Dhokmal Tanda",
+    "name_mr": "",
+    "code": "548088",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  },
+  {
+    "village_id": "v-548072",
+    "district_id": "jalna",
+    "taluka_id": "partur",
+    "name_en": "Khandviwadi",
+    "name_mr": "",
+    "code": "548072",
+    "boundary_file": "/data/boundaries/villages/jalna/partur.geojson"
+  }
+]

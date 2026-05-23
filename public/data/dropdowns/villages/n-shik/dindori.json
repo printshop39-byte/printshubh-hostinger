@@ -1,0 +1,1424 @@
+[
+  {
+    "village_id": "v-550623",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mandane",
+    "name_mr": "",
+    "code": "550623",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550594",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Vanare",
+    "name_mr": "",
+    "code": "550594",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550625",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Bhatode",
+    "name_mr": "",
+    "code": "550625",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550619",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Jirwade",
+    "name_mr": "",
+    "code": "550619",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550524",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Nanashi",
+    "name_mr": "",
+    "code": "550524",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550624",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chandikapur",
+    "name_mr": "",
+    "code": "550624",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550620",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pandane",
+    "name_mr": "",
+    "code": "550620",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550622",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ambaner",
+    "name_mr": "",
+    "code": "550622",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550627",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "550627",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550525",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Radtodi",
+    "name_mr": "",
+    "code": "550525",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550527",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Devalipada",
+    "name_mr": "",
+    "code": "550527",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550523",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dhondalpada",
+    "name_mr": "",
+    "code": "550523",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550602",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dahivi",
+    "name_mr": "",
+    "code": "550602",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550597",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Deothanpada",
+    "name_mr": "",
+    "code": "550597",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550621",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Punegaon",
+    "name_mr": "",
+    "code": "550621",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550630",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kasbe Vani",
+    "name_mr": "",
+    "code": "550630",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550537",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Joranpada",
+    "name_mr": "",
+    "code": "550537",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550539",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Sadrale",
+    "name_mr": "",
+    "code": "550539",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550608",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "550608",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550538",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Thepanwadi",
+    "name_mr": "",
+    "code": "550538",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550632",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ozarkhed",
+    "name_mr": "",
+    "code": "550632",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550634",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Tisgaon",
+    "name_mr": "",
+    "code": "550634",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550547",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Oze",
+    "name_mr": "",
+    "code": "550547",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550638",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ghodewadi",
+    "name_mr": "",
+    "code": "550638",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550548",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mheluske",
+    "name_mr": "",
+    "code": "550548",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550542",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Jalkhed",
+    "name_mr": "",
+    "code": "550542",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550544",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Shreeramnagar",
+    "name_mr": "",
+    "code": "550544",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550639",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Parmori",
+    "name_mr": "",
+    "code": "550639",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550637",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ambevani",
+    "name_mr": "",
+    "code": "550637",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550635",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Shindwad",
+    "name_mr": "",
+    "code": "550635",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550636",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Sonjamb",
+    "name_mr": "",
+    "code": "550636",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550615",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Nigdol",
+    "name_mr": "",
+    "code": "550615",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550545",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Waghad",
+    "name_mr": "",
+    "code": "550545",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550543",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kokangaon Bk.",
+    "name_mr": "",
+    "code": "550543",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550541",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Golshi",
+    "name_mr": "",
+    "code": "550541",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550642",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Varkhede",
+    "name_mr": "",
+    "code": "550642",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550546",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Umrale Kh.",
+    "name_mr": "",
+    "code": "550546",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550580",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chausale",
+    "name_mr": "",
+    "code": "550580",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550578",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Sarsale",
+    "name_mr": "",
+    "code": "550578",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550576",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Shindpada",
+    "name_mr": "",
+    "code": "550576",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550577",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Deosane",
+    "name_mr": "",
+    "code": "550577",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550579",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Karanjkhed",
+    "name_mr": "",
+    "code": "550579",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550581",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pingalwadi",
+    "name_mr": "",
+    "code": "550581",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550583",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dagadpimpri",
+    "name_mr": "",
+    "code": "550583",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550573",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Bhanwad",
+    "name_mr": "",
+    "code": "550573",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550587",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Khoripada (NV)",
+    "name_mr": "",
+    "code": "550587",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550574",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Borvand",
+    "name_mr": "",
+    "code": "550574",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550575",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Wagdeopada",
+    "name_mr": "",
+    "code": "550575",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550517",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mokhnal",
+    "name_mr": "",
+    "code": "550517",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550589",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Karanjali",
+    "name_mr": "",
+    "code": "550589",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550584",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kolher",
+    "name_mr": "",
+    "code": "550584",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550591",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Talyachapada",
+    "name_mr": "",
+    "code": "550591",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550616",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ahiwantwadi",
+    "name_mr": "",
+    "code": "550616",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550588",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Eklahare",
+    "name_mr": "",
+    "code": "550588",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550590",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Deopada",
+    "name_mr": "",
+    "code": "550590",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550582",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pimpri Anchala",
+    "name_mr": "",
+    "code": "550582",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550518",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dehare",
+    "name_mr": "",
+    "code": "550518",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550522",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chikadi",
+    "name_mr": "",
+    "code": "550522",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550592",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Vare",
+    "name_mr": "",
+    "code": "550592",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550593",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Palasvihir",
+    "name_mr": "",
+    "code": "550593",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550617",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Goldari",
+    "name_mr": "",
+    "code": "550617",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550586",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Haste Dumala",
+    "name_mr": "",
+    "code": "550586",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550520",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Gandole",
+    "name_mr": "",
+    "code": "550520",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550596",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Titave",
+    "name_mr": "",
+    "code": "550596",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550618",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chamdari",
+    "name_mr": "",
+    "code": "550618",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550601",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Koshimbe",
+    "name_mr": "",
+    "code": "550601",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550521",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Tetmala(NV)",
+    "name_mr": "",
+    "code": "550521",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550595",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Vanjole",
+    "name_mr": "",
+    "code": "550595",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550526",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ambad",
+    "name_mr": "",
+    "code": "550526",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550585",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Maledumala",
+    "name_mr": "",
+    "code": "550585",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550600",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Bandharpada",
+    "name_mr": "",
+    "code": "550600",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550626",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mulane",
+    "name_mr": "",
+    "code": "550626",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550528",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Charose",
+    "name_mr": "",
+    "code": "550528",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550612",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kokangaon Kh.",
+    "name_mr": "",
+    "code": "550612",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550598",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Deothan",
+    "name_mr": "",
+    "code": "550598",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550604",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "550604",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550535",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pimpalgaon Dhum",
+    "name_mr": "",
+    "code": "550535",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550529",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Badagichapada",
+    "name_mr": "",
+    "code": "550529",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550605",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Phopshi",
+    "name_mr": "",
+    "code": "550605",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550534",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Vani Kh.",
+    "name_mr": "",
+    "code": "550534",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550533",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Shiwarpada",
+    "name_mr": "",
+    "code": "550533",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550536",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Joran",
+    "name_mr": "",
+    "code": "550536",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550628",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Sangamner",
+    "name_mr": "",
+    "code": "550628",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550611",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pimparkhed",
+    "name_mr": "",
+    "code": "550611",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550610",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Khedale",
+    "name_mr": "",
+    "code": "550610",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550609",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Karanjwan",
+    "name_mr": "",
+    "code": "550609",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550532",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kaudasar",
+    "name_mr": "",
+    "code": "550532",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550531",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chelharpada(NV)",
+    "name_mr": "",
+    "code": "550531",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550530",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Deoghar",
+    "name_mr": "",
+    "code": "550530",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550629",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mavadi",
+    "name_mr": "",
+    "code": "550629",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550613",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Nalwadpada",
+    "name_mr": "",
+    "code": "550613",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550607",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "550607",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550606",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Vaglud",
+    "name_mr": "",
+    "code": "550606",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550540",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mahaje",
+    "name_mr": "",
+    "code": "550540",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550633",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Talegaon Vani",
+    "name_mr": "",
+    "code": "550633",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550631",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Krishnagaon",
+    "name_mr": "",
+    "code": "550631",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550614",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Nalwadi",
+    "name_mr": "",
+    "code": "550614",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550643",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Khedgaon",
+    "name_mr": "",
+    "code": "550643",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550549",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kadawa Mhalungi",
+    "name_mr": "",
+    "code": "550549",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550640",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Awankhed",
+    "name_mr": "",
+    "code": "550640",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550647",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pade",
+    "name_mr": "",
+    "code": "550647",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550555",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Zaralipada",
+    "name_mr": "",
+    "code": "550555",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550554",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ambegaon",
+    "name_mr": "",
+    "code": "550554",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550550",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Hatnore",
+    "name_mr": "",
+    "code": "550550",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550644",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Bopegaon",
+    "name_mr": "",
+    "code": "550644",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550641",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Valkhed",
+    "name_mr": "",
+    "code": "550641",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550553",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chachadgaon",
+    "name_mr": "",
+    "code": "550553",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550645",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "550645",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550651",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "550651",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550552",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Umrale Bk.",
+    "name_mr": "",
+    "code": "550552",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550652",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Materewadi",
+    "name_mr": "",
+    "code": "550652",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550648",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Nilwandi",
+    "name_mr": "",
+    "code": "550648",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-276276",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dindori (NP)",
+    "name_mr": "",
+    "code": "276276",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550650",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pimpalgaon Ketaki",
+    "name_mr": "",
+    "code": "550650",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550557",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dhaur",
+    "name_mr": "",
+    "code": "550557",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550556",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pophalwade",
+    "name_mr": "",
+    "code": "550556",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550654",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dhamanwadi (N.V.)",
+    "name_mr": "",
+    "code": "550654",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550646",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Jaulakevani",
+    "name_mr": "",
+    "code": "550646",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550653",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Jopul",
+    "name_mr": "",
+    "code": "550653",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550655",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Lokhandewadi",
+    "name_mr": "",
+    "code": "550655",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550551",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Jambutake",
+    "name_mr": "",
+    "code": "550551",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550558",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pimpraj",
+    "name_mr": "",
+    "code": "550558",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550562",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Nalegaon",
+    "name_mr": "",
+    "code": "550562",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550658",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Madakijamb",
+    "name_mr": "",
+    "code": "550658",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550656",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Palkhed",
+    "name_mr": "",
+    "code": "550656",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550657",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Wanarwadi",
+    "name_mr": "",
+    "code": "550657",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550664",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Chinchkhed",
+    "name_mr": "",
+    "code": "550664",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550561",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Bhoryachapada",
+    "name_mr": "",
+    "code": "550561",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550560",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kochargaon",
+    "name_mr": "",
+    "code": "550560",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550663",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Khadak Sukene",
+    "name_mr": "",
+    "code": "550663",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550559",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Vilwandi",
+    "name_mr": "",
+    "code": "550559",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550659",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Indore",
+    "name_mr": "",
+    "code": "550659",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550563",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Rasegaon",
+    "name_mr": "",
+    "code": "550563",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550662",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Korhate",
+    "name_mr": "",
+    "code": "550662",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550666",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Mohadi",
+    "name_mr": "",
+    "code": "550666",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550661",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Akrale",
+    "name_mr": "",
+    "code": "550661",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550565",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Rawalgaon",
+    "name_mr": "",
+    "code": "550565",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550660",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Talegaon Dindori",
+    "name_mr": "",
+    "code": "550660",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550665",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Kurnoli",
+    "name_mr": "",
+    "code": "550665",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550566",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Tilloli",
+    "name_mr": "",
+    "code": "550566",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550564",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Deherewadi",
+    "name_mr": "",
+    "code": "550564",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550571",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Pimpalnare",
+    "name_mr": "",
+    "code": "550571",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550570",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ramshej",
+    "name_mr": "",
+    "code": "550570",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550668",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ambedindori",
+    "name_mr": "",
+    "code": "550668",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550667",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Ganorwadi Ganeshgaon",
+    "name_mr": "",
+    "code": "550667",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550669",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Khatwad",
+    "name_mr": "",
+    "code": "550669",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550673",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Janori",
+    "name_mr": "",
+    "code": "550673",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550567",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "June Dhagur",
+    "name_mr": "",
+    "code": "550567",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550670",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Dhakambe",
+    "name_mr": "",
+    "code": "550670",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550569",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Gawalwadi",
+    "name_mr": "",
+    "code": "550569",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550572",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Manori",
+    "name_mr": "",
+    "code": "550572",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550568",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Navedhagur",
+    "name_mr": "",
+    "code": "550568",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550672",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Shivnai",
+    "name_mr": "",
+    "code": "550672",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550671",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Varvandi",
+    "name_mr": "",
+    "code": "550671",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550674",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Jaulakedindori",
+    "name_mr": "",
+    "code": "550674",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550599",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Devapur",
+    "name_mr": "",
+    "code": "550599",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550603",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Takachapada",
+    "name_mr": "",
+    "code": "550603",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  },
+  {
+    "village_id": "v-550519",
+    "district_id": "n-shik",
+    "taluka_id": "dindori",
+    "name_en": "Savarpathali",
+    "name_mr": "",
+    "code": "550519",
+    "boundary_file": "/data/boundaries/villages/n-shik/dindori.geojson"
+  }
+]

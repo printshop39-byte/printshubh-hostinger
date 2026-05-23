@@ -1,0 +1,974 @@
+[
+  {
+    "village_id": "v-546983",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Jawla Rumna",
+    "name_mr": "",
+    "code": "546983",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546982",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Rumna Jawla",
+    "name_mr": "",
+    "code": "546982",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546981",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dharasur",
+    "name_mr": "",
+    "code": "546981",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546984",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Sayala Sunegaon",
+    "name_mr": "",
+    "code": "546984",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546994",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Masla",
+    "name_mr": "",
+    "code": "546994",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546986",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Khali",
+    "name_mr": "",
+    "code": "546986",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546985",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Sunegaon Sayala",
+    "name_mr": "",
+    "code": "546985",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546987",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Brahmanathwadi",
+    "name_mr": "",
+    "code": "546987",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546992",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Muli",
+    "name_mr": "",
+    "code": "546992",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546989",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Gaundgaon",
+    "name_mr": "",
+    "code": "546989",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547000",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Mahatpuri",
+    "name_mr": "",
+    "code": "547000",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546995",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Pota",
+    "name_mr": "",
+    "code": "546995",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546990",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Chinchtakli",
+    "name_mr": "",
+    "code": "546990",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546988",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Mairal Sawangi",
+    "name_mr": "",
+    "code": "546988",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546993",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Nagthana",
+    "name_mr": "",
+    "code": "546993",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546991",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dusalgaon",
+    "name_mr": "",
+    "code": "546991",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546996",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Pimpri Zola",
+    "name_mr": "",
+    "code": "546996",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547004",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Iralad",
+    "name_mr": "",
+    "code": "547004",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547005",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Narlad",
+    "name_mr": "",
+    "code": "547005",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546997",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Zola",
+    "name_mr": "",
+    "code": "546997",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546999",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Bhambarwadi",
+    "name_mr": "",
+    "code": "546999",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547001",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "547001",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547007",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Waghalgaon Gopa",
+    "name_mr": "",
+    "code": "547007",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547006",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Gopa",
+    "name_mr": "",
+    "code": "547006",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547013",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dagadwadi",
+    "name_mr": "",
+    "code": "547013",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547002",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Shankarwadi",
+    "name_mr": "",
+    "code": "547002",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547008",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "547008",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547009",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Mardasgaon",
+    "name_mr": "",
+    "code": "547009",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547014",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Shivaji Nagar",
+    "name_mr": "",
+    "code": "547014",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547012",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Banpimpla",
+    "name_mr": "",
+    "code": "547012",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547015",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Suralwadi",
+    "name_mr": "",
+    "code": "547015",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547022",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Kasarwadi",
+    "name_mr": "",
+    "code": "547022",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547021",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Margalwadi",
+    "name_mr": "",
+    "code": "547021",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547016",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Padegaon",
+    "name_mr": "",
+    "code": "547016",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547023",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Godavari Tanda",
+    "name_mr": "",
+    "code": "547023",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547010",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Vitthalwadi",
+    "name_mr": "",
+    "code": "547010",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547049",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dhavlkewadi",
+    "name_mr": "",
+    "code": "547049",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547011",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Kaudgaon",
+    "name_mr": "",
+    "code": "547011",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547053",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Ilegaon",
+    "name_mr": "",
+    "code": "547053",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547048",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Isad",
+    "name_mr": "",
+    "code": "547048",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547054",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Masanerwadi",
+    "name_mr": "",
+    "code": "547054",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547026",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "547026",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547017",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Umalanaik Tanda",
+    "name_mr": "",
+    "code": "547017",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547024",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Tokwadi",
+    "name_mr": "",
+    "code": "547024",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547018",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Shendga",
+    "name_mr": "",
+    "code": "547018",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547025",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Bhendewadi",
+    "name_mr": "",
+    "code": "547025",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547046",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Sanglewadi",
+    "name_mr": "",
+    "code": "547046",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547020",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Khadgaon",
+    "name_mr": "",
+    "code": "547020",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547052",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Khandali",
+    "name_mr": "",
+    "code": "547052",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547047",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Maragalwadi",
+    "name_mr": "",
+    "code": "547047",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547019",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Harangul",
+    "name_mr": "",
+    "code": "547019",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547033",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Makhani",
+    "name_mr": "",
+    "code": "547033",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547050",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Devkatwadi",
+    "name_mr": "",
+    "code": "547050",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547027",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Pokharni Walke",
+    "name_mr": "",
+    "code": "547027",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547051",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Arbujwadi",
+    "name_mr": "",
+    "code": "547051",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547028",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dhangar Moha",
+    "name_mr": "",
+    "code": "547028",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547029",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Ukhali Kh.",
+    "name_mr": "",
+    "code": "547029",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547055",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Warvanti",
+    "name_mr": "",
+    "code": "547055",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547076",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Phugnarwadi",
+    "name_mr": "",
+    "code": "547076",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547063",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Khokalewadi",
+    "name_mr": "",
+    "code": "547063",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547059",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Limbewadi",
+    "name_mr": "",
+    "code": "547059",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547032",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dongargaon Shelgaon",
+    "name_mr": "",
+    "code": "547032",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547149",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Jogalgaon",
+    "name_mr": "",
+    "code": "547149",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547061",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Pandhargaon",
+    "name_mr": "",
+    "code": "547061",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547058",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Gunjegaon",
+    "name_mr": "",
+    "code": "547058",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547071",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Ranisawargaon",
+    "name_mr": "",
+    "code": "547071",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547085",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Waghdara Tanda",
+    "name_mr": "",
+    "code": "547085",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547030",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Mankadevi",
+    "name_mr": "",
+    "code": "547030",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547036",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dongarpimpla",
+    "name_mr": "",
+    "code": "547036",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547062",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "547062",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547031",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dhebewadi (Dhagyachiwadi)",
+    "name_mr": "",
+    "code": "547031",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547035",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dongarjawla",
+    "name_mr": "",
+    "code": "547035",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547034",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Sirsam Shelgaon",
+    "name_mr": "",
+    "code": "547034",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547066",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Chilgarwadi",
+    "name_mr": "",
+    "code": "547066",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547074",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Takalwadi",
+    "name_mr": "",
+    "code": "547074",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547070",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Ghantagra",
+    "name_mr": "",
+    "code": "547070",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547067",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Suppa (Jahangir)",
+    "name_mr": "",
+    "code": "547067",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547064",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Suppa (Khalsa)",
+    "name_mr": "",
+    "code": "547064",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547069",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Ghatangra Tanda",
+    "name_mr": "",
+    "code": "547069",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547073",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "547073",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547037",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Kodri",
+    "name_mr": "",
+    "code": "547037",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547072",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Kanganewadi",
+    "name_mr": "",
+    "code": "547072",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547075",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Umbarwadi",
+    "name_mr": "",
+    "code": "547075",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547068",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Belwadi",
+    "name_mr": "",
+    "code": "547068",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547081",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Borda",
+    "name_mr": "",
+    "code": "547081",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547038",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Anand Nagar",
+    "name_mr": "",
+    "code": "547038",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547079",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Kundgirwadi",
+    "name_mr": "",
+    "code": "547079",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547039",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Badwani",
+    "name_mr": "",
+    "code": "547039",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547077",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Gaulwadi",
+    "name_mr": "",
+    "code": "547077",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547078",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dampuri",
+    "name_mr": "",
+    "code": "547078",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547040",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Undegaon",
+    "name_mr": "",
+    "code": "547040",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547042",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Katkarwadi",
+    "name_mr": "",
+    "code": "547042",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547041",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Antarweli",
+    "name_mr": "",
+    "code": "547041",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547043",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Tandalwadi",
+    "name_mr": "",
+    "code": "547043",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547084",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Wagdari",
+    "name_mr": "",
+    "code": "547084",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547044",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Shelmoha",
+    "name_mr": "",
+    "code": "547044",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547045",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Kadyachiwadi",
+    "name_mr": "",
+    "code": "547045",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547086",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "547086",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547065",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Suppa Tanda",
+    "name_mr": "",
+    "code": "547065",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547082",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Hanuman Nagar",
+    "name_mr": "",
+    "code": "547082",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547080",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Nilanaik Tanda",
+    "name_mr": "",
+    "code": "547080",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547083",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Pimpaldari",
+    "name_mr": "",
+    "code": "547083",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547060",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Limbewadi Tanda",
+    "name_mr": "",
+    "code": "547060",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-546998",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Dharkhed",
+    "name_mr": "",
+    "code": "546998",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-251420",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Gangakhed (M Cl)",
+    "name_mr": "",
+    "code": "251420",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547057",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Bothi",
+    "name_mr": "",
+    "code": "547057",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547056",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Bothi Tanda",
+    "name_mr": "",
+    "code": "547056",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  },
+  {
+    "village_id": "v-547003",
+    "district_id": "parbhani",
+    "taluka_id": "gangakhed",
+    "name_en": "Gangakhed (R)",
+    "name_mr": "",
+    "code": "547003",
+    "boundary_file": "/data/boundaries/villages/parbhani/gangakhed.geojson"
+  }
+]

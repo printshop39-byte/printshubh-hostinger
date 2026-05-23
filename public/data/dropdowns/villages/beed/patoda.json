@@ -1,0 +1,902 @@
+[
+  {
+    "village_id": "v-558990",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bhaktache Gothe (N.V.)",
+    "name_mr": "",
+    "code": "558990",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558989",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Rohotwadi",
+    "name_mr": "",
+    "code": "558989",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558982",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bhusanarwadi (N.V.)",
+    "name_mr": "",
+    "code": "558982",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558937",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Jogdandwadi (N.V.)",
+    "name_mr": "",
+    "code": "558937",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558985",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Waghachawada (N.V.)",
+    "name_mr": "",
+    "code": "558985",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558988",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Therla",
+    "name_mr": "",
+    "code": "558988",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558987",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Karanjwan",
+    "name_mr": "",
+    "code": "558987",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558936",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Muggaon",
+    "name_mr": "",
+    "code": "558936",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558993",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bensur",
+    "name_mr": "",
+    "code": "558993",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558935",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Lambharwadi",
+    "name_mr": "",
+    "code": "558935",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558995",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bhyala",
+    "name_mr": "",
+    "code": "558995",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558986",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Tale Pimpalgaon",
+    "name_mr": "",
+    "code": "558986",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558946",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Dhangar Jaulka",
+    "name_mr": "",
+    "code": "558946",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558934",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Gandalwadi",
+    "name_mr": "",
+    "code": "558934",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558899",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Sablewadi",
+    "name_mr": "",
+    "code": "558899",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558898",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Kotan",
+    "name_mr": "",
+    "code": "558898",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558896",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Sakundwadi",
+    "name_mr": "",
+    "code": "558896",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558923",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "558923",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558924",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Janyachiwadi (N.V.)",
+    "name_mr": "",
+    "code": "558924",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558900",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Daulatwadi",
+    "name_mr": "",
+    "code": "558900",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558975",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Ukhanda Pitti",
+    "name_mr": "",
+    "code": "558975",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558959",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "558959",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558998",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Vaidhyakinhi",
+    "name_mr": "",
+    "code": "558998",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558965",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Daskhed",
+    "name_mr": "",
+    "code": "558965",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558960",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Yewalwadi",
+    "name_mr": "",
+    "code": "558960",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558961",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Nafarwadi",
+    "name_mr": "",
+    "code": "558961",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558962",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Dhalewadi",
+    "name_mr": "",
+    "code": "558962",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558999",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Vaijala",
+    "name_mr": "",
+    "code": "558999",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558966",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bedukwadi",
+    "name_mr": "",
+    "code": "558966",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558963",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pargaon Gumra",
+    "name_mr": "",
+    "code": "558963",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-559000",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pachegaon",
+    "name_mr": "",
+    "code": "559000",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558964",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Anpatwadi",
+    "name_mr": "",
+    "code": "558964",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558968",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pachangri",
+    "name_mr": "",
+    "code": "558968",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558967",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Manzari Ghat",
+    "name_mr": "",
+    "code": "558967",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558927",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bhatewadi",
+    "name_mr": "",
+    "code": "558927",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558974",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Kakadhira",
+    "name_mr": "",
+    "code": "558974",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558897",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Gandhanwadi",
+    "name_mr": "",
+    "code": "558897",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558906",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pimpalwandi",
+    "name_mr": "",
+    "code": "558906",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558901",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pandharwadi",
+    "name_mr": "",
+    "code": "558901",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558905",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Amalner",
+    "name_mr": "",
+    "code": "558905",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558902",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "558902",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558977",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Nirgudi",
+    "name_mr": "",
+    "code": "558977",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558925",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Nalwandi",
+    "name_mr": "",
+    "code": "558925",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558926",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Rautwadi (N.V.)",
+    "name_mr": "",
+    "code": "558926",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558976",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pithi",
+    "name_mr": "",
+    "code": "558976",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558903",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Dagachiwadi",
+    "name_mr": "",
+    "code": "558903",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558973",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Khadakwadi",
+    "name_mr": "",
+    "code": "558973",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558921",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Dongerkinhi",
+    "name_mr": "",
+    "code": "558921",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558904",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Misalwadi",
+    "name_mr": "",
+    "code": "558904",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558971",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Tagarwadi",
+    "name_mr": "",
+    "code": "558971",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558972",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pimpalgaon Dhas",
+    "name_mr": "",
+    "code": "558972",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558909",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Chanderwadi",
+    "name_mr": "",
+    "code": "558909",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558916",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Ambewadi",
+    "name_mr": "",
+    "code": "558916",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558930",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Mandvewadi",
+    "name_mr": "",
+    "code": "558930",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558910",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Nivdunga",
+    "name_mr": "",
+    "code": "558910",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558918",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Gayakwadwadi",
+    "name_mr": "",
+    "code": "558918",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558920",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Gholewadi (N.V.)",
+    "name_mr": "",
+    "code": "558920",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558928",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Malekarwadi",
+    "name_mr": "",
+    "code": "558928",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558929",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Tupewadi",
+    "name_mr": "",
+    "code": "558929",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558981",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Tirmalwadi (N.V.)",
+    "name_mr": "",
+    "code": "558981",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558978",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "558978",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558983",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Wadzari",
+    "name_mr": "",
+    "code": "558983",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558919",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Jadhavwadi (N.V.)",
+    "name_mr": "",
+    "code": "558919",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558907",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Dhoparwadi (N.V.)",
+    "name_mr": "",
+    "code": "558907",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558908",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Pawarwadi (Saradwadi)",
+    "name_mr": "",
+    "code": "558908",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558939",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Nageshwadi",
+    "name_mr": "",
+    "code": "558939",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558980",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Domri",
+    "name_mr": "",
+    "code": "558980",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558948",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Umber Vihira",
+    "name_mr": "",
+    "code": "558948",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558913",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Wahali",
+    "name_mr": "",
+    "code": "558913",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558911",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "558911",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558969",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Mahindrawadi",
+    "name_mr": "",
+    "code": "558969",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558914",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Sawargaon Ghat",
+    "name_mr": "",
+    "code": "558914",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558917",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Jirewadi",
+    "name_mr": "",
+    "code": "558917",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558931",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bedarwadi",
+    "name_mr": "",
+    "code": "558931",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558941",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Parner",
+    "name_mr": "",
+    "code": "558941",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558947",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Chumbli",
+    "name_mr": "",
+    "code": "558947",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558912",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Antapur",
+    "name_mr": "",
+    "code": "558912",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558932",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Kusalamb",
+    "name_mr": "",
+    "code": "558932",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558940",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Kutewadi",
+    "name_mr": "",
+    "code": "558940",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558949",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Tamba Rajuri",
+    "name_mr": "",
+    "code": "558949",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558933",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Suppa",
+    "name_mr": "",
+    "code": "558933",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558994",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Jaulala",
+    "name_mr": "",
+    "code": "558994",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558945",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Yewalwadi",
+    "name_mr": "",
+    "code": "558945",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558997",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Mengdewadi (N.V.)",
+    "name_mr": "",
+    "code": "558997",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558944",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Sautada",
+    "name_mr": "",
+    "code": "558944",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-275732",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Patoda (NP)",
+    "name_mr": "",
+    "code": "275732",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558943",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bhurewadi",
+    "name_mr": "",
+    "code": "558943",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558957",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Sawargaon Sone",
+    "name_mr": "",
+    "code": "558957",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558996",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Waghira",
+    "name_mr": "",
+    "code": "558996",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558952",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Mahasanghvi",
+    "name_mr": "",
+    "code": "558952",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558951",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Kawadwadi (N.V.)",
+    "name_mr": "",
+    "code": "558951",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558958",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Saundana",
+    "name_mr": "",
+    "code": "558958",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558979",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Bedarwadi",
+    "name_mr": "",
+    "code": "558979",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558938",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Gavalwadi",
+    "name_mr": "",
+    "code": "558938",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558984",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Mahalpachiwadi (N.V.)",
+    "name_mr": "",
+    "code": "558984",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558915",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Khade Wasti (N.V.)",
+    "name_mr": "",
+    "code": "558915",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558991",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Ghatewadi",
+    "name_mr": "",
+    "code": "558991",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558992",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Ramwadi (N.V.)",
+    "name_mr": "",
+    "code": "558992",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558942",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Wanewadi",
+    "name_mr": "",
+    "code": "558942",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  },
+  {
+    "village_id": "v-558922",
+    "district_id": "beed",
+    "taluka_id": "patoda",
+    "name_en": "Kantalwadi",
+    "name_mr": "",
+    "code": "558922",
+    "boundary_file": "/data/boundaries/villages/beed/patoda.geojson"
+  }
+]

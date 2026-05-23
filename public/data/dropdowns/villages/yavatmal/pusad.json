@@ -1,0 +1,1703 @@
+[
+  {
+    "village_id": "v-542849",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Januna",
+    "name_mr": "",
+    "code": "542849",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542857",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sattarmal",
+    "name_mr": "",
+    "code": "542857",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542763",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gajipur",
+    "name_mr": "",
+    "code": "542763",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542768",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "542768",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542787",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Madhukarnagar",
+    "name_mr": "",
+    "code": "542787",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-251391",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pusad (M Cl)",
+    "name_mr": "",
+    "code": "251391",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542767",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Waltur (R)",
+    "name_mr": "",
+    "code": "542767",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542791",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Itawa",
+    "name_mr": "",
+    "code": "542791",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542856",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Belura Bk.",
+    "name_mr": "",
+    "code": "542856",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542855",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Belura Kh.",
+    "name_mr": "",
+    "code": "542855",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542797",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Katkheda KH",
+    "name_mr": "",
+    "code": "542797",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542771",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sevadas Nagar",
+    "name_mr": "",
+    "code": "542771",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542858",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "542858",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542792",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gaimukh Nagar",
+    "name_mr": "",
+    "code": "542792",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542770",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Yeldari",
+    "name_mr": "",
+    "code": "542770",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542859",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Marwadi Bk",
+    "name_mr": "",
+    "code": "542859",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542772",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Nimbhi",
+    "name_mr": "",
+    "code": "542772",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542793",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Palodi",
+    "name_mr": "",
+    "code": "542793",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542867",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Rohada",
+    "name_mr": "",
+    "code": "542867",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542814",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Yehala",
+    "name_mr": "",
+    "code": "542814",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542875",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shiwani",
+    "name_mr": "",
+    "code": "542875",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542879",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Nanand Ijara",
+    "name_mr": "",
+    "code": "542879",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542823",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Mandwa",
+    "name_mr": "",
+    "code": "542823",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542815",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kondai",
+    "name_mr": "",
+    "code": "542815",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542881",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sawargaon (Gore)",
+    "name_mr": "",
+    "code": "542881",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542882",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Rampur Nagar",
+    "name_mr": "",
+    "code": "542882",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542822",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Manikdoh",
+    "name_mr": "",
+    "code": "542822",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542818",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bornagar",
+    "name_mr": "",
+    "code": "542818",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542817",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Vasantpur",
+    "name_mr": "",
+    "code": "542817",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542824",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Warwat",
+    "name_mr": "",
+    "code": "542824",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542877",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Mop",
+    "name_mr": "",
+    "code": "542877",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542827",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Weni Kh",
+    "name_mr": "",
+    "code": "542827",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542828",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pimparwadi",
+    "name_mr": "",
+    "code": "542828",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542883",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dudhagiri",
+    "name_mr": "",
+    "code": "542883",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542880",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Nanand Kh.",
+    "name_mr": "",
+    "code": "542880",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542737",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Karhol",
+    "name_mr": "",
+    "code": "542737",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542732",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Lakhi",
+    "name_mr": "",
+    "code": "542732",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542736",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Lobhivantnagar",
+    "name_mr": "",
+    "code": "542736",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542733",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Rajana",
+    "name_mr": "",
+    "code": "542733",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542735",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Paradh",
+    "name_mr": "",
+    "code": "542735",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542734",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "542734",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542738",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gahuli",
+    "name_mr": "",
+    "code": "542738",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542743",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bhandari",
+    "name_mr": "",
+    "code": "542743",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542745",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Housapur",
+    "name_mr": "",
+    "code": "542745",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542744",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shampur",
+    "name_mr": "",
+    "code": "542744",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542741",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Mokhad",
+    "name_mr": "",
+    "code": "542741",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542742",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Wamanwadi",
+    "name_mr": "",
+    "code": "542742",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542748",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Waltur Tambde",
+    "name_mr": "",
+    "code": "542748",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542740",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Chondhi",
+    "name_mr": "",
+    "code": "542740",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542739",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "542739",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542774",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Deogavhan",
+    "name_mr": "",
+    "code": "542774",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542775",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Belgavhan",
+    "name_mr": "",
+    "code": "542775",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542776",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jamani Dhundi",
+    "name_mr": "",
+    "code": "542776",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542746",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Udadi",
+    "name_mr": "",
+    "code": "542746",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542750",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Naik Nagar",
+    "name_mr": "",
+    "code": "542750",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542747",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Brahmangaon",
+    "name_mr": "",
+    "code": "542747",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542754",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bansi",
+    "name_mr": "",
+    "code": "542754",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542836",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Mhaismal",
+    "name_mr": "",
+    "code": "542836",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542749",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Marsul",
+    "name_mr": "",
+    "code": "542749",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542838",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Parwa",
+    "name_mr": "",
+    "code": "542838",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542755",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bajrangnagar",
+    "name_mr": "",
+    "code": "542755",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542839",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Parwa Kh",
+    "name_mr": "",
+    "code": "542839",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542753",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Mungshi",
+    "name_mr": "",
+    "code": "542753",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542837",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "542837",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542751",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Wanwarla",
+    "name_mr": "",
+    "code": "542751",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542777",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jawahar Nagar",
+    "name_mr": "",
+    "code": "542777",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542843",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Khatkala",
+    "name_mr": "",
+    "code": "542843",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542840",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "542840",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542780",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jyoti Nagar",
+    "name_mr": "",
+    "code": "542780",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542778",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Nandipur",
+    "name_mr": "",
+    "code": "542778",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542779",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Ghatodi",
+    "name_mr": "",
+    "code": "542779",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542752",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Rambha",
+    "name_mr": "",
+    "code": "542752",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542756",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pimpalkhuta",
+    "name_mr": "",
+    "code": "542756",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542844",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Panhala",
+    "name_mr": "",
+    "code": "542844",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542841",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "542841",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542842",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pandurna Kh",
+    "name_mr": "",
+    "code": "542842",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542782",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shivaji Nagar",
+    "name_mr": "",
+    "code": "542782",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542781",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Asarpend",
+    "name_mr": "",
+    "code": "542781",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542761",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kurhadi",
+    "name_mr": "",
+    "code": "542761",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542759",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "542759",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542757",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Yeranda",
+    "name_mr": "",
+    "code": "542757",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542762",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jamb Bajar",
+    "name_mr": "",
+    "code": "542762",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542760",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jamshetpur",
+    "name_mr": "",
+    "code": "542760",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542790",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Aregaon Kh",
+    "name_mr": "",
+    "code": "542790",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542846",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Marwadi Kh",
+    "name_mr": "",
+    "code": "542846",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542764",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shelu Kh.",
+    "name_mr": "",
+    "code": "542764",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542845",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Manjarjawala (kh)",
+    "name_mr": "",
+    "code": "542845",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542847",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dhanora Ijara",
+    "name_mr": "",
+    "code": "542847",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542853",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Waghjali",
+    "name_mr": "",
+    "code": "542853",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542783",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Ram Nagar",
+    "name_mr": "",
+    "code": "542783",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542850",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Nandura Ijara",
+    "name_mr": "",
+    "code": "542850",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542758",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kopra Kh.",
+    "name_mr": "",
+    "code": "542758",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542785",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Ashwinpur",
+    "name_mr": "",
+    "code": "542785",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542766",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "542766",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542848",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Singarwadi",
+    "name_mr": "",
+    "code": "542848",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542784",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Moha Ijara",
+    "name_mr": "",
+    "code": "542784",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542786",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "542786",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542765",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bhojala",
+    "name_mr": "",
+    "code": "542765",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542852",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Manjarjawala",
+    "name_mr": "",
+    "code": "542852",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542788",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "542788",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542854",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kanherwadi",
+    "name_mr": "",
+    "code": "542854",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542769",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "542769",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542789",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Aregaon Bk.",
+    "name_mr": "",
+    "code": "542789",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542851",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hanwat Kheda",
+    "name_mr": "",
+    "code": "542851",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542865",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hiwalni (T)",
+    "name_mr": "",
+    "code": "542865",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542794",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Katkheda Bk.",
+    "name_mr": "",
+    "code": "542794",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542795",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Indira Nagar",
+    "name_mr": "",
+    "code": "542795",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542919",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shrirampur (CT)",
+    "name_mr": "",
+    "code": "542919",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542864",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "542864",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542866",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Vasantwadi",
+    "name_mr": "",
+    "code": "542866",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542796",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bhatamba",
+    "name_mr": "",
+    "code": "542796",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542861",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Amrut Nagar",
+    "name_mr": "",
+    "code": "542861",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542860",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hiwalni Kh",
+    "name_mr": "",
+    "code": "542860",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542773",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kawadipur",
+    "name_mr": "",
+    "code": "542773",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542799",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hegadi",
+    "name_mr": "",
+    "code": "542799",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542804",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Mansal",
+    "name_mr": "",
+    "code": "542804",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542812",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hudi Kh",
+    "name_mr": "",
+    "code": "542812",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542868",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pandhurna Bk",
+    "name_mr": "",
+    "code": "542868",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542800",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Chilwadi",
+    "name_mr": "",
+    "code": "542800",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542872",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pimpalgaon Ijara",
+    "name_mr": "",
+    "code": "542872",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542803",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kakaddati",
+    "name_mr": "",
+    "code": "542803",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542869",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "542869",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542862",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "542862",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542870",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hanuman Nagar",
+    "name_mr": "",
+    "code": "542870",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542806",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Wadsad",
+    "name_mr": "",
+    "code": "542806",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542805",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dhansal",
+    "name_mr": "",
+    "code": "542805",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542810",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kopra Bk",
+    "name_mr": "",
+    "code": "542810",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542798",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hudi Bk",
+    "name_mr": "",
+    "code": "542798",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542807",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bori Kh",
+    "name_mr": "",
+    "code": "542807",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542863",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jawali",
+    "name_mr": "",
+    "code": "542863",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542871",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Amati",
+    "name_mr": "",
+    "code": "542871",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542873",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Fetra",
+    "name_mr": "",
+    "code": "542873",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542821",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Upavanwadi",
+    "name_mr": "",
+    "code": "542821",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542813",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Chikani",
+    "name_mr": "",
+    "code": "542813",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542874",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Khairkheda",
+    "name_mr": "",
+    "code": "542874",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542808",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bori Machchhindar",
+    "name_mr": "",
+    "code": "542808",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542819",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "542819",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542820",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Deokarla",
+    "name_mr": "",
+    "code": "542820",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542825",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Palu",
+    "name_mr": "",
+    "code": "542825",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542830",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sandwa",
+    "name_mr": "",
+    "code": "542830",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542826",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dahiwad Bk",
+    "name_mr": "",
+    "code": "542826",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542832",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Khadakdari",
+    "name_mr": "",
+    "code": "542832",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542829",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dhansing Nagar",
+    "name_mr": "",
+    "code": "542829",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542878",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kadoli",
+    "name_mr": "",
+    "code": "542878",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542876",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Horkad",
+    "name_mr": "",
+    "code": "542876",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542885",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jawla",
+    "name_mr": "",
+    "code": "542885",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542884",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Deothana",
+    "name_mr": "",
+    "code": "542884",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542891",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Fulwadi",
+    "name_mr": "",
+    "code": "542891",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542834",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Harshi",
+    "name_mr": "",
+    "code": "542834",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542833",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kharshi",
+    "name_mr": "",
+    "code": "542833",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542835",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "542835",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542831",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Londari",
+    "name_mr": "",
+    "code": "542831",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542887",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jamnaik (1)",
+    "name_mr": "",
+    "code": "542887",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542888",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jamnaik (2)",
+    "name_mr": "",
+    "code": "542888",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542889",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Lohara Ijara",
+    "name_mr": "",
+    "code": "542889",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542890",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Lohara Kh.",
+    "name_mr": "",
+    "code": "542890",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542886",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gadi",
+    "name_mr": "",
+    "code": "542886",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542892",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sawargaon Bangla",
+    "name_mr": "",
+    "code": "542892",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542915",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Balawadi",
+    "name_mr": "",
+    "code": "542915",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542910",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Inapur",
+    "name_mr": "",
+    "code": "542910",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542914",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Goul Kh",
+    "name_mr": "",
+    "code": "542914",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542913",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Bibi",
+    "name_mr": "",
+    "code": "542913",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542912",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dharamwadi",
+    "name_mr": "",
+    "code": "542912",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542916",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shivaji Nagar",
+    "name_mr": "",
+    "code": "542916",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542895",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Ansing",
+    "name_mr": "",
+    "code": "542895",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542894",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gopwadi",
+    "name_mr": "",
+    "code": "542894",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542896",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gaul Manjari",
+    "name_mr": "",
+    "code": "542896",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542911",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Malasoli",
+    "name_mr": "",
+    "code": "542911",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542893",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Buti Ijara",
+    "name_mr": "",
+    "code": "542893",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542918",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shilona",
+    "name_mr": "",
+    "code": "542918",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542917",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Chirangwadi",
+    "name_mr": "",
+    "code": "542917",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542909",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Amdari",
+    "name_mr": "",
+    "code": "542909",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542900",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Uti",
+    "name_mr": "",
+    "code": "542900",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542897",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "542897",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542898",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pachkuduk",
+    "name_mr": "",
+    "code": "542898",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542899",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Satefol",
+    "name_mr": "",
+    "code": "542899",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542901",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "542901",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542907",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dagad Dhanora",
+    "name_mr": "",
+    "code": "542907",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542906",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Jagapur",
+    "name_mr": "",
+    "code": "542906",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542908",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Hiwalni Palampat",
+    "name_mr": "",
+    "code": "542908",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542903",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shambal Pimpri",
+    "name_mr": "",
+    "code": "542903",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542905",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Gaul Bk",
+    "name_mr": "",
+    "code": "542905",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542902",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Deogavhan",
+    "name_mr": "",
+    "code": "542902",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542904",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Kolha (Pa)",
+    "name_mr": "",
+    "code": "542904",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542811",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "542811",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542809",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Shelu Bk",
+    "name_mr": "",
+    "code": "542809",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542816",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Krushna Nagar",
+    "name_mr": "",
+    "code": "542816",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542801",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Borgadi",
+    "name_mr": "",
+    "code": "542801",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  },
+  {
+    "village_id": "v-542802",
+    "district_id": "yavatmal",
+    "taluka_id": "pusad",
+    "name_en": "Dhanakeshwar",
+    "name_mr": "",
+    "code": "542802",
+    "boundary_file": "/data/boundaries/villages/yavatmal/pusad.geojson"
+  }
+]

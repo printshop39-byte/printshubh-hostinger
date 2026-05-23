@@ -1,0 +1,1892 @@
+[
+  {
+    "village_id": "v-553190",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Bursunge",
+    "name_mr": "",
+    "code": "553190",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553159",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "553159",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553101",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Brahmangaon",
+    "name_mr": "",
+    "code": "553101",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553160",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "553160",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553175",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "553175",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553186",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Vidhyanagar",
+    "name_mr": "",
+    "code": "553186",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553162",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Narayangaon",
+    "name_mr": "",
+    "code": "553162",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553166",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Manivali Kh.",
+    "name_mr": "",
+    "code": "553166",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553161",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mohap",
+    "name_mr": "",
+    "code": "553161",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553171",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ojiwale",
+    "name_mr": "",
+    "code": "553171",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553117",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shivale",
+    "name_mr": "",
+    "code": "553117",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553105",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kishor",
+    "name_mr": "",
+    "code": "553105",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553158",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mangaon",
+    "name_mr": "",
+    "code": "553158",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553102",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Temgaon",
+    "name_mr": "",
+    "code": "553102",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553176",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Chafe Tarf Khedul",
+    "name_mr": "",
+    "code": "553176",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553164",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dahivali",
+    "name_mr": "",
+    "code": "553164",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553168",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khedale",
+    "name_mr": "",
+    "code": "553168",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553167",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Talwali Tarf Ghorad",
+    "name_mr": "",
+    "code": "553167",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553118",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nadhai",
+    "name_mr": "",
+    "code": "553118",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553103",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dhanivali",
+    "name_mr": "",
+    "code": "553103",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553169",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Parhe",
+    "name_mr": "",
+    "code": "553169",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553180",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "553180",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553188",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Veluk",
+    "name_mr": "",
+    "code": "553188",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553189",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Alawe",
+    "name_mr": "",
+    "code": "553189",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553201",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "553201",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553110",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Pasheni",
+    "name_mr": "",
+    "code": "553110",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553240",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kanharle",
+    "name_mr": "",
+    "code": "553240",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553184",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "553184",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553247",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Madh",
+    "name_mr": "",
+    "code": "553247",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553130",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khandare",
+    "name_mr": "",
+    "code": "553130",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553242",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Padale",
+    "name_mr": "",
+    "code": "553242",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553121",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Fansoli",
+    "name_mr": "",
+    "code": "553121",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553245",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kheware",
+    "name_mr": "",
+    "code": "553245",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553249",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Jaigaon",
+    "name_mr": "",
+    "code": "553249",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553129",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Jamghar",
+    "name_mr": "",
+    "code": "553129",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553239",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Vidhe",
+    "name_mr": "",
+    "code": "553239",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553251",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Koloshi",
+    "name_mr": "",
+    "code": "553251",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553123",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kole",
+    "name_mr": "",
+    "code": "553123",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553131",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "553131",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553253",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kalambhe",
+    "name_mr": "",
+    "code": "553253",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553133",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shiravali",
+    "name_mr": "",
+    "code": "553133",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553124",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Vehare",
+    "name_mr": "",
+    "code": "553124",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553254",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kalambad Mu",
+    "name_mr": "",
+    "code": "553254",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553264",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Umbroli Kh.",
+    "name_mr": "",
+    "code": "553264",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553250",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dudhanoli",
+    "name_mr": "",
+    "code": "553250",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553248",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Durgapur",
+    "name_mr": "",
+    "code": "553248",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553132",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shedali",
+    "name_mr": "",
+    "code": "553132",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553252",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khutarwadigaon (N.V.)",
+    "name_mr": "",
+    "code": "553252",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553134",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Manivali Shirvali",
+    "name_mr": "",
+    "code": "553134",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553258",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Rao",
+    "name_mr": "",
+    "code": "553258",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553257",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mharas",
+    "name_mr": "",
+    "code": "553257",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553265",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "553265",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553267",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dehari",
+    "name_mr": "",
+    "code": "553267",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553255",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Tulai",
+    "name_mr": "",
+    "code": "553255",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553261",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Talekhal",
+    "name_mr": "",
+    "code": "553261",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553263",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Milhe",
+    "name_mr": "",
+    "code": "553263",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553192",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khed",
+    "name_mr": "",
+    "code": "553192",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553191",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mandus",
+    "name_mr": "",
+    "code": "553191",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553207",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Merdi",
+    "name_mr": "",
+    "code": "553207",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553193",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shai",
+    "name_mr": "",
+    "code": "553193",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553195",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Wanote",
+    "name_mr": "",
+    "code": "553195",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553199",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kharshet Umbroli",
+    "name_mr": "",
+    "code": "553199",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553194",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "553194",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553196",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shiroshi",
+    "name_mr": "",
+    "code": "553196",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553200",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Fangaloshi",
+    "name_mr": "",
+    "code": "553200",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553227",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Walhivale",
+    "name_mr": "",
+    "code": "553227",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553197",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mal",
+    "name_mr": "",
+    "code": "553197",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553211",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khutal Baragaon",
+    "name_mr": "",
+    "code": "553211",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553229",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Thitabi Tarf Vaishakhare",
+    "name_mr": "",
+    "code": "553229",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553202",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Jadai",
+    "name_mr": "",
+    "code": "553202",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553210",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nyahadi",
+    "name_mr": "",
+    "code": "553210",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553203",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ambiwali",
+    "name_mr": "",
+    "code": "553203",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553206",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dighephal",
+    "name_mr": "",
+    "code": "553206",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553205",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kochare Bk.",
+    "name_mr": "",
+    "code": "553205",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553212",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Chasole",
+    "name_mr": "",
+    "code": "553212",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553204",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kochare Kh.",
+    "name_mr": "",
+    "code": "553204",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553230",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sawarne",
+    "name_mr": "",
+    "code": "553230",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553088",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Chikhale",
+    "name_mr": "",
+    "code": "553088",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553224",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Fangane",
+    "name_mr": "",
+    "code": "553224",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553231",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Fangulgavhan",
+    "name_mr": "",
+    "code": "553231",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-651991",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Morgaon (N.V.)",
+    "name_mr": "",
+    "code": "651991",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553096",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Bhaluk",
+    "name_mr": "",
+    "code": "553096",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553147",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dhargaon",
+    "name_mr": "",
+    "code": "553147",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553138",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Manivali Bk.",
+    "name_mr": "",
+    "code": "553138",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553234",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Udaldon",
+    "name_mr": "",
+    "code": "553234",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553143",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Askot",
+    "name_mr": "",
+    "code": "553143",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553222",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kudshet",
+    "name_mr": "",
+    "code": "553222",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553090",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Karavale",
+    "name_mr": "",
+    "code": "553090",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553097",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Thakare Nagar",
+    "name_mr": "",
+    "code": "553097",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553232",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "553232",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553228",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Diwanpada",
+    "name_mr": "",
+    "code": "553228",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553223",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Zadghar",
+    "name_mr": "",
+    "code": "553223",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553233",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Bhorande",
+    "name_mr": "",
+    "code": "553233",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553145",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Pargaon",
+    "name_mr": "",
+    "code": "553145",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553153",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khutal Bangla",
+    "name_mr": "",
+    "code": "553153",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553094",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Moharai",
+    "name_mr": "",
+    "code": "553094",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553219",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Manivali Tarf Khedul",
+    "name_mr": "",
+    "code": "553219",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553115",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Malhed",
+    "name_mr": "",
+    "code": "553115",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553217",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Umaroli Bk.",
+    "name_mr": "",
+    "code": "553217",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553116",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ambele Bk.",
+    "name_mr": "",
+    "code": "553116",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553154",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ambele Kh.",
+    "name_mr": "",
+    "code": "553154",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553157",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Inde",
+    "name_mr": "",
+    "code": "553157",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553150",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Umbarpada",
+    "name_mr": "",
+    "code": "553150",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553236",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Waghgaon",
+    "name_mr": "",
+    "code": "553236",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553092",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Asole",
+    "name_mr": "",
+    "code": "553092",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553113",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Tembhare Bk.",
+    "name_mr": "",
+    "code": "553113",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553152",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Saralgaon",
+    "name_mr": "",
+    "code": "553152",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553179",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Vadgaon",
+    "name_mr": "",
+    "code": "553179",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553177",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Eklahare",
+    "name_mr": "",
+    "code": "553177",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553100",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kudavali",
+    "name_mr": "",
+    "code": "553100",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553178",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Goregaon",
+    "name_mr": "",
+    "code": "553178",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553216",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "553216",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553114",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dehanoli",
+    "name_mr": "",
+    "code": "553114",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-251487",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Murbad (NP)",
+    "name_mr": "",
+    "code": "251487",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553174",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dhasai",
+    "name_mr": "",
+    "code": "553174",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553185",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Songaon",
+    "name_mr": "",
+    "code": "553185",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553126",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khateghar",
+    "name_mr": "",
+    "code": "553126",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553170",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kandali",
+    "name_mr": "",
+    "code": "553170",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553111",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Deogaon",
+    "name_mr": "",
+    "code": "553111",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553119",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sajai",
+    "name_mr": "",
+    "code": "553119",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553260",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ghagurli",
+    "name_mr": "",
+    "code": "553260",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553266",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Gorakhgad",
+    "name_mr": "",
+    "code": "553266",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553137",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Tondali",
+    "name_mr": "",
+    "code": "553137",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553270",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ambegaon",
+    "name_mr": "",
+    "code": "553270",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553269",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sakurli",
+    "name_mr": "",
+    "code": "553269",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553274",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mohaghar",
+    "name_mr": "",
+    "code": "553274",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553280",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sidhgad",
+    "name_mr": "",
+    "code": "553280",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553271",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Boriwali",
+    "name_mr": "",
+    "code": "553271",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553273",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kachakoli",
+    "name_mr": "",
+    "code": "553273",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553272",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kanhol",
+    "name_mr": "",
+    "code": "553272",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553278",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khanivare",
+    "name_mr": "",
+    "code": "553278",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553277",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Gawali",
+    "name_mr": "",
+    "code": "553277",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553283",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mangaon",
+    "name_mr": "",
+    "code": "553283",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553281",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Jambhurde",
+    "name_mr": "",
+    "code": "553281",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553282",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Chirad",
+    "name_mr": "",
+    "code": "553282",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553287",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ambe Tembhe",
+    "name_mr": "",
+    "code": "553287",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553288",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dongar Nhave",
+    "name_mr": "",
+    "code": "553288",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553284",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "553284",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553289",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Agashi",
+    "name_mr": "",
+    "code": "553289",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553275",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Chandrapur",
+    "name_mr": "",
+    "code": "553275",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553285",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Patgaon",
+    "name_mr": "",
+    "code": "553285",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553142",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sangam",
+    "name_mr": "",
+    "code": "553142",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553221",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Karchonde",
+    "name_mr": "",
+    "code": "553221",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553139",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "553139",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553225",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Awalegaon",
+    "name_mr": "",
+    "code": "553225",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553144",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kisal",
+    "name_mr": "",
+    "code": "553144",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553214",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Hedavali",
+    "name_mr": "",
+    "code": "553214",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553086",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Wadu",
+    "name_mr": "",
+    "code": "553086",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553141",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Bhadane",
+    "name_mr": "",
+    "code": "553141",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553085",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Asose",
+    "name_mr": "",
+    "code": "553085",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553098",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kolthan",
+    "name_mr": "",
+    "code": "553098",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553095",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "553095",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553084",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Hireghar",
+    "name_mr": "",
+    "code": "553084",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553235",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Vaishakhare",
+    "name_mr": "",
+    "code": "553235",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553140",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khandape",
+    "name_mr": "",
+    "code": "553140",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553091",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Waghivali",
+    "name_mr": "",
+    "code": "553091",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553148",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kasgaon",
+    "name_mr": "",
+    "code": "553148",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553215",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Tokawade",
+    "name_mr": "",
+    "code": "553215",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553213",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "553213",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553146",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sakhare",
+    "name_mr": "",
+    "code": "553146",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553149",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Wadvali",
+    "name_mr": "",
+    "code": "553149",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553093",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "553093",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553099",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Pawale",
+    "name_mr": "",
+    "code": "553099",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553156",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sayale",
+    "name_mr": "",
+    "code": "553156",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553220",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Talvali Bargaon",
+    "name_mr": "",
+    "code": "553220",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553151",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nevalpada",
+    "name_mr": "",
+    "code": "553151",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553172",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Pimpalghar",
+    "name_mr": "",
+    "code": "553172",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553106",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Potgaon",
+    "name_mr": "",
+    "code": "553106",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553104",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Wanjale",
+    "name_mr": "",
+    "code": "553104",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553165",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Majgaon",
+    "name_mr": "",
+    "code": "553165",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553173",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Alyani",
+    "name_mr": "",
+    "code": "553173",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553127",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kalamkhande",
+    "name_mr": "",
+    "code": "553127",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553125",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Bhuwan",
+    "name_mr": "",
+    "code": "553125",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553238",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Korawale",
+    "name_mr": "",
+    "code": "553238",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553183",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sonavale",
+    "name_mr": "",
+    "code": "553183",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553112",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Deope",
+    "name_mr": "",
+    "code": "553112",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553244",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mahaj",
+    "name_mr": "",
+    "code": "553244",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553181",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Deoghar",
+    "name_mr": "",
+    "code": "553181",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553107",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ghorale",
+    "name_mr": "",
+    "code": "553107",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553243",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mandwat",
+    "name_mr": "",
+    "code": "553243",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553109",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nandeni",
+    "name_mr": "",
+    "code": "553109",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553241",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Thune",
+    "name_mr": "",
+    "code": "553241",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553246",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kalanbhad  (Bhondivale)",
+    "name_mr": "",
+    "code": "553246",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553279",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Uchale",
+    "name_mr": "",
+    "code": "553279",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553256",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Bandhivali",
+    "name_mr": "",
+    "code": "553256",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "submerged-dup-153",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553259",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kedurli",
+    "name_mr": "",
+    "code": "553259",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553136",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Nhave",
+    "name_mr": "",
+    "code": "553136",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553262",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Khopivali",
+    "name_mr": "",
+    "code": "553262",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553268",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Narivali",
+    "name_mr": "",
+    "code": "553268",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553135",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sasane",
+    "name_mr": "",
+    "code": "553135",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553163",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Dangurle",
+    "name_mr": "",
+    "code": "553163",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553187",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Singapur",
+    "name_mr": "",
+    "code": "553187",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553182",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Palu",
+    "name_mr": "",
+    "code": "553182",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553128",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Kondesakhare",
+    "name_mr": "",
+    "code": "553128",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553208",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Paronde (N.V.)",
+    "name_mr": "",
+    "code": "553208",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553209",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Panshet (N.V.)",
+    "name_mr": "",
+    "code": "553209",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553087",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Shidgaon",
+    "name_mr": "",
+    "code": "553087",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553089",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Anandnagar",
+    "name_mr": "",
+    "code": "553089",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553218",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Ranjangaon",
+    "name_mr": "",
+    "code": "553218",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553276",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mhase",
+    "name_mr": "",
+    "code": "553276",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553286",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Mohghar",
+    "name_mr": "",
+    "code": "553286",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553155",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Sajgaon",
+    "name_mr": "",
+    "code": "553155",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553237",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "553237",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553198",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Anandnagar",
+    "name_mr": "",
+    "code": "553198",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553108",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Masale",
+    "name_mr": "",
+    "code": "553108",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-943929",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Vashivali - Bhakai",
+    "name_mr": "",
+    "code": "943929",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-943928",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Birwadi",
+    "name_mr": "",
+    "code": "943928",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  },
+  {
+    "village_id": "v-553226",
+    "district_id": "thane",
+    "taluka_id": "murbad",
+    "name_en": "Moroshi",
+    "name_mr": "",
+    "code": "553226",
+    "boundary_file": "/data/boundaries/villages/thane/murbad.geojson"
+  }
+]

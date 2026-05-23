@@ -1,0 +1,1460 @@
+[
+  {
+    "village_id": "v-536008",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "536008",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536019",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wanadongri",
+    "name_mr": "",
+    "code": "536019",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536107",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "536107",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536110",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Pipri",
+    "name_mr": "",
+    "code": "536110",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536108",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "536108",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536109",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "536109",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536105",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "536105",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536021",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "536021",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536111",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Devali",
+    "name_mr": "",
+    "code": "536111",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536106",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khapa",
+    "name_mr": "",
+    "code": "536106",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536129",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Takalghat (CT)",
+    "name_mr": "",
+    "code": "536129",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536018",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "536018",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536017",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "536017",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536112",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "536112",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536114",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bid-ganeshpur",
+    "name_mr": "",
+    "code": "536114",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536010",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mandawa",
+    "name_mr": "",
+    "code": "536010",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536006",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "536006",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536101",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kirmiti",
+    "name_mr": "",
+    "code": "536101",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536009",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "536009",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536011",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bhansoli",
+    "name_mr": "",
+    "code": "536011",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536013",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kanholibara",
+    "name_mr": "",
+    "code": "536013",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536012",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "536012",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536014",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mauda",
+    "name_mr": "",
+    "code": "536014",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536100",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Turkmari",
+    "name_mr": "",
+    "code": "536100",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536005",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Devali",
+    "name_mr": "",
+    "code": "536005",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536103",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Tembhari",
+    "name_mr": "",
+    "code": "536103",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536102",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wateghat",
+    "name_mr": "",
+    "code": "536102",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536104",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "536104",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536020",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khapari (Gandhi)",
+    "name_mr": "",
+    "code": "536020",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536016",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bibi",
+    "name_mr": "",
+    "code": "536016",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536026",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khairi Khurd",
+    "name_mr": "",
+    "code": "536026",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536022",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Waranga",
+    "name_mr": "",
+    "code": "536022",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536023",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Alesur",
+    "name_mr": "",
+    "code": "536023",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536116",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khapri (Moreshwar)",
+    "name_mr": "",
+    "code": "536116",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536113",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dewapur",
+    "name_mr": "",
+    "code": "536113",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536015",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Chauki",
+    "name_mr": "",
+    "code": "536015",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536080",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "536080",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536089",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wayfal",
+    "name_mr": "",
+    "code": "536089",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535992",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khapri (Karlekar)",
+    "name_mr": "",
+    "code": "535992",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536079",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Pitesur",
+    "name_mr": "",
+    "code": "536079",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536088",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Menkhat",
+    "name_mr": "",
+    "code": "536088",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535997",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bid nilzodi",
+    "name_mr": "",
+    "code": "535997",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535998",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Degma Bk",
+    "name_mr": "",
+    "code": "535998",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535999",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mandawa",
+    "name_mr": "",
+    "code": "535999",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535996",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kokardi",
+    "name_mr": "",
+    "code": "535996",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536087",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "536087",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536085",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kanholi",
+    "name_mr": "",
+    "code": "536085",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536092",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sukali (Gharpure)",
+    "name_mr": "",
+    "code": "536092",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535995",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nawegaon",
+    "name_mr": "",
+    "code": "535995",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535993",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Keragondi",
+    "name_mr": "",
+    "code": "535993",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536090",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Katangdhara",
+    "name_mr": "",
+    "code": "536090",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536126",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Waddhamana (CT)",
+    "name_mr": "",
+    "code": "536126",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536127",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nagalwadi",
+    "name_mr": "",
+    "code": "536127",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536039",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "536039",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536033",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Turagondi",
+    "name_mr": "",
+    "code": "536033",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536123",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nildoh (NP)",
+    "name_mr": "",
+    "code": "536123",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536040",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sawardhota",
+    "name_mr": "",
+    "code": "536040",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536034",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "536034",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536038",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sinka",
+    "name_mr": "",
+    "code": "536038",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536035",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "536035",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536037",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "536037",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536042",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khairi (Sita)",
+    "name_mr": "",
+    "code": "536042",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536032",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "536032",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536036",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nildoh",
+    "name_mr": "",
+    "code": "536036",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-251363",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wanadongri (M Cl)",
+    "name_mr": "",
+    "code": "251363",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536043",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "536043",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536047",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sukali (Kalar)",
+    "name_mr": "",
+    "code": "536047",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536054",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "536054",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535979",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nandera",
+    "name_mr": "",
+    "code": "535979",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536044",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Metaumari",
+    "name_mr": "",
+    "code": "536044",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536128",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Isasani",
+    "name_mr": "",
+    "code": "536128",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536045",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mhasala",
+    "name_mr": "",
+    "code": "536045",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536048",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "536048",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536052",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "536052",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535975",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Digdoh",
+    "name_mr": "",
+    "code": "535975",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536053",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "536053",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-263362",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Hingna (NP)",
+    "name_mr": "",
+    "code": "263362",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536051",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mangli",
+    "name_mr": "",
+    "code": "536051",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536046",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bid-mhasala",
+    "name_mr": "",
+    "code": "536046",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536050",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "536050",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536056",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "536056",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535974",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Devali (Kalbande)",
+    "name_mr": "",
+    "code": "535974",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536049",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Zilpi",
+    "name_mr": "",
+    "code": "536049",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535976",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Walani",
+    "name_mr": "",
+    "code": "535976",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536065",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "536065",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "ambajhari-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "AMBAJHARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536066",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "536066",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535977",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Agargaon",
+    "name_mr": "",
+    "code": "535977",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536058",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mandavghorad",
+    "name_mr": "",
+    "code": "536058",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535973",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "535973",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "sonegaon-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "SONEGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535978",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dabha",
+    "name_mr": "",
+    "code": "535978",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536061",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "536061",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536059",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bhivkund",
+    "name_mr": "",
+    "code": "536059",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536057",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nanda Kh",
+    "name_mr": "",
+    "code": "536057",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535980",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Ambazari",
+    "name_mr": "",
+    "code": "535980",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536073",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sumthana",
+    "name_mr": "",
+    "code": "536073",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536063",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Ukhali",
+    "name_mr": "",
+    "code": "536063",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535984",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khapa Kh",
+    "name_mr": "",
+    "code": "535984",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536067",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khadka",
+    "name_mr": "",
+    "code": "536067",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535985",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Amgaon",
+    "name_mr": "",
+    "code": "535985",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536064",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mondha",
+    "name_mr": "",
+    "code": "536064",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535981",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Yerangaon",
+    "name_mr": "",
+    "code": "535981",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536062",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khairy Kh",
+    "name_mr": "",
+    "code": "536062",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535986",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Gaurala",
+    "name_mr": "",
+    "code": "535986",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "degma-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "DEGMA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536070",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Panjari",
+    "name_mr": "",
+    "code": "536070",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535989",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mohgaon-Dholya",
+    "name_mr": "",
+    "code": "535989",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536060",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Degma Kh",
+    "name_mr": "",
+    "code": "536060",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536068",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Salaimendha",
+    "name_mr": "",
+    "code": "536068",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535988",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "535988",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536075",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sondapar",
+    "name_mr": "",
+    "code": "536075",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535983",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Gidamgad",
+    "name_mr": "",
+    "code": "535983",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536074",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kotewada",
+    "name_mr": "",
+    "code": "536074",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536071",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kirmati",
+    "name_mr": "",
+    "code": "536071",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535990",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kavdas",
+    "name_mr": "",
+    "code": "535990",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535982",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khapa Nipani",
+    "name_mr": "",
+    "code": "535982",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535987",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Gothangaon",
+    "name_mr": "",
+    "code": "535987",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536072",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Shivmadka",
+    "name_mr": "",
+    "code": "536072",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536069",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sawangi (Devali)",
+    "name_mr": "",
+    "code": "536069",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536077",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Devali (Amgaon)",
+    "name_mr": "",
+    "code": "536077",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536081",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Ladgaon",
+    "name_mr": "",
+    "code": "536081",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536078",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bid-borgaon",
+    "name_mr": "",
+    "code": "536078",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536076",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Gumgaon",
+    "name_mr": "",
+    "code": "536076",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-95",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536084",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "536084",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535991",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "535991",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536082",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Godhani",
+    "name_mr": "",
+    "code": "536082",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536083",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "536083",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536086",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kanholi (Rithi)",
+    "name_mr": "",
+    "code": "536086",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536093",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Datala",
+    "name_mr": "",
+    "code": "536093",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-535994",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Khorikhapa",
+    "name_mr": "",
+    "code": "535994",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536000",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Nanhi",
+    "name_mr": "",
+    "code": "536000",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536091",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Pipardhara",
+    "name_mr": "",
+    "code": "536091",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536001",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Mathani",
+    "name_mr": "",
+    "code": "536001",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536096",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Salaidabha",
+    "name_mr": "",
+    "code": "536096",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536002",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Itewahi",
+    "name_mr": "",
+    "code": "536002",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "bid-sukli-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "BID SUKLI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536095",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Devalipeth",
+    "name_mr": "",
+    "code": "536095",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536094",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Chinchghat",
+    "name_mr": "",
+    "code": "536094",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536004",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "536004",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536098",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sirul",
+    "name_mr": "",
+    "code": "536098",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536007",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Singardip",
+    "name_mr": "",
+    "code": "536007",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536097",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Pohi",
+    "name_mr": "",
+    "code": "536097",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536003",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kajali",
+    "name_mr": "",
+    "code": "536003",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536024",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Dhokarda",
+    "name_mr": "",
+    "code": "536024",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536115",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Murzari",
+    "name_mr": "",
+    "code": "536115",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536025",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "536025",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536117",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Kohala",
+    "name_mr": "",
+    "code": "536117",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536027",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Ghodeghat",
+    "name_mr": "",
+    "code": "536027",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536118",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Junapani",
+    "name_mr": "",
+    "code": "536118",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536029",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Ajangaon",
+    "name_mr": "",
+    "code": "536029",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-96",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536119",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Asola",
+    "name_mr": "",
+    "code": "536119",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536028",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bid-Ajangaon",
+    "name_mr": "",
+    "code": "536028",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536030",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "536030",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536031",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Haladgaon",
+    "name_mr": "",
+    "code": "536031",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536120",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "536120",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536121",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Bhansuli",
+    "name_mr": "",
+    "code": "536121",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536122",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Ghogali",
+    "name_mr": "",
+    "code": "536122",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  },
+  {
+    "village_id": "v-536099",
+    "district_id": "nagpur",
+    "taluka_id": "hingna",
+    "name_en": "Satgaon (Vena Nagar)",
+    "name_mr": "",
+    "code": "536099",
+    "boundary_file": "/data/boundaries/villages/nagpur/hingna.geojson"
+  }
+]

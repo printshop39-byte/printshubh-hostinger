@@ -1,0 +1,983 @@
+[
+  {
+    "village_id": "wairagarh-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "WAIRAGARH RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "armori-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "ARMORI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538506",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "538506",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538510",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Pathargota",
+    "name_mr": "",
+    "code": "538510",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538505",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kasavi",
+    "name_mr": "",
+    "code": "538505",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538504",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Ravi",
+    "name_mr": "",
+    "code": "538504",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-297866",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Armori (M CI)",
+    "name_mr": "",
+    "code": "297866",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538512",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "538512",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538509",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Shankarnagar",
+    "name_mr": "",
+    "code": "538509",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538508",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Manjewada",
+    "name_mr": "",
+    "code": "538508",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538507",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "538507",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538511",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Jogisakhara",
+    "name_mr": "",
+    "code": "538511",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538514",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mulur Rith",
+    "name_mr": "",
+    "code": "538514",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538513",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Rampur Chak",
+    "name_mr": "",
+    "code": "538513",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538515",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mulur Chak",
+    "name_mr": "",
+    "code": "538515",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "delondi-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "DELONDI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538536",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Nawargaon Alias Ramtola",
+    "name_mr": "",
+    "code": "538536",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538521",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Salmara",
+    "name_mr": "",
+    "code": "538521",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538535",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Chavela",
+    "name_mr": "",
+    "code": "538535",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538520",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kaneri",
+    "name_mr": "",
+    "code": "538520",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538538",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kulkuli",
+    "name_mr": "",
+    "code": "538538",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538537",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Nawargaon (Maktta)",
+    "name_mr": "",
+    "code": "538537",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538533",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Purana Wairagad",
+    "name_mr": "",
+    "code": "538533",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538517",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Waghala",
+    "name_mr": "",
+    "code": "538517",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538551",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Wairagad",
+    "name_mr": "",
+    "code": "538551",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538531",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Patanwada",
+    "name_mr": "",
+    "code": "538531",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538532",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Sukala",
+    "name_mr": "",
+    "code": "538532",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538539",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Tultuli",
+    "name_mr": "",
+    "code": "538539",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538540",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mangda",
+    "name_mr": "",
+    "code": "538540",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538550",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mendhebodi Chak",
+    "name_mr": "",
+    "code": "538550",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538546",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Shioni Kh",
+    "name_mr": "",
+    "code": "538546",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538523",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "538523",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538534",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mohazari Alias Sukarbodi",
+    "name_mr": "",
+    "code": "538534",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538526",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Thanegaon",
+    "name_mr": "",
+    "code": "538526",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "protected-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "PROTECTED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538564",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Bhakrondi",
+    "name_mr": "",
+    "code": "538564",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538541",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kosari",
+    "name_mr": "",
+    "code": "538541",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538548",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mohzari",
+    "name_mr": "",
+    "code": "538548",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538544",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Delanwadi",
+    "name_mr": "",
+    "code": "538544",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538530",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Chamorshi Chak",
+    "name_mr": "",
+    "code": "538530",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538524",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Shioni Bk",
+    "name_mr": "",
+    "code": "538524",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538552",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "538552",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538545",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Nagarwahi",
+    "name_mr": "",
+    "code": "538545",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538527",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Wasala",
+    "name_mr": "",
+    "code": "538527",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538528",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Wankhi",
+    "name_mr": "",
+    "code": "538528",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538525",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Dongargaon (Bhusari)",
+    "name_mr": "",
+    "code": "538525",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538543",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Nagarwahi Chak",
+    "name_mr": "",
+    "code": "538543",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538563",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "538563",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538542",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Manapur",
+    "name_mr": "",
+    "code": "538542",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538549",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Dongar Tamasi",
+    "name_mr": "",
+    "code": "538549",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538547",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Dongar Tamasi Patch",
+    "name_mr": "",
+    "code": "538547",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538558",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Thotebodi",
+    "name_mr": "",
+    "code": "538558",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538562",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Davandi",
+    "name_mr": "",
+    "code": "538562",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538529",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Chamarshi",
+    "name_mr": "",
+    "code": "538529",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538561",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Paraswadi",
+    "name_mr": "",
+    "code": "538561",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "dongartamasi-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "DONGARTAMASI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538565",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Bhansi",
+    "name_mr": "",
+    "code": "538565",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538578",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Karpada Chak",
+    "name_mr": "",
+    "code": "538578",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538579",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Sonpur Chak",
+    "name_mr": "",
+    "code": "538579",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538553",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "538553",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538554",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "538554",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538560",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Pisewadodha",
+    "name_mr": "",
+    "code": "538560",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538555",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kurandi Chak",
+    "name_mr": "",
+    "code": "538555",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538556",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kurandi",
+    "name_mr": "",
+    "code": "538556",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538559",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Yengada",
+    "name_mr": "",
+    "code": "538559",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538557",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "538557",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-42",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538587",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Akapur Chak",
+    "name_mr": "",
+    "code": "538587",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538588",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kitadi",
+    "name_mr": "",
+    "code": "538588",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538572",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Narchuli",
+    "name_mr": "",
+    "code": "538572",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538592",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Naroti",
+    "name_mr": "",
+    "code": "538592",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538591",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Borkanhar Patch",
+    "name_mr": "",
+    "code": "538591",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538589",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Churmura",
+    "name_mr": "",
+    "code": "538589",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "delora-reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "DELORA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538590",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Surya Dongari",
+    "name_mr": "",
+    "code": "538590",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538593",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Darli",
+    "name_mr": "",
+    "code": "538593",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538594",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Waddha",
+    "name_mr": "",
+    "code": "538594",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538595",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Bori Chak",
+    "name_mr": "",
+    "code": "538595",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538596",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Bodadha Chak",
+    "name_mr": "",
+    "code": "538596",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538603",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Tembha Chak",
+    "name_mr": "",
+    "code": "538603",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538605",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Chicholi Chak",
+    "name_mr": "",
+    "code": "538605",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538604",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "538604",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538566",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "538566",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538575",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Injewari",
+    "name_mr": "",
+    "code": "538575",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538577",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kojabi",
+    "name_mr": "",
+    "code": "538577",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538567",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "538567",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538582",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Mohatola Alias Kukadi",
+    "name_mr": "",
+    "code": "538582",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538580",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Naroti Chak",
+    "name_mr": "",
+    "code": "538580",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538583",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "538583",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538576",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Pewati Alias Nawegaon",
+    "name_mr": "",
+    "code": "538576",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538574",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "538574",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538585",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Ganeshpur Chak",
+    "name_mr": "",
+    "code": "538585",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538570",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Koregaon",
+    "name_mr": "",
+    "code": "538570",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538568",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Khardi",
+    "name_mr": "",
+    "code": "538568",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538581",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "538581",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538569",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Wankheda",
+    "name_mr": "",
+    "code": "538569",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538586",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Peth Tukum",
+    "name_mr": "",
+    "code": "538586",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538584",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Sirsi",
+    "name_mr": "",
+    "code": "538584",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538573",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Dongar Sawangi",
+    "name_mr": "",
+    "code": "538573",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538571",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Wanarchuwa",
+    "name_mr": "",
+    "code": "538571",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538597",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Deloda Bk.",
+    "name_mr": "",
+    "code": "538597",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538606",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "538606",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538598",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Deloda Kh.",
+    "name_mr": "",
+    "code": "538598",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538602",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Deshpur Chak",
+    "name_mr": "",
+    "code": "538602",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538599",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Kurunza",
+    "name_mr": "",
+    "code": "538599",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538600",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Devipur Kamp",
+    "name_mr": "",
+    "code": "538600",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "v-538601",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "Deshapur",
+    "name_mr": "",
+    "code": "538601",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "armori",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/armori.geojson"
+  }
+]

@@ -1,0 +1,1505 @@
+[
+  {
+    "village_id": "v-565261",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Anari",
+    "name_mr": "",
+    "code": "565261",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565283",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dahivali Bk",
+    "name_mr": "",
+    "code": "565283",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565292",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Tanali",
+    "name_mr": "",
+    "code": "565292",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565294",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Shirvali",
+    "name_mr": "",
+    "code": "565294",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565270",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kond Fansavane",
+    "name_mr": "",
+    "code": "565270",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565324",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kondmala",
+    "name_mr": "",
+    "code": "565324",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565291",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ubhale",
+    "name_mr": "",
+    "code": "565291",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565293",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mirvane",
+    "name_mr": "",
+    "code": "565293",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565269",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Akuskhan Nagar",
+    "name_mr": "",
+    "code": "565269",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565295",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Naradkherki",
+    "name_mr": "",
+    "code": "565295",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565286",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ombali",
+    "name_mr": "",
+    "code": "565286",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565326",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Savarde",
+    "name_mr": "",
+    "code": "565326",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565271",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pophali Bk",
+    "name_mr": "",
+    "code": "565271",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565262",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Talsar",
+    "name_mr": "",
+    "code": "565262",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565272",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pophali",
+    "name_mr": "",
+    "code": "565272",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565284",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dahivali Kh",
+    "name_mr": "",
+    "code": "565284",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565327",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kudap",
+    "name_mr": "",
+    "code": "565327",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565296",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Tamhanmala",
+    "name_mr": "",
+    "code": "565296",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565299",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Gudhe Kh",
+    "name_mr": "",
+    "code": "565299",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565325",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Savarde Kh",
+    "name_mr": "",
+    "code": "565325",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565306",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dhokravali",
+    "name_mr": "",
+    "code": "565306",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565285",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "565285",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565297",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dugave",
+    "name_mr": "",
+    "code": "565297",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565298",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Agarwadi",
+    "name_mr": "",
+    "code": "565298",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565330",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mandki",
+    "name_mr": "",
+    "code": "565330",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565336",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dervan",
+    "name_mr": "",
+    "code": "565336",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565329",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Agave",
+    "name_mr": "",
+    "code": "565329",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565351",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kherdi (CT)",
+    "name_mr": "",
+    "code": "565351",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565200",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Majare Kaundhar",
+    "name_mr": "",
+    "code": "565200",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565274",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Vaijee",
+    "name_mr": "",
+    "code": "565274",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565252",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pimpli Kh.",
+    "name_mr": "",
+    "code": "565252",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565247",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Khadpoli",
+    "name_mr": "",
+    "code": "565247",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565229",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Chinchghari",
+    "name_mr": "",
+    "code": "565229",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565198",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Katroli",
+    "name_mr": "",
+    "code": "565198",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565277",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kapsal",
+    "name_mr": "",
+    "code": "565277",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565228",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dhamanvane",
+    "name_mr": "",
+    "code": "565228",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565248",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pedhambe",
+    "name_mr": "",
+    "code": "565248",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565276",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Rehele Bhagadi",
+    "name_mr": "",
+    "code": "565276",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565201",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kaundhar Tamhane",
+    "name_mr": "",
+    "code": "565201",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565253",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kanhe",
+    "name_mr": "",
+    "code": "565253",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565202",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Marg Tamhane",
+    "name_mr": "",
+    "code": "565202",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565266",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kolkewadi",
+    "name_mr": "",
+    "code": "565266",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565256",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Terav",
+    "name_mr": "",
+    "code": "565256",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565254",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pimpli Bk",
+    "name_mr": "",
+    "code": "565254",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565208",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "565208",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565275",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Malghar",
+    "name_mr": "",
+    "code": "565275",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565259",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Adare",
+    "name_mr": "",
+    "code": "565259",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565205",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kumbharwadi",
+    "name_mr": "",
+    "code": "565205",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565279",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kalavande",
+    "name_mr": "",
+    "code": "565279",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565245",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Waloti",
+    "name_mr": "",
+    "code": "565245",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565240",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Radhanagar",
+    "name_mr": "",
+    "code": "565240",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565196",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Khopad",
+    "name_mr": "",
+    "code": "565196",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-251602",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Chiplun (M Cl)",
+    "name_mr": "",
+    "code": "251602",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565242",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dadar",
+    "name_mr": "",
+    "code": "565242",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565250",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "565250",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565193",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Gondhale",
+    "name_mr": "",
+    "code": "565193",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565227",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mirjoli",
+    "name_mr": "",
+    "code": "565227",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565243",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kalkavane",
+    "name_mr": "",
+    "code": "565243",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565273",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Shiral",
+    "name_mr": "",
+    "code": "565273",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565192",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "565192",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565226",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kondhe",
+    "name_mr": "",
+    "code": "565226",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565197",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Bhom",
+    "name_mr": "",
+    "code": "565197",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565236",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Tiware",
+    "name_mr": "",
+    "code": "565236",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565237",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Riktoli",
+    "name_mr": "",
+    "code": "565237",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565238",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Tivadi",
+    "name_mr": "",
+    "code": "565238",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565211",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Maldoli",
+    "name_mr": "",
+    "code": "565211",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565213",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Karambavane",
+    "name_mr": "",
+    "code": "565213",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565214",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ketki",
+    "name_mr": "",
+    "code": "565214",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565221",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pedhe Parshuram",
+    "name_mr": "",
+    "code": "565221",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565235",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Akale",
+    "name_mr": "",
+    "code": "565235",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565216",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Bhile",
+    "name_mr": "",
+    "code": "565216",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565241",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kadwad",
+    "name_mr": "",
+    "code": "565241",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565189",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Gangrai",
+    "name_mr": "",
+    "code": "565189",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565232",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nirbade",
+    "name_mr": "",
+    "code": "565232",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565186",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Waghivare",
+    "name_mr": "",
+    "code": "565186",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565251",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nandivase",
+    "name_mr": "",
+    "code": "565251",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565188",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Lonari Chivali Bandar",
+    "name_mr": "",
+    "code": "565188",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565187",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Bamnoli",
+    "name_mr": "",
+    "code": "565187",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565190",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Donavali",
+    "name_mr": "",
+    "code": "565190",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565231",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pali",
+    "name_mr": "",
+    "code": "565231",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565195",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kapare",
+    "name_mr": "",
+    "code": "565195",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565222",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Walope",
+    "name_mr": "",
+    "code": "565222",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565212",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Bivali",
+    "name_mr": "",
+    "code": "565212",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565233",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Moravane Bk",
+    "name_mr": "",
+    "code": "565233",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565215",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dhameli Kond",
+    "name_mr": "",
+    "code": "565215",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565217",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kaluste Bk",
+    "name_mr": "",
+    "code": "565217",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565218",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Karjikar Mohalla",
+    "name_mr": "",
+    "code": "565218",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565220",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pedhe",
+    "name_mr": "",
+    "code": "565220",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565234",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Moravane",
+    "name_mr": "",
+    "code": "565234",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565230",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Khandat",
+    "name_mr": "",
+    "code": "565230",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565239",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Swayamdev",
+    "name_mr": "",
+    "code": "565239",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565219",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Majarekashi",
+    "name_mr": "",
+    "code": "565219",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565191",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Chiveli",
+    "name_mr": "",
+    "code": "565191",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565194",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Posare",
+    "name_mr": "",
+    "code": "565194",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565223",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kalambaste",
+    "name_mr": "",
+    "code": "565223",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565246",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dalvatne",
+    "name_mr": "",
+    "code": "565246",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565199",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Hanumangaon",
+    "name_mr": "",
+    "code": "565199",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565244",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Gane",
+    "name_mr": "",
+    "code": "565244",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565249",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mouje Owali",
+    "name_mr": "",
+    "code": "565249",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565278",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kamathe",
+    "name_mr": "",
+    "code": "565278",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565203",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Marg Tamhane Kh",
+    "name_mr": "",
+    "code": "565203",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565255",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mandavkhari",
+    "name_mr": "",
+    "code": "565255",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565206",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Jodhagaon",
+    "name_mr": "",
+    "code": "565206",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565260",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Vehele",
+    "name_mr": "",
+    "code": "565260",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565280",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pachad",
+    "name_mr": "",
+    "code": "565280",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565210",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nirvhal",
+    "name_mr": "",
+    "code": "565210",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565204",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Umroli",
+    "name_mr": "",
+    "code": "565204",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565207",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "565207",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565209",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Raulgaon",
+    "name_mr": "",
+    "code": "565209",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565263",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mundhe Tarf Chiplun",
+    "name_mr": "",
+    "code": "565263",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565265",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Alore",
+    "name_mr": "",
+    "code": "565265",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565264",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nagave",
+    "name_mr": "",
+    "code": "565264",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565258",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Terav Bk",
+    "name_mr": "",
+    "code": "565258",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565257",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Vetkond",
+    "name_mr": "",
+    "code": "565257",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565282",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kamathe Kh",
+    "name_mr": "",
+    "code": "565282",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565289",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ambere Bk",
+    "name_mr": "",
+    "code": "565289",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565288",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pathardi",
+    "name_mr": "",
+    "code": "565288",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565290",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kalmundi",
+    "name_mr": "",
+    "code": "565290",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565281",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kharavate",
+    "name_mr": "",
+    "code": "565281",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565287",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Devkherki",
+    "name_mr": "",
+    "code": "565287",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565267",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kumbharli",
+    "name_mr": "",
+    "code": "565267",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565268",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "565268",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565337",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mundhe Tarf Savarda",
+    "name_mr": "",
+    "code": "565337",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565328",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kasarwadi",
+    "name_mr": "",
+    "code": "565328",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565305",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Turambao",
+    "name_mr": "",
+    "code": "565305",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565307",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Palvan",
+    "name_mr": "",
+    "code": "565307",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565304",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Gulavane",
+    "name_mr": "",
+    "code": "565304",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565308",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nivali",
+    "name_mr": "",
+    "code": "565308",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565300",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ghavalwadi",
+    "name_mr": "",
+    "code": "565300",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565335",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dervan Kh",
+    "name_mr": "",
+    "code": "565335",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565338",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kosabi",
+    "name_mr": "",
+    "code": "565338",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565331",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Mandki Kh",
+    "name_mr": "",
+    "code": "565331",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565310",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Dhakmoli",
+    "name_mr": "",
+    "code": "565310",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565333",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ambatkhol",
+    "name_mr": "",
+    "code": "565333",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565334",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Hadkani",
+    "name_mr": "",
+    "code": "565334",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565343",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Phurus",
+    "name_mr": "",
+    "code": "565343",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565344",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Durgwadi Kh",
+    "name_mr": "",
+    "code": "565344",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565309",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Ambitgaon",
+    "name_mr": "",
+    "code": "565309",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565332",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Asurde",
+    "name_mr": "",
+    "code": "565332",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565303",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pilawali Tarf Velamb",
+    "name_mr": "",
+    "code": "565303",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565301",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kalambat",
+    "name_mr": "",
+    "code": "565301",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565345",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Durgwadi",
+    "name_mr": "",
+    "code": "565345",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565339",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "565339",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565322",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kokare",
+    "name_mr": "",
+    "code": "565322",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565340",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nandgaon Kh",
+    "name_mr": "",
+    "code": "565340",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565302",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kere",
+    "name_mr": "",
+    "code": "565302",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565341",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kushivade",
+    "name_mr": "",
+    "code": "565341",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565311",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Khandotri",
+    "name_mr": "",
+    "code": "565311",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565342",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Yegaon",
+    "name_mr": "",
+    "code": "565342",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565321",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Nayashi",
+    "name_mr": "",
+    "code": "565321",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565320",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Waderu",
+    "name_mr": "",
+    "code": "565320",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565346",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Manjutri",
+    "name_mr": "",
+    "code": "565346",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565312",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Murtavade",
+    "name_mr": "",
+    "code": "565312",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565319",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Vahal",
+    "name_mr": "",
+    "code": "565319",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565313",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Katalwadi",
+    "name_mr": "",
+    "code": "565313",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565347",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pathe",
+    "name_mr": "",
+    "code": "565347",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565350",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Kutare",
+    "name_mr": "",
+    "code": "565350",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565349",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Talavade",
+    "name_mr": "",
+    "code": "565349",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565348",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Majare (Goval)",
+    "name_mr": "",
+    "code": "565348",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565318",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Vareli",
+    "name_mr": "",
+    "code": "565318",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565314",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Tondali",
+    "name_mr": "",
+    "code": "565314",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565315",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pilavali Tarf Savarda",
+    "name_mr": "",
+    "code": "565315",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565316",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Veer",
+    "name_mr": "",
+    "code": "565316",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565317",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Devpat",
+    "name_mr": "",
+    "code": "565317",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565323",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Khershet",
+    "name_mr": "",
+    "code": "565323",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-652169",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Pachambe Punarvasan Khershet (N.V.)",
+    "name_mr": "",
+    "code": "652169",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  },
+  {
+    "village_id": "v-565224",
+    "district_id": "ratnagiri",
+    "taluka_id": "chiplun",
+    "name_en": "Uktad",
+    "name_mr": "",
+    "code": "565224",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/chiplun.geojson"
+  }
+]

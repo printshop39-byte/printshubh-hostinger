@@ -1,0 +1,947 @@
+[
+  {
+    "village_id": "v-556332",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Panwali",
+    "name_mr": "",
+    "code": "556332",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556331",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "556331",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556333",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Vadgaon Bande",
+    "name_mr": "",
+    "code": "556333",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556334",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Koregaon Bhiwar",
+    "name_mr": "",
+    "code": "556334",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556330",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Patethan",
+    "name_mr": "",
+    "code": "556330",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556340",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Rahu",
+    "name_mr": "",
+    "code": "556340",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556335",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Telewadi",
+    "name_mr": "",
+    "code": "556335",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556342",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Valki",
+    "name_mr": "",
+    "code": "556342",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556336",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Pilanwadi",
+    "name_mr": "",
+    "code": "556336",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556337",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Devkarwadi",
+    "name_mr": "",
+    "code": "556337",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556338",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Mirwadi",
+    "name_mr": "",
+    "code": "556338",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556341",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "556341",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556369",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Pargaon",
+    "name_mr": "",
+    "code": "556369",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556371",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Ganesh Road",
+    "name_mr": "",
+    "code": "556371",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556339",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Dahitane",
+    "name_mr": "",
+    "code": "556339",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556343",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Delvadi",
+    "name_mr": "",
+    "code": "556343",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556370",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Nangaon",
+    "name_mr": "",
+    "code": "556370",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556349",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "556349",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556345",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Ladkatwadi",
+    "name_mr": "",
+    "code": "556345",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556372",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Amoni Mal",
+    "name_mr": "",
+    "code": "556372",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556351",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Undawadi",
+    "name_mr": "",
+    "code": "556351",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556385",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kangaon",
+    "name_mr": "",
+    "code": "556385",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556344",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Ekeriwadi",
+    "name_mr": "",
+    "code": "556344",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556368",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Galandwadi",
+    "name_mr": "",
+    "code": "556368",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556346",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Nathachiwadi",
+    "name_mr": "",
+    "code": "556346",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556350",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Tambewadi",
+    "name_mr": "",
+    "code": "556350",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556348",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Nandur",
+    "name_mr": "",
+    "code": "556348",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556384",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Hatwalan",
+    "name_mr": "",
+    "code": "556384",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556347",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Boratewadi",
+    "name_mr": "",
+    "code": "556347",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556373",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khopodi",
+    "name_mr": "",
+    "code": "556373",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556352",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khutbav",
+    "name_mr": "",
+    "code": "556352",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556377",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Dapodi",
+    "name_mr": "",
+    "code": "556377",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556380",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Nimbalkar Vasti",
+    "name_mr": "",
+    "code": "556380",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556390",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Warwand",
+    "name_mr": "",
+    "code": "556390",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556374",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Handalwadi",
+    "name_mr": "",
+    "code": "556374",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556353",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Yawat Station",
+    "name_mr": "",
+    "code": "556353",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556357",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Sahajpurwadi",
+    "name_mr": "",
+    "code": "556357",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556400",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Nanwij",
+    "name_mr": "",
+    "code": "556400",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556409",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Pedgaon",
+    "name_mr": "",
+    "code": "556409",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556356",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Jawje Buwachiwadi",
+    "name_mr": "",
+    "code": "556356",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556354",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kamatwadi",
+    "name_mr": "",
+    "code": "556354",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556401",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Sonwadi",
+    "name_mr": "",
+    "code": "556401",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556381",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Dhumalicha Mala",
+    "name_mr": "",
+    "code": "556381",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556358",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Boribhadak",
+    "name_mr": "",
+    "code": "556358",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556386",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Gar",
+    "name_mr": "",
+    "code": "556386",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556375",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kedgaon Station",
+    "name_mr": "",
+    "code": "556375",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556408",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Wadgaon Darekar",
+    "name_mr": "",
+    "code": "556408",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556363",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Yawat",
+    "name_mr": "",
+    "code": "556363",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556361",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Boriaindi",
+    "name_mr": "",
+    "code": "556361",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556355",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kasurdi",
+    "name_mr": "",
+    "code": "556355",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556410",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Shirapur",
+    "name_mr": "",
+    "code": "556410",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556376",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Deshmukh Mala",
+    "name_mr": "",
+    "code": "556376",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556388",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Navingar",
+    "name_mr": "",
+    "code": "556388",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556379",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kedgaon",
+    "name_mr": "",
+    "code": "556379",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556432",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Daund (CT)",
+    "name_mr": "",
+    "code": "556432",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556391",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Patas",
+    "name_mr": "",
+    "code": "556391",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556364",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Bhandgaon",
+    "name_mr": "",
+    "code": "556364",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556365",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Wakhari",
+    "name_mr": "",
+    "code": "556365",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556362",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Bharatgoan",
+    "name_mr": "",
+    "code": "556362",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556359",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Dalimb",
+    "name_mr": "",
+    "code": "556359",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556387",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Betwadi",
+    "name_mr": "",
+    "code": "556387",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556407",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Deulgaon Raje",
+    "name_mr": "",
+    "code": "556407",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556392",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Virobawadi",
+    "name_mr": "",
+    "code": "556392",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556405",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khorodi",
+    "name_mr": "",
+    "code": "556405",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556403",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Gopalwadi",
+    "name_mr": "",
+    "code": "556403",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556402",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Girim",
+    "name_mr": "",
+    "code": "556402",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556360",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Tamhanwadi",
+    "name_mr": "",
+    "code": "556360",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556406",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Alegaon",
+    "name_mr": "",
+    "code": "556406",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556404",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Lingali",
+    "name_mr": "",
+    "code": "556404",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556414",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Masanarwadi",
+    "name_mr": "",
+    "code": "556414",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556382",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Deulgaon Gada",
+    "name_mr": "",
+    "code": "556382",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556413",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kadamwasti",
+    "name_mr": "",
+    "code": "556413",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556411",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Hingani Berdi",
+    "name_mr": "",
+    "code": "556411",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556416",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Mergalwadi",
+    "name_mr": "",
+    "code": "556416",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556366",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khor",
+    "name_mr": "",
+    "code": "556366",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556415",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Malwadi",
+    "name_mr": "",
+    "code": "556415",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556419",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Boribel",
+    "name_mr": "",
+    "code": "556419",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556412",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kalewadi (nv)",
+    "name_mr": "",
+    "code": "556412",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556393",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kusegaon",
+    "name_mr": "",
+    "code": "556393",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556383",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Padvi",
+    "name_mr": "",
+    "code": "556383",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556397",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Pandharewadi",
+    "name_mr": "",
+    "code": "556397",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556396",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kurkumbh",
+    "name_mr": "",
+    "code": "556396",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556425",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Malthan",
+    "name_mr": "",
+    "code": "556425",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556426",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Watluj",
+    "name_mr": "",
+    "code": "556426",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556395",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Roti",
+    "name_mr": "",
+    "code": "556395",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556418",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Maladpatas",
+    "name_mr": "",
+    "code": "556418",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556367",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Pimpalachiwadi",
+    "name_mr": "",
+    "code": "556367",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556420",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Gadewadi",
+    "name_mr": "",
+    "code": "556420",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556427",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Naygaon",
+    "name_mr": "",
+    "code": "556427",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556424",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Lonarwadi",
+    "name_mr": "",
+    "code": "556424",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556398",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Jiregaon",
+    "name_mr": "",
+    "code": "556398",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556421",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Ravangaon",
+    "name_mr": "",
+    "code": "556421",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556394",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Hinganigada",
+    "name_mr": "",
+    "code": "556394",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556428",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Rajegaon",
+    "name_mr": "",
+    "code": "556428",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556423",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "556423",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556399",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Wasunde",
+    "name_mr": "",
+    "code": "556399",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556417",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kauthadi",
+    "name_mr": "",
+    "code": "556417",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556430",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Gawadebagade Wasti",
+    "name_mr": "",
+    "code": "556430",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556431",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "556431",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556422",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Nandadevi",
+    "name_mr": "",
+    "code": "556422",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556429",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Khanvate",
+    "name_mr": "",
+    "code": "556429",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556389",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Kadethanwadi",
+    "name_mr": "",
+    "code": "556389",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-251531",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Daund (M CI)",
+    "name_mr": "",
+    "code": "251531",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-556378",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Boripardhi",
+    "name_mr": "",
+    "code": "556378",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  },
+  {
+    "village_id": "v-944057",
+    "district_id": "pune",
+    "taluka_id": "daund",
+    "name_en": "Dhaigudewadi",
+    "name_mr": "",
+    "code": "944057",
+    "boundary_file": "/data/boundaries/villages/pune/daund.geojson"
+  }
+]

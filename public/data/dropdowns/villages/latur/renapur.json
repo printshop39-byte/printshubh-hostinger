@@ -1,0 +1,677 @@
+[
+  {
+    "village_id": "v-560273",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sukani",
+    "name_mr": "",
+    "code": "560273",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560274",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kostagaon",
+    "name_mr": "",
+    "code": "560274",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560278",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Godhala",
+    "name_mr": "",
+    "code": "560278",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560249",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Muslewadi",
+    "name_mr": "",
+    "code": "560249",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560275",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Lahanewadi",
+    "name_mr": "",
+    "code": "560275",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560248",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Phawde Wadi",
+    "name_mr": "",
+    "code": "560248",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560276",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Divegaon",
+    "name_mr": "",
+    "code": "560276",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560277",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Makegaon",
+    "name_mr": "",
+    "code": "560277",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560247",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Pangaon",
+    "name_mr": "",
+    "code": "560247",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560240",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Tattapur",
+    "name_mr": "",
+    "code": "560240",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560279",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Saygaon",
+    "name_mr": "",
+    "code": "560279",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560280",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Hoti",
+    "name_mr": "",
+    "code": "560280",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560282",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sarola",
+    "name_mr": "",
+    "code": "560282",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560281",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Khalangri",
+    "name_mr": "",
+    "code": "560281",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560241",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Wala",
+    "name_mr": "",
+    "code": "560241",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560246",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Ramwadi (pangaon)",
+    "name_mr": "",
+    "code": "560246",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560212",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Morwad",
+    "name_mr": "",
+    "code": "560212",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560250",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Narvatwadi",
+    "name_mr": "",
+    "code": "560250",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560245",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kamkheda",
+    "name_mr": "",
+    "code": "560245",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560239",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Garsuli",
+    "name_mr": "",
+    "code": "560239",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560284",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kadepur",
+    "name_mr": "",
+    "code": "560284",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560213",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "560213",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560251",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Manusmarwadi",
+    "name_mr": "",
+    "code": "560251",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560211",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Chatgaon",
+    "name_mr": "",
+    "code": "560211",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560253",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Bhandarwadi",
+    "name_mr": "",
+    "code": "560253",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560252",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Patharwadi",
+    "name_mr": "",
+    "code": "560252",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560243",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Faradpur",
+    "name_mr": "",
+    "code": "560243",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560216",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Motegaon",
+    "name_mr": "",
+    "code": "560216",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560214",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Palsi",
+    "name_mr": "",
+    "code": "560214",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560285",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Yeshwant Wadi",
+    "name_mr": "",
+    "code": "560285",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560255",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Bitargaon",
+    "name_mr": "",
+    "code": "560255",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560223",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Dawangaon",
+    "name_mr": "",
+    "code": "560223",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560215",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Bhokaramba",
+    "name_mr": "",
+    "code": "560215",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560244",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Vanjarwadi",
+    "name_mr": "",
+    "code": "560244",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560222",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "560222",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560283",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Asrachiwadi",
+    "name_mr": "",
+    "code": "560283",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560254",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Takalgaon",
+    "name_mr": "",
+    "code": "560254",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560260",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Murdhav",
+    "name_mr": "",
+    "code": "560260",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560286",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "560286",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560221",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Itti",
+    "name_mr": "",
+    "code": "560221",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560218",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Dighol Deshmukh",
+    "name_mr": "",
+    "code": "560218",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560217",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Wangdari",
+    "name_mr": "",
+    "code": "560217",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560225",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "560225",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560288",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sayyadpur Bk",
+    "name_mr": "",
+    "code": "560288",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560259",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Ghansargaon",
+    "name_mr": "",
+    "code": "560259",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560224",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "560224",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560289",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Dhaweli",
+    "name_mr": "",
+    "code": "560289",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560227",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Pohregaon",
+    "name_mr": "",
+    "code": "560227",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560226",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Shera",
+    "name_mr": "",
+    "code": "560226",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560256",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sumthana",
+    "name_mr": "",
+    "code": "560256",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560233",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Bawchi",
+    "name_mr": "",
+    "code": "560233",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560287",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Mohgaon (talni)",
+    "name_mr": "",
+    "code": "560287",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-276376",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Renapur (NP)",
+    "name_mr": "",
+    "code": "276376",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560219",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Dighol Deshpande",
+    "name_mr": "",
+    "code": "560219",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560228",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Poharegaon Tanda",
+    "name_mr": "",
+    "code": "560228",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560269",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kharola",
+    "name_mr": "",
+    "code": "560269",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560257",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Samsapur",
+    "name_mr": "",
+    "code": "560257",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560232",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Niwada",
+    "name_mr": "",
+    "code": "560232",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560234",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kolgaon",
+    "name_mr": "",
+    "code": "560234",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560231",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sindhgaon",
+    "name_mr": "",
+    "code": "560231",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560268",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Shelu Kh",
+    "name_mr": "",
+    "code": "560268",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560229",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Andalgaon",
+    "name_mr": "",
+    "code": "560229",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560264",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Gavhan",
+    "name_mr": "",
+    "code": "560264",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560236",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Darji Borgaon",
+    "name_mr": "",
+    "code": "560236",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560235",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Brahmawadi",
+    "name_mr": "",
+    "code": "560235",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560230",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sangvi",
+    "name_mr": "",
+    "code": "560230",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560267",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Jawalga",
+    "name_mr": "",
+    "code": "560267",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560237",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Indarthana",
+    "name_mr": "",
+    "code": "560237",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560238",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Arajkheda",
+    "name_mr": "",
+    "code": "560238",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560266",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Harwadi",
+    "name_mr": "",
+    "code": "560266",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560242",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Seva Nagar",
+    "name_mr": "",
+    "code": "560242",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560271",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Kumbharwadi",
+    "name_mr": "",
+    "code": "560271",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560272",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "560272",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560270",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Ramwadi",
+    "name_mr": "",
+    "code": "560270",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  },
+  {
+    "village_id": "v-560220",
+    "district_id": "latur",
+    "taluka_id": "renapur",
+    "name_en": "Sevalalnagar",
+    "name_mr": "",
+    "code": "560220",
+    "boundary_file": "/data/boundaries/villages/latur/renapur.geojson"
+  }
+]

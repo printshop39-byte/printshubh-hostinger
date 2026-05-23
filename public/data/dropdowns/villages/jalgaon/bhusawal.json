@@ -1,0 +1,488 @@
+[
+  {
+    "village_id": "v-527098",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Bhankhede Pr Edlabad",
+    "name_mr": "",
+    "code": "527098",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527099",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Jogalkhede",
+    "name_mr": "",
+    "code": "527099",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527100",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Sakegaon",
+    "name_mr": "",
+    "code": "527100",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527126",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Tahakali",
+    "name_mr": "",
+    "code": "527126",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527125",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Hatnur",
+    "name_mr": "",
+    "code": "527125",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527123",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Nimbhore Kh",
+    "name_mr": "",
+    "code": "527123",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527101",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Vanjole",
+    "name_mr": "",
+    "code": "527101",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527111",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Sunasgaon",
+    "name_mr": "",
+    "code": "527111",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527102",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Mirgavhan",
+    "name_mr": "",
+    "code": "527102",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527137",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Talwel",
+    "name_mr": "",
+    "code": "527137",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527135",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Bohardi Kh",
+    "name_mr": "",
+    "code": "527135",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527136",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Bohardi Bk",
+    "name_mr": "",
+    "code": "527136",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527103",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Khedi Bk",
+    "name_mr": "",
+    "code": "527103",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527109",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Gojore",
+    "name_mr": "",
+    "code": "527109",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527131",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Manyarkhede",
+    "name_mr": "",
+    "code": "527131",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527110",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Gombhi",
+    "name_mr": "",
+    "code": "527110",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527104",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kanhale Bk",
+    "name_mr": "",
+    "code": "527104",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527139",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "527139",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527121",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kathore Bk",
+    "name_mr": "",
+    "code": "527121",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527132",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Vilhale",
+    "name_mr": "",
+    "code": "527132",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527108",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Chorwad",
+    "name_mr": "",
+    "code": "527108",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527143",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Susari",
+    "name_mr": "",
+    "code": "527143",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527107",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kanhale Kh",
+    "name_mr": "",
+    "code": "527107",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527138",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Vazarkhede",
+    "name_mr": "",
+    "code": "527138",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527114",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kurhe Pr Nashirabad",
+    "name_mr": "",
+    "code": "527114",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527145",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Achegaon",
+    "name_mr": "",
+    "code": "527145",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527112",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Belvhal",
+    "name_mr": "",
+    "code": "527112",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527140",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Khandale",
+    "name_mr": "",
+    "code": "527140",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527147",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Belkhede Digar",
+    "name_mr": "",
+    "code": "527147",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527146",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Pimpalgaon Bk",
+    "name_mr": "",
+    "code": "527146",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527113",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Varad Seem",
+    "name_mr": "",
+    "code": "527113",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527144",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Pimpalgaon Kh",
+    "name_mr": "",
+    "code": "527144",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527141",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Mondhale",
+    "name_mr": "",
+    "code": "527141",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527142",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Shindi",
+    "name_mr": "",
+    "code": "527142",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527115",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Jogalkhori",
+    "name_mr": "",
+    "code": "527115",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527116",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Bhilmali",
+    "name_mr": "",
+    "code": "527116",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527117",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Mandavedigar",
+    "name_mr": "",
+    "code": "527117",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527120",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Pimprisekam",
+    "name_mr": "",
+    "code": "527120",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527128",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Anjansonde",
+    "name_mr": "",
+    "code": "527128",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527119",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Fekari",
+    "name_mr": "",
+    "code": "527119",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527148",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Nimbhore Budruk",
+    "name_mr": "",
+    "code": "527148",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527127",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Manpur",
+    "name_mr": "",
+    "code": "527127",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-276273",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Varangaon (M CI)",
+    "name_mr": "",
+    "code": "276273",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-251290",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Bhusawal (M CI)",
+    "name_mr": "",
+    "code": "251290",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527129",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Fulgaon",
+    "name_mr": "",
+    "code": "527129",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527106",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Sakari",
+    "name_mr": "",
+    "code": "527106",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527105",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Khadake",
+    "name_mr": "",
+    "code": "527105",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527134",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kahurkhede",
+    "name_mr": "",
+    "code": "527134",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527133",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Daryapur",
+    "name_mr": "",
+    "code": "527133",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527130",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Jadgaon",
+    "name_mr": "",
+    "code": "527130",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527124",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Savtar",
+    "name_mr": "",
+    "code": "527124",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527122",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kathore Kh",
+    "name_mr": "",
+    "code": "527122",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527149",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Kandari",
+    "name_mr": "",
+    "code": "527149",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  },
+  {
+    "village_id": "v-527118",
+    "district_id": "jalgaon",
+    "taluka_id": "bhusawal",
+    "name_en": "Bhusawal (Rural)",
+    "name_mr": "",
+    "code": "527118",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bhusawal.geojson"
+  }
+]

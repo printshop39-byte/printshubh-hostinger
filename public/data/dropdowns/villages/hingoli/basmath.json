@@ -1,0 +1,1379 @@
+[
+  {
+    "village_id": "v-546281",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Dhanora-tarf-Aral",
+    "name_mr": "",
+    "code": "546281",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546321",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Raywadi",
+    "name_mr": "",
+    "code": "546321",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546406",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Palasgaon tarf malota",
+    "name_mr": "",
+    "code": "546406",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546380",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Jawala traf babulgaon",
+    "name_mr": "",
+    "code": "546380",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546405",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Injangaon",
+    "name_mr": "",
+    "code": "546405",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546322",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sategaon",
+    "name_mr": "",
+    "code": "546322",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546376",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kagban",
+    "name_mr": "",
+    "code": "546376",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546284",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kaudgaon",
+    "name_mr": "",
+    "code": "546284",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546411",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Bhoripgaon",
+    "name_mr": "",
+    "code": "546411",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546293",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sangmeshwar",
+    "name_mr": "",
+    "code": "546293",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546410",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Takalgaon",
+    "name_mr": "",
+    "code": "546410",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546381",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Khandarban",
+    "name_mr": "",
+    "code": "546381",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546379",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Govindpur T Hayatnagar",
+    "name_mr": "",
+    "code": "546379",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546323",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Lingi",
+    "name_mr": "",
+    "code": "546323",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546326",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Palsi",
+    "name_mr": "",
+    "code": "546326",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546409",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "546409",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546282",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Ridhora",
+    "name_mr": "",
+    "code": "546282",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546377",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sarola",
+    "name_mr": "",
+    "code": "546377",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546378",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Agdad",
+    "name_mr": "",
+    "code": "546378",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546382",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pimpala chorya",
+    "name_mr": "",
+    "code": "546382",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546408",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Runj T Asegaon",
+    "name_mr": "",
+    "code": "546408",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546407",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Gunj T Asegaon",
+    "name_mr": "",
+    "code": "546407",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546324",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Mudi",
+    "name_mr": "",
+    "code": "546324",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546383",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Bagdad",
+    "name_mr": "",
+    "code": "546383",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546325",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Hayatnagar",
+    "name_mr": "",
+    "code": "546325",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546414",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Asegaon",
+    "name_mr": "",
+    "code": "546414",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546412",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "546412",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546283",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Hisewadgaon",
+    "name_mr": "",
+    "code": "546283",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546327",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Jawala bk.",
+    "name_mr": "",
+    "code": "546327",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546413",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "546413",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546384",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Renkapur",
+    "name_mr": "",
+    "code": "546384",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546328",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Jawala kh.",
+    "name_mr": "",
+    "code": "546328",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546415",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Marlapur",
+    "name_mr": "",
+    "code": "546415",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546385",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Lon Bk.",
+    "name_mr": "",
+    "code": "546385",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546386",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Lahan",
+    "name_mr": "",
+    "code": "546386",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546387",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Wakhari",
+    "name_mr": "",
+    "code": "546387",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546417",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sunegaon",
+    "name_mr": "",
+    "code": "546417",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546416",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Dagadpimpri",
+    "name_mr": "",
+    "code": "546416",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546418",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Hiwara Kh",
+    "name_mr": "",
+    "code": "546418",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546341",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kotharwadi",
+    "name_mr": "",
+    "code": "546341",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546339",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Donwada",
+    "name_mr": "",
+    "code": "546339",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546342",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kothari",
+    "name_mr": "",
+    "code": "546342",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546351",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "546351",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546348",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Selu",
+    "name_mr": "",
+    "code": "546348",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546343",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pardi Kh.",
+    "name_mr": "",
+    "code": "546343",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546354",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Ambala",
+    "name_mr": "",
+    "code": "546354",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546350",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Jununa",
+    "name_mr": "",
+    "code": "546350",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546352",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Wai tarf Dhamangaon",
+    "name_mr": "",
+    "code": "546352",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546298",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Shingi",
+    "name_mr": "",
+    "code": "546298",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546346",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kurundwadi",
+    "name_mr": "",
+    "code": "546346",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546353",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Ambanath",
+    "name_mr": "",
+    "code": "546353",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546345",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kurunda",
+    "name_mr": "",
+    "code": "546345",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546297",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Waghi",
+    "name_mr": "",
+    "code": "546297",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546347",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Wartala",
+    "name_mr": "",
+    "code": "546347",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546296",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Hiradgaon",
+    "name_mr": "",
+    "code": "546296",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546349",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Amba",
+    "name_mr": "",
+    "code": "546349",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546295",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Nahad",
+    "name_mr": "",
+    "code": "546295",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546267",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Karanjala",
+    "name_mr": "",
+    "code": "546267",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546355",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Korta",
+    "name_mr": "",
+    "code": "546355",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546294",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "546294",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546268",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Gunda",
+    "name_mr": "",
+    "code": "546268",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546357",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pangra tarf dhamangaon",
+    "name_mr": "",
+    "code": "546357",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546344",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kanosa",
+    "name_mr": "",
+    "code": "546344",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546273",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Parli",
+    "name_mr": "",
+    "code": "546273",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546329",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pangra shinde",
+    "name_mr": "",
+    "code": "546329",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546330",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sirli",
+    "name_mr": "",
+    "code": "546330",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546335",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Rajawadi",
+    "name_mr": "",
+    "code": "546335",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546332",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kupti",
+    "name_mr": "",
+    "code": "546332",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546336",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Marsulwadi tanda",
+    "name_mr": "",
+    "code": "546336",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546333",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Khapar kheda",
+    "name_mr": "",
+    "code": "546333",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546338",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Chondhi tarf Sendursena",
+    "name_mr": "",
+    "code": "546338",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546334",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Khambala",
+    "name_mr": "",
+    "code": "546334",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546331",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Wapti",
+    "name_mr": "",
+    "code": "546331",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546340",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "546340",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546337",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Marsul",
+    "name_mr": "",
+    "code": "546337",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546299",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Puyani Bk.",
+    "name_mr": "",
+    "code": "546299",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546362",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pimprala",
+    "name_mr": "",
+    "code": "546362",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546356",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Parwa",
+    "name_mr": "",
+    "code": "546356",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546361",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "546361",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546269",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Karanji",
+    "name_mr": "",
+    "code": "546269",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546359",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "546359",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546360",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Bhendegaon",
+    "name_mr": "",
+    "code": "546360",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546389",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pardi Bk.",
+    "name_mr": "",
+    "code": "546389",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546301",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kudala",
+    "name_mr": "",
+    "code": "546301",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546270",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sangnapur",
+    "name_mr": "",
+    "code": "546270",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546272",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Borisawant",
+    "name_mr": "",
+    "code": "546272",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546388",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Dabhadi",
+    "name_mr": "",
+    "code": "546388",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546300",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Puyani Kh.",
+    "name_mr": "",
+    "code": "546300",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546274",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Mategaon",
+    "name_mr": "",
+    "code": "546274",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546271",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kalamba",
+    "name_mr": "",
+    "code": "546271",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546358",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Palasgaon tarf dhamangaon",
+    "name_mr": "",
+    "code": "546358",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546363",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Mahmadapurwadi",
+    "name_mr": "",
+    "code": "546363",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546303",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Wiregaon",
+    "name_mr": "",
+    "code": "546303",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546304",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Tembhurni",
+    "name_mr": "",
+    "code": "546304",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546367",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Barepurwadi",
+    "name_mr": "",
+    "code": "546367",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546305",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Loleshwar",
+    "name_mr": "",
+    "code": "546305",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546275",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Dhaulgaon",
+    "name_mr": "",
+    "code": "546275",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546365",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "546365",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546302",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Darephal",
+    "name_mr": "",
+    "code": "546302",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546364",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kawatha",
+    "name_mr": "",
+    "code": "546364",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546366",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Mhatargaon",
+    "name_mr": "",
+    "code": "546366",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546393",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "546393",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546306",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "546306",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546276",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "546276",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546394",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kinhola",
+    "name_mr": "",
+    "code": "546394",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546288",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sawangi Bk.",
+    "name_mr": "",
+    "code": "546288",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546392",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Khajamapur",
+    "name_mr": "",
+    "code": "546392",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546307",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Dagadgaon",
+    "name_mr": "",
+    "code": "546307",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546391",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Girgaon",
+    "name_mr": "",
+    "code": "546391",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546312",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Chincholi T A",
+    "name_mr": "",
+    "code": "546312",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546313",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Hapsapur",
+    "name_mr": "",
+    "code": "546313",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546287",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Hatta",
+    "name_mr": "",
+    "code": "546287",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546277",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Wadi tuljapur",
+    "name_mr": "",
+    "code": "546277",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546369",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Mahgaon",
+    "name_mr": "",
+    "code": "546369",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546314",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Reulgaon",
+    "name_mr": "",
+    "code": "546314",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546289",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Brahmangaon Bk",
+    "name_mr": "",
+    "code": "546289",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546311",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Phata",
+    "name_mr": "",
+    "code": "546311",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546315",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "546315",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546395",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Khudnapur",
+    "name_mr": "",
+    "code": "546395",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546317",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Ranjana",
+    "name_mr": "",
+    "code": "546317",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546308",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Rodga",
+    "name_mr": "",
+    "code": "546308",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546368",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kallavi",
+    "name_mr": "",
+    "code": "546368",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546370",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Phattepur",
+    "name_mr": "",
+    "code": "546370",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546290",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Brahmangaon Kh",
+    "name_mr": "",
+    "code": "546290",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546396",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Borgaon Bk.",
+    "name_mr": "",
+    "code": "546396",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546310",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Khandegaon",
+    "name_mr": "",
+    "code": "546310",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546278",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Aral",
+    "name_mr": "",
+    "code": "546278",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546371",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Polka",
+    "name_mr": "",
+    "code": "546371",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546291",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Sonna tarf hatta",
+    "name_mr": "",
+    "code": "546291",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546397",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Parajana",
+    "name_mr": "",
+    "code": "546397",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546309",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pangrasati",
+    "name_mr": "",
+    "code": "546309",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546316",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Rukhi",
+    "name_mr": "",
+    "code": "546316",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546286",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "546286",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546398",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Borgaon Kh.",
+    "name_mr": "",
+    "code": "546398",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546403",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Kanhergaon",
+    "name_mr": "",
+    "code": "546403",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546402",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Malwata",
+    "name_mr": "",
+    "code": "546402",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546401",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Murumba Bk.",
+    "name_mr": "",
+    "code": "546401",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546399",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Chincholi tarf malavta",
+    "name_mr": "",
+    "code": "546399",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546279",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Telgaon",
+    "name_mr": "",
+    "code": "546279",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546292",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Pimpalgaon hajam",
+    "name_mr": "",
+    "code": "546292",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546320",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Bhogaon",
+    "name_mr": "",
+    "code": "546320",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546373",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Nasratpur",
+    "name_mr": "",
+    "code": "546373",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546319",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Ekrukha",
+    "name_mr": "",
+    "code": "546319",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546318",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Satefal tarf Aral",
+    "name_mr": "",
+    "code": "546318",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546375",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Thorava",
+    "name_mr": "",
+    "code": "546375",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546400",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Murumba Kh.",
+    "name_mr": "",
+    "code": "546400",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546374",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "546374",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546280",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Konatha",
+    "name_mr": "",
+    "code": "546280",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546404",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Chandgavhan",
+    "name_mr": "",
+    "code": "546404",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546285",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Bhategaon",
+    "name_mr": "",
+    "code": "546285",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546390",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Digras Kh",
+    "name_mr": "",
+    "code": "546390",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-251413",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Basmat (M Cl)",
+    "name_mr": "",
+    "code": "251413",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  },
+  {
+    "village_id": "v-546372",
+    "district_id": "hingoli",
+    "taluka_id": "basmath",
+    "name_en": "Basmat",
+    "name_mr": "",
+    "code": "546372",
+    "boundary_file": "/data/boundaries/villages/hingoli/basmath.geojson"
+  }
+]

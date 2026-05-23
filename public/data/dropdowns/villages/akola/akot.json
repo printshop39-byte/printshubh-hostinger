@@ -1,0 +1,1694 @@
+[
+  {
+    "village_id": "v-529719",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chorwad BK",
+    "name_mr": "",
+    "code": "529719",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529768",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Panaj",
+    "name_mr": "",
+    "code": "529768",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529723",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Ladegaon",
+    "name_mr": "",
+    "code": "529723",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529720",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Gokhi",
+    "name_mr": "",
+    "code": "529720",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529727",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jainpur Pimpri",
+    "name_mr": "",
+    "code": "529727",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529771",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chinchkhed KH",
+    "name_mr": "",
+    "code": "529771",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529731",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Wadali Satwai",
+    "name_mr": "",
+    "code": "529731",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529786",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jogban",
+    "name_mr": "",
+    "code": "529786",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529733",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "529733",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529767",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Shahapur Pr. Karla",
+    "name_mr": "",
+    "code": "529767",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529769",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Diwthana",
+    "name_mr": "",
+    "code": "529769",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529724",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Wasali Nagapur",
+    "name_mr": "",
+    "code": "529724",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529774",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "529774",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529770",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "529770",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529773",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Waghoda",
+    "name_mr": "",
+    "code": "529773",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529784",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "529784",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529783",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khudawantpur",
+    "name_mr": "",
+    "code": "529783",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529772",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chandikapur",
+    "name_mr": "",
+    "code": "529772",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529775",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Wadali Deshmukh",
+    "name_mr": "",
+    "code": "529775",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529734",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Adgaon KH",
+    "name_mr": "",
+    "code": "529734",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529728",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dautpur",
+    "name_mr": "",
+    "code": "529728",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529785",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Aurangabad Pr. Akot",
+    "name_mr": "",
+    "code": "529785",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529725",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chinchkhed BK",
+    "name_mr": "",
+    "code": "529725",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529726",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kolwihir",
+    "name_mr": "",
+    "code": "529726",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529729",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Gyajuddin Nagar",
+    "name_mr": "",
+    "code": "529729",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529730",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Katkhed",
+    "name_mr": "",
+    "code": "529730",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-251310",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Akot (M Cl)",
+    "name_mr": "",
+    "code": "251310",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "narnala-reserved-forest",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "NARNALA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529750",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khirkund Bk",
+    "name_mr": "",
+    "code": "529750",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529749",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khirkund Kh",
+    "name_mr": "",
+    "code": "529749",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529748",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dangarkhed",
+    "name_mr": "",
+    "code": "529748",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529747",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chinchpani",
+    "name_mr": "",
+    "code": "529747",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529697",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Malkapur Gond",
+    "name_mr": "",
+    "code": "529697",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529744",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Gajipur",
+    "name_mr": "",
+    "code": "529744",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529752",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mardi Pr. Khatkali",
+    "name_mr": "",
+    "code": "529752",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529696",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Shahanur",
+    "name_mr": "",
+    "code": "529696",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529745",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Januna BK",
+    "name_mr": "",
+    "code": "529745",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529699",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Popatkhed",
+    "name_mr": "",
+    "code": "529699",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529743",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rudhadi Pr. Khatkali",
+    "name_mr": "",
+    "code": "529743",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529746",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Januna",
+    "name_mr": "",
+    "code": "529746",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529753",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chandanpur",
+    "name_mr": "",
+    "code": "529753",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529742",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bandhara",
+    "name_mr": "",
+    "code": "529742",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529698",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Malkapur Bhil",
+    "name_mr": "",
+    "code": "529698",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529754",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mankari",
+    "name_mr": "",
+    "code": "529754",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529760",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "529760",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529758",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rajura",
+    "name_mr": "",
+    "code": "529758",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529751",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mardi Pr. Chinchona",
+    "name_mr": "",
+    "code": "529751",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529755",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bhilkhed",
+    "name_mr": "",
+    "code": "529755",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529702",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rahnapur",
+    "name_mr": "",
+    "code": "529702",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529756",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rudhadi Pr. Chinchona",
+    "name_mr": "",
+    "code": "529756",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529703",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Shahapur Pr. Rupagad",
+    "name_mr": "",
+    "code": "529703",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529757",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Ambadi",
+    "name_mr": "",
+    "code": "529757",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529704",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jitapur Pr. Adgaon",
+    "name_mr": "",
+    "code": "529704",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529717",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Edlapur",
+    "name_mr": "",
+    "code": "529717",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529701",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khasbag",
+    "name_mr": "",
+    "code": "529701",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529705",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jitapur Pr. Rupagad",
+    "name_mr": "",
+    "code": "529705",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529759",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kapashi",
+    "name_mr": "",
+    "code": "529759",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529761",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Ruikhed",
+    "name_mr": "",
+    "code": "529761",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529706",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Aurangabad Pr. Adgaon",
+    "name_mr": "",
+    "code": "529706",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529718",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khairkhed",
+    "name_mr": "",
+    "code": "529718",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529764",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Akoli Jahangir",
+    "name_mr": "",
+    "code": "529764",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529710",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sarfabad",
+    "name_mr": "",
+    "code": "529710",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529707",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Alampur",
+    "name_mr": "",
+    "code": "529707",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529765",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Akolkhed",
+    "name_mr": "",
+    "code": "529765",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529763",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Gaulkhed",
+    "name_mr": "",
+    "code": "529763",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529715",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Pimpri Kh",
+    "name_mr": "",
+    "code": "529715",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529716",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chorwad KH",
+    "name_mr": "",
+    "code": "529716",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529713",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bordi",
+    "name_mr": "",
+    "code": "529713",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529762",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bochara",
+    "name_mr": "",
+    "code": "529762",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529782",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mohala",
+    "name_mr": "",
+    "code": "529782",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529711",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Amboda",
+    "name_mr": "",
+    "code": "529711",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529721",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Belura",
+    "name_mr": "",
+    "code": "529721",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529766",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Narsingpur",
+    "name_mr": "",
+    "code": "529766",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529722",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Umara",
+    "name_mr": "",
+    "code": "529722",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529714",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Makrampur",
+    "name_mr": "",
+    "code": "529714",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529712",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "529712",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529778",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Wadgaon Mendhe",
+    "name_mr": "",
+    "code": "529778",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529777",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Tajnapur",
+    "name_mr": "",
+    "code": "529777",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529776",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "529776",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529735",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rajegaon",
+    "name_mr": "",
+    "code": "529735",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529736",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Nehori Bk",
+    "name_mr": "",
+    "code": "529736",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529788",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khanapur Tryambakpur",
+    "name_mr": "",
+    "code": "529788",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529732",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jalgaon Nahate",
+    "name_mr": "",
+    "code": "529732",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529737",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Nehori kh.",
+    "name_mr": "",
+    "code": "529737",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529787",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chapaner",
+    "name_mr": "",
+    "code": "529787",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529793",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rambhapur",
+    "name_mr": "",
+    "code": "529793",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529792",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sawara",
+    "name_mr": "",
+    "code": "529792",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529779",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dhaga",
+    "name_mr": "",
+    "code": "529779",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529780",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Manchanpur",
+    "name_mr": "",
+    "code": "529780",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529789",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kanheri",
+    "name_mr": "",
+    "code": "529789",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529738",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chinchkhed KH",
+    "name_mr": "",
+    "code": "529738",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529739",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Lohari Bk",
+    "name_mr": "",
+    "code": "529739",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529741",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Lohari Kh",
+    "name_mr": "",
+    "code": "529741",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529790",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Miyache Khede",
+    "name_mr": "",
+    "code": "529790",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529807",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Naynapur",
+    "name_mr": "",
+    "code": "529807",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529740",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Aminapur",
+    "name_mr": "",
+    "code": "529740",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529806",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mundgaon",
+    "name_mr": "",
+    "code": "529806",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529781",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "529781",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529800",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kesori",
+    "name_mr": "",
+    "code": "529800",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529791",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "529791",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529794",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Asegaon Bajar",
+    "name_mr": "",
+    "code": "529794",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529801",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kherda",
+    "name_mr": "",
+    "code": "529801",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529799",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kalwadi",
+    "name_mr": "",
+    "code": "529799",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529796",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kavtha Kh",
+    "name_mr": "",
+    "code": "529796",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529798",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Karatwadi",
+    "name_mr": "",
+    "code": "529798",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529803",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "529803",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529802",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sonbardi",
+    "name_mr": "",
+    "code": "529802",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529795",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kautha Bk",
+    "name_mr": "",
+    "code": "529795",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529797",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sawarkhed",
+    "name_mr": "",
+    "code": "529797",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529804",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Warula",
+    "name_mr": "",
+    "code": "529804",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529808",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "529808",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529812",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Alyarpur",
+    "name_mr": "",
+    "code": "529812",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529805",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Wani",
+    "name_mr": "",
+    "code": "529805",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529813",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Alegaon",
+    "name_mr": "",
+    "code": "529813",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529816",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "529816",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529818",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Punda",
+    "name_mr": "",
+    "code": "529818",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529815",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khaparwadi Bk",
+    "name_mr": "",
+    "code": "529815",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529814",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "529814",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529819",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "529819",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529817",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Vitali",
+    "name_mr": "",
+    "code": "529817",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529822",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khaparwadi Kh",
+    "name_mr": "",
+    "code": "529822",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529810",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Lamkani",
+    "name_mr": "",
+    "code": "529810",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529811",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Shahapur Pr. Akot",
+    "name_mr": "",
+    "code": "529811",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529824",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Pimpri Dikkar",
+    "name_mr": "",
+    "code": "529824",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529821",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Warur",
+    "name_mr": "",
+    "code": "529821",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529823",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jaulka",
+    "name_mr": "",
+    "code": "529823",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529809",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "529809",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529825",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Deori",
+    "name_mr": "",
+    "code": "529825",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529840",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Raundala",
+    "name_mr": "",
+    "code": "529840",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529820",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bambarda BK",
+    "name_mr": "",
+    "code": "529820",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529826",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Alewadi",
+    "name_mr": "",
+    "code": "529826",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529839",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Hilalabad",
+    "name_mr": "",
+    "code": "529839",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529827",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Maroda",
+    "name_mr": "",
+    "code": "529827",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529829",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Lotkhed",
+    "name_mr": "",
+    "code": "529829",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529841",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Patsul",
+    "name_mr": "",
+    "code": "529841",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529830",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rohankhed",
+    "name_mr": "",
+    "code": "529830",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529828",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dinoda",
+    "name_mr": "",
+    "code": "529828",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529842",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Palsod",
+    "name_mr": "",
+    "code": "529842",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529834",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "529834",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529837",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kutasa",
+    "name_mr": "",
+    "code": "529837",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529831",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "529831",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529832",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Andh",
+    "name_mr": "",
+    "code": "529832",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529833",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "529833",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529845",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dewarda",
+    "name_mr": "",
+    "code": "529845",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529836",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kawasa Bk",
+    "name_mr": "",
+    "code": "529836",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529846",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Parala",
+    "name_mr": "",
+    "code": "529846",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529844",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Danori",
+    "name_mr": "",
+    "code": "529844",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529843",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Penori",
+    "name_mr": "",
+    "code": "529843",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529835",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kawasa Kh",
+    "name_mr": "",
+    "code": "529835",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529851",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "529851",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529852",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dhamna BK",
+    "name_mr": "",
+    "code": "529852",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529853",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rel",
+    "name_mr": "",
+    "code": "529853",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529847",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Hanwadi",
+    "name_mr": "",
+    "code": "529847",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529848",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Takli Bk",
+    "name_mr": "",
+    "code": "529848",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529850",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Takli Kh",
+    "name_mr": "",
+    "code": "529850",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529861",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Karatwadi",
+    "name_mr": "",
+    "code": "529861",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529854",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Patonda",
+    "name_mr": "",
+    "code": "529854",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529849",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Rajurwadi",
+    "name_mr": "",
+    "code": "529849",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529838",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Garsoli",
+    "name_mr": "",
+    "code": "529838",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529862",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Chohatta",
+    "name_mr": "",
+    "code": "529862",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529865",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Nandkhed",
+    "name_mr": "",
+    "code": "529865",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529864",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Salkhed",
+    "name_mr": "",
+    "code": "529864",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529863",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Agaskhed",
+    "name_mr": "",
+    "code": "529863",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529860",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Karodi",
+    "name_mr": "",
+    "code": "529860",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529859",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dharel",
+    "name_mr": "",
+    "code": "529859",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529856",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Khanapur Bk",
+    "name_mr": "",
+    "code": "529856",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529866",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Pilakwadi",
+    "name_mr": "",
+    "code": "529866",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529867",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Nakhegaon",
+    "name_mr": "",
+    "code": "529867",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529857",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Girjapur",
+    "name_mr": "",
+    "code": "529857",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529858",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Mahalaxmi",
+    "name_mr": "",
+    "code": "529858",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529855",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jaulkhed KH",
+    "name_mr": "",
+    "code": "529855",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529871",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Jaulkhed BK",
+    "name_mr": "",
+    "code": "529871",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529872",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Thokbardi",
+    "name_mr": "",
+    "code": "529872",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529869",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kinkhed",
+    "name_mr": "",
+    "code": "529869",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529868",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bhod",
+    "name_mr": "",
+    "code": "529868",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529870",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Keliweli",
+    "name_mr": "",
+    "code": "529870",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-531587",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kelpani (N.V.)",
+    "name_mr": "",
+    "code": "531587",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529873",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kund",
+    "name_mr": "",
+    "code": "529873",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529875",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "529875",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529874",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Koha",
+    "name_mr": "",
+    "code": "529874",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-921273",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Amona",
+    "name_mr": "",
+    "code": "921273",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529708",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kasod Shivpur",
+    "name_mr": "",
+    "code": "529708",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-917393",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dhargad",
+    "name_mr": "",
+    "code": "917393",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529709",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Ramapur Alias Dharul",
+    "name_mr": "",
+    "code": "529709",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-651827",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Kelpani (Bk) (N.V.)",
+    "name_mr": "",
+    "code": "651827",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-531590",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Somthana (Bk) (N.V.)",
+    "name_mr": "",
+    "code": "531590",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-917331",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "GullaRghat (N.V.)",
+    "name_mr": "",
+    "code": "917331",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  },
+  {
+    "village_id": "v-529700",
+    "district_id": "akola",
+    "taluka_id": "akot",
+    "name_en": "Dahikhel Futkar",
+    "name_mr": "",
+    "code": "529700",
+    "boundary_file": "/data/boundaries/villages/akola/akot.geojson"
+  }
+]

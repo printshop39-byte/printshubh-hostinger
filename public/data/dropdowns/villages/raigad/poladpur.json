@@ -1,0 +1,794 @@
+[
+  {
+    "village_id": "v-555166",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "555166",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555174",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Sakhar",
+    "name_mr": "",
+    "code": "555174",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555176",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Salvikond",
+    "name_mr": "",
+    "code": "555176",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555185",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Borawale",
+    "name_mr": "",
+    "code": "555185",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-276636",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Poladpur (NP)",
+    "name_mr": "",
+    "code": "276636",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555184",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Ghagarkond",
+    "name_mr": "",
+    "code": "555184",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555144",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Matwan",
+    "name_mr": "",
+    "code": "555144",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555145",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kangule",
+    "name_mr": "",
+    "code": "555145",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555146",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Sawad",
+    "name_mr": "",
+    "code": "555146",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555147",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Wave",
+    "name_mr": "",
+    "code": "555147",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555148",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Dharwali",
+    "name_mr": "",
+    "code": "555148",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555149",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Agryachakond",
+    "name_mr": "",
+    "code": "555149",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555151",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Hawre",
+    "name_mr": "",
+    "code": "555151",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555150",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kalawali",
+    "name_mr": "",
+    "code": "555150",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555160",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Wadghar Bk.",
+    "name_mr": "",
+    "code": "555160",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555153",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Parle",
+    "name_mr": "",
+    "code": "555153",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555152",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Divil",
+    "name_mr": "",
+    "code": "555152",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555163",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Borghar",
+    "name_mr": "",
+    "code": "555163",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555162",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Chandale",
+    "name_mr": "",
+    "code": "555162",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555164",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Nawale",
+    "name_mr": "",
+    "code": "555164",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555154",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Lohare",
+    "name_mr": "",
+    "code": "555154",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555165",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Adavale Bk.",
+    "name_mr": "",
+    "code": "555165",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555177",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Khandaj",
+    "name_mr": "",
+    "code": "555177",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555175",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Govele",
+    "name_mr": "",
+    "code": "555175",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555179",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Khopad",
+    "name_mr": "",
+    "code": "555179",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555170",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Katetali",
+    "name_mr": "",
+    "code": "555170",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555180",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Chandake",
+    "name_mr": "",
+    "code": "555180",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555181",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Umarath",
+    "name_mr": "",
+    "code": "555181",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555182",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Boraj",
+    "name_mr": "",
+    "code": "555182",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555187",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Karanje",
+    "name_mr": "",
+    "code": "555187",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555173",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Ranbajire",
+    "name_mr": "",
+    "code": "555173",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555172",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Cholai",
+    "name_mr": "",
+    "code": "555172",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555171",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Sadwali",
+    "name_mr": "",
+    "code": "555171",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555194",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Wakan",
+    "name_mr": "",
+    "code": "555194",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555199",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Morgiri",
+    "name_mr": "",
+    "code": "555199",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555186",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Deole",
+    "name_mr": "",
+    "code": "555186",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555200",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Khadpi",
+    "name_mr": "",
+    "code": "555200",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555203",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Faujdarwadi",
+    "name_mr": "",
+    "code": "555203",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555193",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Naneghol",
+    "name_mr": "",
+    "code": "555193",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555188",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Lahulase",
+    "name_mr": "",
+    "code": "555188",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555201",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Dhamandivi",
+    "name_mr": "",
+    "code": "555201",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555190",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Haldule",
+    "name_mr": "",
+    "code": "555190",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555189",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Dabhil",
+    "name_mr": "",
+    "code": "555189",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555192",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Keonale",
+    "name_mr": "",
+    "code": "555192",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555198",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Mahalunge",
+    "name_mr": "",
+    "code": "555198",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555191",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Rankadsari",
+    "name_mr": "",
+    "code": "555191",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555196",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Chambhargani Kh",
+    "name_mr": "",
+    "code": "555196",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555195",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kapade Kh.",
+    "name_mr": "",
+    "code": "555195",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555202",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Ganjawane",
+    "name_mr": "",
+    "code": "555202",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555216",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Bhogaon Kh.",
+    "name_mr": "",
+    "code": "555216",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555206",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Chambhargani Bk.",
+    "name_mr": "",
+    "code": "555206",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555205",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Deopurwadi",
+    "name_mr": "",
+    "code": "555205",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555204",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Deopur",
+    "name_mr": "",
+    "code": "555204",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555207",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Niwe",
+    "name_mr": "",
+    "code": "555207",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555212",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Golegani",
+    "name_mr": "",
+    "code": "555212",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555215",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kondhawi",
+    "name_mr": "",
+    "code": "555215",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555209",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kineshwar",
+    "name_mr": "",
+    "code": "555209",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555217",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Bhogaon Bk.",
+    "name_mr": "",
+    "code": "555217",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555218",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Katali",
+    "name_mr": "",
+    "code": "555218",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555211",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Tutawali",
+    "name_mr": "",
+    "code": "555211",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555208",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Tamhane Tarf Kondhavi",
+    "name_mr": "",
+    "code": "555208",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555213",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Paithan",
+    "name_mr": "",
+    "code": "555213",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555214",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Pangaloli",
+    "name_mr": "",
+    "code": "555214",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555222",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Fanaskond",
+    "name_mr": "",
+    "code": "555222",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555219",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Khadkawane",
+    "name_mr": "",
+    "code": "555219",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555226",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Parsule",
+    "name_mr": "",
+    "code": "555226",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555210",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kshetrapal",
+    "name_mr": "",
+    "code": "555210",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555223",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Mahargul",
+    "name_mr": "",
+    "code": "555223",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555227",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kotwal Bk.",
+    "name_mr": "",
+    "code": "555227",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555221",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Goldara",
+    "name_mr": "",
+    "code": "555221",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555225",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kotwal Kh.",
+    "name_mr": "",
+    "code": "555225",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555220",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Palchil",
+    "name_mr": "",
+    "code": "555220",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555224",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Ombali",
+    "name_mr": "",
+    "code": "555224",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555228",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kudpan Bk.",
+    "name_mr": "",
+    "code": "555228",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555229",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kudpan Kh.",
+    "name_mr": "",
+    "code": "555229",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555161",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kamthe",
+    "name_mr": "",
+    "code": "555161",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555158",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Morsade",
+    "name_mr": "",
+    "code": "555158",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555159",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Sade",
+    "name_mr": "",
+    "code": "555159",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555178",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Dhawale",
+    "name_mr": "",
+    "code": "555178",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555156",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Turbhekond",
+    "name_mr": "",
+    "code": "555156",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555157",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Adavale Kh.",
+    "name_mr": "",
+    "code": "555157",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555155",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Turbhe Bk.",
+    "name_mr": "",
+    "code": "555155",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555167",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Turbhe Kh.",
+    "name_mr": "",
+    "code": "555167",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555168",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Wazarwadi",
+    "name_mr": "",
+    "code": "555168",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555169",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Charai",
+    "name_mr": "",
+    "code": "555169",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555183",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Ranawadi Bk.",
+    "name_mr": "",
+    "code": "555183",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-555197",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kapade Bk.",
+    "name_mr": "",
+    "code": "555197",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  },
+  {
+    "village_id": "v-944460",
+    "district_id": "raigad",
+    "taluka_id": "poladpur",
+    "name_en": "Kapade",
+    "name_mr": "",
+    "code": "944460",
+    "boundary_file": "/data/boundaries/villages/raigad/poladpur.geojson"
+  }
+]

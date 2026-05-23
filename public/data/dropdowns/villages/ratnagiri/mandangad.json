@@ -1,0 +1,983 @@
+[
+  {
+    "village_id": "v-564691",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Padwe",
+    "name_mr": "",
+    "code": "564691",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564693",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Mhapral",
+    "name_mr": "",
+    "code": "564693",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564687",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dandnagari",
+    "name_mr": "",
+    "code": "564687",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564692",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Lokran",
+    "name_mr": "",
+    "code": "564692",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564688",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kondgaon",
+    "name_mr": "",
+    "code": "564688",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564690",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Umbershet",
+    "name_mr": "",
+    "code": "564690",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564686",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ambavane Bk",
+    "name_mr": "",
+    "code": "564686",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564705",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Panderi",
+    "name_mr": "",
+    "code": "564705",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564689",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Pewe",
+    "name_mr": "",
+    "code": "564689",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564695",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Adkhalvan",
+    "name_mr": "",
+    "code": "564695",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564706",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Bahiravali",
+    "name_mr": "",
+    "code": "564706",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564708",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Shigvan",
+    "name_mr": "",
+    "code": "564708",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564709",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kinjalghar",
+    "name_mr": "",
+    "code": "564709",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564698",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kumbharli",
+    "name_mr": "",
+    "code": "564698",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564699",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Govele",
+    "name_mr": "",
+    "code": "564699",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564700",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Buri",
+    "name_mr": "",
+    "code": "564700",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564697",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Panhali Kh",
+    "name_mr": "",
+    "code": "564697",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564704",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Takavali",
+    "name_mr": "",
+    "code": "564704",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564707",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Asawale",
+    "name_mr": "",
+    "code": "564707",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564696",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Chinchali",
+    "name_mr": "",
+    "code": "564696",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564710",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ghumari",
+    "name_mr": "",
+    "code": "564710",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564711",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Nigadi",
+    "name_mr": "",
+    "code": "564711",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564703",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dhangar",
+    "name_mr": "",
+    "code": "564703",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564779",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Vakavali",
+    "name_mr": "",
+    "code": "564779",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564747",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ghosale",
+    "name_mr": "",
+    "code": "564747",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564771",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Pat",
+    "name_mr": "",
+    "code": "564771",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564712",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ambadawe",
+    "name_mr": "",
+    "code": "564712",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564701",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Surle",
+    "name_mr": "",
+    "code": "564701",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564714",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "BHAmghar",
+    "name_mr": "",
+    "code": "564714",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564778",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Shenale",
+    "name_mr": "",
+    "code": "564778",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564715",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Gothe",
+    "name_mr": "",
+    "code": "564715",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564780",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Soweli",
+    "name_mr": "",
+    "code": "564780",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564702",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Adkhal",
+    "name_mr": "",
+    "code": "564702",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564713",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "564713",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564716",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Borkhat",
+    "name_mr": "",
+    "code": "564716",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564781",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kuduk Kh",
+    "name_mr": "",
+    "code": "564781",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564782",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Terdi",
+    "name_mr": "",
+    "code": "564782",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-275295",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Mandangad (NP)",
+    "name_mr": "",
+    "code": "275295",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564717",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Veral Tarf Veshwi",
+    "name_mr": "",
+    "code": "564717",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564777",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "564777",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564770",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Bhingaloli",
+    "name_mr": "",
+    "code": "564770",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564748",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Pacharal",
+    "name_mr": "",
+    "code": "564748",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564719",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kalkavane",
+    "name_mr": "",
+    "code": "564719",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564772",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dhutroli",
+    "name_mr": "",
+    "code": "564772",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564742",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Veshvi",
+    "name_mr": "",
+    "code": "564742",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564735",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Shipole Bandar",
+    "name_mr": "",
+    "code": "564735",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564740",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kante",
+    "name_mr": "",
+    "code": "564740",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564758",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Pale",
+    "name_mr": "",
+    "code": "564758",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564743",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Valmiki Nagar",
+    "name_mr": "",
+    "code": "564743",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564718",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "564718",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564744",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Bankot",
+    "name_mr": "",
+    "code": "564744",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564783",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Sade",
+    "name_mr": "",
+    "code": "564783",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564728",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kuduk Bk",
+    "name_mr": "",
+    "code": "564728",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564736",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Shipole",
+    "name_mr": "",
+    "code": "564736",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564734",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Umroli",
+    "name_mr": "",
+    "code": "564734",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564723",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Konhavali",
+    "name_mr": "",
+    "code": "564723",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564761",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Mahu",
+    "name_mr": "",
+    "code": "564761",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564762",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Borghar",
+    "name_mr": "",
+    "code": "564762",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564757",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Tulshi",
+    "name_mr": "",
+    "code": "564757",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564720",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Devhare",
+    "name_mr": "",
+    "code": "564720",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564776",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Takede",
+    "name_mr": "",
+    "code": "564776",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564741",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kengwal",
+    "name_mr": "",
+    "code": "564741",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564773",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Palghar",
+    "name_mr": "",
+    "code": "564773",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564727",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Keril",
+    "name_mr": "",
+    "code": "564727",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564729",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Gawalwadi",
+    "name_mr": "",
+    "code": "564729",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564784",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Tide",
+    "name_mr": "",
+    "code": "564784",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564733",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Gudeghar",
+    "name_mr": "",
+    "code": "564733",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564745",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Narayannagar",
+    "name_mr": "",
+    "code": "564745",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564769",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kelwat",
+    "name_mr": "",
+    "code": "564769",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564746",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Velas",
+    "name_mr": "",
+    "code": "564746",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564750",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ambavane Kh",
+    "name_mr": "",
+    "code": "564750",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564785",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Taleghar",
+    "name_mr": "",
+    "code": "564785",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564739",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ranavali",
+    "name_mr": "",
+    "code": "564739",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564731",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Panhali Bk",
+    "name_mr": "",
+    "code": "564731",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564738",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Sakhari",
+    "name_mr": "",
+    "code": "564738",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564737",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Ambavali",
+    "name_mr": "",
+    "code": "564737",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564726",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Nayane",
+    "name_mr": "",
+    "code": "564726",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564730",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Chinchaghar",
+    "name_mr": "",
+    "code": "564730",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564721",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Tamhane",
+    "name_mr": "",
+    "code": "564721",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564787",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kadawan",
+    "name_mr": "",
+    "code": "564787",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564732",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Jawale",
+    "name_mr": "",
+    "code": "564732",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564774",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Kumbale",
+    "name_mr": "",
+    "code": "564774",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564724",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Atale",
+    "name_mr": "",
+    "code": "564724",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564768",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Bamanghar",
+    "name_mr": "",
+    "code": "564768",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564763",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Nargoli",
+    "name_mr": "",
+    "code": "564763",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564722",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Vadavali",
+    "name_mr": "",
+    "code": "564722",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564749",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Unhavare",
+    "name_mr": "",
+    "code": "564749",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564756",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Palawani",
+    "name_mr": "",
+    "code": "564756",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564767",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dudhere",
+    "name_mr": "",
+    "code": "564767",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564786",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Valote",
+    "name_mr": "",
+    "code": "564786",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564791",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Latawan",
+    "name_mr": "",
+    "code": "564791",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564725",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Sheware",
+    "name_mr": "",
+    "code": "564725",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564752",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Tondali",
+    "name_mr": "",
+    "code": "564752",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564751",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dahimbe",
+    "name_mr": "",
+    "code": "564751",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564775",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Pimpaloli",
+    "name_mr": "",
+    "code": "564775",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564765",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Gharadi",
+    "name_mr": "",
+    "code": "564765",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564792",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Muradpur",
+    "name_mr": "",
+    "code": "564792",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564789",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dabhat",
+    "name_mr": "",
+    "code": "564789",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564790",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Vinhe",
+    "name_mr": "",
+    "code": "564790",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564766",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dahagaon",
+    "name_mr": "",
+    "code": "564766",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564764",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Shedawai",
+    "name_mr": "",
+    "code": "564764",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564755",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Dattanagar",
+    "name_mr": "",
+    "code": "564755",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564793",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Gowal",
+    "name_mr": "",
+    "code": "564793",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564753",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Veral Tarf Natu",
+    "name_mr": "",
+    "code": "564753",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564788",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "564788",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564794",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Bholavali",
+    "name_mr": "",
+    "code": "564794",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564754",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Jambul Nagar",
+    "name_mr": "",
+    "code": "564754",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "v-564694",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Islampur",
+    "name_mr": "",
+    "code": "564694",
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  },
+  {
+    "village_id": "nalanda",
+    "district_id": "ratnagiri",
+    "taluka_id": "mandangad",
+    "name_en": "Nalanda",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/ratnagiri/mandangad.geojson"
+  }
+]

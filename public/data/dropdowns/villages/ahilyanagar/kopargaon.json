@@ -1,0 +1,722 @@
+[
+  {
+    "village_id": "v-557511",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Nategaon",
+    "name_mr": "",
+    "code": "557511",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557510",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Bramhangaon",
+    "name_mr": "",
+    "code": "557510",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557489",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Morvis",
+    "name_mr": "",
+    "code": "557489",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557490",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dhamori",
+    "name_mr": "",
+    "code": "557490",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557494",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Rawande",
+    "name_mr": "",
+    "code": "557494",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557513",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Ogadi",
+    "name_mr": "",
+    "code": "557513",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557492",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Sangvi Bhusar",
+    "name_mr": "",
+    "code": "557492",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557512",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Anchalgaon",
+    "name_mr": "",
+    "code": "557512",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557514",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Karanji Bk.",
+    "name_mr": "",
+    "code": "557514",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557518",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Yesgaon",
+    "name_mr": "",
+    "code": "557518",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557504",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Vadgaon",
+    "name_mr": "",
+    "code": "557504",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557503",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Baktarpur",
+    "name_mr": "",
+    "code": "557503",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557517",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Khirdi Ganesh",
+    "name_mr": "",
+    "code": "557517",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557493",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Malegaon Thadi",
+    "name_mr": "",
+    "code": "557493",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557491",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Maygaon Devi",
+    "name_mr": "",
+    "code": "557491",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557502",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Chas",
+    "name_mr": "",
+    "code": "557502",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557527",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Sawalgaon",
+    "name_mr": "",
+    "code": "557527",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557516",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Bolaki",
+    "name_mr": "",
+    "code": "557516",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557495",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Sonari",
+    "name_mr": "",
+    "code": "557495",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557533",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Padhegaon",
+    "name_mr": "",
+    "code": "557533",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557528",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Tilwani",
+    "name_mr": "",
+    "code": "557528",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557520",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dharangaon",
+    "name_mr": "",
+    "code": "557520",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557501",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Manjur",
+    "name_mr": "",
+    "code": "557501",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557529",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Ukkadgaon",
+    "name_mr": "",
+    "code": "557529",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557531",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kasali",
+    "name_mr": "",
+    "code": "557531",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557532",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Shirasgaon",
+    "name_mr": "",
+    "code": "557532",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557519",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "557519",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557500",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Velapur",
+    "name_mr": "",
+    "code": "557500",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557499",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Suregaon",
+    "name_mr": "",
+    "code": "557499",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557530",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Apegaon",
+    "name_mr": "",
+    "code": "557530",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557508",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kolgaon Thadi",
+    "name_mr": "",
+    "code": "557508",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557497",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Mahegaon Deshmukh",
+    "name_mr": "",
+    "code": "557497",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-251540",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kopargaon (M CI)",
+    "name_mr": "",
+    "code": "251540",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557506",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Karwadi",
+    "name_mr": "",
+    "code": "557506",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557496",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "557496",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557534",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Godhegaon",
+    "name_mr": "",
+    "code": "557534",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557525",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Samvatsar",
+    "name_mr": "",
+    "code": "557525",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557515",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Singnapur",
+    "name_mr": "",
+    "code": "557515",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557505",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Handewadi",
+    "name_mr": "",
+    "code": "557505",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557521",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Murshatpur",
+    "name_mr": "",
+    "code": "557521",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557535",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Ghoyegaon",
+    "name_mr": "",
+    "code": "557535",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557538",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dahigaon Bolka",
+    "name_mr": "",
+    "code": "557538",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557536",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Talegaon Male",
+    "name_mr": "",
+    "code": "557536",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557498",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kolpewadi",
+    "name_mr": "",
+    "code": "557498",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557523",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Jeur Patoda",
+    "name_mr": "",
+    "code": "557523",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557509",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Hingani",
+    "name_mr": "",
+    "code": "557509",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557507",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Shahajapur",
+    "name_mr": "",
+    "code": "557507",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557537",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Louki",
+    "name_mr": "",
+    "code": "557537",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557526",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kokamthan",
+    "name_mr": "",
+    "code": "557526",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557522",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Chandgavhan",
+    "name_mr": "",
+    "code": "557522",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557539",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Bhojade",
+    "name_mr": "",
+    "code": "557539",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557547",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dauch Bk.",
+    "name_mr": "",
+    "code": "557547",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557543",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dhotre",
+    "name_mr": "",
+    "code": "557543",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557545",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Madhi BK",
+    "name_mr": "",
+    "code": "557545",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557549",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Jeur Kumbhari",
+    "name_mr": "",
+    "code": "557549",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557546",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Derde Chandwad",
+    "name_mr": "",
+    "code": "557546",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557540",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kanhegaon",
+    "name_mr": "",
+    "code": "557540",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557548",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dauch Kh.",
+    "name_mr": "",
+    "code": "557548",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557551",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Ghari",
+    "name_mr": "",
+    "code": "557551",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557544",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Khopadi",
+    "name_mr": "",
+    "code": "557544",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557553",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Madhi Kh.",
+    "name_mr": "",
+    "code": "557553",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557550",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Chande Kasare",
+    "name_mr": "",
+    "code": "557550",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557552",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Derde Korhale",
+    "name_mr": "",
+    "code": "557552",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557542",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Wari",
+    "name_mr": "",
+    "code": "557542",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557541",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Sade",
+    "name_mr": "",
+    "code": "557541",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557556",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Pohegaon KH",
+    "name_mr": "",
+    "code": "557556",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557554",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Pohegaon Bk.",
+    "name_mr": "",
+    "code": "557554",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557557",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "557557",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557559",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "557559",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557565",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Dhondewadi (NV)",
+    "name_mr": "",
+    "code": "557565",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557560",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Javalke",
+    "name_mr": "",
+    "code": "557560",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557558",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Bahadarbad",
+    "name_mr": "",
+    "code": "557558",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557561",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Ves",
+    "name_mr": "",
+    "code": "557561",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557563",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Anjanapur",
+    "name_mr": "",
+    "code": "557563",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557564",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Ranjangaon Deshmukh",
+    "name_mr": "",
+    "code": "557564",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557562",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Soyegaon",
+    "name_mr": "",
+    "code": "557562",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557567",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Malharwadi",
+    "name_mr": "",
+    "code": "557567",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557566",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "557566",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557568",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Kakadi",
+    "name_mr": "",
+    "code": "557568",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  },
+  {
+    "village_id": "v-557555",
+    "district_id": "ahilyanagar",
+    "taluka_id": "kopargaon",
+    "name_en": "Sonewadi",
+    "name_mr": "",
+    "code": "557555",
+    "boundary_file": "/data/boundaries/villages/ahilyanagar/kopargaon.geojson"
+  }
+]

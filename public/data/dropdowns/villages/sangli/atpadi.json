@@ -1,0 +1,524 @@
+[
+  {
+    "village_id": "v-568565",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "568565",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568567",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Pujarwadi",
+    "name_mr": "",
+    "code": "568567",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568570",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Dighanchi",
+    "name_mr": "",
+    "code": "568570",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568566",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Lingivare",
+    "name_mr": "",
+    "code": "568566",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568568",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Pandharewadi",
+    "name_mr": "",
+    "code": "568568",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568569",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Umbargaon",
+    "name_mr": "",
+    "code": "568569",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568571",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Palaskhel",
+    "name_mr": "",
+    "code": "568571",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568573",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Vithalapur",
+    "name_mr": "",
+    "code": "568573",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568576",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Awalai",
+    "name_mr": "",
+    "code": "568576",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568578",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Nimbawade",
+    "name_mr": "",
+    "code": "568578",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568583",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Pimpari Kh",
+    "name_mr": "",
+    "code": "568583",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568598",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Gulewadi",
+    "name_mr": "",
+    "code": "568598",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568599",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Vibhutwadi",
+    "name_mr": "",
+    "code": "568599",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568600",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kurundwadi",
+    "name_mr": "",
+    "code": "568600",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568601",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Zare",
+    "name_mr": "",
+    "code": "568601",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568574",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kautholi",
+    "name_mr": "",
+    "code": "568574",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568575",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Sherewadi",
+    "name_mr": "",
+    "code": "568575",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568615",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "568615",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568621",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Nelkaranji",
+    "name_mr": "",
+    "code": "568621",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568597",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Patrewadi",
+    "name_mr": "",
+    "code": "568597",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568620",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Autewadi",
+    "name_mr": "",
+    "code": "568620",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568624",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Talewadi",
+    "name_mr": "",
+    "code": "568624",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568623",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Hivtad",
+    "name_mr": "",
+    "code": "568623",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568616",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kalewadi",
+    "name_mr": "",
+    "code": "568616",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568622",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Manewadi",
+    "name_mr": "",
+    "code": "568622",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-300410",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Atpadi (NP)",
+    "name_mr": "",
+    "code": "300410",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568584",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Ambewadi",
+    "name_mr": "",
+    "code": "568584",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568577",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Galavewadi",
+    "name_mr": "",
+    "code": "568577",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568609",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Ghanand",
+    "name_mr": "",
+    "code": "568609",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568593",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Masalwadi",
+    "name_mr": "",
+    "code": "568593",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568594",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Madgule",
+    "name_mr": "",
+    "code": "568594",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568590",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Mitki",
+    "name_mr": "",
+    "code": "568590",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568610",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Walwan",
+    "name_mr": "",
+    "code": "568610",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568595",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Lengrewadi",
+    "name_mr": "",
+    "code": "568595",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568611",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Chinchale",
+    "name_mr": "",
+    "code": "568611",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568592",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Tadvale",
+    "name_mr": "",
+    "code": "568592",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568591",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Banpuri",
+    "name_mr": "",
+    "code": "568591",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568612",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kharsundi",
+    "name_mr": "",
+    "code": "568612",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568596",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Shetphale",
+    "name_mr": "",
+    "code": "568596",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568613",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Balewadi",
+    "name_mr": "",
+    "code": "568613",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568614",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kargani",
+    "name_mr": "",
+    "code": "568614",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568619",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Dhavadwadi",
+    "name_mr": "",
+    "code": "568619",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568618",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kankatrewadi",
+    "name_mr": "",
+    "code": "568618",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568617",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Gomewadi",
+    "name_mr": "",
+    "code": "568617",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568579",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Wakasewadi",
+    "name_mr": "",
+    "code": "568579",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568581",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Pujarwadi",
+    "name_mr": "",
+    "code": "568581",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568582",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Deshamukhwadi",
+    "name_mr": "",
+    "code": "568582",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568585",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Bombewadi",
+    "name_mr": "",
+    "code": "568585",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568602",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Parekarwadi",
+    "name_mr": "",
+    "code": "568602",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568604",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Pimpari Bk.",
+    "name_mr": "",
+    "code": "568604",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568608",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Kamth",
+    "name_mr": "",
+    "code": "568608",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568607",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Mudhewadi",
+    "name_mr": "",
+    "code": "568607",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568603",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Padalkarwadi",
+    "name_mr": "",
+    "code": "568603",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568606",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Jambhulni",
+    "name_mr": "",
+    "code": "568606",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568586",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Khanjodwadi",
+    "name_mr": "",
+    "code": "568586",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568587",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Yamaji Patalachi Wadi",
+    "name_mr": "",
+    "code": "568587",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568605",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Gharniki",
+    "name_mr": "",
+    "code": "568605",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  },
+  {
+    "village_id": "v-568572",
+    "district_id": "sangli",
+    "taluka_id": "atpadi",
+    "name_en": "Pisewadi",
+    "name_mr": "",
+    "code": "568572",
+    "boundary_file": "/data/boundaries/villages/sangli/atpadi.geojson"
+  }
+]

@@ -1,0 +1,875 @@
+[
+  {
+    "village_id": "v-566305",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Sandve",
+    "name_mr": "",
+    "code": "566305",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566329",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Poyare",
+    "name_mr": "",
+    "code": "566329",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566327",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Morve",
+    "name_mr": "",
+    "code": "566327",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566330",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Munage",
+    "name_mr": "",
+    "code": "566330",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566331",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Aadbandar",
+    "name_mr": "",
+    "code": "566331",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566234",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Vijaydurg",
+    "name_mr": "",
+    "code": "566234",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566235",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Rameshwar",
+    "name_mr": "",
+    "code": "566235",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566265",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Korle",
+    "name_mr": "",
+    "code": "566265",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566266",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kunkawan",
+    "name_mr": "",
+    "code": "566266",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566264",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Dhalavali",
+    "name_mr": "",
+    "code": "566264",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566261",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Manche",
+    "name_mr": "",
+    "code": "566261",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566263",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Pombhurle",
+    "name_mr": "",
+    "code": "566263",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566262",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Malpewadi",
+    "name_mr": "",
+    "code": "566262",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566260",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Palekarwadi",
+    "name_mr": "",
+    "code": "566260",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566239",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Thakurwadi",
+    "name_mr": "",
+    "code": "566239",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566236",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Girye",
+    "name_mr": "",
+    "code": "566236",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566241",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Wadaker Poi",
+    "name_mr": "",
+    "code": "566241",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566268",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Phanasgaon",
+    "name_mr": "",
+    "code": "566268",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566242",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Saundale",
+    "name_mr": "",
+    "code": "566242",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566240",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Tirlot",
+    "name_mr": "",
+    "code": "566240",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566238",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mohulgaon",
+    "name_mr": "",
+    "code": "566238",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566267",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Undil",
+    "name_mr": "",
+    "code": "566267",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566259",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mutat",
+    "name_mr": "",
+    "code": "566259",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566244",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mouje Waghotan",
+    "name_mr": "",
+    "code": "566244",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566243",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kasaba Waghotan",
+    "name_mr": "",
+    "code": "566243",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566245",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Padel",
+    "name_mr": "",
+    "code": "566245",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566269",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Patgaon",
+    "name_mr": "",
+    "code": "566269",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566270",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "566270",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566276",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Goval",
+    "name_mr": "",
+    "code": "566276",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566246",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Hurshi",
+    "name_mr": "",
+    "code": "566246",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566277",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Vitthaladevi",
+    "name_mr": "",
+    "code": "566277",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566278",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Burabavade",
+    "name_mr": "",
+    "code": "566278",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566272",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Juveshwar",
+    "name_mr": "",
+    "code": "566272",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566248",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Pural",
+    "name_mr": "",
+    "code": "566248",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566247",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kalambai",
+    "name_mr": "",
+    "code": "566247",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566279",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Welgave",
+    "name_mr": "",
+    "code": "566279",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566249",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Nadan",
+    "name_mr": "",
+    "code": "566249",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566275",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Somlewadi",
+    "name_mr": "",
+    "code": "566275",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566255",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Wade",
+    "name_mr": "",
+    "code": "566255",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566280",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Waghivare",
+    "name_mr": "",
+    "code": "566280",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566271",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Baparde",
+    "name_mr": "",
+    "code": "566271",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566250",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "566250",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566281",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mahalunge",
+    "name_mr": "",
+    "code": "566281",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566251",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mondpar",
+    "name_mr": "",
+    "code": "566251",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566283",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Gavane",
+    "name_mr": "",
+    "code": "566283",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566256",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Phanase",
+    "name_mr": "",
+    "code": "566256",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566291",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Rahateshwar",
+    "name_mr": "",
+    "code": "566291",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566274",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Pavnai",
+    "name_mr": "",
+    "code": "566274",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566273",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Wanivade",
+    "name_mr": "",
+    "code": "566273",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566282",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Nad",
+    "name_mr": "",
+    "code": "566282",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566290",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Gadhitamhane",
+    "name_mr": "",
+    "code": "566290",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566252",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mond",
+    "name_mr": "",
+    "code": "566252",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566258",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Wadetar",
+    "name_mr": "",
+    "code": "566258",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566254",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Virwadi",
+    "name_mr": "",
+    "code": "566254",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566257",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Padvane",
+    "name_mr": "",
+    "code": "566257",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566284",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Shiravali",
+    "name_mr": "",
+    "code": "566284",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566253",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Chinchwad",
+    "name_mr": "",
+    "code": "566253",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566287",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Talavade",
+    "name_mr": "",
+    "code": "566287",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566286",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Tembavali",
+    "name_mr": "",
+    "code": "566286",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566285",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kalvi",
+    "name_mr": "",
+    "code": "566285",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566293",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Ombal",
+    "name_mr": "",
+    "code": "566293",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566288",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Talebajar",
+    "name_mr": "",
+    "code": "566288",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-276321",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Devgad-Jamsande (NP)",
+    "name_mr": "",
+    "code": "276321",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566289",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Bagatalavade",
+    "name_mr": "",
+    "code": "566289",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566292",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Shevare",
+    "name_mr": "",
+    "code": "566292",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566296",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Dhoptewadi",
+    "name_mr": "",
+    "code": "566296",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566298",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Chandoshi",
+    "name_mr": "",
+    "code": "566298",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566294",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Hadpid",
+    "name_mr": "",
+    "code": "566294",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566314",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Wareri",
+    "name_mr": "",
+    "code": "566314",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566295",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Nimatwadi",
+    "name_mr": "",
+    "code": "566295",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566313",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Dabhole",
+    "name_mr": "",
+    "code": "566313",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566297",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Valivande",
+    "name_mr": "",
+    "code": "566297",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566301",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "566301",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566316",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Padthar",
+    "name_mr": "",
+    "code": "566316",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566317",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Elaye",
+    "name_mr": "",
+    "code": "566317",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566300",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Torsole",
+    "name_mr": "",
+    "code": "566300",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566299",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kinjawade",
+    "name_mr": "",
+    "code": "566299",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566315",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Lingdal",
+    "name_mr": "",
+    "code": "566315",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566318",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mithmumbari",
+    "name_mr": "",
+    "code": "566318",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566319",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kunkeshwar",
+    "name_mr": "",
+    "code": "566319",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566302",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Salashi",
+    "name_mr": "",
+    "code": "566302",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566303",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Chafed",
+    "name_mr": "",
+    "code": "566303",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566324",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Dahibaon",
+    "name_mr": "",
+    "code": "566324",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566309",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kotkamte",
+    "name_mr": "",
+    "code": "566309",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566320",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Katwaneshwar",
+    "name_mr": "",
+    "code": "566320",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566307",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Are",
+    "name_mr": "",
+    "code": "566307",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566308",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Sherighera Kamte",
+    "name_mr": "",
+    "code": "566308",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566306",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Rembavali",
+    "name_mr": "",
+    "code": "566306",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566326",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Mithbaon",
+    "name_mr": "",
+    "code": "566326",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566325",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Naringre",
+    "name_mr": "",
+    "code": "566325",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566304",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Kuvale",
+    "name_mr": "",
+    "code": "566304",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566321",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Katvan",
+    "name_mr": "",
+    "code": "566321",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566323",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Bagamala",
+    "name_mr": "",
+    "code": "566323",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566310",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Khudi",
+    "name_mr": "",
+    "code": "566310",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566322",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Tambaldeg",
+    "name_mr": "",
+    "code": "566322",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566328",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Hindale",
+    "name_mr": "",
+    "code": "566328",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  },
+  {
+    "village_id": "v-566312",
+    "district_id": "sindhudurg",
+    "taluka_id": "devgad",
+    "name_en": "Jamsande",
+    "name_mr": "",
+    "code": "566312",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/devgad.geojson"
+  }
+]

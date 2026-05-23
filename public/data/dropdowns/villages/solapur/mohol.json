@@ -1,0 +1,902 @@
+[
+  {
+    "village_id": "v-562226",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Mangaoli",
+    "name_mr": "",
+    "code": "562226",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562227",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Waluj",
+    "name_mr": "",
+    "code": "562227",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562225",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Bhairowadi",
+    "name_mr": "",
+    "code": "562225",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562228",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "562228",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562224",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Yellamwadi",
+    "name_mr": "",
+    "code": "562224",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562223",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Bople",
+    "name_mr": "",
+    "code": "562223",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562236",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Maslechaudhari",
+    "name_mr": "",
+    "code": "562236",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562230",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "562230",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562193",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wafale",
+    "name_mr": "",
+    "code": "562193",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562231",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Paslewadi",
+    "name_mr": "",
+    "code": "562231",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562261",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Takali (Shikandar)",
+    "name_mr": "",
+    "code": "562261",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562254",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "562254",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562263",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Katewadi",
+    "name_mr": "",
+    "code": "562263",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562271",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wirawade Bk",
+    "name_mr": "",
+    "code": "562271",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562265",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Shejbabhulgaon",
+    "name_mr": "",
+    "code": "562265",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562272",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Shirapur (Mo)",
+    "name_mr": "",
+    "code": "562272",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562266",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Warkute",
+    "name_mr": "",
+    "code": "562266",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562264",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kurul",
+    "name_mr": "",
+    "code": "562264",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562270",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Dadapur",
+    "name_mr": "",
+    "code": "562270",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562269",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Parmeshwar-pimpri",
+    "name_mr": "",
+    "code": "562269",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562273",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Peertakali",
+    "name_mr": "",
+    "code": "562273",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562267",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ankoli",
+    "name_mr": "",
+    "code": "562267",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562268",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Aundhi",
+    "name_mr": "",
+    "code": "562268",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562277",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Lamantanda",
+    "name_mr": "",
+    "code": "562277",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562278",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kamti Bk",
+    "name_mr": "",
+    "code": "562278",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562274",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Shingoli",
+    "name_mr": "",
+    "code": "562274",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562222",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Galandawadi",
+    "name_mr": "",
+    "code": "562222",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-300382",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Angar (NP)",
+    "name_mr": "",
+    "code": "300382",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562234",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Narkhed",
+    "name_mr": "",
+    "code": "562234",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562229",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ghorpadi",
+    "name_mr": "",
+    "code": "562229",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562192",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Shetphal",
+    "name_mr": "",
+    "code": "562192",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562191",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Siddewadi",
+    "name_mr": "",
+    "code": "562191",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562232",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ekurke",
+    "name_mr": "",
+    "code": "562232",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562235",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Diksal",
+    "name_mr": "",
+    "code": "562235",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562195",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Telangwadi",
+    "name_mr": "",
+    "code": "562195",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562233",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Bitle",
+    "name_mr": "",
+    "code": "562233",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562194",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Deodi",
+    "name_mr": "",
+    "code": "562194",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562237",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Bhoire",
+    "name_mr": "",
+    "code": "562237",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562213",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kharkatne",
+    "name_mr": "",
+    "code": "562213",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562239",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Khuneshwar",
+    "name_mr": "",
+    "code": "562239",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562199",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Khandali",
+    "name_mr": "",
+    "code": "562199",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562197",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Bairagwadi",
+    "name_mr": "",
+    "code": "562197",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562196",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kuranwadi (Ashti)",
+    "name_mr": "",
+    "code": "562196",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562212",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Malikpeth",
+    "name_mr": "",
+    "code": "562212",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562201",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Hivare",
+    "name_mr": "",
+    "code": "562201",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562198",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ashti",
+    "name_mr": "",
+    "code": "562198",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562200",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wadachiwadi",
+    "name_mr": "",
+    "code": "562200",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562238",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Hingani(Nipani)",
+    "name_mr": "",
+    "code": "562238",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562202",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "562202",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562215",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Yawali",
+    "name_mr": "",
+    "code": "562215",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562242",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Bhambewadi",
+    "name_mr": "",
+    "code": "562242",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562214",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Dhaingade Wadi",
+    "name_mr": "",
+    "code": "562214",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-276301",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Mohol (M CI)",
+    "name_mr": "",
+    "code": "276301",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562203",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Papari",
+    "name_mr": "",
+    "code": "562203",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562218",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ghatne",
+    "name_mr": "",
+    "code": "562218",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562240",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Morvanchi",
+    "name_mr": "",
+    "code": "562240",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562205",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Konheri",
+    "name_mr": "",
+    "code": "562205",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562206",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Sarole",
+    "name_mr": "",
+    "code": "562206",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562243",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ashte",
+    "name_mr": "",
+    "code": "562243",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562241",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Shirapur (Solapur)",
+    "name_mr": "",
+    "code": "562241",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562216",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Khavani",
+    "name_mr": "",
+    "code": "562216",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562217",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Pokharapur",
+    "name_mr": "",
+    "code": "562217",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562204",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Yeoti",
+    "name_mr": "",
+    "code": "562204",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562221",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kolegaon",
+    "name_mr": "",
+    "code": "562221",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562257",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Penur",
+    "name_mr": "",
+    "code": "562257",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562220",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wadwal",
+    "name_mr": "",
+    "code": "562220",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562244",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Lamboti",
+    "name_mr": "",
+    "code": "562244",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562258",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Patkul",
+    "name_mr": "",
+    "code": "562258",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562250",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Najikpimpari",
+    "name_mr": "",
+    "code": "562250",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562245",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Chincholikati",
+    "name_mr": "",
+    "code": "562245",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562246",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Sawaleshwar",
+    "name_mr": "",
+    "code": "562246",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562249",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Dhokbabulgaon",
+    "name_mr": "",
+    "code": "562249",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562259",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Adhegaon",
+    "name_mr": "",
+    "code": "562259",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562247",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "ArjunSond",
+    "name_mr": "",
+    "code": "562247",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562260",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Tambole",
+    "name_mr": "",
+    "code": "562260",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562248",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ramhingani",
+    "name_mr": "",
+    "code": "562248",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562253",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Mundhewadi",
+    "name_mr": "",
+    "code": "562253",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562252",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Gotewadi",
+    "name_mr": "",
+    "code": "562252",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562255",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Pophali",
+    "name_mr": "",
+    "code": "562255",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562251",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Sayyadwarwade",
+    "name_mr": "",
+    "code": "562251",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562256",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wirwade Kh",
+    "name_mr": "",
+    "code": "562256",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562262",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Saundane",
+    "name_mr": "",
+    "code": "562262",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562275",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Taratgaon",
+    "name_mr": "",
+    "code": "562275",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562276",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kamti Kh",
+    "name_mr": "",
+    "code": "562276",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562280",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Sohale",
+    "name_mr": "",
+    "code": "562280",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562281",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Kothale",
+    "name_mr": "",
+    "code": "562281",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562279",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "562279",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562286",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Haralwadi",
+    "name_mr": "",
+    "code": "562286",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562282",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Waddegaon",
+    "name_mr": "",
+    "code": "562282",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562285",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Korwali",
+    "name_mr": "",
+    "code": "562285",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562283",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ichgaon",
+    "name_mr": "",
+    "code": "562283",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562284",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Wagholiwadi",
+    "name_mr": "",
+    "code": "562284",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562287",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Yenaki",
+    "name_mr": "",
+    "code": "562287",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562288",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ardhanari",
+    "name_mr": "",
+    "code": "562288",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562293",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Jamgaon Bk",
+    "name_mr": "",
+    "code": "562293",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562292",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Watwate",
+    "name_mr": "",
+    "code": "562292",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562289",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Ghodeshwar",
+    "name_mr": "",
+    "code": "562289",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562290",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Arbali",
+    "name_mr": "",
+    "code": "562290",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562294",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Jamgaon Kh",
+    "name_mr": "",
+    "code": "562294",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  },
+  {
+    "village_id": "v-562291",
+    "district_id": "solapur",
+    "taluka_id": "mohol",
+    "name_en": "Miri",
+    "name_mr": "",
+    "code": "562291",
+    "boundary_file": "/data/boundaries/villages/solapur/mohol.geojson"
+  }
+]

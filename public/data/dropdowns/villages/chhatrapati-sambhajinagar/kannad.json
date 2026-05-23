@@ -1,0 +1,1865 @@
+[
+  {
+    "village_id": "v-548358",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Banshendra",
+    "name_mr": "",
+    "code": "548358",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548390",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jaitkheda Tanda",
+    "name_mr": "",
+    "code": "548390",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548364",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shirodi",
+    "name_mr": "",
+    "code": "548364",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548359",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shivrai",
+    "name_mr": "",
+    "code": "548359",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548363",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Gavhali",
+    "name_mr": "",
+    "code": "548363",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548382",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bhokangaon",
+    "name_mr": "",
+    "code": "548382",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548383",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chikhalthan",
+    "name_mr": "",
+    "code": "548383",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548379",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Hatnoor",
+    "name_mr": "",
+    "code": "548379",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548362",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chinchkheda KH",
+    "name_mr": "",
+    "code": "548362",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548381",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nimdongri",
+    "name_mr": "",
+    "code": "548381",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548372",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Aurala",
+    "name_mr": "",
+    "code": "548372",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548367",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nipani",
+    "name_mr": "",
+    "code": "548367",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548373",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "548373",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548360",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kheda",
+    "name_mr": "",
+    "code": "548360",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548368",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Rohila KH",
+    "name_mr": "",
+    "code": "548368",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548370",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "548370",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548376",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Hasankheda",
+    "name_mr": "",
+    "code": "548376",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548380",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ghusur",
+    "name_mr": "",
+    "code": "548380",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548374",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kavitkheda",
+    "name_mr": "",
+    "code": "548374",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548378",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Athegaon",
+    "name_mr": "",
+    "code": "548378",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548377",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jawali KH",
+    "name_mr": "",
+    "code": "548377",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548397",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Aurali",
+    "name_mr": "",
+    "code": "548397",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548369",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sahangaon",
+    "name_mr": "",
+    "code": "548369",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548375",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jawali BK",
+    "name_mr": "",
+    "code": "548375",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548279",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ganeshpur (Ganeshpurwadi)",
+    "name_mr": "",
+    "code": "548279",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548280",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jamdi (Jahagir)",
+    "name_mr": "",
+    "code": "548280",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548271",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kolambi Makta",
+    "name_mr": "",
+    "code": "548271",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548286",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "548286",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548278",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dhangar Malegaon",
+    "name_mr": "",
+    "code": "548278",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548318",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Gautala",
+    "name_mr": "",
+    "code": "548318",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548321",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nimbhora",
+    "name_mr": "",
+    "code": "548321",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548277",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Khatkheda",
+    "name_mr": "",
+    "code": "548277",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548320",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Tapowan",
+    "name_mr": "",
+    "code": "548320",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548316",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bhambarwadi",
+    "name_mr": "",
+    "code": "548316",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548322",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wasadi",
+    "name_mr": "",
+    "code": "548322",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548293",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Pishor",
+    "name_mr": "",
+    "code": "548293",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548285",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Adgaon (Pishor)",
+    "name_mr": "",
+    "code": "548285",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548311",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ambala",
+    "name_mr": "",
+    "code": "548311",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548297",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Palshi BK",
+    "name_mr": "",
+    "code": "548297",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548319",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bramhani Garada",
+    "name_mr": "",
+    "code": "548319",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548308",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Takli BK",
+    "name_mr": "",
+    "code": "548308",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548434",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Amba Tanda",
+    "name_mr": "",
+    "code": "548434",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548289",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mohadi",
+    "name_mr": "",
+    "code": "548289",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548288",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Amdabad",
+    "name_mr": "",
+    "code": "548288",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548287",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nachanwel",
+    "name_mr": "",
+    "code": "548287",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548291",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nadarpur",
+    "name_mr": "",
+    "code": "548291",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548329",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Hiwarkheda (Gautala)",
+    "name_mr": "",
+    "code": "548329",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548292",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "548292",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548315",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Upla",
+    "name_mr": "",
+    "code": "548315",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548294",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Digar",
+    "name_mr": "",
+    "code": "548294",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548336",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Rail Navadi",
+    "name_mr": "",
+    "code": "548336",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548303",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Gaurpimpri",
+    "name_mr": "",
+    "code": "548303",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548346",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "548346",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548350",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kolwadi",
+    "name_mr": "",
+    "code": "548350",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548341",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dabhadi",
+    "name_mr": "",
+    "code": "548341",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548343",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Adgaon Jehur",
+    "name_mr": "",
+    "code": "548343",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548344",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mungsapur",
+    "name_mr": "",
+    "code": "548344",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548349",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sitanaik Tanda",
+    "name_mr": "",
+    "code": "548349",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548340",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Malpur",
+    "name_mr": "",
+    "code": "548340",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548347",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jehur",
+    "name_mr": "",
+    "code": "548347",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548348",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Pedakwadi",
+    "name_mr": "",
+    "code": "548348",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548391",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Salegaon",
+    "name_mr": "",
+    "code": "548391",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548388",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wadali",
+    "name_mr": "",
+    "code": "548388",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548355",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sirjapur (Sirjapur Tanda)",
+    "name_mr": "",
+    "code": "548355",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548361",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chapaner",
+    "name_mr": "",
+    "code": "548361",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548339",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "548339",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548338",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Vitthalpur",
+    "name_mr": "",
+    "code": "548338",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548356",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shirasgaon",
+    "name_mr": "",
+    "code": "548356",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548384",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jamdi KH",
+    "name_mr": "",
+    "code": "548384",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548342",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bahirgaon",
+    "name_mr": "",
+    "code": "548342",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548232",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sonwadi",
+    "name_mr": "",
+    "code": "548232",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548229",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nagad",
+    "name_mr": "",
+    "code": "548229",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548230",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nagad Tanda",
+    "name_mr": "",
+    "code": "548230",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548231",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Belkheda Tanda",
+    "name_mr": "",
+    "code": "548231",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548233",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Belkheda",
+    "name_mr": "",
+    "code": "548233",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548244",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wadhod",
+    "name_mr": "",
+    "code": "548244",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548234",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bhopewadi",
+    "name_mr": "",
+    "code": "548234",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548236",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bormal Tanda",
+    "name_mr": "",
+    "code": "548236",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548235",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Pangra",
+    "name_mr": "",
+    "code": "548235",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548241",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dudhmal",
+    "name_mr": "",
+    "code": "548241",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548243",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ghatshendra",
+    "name_mr": "",
+    "code": "548243",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548238",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Lonza",
+    "name_mr": "",
+    "code": "548238",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548237",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wadgaon (j)",
+    "name_mr": "",
+    "code": "548237",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548242",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Talner",
+    "name_mr": "",
+    "code": "548242",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548239",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kondbari",
+    "name_mr": "",
+    "code": "548239",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548245",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Lohagaon",
+    "name_mr": "",
+    "code": "548245",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548258",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Saigavhan",
+    "name_mr": "",
+    "code": "548258",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548269",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Karanjkheda Jahagir",
+    "name_mr": "",
+    "code": "548269",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548259",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Hasanabad",
+    "name_mr": "",
+    "code": "548259",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548257",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Haraswadi",
+    "name_mr": "",
+    "code": "548257",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548240",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shibghat",
+    "name_mr": "",
+    "code": "548240",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548252",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Karankheda Khalsa",
+    "name_mr": "",
+    "code": "548252",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548246",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Takli Antur",
+    "name_mr": "",
+    "code": "548246",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548275",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Raigaon",
+    "name_mr": "",
+    "code": "548275",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548276",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wakad",
+    "name_mr": "",
+    "code": "548276",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548249",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Newpur Khalsa",
+    "name_mr": "",
+    "code": "548249",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548251",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Rewoolgaon",
+    "name_mr": "",
+    "code": "548251",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548255",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chimnapur",
+    "name_mr": "",
+    "code": "548255",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548256",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kholapur",
+    "name_mr": "",
+    "code": "548256",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548253",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "548253",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548247",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Waki  Kadim",
+    "name_mr": "",
+    "code": "548247",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548273",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chincholi (L)",
+    "name_mr": "",
+    "code": "548273",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548274",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Barkatpur",
+    "name_mr": "",
+    "code": "548274",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548430",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shiv Tanda",
+    "name_mr": "",
+    "code": "548430",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548272",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Rojwepur",
+    "name_mr": "",
+    "code": "548272",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548263",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Umberkheda Tanda",
+    "name_mr": "",
+    "code": "548263",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548282",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shelgaon (Jahagir)",
+    "name_mr": "",
+    "code": "548282",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548262",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mehun Puranwadi",
+    "name_mr": "",
+    "code": "548262",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548283",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Digaon",
+    "name_mr": "",
+    "code": "548283",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548254",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wadichimnapur",
+    "name_mr": "",
+    "code": "548254",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548265",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "548265",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548267",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ambegaon BK",
+    "name_mr": "",
+    "code": "548267",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548266",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ambegaon KH",
+    "name_mr": "",
+    "code": "548266",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548270",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Balkheda",
+    "name_mr": "",
+    "code": "548270",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548260",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bhildari (nagad)",
+    "name_mr": "",
+    "code": "548260",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548268",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dhamani KH",
+    "name_mr": "",
+    "code": "548268",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548264",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Umbarkheda",
+    "name_mr": "",
+    "code": "548264",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548261",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Rampurwadi",
+    "name_mr": "",
+    "code": "548261",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548284",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Khedi",
+    "name_mr": "",
+    "code": "548284",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548317",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Satkund Tanda",
+    "name_mr": "",
+    "code": "548317",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548290",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jawakheda Kh",
+    "name_mr": "",
+    "code": "548290",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548295",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sakharwel",
+    "name_mr": "",
+    "code": "548295",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548301",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Waghul Kheda",
+    "name_mr": "",
+    "code": "548301",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548310",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kalanki",
+    "name_mr": "",
+    "code": "548310",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548331",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Telwadi",
+    "name_mr": "",
+    "code": "548331",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548332",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Andhaner",
+    "name_mr": "",
+    "code": "548332",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548296",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Palashi Kh",
+    "name_mr": "",
+    "code": "548296",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548325",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Hasta",
+    "name_mr": "",
+    "code": "548325",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548323",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Deopul",
+    "name_mr": "",
+    "code": "548323",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548307",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Koparwel",
+    "name_mr": "",
+    "code": "548307",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548309",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mohara",
+    "name_mr": "",
+    "code": "548309",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548298",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shafepur",
+    "name_mr": "",
+    "code": "548298",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548326",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Moharda",
+    "name_mr": "",
+    "code": "548326",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548324",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mehagaon",
+    "name_mr": "",
+    "code": "548324",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548306",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sarola",
+    "name_mr": "",
+    "code": "548306",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548313",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wadner Tanda",
+    "name_mr": "",
+    "code": "548313",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548305",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jawakheda BK",
+    "name_mr": "",
+    "code": "548305",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548333",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mundwadi",
+    "name_mr": "",
+    "code": "548333",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548352",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jamdi (Ghat)",
+    "name_mr": "",
+    "code": "548352",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548312",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Wadner",
+    "name_mr": "",
+    "code": "548312",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548304",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Pimparkheda",
+    "name_mr": "",
+    "code": "548304",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-944715",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kannad",
+    "name_mr": "",
+    "code": "944715",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548300",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shafiabad",
+    "name_mr": "",
+    "code": "548300",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548328",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Narsingpur",
+    "name_mr": "",
+    "code": "548328",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548392",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Malegaon (Lokhandi)",
+    "name_mr": "",
+    "code": "548392",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548396",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "548396",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548299",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kolambi (Majra)",
+    "name_mr": "",
+    "code": "548299",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548337",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Makranpur",
+    "name_mr": "",
+    "code": "548337",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548345",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chivali",
+    "name_mr": "",
+    "code": "548345",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548327",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Rithi",
+    "name_mr": "",
+    "code": "548327",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548393",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bharamba Tanda",
+    "name_mr": "",
+    "code": "548393",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548334",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mundwadi Tanda",
+    "name_mr": "",
+    "code": "548334",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548302",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bhildari (Pishor)",
+    "name_mr": "",
+    "code": "548302",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548385",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kunjkheda",
+    "name_mr": "",
+    "code": "548385",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548386",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Nandgirwadi",
+    "name_mr": "",
+    "code": "548386",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548395",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Malegaon (thokal)",
+    "name_mr": "",
+    "code": "548395",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548389",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jaitkheda",
+    "name_mr": "",
+    "code": "548389",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548387",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Hiwarkheda KH",
+    "name_mr": "",
+    "code": "548387",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548335",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Navadi",
+    "name_mr": "",
+    "code": "548335",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548357",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "548357",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548366",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chinchkheda BK",
+    "name_mr": "",
+    "code": "548366",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548353",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Gudma",
+    "name_mr": "",
+    "code": "548353",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548365",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bibkheda",
+    "name_mr": "",
+    "code": "548365",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548405",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jalgaonghat",
+    "name_mr": "",
+    "code": "548405",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548398",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Vita",
+    "name_mr": "",
+    "code": "548398",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548404",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "548404",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548371",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kanadgaon (kannad)",
+    "name_mr": "",
+    "code": "548371",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548406",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ruikheda",
+    "name_mr": "",
+    "code": "548406",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548407",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Tapargaon",
+    "name_mr": "",
+    "code": "548407",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548399",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Khaparkheda",
+    "name_mr": "",
+    "code": "548399",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548403",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Takli (kannad)",
+    "name_mr": "",
+    "code": "548403",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548408",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Alapur",
+    "name_mr": "",
+    "code": "548408",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548401",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Palaskheda",
+    "name_mr": "",
+    "code": "548401",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548402",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Borsar BK",
+    "name_mr": "",
+    "code": "548402",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548400",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Sasegaon",
+    "name_mr": "",
+    "code": "548400",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548409",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Antapur",
+    "name_mr": "",
+    "code": "548409",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548412",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kesapur",
+    "name_mr": "",
+    "code": "548412",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548414",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "548414",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548411",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Vaispur",
+    "name_mr": "",
+    "code": "548411",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548413",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Lavhali",
+    "name_mr": "",
+    "code": "548413",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548410",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Aurangpur",
+    "name_mr": "",
+    "code": "548410",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548415",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Borsar KH",
+    "name_mr": "",
+    "code": "548415",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548417",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Debhegaon",
+    "name_mr": "",
+    "code": "548417",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548416",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shevata",
+    "name_mr": "",
+    "code": "548416",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548420",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Tad Pimpalgaon",
+    "name_mr": "",
+    "code": "548420",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548421",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Lamangaon",
+    "name_mr": "",
+    "code": "548421",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548419",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Deolana",
+    "name_mr": "",
+    "code": "548419",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548418",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kadarpur",
+    "name_mr": "",
+    "code": "548418",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548422",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Dharankheda",
+    "name_mr": "",
+    "code": "548422",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548423",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Deogaon (R)",
+    "name_mr": "",
+    "code": "548423",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548427",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chambharwadi",
+    "name_mr": "",
+    "code": "548427",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548428",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Mategaon",
+    "name_mr": "",
+    "code": "548428",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548426",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Vitkheda",
+    "name_mr": "",
+    "code": "548426",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548425",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kanadgaon Werul",
+    "name_mr": "",
+    "code": "548425",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548429",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Deopudi",
+    "name_mr": "",
+    "code": "548429",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548424",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Deoli",
+    "name_mr": "",
+    "code": "548424",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548351",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Jamdi (Forest)",
+    "name_mr": "",
+    "code": "548351",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548354",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Boltek",
+    "name_mr": "",
+    "code": "548354",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548433",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Ghusur Tanda",
+    "name_mr": "",
+    "code": "548433",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548439",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Chinchkheda Bk Tanda",
+    "name_mr": "",
+    "code": "548439",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548431",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Pangra Tanda",
+    "name_mr": "",
+    "code": "548431",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548250",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Newpur Jahangir",
+    "name_mr": "",
+    "code": "548250",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548248",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Waki Jadid",
+    "name_mr": "",
+    "code": "548248",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548281",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Shelgaon Khalsa",
+    "name_mr": "",
+    "code": "548281",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548314",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Amba",
+    "name_mr": "",
+    "code": "548314",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-548394",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Bharamba (bharanbawadi)",
+    "name_mr": "",
+    "code": "548394",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  },
+  {
+    "village_id": "v-251426",
+    "district_id": "chhatrapati-sambhajinagar",
+    "taluka_id": "kannad",
+    "name_en": "Kannad (M CI)",
+    "name_mr": "",
+    "code": "251426",
+    "boundary_file": "/data/boundaries/villages/chhatrapati-sambhajinagar/kannad.geojson"
+  }
+]

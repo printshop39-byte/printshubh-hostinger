@@ -1,0 +1,1316 @@
+[
+  {
+    "village_id": "v-529102",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Jamdara",
+    "name_mr": "",
+    "code": "529102",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529158",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "palaskhed Sapkal",
+    "name_mr": "",
+    "code": "529158",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529159",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dhodap",
+    "name_mr": "",
+    "code": "529159",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529178",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kelwad",
+    "name_mr": "",
+    "code": "529178",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529103",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mohadari",
+    "name_mr": "",
+    "code": "529103",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529105",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Asola Naik",
+    "name_mr": "",
+    "code": "529105",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529119",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Amdapur",
+    "name_mr": "",
+    "code": "529119",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529160",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Chandhai",
+    "name_mr": "",
+    "code": "529160",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529108",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Hiwara Naik",
+    "name_mr": "",
+    "code": "529108",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529094",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kavhala",
+    "name_mr": "",
+    "code": "529094",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529089",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shelsur",
+    "name_mr": "",
+    "code": "529089",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529110",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Khamkhed",
+    "name_mr": "",
+    "code": "529110",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529133",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shelodi",
+    "name_mr": "",
+    "code": "529133",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529161",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sawna",
+    "name_mr": "",
+    "code": "529161",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529111",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Gondhankhed",
+    "name_mr": "",
+    "code": "529111",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529106",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Vardada",
+    "name_mr": "",
+    "code": "529106",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529162",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Girola",
+    "name_mr": "",
+    "code": "529162",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529169",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Peth",
+    "name_mr": "",
+    "code": "529169",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529185",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Antri Koli",
+    "name_mr": "",
+    "code": "529185",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529170",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Borgaonwasu",
+    "name_mr": "",
+    "code": "529170",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529125",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mangrur Nawghare",
+    "name_mr": "",
+    "code": "529125",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-251304",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Chikhli (M CI)",
+    "name_mr": "",
+    "code": "251304",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529188",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sakegaon",
+    "name_mr": "",
+    "code": "529188",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529132",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mungi",
+    "name_mr": "",
+    "code": "529132",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529171",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shindi Harali",
+    "name_mr": "",
+    "code": "529171",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529141",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Borgaon Kakade",
+    "name_mr": "",
+    "code": "529141",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529140",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Pandhardeo",
+    "name_mr": "",
+    "code": "529140",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529138",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Manmod",
+    "name_mr": "",
+    "code": "529138",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529195",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bhankhed.",
+    "name_mr": "",
+    "code": "529195",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529145",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mungasari",
+    "name_mr": "",
+    "code": "529145",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529153",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Naigaon Bk.",
+    "name_mr": "",
+    "code": "529153",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529196",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Jambhora",
+    "name_mr": "",
+    "code": "529196",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529199",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bhalgaon",
+    "name_mr": "",
+    "code": "529199",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529155",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "529155",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529200",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kolara",
+    "name_mr": "",
+    "code": "529200",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529198",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Berala",
+    "name_mr": "",
+    "code": "529198",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529201",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Khairav",
+    "name_mr": "",
+    "code": "529201",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529154",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Naigaon Kh.",
+    "name_mr": "",
+    "code": "529154",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529197",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Yewata",
+    "name_mr": "",
+    "code": "529197",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529203",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Ambashi",
+    "name_mr": "",
+    "code": "529203",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529202",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Amkhed",
+    "name_mr": "",
+    "code": "529202",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529209",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Malagi",
+    "name_mr": "",
+    "code": "529209",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529211",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Rohada",
+    "name_mr": "",
+    "code": "529211",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529210",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Muradpur",
+    "name_mr": "",
+    "code": "529210",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529204",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Gangalgaon",
+    "name_mr": "",
+    "code": "529204",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529214",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Konad",
+    "name_mr": "",
+    "code": "529214",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529213",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Deulgaon Dhangar",
+    "name_mr": "",
+    "code": "529213",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529208",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Ranantri",
+    "name_mr": "",
+    "code": "529208",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529222",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bharosa",
+    "name_mr": "",
+    "code": "529222",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529207",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Katoda",
+    "name_mr": "",
+    "code": "529207",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529212",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "529212",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529227",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Gunjala",
+    "name_mr": "",
+    "code": "529227",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529229",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Manubai",
+    "name_mr": "",
+    "code": "529229",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529087",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "529087",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529092",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Harni",
+    "name_mr": "",
+    "code": "529092",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529086",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dongar Shewali",
+    "name_mr": "",
+    "code": "529086",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529097",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Vairagad",
+    "name_mr": "",
+    "code": "529097",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529098",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kinhi Sawadad",
+    "name_mr": "",
+    "code": "529098",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529124",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "529124",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529186",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Malshemba",
+    "name_mr": "",
+    "code": "529186",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529143",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Anwi",
+    "name_mr": "",
+    "code": "529143",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529139",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Borakhedi",
+    "name_mr": "",
+    "code": "529139",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529189",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bhogawati",
+    "name_mr": "",
+    "code": "529189",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529151",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dewadari",
+    "name_mr": "",
+    "code": "529151",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529190",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Tambulwadi",
+    "name_mr": "",
+    "code": "529190",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529142",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Telhara",
+    "name_mr": "",
+    "code": "529142",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529128",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sawarkhed Bk",
+    "name_mr": "",
+    "code": "529128",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529174",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Godri",
+    "name_mr": "",
+    "code": "529174",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529187",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "529187",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529129",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sawarkhed Kh",
+    "name_mr": "",
+    "code": "529129",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529150",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Jambhrun Pr.Amdapur",
+    "name_mr": "",
+    "code": "529150",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529131",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dhanori",
+    "name_mr": "",
+    "code": "529131",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529172",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Khandala Makardhwaj",
+    "name_mr": "",
+    "code": "529172",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529144",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shelgaon Jahangir",
+    "name_mr": "",
+    "code": "529144",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529152",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sawangi Gawali",
+    "name_mr": "",
+    "code": "529152",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529146",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Eklara",
+    "name_mr": "",
+    "code": "529146",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529193",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Chandhai Pr.chikhali",
+    "name_mr": "",
+    "code": "529193",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529173",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Khor",
+    "name_mr": "",
+    "code": "529173",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529149",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bhorsa",
+    "name_mr": "",
+    "code": "529149",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529147",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Patoda",
+    "name_mr": "",
+    "code": "529147",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529194",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Pambulwadi",
+    "name_mr": "",
+    "code": "529194",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529191",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bhokar",
+    "name_mr": "",
+    "code": "529191",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529148",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bhorse",
+    "name_mr": "",
+    "code": "529148",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529127",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Gondhankhed Pr. Kherda",
+    "name_mr": "",
+    "code": "529127",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529192",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Palaskhed Daulat",
+    "name_mr": "",
+    "code": "529192",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529093",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Takarkhed Helga",
+    "name_mr": "",
+    "code": "529093",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529099",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "kusumba",
+    "name_mr": "",
+    "code": "529099",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529156",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kotkhed",
+    "name_mr": "",
+    "code": "529156",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529096",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Udaynagar",
+    "name_mr": "",
+    "code": "529096",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529176",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kinhola",
+    "name_mr": "",
+    "code": "529176",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529100",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kusumbi",
+    "name_mr": "",
+    "code": "529100",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529095",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dasala",
+    "name_mr": "",
+    "code": "529095",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529175",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kolari",
+    "name_mr": "",
+    "code": "529175",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529177",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Bramhapuri",
+    "name_mr": "",
+    "code": "529177",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529157",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Belkhed",
+    "name_mr": "",
+    "code": "529157",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529101",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Toranwada",
+    "name_mr": "",
+    "code": "529101",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529109",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kinhi Naik",
+    "name_mr": "",
+    "code": "529109",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529088",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Andhai",
+    "name_mr": "",
+    "code": "529088",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529104",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Medsing",
+    "name_mr": "",
+    "code": "529104",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529180",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Satgaon Bhusari",
+    "name_mr": "",
+    "code": "529180",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529112",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mahattamkhed",
+    "name_mr": "",
+    "code": "529112",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529179",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sonewadi",
+    "name_mr": "",
+    "code": "529179",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529113",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sawarkhed Najik",
+    "name_mr": "",
+    "code": "529113",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529134",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Karankhed",
+    "name_mr": "",
+    "code": "529134",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529107",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dhotra Naik",
+    "name_mr": "",
+    "code": "529107",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529135",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dhotra Bhangoji",
+    "name_mr": "",
+    "code": "529135",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529181",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Hatni",
+    "name_mr": "",
+    "code": "529181",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529114",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Takarkhed (muslim Pr.Amdapur)",
+    "name_mr": "",
+    "code": "529114",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529163",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Walti",
+    "name_mr": "",
+    "code": "529163",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529120",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dhuma",
+    "name_mr": "",
+    "code": "529120",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529168",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Beldari",
+    "name_mr": "",
+    "code": "529168",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529167",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Diwathana",
+    "name_mr": "",
+    "code": "529167",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529118",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Ainkhed",
+    "name_mr": "",
+    "code": "529118",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529136",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Utrada",
+    "name_mr": "",
+    "code": "529136",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529115",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mahimal",
+    "name_mr": "",
+    "code": "529115",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529130",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Isoli",
+    "name_mr": "",
+    "code": "529130",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529137",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "529137",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529164",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Palaskhed Jayanti",
+    "name_mr": "",
+    "code": "529164",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529121",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Haralkhed",
+    "name_mr": "",
+    "code": "529121",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529165",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shelud",
+    "name_mr": "",
+    "code": "529165",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529122",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Karkheda",
+    "name_mr": "",
+    "code": "529122",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529116",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Karatwadi",
+    "name_mr": "",
+    "code": "529116",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529182",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Malgani",
+    "name_mr": "",
+    "code": "529182",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529166",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "529166",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529117",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Ghanmod",
+    "name_mr": "",
+    "code": "529117",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529126",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "529126",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529183",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Sawargaon Dukare",
+    "name_mr": "",
+    "code": "529183",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529184",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Waghapur",
+    "name_mr": "",
+    "code": "529184",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529123",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Pimparkhed Pr.Amdapur",
+    "name_mr": "",
+    "code": "529123",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529224",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mera Kh.",
+    "name_mr": "",
+    "code": "529224",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529205",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Kawathal",
+    "name_mr": "",
+    "code": "529205",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529215",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Amona",
+    "name_mr": "",
+    "code": "529215",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529206",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Chandanpur",
+    "name_mr": "",
+    "code": "529206",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529228",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "529228",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529225",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Antri Khedekar",
+    "name_mr": "",
+    "code": "529225",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529226",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mera Bk",
+    "name_mr": "",
+    "code": "529226",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529219",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Misalwadi",
+    "name_mr": "",
+    "code": "529219",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529223",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Asola Pr.kherda",
+    "name_mr": "",
+    "code": "529223",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529218",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shelgaon Atol",
+    "name_mr": "",
+    "code": "529218",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529220",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Ancharwadi",
+    "name_mr": "",
+    "code": "529220",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529221",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "529221",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529216",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Mangrul Pr Kherda",
+    "name_mr": "",
+    "code": "529216",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529217",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Isrul",
+    "name_mr": "",
+    "code": "529217",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529090",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Karwand",
+    "name_mr": "",
+    "code": "529090",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-529091",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Shrikrishna Nagar",
+    "name_mr": "",
+    "code": "529091",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  },
+  {
+    "village_id": "v-645606",
+    "district_id": "buldhana",
+    "taluka_id": "chikhli",
+    "name_en": "Chikhli (R)",
+    "name_mr": "",
+    "code": "645606",
+    "boundary_file": "/data/boundaries/villages/buldhana/chikhli.geojson"
+  }
+]

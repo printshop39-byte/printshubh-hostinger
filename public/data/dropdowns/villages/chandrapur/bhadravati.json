@@ -1,0 +1,1424 @@
+[
+  {
+    "village_id": "v-541134",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kokewada Tukum",
+    "name_mr": "",
+    "code": "541134",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541136",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Sonegaon Tukum",
+    "name_mr": "",
+    "code": "541136",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "karwa-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "KARWA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541135",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Belagaon Deshpande",
+    "name_mr": "",
+    "code": "541135",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541143",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Manora (Singru)",
+    "name_mr": "",
+    "code": "541143",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541141",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "541141",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541140",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "541140",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541139",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Wadala Tukum",
+    "name_mr": "",
+    "code": "541139",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541142",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "541142",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541144",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Shegaon Kh",
+    "name_mr": "",
+    "code": "541144",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541138",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Katezari",
+    "name_mr": "",
+    "code": "541138",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541145",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Parodhi",
+    "name_mr": "",
+    "code": "541145",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541167",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chichghat Rith",
+    "name_mr": "",
+    "code": "541167",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541146",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Katwal Bhagat",
+    "name_mr": "",
+    "code": "541146",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541165",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ghosari",
+    "name_mr": "",
+    "code": "541165",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541152",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Viloda",
+    "name_mr": "",
+    "code": "541152",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "shegaon-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "SHEGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541156",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bijoni Raiyyatwari",
+    "name_mr": "",
+    "code": "541156",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541147",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kokewada Mankar",
+    "name_mr": "",
+    "code": "541147",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541166",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khutwanda Tukum",
+    "name_mr": "",
+    "code": "541166",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541148",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Tamasi Rt",
+    "name_mr": "",
+    "code": "541148",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541168",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Palasgaon Singru",
+    "name_mr": "",
+    "code": "541168",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541169",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khutwanda Dixit",
+    "name_mr": "",
+    "code": "541169",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541154",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Charur Dharapure",
+    "name_mr": "",
+    "code": "541154",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541161",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chandan Kheda",
+    "name_mr": "",
+    "code": "541161",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541088",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pewara Tukum",
+    "name_mr": "",
+    "code": "541088",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541155",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Borgaon Dhande",
+    "name_mr": "",
+    "code": "541155",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541149",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Katwal Tukum",
+    "name_mr": "",
+    "code": "541149",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541158",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "541158",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541172",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Mudholi",
+    "name_mr": "",
+    "code": "541172",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541170",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khutwanda (Marar)",
+    "name_mr": "",
+    "code": "541170",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541153",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chandan Kheda Makta",
+    "name_mr": "",
+    "code": "541153",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541157",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Morwa",
+    "name_mr": "",
+    "code": "541157",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541151",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Katwal Raiyyatwari",
+    "name_mr": "",
+    "code": "541151",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541171",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khutwanda Raiyyatwari",
+    "name_mr": "",
+    "code": "541171",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541159",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Sagara",
+    "name_mr": "",
+    "code": "541159",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541175",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Waigaon Tukum",
+    "name_mr": "",
+    "code": "541175",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541160",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Agara",
+    "name_mr": "",
+    "code": "541160",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541150",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Nagpur Rith",
+    "name_mr": "",
+    "code": "541150",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541173",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Sindgavhan Rith",
+    "name_mr": "",
+    "code": "541173",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541089",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pawana Rt",
+    "name_mr": "",
+    "code": "541089",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541174",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Tekadi (Dixit)",
+    "name_mr": "",
+    "code": "541174",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541183",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kondegaon Mal",
+    "name_mr": "",
+    "code": "541183",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541178",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ratnapur Rith",
+    "name_mr": "",
+    "code": "541178",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541164",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khokari",
+    "name_mr": "",
+    "code": "541164",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541181",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ghodabadeo Rt",
+    "name_mr": "",
+    "code": "541181",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541091",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khutala Bhake",
+    "name_mr": "",
+    "code": "541091",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541090",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Nandra Makta",
+    "name_mr": "",
+    "code": "541090",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541176",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Waigaon Raiyyatwari",
+    "name_mr": "",
+    "code": "541176",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541184",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Sitaram Peth",
+    "name_mr": "",
+    "code": "541184",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541092",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Sheloti Alias Wagheda",
+    "name_mr": "",
+    "code": "541092",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541163",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "541163",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541177",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chinchala (R)",
+    "name_mr": "",
+    "code": "541177",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541182",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kondegaon Tukum",
+    "name_mr": "",
+    "code": "541182",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541209",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ranatalodhi",
+    "name_mr": "",
+    "code": "541209",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541179",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Visapur Raiyyatwari",
+    "name_mr": "",
+    "code": "541179",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541094",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Dhanoli",
+    "name_mr": "",
+    "code": "541094",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541097",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bhatali",
+    "name_mr": "",
+    "code": "541097",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541186",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pachagaon Musalman",
+    "name_mr": "",
+    "code": "541186",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541095",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bhuyari Rt",
+    "name_mr": "",
+    "code": "541095",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541096",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Dongargaon Khadi",
+    "name_mr": "",
+    "code": "541096",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541190",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Thetegaon Rt",
+    "name_mr": "",
+    "code": "541190",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541099",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Nandori Kh",
+    "name_mr": "",
+    "code": "541099",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541098",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chopan Rith",
+    "name_mr": "",
+    "code": "541098",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541196",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chora",
+    "name_mr": "",
+    "code": "541196",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541192",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ashti Kakade",
+    "name_mr": "",
+    "code": "541192",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541193",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Masal",
+    "name_mr": "",
+    "code": "541193",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541180",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pachagaon Tukum",
+    "name_mr": "",
+    "code": "541180",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541187",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Wadegaon Alias Sawarla Shirpur",
+    "name_mr": "",
+    "code": "541187",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541093",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pirli",
+    "name_mr": "",
+    "code": "541093",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541188",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Gulgaon",
+    "name_mr": "",
+    "code": "541188",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541100",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Nandori Bk",
+    "name_mr": "",
+    "code": "541100",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541189",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Gulgaon Tukum",
+    "name_mr": "",
+    "code": "541189",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541185",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bhamdeli Raiyyatwari",
+    "name_mr": "",
+    "code": "541185",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541194",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Karli Sonegaon",
+    "name_mr": "",
+    "code": "541194",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541191",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ashti Tukum",
+    "name_mr": "",
+    "code": "541191",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541101",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Gotala Rith",
+    "name_mr": "",
+    "code": "541101",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541203",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Thanegaon",
+    "name_mr": "",
+    "code": "541203",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541103",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Panwadala",
+    "name_mr": "",
+    "code": "541103",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541208",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Botezari",
+    "name_mr": "",
+    "code": "541208",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541102",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ashti Rith",
+    "name_mr": "",
+    "code": "541102",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541202",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bhamdeli",
+    "name_mr": "",
+    "code": "541202",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541104",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kansa Shirpur",
+    "name_mr": "",
+    "code": "541104",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541197",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "541197",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541198",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Minwat Tukum",
+    "name_mr": "",
+    "code": "541198",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541201",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "541201",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541111",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Khandala Rith",
+    "name_mr": "",
+    "code": "541111",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541204",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Junona",
+    "name_mr": "",
+    "code": "541204",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541199",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Minwat Kali",
+    "name_mr": "",
+    "code": "541199",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541195",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Mangli Raiyyatwari",
+    "name_mr": "",
+    "code": "541195",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541110",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "541110",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541106",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chinchala Raiyyatwari",
+    "name_mr": "",
+    "code": "541106",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541205",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pardi Ambhora",
+    "name_mr": "",
+    "code": "541205",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541112",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Vislon",
+    "name_mr": "",
+    "code": "541112",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541105",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chinchala Rith",
+    "name_mr": "",
+    "code": "541105",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541109",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "541109",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541108",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Govardip Rith",
+    "name_mr": "",
+    "code": "541108",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541107",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Jena Niwali",
+    "name_mr": "",
+    "code": "541107",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541200",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ghode Minwat",
+    "name_mr": "",
+    "code": "541200",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541121",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chalbardi",
+    "name_mr": "",
+    "code": "541121",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541114",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Thorana",
+    "name_mr": "",
+    "code": "541114",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541124",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Somnala",
+    "name_mr": "",
+    "code": "541124",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541125",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bonthala",
+    "name_mr": "",
+    "code": "541125",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541129",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kondha",
+    "name_mr": "",
+    "code": "541129",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541206",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ambezari",
+    "name_mr": "",
+    "code": "541206",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541122",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Hardala",
+    "name_mr": "",
+    "code": "541122",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541113",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kuchana",
+    "name_mr": "",
+    "code": "541113",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541126",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "541126",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541123",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kiloni",
+    "name_mr": "",
+    "code": "541123",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541120",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "541120",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541115",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Mangaon",
+    "name_mr": "",
+    "code": "541115",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541127",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Barang Mokasa",
+    "name_mr": "",
+    "code": "541127",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541119",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Naglon",
+    "name_mr": "",
+    "code": "541119",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541128",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kadholi",
+    "name_mr": "",
+    "code": "541128",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541207",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Dewada",
+    "name_mr": "",
+    "code": "541207",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541117",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Patala",
+    "name_mr": "",
+    "code": "541117",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541211",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chek Baranj",
+    "name_mr": "",
+    "code": "541211",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541132",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Majari",
+    "name_mr": "",
+    "code": "541132",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541118",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ralegaon (Tola)",
+    "name_mr": "",
+    "code": "541118",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541116",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ralegaon",
+    "name_mr": "",
+    "code": "541116",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541242",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "541242",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541130",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kuroda",
+    "name_mr": "",
+    "code": "541130",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541133",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kawadi",
+    "name_mr": "",
+    "code": "541133",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541212",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ghot Nimbala",
+    "name_mr": "",
+    "code": "541212",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-251375",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Bhadravati (M CI)",
+    "name_mr": "",
+    "code": "251375",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541213",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chiparala",
+    "name_mr": "",
+    "code": "541213",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541131",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Deulwada",
+    "name_mr": "",
+    "code": "541131",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541214",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chalbardi",
+    "name_mr": "",
+    "code": "541214",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541215",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kacharala",
+    "name_mr": "",
+    "code": "541215",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541230",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kunada",
+    "name_mr": "",
+    "code": "541230",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541224",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Mohabala",
+    "name_mr": "",
+    "code": "541224",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541225",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Rampuri Raiyyatwari",
+    "name_mr": "",
+    "code": "541225",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541223",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Nunhara",
+    "name_mr": "",
+    "code": "541223",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541231",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kunada Tola",
+    "name_mr": "",
+    "code": "541231",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541229",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "541229",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541226",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Wadala Rt",
+    "name_mr": "",
+    "code": "541226",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541228",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Lonara Rt",
+    "name_mr": "",
+    "code": "541228",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541218",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chak Tirawanja",
+    "name_mr": "",
+    "code": "541218",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541227",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ruyad Rt",
+    "name_mr": "",
+    "code": "541227",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541216",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Awandha Rt",
+    "name_mr": "",
+    "code": "541216",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541234",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kudrara Raiyyatwari",
+    "name_mr": "",
+    "code": "541234",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541222",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Ghodpeth",
+    "name_mr": "",
+    "code": "541222",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541221",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Gunjala",
+    "name_mr": "",
+    "code": "541221",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541217",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Tirawanja Mokasa",
+    "name_mr": "",
+    "code": "541217",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541232",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Dhorwasa",
+    "name_mr": "",
+    "code": "541232",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541233",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Chiradevi",
+    "name_mr": "",
+    "code": "541233",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541219",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Tirur Rith",
+    "name_mr": "",
+    "code": "541219",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541237",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Telawasa",
+    "name_mr": "",
+    "code": "541237",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541220",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Saiwan",
+    "name_mr": "",
+    "code": "541220",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541235",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Goraja",
+    "name_mr": "",
+    "code": "541235",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541238",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Pimpari",
+    "name_mr": "",
+    "code": "541238",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541236",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kochi",
+    "name_mr": "",
+    "code": "541236",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541239",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Dhonad",
+    "name_mr": "",
+    "code": "541239",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541241",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Mursa",
+    "name_mr": "",
+    "code": "541241",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541240",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Borgaon Rt",
+    "name_mr": "",
+    "code": "541240",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-943332",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Mahadapur Rith",
+    "name_mr": "",
+    "code": "943332",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541210",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Kesurli",
+    "name_mr": "",
+    "code": "541210",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  },
+  {
+    "village_id": "v-541137",
+    "district_id": "chandrapur",
+    "taluka_id": "bhadravati",
+    "name_en": "Tadoba",
+    "name_mr": "",
+    "code": "541137",
+    "boundary_file": "/data/boundaries/villages/chandrapur/bhadravati.geojson"
+  }
+]

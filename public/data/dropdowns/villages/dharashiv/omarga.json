@@ -1,0 +1,920 @@
+[
+  {
+    "village_id": "v-561768",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kesar Jawalga",
+    "name_mr": "",
+    "code": "561768",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561770",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Varnalwadi",
+    "name_mr": "",
+    "code": "561770",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561697",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Dudhanal",
+    "name_mr": "",
+    "code": "561697",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561675",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kawatha",
+    "name_mr": "",
+    "code": "561675",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561683",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Peth sangvi",
+    "name_mr": "",
+    "code": "561683",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561676",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Matola kh.",
+    "name_mr": "",
+    "code": "561676",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561677",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "561677",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561682",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Narangwadi",
+    "name_mr": "",
+    "code": "561682",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561678",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Nai Chakur",
+    "name_mr": "",
+    "code": "561678",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561689",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Sawalsur",
+    "name_mr": "",
+    "code": "561689",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561681",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Chirewadi",
+    "name_mr": "",
+    "code": "561681",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561688",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Babalsur",
+    "name_mr": "",
+    "code": "561688",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561684",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Samudral",
+    "name_mr": "",
+    "code": "561684",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561692",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Jawalga Bet",
+    "name_mr": "",
+    "code": "561692",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561680",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Bhagatwadi",
+    "name_mr": "",
+    "code": "561680",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561679",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kolewadi",
+    "name_mr": "",
+    "code": "561679",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561691",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Madaj",
+    "name_mr": "",
+    "code": "561691",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561685",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kaldeo nimbala",
+    "name_mr": "",
+    "code": "561685",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561727",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Vhantal",
+    "name_mr": "",
+    "code": "561727",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561687",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kaddora",
+    "name_mr": "",
+    "code": "561687",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561690",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Wagdari",
+    "name_mr": "",
+    "code": "561690",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561728",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ekurga",
+    "name_mr": "",
+    "code": "561728",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561729",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ekurgawadi",
+    "name_mr": "",
+    "code": "561729",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561723",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Koral",
+    "name_mr": "",
+    "code": "561723",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561750",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Supatgaon",
+    "name_mr": "",
+    "code": "561750",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561726",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Balsur",
+    "name_mr": "",
+    "code": "561726",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561694",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Trikoli",
+    "name_mr": "",
+    "code": "561694",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561695",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kadamapur",
+    "name_mr": "",
+    "code": "561695",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561686",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kalnimbala",
+    "name_mr": "",
+    "code": "561686",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561693",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Gugalgaon",
+    "name_mr": "",
+    "code": "561693",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561724",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Dalimb",
+    "name_mr": "",
+    "code": "561724",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561696",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kunhali",
+    "name_mr": "",
+    "code": "561696",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561730",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Koregaonwadi",
+    "name_mr": "",
+    "code": "561730",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561725",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "561725",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561751",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Dawal Malikwadi",
+    "name_mr": "",
+    "code": "561751",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561731",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Koregaon",
+    "name_mr": "",
+    "code": "561731",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561698",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Handral",
+    "name_mr": "",
+    "code": "561698",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561752",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Yenegur",
+    "name_mr": "",
+    "code": "561752",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561732",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Jakekur",
+    "name_mr": "",
+    "code": "561732",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561733",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Yeli",
+    "name_mr": "",
+    "code": "561733",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561700",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Karali",
+    "name_mr": "",
+    "code": "561700",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561734",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Katewadi",
+    "name_mr": "",
+    "code": "561734",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561753",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Mahalingraiwadi",
+    "name_mr": "",
+    "code": "561753",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561701",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Talmod",
+    "name_mr": "",
+    "code": "561701",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561702",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Jagadalwadi",
+    "name_mr": "",
+    "code": "561702",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561736",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Jakekurwadi",
+    "name_mr": "",
+    "code": "561736",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561735",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Chincholi Bhuyar",
+    "name_mr": "",
+    "code": "561735",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561708",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Turori",
+    "name_mr": "",
+    "code": "561708",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561755",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Sundarwadi",
+    "name_mr": "",
+    "code": "561755",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561754",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Tugaon",
+    "name_mr": "",
+    "code": "561754",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561737",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Aurad",
+    "name_mr": "",
+    "code": "561737",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561703",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Dhaktiwadi",
+    "name_mr": "",
+    "code": "561703",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561707",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kolsur (K)",
+    "name_mr": "",
+    "code": "561707",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561709",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Dabka",
+    "name_mr": "",
+    "code": "561709",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561739",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ekundi Jahagir",
+    "name_mr": "",
+    "code": "561739",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561738",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Gunjoti",
+    "name_mr": "",
+    "code": "561738",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561704",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Thorliwadi",
+    "name_mr": "",
+    "code": "561704",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561706",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kolsur (G)",
+    "name_mr": "",
+    "code": "561706",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561756",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Naiknagar",
+    "name_mr": "",
+    "code": "561756",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561741",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ekundiwadi",
+    "name_mr": "",
+    "code": "561741",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561748",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Bhusni",
+    "name_mr": "",
+    "code": "561748",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561710",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ashta Jahangir",
+    "name_mr": "",
+    "code": "561710",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561747",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kader",
+    "name_mr": "",
+    "code": "561747",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561711",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Chinchkota",
+    "name_mr": "",
+    "code": "561711",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561742",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Chincholi Jahagir",
+    "name_mr": "",
+    "code": "561742",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561705",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Hippargarao",
+    "name_mr": "",
+    "code": "561705",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561761",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ganeshnagar",
+    "name_mr": "",
+    "code": "561761",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561743",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "561743",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561763",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Naiknagar",
+    "name_mr": "",
+    "code": "561763",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561749",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Baradwadi",
+    "name_mr": "",
+    "code": "561749",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561714",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Paraskheda",
+    "name_mr": "",
+    "code": "561714",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561760",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Acharya Tanda",
+    "name_mr": "",
+    "code": "561760",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561712",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Malgi",
+    "name_mr": "",
+    "code": "561712",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561759",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ambarnagar",
+    "name_mr": "",
+    "code": "561759",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561713",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Guruwadi",
+    "name_mr": "",
+    "code": "561713",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561765",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Murli",
+    "name_mr": "",
+    "code": "561765",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561764",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kanthekur",
+    "name_mr": "",
+    "code": "561764",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561762",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Fulsingnagar",
+    "name_mr": "",
+    "code": "561762",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561716",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Nagral",
+    "name_mr": "",
+    "code": "561716",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561715",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Bhikar Sangvi",
+    "name_mr": "",
+    "code": "561715",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561744",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Gunjotiwadi",
+    "name_mr": "",
+    "code": "561744",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561718",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Chandkal",
+    "name_mr": "",
+    "code": "561718",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561719",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Malgiwadi",
+    "name_mr": "",
+    "code": "561719",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561717",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Bendga",
+    "name_mr": "",
+    "code": "561717",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561746",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kasgi",
+    "name_mr": "",
+    "code": "561746",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561745",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kasgiwadi",
+    "name_mr": "",
+    "code": "561745",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561766",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Kothali",
+    "name_mr": "",
+    "code": "561766",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561767",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Belamb",
+    "name_mr": "",
+    "code": "561767",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561720",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Dhanora Dagad",
+    "name_mr": "",
+    "code": "561720",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561721",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Manegopal",
+    "name_mr": "",
+    "code": "561721",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561769",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Alur",
+    "name_mr": "",
+    "code": "561769",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561722",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Diggi",
+    "name_mr": "",
+    "code": "561722",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561758",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ingole Tanda",
+    "name_mr": "",
+    "code": "561758",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-251573",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Umarga (M Cl)",
+    "name_mr": "",
+    "code": "251573",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-652138",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Jaybhavaninagar (N.V.)",
+    "name_mr": "",
+    "code": "652138",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561757",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Murum (Rural)",
+    "name_mr": "",
+    "code": "561757",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-251572",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Murum (M Cl)",
+    "name_mr": "",
+    "code": "251572",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-652140",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Anand Nagar (N.V.)",
+    "name_mr": "",
+    "code": "652140",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-561699",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Mulaj",
+    "name_mr": "",
+    "code": "561699",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-652137",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Jivan Nagar (N.V.)",
+    "name_mr": "",
+    "code": "652137",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-948391",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Ram Nagar (N.V.)",
+    "name_mr": "",
+    "code": "948391",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  },
+  {
+    "village_id": "v-652139",
+    "district_id": "dharashiv",
+    "taluka_id": "omarga",
+    "name_en": "Seva Nagar (N.V.)",
+    "name_mr": "",
+    "code": "652139",
+    "boundary_file": "/data/boundaries/villages/dharashiv/omarga.geojson"
+  }
+]

@@ -1,0 +1,1199 @@
+[
+  {
+    "village_id": "v-559350",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Adola",
+    "name_mr": "",
+    "code": "559350",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559352",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Mothiwadi",
+    "name_mr": "",
+    "code": "559352",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559336",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Depegaon",
+    "name_mr": "",
+    "code": "559336",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559344",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Phule Pimpalgaon",
+    "name_mr": "",
+    "code": "559344",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559351",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Gangamasla",
+    "name_mr": "",
+    "code": "559351",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559308",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shrungarwadi",
+    "name_mr": "",
+    "code": "559308",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559345",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Dhanagarwadi (Paytalwadi)",
+    "name_mr": "",
+    "code": "559345",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559309",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Jaykowadi",
+    "name_mr": "",
+    "code": "559309",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559338",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "559338",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559310",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Harki nimgaon",
+    "name_mr": "",
+    "code": "559310",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559353",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nagadgaon",
+    "name_mr": "",
+    "code": "559353",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559340",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Manur",
+    "name_mr": "",
+    "code": "559340",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559316",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "559316",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559402",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Jiwanapur",
+    "name_mr": "",
+    "code": "559402",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559410",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pimpalgaon (Nakhale)",
+    "name_mr": "",
+    "code": "559410",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559297",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Hiwara Bk.",
+    "name_mr": "",
+    "code": "559297",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559299",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kalegaon Thadi",
+    "name_mr": "",
+    "code": "559299",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559298",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Dubba Thadi",
+    "name_mr": "",
+    "code": "559298",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559326",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Purushottampuri",
+    "name_mr": "",
+    "code": "559326",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559325",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Mahatpuri",
+    "name_mr": "",
+    "code": "559325",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559327",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Jayakochiwadi",
+    "name_mr": "",
+    "code": "559327",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559294",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Ridhori",
+    "name_mr": "",
+    "code": "559294",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559293",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shelgaon Thadi",
+    "name_mr": "",
+    "code": "559293",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559331",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "559331",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559295",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kaudgaon Thadi",
+    "name_mr": "",
+    "code": "559295",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559328",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sadola",
+    "name_mr": "",
+    "code": "559328",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559296",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Gavhan thadi",
+    "name_mr": "",
+    "code": "559296",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559329",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Chhatra Borgaon",
+    "name_mr": "",
+    "code": "559329",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559332",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Waghora",
+    "name_mr": "",
+    "code": "559332",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559347",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Abegaon",
+    "name_mr": "",
+    "code": "559347",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559334",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Govindwadi",
+    "name_mr": "",
+    "code": "559334",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559300",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Surdi Najik",
+    "name_mr": "",
+    "code": "559300",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559307",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Warola",
+    "name_mr": "",
+    "code": "559307",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559348",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sarwar Pimpalgaon",
+    "name_mr": "",
+    "code": "559348",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559333",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shahajanpur",
+    "name_mr": "",
+    "code": "559333",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559330",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Manjrath",
+    "name_mr": "",
+    "code": "559330",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559337",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sandas Chincholi",
+    "name_mr": "",
+    "code": "559337",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559349",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "559349",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559346",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Malipargaon",
+    "name_mr": "",
+    "code": "559346",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559311",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shahapur Majara",
+    "name_mr": "",
+    "code": "559311",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559339",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Lukhegaon",
+    "name_mr": "",
+    "code": "559339",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559314",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Jadid Jawala",
+    "name_mr": "",
+    "code": "559314",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559354",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Roshanpuri",
+    "name_mr": "",
+    "code": "559354",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559341",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Manurwadi",
+    "name_mr": "",
+    "code": "559341",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559356",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Chhotiwadi",
+    "name_mr": "",
+    "code": "559356",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559315",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Rampimpalgaon",
+    "name_mr": "",
+    "code": "559315",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559359",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shimpetakali",
+    "name_mr": "",
+    "code": "559359",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559357",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Surumgaon",
+    "name_mr": "",
+    "code": "559357",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559313",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kherda kh.",
+    "name_mr": "",
+    "code": "559313",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559358",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Gunjthadi",
+    "name_mr": "",
+    "code": "559358",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559324",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Irla Majra",
+    "name_mr": "",
+    "code": "559324",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559369",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Chinchgavhan",
+    "name_mr": "",
+    "code": "559369",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559374",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Manjlegaon (Rural)",
+    "name_mr": "",
+    "code": "559374",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559370",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shelapuri",
+    "name_mr": "",
+    "code": "559370",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559375",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "559375",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559361",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sonna Thadi",
+    "name_mr": "",
+    "code": "559361",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559371",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nandur",
+    "name_mr": "",
+    "code": "559371",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559373",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Devkheda",
+    "name_mr": "",
+    "code": "559373",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559320",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Dawargaon Kh.",
+    "name_mr": "",
+    "code": "559320",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559322",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pungani",
+    "name_mr": "",
+    "code": "559322",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559323",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Dubba Majra",
+    "name_mr": "",
+    "code": "559323",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559321",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Telgaon Kh.",
+    "name_mr": "",
+    "code": "559321",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559372",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kedar Sangvi",
+    "name_mr": "",
+    "code": "559372",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559376",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Ghalatwadi",
+    "name_mr": "",
+    "code": "559376",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559379",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Renapuri",
+    "name_mr": "",
+    "code": "559379",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559364",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shuklatirth Nimgaon",
+    "name_mr": "",
+    "code": "559364",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559378",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Dhorgaon",
+    "name_mr": "",
+    "code": "559378",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559382",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Bramhagaon",
+    "name_mr": "",
+    "code": "559382",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559377",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Hinganwadi",
+    "name_mr": "",
+    "code": "559377",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559368",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Khatgavhan",
+    "name_mr": "",
+    "code": "559368",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559381",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Punandgaon",
+    "name_mr": "",
+    "code": "559381",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559365",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Mogara",
+    "name_mr": "",
+    "code": "559365",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559383",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "559383",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559384",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Patrud",
+    "name_mr": "",
+    "code": "559384",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559388",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Laul",
+    "name_mr": "",
+    "code": "559388",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559367",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pimpri Kh.",
+    "name_mr": "",
+    "code": "559367",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559385",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Lahamewadi",
+    "name_mr": "",
+    "code": "559385",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559399",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kothrul",
+    "name_mr": "",
+    "code": "559399",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559405",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Umri Bk.",
+    "name_mr": "",
+    "code": "559405",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559403",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Simri Pargaon",
+    "name_mr": "",
+    "code": "559403",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559389",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "559389",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559415",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Wangi Bk.",
+    "name_mr": "",
+    "code": "559415",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559292",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Takarwan",
+    "name_mr": "",
+    "code": "559292",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559304",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Rajegaon",
+    "name_mr": "",
+    "code": "559304",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559335",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kitti Adgaon",
+    "name_mr": "",
+    "code": "559335",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559343",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kesapuri",
+    "name_mr": "",
+    "code": "559343",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559342",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Bhatwadgaon",
+    "name_mr": "",
+    "code": "559342",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559312",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Talkhed",
+    "name_mr": "",
+    "code": "559312",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559360",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Kharat Adgaon",
+    "name_mr": "",
+    "code": "559360",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559362",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nipani Takali",
+    "name_mr": "",
+    "code": "559362",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559406",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Devla Kh.",
+    "name_mr": "",
+    "code": "559406",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559391",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nitrud",
+    "name_mr": "",
+    "code": "559391",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559407",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Belura",
+    "name_mr": "",
+    "code": "559407",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559317",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "559317",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559318",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Phul Pimpalgaon",
+    "name_mr": "",
+    "code": "559318",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559400",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Salegaon",
+    "name_mr": "",
+    "code": "559400",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559386",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shindewadi (Patrud)",
+    "name_mr": "",
+    "code": "559386",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559390",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Talewadi",
+    "name_mr": "",
+    "code": "559390",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559409",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nakhalgaon",
+    "name_mr": "",
+    "code": "559409",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559408",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Alapur",
+    "name_mr": "",
+    "code": "559408",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559411",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Babhalgaon",
+    "name_mr": "",
+    "code": "559411",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559412",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shindewadi (Wangi Bk)",
+    "name_mr": "",
+    "code": "559412",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559413",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Dindrud",
+    "name_mr": "",
+    "code": "559413",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559319",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Ekdara",
+    "name_mr": "",
+    "code": "559319",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559380",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Bramhagaon Devi",
+    "name_mr": "",
+    "code": "559380",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559445",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Laul No.2 (N.V.)",
+    "name_mr": "",
+    "code": "559445",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559393",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "559393",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559394",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Takarwadi",
+    "name_mr": "",
+    "code": "559394",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559401",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nathnagar Tanda",
+    "name_mr": "",
+    "code": "559401",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559404",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Ekburjiwadi",
+    "name_mr": "",
+    "code": "559404",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559416",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Khadewadi",
+    "name_mr": "",
+    "code": "559416",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559414",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Chopanwadi",
+    "name_mr": "",
+    "code": "559414",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559363",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Vasantnagar Tanda",
+    "name_mr": "",
+    "code": "559363",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559366",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Maltanda (N.V.)",
+    "name_mr": "",
+    "code": "559366",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559306",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pirunaik Tanda (N.V.)",
+    "name_mr": "",
+    "code": "559306",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559305",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Barabhai Tanda",
+    "name_mr": "",
+    "code": "559305",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559303",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pushpanaik Tanda",
+    "name_mr": "",
+    "code": "559303",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559301",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Fulsingnagar (N.V.)",
+    "name_mr": "",
+    "code": "559301",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559355",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Ramnagar Tanda (N.V.)",
+    "name_mr": "",
+    "code": "559355",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559387",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Pandharwadi",
+    "name_mr": "",
+    "code": "559387",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559398",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Longaon",
+    "name_mr": "",
+    "code": "559398",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559396",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Anandgaon",
+    "name_mr": "",
+    "code": "559396",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559392",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "559392",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559397",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Godavari Tanda",
+    "name_mr": "",
+    "code": "559397",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-251556",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Manjlegaon (M  Cl)",
+    "name_mr": "",
+    "code": "251556",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-946333",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Rekhanaik Tanda (N.V.)",
+    "name_mr": "",
+    "code": "946333",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-654957",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Jaykowadi Tanda (N.V.) ",
+    "name_mr": "",
+    "code": "654957",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-946332",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Devsing Tanda (N.V.)",
+    "name_mr": "",
+    "code": "946332",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-946330",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Hanuman Nagar Tanda (N.V.) ",
+    "name_mr": "",
+    "code": "946330",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-946356",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Shivajinagar Tanda( NV)",
+    "name_mr": "",
+    "code": "946356",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-946327",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Bhagwan Nagar (N.V.)",
+    "name_mr": "",
+    "code": "946327",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-946331",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Nagazari (Gaimukh) (N.V.)",
+    "name_mr": "",
+    "code": "946331",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  },
+  {
+    "village_id": "v-559395",
+    "district_id": "beed",
+    "taluka_id": "majalgaon",
+    "name_en": "Lamanwadi",
+    "name_mr": "",
+    "code": "559395",
+    "boundary_file": "/data/boundaries/villages/beed/majalgaon.geojson"
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "village_id": "v-526963",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Bhokari",
+    "name_mr": "",
+    "code": "526963",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526964",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dhamande",
+    "name_mr": "",
+    "code": "526964",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526967",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Pimpri Nandu",
+    "name_mr": "",
+    "code": "526967",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526968",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "526968",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526969",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Kothe",
+    "name_mr": "",
+    "code": "526969",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526975",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Mendhode",
+    "name_mr": "",
+    "code": "526975",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526974",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dhabe",
+    "name_mr": "",
+    "code": "526974",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526976",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Pimpri Pancham",
+    "name_mr": "",
+    "code": "526976",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526978",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Shemalde",
+    "name_mr": "",
+    "code": "526978",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526977",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Purnad",
+    "name_mr": "",
+    "code": "526977",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526979",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Mondhalde",
+    "name_mr": "",
+    "code": "526979",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526980",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Panchane",
+    "name_mr": "",
+    "code": "526980",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526982",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Uchande",
+    "name_mr": "",
+    "code": "526982",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527023",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Mehun",
+    "name_mr": "",
+    "code": "527023",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526981",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Mel Sangave",
+    "name_mr": "",
+    "code": "526981",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527024",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Changdeo",
+    "name_mr": "",
+    "code": "527024",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526984",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dui",
+    "name_mr": "",
+    "code": "526984",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527022",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Chinchol",
+    "name_mr": "",
+    "code": "527022",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526985",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "526985",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526983",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Khamkhede",
+    "name_mr": "",
+    "code": "526983",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527026",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "527026",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527025",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Kasarkhede",
+    "name_mr": "",
+    "code": "527025",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-276421",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Muktainagar (NP)",
+    "name_mr": "",
+    "code": "276421",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527027",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Kothali",
+    "name_mr": "",
+    "code": "527027",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527033",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Vadhave",
+    "name_mr": "",
+    "code": "527033",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527029",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Kund",
+    "name_mr": "",
+    "code": "527029",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527007",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Mahalkhede",
+    "name_mr": "",
+    "code": "527007",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526989",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Nandwel",
+    "name_mr": "",
+    "code": "526989",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527005",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "527005",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527030",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Ghodasgaon",
+    "name_mr": "",
+    "code": "527030",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526994",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Daulatpur",
+    "name_mr": "",
+    "code": "526994",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527006",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Chinchkhede Bk",
+    "name_mr": "",
+    "code": "527006",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526991",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Charthane",
+    "name_mr": "",
+    "code": "526991",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526987",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dolarkhede",
+    "name_mr": "",
+    "code": "526987",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527031",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Pimpri Akaraut",
+    "name_mr": "",
+    "code": "527031",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527002",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Hivare",
+    "name_mr": "",
+    "code": "527002",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527004",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "527004",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527034",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Hartale",
+    "name_mr": "",
+    "code": "527034",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527003",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Borkhede",
+    "name_mr": "",
+    "code": "527003",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527032",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Salbardi",
+    "name_mr": "",
+    "code": "527032",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527035",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Satod",
+    "name_mr": "",
+    "code": "527035",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527001",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Umare",
+    "name_mr": "",
+    "code": "527001",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527008",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Nimkhedi Bk",
+    "name_mr": "",
+    "code": "527008",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527000",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dhule",
+    "name_mr": "",
+    "code": "527000",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527009",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Ichhapur",
+    "name_mr": "",
+    "code": "527009",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527036",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "527036",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527010",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Bodwad",
+    "name_mr": "",
+    "code": "527010",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527012",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Parambi",
+    "name_mr": "",
+    "code": "527012",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527011",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Kakode",
+    "name_mr": "",
+    "code": "527011",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527013",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Talkhede",
+    "name_mr": "",
+    "code": "527013",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527038",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Tarode",
+    "name_mr": "",
+    "code": "527038",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527014",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Chinchkhede Kh",
+    "name_mr": "",
+    "code": "527014",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527040",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Nimkhedi Kh",
+    "name_mr": "",
+    "code": "527040",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527039",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Dhormal",
+    "name_mr": "",
+    "code": "527039",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527015",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Sule",
+    "name_mr": "",
+    "code": "527015",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527018",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Therole",
+    "name_mr": "",
+    "code": "527018",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527037",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Bhandgure",
+    "name_mr": "",
+    "code": "527037",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527017",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Kurhe",
+    "name_mr": "",
+    "code": "527017",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527044",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Ruikhede",
+    "name_mr": "",
+    "code": "527044",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527016",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Bhote",
+    "name_mr": "",
+    "code": "527016",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527041",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Sarole",
+    "name_mr": "",
+    "code": "527041",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527042",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "527042",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527019",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Pimprale",
+    "name_mr": "",
+    "code": "527019",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527021",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Rigaon",
+    "name_mr": "",
+    "code": "527021",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527043",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Manyarkhede",
+    "name_mr": "",
+    "code": "527043",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-527020",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Korhale",
+    "name_mr": "",
+    "code": "527020",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526960",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Patondi",
+    "name_mr": "",
+    "code": "526960",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526961",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Anturli",
+    "name_mr": "",
+    "code": "526961",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526962",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Narvel",
+    "name_mr": "",
+    "code": "526962",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526965",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Belkhede",
+    "name_mr": "",
+    "code": "526965",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526966",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Belaswadi",
+    "name_mr": "",
+    "code": "526966",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526972",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Pimpri Bhojana",
+    "name_mr": "",
+    "code": "526972",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526971",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Loharkhede",
+    "name_mr": "",
+    "code": "526971",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526970",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Karkee",
+    "name_mr": "",
+    "code": "526970",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526973",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Ramgad",
+    "name_mr": "",
+    "code": "526973",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526986",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Anjangaon",
+    "name_mr": "",
+    "code": "526986",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526990",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Vayale",
+    "name_mr": "",
+    "code": "526990",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526988",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Khamani",
+    "name_mr": "",
+    "code": "526988",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526997",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "526997",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526998",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Halkhede",
+    "name_mr": "",
+    "code": "526998",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526995",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Rajure",
+    "name_mr": "",
+    "code": "526995",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526999",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Wadhode",
+    "name_mr": "",
+    "code": "526999",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526993",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Morzira",
+    "name_mr": "",
+    "code": "526993",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526996",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Jondhan Khede",
+    "name_mr": "",
+    "code": "526996",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  },
+  {
+    "village_id": "v-526992",
+    "district_id": "jalgaon",
+    "taluka_id": "muktainagar-edlabad",
+    "name_en": "Madhapuri",
+    "name_mr": "",
+    "code": "526992",
+    "boundary_file": "/data/boundaries/villages/jalgaon/muktainagar-edlabad.geojson"
+  }
+]

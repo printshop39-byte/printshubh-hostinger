@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-05-22T17:20:25.640Z",
+  "source_features": 44659,
+  "counts": {
+    "districts": 38,
+    "talukas": 360,
+    "villages": 44659,
+    "skipped": 0,
+    "duplicates_renamed": 166,
+    "district_name_collisions": 781
+  },
+  "simplify_pct": 8,
+  "crs": "EPSG:4326"
+}

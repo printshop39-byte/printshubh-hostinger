@@ -1,0 +1,668 @@
+[
+  {
+    "village_id": "v-528613",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Malkapur (Rural)",
+    "name_mr": "",
+    "code": "528613",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528627",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "528627",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528629",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Khamkhed Pr.Malkapur",
+    "name_mr": "",
+    "code": "528629",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528628",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Pimpalkhunta (Mahadeo)",
+    "name_mr": "",
+    "code": "528628",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528630",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Wajirabad",
+    "name_mr": "",
+    "code": "528630",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528621",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Bahapura",
+    "name_mr": "",
+    "code": "528621",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528620",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Khaparkhed",
+    "name_mr": "",
+    "code": "528620",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528614",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Jalalabad",
+    "name_mr": "",
+    "code": "528614",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528631",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Jambhuldhaba",
+    "name_mr": "",
+    "code": "528631",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528632",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Gaulkhed",
+    "name_mr": "",
+    "code": "528632",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528640",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Waghud",
+    "name_mr": "",
+    "code": "528640",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528583",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Dudhalgaon Kh.",
+    "name_mr": "",
+    "code": "528583",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528584",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Waghola",
+    "name_mr": "",
+    "code": "528584",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528590",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "528590",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528585",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Chinchol",
+    "name_mr": "",
+    "code": "528585",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528586",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Korwad",
+    "name_mr": "",
+    "code": "528586",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528591",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Rantham",
+    "name_mr": "",
+    "code": "528591",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528592",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Bhangura",
+    "name_mr": "",
+    "code": "528592",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528588",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Narwel",
+    "name_mr": "",
+    "code": "528588",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528589",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Mhaiswadi",
+    "name_mr": "",
+    "code": "528589",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528595",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Wiwara",
+    "name_mr": "",
+    "code": "528595",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528596",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Dasarkhed",
+    "name_mr": "",
+    "code": "528596",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528593",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Tighra Pr.Malkapur",
+    "name_mr": "",
+    "code": "528593",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528587",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Hingana Nagapur",
+    "name_mr": "",
+    "code": "528587",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528597",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Talaswada",
+    "name_mr": "",
+    "code": "528597",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528599",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Telkhed",
+    "name_mr": "",
+    "code": "528599",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528600",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Zodga",
+    "name_mr": "",
+    "code": "528600",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528601",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Harsoda",
+    "name_mr": "",
+    "code": "528601",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528602",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Shivni",
+    "name_mr": "",
+    "code": "528602",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528594",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Rangaon",
+    "name_mr": "",
+    "code": "528594",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528603",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Ghodi",
+    "name_mr": "",
+    "code": "528603",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528604",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Hingana Dharangaon",
+    "name_mr": "",
+    "code": "528604",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528624",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Kamrdipur",
+    "name_mr": "",
+    "code": "528624",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528598",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Tandulwadi Pr.Malkapur",
+    "name_mr": "",
+    "code": "528598",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528606",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Lahe Kh.",
+    "name_mr": "",
+    "code": "528606",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528607",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Dharangaon",
+    "name_mr": "",
+    "code": "528607",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528623",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Deodhaba",
+    "name_mr": "",
+    "code": "528623",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528625",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Bhalegaon",
+    "name_mr": "",
+    "code": "528625",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528605",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Nimboli",
+    "name_mr": "",
+    "code": "528605",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528626",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Hingana Kazi",
+    "name_mr": "",
+    "code": "528626",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528609",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Wadoda",
+    "name_mr": "",
+    "code": "528609",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528622",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Gorad",
+    "name_mr": "",
+    "code": "528622",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528612",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Kund Kh.",
+    "name_mr": "",
+    "code": "528612",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528608",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Anurabad",
+    "name_mr": "",
+    "code": "528608",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528611",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Kund Bk.",
+    "name_mr": "",
+    "code": "528611",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528610",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Panhera Pr.Malkapur",
+    "name_mr": "",
+    "code": "528610",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528633",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Chinchkhed BK.",
+    "name_mr": "",
+    "code": "528633",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528639",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Balad Pr. Malkapur",
+    "name_mr": "",
+    "code": "528639",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528619",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "528619",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528638",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Lonwadi Pr.Malkapur",
+    "name_mr": "",
+    "code": "528638",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528615",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Khokodi",
+    "name_mr": "",
+    "code": "528615",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528618",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Wakodi",
+    "name_mr": "",
+    "code": "528618",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528634",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Harankhed",
+    "name_mr": "",
+    "code": "528634",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528641",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Ghirni",
+    "name_mr": "",
+    "code": "528641",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528636",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Aland",
+    "name_mr": "",
+    "code": "528636",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528617",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Nimbari",
+    "name_mr": "",
+    "code": "528617",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528637",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Dudhalgaon BK.",
+    "name_mr": "",
+    "code": "528637",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528635",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Wadji",
+    "name_mr": "",
+    "code": "528635",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528642",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Gahukhed",
+    "name_mr": "",
+    "code": "528642",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528616",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Rastapur",
+    "name_mr": "",
+    "code": "528616",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528643",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Makner",
+    "name_mr": "",
+    "code": "528643",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528644",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Datala",
+    "name_mr": "",
+    "code": "528644",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528645",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Siradhon",
+    "name_mr": "",
+    "code": "528645",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528646",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Morkhed Kh.",
+    "name_mr": "",
+    "code": "528646",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528647",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Morkhed Bk.",
+    "name_mr": "",
+    "code": "528647",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528653",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "528653",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528648",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Umali",
+    "name_mr": "",
+    "code": "528648",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528654",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "528654",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528649",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Bhadgani",
+    "name_mr": "",
+    "code": "528649",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528652",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Lasura",
+    "name_mr": "",
+    "code": "528652",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528651",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Pimpalkhuta Pr.Vadner",
+    "name_mr": "",
+    "code": "528651",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528650",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Nimkhed Pr.Vadner",
+    "name_mr": "",
+    "code": "528650",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-528582",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Kalegaon",
+    "name_mr": "",
+    "code": "528582",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  },
+  {
+    "village_id": "v-251301",
+    "district_id": "buldhana",
+    "taluka_id": "malkapur",
+    "name_en": "Malkapur (M Cl)",
+    "name_mr": "",
+    "code": "251301",
+    "boundary_file": "/data/boundaries/villages/buldhana/malkapur.geojson"
+  }
+]

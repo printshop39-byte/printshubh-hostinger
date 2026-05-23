@@ -1,0 +1,542 @@
+[
+  {
+    "village_id": "v-566354",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Tiravade Tarf Kharepatan",
+    "name_mr": "",
+    "code": "566354",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566356",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Ringewadi",
+    "name_mr": "",
+    "code": "566356",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566360",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Digashi",
+    "name_mr": "",
+    "code": "566360",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566353",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Madhaliwadi",
+    "name_mr": "",
+    "code": "566353",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566357",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "566357",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566369",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kumbhavade",
+    "name_mr": "",
+    "code": "566369",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566371",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Bhattiwadi",
+    "name_mr": "",
+    "code": "566371",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566372",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Karul",
+    "name_mr": "",
+    "code": "566372",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566361",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Napane",
+    "name_mr": "",
+    "code": "566361",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566333",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Tiravade Tarf Soundal",
+    "name_mr": "",
+    "code": "566333",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566334",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Palandewadi",
+    "name_mr": "",
+    "code": "566334",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566332",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Nerle",
+    "name_mr": "",
+    "code": "566332",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566335",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Jambhavade",
+    "name_mr": "",
+    "code": "566335",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566336",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Akhavane",
+    "name_mr": "",
+    "code": "566336",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566341",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Mounde",
+    "name_mr": "",
+    "code": "566341",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566338",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Mandavkarwadi",
+    "name_mr": "",
+    "code": "566338",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566346",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Nanivade",
+    "name_mr": "",
+    "code": "566346",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566337",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Upale",
+    "name_mr": "",
+    "code": "566337",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566345",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Vengasar",
+    "name_mr": "",
+    "code": "566345",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566339",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Nagapwadi",
+    "name_mr": "",
+    "code": "566339",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566343",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Het",
+    "name_mr": "",
+    "code": "566343",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566340",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Bhom",
+    "name_mr": "",
+    "code": "566340",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566342",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Ainari",
+    "name_mr": "",
+    "code": "566342",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566347",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Tithavli",
+    "name_mr": "",
+    "code": "566347",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566355",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Bhui Bawada",
+    "name_mr": "",
+    "code": "566355",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566348",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Bhusarwadi",
+    "name_mr": "",
+    "code": "566348",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566349",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kolape",
+    "name_mr": "",
+    "code": "566349",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566350",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Mehbubnagar",
+    "name_mr": "",
+    "code": "566350",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566359",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Umbarde",
+    "name_mr": "",
+    "code": "566359",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566358",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "566358",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566362",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Sonali",
+    "name_mr": "",
+    "code": "566362",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566363",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Nadhavade",
+    "name_mr": "",
+    "code": "566363",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566370",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Bhuyadewadi",
+    "name_mr": "",
+    "code": "566370",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566368",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Yedgaon",
+    "name_mr": "",
+    "code": "566368",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566366",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Khambalwadi",
+    "name_mr": "",
+    "code": "566366",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566373",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Jamdarwadi",
+    "name_mr": "",
+    "code": "566373",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566365",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Bandhawadi",
+    "name_mr": "",
+    "code": "566365",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-263834",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Vabhave Vaibhavvadi (NP)",
+    "name_mr": "",
+    "code": "263834",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566381",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Navale",
+    "name_mr": "",
+    "code": "566381",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566374",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Vayamboshi",
+    "name_mr": "",
+    "code": "566374",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566367",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Narkarwadi",
+    "name_mr": "",
+    "code": "566367",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566376",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kokisare",
+    "name_mr": "",
+    "code": "566376",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566380",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Sangulwadi",
+    "name_mr": "",
+    "code": "566380",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566364",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Sardarwadi",
+    "name_mr": "",
+    "code": "566364",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566384",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Sadure",
+    "name_mr": "",
+    "code": "566384",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566385",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Nim Arule",
+    "name_mr": "",
+    "code": "566385",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566379",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Mohitewadi",
+    "name_mr": "",
+    "code": "566379",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566377",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Tembewadi",
+    "name_mr": "",
+    "code": "566377",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566383",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Arule",
+    "name_mr": "",
+    "code": "566383",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566378",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Khambale",
+    "name_mr": "",
+    "code": "566378",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566389",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kurli",
+    "name_mr": "",
+    "code": "566389",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566386",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Achirne",
+    "name_mr": "",
+    "code": "566386",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566388",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Ghanegadwadi",
+    "name_mr": "",
+    "code": "566388",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566390",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Lore",
+    "name_mr": "",
+    "code": "566390",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566387",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Gadmath",
+    "name_mr": "",
+    "code": "566387",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566382",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Shirale",
+    "name_mr": "",
+    "code": "566382",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566351",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kumbharwadi",
+    "name_mr": "",
+    "code": "566351",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566352",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Kusur",
+    "name_mr": "",
+    "code": "566352",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-566344",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Mangavli",
+    "name_mr": "",
+    "code": "566344",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  },
+  {
+    "village_id": "v-652173",
+    "district_id": "sindhudurg",
+    "taluka_id": "vaibhavvadi",
+    "name_en": "Akhvane-Bhom-Nagapvadi",
+    "name_mr": "",
+    "code": "652173",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/vaibhavvadi.geojson"
+  }
+]

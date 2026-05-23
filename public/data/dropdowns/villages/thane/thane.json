@@ -1,0 +1,173 @@
+[
+  {
+    "village_id": "v-251470",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Mira-Bhayandar (M Corp)",
+    "name_mr": "",
+    "code": "251470",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-251471",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Thane (M Corp)",
+    "name_mr": "",
+    "code": "251471",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-251472",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Navi Mumbai (M Corp)",
+    "name_mr": "",
+    "code": "251472",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "creek",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552460",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Uttarshiv",
+    "name_mr": "",
+    "code": "552460",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552461",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Goteghar",
+    "name_mr": "",
+    "code": "552461",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552457",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Bale",
+    "name_mr": "",
+    "code": "552457",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "creek-dup-152",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552456",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Narivali",
+    "name_mr": "",
+    "code": "552456",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-945094",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "945094",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552459",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Bhandarli",
+    "name_mr": "",
+    "code": "552459",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552454",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Vakalan",
+    "name_mr": "",
+    "code": "552454",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-945092",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Molashi",
+    "name_mr": "",
+    "code": "945092",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552450",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Valivali",
+    "name_mr": "",
+    "code": "552450",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552451",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "552451",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552452",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Nighu",
+    "name_mr": "",
+    "code": "552452",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552455",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Bamali",
+    "name_mr": "",
+    "code": "552455",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-945089",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Dahisar",
+    "name_mr": "",
+    "code": "945089",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  },
+  {
+    "village_id": "v-552453",
+    "district_id": "thane",
+    "taluka_id": "thane",
+    "name_en": "Navali",
+    "name_mr": "",
+    "code": "552453",
+    "boundary_file": "/data/boundaries/villages/thane/thane.geojson"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "village_id": "v-251628",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kagal (M CI)",
+    "name_mr": "",
+    "code": "251628",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567667",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Randivewadi",
+    "name_mr": "",
+    "code": "567667",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567665",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Pimpalgaon Kh.",
+    "name_mr": "",
+    "code": "567665",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567664",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Vhannur",
+    "name_mr": "",
+    "code": "567664",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567669",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Sangaon Mouje",
+    "name_mr": "",
+    "code": "567669",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567670",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Lingnur Dumala",
+    "name_mr": "",
+    "code": "567670",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567673",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Siddhanerli",
+    "name_mr": "",
+    "code": "567673",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567672",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Ekondi",
+    "name_mr": "",
+    "code": "567672",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567674",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Vandoor",
+    "name_mr": "",
+    "code": "567674",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567671",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Karnoor",
+    "name_mr": "",
+    "code": "567671",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567668",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Sulkud",
+    "name_mr": "",
+    "code": "567668",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567677",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bamani",
+    "name_mr": "",
+    "code": "567677",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567675",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Shankarwadi",
+    "name_mr": "",
+    "code": "567675",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567676",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Shendur",
+    "name_mr": "",
+    "code": "567676",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567680",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kembali",
+    "name_mr": "",
+    "code": "567680",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567681",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Belawale Kh.",
+    "name_mr": "",
+    "code": "567681",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567682",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Belawale Bk.",
+    "name_mr": "",
+    "code": "567682",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567678",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Vhanali",
+    "name_mr": "",
+    "code": "567678",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567683",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Sake",
+    "name_mr": "",
+    "code": "567683",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567690",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Mhakave",
+    "name_mr": "",
+    "code": "567690",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567689",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Gorambe",
+    "name_mr": "",
+    "code": "567689",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567688",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kenavade",
+    "name_mr": "",
+    "code": "567688",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567687",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Savarde Kh.",
+    "name_mr": "",
+    "code": "567687",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567686",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Savarde Bk.",
+    "name_mr": "",
+    "code": "567686",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567685",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Pirachiwadi",
+    "name_mr": "",
+    "code": "567685",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567691",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Anur",
+    "name_mr": "",
+    "code": "567691",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567696",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Banage",
+    "name_mr": "",
+    "code": "567696",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567684",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Valave Kh.",
+    "name_mr": "",
+    "code": "567684",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567692",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Pimpalgaon Bk.",
+    "name_mr": "",
+    "code": "567692",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567701",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Sonali",
+    "name_mr": "",
+    "code": "567701",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567723",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Khadakewada",
+    "name_mr": "",
+    "code": "567723",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567702",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Nindhori",
+    "name_mr": "",
+    "code": "567702",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567716",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Hamidwada",
+    "name_mr": "",
+    "code": "567716",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567697",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Undarwadi",
+    "name_mr": "",
+    "code": "567697",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567710",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Surpali",
+    "name_mr": "",
+    "code": "567710",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567725",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Lingnoor Kapshi",
+    "name_mr": "",
+    "code": "567725",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567718",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Benikre",
+    "name_mr": "",
+    "code": "567718",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567709",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Yamage",
+    "name_mr": "",
+    "code": "567709",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567705",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "567705",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567724",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Arjuni",
+    "name_mr": "",
+    "code": "567724",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567717",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Metage",
+    "name_mr": "",
+    "code": "567717",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567706",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Daulatwadi",
+    "name_mr": "",
+    "code": "567706",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567714",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kaulage",
+    "name_mr": "",
+    "code": "567714",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567715",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Chikhali Kasaba",
+    "name_mr": "",
+    "code": "567715",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567700",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bidri",
+    "name_mr": "",
+    "code": "567700",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567713",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bastavade",
+    "name_mr": "",
+    "code": "567713",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567695",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Malage Kh.",
+    "name_mr": "",
+    "code": "567695",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567698",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Pharakatewadi",
+    "name_mr": "",
+    "code": "567698",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567693",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Chaundal",
+    "name_mr": "",
+    "code": "567693",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567712",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Sonage",
+    "name_mr": "",
+    "code": "567712",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567694",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Malage Bk.",
+    "name_mr": "",
+    "code": "567694",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567699",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Boravade",
+    "name_mr": "",
+    "code": "567699",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567703",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kurni",
+    "name_mr": "",
+    "code": "567703",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567711",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kurukali",
+    "name_mr": "",
+    "code": "567711",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567704",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bhadagaon",
+    "name_mr": "",
+    "code": "567704",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567719",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Haladi",
+    "name_mr": "",
+    "code": "567719",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567720",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Arjunwada",
+    "name_mr": "",
+    "code": "567720",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567707",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Chimagaon",
+    "name_mr": "",
+    "code": "567707",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567721",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kardyal",
+    "name_mr": "",
+    "code": "567721",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567726",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Jainyal",
+    "name_mr": "",
+    "code": "567726",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567708",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Avachitwadi",
+    "name_mr": "",
+    "code": "567708",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567729",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Haldavade",
+    "name_mr": "",
+    "code": "567729",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567730",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Karanjivane",
+    "name_mr": "",
+    "code": "567730",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567728",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Nandhyal",
+    "name_mr": "",
+    "code": "567728",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567727",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Mugali",
+    "name_mr": "",
+    "code": "567727",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567731",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Thanewadi",
+    "name_mr": "",
+    "code": "567731",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567733",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Belewadi Masa",
+    "name_mr": "",
+    "code": "567733",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567736",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Balikre",
+    "name_mr": "",
+    "code": "567736",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567732",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bolaviwadi",
+    "name_mr": "",
+    "code": "567732",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567734",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Alabad",
+    "name_mr": "",
+    "code": "567734",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567735",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kapashi",
+    "name_mr": "",
+    "code": "567735",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567743",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bolavi",
+    "name_mr": "",
+    "code": "567743",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567742",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Hasur Kh.",
+    "name_mr": "",
+    "code": "567742",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567744",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Hasur Bk.",
+    "name_mr": "",
+    "code": "567744",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567737",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Baleghol",
+    "name_mr": "",
+    "code": "567737",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567741",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "567741",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567740",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Vadagaon",
+    "name_mr": "",
+    "code": "567740",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567739",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Tamanakwada",
+    "name_mr": "",
+    "code": "567739",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567745",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Mangnoor",
+    "name_mr": "",
+    "code": "567745",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567746",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Belewadi Kalamma",
+    "name_mr": "",
+    "code": "567746",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567747",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Madyal",
+    "name_mr": "",
+    "code": "567747",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567738",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Hanbarwadi",
+    "name_mr": "",
+    "code": "567738",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-251629",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Murgud (M Cl)",
+    "name_mr": "",
+    "code": "251629",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567679",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Bachani",
+    "name_mr": "",
+    "code": "567679",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-652195",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Saint Annes Nagar",
+    "name_mr": "",
+    "code": "652195",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567722",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Galgale",
+    "name_mr": "",
+    "code": "567722",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-652196",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Nivale Vasahat Galgale",
+    "name_mr": "",
+    "code": "652196",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-567666",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Sangaon Kasaba",
+    "name_mr": "",
+    "code": "567666",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-652193",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "652193",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  },
+  {
+    "village_id": "v-652194",
+    "district_id": "kolh-pur",
+    "taluka_id": "kagal",
+    "name_en": "Wadade",
+    "name_mr": "",
+    "code": "652194",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/kagal.geojson"
+  }
+]

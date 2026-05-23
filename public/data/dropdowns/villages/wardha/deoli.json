@@ -1,0 +1,1379 @@
+[
+  {
+    "village_id": "v-534207",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Eklaspur",
+    "name_mr": "",
+    "code": "534207",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534209",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nachangaon",
+    "name_mr": "",
+    "code": "534209",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534204",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nandpur",
+    "name_mr": "",
+    "code": "534204",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534275",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Yesgaon",
+    "name_mr": "",
+    "code": "534275",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534278",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Muradgaon (Belsare)",
+    "name_mr": "",
+    "code": "534278",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534208",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Rangnathpur",
+    "name_mr": "",
+    "code": "534208",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534216",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Apti",
+    "name_mr": "",
+    "code": "534216",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534277",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sonegaon (Aa)",
+    "name_mr": "",
+    "code": "534277",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534279",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "534279",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534215",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Hamdapur",
+    "name_mr": "",
+    "code": "534215",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534212",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bachchharajpur",
+    "name_mr": "",
+    "code": "534212",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534217",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "534217",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534210",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kurla",
+    "name_mr": "",
+    "code": "534210",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534211",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Pipri",
+    "name_mr": "",
+    "code": "534211",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534280",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nagzari",
+    "name_mr": "",
+    "code": "534280",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534218",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Husnapur",
+    "name_mr": "",
+    "code": "534218",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534214",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bhagwanpur",
+    "name_mr": "",
+    "code": "534214",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534281",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "534281",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534213",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Haralpur",
+    "name_mr": "",
+    "code": "534213",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534219",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "534219",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534220",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "534220",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534221",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Raghunathpur",
+    "name_mr": "",
+    "code": "534221",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534228",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dahegaon (Dhande)",
+    "name_mr": "",
+    "code": "534228",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534222",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Khatkheda",
+    "name_mr": "",
+    "code": "534222",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534223",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sawala",
+    "name_mr": "",
+    "code": "534223",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534243",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Agargaon",
+    "name_mr": "",
+    "code": "534243",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534282",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Digdoh.",
+    "name_mr": "",
+    "code": "534282",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534227",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kapurwadi",
+    "name_mr": "",
+    "code": "534227",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534225",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Ekamba",
+    "name_mr": "",
+    "code": "534225",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534224",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "534224",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534244",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "534244",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534233",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Ghodegaon",
+    "name_mr": "",
+    "code": "534233",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534226",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "534226",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534229",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nimgavhan",
+    "name_mr": "",
+    "code": "534229",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534230",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kolona (Gho)",
+    "name_mr": "",
+    "code": "534230",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534231",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Gagapur",
+    "name_mr": "",
+    "code": "534231",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534283",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dagapur",
+    "name_mr": "",
+    "code": "534283",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534234",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sonora",
+    "name_mr": "",
+    "code": "534234",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534317",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bopapur",
+    "name_mr": "",
+    "code": "534317",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534285",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nandora",
+    "name_mr": "",
+    "code": "534285",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534235",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "534235",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534316",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "534316",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534246",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Timapur",
+    "name_mr": "",
+    "code": "534246",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534232",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Trimbakpur",
+    "name_mr": "",
+    "code": "534232",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534245",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "534245",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534242",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dhonapur",
+    "name_mr": "",
+    "code": "534242",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534241",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Inzala",
+    "name_mr": "",
+    "code": "534241",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534288",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "534288",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534248",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "534248",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534236",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kavithgaon",
+    "name_mr": "",
+    "code": "534236",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534239",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Akapur",
+    "name_mr": "",
+    "code": "534239",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534314",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "534314",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534199",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "534199",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534198",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Gunjkheda",
+    "name_mr": "",
+    "code": "534198",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534201",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kavtha",
+    "name_mr": "",
+    "code": "534201",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534200",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Laxminarayanpur",
+    "name_mr": "",
+    "code": "534200",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534274",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "534274",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534202",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kavtha (Zopadi)",
+    "name_mr": "",
+    "code": "534202",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534203",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sekapur",
+    "name_mr": "",
+    "code": "534203",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534276",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Jamani",
+    "name_mr": "",
+    "code": "534276",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534206",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Chitaki",
+    "name_mr": "",
+    "code": "534206",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534205",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sekapur(Zopadi)",
+    "name_mr": "",
+    "code": "534205",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534315",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Ajanavati",
+    "name_mr": "",
+    "code": "534315",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534286",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Muradgaon (Khose)",
+    "name_mr": "",
+    "code": "534286",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534247",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Akoli",
+    "name_mr": "",
+    "code": "534247",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534287",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "534287",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534240",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Talni (Bhagwat)",
+    "name_mr": "",
+    "code": "534240",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534289",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Ekpala",
+    "name_mr": "",
+    "code": "534289",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534333",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Takli (Khode)",
+    "name_mr": "",
+    "code": "534333",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534318",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "534318",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534249",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Durgada",
+    "name_mr": "",
+    "code": "534249",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534238",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sendari",
+    "name_mr": "",
+    "code": "534238",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534332",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "534332",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534259",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bhidi",
+    "name_mr": "",
+    "code": "534259",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534237",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kandegaon",
+    "name_mr": "",
+    "code": "534237",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534251",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Chondhi",
+    "name_mr": "",
+    "code": "534251",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534292",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "534292",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534291",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kajalsara",
+    "name_mr": "",
+    "code": "534291",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534319",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Takali (Chanaji)",
+    "name_mr": "",
+    "code": "534319",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534290",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Wakheda",
+    "name_mr": "",
+    "code": "534290",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534250",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Talni(Khanderao)",
+    "name_mr": "",
+    "code": "534250",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534252",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Irapur",
+    "name_mr": "",
+    "code": "534252",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534321",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sekapur",
+    "name_mr": "",
+    "code": "534321",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534322",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bhojankheda",
+    "name_mr": "",
+    "code": "534322",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534334",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kolona (Chore)",
+    "name_mr": "",
+    "code": "534334",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534325",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Aloda",
+    "name_mr": "",
+    "code": "534325",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534320",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "534320",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534257",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Raghala",
+    "name_mr": "",
+    "code": "534257",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534331",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "534331",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534330",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "534330",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534329",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Chichala",
+    "name_mr": "",
+    "code": "534329",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534256",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Vijaygopal",
+    "name_mr": "",
+    "code": "534256",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534258",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Hurdanpur",
+    "name_mr": "",
+    "code": "534258",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534327",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sarul",
+    "name_mr": "",
+    "code": "534327",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534255",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Tambha",
+    "name_mr": "",
+    "code": "534255",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534253",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "534253",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534323",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "534323",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534326",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "534326",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534254",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "534254",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534293",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "534293",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534338",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "534338",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534344",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Giroli",
+    "name_mr": "",
+    "code": "534344",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534324",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Mund",
+    "name_mr": "",
+    "code": "534324",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534346",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nimsada",
+    "name_mr": "",
+    "code": "534346",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534328",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "534328",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534266",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kolhapur",
+    "name_mr": "",
+    "code": "534266",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534269",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Malatpur",
+    "name_mr": "",
+    "code": "534269",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534294",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "534294",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534336",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Gaul",
+    "name_mr": "",
+    "code": "534336",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534267",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "534267",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534260",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Wabgaon",
+    "name_mr": "",
+    "code": "534260",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534337",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Nasirpur",
+    "name_mr": "",
+    "code": "534337",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534335",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Musalabad",
+    "name_mr": "",
+    "code": "534335",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534339",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dapori",
+    "name_mr": "",
+    "code": "534339",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534347",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Takali (Darne)",
+    "name_mr": "",
+    "code": "534347",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534297",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "534297",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534345",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Pathari",
+    "name_mr": "",
+    "code": "534345",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534296",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kolhapur",
+    "name_mr": "",
+    "code": "534296",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534295",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Singarwadi",
+    "name_mr": "",
+    "code": "534295",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534262",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Karmalapur",
+    "name_mr": "",
+    "code": "534262",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534298",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "534298",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534261",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Saidapur",
+    "name_mr": "",
+    "code": "534261",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534268",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Hiwara (Kavare)",
+    "name_mr": "",
+    "code": "534268",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534272",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Sirpur (Hore)",
+    "name_mr": "",
+    "code": "534272",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534271",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kangokul",
+    "name_mr": "",
+    "code": "534271",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534270",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Rohani",
+    "name_mr": "",
+    "code": "534270",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534340",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Inzapur",
+    "name_mr": "",
+    "code": "534340",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534299",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Jafrabad",
+    "name_mr": "",
+    "code": "534299",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534300",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "534300",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534308",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Muradpur",
+    "name_mr": "",
+    "code": "534308",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534265",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Husnapur",
+    "name_mr": "",
+    "code": "534265",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534341",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "534341",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534302",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Chandrapur",
+    "name_mr": "",
+    "code": "534302",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534305",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Andori",
+    "name_mr": "",
+    "code": "534305",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534306",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "534306",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534307",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Barhanpur",
+    "name_mr": "",
+    "code": "534307",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534263",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "534263",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534264",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kashimpur",
+    "name_mr": "",
+    "code": "534264",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534343",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Amboda",
+    "name_mr": "",
+    "code": "534343",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534311",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Anji",
+    "name_mr": "",
+    "code": "534311",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534342",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "534342",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534301",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Mohanapur",
+    "name_mr": "",
+    "code": "534301",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534309",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Rudrapur",
+    "name_mr": "",
+    "code": "534309",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534303",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Mominpur",
+    "name_mr": "",
+    "code": "534303",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534310",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Aminabad",
+    "name_mr": "",
+    "code": "534310",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534273",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Kharda",
+    "name_mr": "",
+    "code": "534273",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534304",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bopapur",
+    "name_mr": "",
+    "code": "534304",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534312",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Bahaddarpur",
+    "name_mr": "",
+    "code": "534312",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534313",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Dilavarpur",
+    "name_mr": "",
+    "code": "534313",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-251337",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Deoli (M Cl)",
+    "name_mr": "",
+    "code": "251337",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-802698N096",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Borgaon (RHV)",
+    "name_mr": "",
+    "code": "802698N096",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-534284",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Deoli (Rural)",
+    "name_mr": "",
+    "code": "534284",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  },
+  {
+    "village_id": "v-251336",
+    "district_id": "wardha",
+    "taluka_id": "deoli",
+    "name_en": "Pulgaon (M Cl)",
+    "name_mr": "",
+    "code": "251336",
+    "boundary_file": "/data/boundaries/villages/wardha/deoli.geojson"
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "village_id": "v-566476",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bhiravande",
+    "name_mr": "",
+    "code": "566476",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566450",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Humbarane",
+    "name_mr": "",
+    "code": "566450",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566451",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bidwadi",
+    "name_mr": "",
+    "code": "566451",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566447",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Nagave",
+    "name_mr": "",
+    "code": "566447",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566477",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Sangave",
+    "name_mr": "",
+    "code": "566477",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566478",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Harkul Bk.",
+    "name_mr": "",
+    "code": "566478",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566449",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bharni",
+    "name_mr": "",
+    "code": "566449",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566444",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Sakedi",
+    "name_mr": "",
+    "code": "566444",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566488",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kumbhavade",
+    "name_mr": "",
+    "code": "566488",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566453",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Tarandale",
+    "name_mr": "",
+    "code": "566453",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566474",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Gandhinagar",
+    "name_mr": "",
+    "code": "566474",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566475",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Rameshwarnagar",
+    "name_mr": "",
+    "code": "566475",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566448",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Janavali",
+    "name_mr": "",
+    "code": "566448",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566394",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Sambhajinagar",
+    "name_mr": "",
+    "code": "566394",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566397",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Chinchwali",
+    "name_mr": "",
+    "code": "566397",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566395",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kajirde",
+    "name_mr": "",
+    "code": "566395",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566392",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shivajipeth",
+    "name_mr": "",
+    "code": "566392",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566396",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kharepatan",
+    "name_mr": "",
+    "code": "566396",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566398",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Berle",
+    "name_mr": "",
+    "code": "566398",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566393",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shivajipeth",
+    "name_mr": "",
+    "code": "566393",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566400",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kurangavne",
+    "name_mr": "",
+    "code": "566400",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566391",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Waingani",
+    "name_mr": "",
+    "code": "566391",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566459",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Halaval",
+    "name_mr": "",
+    "code": "566459",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566458",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Wagade",
+    "name_mr": "",
+    "code": "566458",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566490",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Ranjangaon",
+    "name_mr": "",
+    "code": "566490",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566456",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kasaral",
+    "name_mr": "",
+    "code": "566456",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566457",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Satral",
+    "name_mr": "",
+    "code": "566457",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566489",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Digavale",
+    "name_mr": "",
+    "code": "566489",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566460",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shiraval",
+    "name_mr": "",
+    "code": "566460",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566491",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Nardave",
+    "name_mr": "",
+    "code": "566491",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566465",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kasavan",
+    "name_mr": "",
+    "code": "566465",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566462",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Pimpaleshwar Nagar",
+    "name_mr": "",
+    "code": "566462",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566466",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Osargaon",
+    "name_mr": "",
+    "code": "566466",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566464",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Talavade",
+    "name_mr": "",
+    "code": "566464",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566492",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bhairavgaon",
+    "name_mr": "",
+    "code": "566492",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566467",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bordave",
+    "name_mr": "",
+    "code": "566467",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566463",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Lingeshwar Nagar",
+    "name_mr": "",
+    "code": "566463",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566461",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Ulhasnagar",
+    "name_mr": "",
+    "code": "566461",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566493",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "566493",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566494",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Jambhalgaon",
+    "name_mr": "",
+    "code": "566494",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566469",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kalasuli",
+    "name_mr": "",
+    "code": "566469",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566472",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Uttamnagar",
+    "name_mr": "",
+    "code": "566472",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566471",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Rajnagar",
+    "name_mr": "",
+    "code": "566471",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566470",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Upanagar",
+    "name_mr": "",
+    "code": "566470",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566495",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Yevteshwargaon",
+    "name_mr": "",
+    "code": "566495",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566473",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shrinagar",
+    "name_mr": "",
+    "code": "566473",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566401",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Nadgive",
+    "name_mr": "",
+    "code": "566401",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566399",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Sherpe",
+    "name_mr": "",
+    "code": "566399",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566402",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Wargaon",
+    "name_mr": "",
+    "code": "566402",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566403",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shidavne",
+    "name_mr": "",
+    "code": "566403",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566404",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Saliste",
+    "name_mr": "",
+    "code": "566404",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566405",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Audumbarnagar",
+    "name_mr": "",
+    "code": "566405",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566406",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Tarele",
+    "name_mr": "",
+    "code": "566406",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566407",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Darum",
+    "name_mr": "",
+    "code": "566407",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566409",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Dhareshwar",
+    "name_mr": "",
+    "code": "566409",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566412",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Anandnagar",
+    "name_mr": "",
+    "code": "566412",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566410",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kasarde",
+    "name_mr": "",
+    "code": "566410",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566411",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Uttargavthan",
+    "name_mr": "",
+    "code": "566411",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566413",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Ozaram",
+    "name_mr": "",
+    "code": "566413",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566408",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Jambhalnagar",
+    "name_mr": "",
+    "code": "566408",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566416",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Dabgaon",
+    "name_mr": "",
+    "code": "566416",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566432",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Ghonsari",
+    "name_mr": "",
+    "code": "566432",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566426",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Piyali",
+    "name_mr": "",
+    "code": "566426",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566435",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Wagheri",
+    "name_mr": "",
+    "code": "566435",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566418",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Asalade",
+    "name_mr": "",
+    "code": "566418",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566419",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Koloshi",
+    "name_mr": "",
+    "code": "566419",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566433",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Phondaghat",
+    "name_mr": "",
+    "code": "566433",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566417",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Tondavali",
+    "name_mr": "",
+    "code": "566417",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566431",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Gangeshwar",
+    "name_mr": "",
+    "code": "566431",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566427",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Math Kh.",
+    "name_mr": "",
+    "code": "566427",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566422",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "566422",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566428",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Lingeshwar",
+    "name_mr": "",
+    "code": "566428",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566421",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Otav",
+    "name_mr": "",
+    "code": "566421",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566423",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bavshi",
+    "name_mr": "",
+    "code": "566423",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566420",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Ayanal",
+    "name_mr": "",
+    "code": "566420",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566436",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Damare",
+    "name_mr": "",
+    "code": "566436",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566441",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Tiware",
+    "name_mr": "",
+    "code": "566441",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566439",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kondye",
+    "name_mr": "",
+    "code": "566439",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566446",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Harkul Kh",
+    "name_mr": "",
+    "code": "566446",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566442",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Belne Kh",
+    "name_mr": "",
+    "code": "566442",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566425",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Savdav",
+    "name_mr": "",
+    "code": "566425",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566440",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Karul",
+    "name_mr": "",
+    "code": "566440",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566443",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Humarat",
+    "name_mr": "",
+    "code": "566443",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566424",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Main",
+    "name_mr": "",
+    "code": "566424",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566445",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Karanje",
+    "name_mr": "",
+    "code": "566445",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566452",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Pise Kamate",
+    "name_mr": "",
+    "code": "566452",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566479",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shastrinagar",
+    "name_mr": "",
+    "code": "566479",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566481",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Subhash Nagar",
+    "name_mr": "",
+    "code": "566481",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566454",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Varavade",
+    "name_mr": "",
+    "code": "566454",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566496",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kalmath (CT)",
+    "name_mr": "",
+    "code": "566496",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566480",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Nehru Nagar",
+    "name_mr": "",
+    "code": "566480",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-251609",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Kankavli (NP)",
+    "name_mr": "",
+    "code": "251609",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566483",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "566483",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566487",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Natal",
+    "name_mr": "",
+    "code": "566487",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566484",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Sambhajinagar",
+    "name_mr": "",
+    "code": "566484",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566482",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Navanagar",
+    "name_mr": "",
+    "code": "566482",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566468",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Phanas Nagar",
+    "name_mr": "",
+    "code": "566468",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566486",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Dariste",
+    "name_mr": "",
+    "code": "566486",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566485",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Shivdav",
+    "name_mr": "",
+    "code": "566485",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566455",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Ashiye",
+    "name_mr": "",
+    "code": "566455",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566438",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Dakshin Bajar Peth",
+    "name_mr": "",
+    "code": "566438",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566437",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Uttar Bajar Peth",
+    "name_mr": "",
+    "code": "566437",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566429",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Lore",
+    "name_mr": "",
+    "code": "566429",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566434",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Bramhanagari",
+    "name_mr": "",
+    "code": "566434",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566430",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Navin Kurli",
+    "name_mr": "",
+    "code": "566430",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566414",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Nagsawantwadi",
+    "name_mr": "",
+    "code": "566414",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  },
+  {
+    "village_id": "v-566415",
+    "district_id": "sindhudurg",
+    "taluka_id": "kankavli",
+    "name_en": "Avaleshwar",
+    "name_mr": "",
+    "code": "566415",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/kankavli.geojson"
+  }
+]

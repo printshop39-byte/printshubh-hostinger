@@ -1,0 +1,632 @@
+[
+  {
+    "village_id": "v-563168",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Hartali",
+    "name_mr": "",
+    "code": "563168",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563172",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "563172",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563171",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Wing",
+    "name_mr": "",
+    "code": "563171",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563169",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Wadwadi",
+    "name_mr": "",
+    "code": "563169",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563167",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Rajewadi",
+    "name_mr": "",
+    "code": "563167",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563177",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Pisalwadi",
+    "name_mr": "",
+    "code": "563177",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563170",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Guthalwadi",
+    "name_mr": "",
+    "code": "563170",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563194",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Mane Colony",
+    "name_mr": "",
+    "code": "563194",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563174",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Palashi",
+    "name_mr": "",
+    "code": "563174",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563191",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Tondal",
+    "name_mr": "",
+    "code": "563191",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563181",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Mirje",
+    "name_mr": "",
+    "code": "563181",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563178",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Moh tarf shirwal",
+    "name_mr": "",
+    "code": "563178",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563193",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bholi",
+    "name_mr": "",
+    "code": "563193",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563175",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Sangvi",
+    "name_mr": "",
+    "code": "563175",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563176",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "563176",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563192",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "563192",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563208",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Wathar Bk.",
+    "name_mr": "",
+    "code": "563208",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563182",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Atit",
+    "name_mr": "",
+    "code": "563182",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563216",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bhade",
+    "name_mr": "",
+    "code": "563216",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563183",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Kanhavadi",
+    "name_mr": "",
+    "code": "563183",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563209",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Rui",
+    "name_mr": "",
+    "code": "563209",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563179",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "563179",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563197",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Shivajinagar",
+    "name_mr": "",
+    "code": "563197",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563195",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Shekhmirwadi",
+    "name_mr": "",
+    "code": "563195",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563180",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Vadgaon",
+    "name_mr": "",
+    "code": "563180",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563210",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Pimpare Bk.",
+    "name_mr": "",
+    "code": "563210",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563214",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Andori",
+    "name_mr": "",
+    "code": "563214",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563196",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bhadavade",
+    "name_mr": "",
+    "code": "563196",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563199",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Kesurdi",
+    "name_mr": "",
+    "code": "563199",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563211",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bavkalwadi",
+    "name_mr": "",
+    "code": "563211",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563185",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Javale",
+    "name_mr": "",
+    "code": "563185",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563219",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Karadwadi",
+    "name_mr": "",
+    "code": "563219",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563212",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Padegaon",
+    "name_mr": "",
+    "code": "563212",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563198",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bavda",
+    "name_mr": "",
+    "code": "563198",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563184",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Karnavadi",
+    "name_mr": "",
+    "code": "563184",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563217",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Morve",
+    "name_mr": "",
+    "code": "563217",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563218",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Waghoshi",
+    "name_mr": "",
+    "code": "563218",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563220",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Mariachiwadi",
+    "name_mr": "",
+    "code": "563220",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563200",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Pargaon",
+    "name_mr": "",
+    "code": "563200",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563213",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Balu patlachiwadi",
+    "name_mr": "",
+    "code": "563213",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563187",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Lohom",
+    "name_mr": "",
+    "code": "563187",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563223",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Ahire",
+    "name_mr": "",
+    "code": "563223",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563207",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Kanheri",
+    "name_mr": "",
+    "code": "563207",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563188",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Ghadgewadi",
+    "name_mr": "",
+    "code": "563188",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563206",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Asawali",
+    "name_mr": "",
+    "code": "563206",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-276414",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Lonand (NP)",
+    "name_mr": "",
+    "code": "276414",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563204",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Ajnuj",
+    "name_mr": "",
+    "code": "563204",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563202",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Mhavashi",
+    "name_mr": "",
+    "code": "563202",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-276383",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Khandala (NP)",
+    "name_mr": "",
+    "code": "276383",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563189",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Zagalwadi",
+    "name_mr": "",
+    "code": "563189",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563205",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Ambarwadi",
+    "name_mr": "",
+    "code": "563205",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563190",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Limachiwadi",
+    "name_mr": "",
+    "code": "563190",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563222",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Sukhed",
+    "name_mr": "",
+    "code": "563222",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563224",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Dhawadwadi",
+    "name_mr": "",
+    "code": "563224",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563203",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Haripur",
+    "name_mr": "",
+    "code": "563203",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563226",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Ghatdare",
+    "name_mr": "",
+    "code": "563226",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563225",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Harali",
+    "name_mr": "",
+    "code": "563225",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563221",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Khed Bk.",
+    "name_mr": "",
+    "code": "563221",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563230",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Nimbodi",
+    "name_mr": "",
+    "code": "563230",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563227",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "563227",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563228",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Yelewadi",
+    "name_mr": "",
+    "code": "563228",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563229",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Padali",
+    "name_mr": "",
+    "code": "563229",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563231",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Koparde",
+    "name_mr": "",
+    "code": "563231",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563166",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Bhatghar",
+    "name_mr": "",
+    "code": "563166",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563173",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Shirwal",
+    "name_mr": "",
+    "code": "563173",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563186",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Kavathe",
+    "name_mr": "",
+    "code": "563186",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-946123",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Salav (Punarvasit).",
+    "name_mr": "",
+    "code": "946123",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-563215",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Shedgewadi",
+    "name_mr": "",
+    "code": "563215",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-946124",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Dapakeghar",
+    "name_mr": "",
+    "code": "946124",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  },
+  {
+    "village_id": "v-654976",
+    "district_id": "s-t-ra",
+    "taluka_id": "khandala",
+    "name_en": "Shirwal",
+    "name_mr": "",
+    "code": "654976",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/khandala.geojson"
+  }
+]

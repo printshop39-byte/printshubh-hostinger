@@ -1,0 +1,1820 @@
+[
+  {
+    "village_id": "v-554682",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dahivali Tarf Govele",
+    "name_mr": "",
+    "code": "554682",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554693",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Khadkoli",
+    "name_mr": "",
+    "code": "554693",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554673",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Chapadi",
+    "name_mr": "",
+    "code": "554673",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554688",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Repoli",
+    "name_mr": "",
+    "code": "554688",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554711",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Panhalghar Kh",
+    "name_mr": "",
+    "code": "554711",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554674",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nalephodi",
+    "name_mr": "",
+    "code": "554674",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554680",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dhaksheli",
+    "name_mr": "",
+    "code": "554680",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554694",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "554694",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554640",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kalamje",
+    "name_mr": "",
+    "code": "554640",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554605",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tamhane  Tarf  Goregaon",
+    "name_mr": "",
+    "code": "554605",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554607",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Gharoshi",
+    "name_mr": "",
+    "code": "554607",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554634",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Borghar Tarf Kharavali",
+    "name_mr": "",
+    "code": "554634",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554639",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mangawali",
+    "name_mr": "",
+    "code": "554639",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554638",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Surav Tarf Nijampur",
+    "name_mr": "",
+    "code": "554638",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554645",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Hodgaon",
+    "name_mr": "",
+    "code": "554645",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554642",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bamnoli",
+    "name_mr": "",
+    "code": "554642",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554637",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Surav Tarf Tale",
+    "name_mr": "",
+    "code": "554637",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554635",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Amdoshi",
+    "name_mr": "",
+    "code": "554635",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554636",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Naitane",
+    "name_mr": "",
+    "code": "554636",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554677",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Manjarwane",
+    "name_mr": "",
+    "code": "554677",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554678",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kumshet",
+    "name_mr": "",
+    "code": "554678",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554686",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kurwade",
+    "name_mr": "",
+    "code": "554686",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554676",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mudre",
+    "name_mr": "",
+    "code": "554676",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554695",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nhave",
+    "name_mr": "",
+    "code": "554695",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554675",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ranavade Kond",
+    "name_mr": "",
+    "code": "554675",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554684",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "554684",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554679",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Shirawali Tarf Govele",
+    "name_mr": "",
+    "code": "554679",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554685",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wadghar",
+    "name_mr": "",
+    "code": "554685",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554696",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Usarghar",
+    "name_mr": "",
+    "code": "554696",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554700",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wadghar Murde",
+    "name_mr": "",
+    "code": "554700",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554710",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Panhalghar Bk",
+    "name_mr": "",
+    "code": "554710",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554701",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Chandhore",
+    "name_mr": "",
+    "code": "554701",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554683",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tarne Tarf Govele",
+    "name_mr": "",
+    "code": "554683",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554698",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wadawali",
+    "name_mr": "",
+    "code": "554698",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554699",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Shilim",
+    "name_mr": "",
+    "code": "554699",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554689",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhanadare",
+    "name_mr": "",
+    "code": "554689",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554662",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Sai",
+    "name_mr": "",
+    "code": "554662",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554661",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Usar Bk.",
+    "name_mr": "",
+    "code": "554661",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554681",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dahivali Kond",
+    "name_mr": "",
+    "code": "554681",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554672",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Unegaon",
+    "name_mr": "",
+    "code": "554672",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554709",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Lonera",
+    "name_mr": "",
+    "code": "554709",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554704",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Palsap",
+    "name_mr": "",
+    "code": "554704",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554653",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Rile",
+    "name_mr": "",
+    "code": "554653",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554691",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kavilvahal Bk.",
+    "name_mr": "",
+    "code": "554691",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554659",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Vihule",
+    "name_mr": "",
+    "code": "554659",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554647",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Hatkeli",
+    "name_mr": "",
+    "code": "554647",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554648",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mugavali",
+    "name_mr": "",
+    "code": "554648",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554668",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Lonshi",
+    "name_mr": "",
+    "code": "554668",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554665",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Morba",
+    "name_mr": "",
+    "code": "554665",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554690",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kavilvahal Kh.",
+    "name_mr": "",
+    "code": "554690",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554660",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kakal",
+    "name_mr": "",
+    "code": "554660",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554663",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dongroli",
+    "name_mr": "",
+    "code": "554663",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554669",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Garal",
+    "name_mr": "",
+    "code": "554669",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554667",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Pachole",
+    "name_mr": "",
+    "code": "554667",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554687",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Talegaon  Tarf  Goregaon",
+    "name_mr": "",
+    "code": "554687",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554671",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wave Tarf Nijampur",
+    "name_mr": "",
+    "code": "554671",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554670",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Adghar",
+    "name_mr": "",
+    "code": "554670",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554692",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Waghose",
+    "name_mr": "",
+    "code": "554692",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554551",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Patnus",
+    "name_mr": "",
+    "code": "554551",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554548",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Rawalje",
+    "name_mr": "",
+    "code": "554548",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554550",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Vile",
+    "name_mr": "",
+    "code": "554550",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554552",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bedgaon",
+    "name_mr": "",
+    "code": "554552",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554554",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Warachiwadi",
+    "name_mr": "",
+    "code": "554554",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554553",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Sanaswadi",
+    "name_mr": "",
+    "code": "554553",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554555",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhagad",
+    "name_mr": "",
+    "code": "554555",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554558",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Umbardi",
+    "name_mr": "",
+    "code": "554558",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554556",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Yelwade",
+    "name_mr": "",
+    "code": "554556",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554565",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bondshet",
+    "name_mr": "",
+    "code": "554565",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554566",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Javathe",
+    "name_mr": "",
+    "code": "554566",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554562",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Yerad",
+    "name_mr": "",
+    "code": "554562",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554564",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kandalgaon Kh.",
+    "name_mr": "",
+    "code": "554564",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554609",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ghotval",
+    "name_mr": "",
+    "code": "554609",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554559",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Jite",
+    "name_mr": "",
+    "code": "554559",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554560",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Shirawali Tarf Nijampur",
+    "name_mr": "",
+    "code": "554560",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554567",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhale",
+    "name_mr": "",
+    "code": "554567",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554610",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ratwad",
+    "name_mr": "",
+    "code": "554610",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554569",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kandalgaon Bk.",
+    "name_mr": "",
+    "code": "554569",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554561",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tharmari",
+    "name_mr": "",
+    "code": "554561",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554612",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wave  Diwali",
+    "name_mr": "",
+    "code": "554612",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554573",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Maluste",
+    "name_mr": "",
+    "code": "554573",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554572",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kadape",
+    "name_mr": "",
+    "code": "554572",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554576",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Sakhalewadi",
+    "name_mr": "",
+    "code": "554576",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554574",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Titave",
+    "name_mr": "",
+    "code": "554574",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554575",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Borawali",
+    "name_mr": "",
+    "code": "554575",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554611",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nilaj",
+    "name_mr": "",
+    "code": "554611",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554568",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kumbharte",
+    "name_mr": "",
+    "code": "554568",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554570",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Shirsad",
+    "name_mr": "",
+    "code": "554570",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554578",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kelgan",
+    "name_mr": "",
+    "code": "554578",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554614",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Potner",
+    "name_mr": "",
+    "code": "554614",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554579",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Chach",
+    "name_mr": "",
+    "code": "554579",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554613",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Makti",
+    "name_mr": "",
+    "code": "554613",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554588",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kashimbale Tarf Nijampur",
+    "name_mr": "",
+    "code": "554588",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554577",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kumbhe",
+    "name_mr": "",
+    "code": "554577",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554615",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Rudravali",
+    "name_mr": "",
+    "code": "554615",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554587",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Panaspe",
+    "name_mr": "",
+    "code": "554587",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554618",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nivi",
+    "name_mr": "",
+    "code": "554618",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554617",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nagroli",
+    "name_mr": "",
+    "code": "554617",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554590",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wadhawan",
+    "name_mr": "",
+    "code": "554590",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554580",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Manjurne",
+    "name_mr": "",
+    "code": "554580",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554585",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Koste Bk.",
+    "name_mr": "",
+    "code": "554585",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554616",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Indapur",
+    "name_mr": "",
+    "code": "554616",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554581",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mashidwadi",
+    "name_mr": "",
+    "code": "554581",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554621",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Talashet",
+    "name_mr": "",
+    "code": "554621",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554620",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Umaroli Diwali",
+    "name_mr": "",
+    "code": "554620",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554619",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Muthavali Tarf Tale",
+    "name_mr": "",
+    "code": "554619",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554582",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "554582",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554592",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kalvan",
+    "name_mr": "",
+    "code": "554592",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554591",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Muthavali Tarf Nijampur",
+    "name_mr": "",
+    "code": "554591",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554584",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Koste Kh.",
+    "name_mr": "",
+    "code": "554584",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554598",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Channat",
+    "name_mr": "",
+    "code": "554598",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554624",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kolhan",
+    "name_mr": "",
+    "code": "554624",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554622",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kashene",
+    "name_mr": "",
+    "code": "554622",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554597",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Harwandi",
+    "name_mr": "",
+    "code": "554597",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554593",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dakhane",
+    "name_mr": "",
+    "code": "554593",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554600",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Jor",
+    "name_mr": "",
+    "code": "554600",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554623",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wighavali",
+    "name_mr": "",
+    "code": "554623",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554599",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Karambeli",
+    "name_mr": "",
+    "code": "554599",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554596",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Salve",
+    "name_mr": "",
+    "code": "554596",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554626",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kashimbale Tarf Tale",
+    "name_mr": "",
+    "code": "554626",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554594",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Khardi Bk.",
+    "name_mr": "",
+    "code": "554594",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554627",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tilore",
+    "name_mr": "",
+    "code": "554627",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554595",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Panose",
+    "name_mr": "",
+    "code": "554595",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554630",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kushede Tarf Tale",
+    "name_mr": "",
+    "code": "554630",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554601",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Palasgaon Kh.",
+    "name_mr": "",
+    "code": "554601",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554603",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kharbachiwadi",
+    "name_mr": "",
+    "code": "554603",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554602",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kadapur",
+    "name_mr": "",
+    "code": "554602",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554628",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Sale",
+    "name_mr": "",
+    "code": "554628",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554604",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Gangawali",
+    "name_mr": "",
+    "code": "554604",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554631",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kharavali",
+    "name_mr": "",
+    "code": "554631",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554629",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Umaroli Kharawali",
+    "name_mr": "",
+    "code": "554629",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554633",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Pen Tarf Tale",
+    "name_mr": "",
+    "code": "554633",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554655",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Rajiwali",
+    "name_mr": "",
+    "code": "554655",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554654",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nilghun",
+    "name_mr": "",
+    "code": "554654",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554650",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Winchavali",
+    "name_mr": "",
+    "code": "554650",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-276268",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mangaon (NP)",
+    "name_mr": "",
+    "code": "276268",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554657",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Borle",
+    "name_mr": "",
+    "code": "554657",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554651",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Dhalghar",
+    "name_mr": "",
+    "code": "554651",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554649",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Javali",
+    "name_mr": "",
+    "code": "554649",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554658",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Vihule Kond",
+    "name_mr": "",
+    "code": "554658",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554697",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Chinchavali",
+    "name_mr": "",
+    "code": "554697",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554713",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Pahel",
+    "name_mr": "",
+    "code": "554713",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554712",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ambarle",
+    "name_mr": "",
+    "code": "554712",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554734",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Goregaon (CT)",
+    "name_mr": "",
+    "code": "554734",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554703",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Govele",
+    "name_mr": "",
+    "code": "554703",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554702",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Govele Kond",
+    "name_mr": "",
+    "code": "554702",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554705",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Alsunde",
+    "name_mr": "",
+    "code": "554705",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554708",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nagaon",
+    "name_mr": "",
+    "code": "554708",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554706",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kushede Tarf Govele",
+    "name_mr": "",
+    "code": "554706",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554721",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Hurdi",
+    "name_mr": "",
+    "code": "554721",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554714",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Khandpale",
+    "name_mr": "",
+    "code": "554714",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554723",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Harkol",
+    "name_mr": "",
+    "code": "554723",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554707",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Waki Tarf Govale",
+    "name_mr": "",
+    "code": "554707",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554719",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhintad",
+    "name_mr": "",
+    "code": "554719",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554715",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tempale",
+    "name_mr": "",
+    "code": "554715",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554722",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Harkol kond",
+    "name_mr": "",
+    "code": "554722",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554720",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Kachale",
+    "name_mr": "",
+    "code": "554720",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554716",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Lakhapale",
+    "name_mr": "",
+    "code": "554716",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554727",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Purar",
+    "name_mr": "",
+    "code": "554727",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554718",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Moor",
+    "name_mr": "",
+    "code": "554718",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554724",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Navashi",
+    "name_mr": "",
+    "code": "554724",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554717",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Wadpale",
+    "name_mr": "",
+    "code": "554717",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554731",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nandvi",
+    "name_mr": "",
+    "code": "554731",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554732",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Phalani",
+    "name_mr": "",
+    "code": "554732",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554730",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhandavali",
+    "name_mr": "",
+    "code": "554730",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554729",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tol Kh",
+    "name_mr": "",
+    "code": "554729",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554571",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bamangaon",
+    "name_mr": "",
+    "code": "554571",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554608",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhuvan",
+    "name_mr": "",
+    "code": "554608",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-944471",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Vitthalnagar",
+    "name_mr": "",
+    "code": "944471",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554666",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "554666",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943008",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Adarshnagar",
+    "name_mr": "",
+    "code": "943008",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-944463",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Devalikond",
+    "name_mr": "",
+    "code": "944463",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554728",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Devali",
+    "name_mr": "",
+    "code": "554728",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554646",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Khardi Kh.",
+    "name_mr": "",
+    "code": "554646",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943013",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Shivnagar",
+    "name_mr": "",
+    "code": "943013",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-945135",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ramnagar Tarf Madhegaon",
+    "name_mr": "",
+    "code": "945135",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554725",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Madhegaon",
+    "name_mr": "",
+    "code": "554725",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554664",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Mahadpoli",
+    "name_mr": "",
+    "code": "554664",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-944468",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Malaikond",
+    "name_mr": "",
+    "code": "944468",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554726",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Malikondvani",
+    "name_mr": "",
+    "code": "554726",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554586",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "554586",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-944462",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Eklavyanagar",
+    "name_mr": "",
+    "code": "944462",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554606",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Palasgaon Bk.",
+    "name_mr": "",
+    "code": "554606",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943014",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Palasgaon Bk. Adivasiwadi",
+    "name_mr": "",
+    "code": "943014",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-652078",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bhinad",
+    "name_mr": "",
+    "code": "652078",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554589",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Pansai",
+    "name_mr": "",
+    "code": "554589",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943156",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Narayangaon",
+    "name_mr": "",
+    "code": "943156",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554549",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Saje",
+    "name_mr": "",
+    "code": "554549",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554557",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Sangi",
+    "name_mr": "",
+    "code": "554557",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943005",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Katkarigaon Sangi",
+    "name_mr": "",
+    "code": "943005",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554656",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Surle",
+    "name_mr": "",
+    "code": "554656",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943011",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Surlewadi",
+    "name_mr": "",
+    "code": "943011",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554563",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tasgaon",
+    "name_mr": "",
+    "code": "554563",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-942999",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Tasgaon Adiwasiwadi",
+    "name_mr": "",
+    "code": "942999",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554583",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Waki Tarf Nijampur",
+    "name_mr": "",
+    "code": "554583",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943009",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "943009",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-554625",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Warak",
+    "name_mr": "",
+    "code": "554625",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943033",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Warak Adiwasiwadi",
+    "name_mr": "",
+    "code": "943033",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-942997",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Harnewadi (N.V.)",
+    "name_mr": "",
+    "code": "942997",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943012",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Indiranagar (N.V.)",
+    "name_mr": "",
+    "code": "943012",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-944488",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Bahiriwadi (N.V.)",
+    "name_mr": "",
+    "code": "944488",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-944461",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Ekatanagar",
+    "name_mr": "",
+    "code": "944461",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  },
+  {
+    "village_id": "v-943007",
+    "district_id": "raigad",
+    "taluka_id": "mangaon",
+    "name_en": "Somjainagar",
+    "name_mr": "",
+    "code": "943007",
+    "boundary_file": "/data/boundaries/villages/raigad/mangaon.geojson"
+  }
+]

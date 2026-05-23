@@ -1,0 +1,821 @@
+[
+  {
+    "village_id": "v-527378",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Shamkhede",
+    "name_mr": "",
+    "code": "527378",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527361",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Borkhede",
+    "name_mr": "",
+    "code": "527361",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527358",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Waghlud Bk",
+    "name_mr": "",
+    "code": "527358",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527382",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Garkhede",
+    "name_mr": "",
+    "code": "527382",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527368",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Chavalkhede",
+    "name_mr": "",
+    "code": "527368",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527362",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Musai Bk",
+    "name_mr": "",
+    "code": "527362",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527353",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Paldhi Kh",
+    "name_mr": "",
+    "code": "527353",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527332",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Satkhede",
+    "name_mr": "",
+    "code": "527332",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527334",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Nimkhede",
+    "name_mr": "",
+    "code": "527334",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527346",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Avhani",
+    "name_mr": "",
+    "code": "527346",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527329",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pashtane Bk",
+    "name_mr": "",
+    "code": "527329",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527315",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pimpale Bk",
+    "name_mr": "",
+    "code": "527315",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527384",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Gangapuri Bk",
+    "name_mr": "",
+    "code": "527384",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527336",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Hanmantkhede Kh",
+    "name_mr": "",
+    "code": "527336",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527314",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pimpale Kh",
+    "name_mr": "",
+    "code": "527314",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527316",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Kandari Bk",
+    "name_mr": "",
+    "code": "527316",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527350",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Patharad Bk",
+    "name_mr": "",
+    "code": "527350",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527317",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Mahankale",
+    "name_mr": "",
+    "code": "527317",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527360",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Vanjari Bk",
+    "name_mr": "",
+    "code": "527360",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527383",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Babhale Bk",
+    "name_mr": "",
+    "code": "527383",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527386",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Anore",
+    "name_mr": "",
+    "code": "527386",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527352",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Ekalagne Bk",
+    "name_mr": "",
+    "code": "527352",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527354",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bambhori Pr Chandsar",
+    "name_mr": "",
+    "code": "527354",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527367",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pimpri Kh",
+    "name_mr": "",
+    "code": "527367",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527355",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Paldhi Bk",
+    "name_mr": "",
+    "code": "527355",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527366",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Chinchpure Bk",
+    "name_mr": "",
+    "code": "527366",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527376",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bhone Bk",
+    "name_mr": "",
+    "code": "527376",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527365",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Musai Kh",
+    "name_mr": "",
+    "code": "527365",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527369",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bhod Kh",
+    "name_mr": "",
+    "code": "527369",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527303",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Nanded",
+    "name_mr": "",
+    "code": "527303",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527337",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Chorgaon",
+    "name_mr": "",
+    "code": "527337",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527304",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Narne",
+    "name_mr": "",
+    "code": "527304",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527318",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "527318",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527339",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Chandsar Bk",
+    "name_mr": "",
+    "code": "527339",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527338",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Kavthal",
+    "name_mr": "",
+    "code": "527338",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527321",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Nimbhore",
+    "name_mr": "",
+    "code": "527321",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527320",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dahidule",
+    "name_mr": "",
+    "code": "527320",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527305",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Kharde Bk",
+    "name_mr": "",
+    "code": "527305",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527340",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Ladli",
+    "name_mr": "",
+    "code": "527340",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527319",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Chamgaon",
+    "name_mr": "",
+    "code": "527319",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527309",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Rotwad",
+    "name_mr": "",
+    "code": "527309",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527308",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Salve",
+    "name_mr": "",
+    "code": "527308",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527306",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bhamardi",
+    "name_mr": "",
+    "code": "527306",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527326",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Ahire Bk",
+    "name_mr": "",
+    "code": "527326",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527341",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Rel",
+    "name_mr": "",
+    "code": "527341",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527323",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Anjan Vihire",
+    "name_mr": "",
+    "code": "527323",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527307",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Ukhalwadi",
+    "name_mr": "",
+    "code": "527307",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527324",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Waktuki",
+    "name_mr": "",
+    "code": "527324",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527328",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pashtane Kh",
+    "name_mr": "",
+    "code": "527328",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527333",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Zurkheda",
+    "name_mr": "",
+    "code": "527333",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527359",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Khapat",
+    "name_mr": "",
+    "code": "527359",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527335",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pimpale Sim",
+    "name_mr": "",
+    "code": "527335",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527348",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Tahakali Kh",
+    "name_mr": "",
+    "code": "527348",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527385",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dhanore",
+    "name_mr": "",
+    "code": "527385",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527357",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Waghlud Kh",
+    "name_mr": "",
+    "code": "527357",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527347",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bhokani",
+    "name_mr": "",
+    "code": "527347",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527351",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Patharad Kh",
+    "name_mr": "",
+    "code": "527351",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527349",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Fulpat",
+    "name_mr": "",
+    "code": "527349",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527370",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bhod Bk",
+    "name_mr": "",
+    "code": "527370",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527379",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Sarve Kh",
+    "name_mr": "",
+    "code": "527379",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527372",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Kalyane Bk",
+    "name_mr": "",
+    "code": "527372",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527356",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "527356",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527377",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bilkhede",
+    "name_mr": "",
+    "code": "527377",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527363",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Varad Bk",
+    "name_mr": "",
+    "code": "527363",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527371",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Kalyane Kh",
+    "name_mr": "",
+    "code": "527371",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527364",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Varad Kh",
+    "name_mr": "",
+    "code": "527364",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527373",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Kalyane Hol",
+    "name_mr": "",
+    "code": "527373",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527380",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Jambhore",
+    "name_mr": "",
+    "code": "527380",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527387",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bambhori Bk",
+    "name_mr": "",
+    "code": "527387",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527374",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Hingone Kh",
+    "name_mr": "",
+    "code": "527374",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527375",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Hingone Bk",
+    "name_mr": "",
+    "code": "527375",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527388",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Borgaon Bk",
+    "name_mr": "",
+    "code": "527388",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527389",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Vivare",
+    "name_mr": "",
+    "code": "527389",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527322",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Khamkhede",
+    "name_mr": "",
+    "code": "527322",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527325",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Sonwad Bk",
+    "name_mr": "",
+    "code": "527325",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527327",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Ahire Kh",
+    "name_mr": "",
+    "code": "527327",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527342",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dhar",
+    "name_mr": "",
+    "code": "527342",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527345",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dongaon Kh",
+    "name_mr": "",
+    "code": "527345",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527311",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Sakre",
+    "name_mr": "",
+    "code": "527311",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527310",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "527310",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527330",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Tarde Kh",
+    "name_mr": "",
+    "code": "527330",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527331",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Sonwad Kh",
+    "name_mr": "",
+    "code": "527331",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527312",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Nishane Kh",
+    "name_mr": "",
+    "code": "527312",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527344",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dongaon Bk",
+    "name_mr": "",
+    "code": "527344",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527313",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Nishane Bk",
+    "name_mr": "",
+    "code": "527313",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527343",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Sheri",
+    "name_mr": "",
+    "code": "527343",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527390",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Bhavarkhede",
+    "name_mr": "",
+    "code": "527390",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527391",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Borgaon Kh",
+    "name_mr": "",
+    "code": "527391",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-251293",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dharangaon (M Cl)",
+    "name_mr": "",
+    "code": "251293",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-527381",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dharangaon (Rural)",
+    "name_mr": "",
+    "code": "527381",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  },
+  {
+    "village_id": "v-651714",
+    "district_id": "jalgaon",
+    "taluka_id": "dharangaon",
+    "name_en": "Dr.Hedgewar Nagar",
+    "name_mr": "",
+    "code": "651714",
+    "boundary_file": "/data/boundaries/villages/jalgaon/dharangaon.geojson"
+  }
+]

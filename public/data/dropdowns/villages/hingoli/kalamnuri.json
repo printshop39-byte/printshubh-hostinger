@@ -1,0 +1,1379 @@
+[
+  {
+    "village_id": "v-546211",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sapali",
+    "name_mr": "",
+    "code": "546211",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546198",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Yegaon",
+    "name_mr": "",
+    "code": "546198",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546201",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Pimpri Bk.",
+    "name_mr": "",
+    "code": "546201",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546199",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kawadi",
+    "name_mr": "",
+    "code": "546199",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546215",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Krishnapur tarf shewala",
+    "name_mr": "",
+    "code": "546215",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546209",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bibthar",
+    "name_mr": "",
+    "code": "546209",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546182",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bolda",
+    "name_mr": "",
+    "code": "546182",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546186",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Gorlegaon",
+    "name_mr": "",
+    "code": "546186",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546185",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Potra",
+    "name_mr": "",
+    "code": "546185",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546221",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kupti",
+    "name_mr": "",
+    "code": "546221",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546223",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dhardhawanda",
+    "name_mr": "",
+    "code": "546223",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546224",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kille wadgaon",
+    "name_mr": "",
+    "code": "546224",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546214",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Akhada Balapur",
+    "name_mr": "",
+    "code": "546214",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546200",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Shewala",
+    "name_mr": "",
+    "code": "546200",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546222",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Rudrawadi",
+    "name_mr": "",
+    "code": "546222",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546183",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Boldawadi",
+    "name_mr": "",
+    "code": "546183",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546187",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kawada",
+    "name_mr": "",
+    "code": "546187",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546225",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Pethvadgaon",
+    "name_mr": "",
+    "code": "546225",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546216",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Devjana",
+    "name_mr": "",
+    "code": "546216",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546228",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kalyachiwadi",
+    "name_mr": "",
+    "code": "546228",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546164",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Selsura",
+    "name_mr": "",
+    "code": "546164",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546146",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "546146",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546145",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Khaparkheda",
+    "name_mr": "",
+    "code": "546145",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546163",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Hatmali",
+    "name_mr": "",
+    "code": "546163",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546144",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bibgavhan",
+    "name_mr": "",
+    "code": "546144",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546147",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Gaul Ba",
+    "name_mr": "",
+    "code": "546147",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546166",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kalamkonda Kh.",
+    "name_mr": "",
+    "code": "546166",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546150",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Shiwani Bk.",
+    "name_mr": "",
+    "code": "546150",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546165",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jamrun",
+    "name_mr": "",
+    "code": "546165",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546149",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Babhali",
+    "name_mr": "",
+    "code": "546149",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546152",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "546152",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546151",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Zara",
+    "name_mr": "",
+    "code": "546151",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546153",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Palodi",
+    "name_mr": "",
+    "code": "546153",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546168",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Waranga Tarf Nandapur",
+    "name_mr": "",
+    "code": "546168",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546157",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Gholwa",
+    "name_mr": "",
+    "code": "546157",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546167",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Puyana",
+    "name_mr": "",
+    "code": "546167",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546148",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Rahimapur",
+    "name_mr": "",
+    "code": "546148",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546159",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Tuppa",
+    "name_mr": "",
+    "code": "546159",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546196",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Belmanda",
+    "name_mr": "",
+    "code": "546196",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546158",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dhumka",
+    "name_mr": "",
+    "code": "546158",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546160",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Naukha tarf kalamnuri",
+    "name_mr": "",
+    "code": "546160",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546191",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "546191",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546154",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sadas Tarf Nandapur",
+    "name_mr": "",
+    "code": "546154",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546169",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Renapur",
+    "name_mr": "",
+    "code": "546169",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546192",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Arati",
+    "name_mr": "",
+    "code": "546192",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546172",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sodegaon",
+    "name_mr": "",
+    "code": "546172",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546263",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Krishnapur tarf Jawala",
+    "name_mr": "",
+    "code": "546263",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546266",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Hiwara Tarf Jawala",
+    "name_mr": "",
+    "code": "546266",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546117",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Garolyachi Wadi",
+    "name_mr": "",
+    "code": "546117",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546118",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Mahari Bk",
+    "name_mr": "",
+    "code": "546118",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546116",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Khadkad Kh",
+    "name_mr": "",
+    "code": "546116",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546119",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Morwad",
+    "name_mr": "",
+    "code": "546119",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546122",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Mahari Kh",
+    "name_mr": "",
+    "code": "546122",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546120",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kharwad",
+    "name_mr": "",
+    "code": "546120",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546121",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Diggi",
+    "name_mr": "",
+    "code": "546121",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546123",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Morgavhan",
+    "name_mr": "",
+    "code": "546123",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546124",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Takli K",
+    "name_mr": "",
+    "code": "546124",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546135",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dhanora S",
+    "name_mr": "",
+    "code": "546135",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546126",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Mundhal",
+    "name_mr": "",
+    "code": "546126",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546128",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jatalwadi",
+    "name_mr": "",
+    "code": "546128",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546125",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Shenodi",
+    "name_mr": "",
+    "code": "546125",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546127",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Ramwadi",
+    "name_mr": "",
+    "code": "546127",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546136",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "546136",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546134",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kadapdeo",
+    "name_mr": "",
+    "code": "546134",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546132",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sukli Valan",
+    "name_mr": "",
+    "code": "546132",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546137",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dongargaon Naka",
+    "name_mr": "",
+    "code": "546137",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546129",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Masod",
+    "name_mr": "",
+    "code": "546129",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546133",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dholkyachi Wadi",
+    "name_mr": "",
+    "code": "546133",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546138",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Wakodi",
+    "name_mr": "",
+    "code": "546138",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546131",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dhanora J",
+    "name_mr": "",
+    "code": "546131",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546130",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Asolwadi",
+    "name_mr": "",
+    "code": "546130",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546139",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "546139",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546161",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Waspangara",
+    "name_mr": "",
+    "code": "546161",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546140",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "546140",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546162",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Umara",
+    "name_mr": "",
+    "code": "546162",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546143",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Shiwani Kh.",
+    "name_mr": "",
+    "code": "546143",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546141",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Devdari",
+    "name_mr": "",
+    "code": "546141",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546170",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Takalgavhan",
+    "name_mr": "",
+    "code": "546170",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546194",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jaroda",
+    "name_mr": "",
+    "code": "546194",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546171",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "546171",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546204",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Salva",
+    "name_mr": "",
+    "code": "546204",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546173",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Salegaon",
+    "name_mr": "",
+    "code": "546173",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546193",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Narwadi",
+    "name_mr": "",
+    "code": "546193",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546206",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Chichordi",
+    "name_mr": "",
+    "code": "546206",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546156",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kumbharwadi",
+    "name_mr": "",
+    "code": "546156",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546195",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Ghoda",
+    "name_mr": "",
+    "code": "546195",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546197",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Yehelegaon Tukaram",
+    "name_mr": "",
+    "code": "546197",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546155",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Chapnath",
+    "name_mr": "",
+    "code": "546155",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546207",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Digras Tarf Kondur",
+    "name_mr": "",
+    "code": "546207",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546174",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Rupur",
+    "name_mr": "",
+    "code": "546174",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546176",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Nandapur",
+    "name_mr": "",
+    "code": "546176",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546208",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kondhur",
+    "name_mr": "",
+    "code": "546208",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546177",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Harwadi",
+    "name_mr": "",
+    "code": "546177",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546205",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Belthar",
+    "name_mr": "",
+    "code": "546205",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546203",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Yelki",
+    "name_mr": "",
+    "code": "546203",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546202",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kamtha",
+    "name_mr": "",
+    "code": "546202",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546178",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Mhaisgavhan",
+    "name_mr": "",
+    "code": "546178",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546179",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kharvi",
+    "name_mr": "",
+    "code": "546179",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546213",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dongargaon Pul",
+    "name_mr": "",
+    "code": "546213",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546181",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Asola",
+    "name_mr": "",
+    "code": "546181",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546180",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Yelegaon (G)",
+    "name_mr": "",
+    "code": "546180",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546212",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Gangaon",
+    "name_mr": "",
+    "code": "546212",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546210",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kasabe dhawanda",
+    "name_mr": "",
+    "code": "546210",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546226",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Tovha",
+    "name_mr": "",
+    "code": "546226",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546188",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Nimtok",
+    "name_mr": "",
+    "code": "546188",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546229",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kandli",
+    "name_mr": "",
+    "code": "546229",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546190",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sindgi",
+    "name_mr": "",
+    "code": "546190",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546227",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bhurkyachiwadi",
+    "name_mr": "",
+    "code": "546227",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546218",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kanhegaon",
+    "name_mr": "",
+    "code": "546218",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546220",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Ada",
+    "name_mr": "",
+    "code": "546220",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546219",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Pimpri Kh",
+    "name_mr": "",
+    "code": "546219",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546189",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jam",
+    "name_mr": "",
+    "code": "546189",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546240",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Baur",
+    "name_mr": "",
+    "code": "546240",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546241",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Pawanmari",
+    "name_mr": "",
+    "code": "546241",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546242",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Maldhawanda",
+    "name_mr": "",
+    "code": "546242",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546232",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Phutana",
+    "name_mr": "",
+    "code": "546232",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546243",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bothi",
+    "name_mr": "",
+    "code": "546243",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546231",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Datti",
+    "name_mr": "",
+    "code": "546231",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546230",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bhosi",
+    "name_mr": "",
+    "code": "546230",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546239",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Yedsi",
+    "name_mr": "",
+    "code": "546239",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546245",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dandegaon",
+    "name_mr": "",
+    "code": "546245",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546234",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kumbharwadi",
+    "name_mr": "",
+    "code": "546234",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546251",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Chuncha",
+    "name_mr": "",
+    "code": "546251",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546235",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kurtadi",
+    "name_mr": "",
+    "code": "546235",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546244",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Koparwadi",
+    "name_mr": "",
+    "code": "546244",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546236",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Tondapur",
+    "name_mr": "",
+    "code": "546236",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546250",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Waranga phata",
+    "name_mr": "",
+    "code": "546250",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546246",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Rameshwar Tanda",
+    "name_mr": "",
+    "code": "546246",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546237",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Umardarawadi",
+    "name_mr": "",
+    "code": "546237",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546247",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Guldalwadi",
+    "name_mr": "",
+    "code": "546247",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546233",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dabhadi",
+    "name_mr": "",
+    "code": "546233",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546257",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Rameshwar",
+    "name_mr": "",
+    "code": "546257",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546255",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Sukliveer",
+    "name_mr": "",
+    "code": "546255",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546258",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Digras Bk",
+    "name_mr": "",
+    "code": "546258",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546248",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jamgavhan",
+    "name_mr": "",
+    "code": "546248",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546249",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jamgavhan Tanda",
+    "name_mr": "",
+    "code": "546249",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546259",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Salapur",
+    "name_mr": "",
+    "code": "546259",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546256",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Jawala panchal",
+    "name_mr": "",
+    "code": "546256",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546254",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Bhategaon",
+    "name_mr": "",
+    "code": "546254",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546252",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Mahalingi",
+    "name_mr": "",
+    "code": "546252",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546253",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Zunzunwadi",
+    "name_mr": "",
+    "code": "546253",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546260",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Redgaon",
+    "name_mr": "",
+    "code": "546260",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546264",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Dongarkada",
+    "name_mr": "",
+    "code": "546264",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546261",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Wadgaon Tarf Jawala",
+    "name_mr": "",
+    "code": "546261",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546265",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Warud",
+    "name_mr": "",
+    "code": "546265",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546262",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Wasphal",
+    "name_mr": "",
+    "code": "546262",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546184",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Telangwadi",
+    "name_mr": "",
+    "code": "546184",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546238",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Yedsi Tanda",
+    "name_mr": "",
+    "code": "546238",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546175",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Chinchoti",
+    "name_mr": "",
+    "code": "546175",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546217",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Navin Chikhali",
+    "name_mr": "",
+    "code": "546217",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546217N228",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Juni Chikhali",
+    "name_mr": "",
+    "code": "546217N228",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-546142",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kalamnuri",
+    "name_mr": "",
+    "code": "546142",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  },
+  {
+    "village_id": "v-251412",
+    "district_id": "hingoli",
+    "taluka_id": "kalamnuri",
+    "name_en": "Kalamnuri (M Cl)",
+    "name_mr": "",
+    "code": "251412",
+    "boundary_file": "/data/boundaries/villages/hingoli/kalamnuri.geojson"
+  }
+]

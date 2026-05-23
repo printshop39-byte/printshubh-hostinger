@@ -1,0 +1,497 @@
+[
+  {
+    "village_id": "v-544974",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Yellapur",
+    "name_mr": "",
+    "code": "544974",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544977",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Chondi",
+    "name_mr": "",
+    "code": "544977",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544986",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Sharifabad (D)",
+    "name_mr": "",
+    "code": "544986",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544988",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Roshangaon",
+    "name_mr": "",
+    "code": "544988",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544991",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Rameshwar",
+    "name_mr": "",
+    "code": "544991",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544989",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Patoda Kh.",
+    "name_mr": "",
+    "code": "544989",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544990",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Babhali (D)",
+    "name_mr": "",
+    "code": "544990",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544979",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "544979",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545000",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "545000",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544999",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Sirajkhed",
+    "name_mr": "",
+    "code": "544999",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544995",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "544995",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544996",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Belur Bk.",
+    "name_mr": "",
+    "code": "544996",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544992",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Jaflapur",
+    "name_mr": "",
+    "code": "544992",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544957",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "544957",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544956",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Bachegaon",
+    "name_mr": "",
+    "code": "544956",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544958",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "544958",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544959",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Junni",
+    "name_mr": "",
+    "code": "544959",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544965",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Salegaon (D)",
+    "name_mr": "",
+    "code": "544965",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544961",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Yeoti",
+    "name_mr": "",
+    "code": "544961",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544964",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Karkheli",
+    "name_mr": "",
+    "code": "544964",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544960",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Hasnali",
+    "name_mr": "",
+    "code": "544960",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544962",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "544962",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544980",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Yetala",
+    "name_mr": "",
+    "code": "544980",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544966",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "544966",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544963",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Mutnyal (D)",
+    "name_mr": "",
+    "code": "544963",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544967",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Elegaon",
+    "name_mr": "",
+    "code": "544967",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544981",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Bannali",
+    "name_mr": "",
+    "code": "544981",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544973",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "544973",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544969",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Chikna",
+    "name_mr": "",
+    "code": "544969",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544968",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Dhanora Kh.",
+    "name_mr": "",
+    "code": "544968",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544971",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Belgujari",
+    "name_mr": "",
+    "code": "544971",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544972",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Haregaon",
+    "name_mr": "",
+    "code": "544972",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544976",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Cholakha",
+    "name_mr": "",
+    "code": "544976",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544984",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Samrala",
+    "name_mr": "",
+    "code": "544984",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544982",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Gurjawala",
+    "name_mr": "",
+    "code": "544982",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544983",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Atkur",
+    "name_mr": "",
+    "code": "544983",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544975",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Atala",
+    "name_mr": "",
+    "code": "544975",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544970",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Saikhed",
+    "name_mr": "",
+    "code": "544970",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544978",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Jarikot",
+    "name_mr": "",
+    "code": "544978",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544985",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Mangnali",
+    "name_mr": "",
+    "code": "544985",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-251404",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Dharmabad (M CI)",
+    "name_mr": "",
+    "code": "251404",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544987",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Patoda Bk.",
+    "name_mr": "",
+    "code": "544987",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545005",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Patoda Thadi",
+    "name_mr": "",
+    "code": "545005",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545004",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Mashti",
+    "name_mr": "",
+    "code": "545004",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544993",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Naigaon (D)",
+    "name_mr": "",
+    "code": "544993",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544997",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Aloor",
+    "name_mr": "",
+    "code": "544997",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545001",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Vilegaon Thadi (Bk)",
+    "name_mr": "",
+    "code": "545001",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545003",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Shelgaon Thadi",
+    "name_mr": "",
+    "code": "545003",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545002",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Mokali",
+    "name_mr": "",
+    "code": "545002",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544994",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Belur Kh.",
+    "name_mr": "",
+    "code": "544994",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545007",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Bamni",
+    "name_mr": "",
+    "code": "545007",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-544998",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Nerli",
+    "name_mr": "",
+    "code": "544998",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545006",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Chenapur (D)",
+    "name_mr": "",
+    "code": "545006",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545008",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Manur",
+    "name_mr": "",
+    "code": "545008",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  },
+  {
+    "village_id": "v-545009",
+    "district_id": "n-nded",
+    "taluka_id": "dharmabad",
+    "name_en": "Sangam",
+    "name_mr": "",
+    "code": "545009",
+    "boundary_file": "/data/boundaries/villages/n-nded/dharmabad.geojson"
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "village_id": "v-536875",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Narsinhatola",
+    "name_mr": "",
+    "code": "536875",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536822",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kati",
+    "name_mr": "",
+    "code": "536822",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536876",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dewhada Bk.",
+    "name_mr": "",
+    "code": "536876",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536845",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "536845",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536821",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Salebardi",
+    "name_mr": "",
+    "code": "536821",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536844",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Sirsoli",
+    "name_mr": "",
+    "code": "536844",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536834",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "536834",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536878",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Jambhalapani",
+    "name_mr": "",
+    "code": "536878",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536843",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kanhadgaon",
+    "name_mr": "",
+    "code": "536843",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536836",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kushari",
+    "name_mr": "",
+    "code": "536836",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536823",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Pandharabodi",
+    "name_mr": "",
+    "code": "536823",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536877",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Nilaj Bk.",
+    "name_mr": "",
+    "code": "536877",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536880",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mohgaon (Nilaj)",
+    "name_mr": "",
+    "code": "536880",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536846",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "536846",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536801",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Tadgaon",
+    "name_mr": "",
+    "code": "536801",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536799",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "536799",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536797",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Futara",
+    "name_mr": "",
+    "code": "536797",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536802",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Sihari",
+    "name_mr": "",
+    "code": "536802",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536795",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Hivra",
+    "name_mr": "",
+    "code": "536795",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536824",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Takala",
+    "name_mr": "",
+    "code": "536824",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536798",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "536798",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536800",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bitekhari",
+    "name_mr": "",
+    "code": "536800",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536825",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Usara",
+    "name_mr": "",
+    "code": "536825",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536796",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bacchera",
+    "name_mr": "",
+    "code": "536796",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536794",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "536794",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536803",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Salai Kh.",
+    "name_mr": "",
+    "code": "536803",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536806",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dhop",
+    "name_mr": "",
+    "code": "536806",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536807",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Jamb",
+    "name_mr": "",
+    "code": "536807",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536808",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kandri",
+    "name_mr": "",
+    "code": "536808",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536826",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kate Bamhani",
+    "name_mr": "",
+    "code": "536826",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536828",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Tanga",
+    "name_mr": "",
+    "code": "536828",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536805",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Nerla",
+    "name_mr": "",
+    "code": "536805",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536827",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Salai Bk.",
+    "name_mr": "",
+    "code": "536827",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536815",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Sakarla",
+    "name_mr": "",
+    "code": "536815",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536810",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bondri",
+    "name_mr": "",
+    "code": "536810",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536816",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Malida",
+    "name_mr": "",
+    "code": "536816",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536809",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Panjara",
+    "name_mr": "",
+    "code": "536809",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536804",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Paldongari",
+    "name_mr": "",
+    "code": "536804",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536813",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Khairlanji",
+    "name_mr": "",
+    "code": "536813",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536829",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "536829",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536817",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Andhalgaon",
+    "name_mr": "",
+    "code": "536817",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536811",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Ghorpad",
+    "name_mr": "",
+    "code": "536811",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536819",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "536819",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536830",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bhikarkheda",
+    "name_mr": "",
+    "code": "536830",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536812",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dhusala",
+    "name_mr": "",
+    "code": "536812",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536832",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "536832",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536814",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Navegaon",
+    "name_mr": "",
+    "code": "536814",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536874",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dewhada Kh.",
+    "name_mr": "",
+    "code": "536874",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536820",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Siwani",
+    "name_mr": "",
+    "code": "536820",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536833",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "536833",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536818",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "536818",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536831",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dharmapuri",
+    "name_mr": "",
+    "code": "536831",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536879",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Navegaon Bk.",
+    "name_mr": "",
+    "code": "536879",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-276325",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mohadi (NP)",
+    "name_mr": "",
+    "code": "276325",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536842",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Morgaon",
+    "name_mr": "",
+    "code": "536842",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536850",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Chichkheda",
+    "name_mr": "",
+    "code": "536850",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536837",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Roha",
+    "name_mr": "",
+    "code": "536837",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536849",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mandesar",
+    "name_mr": "",
+    "code": "536849",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536847",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Sitepar",
+    "name_mr": "",
+    "code": "536847",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536881",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Nilaj Kh.",
+    "name_mr": "",
+    "code": "536881",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536882",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Usaripar",
+    "name_mr": "",
+    "code": "536882",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536851",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "536851",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536841",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "536841",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536848",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Khut Sawari",
+    "name_mr": "",
+    "code": "536848",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536838",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Yeklara (NP)",
+    "name_mr": "",
+    "code": "536838",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536885",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mundhari Kh.",
+    "name_mr": "",
+    "code": "536885",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536883",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dawadipar (kardi)",
+    "name_mr": "",
+    "code": "536883",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536861",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Chorkhamari",
+    "name_mr": "",
+    "code": "536861",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536853",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "536853",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536884",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kardi",
+    "name_mr": "",
+    "code": "536884",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536886",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mundhari Bk",
+    "name_mr": "",
+    "code": "536886",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536856",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Rohna",
+    "name_mr": "",
+    "code": "536856",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536859",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Boteshwar",
+    "name_mr": "",
+    "code": "536859",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536852",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Khodgaon",
+    "name_mr": "",
+    "code": "536852",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536860",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "536860",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536855",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Betala",
+    "name_mr": "",
+    "code": "536855",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536862",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Khamari Bk",
+    "name_mr": "",
+    "code": "536862",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536854",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Ghatkuroda",
+    "name_mr": "",
+    "code": "536854",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536857",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mohagaon (Devi)",
+    "name_mr": "",
+    "code": "536857",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536866",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Pachgaon",
+    "name_mr": "",
+    "code": "536866",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536858",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dokepar",
+    "name_mr": "",
+    "code": "536858",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536863",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "536863",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536887",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kanhalgaon (Khadki)",
+    "name_mr": "",
+    "code": "536887",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536864",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bhosa",
+    "name_mr": "",
+    "code": "536864",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536865",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "536865",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536890",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kisanpur",
+    "name_mr": "",
+    "code": "536890",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536888",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "536888",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536867",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "536867",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536889",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Jambhora",
+    "name_mr": "",
+    "code": "536889",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536895",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Panjara (Bori)",
+    "name_mr": "",
+    "code": "536895",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536891",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Lendezari (Jambhora)",
+    "name_mr": "",
+    "code": "536891",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536896",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Borgaon(mundhari)",
+    "name_mr": "",
+    "code": "536896",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536897",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dhiwarwada",
+    "name_mr": "",
+    "code": "536897",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536894",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Palora (Jambhora)",
+    "name_mr": "",
+    "code": "536894",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "lonhara-reserved-forest",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "LONHARA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536892",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Yelkazari",
+    "name_mr": "",
+    "code": "536892",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536901",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Warthi (CT)",
+    "name_mr": "",
+    "code": "536901",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536873",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Pahuni",
+    "name_mr": "",
+    "code": "536873",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536868",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Panjara",
+    "name_mr": "",
+    "code": "536868",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536893",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Kesalwada (Jambhora)",
+    "name_mr": "",
+    "code": "536893",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536872",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Mehuni",
+    "name_mr": "",
+    "code": "536872",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536869",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Ekalari",
+    "name_mr": "",
+    "code": "536869",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536899",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "536899",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536898",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Dongardeo",
+    "name_mr": "",
+    "code": "536898",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536870",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bidsitepar",
+    "name_mr": "",
+    "code": "536870",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536871",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Satona",
+    "name_mr": "",
+    "code": "536871",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  },
+  {
+    "village_id": "v-536900",
+    "district_id": "bhandara",
+    "taluka_id": "mohadi",
+    "name_en": "Bonde",
+    "name_mr": "",
+    "code": "536900",
+    "boundary_file": "/data/boundaries/villages/bhandara/mohadi.geojson"
+  }
+]

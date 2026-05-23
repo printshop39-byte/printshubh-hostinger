@@ -1,0 +1,965 @@
+[
+  {
+    "village_id": "v-559913",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Takli Deshmukh",
+    "name_mr": "",
+    "code": "559913",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559915",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Selu",
+    "name_mr": "",
+    "code": "559915",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559916",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Malnathapur",
+    "name_mr": "",
+    "code": "559916",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559958",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Selu-parali",
+    "name_mr": "",
+    "code": "559958",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559959",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "559959",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559914",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Safdarabad",
+    "name_mr": "",
+    "code": "559914",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559922",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Wadkhel",
+    "name_mr": "",
+    "code": "559922",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559923",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Parchundi",
+    "name_mr": "",
+    "code": "559923",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559924",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Pangri",
+    "name_mr": "",
+    "code": "559924",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559917",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Bhilegaon",
+    "name_mr": "",
+    "code": "559917",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559918",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Waghala (Pparli)",
+    "name_mr": "",
+    "code": "559918",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559921",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Tadoli",
+    "name_mr": "",
+    "code": "559921",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559938",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Belamba",
+    "name_mr": "",
+    "code": "559938",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559960",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Wadgaon Dadahari",
+    "name_mr": "",
+    "code": "559960",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559961",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Dagadwadi (N.V.)",
+    "name_mr": "",
+    "code": "559961",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-560058",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Malewadi",
+    "name_mr": "",
+    "code": "560058",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559879",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Pohner",
+    "name_mr": "",
+    "code": "559879",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559878",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "559878",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559880",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Telasmukh",
+    "name_mr": "",
+    "code": "559880",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559882",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kasarwadi",
+    "name_mr": "",
+    "code": "559882",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559883",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Jalgavhan",
+    "name_mr": "",
+    "code": "559883",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559881",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Borkhed",
+    "name_mr": "",
+    "code": "559881",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559884",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Hiwara Govardhan",
+    "name_mr": "",
+    "code": "559884",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559889",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Pimpri Bk",
+    "name_mr": "",
+    "code": "559889",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559885",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "559885",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559890",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Govardhan",
+    "name_mr": "",
+    "code": "559890",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559886",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kaudgaon huda",
+    "name_mr": "",
+    "code": "559886",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559892",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Jaygaon",
+    "name_mr": "",
+    "code": "559892",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559893",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Hasanabad",
+    "name_mr": "",
+    "code": "559893",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559897",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Takli Acharya",
+    "name_mr": "",
+    "code": "559897",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559898",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kaudgaon Ghoda",
+    "name_mr": "",
+    "code": "559898",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559901",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Sirsala",
+    "name_mr": "",
+    "code": "559901",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559894",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Padoli",
+    "name_mr": "",
+    "code": "559894",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559896",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Aurangapur",
+    "name_mr": "",
+    "code": "559896",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559895",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Tapovan",
+    "name_mr": "",
+    "code": "559895",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559899",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kaudgaon sabla",
+    "name_mr": "",
+    "code": "559899",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559910",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Pimpalgaon(Gadhe)",
+    "name_mr": "",
+    "code": "559910",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559900",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kanadi",
+    "name_mr": "",
+    "code": "559900",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559911",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Nathra",
+    "name_mr": "",
+    "code": "559911",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559909",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Rewali",
+    "name_mr": "",
+    "code": "559909",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559908",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Waka",
+    "name_mr": "",
+    "code": "559908",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559925",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kauthali",
+    "name_mr": "",
+    "code": "559925",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559912",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Injegaon",
+    "name_mr": "",
+    "code": "559912",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559939",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Lonarwadi",
+    "name_mr": "",
+    "code": "559939",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559927",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Limbuta",
+    "name_mr": "",
+    "code": "559927",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559928",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "559928",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559903",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Moha",
+    "name_mr": "",
+    "code": "559903",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559920",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Malhivara",
+    "name_mr": "",
+    "code": "559920",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559942",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Wagbet",
+    "name_mr": "",
+    "code": "559942",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559919",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "559919",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559937",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Talegaon (parli)",
+    "name_mr": "",
+    "code": "559937",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559940",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Dautpur",
+    "name_mr": "",
+    "code": "559940",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559904",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kavalyachiwadi",
+    "name_mr": "",
+    "code": "559904",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559931",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Nagpimpri",
+    "name_mr": "",
+    "code": "559931",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559941",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Sangam",
+    "name_mr": "",
+    "code": "559941",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559902",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Karewadi",
+    "name_mr": "",
+    "code": "559902",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559943",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Tokwadi",
+    "name_mr": "",
+    "code": "559943",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559953",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Darawati Tanda (N.V.)",
+    "name_mr": "",
+    "code": "559953",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559930",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Mandekhel",
+    "name_mr": "",
+    "code": "559930",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559907",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Sarfarajpur",
+    "name_mr": "",
+    "code": "559907",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559950",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Vaijwadi",
+    "name_mr": "",
+    "code": "559950",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559933",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Aswalamba",
+    "name_mr": "",
+    "code": "559933",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559949",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Bramhawadi",
+    "name_mr": "",
+    "code": "559949",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559945",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Dabhi",
+    "name_mr": "",
+    "code": "559945",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559905",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Bodhegaon",
+    "name_mr": "",
+    "code": "559905",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559962",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Mirwat",
+    "name_mr": "",
+    "code": "559962",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559963",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kasarwadi",
+    "name_mr": "",
+    "code": "559963",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559944",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Indapwadi",
+    "name_mr": "",
+    "code": "559944",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559906",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Gardewadi",
+    "name_mr": "",
+    "code": "559906",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559934",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Wantakli",
+    "name_mr": "",
+    "code": "559934",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559964",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Nandnaj",
+    "name_mr": "",
+    "code": "559964",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559936",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Daunapur",
+    "name_mr": "",
+    "code": "559936",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559947",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Jirewadi",
+    "name_mr": "",
+    "code": "559947",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559932",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Sonhivra",
+    "name_mr": "",
+    "code": "559932",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559954",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Malkapur (N.V.)",
+    "name_mr": "",
+    "code": "559954",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559965",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Saradgaon",
+    "name_mr": "",
+    "code": "559965",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559967",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Maralwadi",
+    "name_mr": "",
+    "code": "559967",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559955",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kanherwadi",
+    "name_mr": "",
+    "code": "559955",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559966",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Mandava (parli)",
+    "name_mr": "",
+    "code": "559966",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559956",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Bhopla",
+    "name_mr": "",
+    "code": "559956",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559975",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Khodwa Sawargaon",
+    "name_mr": "",
+    "code": "559975",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559968",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Chandapur",
+    "name_mr": "",
+    "code": "559968",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559957",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Devhada",
+    "name_mr": "",
+    "code": "559957",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559952",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Vasantnagar (N.V.)",
+    "name_mr": "",
+    "code": "559952",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559974",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Helamb",
+    "name_mr": "",
+    "code": "559974",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559976",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Daithana Ghat",
+    "name_mr": "",
+    "code": "559976",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559970",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Lendwadi",
+    "name_mr": "",
+    "code": "559970",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559969",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Nandagaul",
+    "name_mr": "",
+    "code": "559969",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559972",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Maindwadi",
+    "name_mr": "",
+    "code": "559972",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559973",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Doundwadi",
+    "name_mr": "",
+    "code": "559973",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559977",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Halamb",
+    "name_mr": "",
+    "code": "559977",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559981",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Dharmapuri",
+    "name_mr": "",
+    "code": "559981",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559982",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Guttewadi",
+    "name_mr": "",
+    "code": "559982",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559980",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Ladzari",
+    "name_mr": "",
+    "code": "559980",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559978",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Nagdara",
+    "name_mr": "",
+    "code": "559978",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559979",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "559979",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559946",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Dabi Tanda (N.V.)",
+    "name_mr": "",
+    "code": "559946",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559971",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Indiranagar (N.V.)",
+    "name_mr": "",
+    "code": "559971",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559935",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Wantaklitanda (N.V.)",
+    "name_mr": "",
+    "code": "559935",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559926",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kauthali Tanda (N.V.)",
+    "name_mr": "",
+    "code": "559926",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559929",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Bhadurwadi (N.V.)",
+    "name_mr": "",
+    "code": "559929",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559888",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Shriramnagar",
+    "name_mr": "",
+    "code": "559888",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559887",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Shrikrushnanagar",
+    "name_mr": "",
+    "code": "559887",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559891",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Kharithanda",
+    "name_mr": "",
+    "code": "559891",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559948",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Jalalpur",
+    "name_mr": "",
+    "code": "559948",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-559951",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Parli (Rural)",
+    "name_mr": "",
+    "code": "559951",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  },
+  {
+    "village_id": "v-251559",
+    "district_id": "beed",
+    "taluka_id": "parli",
+    "name_en": "Parli (M Cl)",
+    "name_mr": "",
+    "code": "251559",
+    "boundary_file": "/data/boundaries/villages/beed/parli.geojson"
+  }
+]

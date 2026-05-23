@@ -1,0 +1,749 @@
+[
+  {
+    "village_id": "v-554908",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Sakalap",
+    "name_mr": "",
+    "code": "554908",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554920",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Dehen",
+    "name_mr": "",
+    "code": "554920",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554921",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Wangani",
+    "name_mr": "",
+    "code": "554921",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554905",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Salvinde",
+    "name_mr": "",
+    "code": "554905",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554919",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Bhekryacha Kond",
+    "name_mr": "",
+    "code": "554919",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554932",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Bhabat",
+    "name_mr": "",
+    "code": "554932",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554924",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Songhar",
+    "name_mr": "",
+    "code": "554924",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554925",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Khamgaon",
+    "name_mr": "",
+    "code": "554925",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554929",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Pashti",
+    "name_mr": "",
+    "code": "554929",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554910",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Jambhul",
+    "name_mr": "",
+    "code": "554910",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554931",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Tamhane Karambe",
+    "name_mr": "",
+    "code": "554931",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554927",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Morvane",
+    "name_mr": "",
+    "code": "554927",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554926",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kanghar",
+    "name_mr": "",
+    "code": "554926",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554909",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Newarul",
+    "name_mr": "",
+    "code": "554909",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554930",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kolvat",
+    "name_mr": "",
+    "code": "554930",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554928",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Warnat",
+    "name_mr": "",
+    "code": "554928",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554942",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Tamhane Shirke",
+    "name_mr": "",
+    "code": "554942",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554941",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Krishnanagar",
+    "name_mr": "",
+    "code": "554941",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554914",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Ghum",
+    "name_mr": "",
+    "code": "554914",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554933",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Rativane",
+    "name_mr": "",
+    "code": "554933",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554934",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kokbal",
+    "name_mr": "",
+    "code": "554934",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554937",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Mandathane",
+    "name_mr": "",
+    "code": "554937",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554940",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Gaulwadi",
+    "name_mr": "",
+    "code": "554940",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554911",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kelte",
+    "name_mr": "",
+    "code": "554911",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554936",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Pandare",
+    "name_mr": "",
+    "code": "554936",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554939",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Wave",
+    "name_mr": "",
+    "code": "554939",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554877",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Adi Thakur",
+    "name_mr": "",
+    "code": "554877",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554879",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Turumbadi",
+    "name_mr": "",
+    "code": "554879",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554878",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Rohinikond",
+    "name_mr": "",
+    "code": "554878",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554880",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kalsuri",
+    "name_mr": "",
+    "code": "554880",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554883",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Waral",
+    "name_mr": "",
+    "code": "554883",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554881",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Gondghar",
+    "name_mr": "",
+    "code": "554881",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554882",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Khanloshi",
+    "name_mr": "",
+    "code": "554882",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554884",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Mendadi",
+    "name_mr": "",
+    "code": "554884",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554891",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kudtudi",
+    "name_mr": "",
+    "code": "554891",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554886",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kandalwada",
+    "name_mr": "",
+    "code": "554886",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554888",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Dagadghoom",
+    "name_mr": "",
+    "code": "554888",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554887",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Nigadi",
+    "name_mr": "",
+    "code": "554887",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554890",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Chichonde",
+    "name_mr": "",
+    "code": "554890",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554885",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Mendadikond",
+    "name_mr": "",
+    "code": "554885",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554889",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Pabhare",
+    "name_mr": "",
+    "code": "554889",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554898",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kharsai",
+    "name_mr": "",
+    "code": "554898",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554892",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Ghonse",
+    "name_mr": "",
+    "code": "554892",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554894",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Deoghar Kond",
+    "name_mr": "",
+    "code": "554894",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554903",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Agarwada",
+    "name_mr": "",
+    "code": "554903",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554895",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Dhoraje",
+    "name_mr": "",
+    "code": "554895",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554893",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Deoghar",
+    "name_mr": "",
+    "code": "554893",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554906",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Tondsure",
+    "name_mr": "",
+    "code": "554906",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554899",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Banoti",
+    "name_mr": "",
+    "code": "554899",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554897",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Khargaon Bk",
+    "name_mr": "",
+    "code": "554897",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554907",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Khargaon KH",
+    "name_mr": "",
+    "code": "554907",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554896",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Surai",
+    "name_mr": "",
+    "code": "554896",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554900",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Revali",
+    "name_mr": "",
+    "code": "554900",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554917",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Sarwar",
+    "name_mr": "",
+    "code": "554917",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554918",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Chikhalap",
+    "name_mr": "",
+    "code": "554918",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554904",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Waravatne",
+    "name_mr": "",
+    "code": "554904",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554922",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Lep",
+    "name_mr": "",
+    "code": "554922",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554916",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Chirgaon",
+    "name_mr": "",
+    "code": "554916",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554923",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Waghav",
+    "name_mr": "",
+    "code": "554923",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554902",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Pedhambe",
+    "name_mr": "",
+    "code": "554902",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-251512",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Mhasla (NP)",
+    "name_mr": "",
+    "code": "251512",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554938",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kharavate",
+    "name_mr": "",
+    "code": "554938",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554943",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Ambet",
+    "name_mr": "",
+    "code": "554943",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554945",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Sanderi",
+    "name_mr": "",
+    "code": "554945",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554944",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Vicharewadi",
+    "name_mr": "",
+    "code": "554944",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554935",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Thakroli",
+    "name_mr": "",
+    "code": "554935",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554950",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Lipni",
+    "name_mr": "",
+    "code": "554950",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554913",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Rudravat",
+    "name_mr": "",
+    "code": "554913",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554951",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kudgaon",
+    "name_mr": "",
+    "code": "554951",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554952",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Pangaloli",
+    "name_mr": "",
+    "code": "554952",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554948",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Mahammad Khanikhar",
+    "name_mr": "",
+    "code": "554948",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554949",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Maryamkhar",
+    "name_mr": "",
+    "code": "554949",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554912",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Panave",
+    "name_mr": "",
+    "code": "554912",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554953",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Toradi",
+    "name_mr": "",
+    "code": "554953",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554947",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Phalasap",
+    "name_mr": "",
+    "code": "554947",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554954",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Sangawad",
+    "name_mr": "",
+    "code": "554954",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554946",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Gadadav (NV)",
+    "name_mr": "",
+    "code": "554946",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554955",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Konzari",
+    "name_mr": "",
+    "code": "554955",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554956",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Bandwadi",
+    "name_mr": "",
+    "code": "554956",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554957",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Talavade",
+    "name_mr": "",
+    "code": "554957",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554958",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Kole",
+    "name_mr": "",
+    "code": "554958",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "v-554959",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "Adimahad Khadi",
+    "name_mr": "",
+    "code": "554959",
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  },
+  {
+    "village_id": "creek",
+    "district_id": "raigad",
+    "taluka_id": "mhasla",
+    "name_en": "CREEK",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/raigad/mhasla.geojson"
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "village_id": "pendhari-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "PENDHARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540973",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kokewada",
+    "name_mr": "",
+    "code": "540973",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540974",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "540974",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540978",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chak Alesur",
+    "name_mr": "",
+    "code": "540978",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540976",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Murpar Gujar",
+    "name_mr": "",
+    "code": "540976",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540975",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Murpar Desh",
+    "name_mr": "",
+    "code": "540975",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "naleshwar-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "NALESHWAR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540979",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Alesur",
+    "name_mr": "",
+    "code": "540979",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540983",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "540983",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540980",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Navargaon",
+    "name_mr": "",
+    "code": "540980",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540977",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Wagholi Rith",
+    "name_mr": "",
+    "code": "540977",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "kachhepar-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "KACHHEPAR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541028",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Palasgaon Jat",
+    "name_mr": "",
+    "code": "541028",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540982",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Delanwadi",
+    "name_mr": "",
+    "code": "540982",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540981",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Dhumankheda",
+    "name_mr": "",
+    "code": "540981",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541015",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Mhasmohan Rith",
+    "name_mr": "",
+    "code": "541015",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541057",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Gunjewahi Kotha",
+    "name_mr": "",
+    "code": "541057",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541056",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Gunjewahi Mal No.1",
+    "name_mr": "",
+    "code": "541056",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541063",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Tayagondi",
+    "name_mr": "",
+    "code": "541063",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541014",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Piparheti",
+    "name_mr": "",
+    "code": "541014",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541019",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Mohali",
+    "name_mr": "",
+    "code": "541019",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541055",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Gunjewahi Mal No.2",
+    "name_mr": "",
+    "code": "541055",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541022",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kalamgaon Tukum",
+    "name_mr": "",
+    "code": "541022",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541059",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Ghot",
+    "name_mr": "",
+    "code": "541059",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541065",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Murmadi",
+    "name_mr": "",
+    "code": "541065",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541068",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Murpar Tukum",
+    "name_mr": "",
+    "code": "541068",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541021",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Naleshwar",
+    "name_mr": "",
+    "code": "541021",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541020",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chak Sakharampur",
+    "name_mr": "",
+    "code": "541020",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541067",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Pimpaldand Chak",
+    "name_mr": "",
+    "code": "541067",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541069",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Murpar Gaonganna",
+    "name_mr": "",
+    "code": "541069",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541024",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kukudtheti",
+    "name_mr": "",
+    "code": "541024",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541066",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Saradpar",
+    "name_mr": "",
+    "code": "541066",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541086",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Mangli Chak",
+    "name_mr": "",
+    "code": "541086",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541023",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kalamgaon Gaonganna",
+    "name_mr": "",
+    "code": "541023",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541070",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chitki",
+    "name_mr": "",
+    "code": "541070",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541071",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Govindpur Chak",
+    "name_mr": "",
+    "code": "541071",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541085",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chikmara",
+    "name_mr": "",
+    "code": "541085",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541072",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Navegaon Chak",
+    "name_mr": "",
+    "code": "541072",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541074",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Virwha",
+    "name_mr": "",
+    "code": "541074",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541076",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Itoli",
+    "name_mr": "",
+    "code": "541076",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541087",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Tambegadi Mendha",
+    "name_mr": "",
+    "code": "541087",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541084",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Lonkhairi Tukum",
+    "name_mr": "",
+    "code": "541084",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541083",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Navegaon Tola",
+    "name_mr": "",
+    "code": "541083",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541082",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Navegaon Lon",
+    "name_mr": "",
+    "code": "541082",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541073",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Saradpar Chak",
+    "name_mr": "",
+    "code": "541073",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541075",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Bamani Chak",
+    "name_mr": "",
+    "code": "541075",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541077",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Bamanimal",
+    "name_mr": "",
+    "code": "541077",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541080",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Petgaon",
+    "name_mr": "",
+    "code": "541080",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541081",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Lonkhairi Panbuda",
+    "name_mr": "",
+    "code": "541081",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541079",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Khateramal",
+    "name_mr": "",
+    "code": "541079",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541078",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Khatera Chak",
+    "name_mr": "",
+    "code": "541078",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541027",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Pangadi",
+    "name_mr": "",
+    "code": "541027",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540987",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "540987",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541030",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Dongargaon Salodkar",
+    "name_mr": "",
+    "code": "541030",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540989",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Sarandi",
+    "name_mr": "",
+    "code": "540989",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541029",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Yergaon",
+    "name_mr": "",
+    "code": "541029",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540988",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Purkepar",
+    "name_mr": "",
+    "code": "540988",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540990",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "540990",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540996",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "540996",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540984",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chikhal Minghari",
+    "name_mr": "",
+    "code": "540984",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541033",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chargaon Badge",
+    "name_mr": "",
+    "code": "541033",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541034",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Bhendala",
+    "name_mr": "",
+    "code": "541034",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540991",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Parna",
+    "name_mr": "",
+    "code": "540991",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541031",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kachhepar Rai",
+    "name_mr": "",
+    "code": "541031",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540997",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Minghari",
+    "name_mr": "",
+    "code": "540997",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540986",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Nachan Bhatti",
+    "name_mr": "",
+    "code": "540986",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541032",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Hajari Chak",
+    "name_mr": "",
+    "code": "541032",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541035",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Khatgaon",
+    "name_mr": "",
+    "code": "541035",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540992",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Sirkada",
+    "name_mr": "",
+    "code": "540992",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541037",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Mendhamal Gujari",
+    "name_mr": "",
+    "code": "541037",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541038",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Mendha Chak",
+    "name_mr": "",
+    "code": "541038",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541041",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Samda Kh",
+    "name_mr": "",
+    "code": "541041",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541046",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Gadmaushi Chak",
+    "name_mr": "",
+    "code": "541046",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540995",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Utichak",
+    "name_mr": "",
+    "code": "540995",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540994",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Utinajik Ratnapur",
+    "name_mr": "",
+    "code": "540994",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540993",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kukasi Rith",
+    "name_mr": "",
+    "code": "540993",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541036",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Ladbori",
+    "name_mr": "",
+    "code": "541036",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541039",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kargata",
+    "name_mr": "",
+    "code": "541039",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540985",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Tekari Alias Antargaon",
+    "name_mr": "",
+    "code": "540985",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541040",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Tekari Tukum",
+    "name_mr": "",
+    "code": "541040",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541002",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Utimal",
+    "name_mr": "",
+    "code": "541002",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540998",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Dewada",
+    "name_mr": "",
+    "code": "540998",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541001",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Umarwahi",
+    "name_mr": "",
+    "code": "541001",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541003",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Shivni",
+    "name_mr": "",
+    "code": "541003",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541000",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Shankarpur",
+    "name_mr": "",
+    "code": "541000",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-540999",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Powan Bori",
+    "name_mr": "",
+    "code": "540999",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541044",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Powanpar",
+    "name_mr": "",
+    "code": "541044",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541005",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Gadbori",
+    "name_mr": "",
+    "code": "541005",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541042",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "541042",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541006",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Ramala",
+    "name_mr": "",
+    "code": "541006",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541010",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Lalchichbodi",
+    "name_mr": "",
+    "code": "541010",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541045",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Powana Chak",
+    "name_mr": "",
+    "code": "541045",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541004",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Wasera",
+    "name_mr": "",
+    "code": "541004",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541007",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Waneri",
+    "name_mr": "",
+    "code": "541007",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-276362",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Sindewahi-Lonwahi (NP)",
+    "name_mr": "",
+    "code": "276362",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541054",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Khairi Chak",
+    "name_mr": "",
+    "code": "541054",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541051",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Jatlapur",
+    "name_mr": "",
+    "code": "541051",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541053",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Sawargata Chak",
+    "name_mr": "",
+    "code": "541053",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541018",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Tekari alias Waneri",
+    "name_mr": "",
+    "code": "541018",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541017",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Wakal",
+    "name_mr": "",
+    "code": "541017",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541016",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Jamsala",
+    "name_mr": "",
+    "code": "541016",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541009",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Katangdhar",
+    "name_mr": "",
+    "code": "541009",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541008",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Tembharun Bodi",
+    "name_mr": "",
+    "code": "541008",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541062",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "541062",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541011",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Singadzari",
+    "name_mr": "",
+    "code": "541011",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541012",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Pandharwani",
+    "name_mr": "",
+    "code": "541012",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541061",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Maregaon Tukum",
+    "name_mr": "",
+    "code": "541061",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541043",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Saradpar Rith",
+    "name_mr": "",
+    "code": "541043",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541060",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Maregaon Chak",
+    "name_mr": "",
+    "code": "541060",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541013",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Karwa",
+    "name_mr": "",
+    "code": "541013",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541058",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Khari Golkar",
+    "name_mr": "",
+    "code": "541058",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541064",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "541064",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541025",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Mohabodi",
+    "name_mr": "",
+    "code": "541025",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  },
+  {
+    "village_id": "v-541026",
+    "district_id": "chandrapur",
+    "taluka_id": "sindewahi",
+    "name_en": "Chak Kukadheti",
+    "name_mr": "",
+    "code": "541026",
+    "boundary_file": "/data/boundaries/villages/chandrapur/sindewahi.geojson"
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "village_id": "v-533375",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Pipla",
+    "name_mr": "",
+    "code": "533375",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533374",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Kopra",
+    "name_mr": "",
+    "code": "533374",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533376",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Pagapur",
+    "name_mr": "",
+    "code": "533376",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533377",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sawanga",
+    "name_mr": "",
+    "code": "533377",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533378",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Thadi",
+    "name_mr": "",
+    "code": "533378",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533379",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "533379",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533397",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Umarkheda",
+    "name_mr": "",
+    "code": "533397",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533396",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bhadkumbh",
+    "name_mr": "",
+    "code": "533396",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533380",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Wardhapur",
+    "name_mr": "",
+    "code": "533380",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533384",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "533384",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533382",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rambhapur",
+    "name_mr": "",
+    "code": "533382",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533385",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Drugwada",
+    "name_mr": "",
+    "code": "533385",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533381",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rohna",
+    "name_mr": "",
+    "code": "533381",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533383",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "533383",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533386",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Salora",
+    "name_mr": "",
+    "code": "533386",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533388",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Tarasawanga",
+    "name_mr": "",
+    "code": "533388",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533387",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Shiwapur",
+    "name_mr": "",
+    "code": "533387",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533390",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sahur",
+    "name_mr": "",
+    "code": "533390",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533395",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Nagazari",
+    "name_mr": "",
+    "code": "533395",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533389",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rudrapur",
+    "name_mr": "",
+    "code": "533389",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533393",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Satnur",
+    "name_mr": "",
+    "code": "533393",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533398",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rashidpur",
+    "name_mr": "",
+    "code": "533398",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533400",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "533400",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533407",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Peth",
+    "name_mr": "",
+    "code": "533407",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533394",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sattarpur",
+    "name_mr": "",
+    "code": "533394",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533391",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Milanpur",
+    "name_mr": "",
+    "code": "533391",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533392",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Tumni",
+    "name_mr": "",
+    "code": "533392",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533406",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Jamgaon",
+    "name_mr": "",
+    "code": "533406",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533408",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Chichkumbh",
+    "name_mr": "",
+    "code": "533408",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533399",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Shiri",
+    "name_mr": "",
+    "code": "533399",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533403",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "533403",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533401",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Gavala",
+    "name_mr": "",
+    "code": "533401",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-154",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533409",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "533409",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533404",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Zadgaon",
+    "name_mr": "",
+    "code": "533404",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533405",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "533405",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "moi-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "MOI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533402",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ajitpur",
+    "name_mr": "",
+    "code": "533402",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533415",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ghatsur",
+    "name_mr": "",
+    "code": "533415",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533412",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Dhadi",
+    "name_mr": "",
+    "code": "533412",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533410",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Manikwada",
+    "name_mr": "",
+    "code": "533410",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533411",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Lakhanwada",
+    "name_mr": "",
+    "code": "533411",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533416",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Nandora",
+    "name_mr": "",
+    "code": "533416",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533417",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Allipur",
+    "name_mr": "",
+    "code": "533417",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533445",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Kolhakali",
+    "name_mr": "",
+    "code": "533445",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533413",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Panchala",
+    "name_mr": "",
+    "code": "533413",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533418",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Husnabad",
+    "name_mr": "",
+    "code": "533418",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533419",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Husnabad",
+    "name_mr": "",
+    "code": "533419",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533420",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ahmadpur",
+    "name_mr": "",
+    "code": "533420",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533414",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Porgavhan",
+    "name_mr": "",
+    "code": "533414",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533444",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Kakaddara",
+    "name_mr": "",
+    "code": "533444",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533426",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Pilapur",
+    "name_mr": "",
+    "code": "533426",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533425",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Subda",
+    "name_mr": "",
+    "code": "533425",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533421",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Kashimpur",
+    "name_mr": "",
+    "code": "533421",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533427",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Yenada",
+    "name_mr": "",
+    "code": "533427",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533424",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Jolwadi",
+    "name_mr": "",
+    "code": "533424",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533443",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "533443",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533442",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Pandhurna",
+    "name_mr": "",
+    "code": "533442",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533422",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Belora Bk.",
+    "name_mr": "",
+    "code": "533422",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533423",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "533423",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533446",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Thekakolha",
+    "name_mr": "",
+    "code": "533446",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533440",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Yenada",
+    "name_mr": "",
+    "code": "533440",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533439",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Vithalapur",
+    "name_mr": "",
+    "code": "533439",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533428",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Delwadi",
+    "name_mr": "",
+    "code": "533428",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533429",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Khambit",
+    "name_mr": "",
+    "code": "533429",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533450",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Abadkinhi",
+    "name_mr": "",
+    "code": "533450",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533441",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "533441",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533447",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Thekamoi",
+    "name_mr": "",
+    "code": "533447",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533457",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Moi",
+    "name_mr": "",
+    "code": "533457",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533435",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Lingapur",
+    "name_mr": "",
+    "code": "533435",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533436",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Lahan Arvi",
+    "name_mr": "",
+    "code": "533436",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533430",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ambikapur",
+    "name_mr": "",
+    "code": "533430",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533448",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Check Kinhi",
+    "name_mr": "",
+    "code": "533448",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-155",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533438",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sujatpur",
+    "name_mr": "",
+    "code": "533438",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533431",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Antora",
+    "name_mr": "",
+    "code": "533431",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533458",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Mubarakpur",
+    "name_mr": "",
+    "code": "533458",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533449",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Theka Kinhi",
+    "name_mr": "",
+    "code": "533449",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533464",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Peth Ahmadpur",
+    "name_mr": "",
+    "code": "533464",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533434",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Jamaratpur",
+    "name_mr": "",
+    "code": "533434",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533456",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Karola",
+    "name_mr": "",
+    "code": "533456",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533451",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Palsona",
+    "name_mr": "",
+    "code": "533451",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533437",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Jaitapur",
+    "name_mr": "",
+    "code": "533437",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533463",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Jatashankar",
+    "name_mr": "",
+    "code": "533463",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533452",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Thar",
+    "name_mr": "",
+    "code": "533452",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533455",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "533455",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533460",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "533460",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533461",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "533461",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533462",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Chekbandi",
+    "name_mr": "",
+    "code": "533462",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533459",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "533459",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533467",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rasulpur",
+    "name_mr": "",
+    "code": "533467",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533454",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Wadi",
+    "name_mr": "",
+    "code": "533454",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533453",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Chamala",
+    "name_mr": "",
+    "code": "533453",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533473",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Dalapatpur",
+    "name_mr": "",
+    "code": "533473",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533471",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sundarpur",
+    "name_mr": "",
+    "code": "533471",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533470",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Mubarakpur",
+    "name_mr": "",
+    "code": "533470",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533480",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "533480",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533472",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Yashwantpur",
+    "name_mr": "",
+    "code": "533472",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533478",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "533478",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533475",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sirsoli",
+    "name_mr": "",
+    "code": "533475",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533477",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bramhanwada",
+    "name_mr": "",
+    "code": "533477",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533485",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bambarda",
+    "name_mr": "",
+    "code": "533485",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "sindhiri-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "SINDHIRI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533484",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Nagazari",
+    "name_mr": "",
+    "code": "533484",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533474",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Munimpur",
+    "name_mr": "",
+    "code": "533474",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533476",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "533476",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533479",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sherpur",
+    "name_mr": "",
+    "code": "533479",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533491",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Narsapur",
+    "name_mr": "",
+    "code": "533491",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533486",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Shekapur",
+    "name_mr": "",
+    "code": "533486",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533494",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Tekoda",
+    "name_mr": "",
+    "code": "533494",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533492",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ismailpur",
+    "name_mr": "",
+    "code": "533492",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533498",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sirkutni",
+    "name_mr": "",
+    "code": "533498",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533490",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Jamalpur",
+    "name_mr": "",
+    "code": "533490",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533489",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sujatpur",
+    "name_mr": "",
+    "code": "533489",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533493",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Godri",
+    "name_mr": "",
+    "code": "533493",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533497",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "533497",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533499",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Chichkumbha",
+    "name_mr": "",
+    "code": "533499",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533500",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Mamdapur",
+    "name_mr": "",
+    "code": "533500",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533510",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Indarmari",
+    "name_mr": "",
+    "code": "533510",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533496",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Rampuri",
+    "name_mr": "",
+    "code": "533496",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533495",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bharaswada",
+    "name_mr": "",
+    "code": "533495",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533509",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Junona",
+    "name_mr": "",
+    "code": "533509",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533512",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "533512",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533501",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Deogaon",
+    "name_mr": "",
+    "code": "533501",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533511",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Aloda",
+    "name_mr": "",
+    "code": "533511",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533502",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Daulatpur",
+    "name_mr": "",
+    "code": "533502",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533508",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Abdalpur",
+    "name_mr": "",
+    "code": "533508",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533513",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Durgapur",
+    "name_mr": "",
+    "code": "533513",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533507",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "533507",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533504",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Nababpur",
+    "name_mr": "",
+    "code": "533504",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533503",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bhishnur",
+    "name_mr": "",
+    "code": "533503",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533505",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sonapur",
+    "name_mr": "",
+    "code": "533505",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533514",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "533514",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533506",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ajitpur",
+    "name_mr": "",
+    "code": "533506",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533516",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sayyadpur",
+    "name_mr": "",
+    "code": "533516",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533515",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Tembha [heti]",
+    "name_mr": "",
+    "code": "533515",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533517",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Chistur",
+    "name_mr": "",
+    "code": "533517",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533520",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Sakindapur",
+    "name_mr": "",
+    "code": "533520",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533518",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Bodnapur",
+    "name_mr": "",
+    "code": "533518",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533525",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Dautpur",
+    "name_mr": "",
+    "code": "533525",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533526",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ranwadi",
+    "name_mr": "",
+    "code": "533526",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533519",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Afzalpur",
+    "name_mr": "",
+    "code": "533519",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533527",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Antapur",
+    "name_mr": "",
+    "code": "533527",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533531",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Khadaka",
+    "name_mr": "",
+    "code": "533531",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533529",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Mahadapur",
+    "name_mr": "",
+    "code": "533529",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533528",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Hariswada",
+    "name_mr": "",
+    "code": "533528",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533530",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Belora Kh.",
+    "name_mr": "",
+    "code": "533530",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533432",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Navin Antora",
+    "name_mr": "",
+    "code": "533432",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533433",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Manik Nagar",
+    "name_mr": "",
+    "code": "533433",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533523",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Kakaddara",
+    "name_mr": "",
+    "code": "533523",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533521",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ramdara",
+    "name_mr": "",
+    "code": "533521",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533524",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Navin Kakaddara",
+    "name_mr": "",
+    "code": "533524",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533522",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Nvain Ramdara",
+    "name_mr": "",
+    "code": "533522",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-533466",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Navin Ashti",
+    "name_mr": "",
+    "code": "533466",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  },
+  {
+    "village_id": "v-276380",
+    "district_id": "wardha",
+    "taluka_id": "ashti",
+    "name_en": "Ashti (NP)",
+    "name_mr": "",
+    "code": "276380",
+    "boundary_file": "/data/boundaries/villages/wardha/ashti.geojson"
+  }
+]

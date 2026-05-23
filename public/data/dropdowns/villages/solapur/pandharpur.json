@@ -1,0 +1,947 @@
+[
+  {
+    "village_id": "v-562295",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kanhapuri",
+    "name_mr": "",
+    "code": "562295",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562298",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Jaloli",
+    "name_mr": "",
+    "code": "562298",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562297",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Umbare",
+    "name_mr": "",
+    "code": "562297",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562296",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Karole",
+    "name_mr": "",
+    "code": "562296",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562299",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Sangavi",
+    "name_mr": "",
+    "code": "562299",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562311",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bardi",
+    "name_mr": "",
+    "code": "562311",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562300",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Badalkot",
+    "name_mr": "",
+    "code": "562300",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562301",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Nematwadi",
+    "name_mr": "",
+    "code": "562301",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562302",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Pehe",
+    "name_mr": "",
+    "code": "562302",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562312",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kharatwadi",
+    "name_mr": "",
+    "code": "562312",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562315",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bhose",
+    "name_mr": "",
+    "code": "562315",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562303",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Nandore",
+    "name_mr": "",
+    "code": "562303",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562313",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "562313",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562304",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Avhe",
+    "name_mr": "",
+    "code": "562304",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562314",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Pandharewadi",
+    "name_mr": "",
+    "code": "562314",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562317",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shevate",
+    "name_mr": "",
+    "code": "562317",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562324",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Mendhapur",
+    "name_mr": "",
+    "code": "562324",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562354",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ropale",
+    "name_mr": "",
+    "code": "562354",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562306",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Patvardhan Kuroli",
+    "name_mr": "",
+    "code": "562306",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562305",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Taratgaon (Bhose)",
+    "name_mr": "",
+    "code": "562305",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562323",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Chilaiwadi",
+    "name_mr": "",
+    "code": "562323",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562318",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Devade",
+    "name_mr": "",
+    "code": "562318",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562319",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Khed Bhose",
+    "name_mr": "",
+    "code": "562319",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562355",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "562355",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562356",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Tungat",
+    "name_mr": "",
+    "code": "562356",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562344",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kauthali",
+    "name_mr": "",
+    "code": "562344",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562330",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Khed Bhalawani",
+    "name_mr": "",
+    "code": "562330",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562329",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shelve",
+    "name_mr": "",
+    "code": "562329",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562309",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Wadi Kuroli",
+    "name_mr": "",
+    "code": "562309",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562357",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Narayan Chincholi",
+    "name_mr": "",
+    "code": "562357",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562333",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Keskarwadi",
+    "name_mr": "",
+    "code": "562333",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562364",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ishwar Wathar",
+    "name_mr": "",
+    "code": "562364",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562358",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Adhiv",
+    "name_mr": "",
+    "code": "562358",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562380",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Magarwadi",
+    "name_mr": "",
+    "code": "562380",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562361",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "562361",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562334",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shendgewadi",
+    "name_mr": "",
+    "code": "562334",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562325",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Venunagar",
+    "name_mr": "",
+    "code": "562325",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562365",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Suste",
+    "name_mr": "",
+    "code": "562365",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562331",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bhandi Shegaon",
+    "name_mr": "",
+    "code": "562331",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562332",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "562332",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562381",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Tarapur",
+    "name_mr": "",
+    "code": "562381",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562335",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bhalawani",
+    "name_mr": "",
+    "code": "562335",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562345",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shirthon",
+    "name_mr": "",
+    "code": "562345",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562346",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Wakhari",
+    "name_mr": "",
+    "code": "562346",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562382",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Fulchincholi",
+    "name_mr": "",
+    "code": "562382",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562359",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bhatumbare",
+    "name_mr": "",
+    "code": "562359",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562328",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Chincholi Bhose",
+    "name_mr": "",
+    "code": "562328",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562384",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Chale",
+    "name_mr": "",
+    "code": "562384",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562362",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ajansond",
+    "name_mr": "",
+    "code": "562362",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562360",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shegaon Dumala",
+    "name_mr": "",
+    "code": "562360",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562366",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Mundhewadi",
+    "name_mr": "",
+    "code": "562366",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562337",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Supli",
+    "name_mr": "",
+    "code": "562337",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-297006",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Pandharpur (M CI)",
+    "name_mr": "",
+    "code": "297006",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562336",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Jainwadi",
+    "name_mr": "",
+    "code": "562336",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562389",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Puluj",
+    "name_mr": "",
+    "code": "562389",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562338",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Upari",
+    "name_mr": "",
+    "code": "562338",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562383",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kharsoli",
+    "name_mr": "",
+    "code": "562383",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562351",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "562351",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562339",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Palshi",
+    "name_mr": "",
+    "code": "562339",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562388",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Vite",
+    "name_mr": "",
+    "code": "562388",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562367",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "562367",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562385",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kondharki",
+    "name_mr": "",
+    "code": "562385",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562386",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ambe",
+    "name_mr": "",
+    "code": "562386",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562350",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Korty",
+    "name_mr": "",
+    "code": "562350",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562387",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Pohargaon",
+    "name_mr": "",
+    "code": "562387",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562349",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "562349",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562340",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Gardi",
+    "name_mr": "",
+    "code": "562340",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562390",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Pulujwadi",
+    "name_mr": "",
+    "code": "562390",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562369",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ranzani",
+    "name_mr": "",
+    "code": "562369",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562368",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Anawali",
+    "name_mr": "",
+    "code": "562368",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562394",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Sarkoli",
+    "name_mr": "",
+    "code": "562394",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562343",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Sonke",
+    "name_mr": "",
+    "code": "562343",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562391",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shankargaon",
+    "name_mr": "",
+    "code": "562391",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562341",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Lonarwadi",
+    "name_mr": "",
+    "code": "562341",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562393",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ambechincholi",
+    "name_mr": "",
+    "code": "562393",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562352",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bohali",
+    "name_mr": "",
+    "code": "562352",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562392",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Nali",
+    "name_mr": "",
+    "code": "562392",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562396",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Nepatgaon",
+    "name_mr": "",
+    "code": "562396",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562342",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Tisangi",
+    "name_mr": "",
+    "code": "562342",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562395",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ozewadi",
+    "name_mr": "",
+    "code": "562395",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562370",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Taratgaon Kasegaon",
+    "name_mr": "",
+    "code": "562370",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562371",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "562371",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562374",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Eklaspur",
+    "name_mr": "",
+    "code": "562374",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562353",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Umbargaon",
+    "name_mr": "",
+    "code": "562353",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562376",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Khardi",
+    "name_mr": "",
+    "code": "562376",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562372",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Siddhewadi",
+    "name_mr": "",
+    "code": "562372",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562373",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Chinchumbe",
+    "name_mr": "",
+    "code": "562373",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562379",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Tavashi",
+    "name_mr": "",
+    "code": "562379",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562378",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Tanali",
+    "name_mr": "",
+    "code": "562378",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562377",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Shetphal",
+    "name_mr": "",
+    "code": "562377",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562316",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Sugavabhose",
+    "name_mr": "",
+    "code": "562316",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562307",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ujani",
+    "name_mr": "",
+    "code": "562307",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562363",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Bitargaon",
+    "name_mr": "",
+    "code": "562363",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562321",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Hole",
+    "name_mr": "",
+    "code": "562321",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562326",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Gurasale",
+    "name_mr": "",
+    "code": "562326",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562322",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Ajote",
+    "name_mr": "",
+    "code": "562322",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562320",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Sugavakhurd",
+    "name_mr": "",
+    "code": "562320",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562327",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Takaligurasala",
+    "name_mr": "",
+    "code": "562327",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562310N454",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Karkamb - 2",
+    "name_mr": "",
+    "code": "562310N454",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562310",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Karkamb",
+    "name_mr": "",
+    "code": "562310",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562375",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kasegaon",
+    "name_mr": "",
+    "code": "562375",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-654888",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Kasegaon - 2",
+    "name_mr": "",
+    "code": "654888",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562308",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Pirachi Kuroli",
+    "name_mr": "",
+    "code": "562308",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-946149",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Chinchani",
+    "name_mr": "",
+    "code": "946149",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  },
+  {
+    "village_id": "v-562348",
+    "district_id": "solapur",
+    "taluka_id": "pandharpur",
+    "name_en": "Sharadrenagar(N.V.)",
+    "name_mr": "",
+    "code": "562348",
+    "boundary_file": "/data/boundaries/villages/solapur/pandharpur.geojson"
+  }
+]

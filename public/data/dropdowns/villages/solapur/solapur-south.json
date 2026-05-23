@@ -1,0 +1,830 @@
+[
+  {
+    "village_id": "v-562773",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Gavadewadi",
+    "name_mr": "",
+    "code": "562773",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562727",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Achegaon",
+    "name_mr": "",
+    "code": "562727",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562775",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Antroli",
+    "name_mr": "",
+    "code": "562775",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562738",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Madre",
+    "name_mr": "",
+    "code": "562738",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562740",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Hipale",
+    "name_mr": "",
+    "code": "562740",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562747",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kanbas",
+    "name_mr": "",
+    "code": "562747",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562743",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Rajur",
+    "name_mr": "",
+    "code": "562743",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562780",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Bhandar Kavade",
+    "name_mr": "",
+    "code": "562780",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562755",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Aurad",
+    "name_mr": "",
+    "code": "562755",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562745",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Bankalgi",
+    "name_mr": "",
+    "code": "562745",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562779",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Telgaon Mandrup",
+    "name_mr": "",
+    "code": "562779",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562744",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Sanjwad",
+    "name_mr": "",
+    "code": "562744",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562749",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Shirval",
+    "name_mr": "",
+    "code": "562749",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562757",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Nandani",
+    "name_mr": "",
+    "code": "562757",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562759",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Malkavathe",
+    "name_mr": "",
+    "code": "562759",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562765",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Bandalgi",
+    "name_mr": "",
+    "code": "562765",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562786",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Sadepur",
+    "name_mr": "",
+    "code": "562786",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562785",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Lavangi",
+    "name_mr": "",
+    "code": "562785",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562718",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Togarali",
+    "name_mr": "",
+    "code": "562718",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562722",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Dindur",
+    "name_mr": "",
+    "code": "562722",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562769",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Gunjegaon",
+    "name_mr": "",
+    "code": "562769",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562721",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Chinoholi",
+    "name_mr": "",
+    "code": "562721",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562733",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Hotgi",
+    "name_mr": "",
+    "code": "562733",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562731",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Yetnal",
+    "name_mr": "",
+    "code": "562731",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562719",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Gurdehalli",
+    "name_mr": "",
+    "code": "562719",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562770",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Akole Mandrup",
+    "name_mr": "",
+    "code": "562770",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562724",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Valsang",
+    "name_mr": "",
+    "code": "562724",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562725",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Hanamgaon",
+    "name_mr": "",
+    "code": "562725",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562771",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Mangoli",
+    "name_mr": "",
+    "code": "562771",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562734",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Savatkhed",
+    "name_mr": "",
+    "code": "562734",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562735",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Hatur",
+    "name_mr": "",
+    "code": "562735",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562774",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kandalgaon",
+    "name_mr": "",
+    "code": "562774",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562736",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Ghodatanda",
+    "name_mr": "",
+    "code": "562736",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562726",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Shingadgaon",
+    "name_mr": "",
+    "code": "562726",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562739",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Hotgi Station",
+    "name_mr": "",
+    "code": "562739",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562772",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Wangi",
+    "name_mr": "",
+    "code": "562772",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562732",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Phatatewadi",
+    "name_mr": "",
+    "code": "562732",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562697",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Gangewadi",
+    "name_mr": "",
+    "code": "562697",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562698",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kasegaon",
+    "name_mr": "",
+    "code": "562698",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562699",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Ule",
+    "name_mr": "",
+    "code": "562699",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562709",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "562709",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562700",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Ulewadi",
+    "name_mr": "",
+    "code": "562700",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562708",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Pinjarwadi",
+    "name_mr": "",
+    "code": "562708",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562707",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Boramani",
+    "name_mr": "",
+    "code": "562707",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562701",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Wadji",
+    "name_mr": "",
+    "code": "562701",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562711",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Musti",
+    "name_mr": "",
+    "code": "562711",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562702",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Waralegaon",
+    "name_mr": "",
+    "code": "562702",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562703",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "(Baxi) Hipparge",
+    "name_mr": "",
+    "code": "562703",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562710",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Sangdari",
+    "name_mr": "",
+    "code": "562710",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562706",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Doddi",
+    "name_mr": "",
+    "code": "562706",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562704",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Mulegaon Tanda",
+    "name_mr": "",
+    "code": "562704",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562714",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Dhotri",
+    "name_mr": "",
+    "code": "562714",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562712",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Darganhalli",
+    "name_mr": "",
+    "code": "562712",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562705",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Mulegaon",
+    "name_mr": "",
+    "code": "562705",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562713",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Shirpanhalli",
+    "name_mr": "",
+    "code": "562713",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562717",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kandehalli",
+    "name_mr": "",
+    "code": "562717",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562715",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "562715",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562720",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "562720",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562723",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Tirth",
+    "name_mr": "",
+    "code": "562723",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562776",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Vadapur",
+    "name_mr": "",
+    "code": "562776",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562728",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Auj Aherwadi",
+    "name_mr": "",
+    "code": "562728",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562741",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Aherwadi",
+    "name_mr": "",
+    "code": "562741",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562729",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Tillehal",
+    "name_mr": "",
+    "code": "562729",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562750",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Vadakbal",
+    "name_mr": "",
+    "code": "562750",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562781",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Vinchur",
+    "name_mr": "",
+    "code": "562781",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562783",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Yelegaon",
+    "name_mr": "",
+    "code": "562783",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562751",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Mandrup",
+    "name_mr": "",
+    "code": "562751",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562737",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Chandrahal",
+    "name_mr": "",
+    "code": "562737",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562742",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Sindkhed",
+    "name_mr": "",
+    "code": "562742",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562730",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Alegaon",
+    "name_mr": "",
+    "code": "562730",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562753",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Honmurgi",
+    "name_mr": "",
+    "code": "562753",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562777",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kusur",
+    "name_mr": "",
+    "code": "562777",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562784",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Nimbargi",
+    "name_mr": "",
+    "code": "562784",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562746",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Borul",
+    "name_mr": "",
+    "code": "562746",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562748",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Ingalgi",
+    "name_mr": "",
+    "code": "562748",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562754",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Birnal",
+    "name_mr": "",
+    "code": "562754",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562756",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Basav Nagar",
+    "name_mr": "",
+    "code": "562756",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562782",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Shankar Nagar",
+    "name_mr": "",
+    "code": "562782",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562778",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "562778",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562764",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Barur",
+    "name_mr": "",
+    "code": "562764",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562766",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Bolkavathe",
+    "name_mr": "",
+    "code": "562766",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562758",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kurghot",
+    "name_mr": "",
+    "code": "562758",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562762",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "562762",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562787",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Balgi\n",
+    "name_mr": "",
+    "code": "562787",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562760",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Karkal",
+    "name_mr": "",
+    "code": "562760",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562761",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Auj Mandrup",
+    "name_mr": "",
+    "code": "562761",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562767",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Hattarsang",
+    "name_mr": "",
+    "code": "562767",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562763",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Chinchpur",
+    "name_mr": "",
+    "code": "562763",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562768",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kudal",
+    "name_mr": "",
+    "code": "562768",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562752",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Indiranagar",
+    "name_mr": "",
+    "code": "562752",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-562716",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "562716",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  },
+  {
+    "village_id": "v-945403",
+    "district_id": "solapur",
+    "taluka_id": "solapur-south",
+    "name_en": "Godutai Parulekarnagar",
+    "name_mr": "",
+    "code": "945403",
+    "boundary_file": "/data/boundaries/villages/solapur/solapur-south.geojson"
+  }
+]

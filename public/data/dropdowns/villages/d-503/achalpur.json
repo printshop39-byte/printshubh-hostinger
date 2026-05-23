@@ -1,0 +1,1559 @@
+[
+  {
+    "village_id": "v-532031",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kharpi",
+    "name_mr": "",
+    "code": "532031",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532023",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kawitha Bk",
+    "name_mr": "",
+    "code": "532023",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531999",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "531999",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532006",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "532006",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-251323",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Achalpur (M CI)",
+    "name_mr": "",
+    "code": "251323",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531951",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kumbhi Wagholi",
+    "name_mr": "",
+    "code": "531951",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531996",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Shankarpur",
+    "name_mr": "",
+    "code": "531996",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532005",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sangnvi N Khairi",
+    "name_mr": "",
+    "code": "532005",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531913",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Raipura",
+    "name_mr": "",
+    "code": "531913",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531900",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Darapur",
+    "name_mr": "",
+    "code": "531900",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531962",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Tawalar",
+    "name_mr": "",
+    "code": "531962",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531961",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Aurangpur Najik Tawlar",
+    "name_mr": "",
+    "code": "531961",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531910",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khushalpur Najik Narayanpur",
+    "name_mr": "",
+    "code": "531910",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531954",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Januna",
+    "name_mr": "",
+    "code": "531954",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531921",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Shekapur",
+    "name_mr": "",
+    "code": "531921",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531952",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Malkapur Kh.",
+    "name_mr": "",
+    "code": "531952",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531901",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanjirpur",
+    "name_mr": "",
+    "code": "531901",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531914",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Dewari",
+    "name_mr": "",
+    "code": "531914",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531958",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kasampur",
+    "name_mr": "",
+    "code": "531958",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531950",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rajjakpur",
+    "name_mr": "",
+    "code": "531950",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531991",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khushalpur Najik Mukindpur",
+    "name_mr": "",
+    "code": "531991",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531985",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ambuj",
+    "name_mr": "",
+    "code": "531985",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531986",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wadner Bhujang",
+    "name_mr": "",
+    "code": "531986",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531995",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rawalgaon",
+    "name_mr": "",
+    "code": "531995",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531997",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Yevata",
+    "name_mr": "",
+    "code": "531997",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531998",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanjamabad",
+    "name_mr": "",
+    "code": "531998",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531967",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Walni Bk.",
+    "name_mr": "",
+    "code": "531967",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531969",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ramapur Bk.",
+    "name_mr": "",
+    "code": "531969",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531923",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ramapur N. Belaj",
+    "name_mr": "",
+    "code": "531923",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531966",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Walni Kh",
+    "name_mr": "",
+    "code": "531966",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531915",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rahimapur N. Khanapur",
+    "name_mr": "",
+    "code": "531915",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531968",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "531968",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531894",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Jambhala",
+    "name_mr": "",
+    "code": "531894",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531944",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Upatkheda",
+    "name_mr": "",
+    "code": "531944",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531945",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Payvihir",
+    "name_mr": "",
+    "code": "531945",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531948",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khatijapur",
+    "name_mr": "",
+    "code": "531948",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531955",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wagdoh",
+    "name_mr": "",
+    "code": "531955",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531956",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Jahanpur",
+    "name_mr": "",
+    "code": "531956",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531859",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nimkund",
+    "name_mr": "",
+    "code": "531859",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531858",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wazzar",
+    "name_mr": "",
+    "code": "531858",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531864",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Belkheda",
+    "name_mr": "",
+    "code": "531864",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531863",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Mhasona",
+    "name_mr": "",
+    "code": "531863",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531857",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "531857",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531856",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "531856",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531870",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Malhara",
+    "name_mr": "",
+    "code": "531870",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531866",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Salepur",
+    "name_mr": "",
+    "code": "531866",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531867",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nimkheda",
+    "name_mr": "",
+    "code": "531867",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531855",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Pimpalkhuta",
+    "name_mr": "",
+    "code": "531855",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531882",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wadura",
+    "name_mr": "",
+    "code": "531882",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531871",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ekalaspur",
+    "name_mr": "",
+    "code": "531871",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531880",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Dhotarkheda",
+    "name_mr": "",
+    "code": "531880",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531854",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Devgaon",
+    "name_mr": "",
+    "code": "531854",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531853",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bhopapur",
+    "name_mr": "",
+    "code": "531853",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531868",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Gaurkheda",
+    "name_mr": "",
+    "code": "531868",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531869",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Narsari",
+    "name_mr": "",
+    "code": "531869",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531874",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nimdari",
+    "name_mr": "",
+    "code": "531874",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531881",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kumbhi",
+    "name_mr": "",
+    "code": "531881",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531873",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Daryabad",
+    "name_mr": "",
+    "code": "531873",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531875",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Jalalpur",
+    "name_mr": "",
+    "code": "531875",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531883",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kothara",
+    "name_mr": "",
+    "code": "531883",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531879",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sawali Datura",
+    "name_mr": "",
+    "code": "531879",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531872",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Hanawatkheda",
+    "name_mr": "",
+    "code": "531872",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531889",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Narsala",
+    "name_mr": "",
+    "code": "531889",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531878",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Datura",
+    "name_mr": "",
+    "code": "531878",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531887",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kandali",
+    "name_mr": "",
+    "code": "531887",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531905",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ambada Kandari",
+    "name_mr": "",
+    "code": "531905",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531904",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "531904",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531876",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Chandura Jahagir",
+    "name_mr": "",
+    "code": "531876",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531890",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khudanpur",
+    "name_mr": "",
+    "code": "531890",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531888",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Aurangpur Najik Paratwada",
+    "name_mr": "",
+    "code": "531888",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531906",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bag Ambada",
+    "name_mr": "",
+    "code": "531906",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531891",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Muradpur",
+    "name_mr": "",
+    "code": "531891",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531892",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Beni",
+    "name_mr": "",
+    "code": "531892",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531946",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Gondwagholi",
+    "name_mr": "",
+    "code": "531946",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531920",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kheltapmali",
+    "name_mr": "",
+    "code": "531920",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531897",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sahapur N Wadgaon",
+    "name_mr": "",
+    "code": "531897",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531884",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nagarwadi",
+    "name_mr": "",
+    "code": "531884",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531886",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Viththalapur",
+    "name_mr": "",
+    "code": "531886",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531885",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rajura",
+    "name_mr": "",
+    "code": "531885",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531898",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ajitpur",
+    "name_mr": "",
+    "code": "531898",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531912",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kheldeomali",
+    "name_mr": "",
+    "code": "531912",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531908",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "531908",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531949",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Parasapur",
+    "name_mr": "",
+    "code": "531949",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531953",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "531953",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531899",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Haram",
+    "name_mr": "",
+    "code": "531899",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531895",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ramapur N Jambhala",
+    "name_mr": "",
+    "code": "531895",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531911",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Naubag",
+    "name_mr": "",
+    "code": "531911",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531896",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Aregaon",
+    "name_mr": "",
+    "code": "531896",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531963",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanjamanagar",
+    "name_mr": "",
+    "code": "531963",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531902",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Salebad",
+    "name_mr": "",
+    "code": "531902",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531947",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Panch Amba Bk",
+    "name_mr": "",
+    "code": "531947",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531957",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Dharampur",
+    "name_mr": "",
+    "code": "531957",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531964",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kopra",
+    "name_mr": "",
+    "code": "531964",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531960",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Panch Amba Kh.",
+    "name_mr": "",
+    "code": "531960",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531922",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Jawardi",
+    "name_mr": "",
+    "code": "531922",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531903",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanapur N Bhinkheda",
+    "name_mr": "",
+    "code": "531903",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531965",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bhilona",
+    "name_mr": "",
+    "code": "531965",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531971",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Pathrot Part 1",
+    "name_mr": "",
+    "code": "531971",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531919",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khojampur",
+    "name_mr": "",
+    "code": "531919",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531970",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ramapur Kh",
+    "name_mr": "",
+    "code": "531970",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531916",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bhitkheda",
+    "name_mr": "",
+    "code": "531916",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531917",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Virkheda",
+    "name_mr": "",
+    "code": "531917",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531924",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nababpur",
+    "name_mr": "",
+    "code": "531924",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531918",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanapur N.Rahimpur",
+    "name_mr": "",
+    "code": "531918",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531925",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bhugaon",
+    "name_mr": "",
+    "code": "531925",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531926",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sangvi Nijampur",
+    "name_mr": "",
+    "code": "531926",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531931",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Chamak Bk",
+    "name_mr": "",
+    "code": "531931",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531927",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "531927",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531928",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bhopapur",
+    "name_mr": "",
+    "code": "531928",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531929",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Naigaon",
+    "name_mr": "",
+    "code": "531929",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531933",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khambora",
+    "name_mr": "",
+    "code": "531933",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531975",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kawitha Kh",
+    "name_mr": "",
+    "code": "531975",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531974",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rayani",
+    "name_mr": "",
+    "code": "531974",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531932",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Surwada",
+    "name_mr": "",
+    "code": "531932",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531973",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Jatanpur",
+    "name_mr": "",
+    "code": "531973",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531980",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kamatwada",
+    "name_mr": "",
+    "code": "531980",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531930",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Chamak Kh",
+    "name_mr": "",
+    "code": "531930",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531976",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Pohi",
+    "name_mr": "",
+    "code": "531976",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531972",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Jawalapur",
+    "name_mr": "",
+    "code": "531972",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531979",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sindi Bk.",
+    "name_mr": "",
+    "code": "531979",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531935",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Chachondi",
+    "name_mr": "",
+    "code": "531935",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531940",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Borgaon Peth",
+    "name_mr": "",
+    "code": "531940",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531934",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Tuljapur Jahagir",
+    "name_mr": "",
+    "code": "531934",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531937",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Chausala",
+    "name_mr": "",
+    "code": "531937",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531941",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Borgaon Talni",
+    "name_mr": "",
+    "code": "531941",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531938",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bordi",
+    "name_mr": "",
+    "code": "531938",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531939",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Borgaon Dori",
+    "name_mr": "",
+    "code": "531939",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531942",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Meghnathpur",
+    "name_mr": "",
+    "code": "531942",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531981",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Raipur",
+    "name_mr": "",
+    "code": "531981",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531936",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "531936",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531978",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kushta Kh.",
+    "name_mr": "",
+    "code": "531978",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531983",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Janori",
+    "name_mr": "",
+    "code": "531983",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531943",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "531943",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531988",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rasegaon",
+    "name_mr": "",
+    "code": "531988",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531982",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "531982",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531990",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Mukindpur",
+    "name_mr": "",
+    "code": "531990",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531992",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wasani Bk.",
+    "name_mr": "",
+    "code": "531992",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531993",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wasani Kh.",
+    "name_mr": "",
+    "code": "531993",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531987",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kakda",
+    "name_mr": "",
+    "code": "531987",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531989",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Isegaon",
+    "name_mr": "",
+    "code": "531989",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531984",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Salabatpur",
+    "name_mr": "",
+    "code": "531984",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531994",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wadhona Jahagir",
+    "name_mr": "",
+    "code": "531994",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532004",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Donoda",
+    "name_mr": "",
+    "code": "532004",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532001",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kolha",
+    "name_mr": "",
+    "code": "532001",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532003",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sawali Kh",
+    "name_mr": "",
+    "code": "532003",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532002",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sawali Bk.",
+    "name_mr": "",
+    "code": "532002",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532007",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "532007",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532000",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Shampur",
+    "name_mr": "",
+    "code": "532000",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532016",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Yelki",
+    "name_mr": "",
+    "code": "532016",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532010",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Narsingpur",
+    "name_mr": "",
+    "code": "532010",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532013",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wadgaon Kh",
+    "name_mr": "",
+    "code": "532013",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532014",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Yesurna",
+    "name_mr": "",
+    "code": "532014",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532008",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanapur Chinchkheda",
+    "name_mr": "",
+    "code": "532008",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532021",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Asadpur",
+    "name_mr": "",
+    "code": "532021",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532009",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Tirmalpur",
+    "name_mr": "",
+    "code": "532009",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532017",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Tonglabad",
+    "name_mr": "",
+    "code": "532017",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532015",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "532015",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532018",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Sawalapur",
+    "name_mr": "",
+    "code": "532018",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532020",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Nimbhari",
+    "name_mr": "",
+    "code": "532020",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532022",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "532022",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532012",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Rangar Wasni",
+    "name_mr": "",
+    "code": "532012",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532011",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Raipur Jahangir",
+    "name_mr": "",
+    "code": "532011",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-532019",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Bajitpur",
+    "name_mr": "",
+    "code": "532019",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531893",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Wadgaon Fattepur",
+    "name_mr": "",
+    "code": "531893",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531907",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Ghodgaon",
+    "name_mr": "",
+    "code": "531907",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531860",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Buradghat",
+    "name_mr": "",
+    "code": "531860",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531865",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Pandhari",
+    "name_mr": "",
+    "code": "531865",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531861",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kalwit",
+    "name_mr": "",
+    "code": "531861",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531862",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Gondvihir",
+    "name_mr": "",
+    "code": "531862",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531959",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Walmikpur",
+    "name_mr": "",
+    "code": "531959",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531877",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Yeni",
+    "name_mr": "",
+    "code": "531877",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531977",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Kushta Bk.",
+    "name_mr": "",
+    "code": "531977",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  },
+  {
+    "village_id": "v-531909",
+    "district_id": "d-503",
+    "taluka_id": "achalpur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "531909",
+    "boundary_file": "/data/boundaries/villages/d-503/achalpur.geojson"
+  }
+]

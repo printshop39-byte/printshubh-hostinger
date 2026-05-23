@@ -1,0 +1,605 @@
+[
+  {
+    "village_id": "v-544894",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "544894",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544895",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Kalgaon",
+    "name_mr": "",
+    "code": "544895",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544892",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Dholumri",
+    "name_mr": "",
+    "code": "544892",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544891",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Shivangaon",
+    "name_mr": "",
+    "code": "544891",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544896",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Sawargaon (Dakshin)",
+    "name_mr": "",
+    "code": "544896",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544908",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Shirur",
+    "name_mr": "",
+    "code": "544908",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544893",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "544893",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544890",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Sindhi",
+    "name_mr": "",
+    "code": "544890",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544910",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Turati",
+    "name_mr": "",
+    "code": "544910",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544909",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Mokhandi (Jagir)",
+    "name_mr": "",
+    "code": "544909",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544897",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Aswaldari",
+    "name_mr": "",
+    "code": "544897",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544917",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Durganagar",
+    "name_mr": "",
+    "code": "544917",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544914",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Jirona",
+    "name_mr": "",
+    "code": "544914",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544916",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Ishwarnagar",
+    "name_mr": "",
+    "code": "544916",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544915",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Fulsingnagar",
+    "name_mr": "",
+    "code": "544915",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544921",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Somthana P.U.",
+    "name_mr": "",
+    "code": "544921",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544913",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bitnal",
+    "name_mr": "",
+    "code": "544913",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544898",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "544898",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544911",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bothi",
+    "name_mr": "",
+    "code": "544911",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544912",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Sawargaon (kala)",
+    "name_mr": "",
+    "code": "544912",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544919",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Gortha",
+    "name_mr": "",
+    "code": "544919",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544918",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Jamgaon",
+    "name_mr": "",
+    "code": "544918",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544920",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "544920",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544922",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Ganipur",
+    "name_mr": "",
+    "code": "544922",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544899",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hunda (patti ganga)",
+    "name_mr": "",
+    "code": "544899",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544928",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hunda patti umari",
+    "name_mr": "",
+    "code": "544928",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544925",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Mandala",
+    "name_mr": "",
+    "code": "544925",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-251403",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Peth Umri (M CI)",
+    "name_mr": "",
+    "code": "251403",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544923",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hiradgaon",
+    "name_mr": "",
+    "code": "544923",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544924",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Waghala",
+    "name_mr": "",
+    "code": "544924",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544926",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Ramkhadak",
+    "name_mr": "",
+    "code": "544926",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544905",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Kudla",
+    "name_mr": "",
+    "code": "544905",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544900",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hangiranga",
+    "name_mr": "",
+    "code": "544900",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544927",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hunda Tanda",
+    "name_mr": "",
+    "code": "544927",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544906",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Abdulapur",
+    "name_mr": "",
+    "code": "544906",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544904",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bolsa",
+    "name_mr": "",
+    "code": "544904",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544907",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "544907",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544929",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Dhanora Bk",
+    "name_mr": "",
+    "code": "544929",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544903",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Rahati Kh",
+    "name_mr": "",
+    "code": "544903",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544939",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Dilawarpur",
+    "name_mr": "",
+    "code": "544939",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544902",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bhayegaon",
+    "name_mr": "",
+    "code": "544902",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544934",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Chinchala patti umri",
+    "name_mr": "",
+    "code": "544934",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544901",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Ilegaon PG",
+    "name_mr": "",
+    "code": "544901",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544938",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Amdapur",
+    "name_mr": "",
+    "code": "544938",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544940",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Manur",
+    "name_mr": "",
+    "code": "544940",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544941",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Ijjatgaon",
+    "name_mr": "",
+    "code": "544941",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544935",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Nagthana Bk.",
+    "name_mr": "",
+    "code": "544935",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544933",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Nagthana Kh.",
+    "name_mr": "",
+    "code": "544933",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544931",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bolsa Bk",
+    "name_mr": "",
+    "code": "544931",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544930",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bolsa Kh",
+    "name_mr": "",
+    "code": "544930",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544937",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Miyadadpur",
+    "name_mr": "",
+    "code": "544937",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544932",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Nimtek",
+    "name_mr": "",
+    "code": "544932",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544942",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Balegaon",
+    "name_mr": "",
+    "code": "544942",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544936",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Beldara",
+    "name_mr": "",
+    "code": "544936",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544948",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Borjuni",
+    "name_mr": "",
+    "code": "544948",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544949",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Karkala",
+    "name_mr": "",
+    "code": "544949",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544944",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hatni",
+    "name_mr": "",
+    "code": "544944",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544950",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "544950",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544951",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Waghalwada",
+    "name_mr": "",
+    "code": "544951",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544943",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Mahati",
+    "name_mr": "",
+    "code": "544943",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544946",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Bijegaon",
+    "name_mr": "",
+    "code": "544946",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544947",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Kaudgaon",
+    "name_mr": "",
+    "code": "544947",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544945",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Endala",
+    "name_mr": "",
+    "code": "544945",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544952",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Hassa",
+    "name_mr": "",
+    "code": "544952",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544953",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Singnapur",
+    "name_mr": "",
+    "code": "544953",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544954",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Kawalguda Bk.",
+    "name_mr": "",
+    "code": "544954",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  },
+  {
+    "village_id": "v-544955",
+    "district_id": "n-nded",
+    "taluka_id": "umri",
+    "name_en": "Kawalguda kh.",
+    "name_mr": "",
+    "code": "544955",
+    "boundary_file": "/data/boundaries/villages/n-nded/umri.geojson"
+  }
+]

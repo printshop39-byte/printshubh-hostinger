@@ -1,0 +1,1478 @@
+[
+  {
+    "village_id": "v-530332",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "530332",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530278",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jethapur",
+    "name_mr": "",
+    "code": "530278",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530277",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kurum",
+    "name_mr": "",
+    "code": "530277",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530276",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "530276",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530248",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mana",
+    "name_mr": "",
+    "code": "530248",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530245",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bahadurpur",
+    "name_mr": "",
+    "code": "530245",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530242",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Ramtek",
+    "name_mr": "",
+    "code": "530242",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530246",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sikandarpur",
+    "name_mr": "",
+    "code": "530246",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530256",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bramhi (Bai)",
+    "name_mr": "",
+    "code": "530256",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530196",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Umai",
+    "name_mr": "",
+    "code": "530196",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530232",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Lonsana",
+    "name_mr": "",
+    "code": "530232",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530233",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kolsara",
+    "name_mr": "",
+    "code": "530233",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530175",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Parad",
+    "name_mr": "",
+    "code": "530175",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530176",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bhatori",
+    "name_mr": "",
+    "code": "530176",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530182",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Khaparwada",
+    "name_mr": "",
+    "code": "530182",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530179",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Lakhpuri",
+    "name_mr": "",
+    "code": "530179",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530181",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sangwi",
+    "name_mr": "",
+    "code": "530181",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530180",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Durgwada",
+    "name_mr": "",
+    "code": "530180",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530184",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Takwada",
+    "name_mr": "",
+    "code": "530184",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530189",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Shelu Najik",
+    "name_mr": "",
+    "code": "530189",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530234",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Gunjwada",
+    "name_mr": "",
+    "code": "530234",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530228",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Yendali",
+    "name_mr": "",
+    "code": "530228",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530229",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Pingala",
+    "name_mr": "",
+    "code": "530229",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530230",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Shelu Bajar",
+    "name_mr": "",
+    "code": "530230",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530170",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Virwada",
+    "name_mr": "",
+    "code": "530170",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530177",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Lait",
+    "name_mr": "",
+    "code": "530177",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530231",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kaotha Kholapur",
+    "name_mr": "",
+    "code": "530231",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530183",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dapura",
+    "name_mr": "",
+    "code": "530183",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530171",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mungshi",
+    "name_mr": "",
+    "code": "530171",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530172",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hasanapur",
+    "name_mr": "",
+    "code": "530172",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530270",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Aurangpur",
+    "name_mr": "",
+    "code": "530270",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530178",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Datwi",
+    "name_mr": "",
+    "code": "530178",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530174",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sangwa",
+    "name_mr": "",
+    "code": "530174",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530173",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Chungshi",
+    "name_mr": "",
+    "code": "530173",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530237",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Ballarkhed",
+    "name_mr": "",
+    "code": "530237",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530235",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Borta",
+    "name_mr": "",
+    "code": "530235",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530238",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hiwara Korde",
+    "name_mr": "",
+    "code": "530238",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530188",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mangrul Kambe",
+    "name_mr": "",
+    "code": "530188",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530236",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "530236",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530274",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Khodad",
+    "name_mr": "",
+    "code": "530274",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530185",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sakhari",
+    "name_mr": "",
+    "code": "530185",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530272",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sonori (Bopari)",
+    "name_mr": "",
+    "code": "530272",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530187",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Khudavantpur",
+    "name_mr": "",
+    "code": "530187",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530253",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Waghajali",
+    "name_mr": "",
+    "code": "530253",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530190",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Datala",
+    "name_mr": "",
+    "code": "530190",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530251",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sirtala",
+    "name_mr": "",
+    "code": "530251",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530186",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rasulpur",
+    "name_mr": "",
+    "code": "530186",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530254",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Tipatala",
+    "name_mr": "",
+    "code": "530254",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530275",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Madhapuri",
+    "name_mr": "",
+    "code": "530275",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530252",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bramhi BK",
+    "name_mr": "",
+    "code": "530252",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530249",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Langhapur",
+    "name_mr": "",
+    "code": "530249",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530273",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mandura",
+    "name_mr": "",
+    "code": "530273",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530239",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Pohi",
+    "name_mr": "",
+    "code": "530239",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530193",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Yashwantpur",
+    "name_mr": "",
+    "code": "530193",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530240",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Pota",
+    "name_mr": "",
+    "code": "530240",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530192",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jambha BK",
+    "name_mr": "",
+    "code": "530192",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530199",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sirso",
+    "name_mr": "",
+    "code": "530199",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530191",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Wahitpur",
+    "name_mr": "",
+    "code": "530191",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530195",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Repatkhed",
+    "name_mr": "",
+    "code": "530195",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530201",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hirpur",
+    "name_mr": "",
+    "code": "530201",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530241",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Piwashi",
+    "name_mr": "",
+    "code": "530241",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530255",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bramhi KH",
+    "name_mr": "",
+    "code": "530255",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530194",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jambha KH",
+    "name_mr": "",
+    "code": "530194",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530250",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sahadatpur",
+    "name_mr": "",
+    "code": "530250",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530198",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jitapur Nakat",
+    "name_mr": "",
+    "code": "530198",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530279",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hayatpur",
+    "name_mr": "",
+    "code": "530279",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530243",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Nawasal",
+    "name_mr": "",
+    "code": "530243",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530247",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Girdharpur",
+    "name_mr": "",
+    "code": "530247",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530208",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Samsherpur",
+    "name_mr": "",
+    "code": "530208",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530197",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Atkali.",
+    "name_mr": "",
+    "code": "530197",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530258",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jitapur",
+    "name_mr": "",
+    "code": "530258",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530260",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Allapur",
+    "name_mr": "",
+    "code": "530260",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530200",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sanjapur",
+    "name_mr": "",
+    "code": "530200",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530259",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Isafpur",
+    "name_mr": "",
+    "code": "530259",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530209",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Amatwada",
+    "name_mr": "",
+    "code": "530209",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530207",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Salatwada",
+    "name_mr": "",
+    "code": "530207",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530257",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mohabatpur",
+    "name_mr": "",
+    "code": "530257",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530244",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Chinchkhed",
+    "name_mr": "",
+    "code": "530244",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530206",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kharab Dhore",
+    "name_mr": "",
+    "code": "530206",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530280",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Wadgaon Kurum",
+    "name_mr": "",
+    "code": "530280",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530210",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Gajipur",
+    "name_mr": "",
+    "code": "530210",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530262",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Malakapur",
+    "name_mr": "",
+    "code": "530262",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530202",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Matoda",
+    "name_mr": "",
+    "code": "530202",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530261",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rasulapur",
+    "name_mr": "",
+    "code": "530261",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530205",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Deoran",
+    "name_mr": "",
+    "code": "530205",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530284",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kautha Sopinath",
+    "name_mr": "",
+    "code": "530284",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530211",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Takli Gajipur",
+    "name_mr": "",
+    "code": "530211",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530264",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Nagoli",
+    "name_mr": "",
+    "code": "530264",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530213",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kadwi",
+    "name_mr": "",
+    "code": "530213",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530281",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Matoda",
+    "name_mr": "",
+    "code": "530281",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-251315",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Murtijapur (M Cl)",
+    "name_mr": "",
+    "code": "251315",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530203",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kharbadi",
+    "name_mr": "",
+    "code": "530203",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530214",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "530214",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530285",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jamthi Bk",
+    "name_mr": "",
+    "code": "530285",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530265",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Nagthana",
+    "name_mr": "",
+    "code": "530265",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530204",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kharab Naole",
+    "name_mr": "",
+    "code": "530204",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530212",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Goregaon",
+    "name_mr": "",
+    "code": "530212",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530282",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jamthi KH",
+    "name_mr": "",
+    "code": "530282",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530219",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hendaj",
+    "name_mr": "",
+    "code": "530219",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530216",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sonori",
+    "name_mr": "",
+    "code": "530216",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530263",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rambhapur",
+    "name_mr": "",
+    "code": "530263",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530283",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rajnapur Khinkhini",
+    "name_mr": "",
+    "code": "530283",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530218",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hatgaon",
+    "name_mr": "",
+    "code": "530218",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530215",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kaswi",
+    "name_mr": "",
+    "code": "530215",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530267",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Unkhed",
+    "name_mr": "",
+    "code": "530267",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530220",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Palsoda",
+    "name_mr": "",
+    "code": "530220",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530266",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kasarkhed",
+    "name_mr": "",
+    "code": "530266",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530286",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rajura Sarode",
+    "name_mr": "",
+    "code": "530286",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530224",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Anbhora",
+    "name_mr": "",
+    "code": "530224",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530225",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sanjapur",
+    "name_mr": "",
+    "code": "530225",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530287",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Saudapur",
+    "name_mr": "",
+    "code": "530287",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530217",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Shelu Wetal",
+    "name_mr": "",
+    "code": "530217",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530293",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "530293",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530221",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sonala",
+    "name_mr": "",
+    "code": "530221",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530292",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Karli",
+    "name_mr": "",
+    "code": "530292",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530223",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sherwadi",
+    "name_mr": "",
+    "code": "530223",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530295",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Wai Mana",
+    "name_mr": "",
+    "code": "530295",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530268",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Gaulkhedi",
+    "name_mr": "",
+    "code": "530268",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530289",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Akoli Jaha",
+    "name_mr": "",
+    "code": "530289",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530303",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Jamthi KH",
+    "name_mr": "",
+    "code": "530303",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530290",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhamori KH",
+    "name_mr": "",
+    "code": "530290",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530294",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Hamidpur",
+    "name_mr": "",
+    "code": "530294",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530288",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "530288",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530269",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Aledatpur",
+    "name_mr": "",
+    "code": "530269",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530226",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bhagora",
+    "name_mr": "",
+    "code": "530226",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530304",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dahatonda",
+    "name_mr": "",
+    "code": "530304",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530291",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhamori BK",
+    "name_mr": "",
+    "code": "530291",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530296",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "530296",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530222",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Ramkhed",
+    "name_mr": "",
+    "code": "530222",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530302",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Arkhed",
+    "name_mr": "",
+    "code": "530302",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530311",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Turkhed",
+    "name_mr": "",
+    "code": "530311",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530227",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhanora Waidhya",
+    "name_mr": "",
+    "code": "530227",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530305",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Muramba",
+    "name_mr": "",
+    "code": "530305",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530300",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kanzara",
+    "name_mr": "",
+    "code": "530300",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530301",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Lodhipur",
+    "name_mr": "",
+    "code": "530301",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530306",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhanora BK",
+    "name_mr": "",
+    "code": "530306",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530307",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhanora KH",
+    "name_mr": "",
+    "code": "530307",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530313",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kamatha",
+    "name_mr": "",
+    "code": "530313",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530312",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Lasnapur",
+    "name_mr": "",
+    "code": "530312",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530310",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Gaulkhed",
+    "name_mr": "",
+    "code": "530310",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530314",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Balapur",
+    "name_mr": "",
+    "code": "530314",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530297",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "530297",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530308",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Shivan Kh",
+    "name_mr": "",
+    "code": "530308",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530298",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Sheni",
+    "name_mr": "",
+    "code": "530298",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530299",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Fani",
+    "name_mr": "",
+    "code": "530299",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530309",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "530309",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530322",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Nimbha",
+    "name_mr": "",
+    "code": "530322",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530315",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mohakhed",
+    "name_mr": "",
+    "code": "530315",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530316",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhotra Shinde",
+    "name_mr": "",
+    "code": "530316",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530323",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kinkhed",
+    "name_mr": "",
+    "code": "530323",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530317",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Shend",
+    "name_mr": "",
+    "code": "530317",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530324",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bidgaon",
+    "name_mr": "",
+    "code": "530324",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530321",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kamalani",
+    "name_mr": "",
+    "code": "530321",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530318",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kawhala",
+    "name_mr": "",
+    "code": "530318",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530326",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Pimpal Shenda",
+    "name_mr": "",
+    "code": "530326",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530327",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Rajura Ghate",
+    "name_mr": "",
+    "code": "530327",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530320",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kamal Khed",
+    "name_mr": "",
+    "code": "530320",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530319",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Kandi",
+    "name_mr": "",
+    "code": "530319",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530329",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Dhanora Patekar",
+    "name_mr": "",
+    "code": "530329",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530330",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Wirahit",
+    "name_mr": "",
+    "code": "530330",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530328",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "530328",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530271",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Bapori",
+    "name_mr": "",
+    "code": "530271",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530325",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Mozar",
+    "name_mr": "",
+    "code": "530325",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  },
+  {
+    "village_id": "v-530883",
+    "district_id": "akola",
+    "taluka_id": "murtijapur",
+    "name_en": "Haibatpur",
+    "name_mr": "",
+    "code": "530883",
+    "boundary_file": "/data/boundaries/villages/akola/murtijapur.geojson"
+  }
+]

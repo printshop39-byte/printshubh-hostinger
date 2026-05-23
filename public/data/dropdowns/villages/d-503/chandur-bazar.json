@@ -1,0 +1,1523 @@
+[
+  {
+    "village_id": "v-532141",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "532141",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532189",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Trimalpur",
+    "name_mr": "",
+    "code": "532189",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532140",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sundarpur",
+    "name_mr": "",
+    "code": "532140",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532142",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Tamaswadi",
+    "name_mr": "",
+    "code": "532142",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532182",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Talvel",
+    "name_mr": "",
+    "code": "532182",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532145",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "532145",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532181",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Barhanpur",
+    "name_mr": "",
+    "code": "532181",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532056",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Redwa",
+    "name_mr": "",
+    "code": "532056",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532024",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Karanja Bahiram",
+    "name_mr": "",
+    "code": "532024",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532026",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Shirajgaon Kasba",
+    "name_mr": "",
+    "code": "532026",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532025",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pala",
+    "name_mr": "",
+    "code": "532025",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532059",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Nagarwadi",
+    "name_mr": "",
+    "code": "532059",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532065",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Vishroli",
+    "name_mr": "",
+    "code": "532065",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532066",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Udapur",
+    "name_mr": "",
+    "code": "532066",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532030",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Subhanpur",
+    "name_mr": "",
+    "code": "532030",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532067",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jawara",
+    "name_mr": "",
+    "code": "532067",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532068",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Chincholi Bk",
+    "name_mr": "",
+    "code": "532068",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532126",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Fubgaon",
+    "name_mr": "",
+    "code": "532126",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532173",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Muradpur",
+    "name_mr": "",
+    "code": "532173",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532190",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Ramdalpur",
+    "name_mr": "",
+    "code": "532190",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532032",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "532032",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532069",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Gaurkheda",
+    "name_mr": "",
+    "code": "532069",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532041",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Bhalewadi",
+    "name_mr": "",
+    "code": "532041",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532027",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Ratanpur",
+    "name_mr": "",
+    "code": "532027",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532034",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Alampur",
+    "name_mr": "",
+    "code": "532034",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532033",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khel Mahal (Karajgaon)",
+    "name_mr": "",
+    "code": "532033",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532127",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sayyadpur",
+    "name_mr": "",
+    "code": "532127",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532130",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Borgaon Mohna",
+    "name_mr": "",
+    "code": "532130",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532169",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jasapur",
+    "name_mr": "",
+    "code": "532169",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532165",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "532165",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532177",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kharala",
+    "name_mr": "",
+    "code": "532177",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532176",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Durgwada",
+    "name_mr": "",
+    "code": "532176",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532144",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "532144",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532138",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Shahapur-Hirur",
+    "name_mr": "",
+    "code": "532138",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532146",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "532146",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532191",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Wathonda",
+    "name_mr": "",
+    "code": "532191",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532183",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Wadura",
+    "name_mr": "",
+    "code": "532183",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532148",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Chincholi Kh.",
+    "name_mr": "",
+    "code": "532148",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532147",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jagannathpur",
+    "name_mr": "",
+    "code": "532147",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532192",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Chincholi kale",
+    "name_mr": "",
+    "code": "532192",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532156",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Rasullapur",
+    "name_mr": "",
+    "code": "532156",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532151",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Virul",
+    "name_mr": "",
+    "code": "532151",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532150",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Takarkheda",
+    "name_mr": "",
+    "code": "532150",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532155",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "532155",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532057",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pithoda",
+    "name_mr": "",
+    "code": "532057",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532060",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Parsoda",
+    "name_mr": "",
+    "code": "532060",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532061",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khinkhini",
+    "name_mr": "",
+    "code": "532061",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532062",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sambhora",
+    "name_mr": "",
+    "code": "532062",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532029",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Bodad",
+    "name_mr": "",
+    "code": "532029",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532073",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Waroli",
+    "name_mr": "",
+    "code": "532073",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532028",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Saikheda",
+    "name_mr": "",
+    "code": "532028",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532071",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Wani",
+    "name_mr": "",
+    "code": "532071",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532070",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Vithalpur",
+    "name_mr": "",
+    "code": "532070",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532072",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Belkheda",
+    "name_mr": "",
+    "code": "532072",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532074",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kurankhed",
+    "name_mr": "",
+    "code": "532074",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532077",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Bramhanwada Thadi",
+    "name_mr": "",
+    "code": "532077",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532078",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Markanda",
+    "name_mr": "",
+    "code": "532078",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532081",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Deurwada",
+    "name_mr": "",
+    "code": "532081",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532076",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Surali",
+    "name_mr": "",
+    "code": "532076",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532079",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Angadpur",
+    "name_mr": "",
+    "code": "532079",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532036",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sarfapur",
+    "name_mr": "",
+    "code": "532036",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532040",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khel Chaudhar (Karajgaon)",
+    "name_mr": "",
+    "code": "532040",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532035",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kalhodi",
+    "name_mr": "",
+    "code": "532035",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532043",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sindi Kh.",
+    "name_mr": "",
+    "code": "532043",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532083",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Inapur",
+    "name_mr": "",
+    "code": "532083",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532042",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "532042",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532080",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Wadura",
+    "name_mr": "",
+    "code": "532080",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532045",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Somthana",
+    "name_mr": "",
+    "code": "532045",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532037",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pandhari",
+    "name_mr": "",
+    "code": "532037",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532075",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Nimkheda",
+    "name_mr": "",
+    "code": "532075",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532082",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Dhoktirth",
+    "name_mr": "",
+    "code": "532082",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532044",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Makrampur",
+    "name_mr": "",
+    "code": "532044",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532084",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Bramhanwada pathak",
+    "name_mr": "",
+    "code": "532084",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532094",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kajali",
+    "name_mr": "",
+    "code": "532094",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532047",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Lakhanwadi",
+    "name_mr": "",
+    "code": "532047",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532086",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Ganoja",
+    "name_mr": "",
+    "code": "532086",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532095",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Dewapur",
+    "name_mr": "",
+    "code": "532095",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532096",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Hilalabad",
+    "name_mr": "",
+    "code": "532096",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532093",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Madhan",
+    "name_mr": "",
+    "code": "532093",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532046",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Palaswada",
+    "name_mr": "",
+    "code": "532046",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532085",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sonori",
+    "name_mr": "",
+    "code": "532085",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532050",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Thugaon Pimpri",
+    "name_mr": "",
+    "code": "532050",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532049",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khel Januji (Choudhar Kurha)",
+    "name_mr": "",
+    "code": "532049",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532097",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kodori",
+    "name_mr": "",
+    "code": "532097",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532092",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Alipur",
+    "name_mr": "",
+    "code": "532092",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532090",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jalnapur",
+    "name_mr": "",
+    "code": "532090",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532087",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Hashampur",
+    "name_mr": "",
+    "code": "532087",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532115",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Rodori",
+    "name_mr": "",
+    "code": "532115",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532053",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Inayatpur",
+    "name_mr": "",
+    "code": "532053",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532052",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kondwardha",
+    "name_mr": "",
+    "code": "532052",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532091",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "532091",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532099",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "532099",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532107",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Amrullapur",
+    "name_mr": "",
+    "code": "532107",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532157",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Boraj",
+    "name_mr": "",
+    "code": "532157",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532100",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Nanori",
+    "name_mr": "",
+    "code": "532100",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532098",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Dilalpur",
+    "name_mr": "",
+    "code": "532098",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532089",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Silimpur",
+    "name_mr": "",
+    "code": "532089",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532051",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sanjapur",
+    "name_mr": "",
+    "code": "532051",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532118",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jasapur",
+    "name_mr": "",
+    "code": "532118",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532116",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Abdalpur",
+    "name_mr": "",
+    "code": "532116",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532114",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pimpri Thugaon",
+    "name_mr": "",
+    "code": "532114",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532106",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Tondgaon",
+    "name_mr": "",
+    "code": "532106",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532117",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Nimbhora",
+    "name_mr": "",
+    "code": "532117",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532088",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "532088",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532120",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "532120",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532108",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Fajalapur",
+    "name_mr": "",
+    "code": "532108",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532112",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Masod",
+    "name_mr": "",
+    "code": "532112",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532122",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pimpalkhuta",
+    "name_mr": "",
+    "code": "532122",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532109",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Talegaon Mohna",
+    "name_mr": "",
+    "code": "532109",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532113",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Tonglapur",
+    "name_mr": "",
+    "code": "532113",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532110",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pimpri Talegaon",
+    "name_mr": "",
+    "code": "532110",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532119",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Rasidpur",
+    "name_mr": "",
+    "code": "532119",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532111",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Mochkheda",
+    "name_mr": "",
+    "code": "532111",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532121",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "532121",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532131",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Belaj",
+    "name_mr": "",
+    "code": "532131",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532124",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Haidatpur",
+    "name_mr": "",
+    "code": "532124",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532123",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "532123",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532101",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Abadalpur",
+    "name_mr": "",
+    "code": "532101",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532104",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Mirajapur",
+    "name_mr": "",
+    "code": "532104",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532160",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jamapur",
+    "name_mr": "",
+    "code": "532160",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532125",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kural",
+    "name_mr": "",
+    "code": "532125",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532102",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Imampur",
+    "name_mr": "",
+    "code": "532102",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532128",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Belura",
+    "name_mr": "",
+    "code": "532128",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532103",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Najarpur Kh",
+    "name_mr": "",
+    "code": "532103",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532133",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Tuljapur Gadhi",
+    "name_mr": "",
+    "code": "532133",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532168",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khanjirpur",
+    "name_mr": "",
+    "code": "532168",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532161",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Mohangaon",
+    "name_mr": "",
+    "code": "532161",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532162",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "532162",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532129",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Saidapur",
+    "name_mr": "",
+    "code": "532129",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532164",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Rahatgaon",
+    "name_mr": "",
+    "code": "532164",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532185",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Shiwanga",
+    "name_mr": "",
+    "code": "532185",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532132",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Rajna",
+    "name_mr": "",
+    "code": "532132",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532135",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sarfabad",
+    "name_mr": "",
+    "code": "532135",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532163",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Akhatwada",
+    "name_mr": "",
+    "code": "532163",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532175",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Shivpur",
+    "name_mr": "",
+    "code": "532175",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532136",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sirajgaon Ardak",
+    "name_mr": "",
+    "code": "532136",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532166",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Beskheda",
+    "name_mr": "",
+    "code": "532166",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532186",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "532186",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532187",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Mubarakgaon",
+    "name_mr": "",
+    "code": "532187",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532170",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Bhangaon",
+    "name_mr": "",
+    "code": "532170",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532134",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Hipur",
+    "name_mr": "",
+    "code": "532134",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532172",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jadhavpur",
+    "name_mr": "",
+    "code": "532172",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532137",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jainpur",
+    "name_mr": "",
+    "code": "532137",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532179",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Shahapur N Jawla",
+    "name_mr": "",
+    "code": "532179",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532178",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kharwadi",
+    "name_mr": "",
+    "code": "532178",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532180",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jawla",
+    "name_mr": "",
+    "code": "532180",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532171",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Hushangabad",
+    "name_mr": "",
+    "code": "532171",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532188",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Rajura (Lahan)",
+    "name_mr": "",
+    "code": "532188",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532139",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Kotgawandi",
+    "name_mr": "",
+    "code": "532139",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532184",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Borala",
+    "name_mr": "",
+    "code": "532184",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532167",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "532167",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532143",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "532143",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532149",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Talni",
+    "name_mr": "",
+    "code": "532149",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532154",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "532154",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532152",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Asegaon",
+    "name_mr": "",
+    "code": "532152",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532153",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Govindpur",
+    "name_mr": "",
+    "code": "532153",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532174",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sharyatpur",
+    "name_mr": "",
+    "code": "532174",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532063",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Ghat Ladki",
+    "name_mr": "",
+    "code": "532063",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532064",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Belmandali",
+    "name_mr": "",
+    "code": "532064",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532038",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khel Sakharam Deshmukh (Kurha)",
+    "name_mr": "",
+    "code": "532038",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-251324",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Chandur Bazar (M Cl)",
+    "name_mr": "",
+    "code": "251324",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532159",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Sirajgaon Band",
+    "name_mr": "",
+    "code": "532159",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532158",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Pralhadpur",
+    "name_mr": "",
+    "code": "532158",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532039",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khel Januji (Deshmukh Kurha)",
+    "name_mr": "",
+    "code": "532039",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532048",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Khel Khushal (Deshmukh Kurha)",
+    "name_mr": "",
+    "code": "532048",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532054",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Jamapati",
+    "name_mr": "",
+    "code": "532054",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532055",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Chinchkumbh",
+    "name_mr": "",
+    "code": "532055",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532058",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Hiwra devi",
+    "name_mr": "",
+    "code": "532058",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  },
+  {
+    "village_id": "v-532105",
+    "district_id": "d-503",
+    "taluka_id": "chandur-bazar",
+    "name_en": "Gopalpur",
+    "name_mr": "",
+    "code": "532105",
+    "boundary_file": "/data/boundaries/villages/d-503/chandur-bazar.geojson"
+  }
+]

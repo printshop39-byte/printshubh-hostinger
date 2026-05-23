@@ -1,0 +1,470 @@
+[
+  {
+    "village_id": "v-276374",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Shirur Anantpal (NP)",
+    "name_mr": "",
+    "code": "276374",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560545",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "560545",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560569",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "560569",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560565",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "LakkadJawalga",
+    "name_mr": "",
+    "code": "560565",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560567",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Rapka",
+    "name_mr": "",
+    "code": "560567",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560555",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Daithana",
+    "name_mr": "",
+    "code": "560555",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560570",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Kambalga",
+    "name_mr": "",
+    "code": "560570",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560563",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "560563",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560571",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Aari",
+    "name_mr": "",
+    "code": "560571",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560560",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Pandharwadi",
+    "name_mr": "",
+    "code": "560560",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560566",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Turukwadi",
+    "name_mr": "",
+    "code": "560566",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560573",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Talegaon Bori",
+    "name_mr": "",
+    "code": "560573",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560582",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Bhingoli",
+    "name_mr": "",
+    "code": "560582",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560572",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Sarpharajpur",
+    "name_mr": "",
+    "code": "560572",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560586",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Talegaon (De)",
+    "name_mr": "",
+    "code": "560586",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560579",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Bevanalwadi",
+    "name_mr": "",
+    "code": "560579",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560577",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Umardara",
+    "name_mr": "",
+    "code": "560577",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560556",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Shend (Daithana)",
+    "name_mr": "",
+    "code": "560556",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560583",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Kalamgaon",
+    "name_mr": "",
+    "code": "560583",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560557",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Kanegaon",
+    "name_mr": "",
+    "code": "560557",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560578",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Bevanal",
+    "name_mr": "",
+    "code": "560578",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560550",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Bolegaon Bk",
+    "name_mr": "",
+    "code": "560550",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560553",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Dighol",
+    "name_mr": "",
+    "code": "560553",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560551",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Chamarga",
+    "name_mr": "",
+    "code": "560551",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560552",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Yerol",
+    "name_mr": "",
+    "code": "560552",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560548",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "560548",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560546",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Hippalgaon",
+    "name_mr": "",
+    "code": "560546",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560549",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Karewadi",
+    "name_mr": "",
+    "code": "560549",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560547",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Shivpur",
+    "name_mr": "",
+    "code": "560547",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560554",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Sumthana",
+    "name_mr": "",
+    "code": "560554",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560568",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Thergaon",
+    "name_mr": "",
+    "code": "560568",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560561",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Nagewadi",
+    "name_mr": "",
+    "code": "560561",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560564",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Jogyal",
+    "name_mr": "",
+    "code": "560564",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560581",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Akulga (Syed)",
+    "name_mr": "",
+    "code": "560581",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560584",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Ajani Bk",
+    "name_mr": "",
+    "code": "560584",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560585",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Honmal",
+    "name_mr": "",
+    "code": "560585",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560559",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Sakol",
+    "name_mr": "",
+    "code": "560559",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560574",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Halki",
+    "name_mr": "",
+    "code": "560574",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560558",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Tipral",
+    "name_mr": "",
+    "code": "560558",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560592",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Hisamabad",
+    "name_mr": "",
+    "code": "560592",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560580",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Dongargaon (Bori)",
+    "name_mr": "",
+    "code": "560580",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560575",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Fakranpur",
+    "name_mr": "",
+    "code": "560575",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560576",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Wanjarkheda",
+    "name_mr": "",
+    "code": "560576",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560591",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Birbal",
+    "name_mr": "",
+    "code": "560591",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560590",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Bakali",
+    "name_mr": "",
+    "code": "560590",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560723",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Dhobalewadi",
+    "name_mr": "",
+    "code": "560723",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560587",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Ghugi (Sangvi)",
+    "name_mr": "",
+    "code": "560587",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560589",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Akulga (Rani)",
+    "name_mr": "",
+    "code": "560589",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560588",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Sangvi (Ghugi)",
+    "name_mr": "",
+    "code": "560588",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560724",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Macharatwadi",
+    "name_mr": "",
+    "code": "560724",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560725",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Dangewadi",
+    "name_mr": "",
+    "code": "560725",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  },
+  {
+    "village_id": "v-560562",
+    "district_id": "latur",
+    "taluka_id": "shirur-anantpal",
+    "name_en": "Shirur-Anantpal",
+    "name_mr": "",
+    "code": "560562",
+    "boundary_file": "/data/boundaries/villages/latur/shirur-anantpal.geojson"
+  }
+]

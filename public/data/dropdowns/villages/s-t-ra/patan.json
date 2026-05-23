@@ -1,0 +1,3161 @@
+[
+  {
+    "village_id": "v-564217",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jangal wadi",
+    "name_mr": "",
+    "code": "564217",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564125",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kathi",
+    "name_mr": "",
+    "code": "564125",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564239",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marathwadi",
+    "name_mr": "",
+    "code": "564239",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564222",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ghot",
+    "name_mr": "",
+    "code": "564222",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564131",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gojegaon",
+    "name_mr": "",
+    "code": "564131",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564209",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marloshi",
+    "name_mr": "",
+    "code": "564209",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564130",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Punvali",
+    "name_mr": "",
+    "code": "564130",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564235",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mandure",
+    "name_mr": "",
+    "code": "564235",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564233",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nivakane",
+    "name_mr": "",
+    "code": "564233",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564218",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pandharwadi",
+    "name_mr": "",
+    "code": "564218",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564221",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vekhandwadi",
+    "name_mr": "",
+    "code": "564221",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564227",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vajroshi",
+    "name_mr": "",
+    "code": "564227",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564129",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Zadoli",
+    "name_mr": "",
+    "code": "564129",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564133",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gawdewadi",
+    "name_mr": "",
+    "code": "564133",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564134",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kisrule",
+    "name_mr": "",
+    "code": "564134",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564212",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhoroshi",
+    "name_mr": "",
+    "code": "564212",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564236",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chafoli",
+    "name_mr": "",
+    "code": "564236",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564240",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Keral",
+    "name_mr": "",
+    "code": "564240",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564135",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nawaja",
+    "name_mr": "",
+    "code": "564135",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564228",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bandhvat",
+    "name_mr": "",
+    "code": "564228",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564237",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Divashi kh",
+    "name_mr": "",
+    "code": "564237",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564230",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dusale",
+    "name_mr": "",
+    "code": "564230",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564229",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pabhalwadi",
+    "name_mr": "",
+    "code": "564229",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564244",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Borgewadi",
+    "name_mr": "",
+    "code": "564244",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564238",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jungati",
+    "name_mr": "",
+    "code": "564238",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564452",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Yelavewadi",
+    "name_mr": "",
+    "code": "564452",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564454",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Lotalewadi",
+    "name_mr": "",
+    "code": "564454",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564457",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maskarwadi",
+    "name_mr": "",
+    "code": "564457",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564453",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kalgaon",
+    "name_mr": "",
+    "code": "564453",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564456",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Karapewadi",
+    "name_mr": "",
+    "code": "564456",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564458",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Loharwadi",
+    "name_mr": "",
+    "code": "564458",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564462",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ramishtewadi",
+    "name_mr": "",
+    "code": "564462",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564459",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chougulewadi",
+    "name_mr": "",
+    "code": "564459",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564460",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Acharewadi",
+    "name_mr": "",
+    "code": "564460",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564464",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Muttalwadi",
+    "name_mr": "",
+    "code": "564464",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564461",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kolagewadi",
+    "name_mr": "",
+    "code": "564461",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564455",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Letamewadi",
+    "name_mr": "",
+    "code": "564455",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564202",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dutalwadi",
+    "name_mr": "",
+    "code": "564202",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564205",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Awarde",
+    "name_mr": "",
+    "code": "564205",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564128",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shirshinge",
+    "name_mr": "",
+    "code": "564128",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564216",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Katewadi",
+    "name_mr": "",
+    "code": "564216",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564206",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bambavade",
+    "name_mr": "",
+    "code": "564206",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564232",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bharsakhale",
+    "name_mr": "",
+    "code": "564232",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564207",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kalambe",
+    "name_mr": "",
+    "code": "564207",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564126",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhokawale",
+    "name_mr": "",
+    "code": "564126",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564211",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gaymukhwadi",
+    "name_mr": "",
+    "code": "564211",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564234",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mharwand",
+    "name_mr": "",
+    "code": "564234",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564124",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Aral",
+    "name_mr": "",
+    "code": "564124",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-146",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564208",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jalu",
+    "name_mr": "",
+    "code": "564208",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564213",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambale",
+    "name_mr": "",
+    "code": "564213",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564214",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tarale",
+    "name_mr": "",
+    "code": "564214",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564215",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhangarwadi",
+    "name_mr": "",
+    "code": "564215",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564259",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tolewadi",
+    "name_mr": "",
+    "code": "564259",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564168",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jyotibachiwadi",
+    "name_mr": "",
+    "code": "564168",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564302",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Urul",
+    "name_mr": "",
+    "code": "564302",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564156",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mendheghar",
+    "name_mr": "",
+    "code": "564156",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564272",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Digewadi",
+    "name_mr": "",
+    "code": "564272",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564158",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Goshatwadi",
+    "name_mr": "",
+    "code": "564158",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564161",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Karate",
+    "name_mr": "",
+    "code": "564161",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564159",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vanzole",
+    "name_mr": "",
+    "code": "564159",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564301",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bodakewadi",
+    "name_mr": "",
+    "code": "564301",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564300",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Thomase",
+    "name_mr": "",
+    "code": "564300",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564271",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Lugadewadi",
+    "name_mr": "",
+    "code": "564271",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564169",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tamkade",
+    "name_mr": "",
+    "code": "564169",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564338",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mulgaon",
+    "name_mr": "",
+    "code": "564338",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564339",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dongarobachiwadi",
+    "name_mr": "",
+    "code": "564339",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564340",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tripudi",
+    "name_mr": "",
+    "code": "564340",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564274",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nadoli",
+    "name_mr": "",
+    "code": "564274",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564160",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Donichawada",
+    "name_mr": "",
+    "code": "564160",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564157",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kondhavale",
+    "name_mr": "",
+    "code": "564157",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564275",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Adul",
+    "name_mr": "",
+    "code": "564275",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564337",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kavarwadi",
+    "name_mr": "",
+    "code": "564337",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564171",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Banpethwadi",
+    "name_mr": "",
+    "code": "564171",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564310",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Girewadi",
+    "name_mr": "",
+    "code": "564310",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564276",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Subhashnagar",
+    "name_mr": "",
+    "code": "564276",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564306",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Yeradwadi",
+    "name_mr": "",
+    "code": "564306",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564278",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Padharwadi Telewadi",
+    "name_mr": "",
+    "code": "564278",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564309",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nisare",
+    "name_mr": "",
+    "code": "564309",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564308",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Abdarwadi",
+    "name_mr": "",
+    "code": "564308",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564307",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Malharpeth",
+    "name_mr": "",
+    "code": "564307",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564179",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Govare",
+    "name_mr": "",
+    "code": "564179",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564177",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chafer",
+    "name_mr": "",
+    "code": "564177",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564304",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vihe",
+    "name_mr": "",
+    "code": "564304",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564273",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Harugdewadi",
+    "name_mr": "",
+    "code": "564273",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564303",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shedgewadi",
+    "name_mr": "",
+    "code": "564303",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564173",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Zakade",
+    "name_mr": "",
+    "code": "564173",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564174",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Lendhori",
+    "name_mr": "",
+    "code": "564174",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564176",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Taliye",
+    "name_mr": "",
+    "code": "564176",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564178",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kadoli",
+    "name_mr": "",
+    "code": "564178",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564341",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chopadi",
+    "name_mr": "",
+    "code": "564341",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564172",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gunjali",
+    "name_mr": "",
+    "code": "564172",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564175",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maneri",
+    "name_mr": "",
+    "code": "564175",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564395",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Karale",
+    "name_mr": "",
+    "code": "564395",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564420",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Saikade",
+    "name_mr": "",
+    "code": "564420",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564421",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Manewadi",
+    "name_mr": "",
+    "code": "564421",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564424",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gudhe",
+    "name_mr": "",
+    "code": "564424",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564423",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Taygadewadi",
+    "name_mr": "",
+    "code": "564423",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564403",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jinti",
+    "name_mr": "",
+    "code": "564403",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564405",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Satar",
+    "name_mr": "",
+    "code": "564405",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564422",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Karpewadi",
+    "name_mr": "",
+    "code": "564422",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564402",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kolekarwadi",
+    "name_mr": "",
+    "code": "564402",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564399",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bhosgaon",
+    "name_mr": "",
+    "code": "564399",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564425",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pachupatewadi",
+    "name_mr": "",
+    "code": "564425",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564426",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Morewadi (kuthare)",
+    "name_mr": "",
+    "code": "564426",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564427",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kumbhargaon",
+    "name_mr": "",
+    "code": "564427",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564430",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shibewadi",
+    "name_mr": "",
+    "code": "564430",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564437",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Boragewadi",
+    "name_mr": "",
+    "code": "564437",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564434",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vaichalwadi",
+    "name_mr": "",
+    "code": "564434",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564406",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Modakwadi",
+    "name_mr": "",
+    "code": "564406",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564440",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "564440",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564408",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Umarkanchan",
+    "name_mr": "",
+    "code": "564408",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564409",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marathwadi",
+    "name_mr": "",
+    "code": "564409",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564401",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Retharekarwadi",
+    "name_mr": "",
+    "code": "564401",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564442",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pagewadi",
+    "name_mr": "",
+    "code": "564442",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564433",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Petekarwadi",
+    "name_mr": "",
+    "code": "564433",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564435",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bamanwadi",
+    "name_mr": "",
+    "code": "564435",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564407",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nigade",
+    "name_mr": "",
+    "code": "564407",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564199",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ghatewadi",
+    "name_mr": "",
+    "code": "564199",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564198",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Padekarwadi",
+    "name_mr": "",
+    "code": "564198",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564122",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kusavade",
+    "name_mr": "",
+    "code": "564122",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564200",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kadave Kh",
+    "name_mr": "",
+    "code": "564200",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-147",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564197",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maloshi",
+    "name_mr": "",
+    "code": "564197",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564187",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kushi",
+    "name_mr": "",
+    "code": "564187",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564201",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kadave  Bk.",
+    "name_mr": "",
+    "code": "564201",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564196",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dangistewadi",
+    "name_mr": "",
+    "code": "564196",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564194",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Murud",
+    "name_mr": "",
+    "code": "564194",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564190",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sawarghar",
+    "name_mr": "",
+    "code": "564190",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564195",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gorewadi",
+    "name_mr": "",
+    "code": "564195",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564219",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nune",
+    "name_mr": "",
+    "code": "564219",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564203",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Konjavade",
+    "name_mr": "",
+    "code": "564203",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564127",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dicholi",
+    "name_mr": "",
+    "code": "564127",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564191",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nivade",
+    "name_mr": "",
+    "code": "564191",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-148",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564193",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tondoshi",
+    "name_mr": "",
+    "code": "564193",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564204",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bhudakewadi",
+    "name_mr": "",
+    "code": "564204",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564210",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jambhekarwadi",
+    "name_mr": "",
+    "code": "564210",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-149",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564220",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Rahude",
+    "name_mr": "",
+    "code": "564220",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564241",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhadamwadi",
+    "name_mr": "",
+    "code": "564241",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564137",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nahimbe",
+    "name_mr": "",
+    "code": "564137",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564138",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mirgaon",
+    "name_mr": "",
+    "code": "564138",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564282",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Virewadi",
+    "name_mr": "",
+    "code": "564282",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564269",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sadawaghapur",
+    "name_mr": "",
+    "code": "564269",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564243",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maulinagar",
+    "name_mr": "",
+    "code": "564243",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564281",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chavanwadi",
+    "name_mr": "",
+    "code": "564281",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564246",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Khivashi",
+    "name_mr": "",
+    "code": "564246",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564280",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Keloli",
+    "name_mr": "",
+    "code": "564280",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564247",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ghanbi",
+    "name_mr": "",
+    "code": "564247",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564245",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ghanav",
+    "name_mr": "",
+    "code": "564245",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564242",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mendhoshi",
+    "name_mr": "",
+    "code": "564242",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564231",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pathavade",
+    "name_mr": "",
+    "code": "564231",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564248",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vatole",
+    "name_mr": "",
+    "code": "564248",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-150",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564286",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jalagewadi",
+    "name_mr": "",
+    "code": "564286",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564283",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Padloshi",
+    "name_mr": "",
+    "code": "564283",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564148",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Torane",
+    "name_mr": "",
+    "code": "564148",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564285",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nanegaon kh.",
+    "name_mr": "",
+    "code": "564285",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564249",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambavane",
+    "name_mr": "",
+    "code": "564249",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564288",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nanegaon bk.",
+    "name_mr": "",
+    "code": "564288",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564140",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Humbarli",
+    "name_mr": "",
+    "code": "564140",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564250",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chiteghar",
+    "name_mr": "",
+    "code": "564250",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "submerged-dup-151",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564284",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhayati",
+    "name_mr": "",
+    "code": "564284",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564143",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vajegaon",
+    "name_mr": "",
+    "code": "564143",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564256",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jaichiwadi",
+    "name_mr": "",
+    "code": "564256",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564287",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mathanewadi",
+    "name_mr": "",
+    "code": "564287",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564139",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kamargaon",
+    "name_mr": "",
+    "code": "564139",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564289",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kharadwadi",
+    "name_mr": "",
+    "code": "564289",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564254",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tamkane",
+    "name_mr": "",
+    "code": "564254",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564266",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Saltewadi",
+    "name_mr": "",
+    "code": "564266",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564149",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ghatmatha",
+    "name_mr": "",
+    "code": "564149",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564294",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "564294",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564265",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bibi",
+    "name_mr": "",
+    "code": "564265",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564257",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Karvat",
+    "name_mr": "",
+    "code": "564257",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564253",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Devghar tarf patan",
+    "name_mr": "",
+    "code": "564253",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564295",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chafal",
+    "name_mr": "",
+    "code": "564295",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564147",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gokul tarf helwak",
+    "name_mr": "",
+    "code": "564147",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564141",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Deshmukhwadi",
+    "name_mr": "",
+    "code": "564141",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564255",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bondri",
+    "name_mr": "",
+    "code": "564255",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564142",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gadhav  khop",
+    "name_mr": "",
+    "code": "564142",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564263",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ker",
+    "name_mr": "",
+    "code": "564263",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564291",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kocharewadi",
+    "name_mr": "",
+    "code": "564291",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564296",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Majgaon",
+    "name_mr": "",
+    "code": "564296",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564290",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Khonoli",
+    "name_mr": "",
+    "code": "564290",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564292",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Wagjaiwadi",
+    "name_mr": "",
+    "code": "564292",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564154",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shivandeshwar",
+    "name_mr": "",
+    "code": "564154",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564163",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vajegaon",
+    "name_mr": "",
+    "code": "564163",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564297",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dervan",
+    "name_mr": "",
+    "code": "564297",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564268",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mhavashi",
+    "name_mr": "",
+    "code": "564268",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564298",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dadholi",
+    "name_mr": "",
+    "code": "564298",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564293",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gamewadi",
+    "name_mr": "",
+    "code": "564293",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564146",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Rasati",
+    "name_mr": "",
+    "code": "564146",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564150",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kemase",
+    "name_mr": "",
+    "code": "564150",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564144",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Baje",
+    "name_mr": "",
+    "code": "564144",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564151",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Thankal",
+    "name_mr": "",
+    "code": "564151",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564267",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Surul",
+    "name_mr": "",
+    "code": "564267",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564264",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pimpaloshi",
+    "name_mr": "",
+    "code": "564264",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564262",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Katvadi",
+    "name_mr": "",
+    "code": "564262",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564258",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gheradategad",
+    "name_mr": "",
+    "code": "564258",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564152",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bopoli",
+    "name_mr": "",
+    "code": "564152",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564261",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mastewadi",
+    "name_mr": "",
+    "code": "564261",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564279",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sadawaghapur",
+    "name_mr": "",
+    "code": "564279",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564299",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shinganwadi",
+    "name_mr": "",
+    "code": "564299",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564164",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shiral",
+    "name_mr": "",
+    "code": "564164",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564162",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marul tarf patan",
+    "name_mr": "",
+    "code": "564162",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564167",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Yerad",
+    "name_mr": "",
+    "code": "564167",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564260",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kavadewadi",
+    "name_mr": "",
+    "code": "564260",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564145",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nanel",
+    "name_mr": "",
+    "code": "564145",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564270",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Yerphale",
+    "name_mr": "",
+    "code": "564270",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564153",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nechal",
+    "name_mr": "",
+    "code": "564153",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564155",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Helwak",
+    "name_mr": "",
+    "code": "564155",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-251596",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Patan (NP)",
+    "name_mr": "",
+    "code": "251596",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564170",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kaloli",
+    "name_mr": "",
+    "code": "564170",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564180",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Waghane",
+    "name_mr": "",
+    "code": "564180",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564277",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nade",
+    "name_mr": "",
+    "code": "564277",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564332",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Killemorgiri",
+    "name_mr": "",
+    "code": "564332",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564314",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Naralwadi",
+    "name_mr": "",
+    "code": "564314",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564342",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Belavade kh.",
+    "name_mr": "",
+    "code": "564342",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564343",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambrule",
+    "name_mr": "",
+    "code": "564343",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564305",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Navasarwadi",
+    "name_mr": "",
+    "code": "564305",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564345",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Aadev Kh.",
+    "name_mr": "",
+    "code": "564345",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564311",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Navadi",
+    "name_mr": "",
+    "code": "564311",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564317",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Khilarwadi",
+    "name_mr": "",
+    "code": "564317",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564312",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vetalwadi",
+    "name_mr": "",
+    "code": "564312",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564344",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Adadev",
+    "name_mr": "",
+    "code": "564344",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564184",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nav",
+    "name_mr": "",
+    "code": "564184",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564346",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Donglewadi",
+    "name_mr": "",
+    "code": "564346",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564365",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sangwad",
+    "name_mr": "",
+    "code": "564365",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564333",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Morgiri",
+    "name_mr": "",
+    "code": "564333",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564364",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Siddheshwar Nagar",
+    "name_mr": "",
+    "code": "564364",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564186",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Risawad",
+    "name_mr": "",
+    "code": "564186",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564313",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maundrul haveli",
+    "name_mr": "",
+    "code": "564313",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564315",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jamdadwadi & chaugulewadi",
+    "name_mr": "",
+    "code": "564315",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564183",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kolane",
+    "name_mr": "",
+    "code": "564183",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564363",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chopdarwadi",
+    "name_mr": "",
+    "code": "564363",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564366",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chougulewadi",
+    "name_mr": "",
+    "code": "564366",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564331",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gawalinagar",
+    "name_mr": "",
+    "code": "564331",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564330",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kokisare",
+    "name_mr": "",
+    "code": "564330",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564362",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gavhanwadi",
+    "name_mr": "",
+    "code": "564362",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564347",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vadi kotawade",
+    "name_mr": "",
+    "code": "564347",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564367",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Paparde Bk",
+    "name_mr": "",
+    "code": "564367",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564316",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sonaichiwadi",
+    "name_mr": "",
+    "code": "564316",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564357",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kasrund",
+    "name_mr": "",
+    "code": "564357",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564334",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pethshivapur",
+    "name_mr": "",
+    "code": "564334",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564361",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sulewadi",
+    "name_mr": "",
+    "code": "564361",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564185",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gothane",
+    "name_mr": "",
+    "code": "564185",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564360",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "564360",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564368",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Paparde Kh",
+    "name_mr": "",
+    "code": "564368",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564369",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marali",
+    "name_mr": "",
+    "code": "564369",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564327",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pachgani",
+    "name_mr": "",
+    "code": "564327",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564329",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bahe",
+    "name_mr": "",
+    "code": "564329",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564318",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Garawade",
+    "name_mr": "",
+    "code": "564318",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564348",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhavade",
+    "name_mr": "",
+    "code": "564348",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564355",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambrag",
+    "name_mr": "",
+    "code": "564355",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564320",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marul haveli",
+    "name_mr": "",
+    "code": "564320",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564370",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sonavade",
+    "name_mr": "",
+    "code": "564370",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564182",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mala",
+    "name_mr": "",
+    "code": "564182",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564356",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Natoshi",
+    "name_mr": "",
+    "code": "564356",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564321",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Divashi bk.",
+    "name_mr": "",
+    "code": "564321",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564359",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kalkewadi",
+    "name_mr": "",
+    "code": "564359",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564371",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Humbarwadi",
+    "name_mr": "",
+    "code": "564371",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564326",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Atoli",
+    "name_mr": "",
+    "code": "564326",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564319",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bahule",
+    "name_mr": "",
+    "code": "564319",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564328",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Guteghar",
+    "name_mr": "",
+    "code": "564328",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564373",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Davari",
+    "name_mr": "",
+    "code": "564373",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564354",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Gokul tarf patan",
+    "name_mr": "",
+    "code": "564354",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564372",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhajgaon",
+    "name_mr": "",
+    "code": "564372",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564349",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dikshi",
+    "name_mr": "",
+    "code": "564349",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564381",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mahind",
+    "name_mr": "",
+    "code": "564381",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564350",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kodal",
+    "name_mr": "",
+    "code": "564350",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564353",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambeghar tarf marli",
+    "name_mr": "",
+    "code": "564353",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564377",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Salave",
+    "name_mr": "",
+    "code": "564377",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564323",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Telewadi",
+    "name_mr": "",
+    "code": "564323",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564352",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kahir",
+    "name_mr": "",
+    "code": "564352",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564382",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bacholi",
+    "name_mr": "",
+    "code": "564382",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564325",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jarewadi",
+    "name_mr": "",
+    "code": "564325",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564324",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Korivale",
+    "name_mr": "",
+    "code": "564324",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564322",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Asawalewadi",
+    "name_mr": "",
+    "code": "564322",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564383",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Banpuri",
+    "name_mr": "",
+    "code": "564383",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564380",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ekavadewadi",
+    "name_mr": "",
+    "code": "564380",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564376",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Palashi",
+    "name_mr": "",
+    "code": "564376",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564351",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Humbarne",
+    "name_mr": "",
+    "code": "564351",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564384",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shitapwadi",
+    "name_mr": "",
+    "code": "564384",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564375",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tamine",
+    "name_mr": "",
+    "code": "564375",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564388",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mandrulkole Kh",
+    "name_mr": "",
+    "code": "564388",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564415",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shidrukwadi",
+    "name_mr": "",
+    "code": "564415",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564385",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sutarwadi",
+    "name_mr": "",
+    "code": "564385",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564386",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Manyachiwadi",
+    "name_mr": "",
+    "code": "564386",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564418",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Tupewadi",
+    "name_mr": "",
+    "code": "564418",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564392",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maldan",
+    "name_mr": "",
+    "code": "564392",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564419",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Khale",
+    "name_mr": "",
+    "code": "564419",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564394",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Udhavane",
+    "name_mr": "",
+    "code": "564394",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564391",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Janugdewadi",
+    "name_mr": "",
+    "code": "564391",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564416",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bagalwadi",
+    "name_mr": "",
+    "code": "564416",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564374",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Paneri",
+    "name_mr": "",
+    "code": "564374",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564397",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambavade kh.",
+    "name_mr": "",
+    "code": "564397",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564393",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sanbur",
+    "name_mr": "",
+    "code": "564393",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564417",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kadhane",
+    "name_mr": "",
+    "code": "564417",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564396",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ruvale",
+    "name_mr": "",
+    "code": "564396",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564429",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Varekarwadi",
+    "name_mr": "",
+    "code": "564429",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564441",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kuthare",
+    "name_mr": "",
+    "code": "564441",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564411",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "564411",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564358",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Pawarwadi",
+    "name_mr": "",
+    "code": "564358",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564412",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ghotil",
+    "name_mr": "",
+    "code": "564412",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564400",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Matrewadi",
+    "name_mr": "",
+    "code": "564400",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564410",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mendh",
+    "name_mr": "",
+    "code": "564410",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564443",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Supugadewadi",
+    "name_mr": "",
+    "code": "564443",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564438",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chalkewadi",
+    "name_mr": "",
+    "code": "564438",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564432",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jambhalwadi",
+    "name_mr": "",
+    "code": "564432",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564444",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Wazoli",
+    "name_mr": "",
+    "code": "564444",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564448",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chavanwadi  (dhamani )",
+    "name_mr": "",
+    "code": "564448",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564436",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Marekarwadi",
+    "name_mr": "",
+    "code": "564436",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564439",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Shendewadi (kumbhargaon)",
+    "name_mr": "",
+    "code": "564439",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564447",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "564447",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564414",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nivi",
+    "name_mr": "",
+    "code": "564414",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564449",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Galmewadi",
+    "name_mr": "",
+    "code": "564449",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564413",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kasani",
+    "name_mr": "",
+    "code": "564413",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564450",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maskarwadi",
+    "name_mr": "",
+    "code": "564450",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564181",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Patharpunj",
+    "name_mr": "",
+    "code": "564181",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564224",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Ambewadi",
+    "name_mr": "",
+    "code": "564224",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564225",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Fartarwadi",
+    "name_mr": "",
+    "code": "564225",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564226",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Jugaiwadi",
+    "name_mr": "",
+    "code": "564226",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564223",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Borgewadi",
+    "name_mr": "",
+    "code": "564223",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564132",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhuilwadi",
+    "name_mr": "",
+    "code": "564132",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564136",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Manainagar",
+    "name_mr": "",
+    "code": "564136",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564463",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bharewadi",
+    "name_mr": "",
+    "code": "564463",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564404",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sawantwadi",
+    "name_mr": "",
+    "code": "564404",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564123",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Van",
+    "name_mr": "",
+    "code": "564123",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564451",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Maskarwadi No. 1",
+    "name_mr": "",
+    "code": "564451",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564378",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Varpewadi",
+    "name_mr": "",
+    "code": "564378",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564379",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Borgewadi",
+    "name_mr": "",
+    "code": "564379",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564166",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Vittalwadi",
+    "name_mr": "",
+    "code": "564166",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564165",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Giraswadi",
+    "name_mr": "",
+    "code": "564165",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564192",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Daphalwadi",
+    "name_mr": "",
+    "code": "564192",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564431",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chikhalewadi",
+    "name_mr": "",
+    "code": "564431",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564428",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Manyachiwadi",
+    "name_mr": "",
+    "code": "564428",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564389",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sabalewadi",
+    "name_mr": "",
+    "code": "564389",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564387",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Mandrulkole",
+    "name_mr": "",
+    "code": "564387",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564398",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dhebewadi",
+    "name_mr": "",
+    "code": "564398",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564390",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bhilarwadi",
+    "name_mr": "",
+    "code": "564390",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564188",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bhambe",
+    "name_mr": "",
+    "code": "564188",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564189",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Bamanewadi",
+    "name_mr": "",
+    "code": "564189",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564251",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Sakhari",
+    "name_mr": "",
+    "code": "564251",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564252",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Kotawadewadi",
+    "name_mr": "",
+    "code": "564252",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564445",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dakewadi (Kalgaon)",
+    "name_mr": "",
+    "code": "564445",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564446",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Dakewadi (wazoli)",
+    "name_mr": "",
+    "code": "564446",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564335",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Nerale",
+    "name_mr": "",
+    "code": "564335",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  },
+  {
+    "village_id": "v-564336",
+    "district_id": "s-t-ra",
+    "taluka_id": "patan",
+    "name_en": "Chawaliwadi",
+    "name_mr": "",
+    "code": "564336",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/patan.geojson"
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "village_id": "v-527050",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Junone",
+    "name_mr": "",
+    "code": "527050",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527048",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Golegaon Bk",
+    "name_mr": "",
+    "code": "527048",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527049",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Pachadevali",
+    "name_mr": "",
+    "code": "527049",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527047",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Golegaon Kh",
+    "name_mr": "",
+    "code": "527047",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527059",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Varad Bk",
+    "name_mr": "",
+    "code": "527059",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527075",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Rajur",
+    "name_mr": "",
+    "code": "527075",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527074",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Varkhede Bk",
+    "name_mr": "",
+    "code": "527074",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527056",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "527056",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527083",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Jalchakra Kh",
+    "name_mr": "",
+    "code": "527083",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527060",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Palaskhede Bk",
+    "name_mr": "",
+    "code": "527060",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527084",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Vaki",
+    "name_mr": "",
+    "code": "527084",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527096",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Harankhede",
+    "name_mr": "",
+    "code": "527096",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527085",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Shelwad",
+    "name_mr": "",
+    "code": "527085",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527076",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Shevage Bk",
+    "name_mr": "",
+    "code": "527076",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527089",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Manur Kh",
+    "name_mr": "",
+    "code": "527089",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527077",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Chikhali Bk",
+    "name_mr": "",
+    "code": "527077",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527088",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Manur Bk",
+    "name_mr": "",
+    "code": "527088",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527051",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Karanji",
+    "name_mr": "",
+    "code": "527051",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527046",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Dhanori",
+    "name_mr": "",
+    "code": "527046",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527061",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Farkande",
+    "name_mr": "",
+    "code": "527061",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527064",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Shirsale",
+    "name_mr": "",
+    "code": "527064",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527062",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Amadgaon",
+    "name_mr": "",
+    "code": "527062",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527063",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Hingane",
+    "name_mr": "",
+    "code": "527063",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527045",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Vichave",
+    "name_mr": "",
+    "code": "527045",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527052",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Bhankhede Pr Varangaon",
+    "name_mr": "",
+    "code": "527052",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527080",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Salshingi",
+    "name_mr": "",
+    "code": "527080",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527067",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Sonoti",
+    "name_mr": "",
+    "code": "527067",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527065",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Chinchkhede Seem",
+    "name_mr": "",
+    "code": "527065",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527066",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Kolhadi",
+    "name_mr": "",
+    "code": "527066",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527053",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Surwade Bk",
+    "name_mr": "",
+    "code": "527053",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527054",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Manmodi",
+    "name_mr": "",
+    "code": "527054",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527079",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Kholpimpri",
+    "name_mr": "",
+    "code": "527079",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527068",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Nadgaon",
+    "name_mr": "",
+    "code": "527068",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527055",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Surwade Kh",
+    "name_mr": "",
+    "code": "527055",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527072",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Nimkhede",
+    "name_mr": "",
+    "code": "527072",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527058",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Varad Kh",
+    "name_mr": "",
+    "code": "527058",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527057",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Muktal",
+    "name_mr": "",
+    "code": "527057",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527069",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "527069",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527071",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Varkhede Kh",
+    "name_mr": "",
+    "code": "527071",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-276272",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Bodwad (NP)",
+    "name_mr": "",
+    "code": "276272",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527070",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Palaskhede Kh",
+    "name_mr": "",
+    "code": "527070",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527081",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Jalchakra Bk",
+    "name_mr": "",
+    "code": "527081",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527073",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Yengaon",
+    "name_mr": "",
+    "code": "527073",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527097",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Ghankhede",
+    "name_mr": "",
+    "code": "527097",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527087",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Yevati",
+    "name_mr": "",
+    "code": "527087",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527095",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Vadji",
+    "name_mr": "",
+    "code": "527095",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527086",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Revati",
+    "name_mr": "",
+    "code": "527086",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527078",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Chinchkhede Pr Bodwad",
+    "name_mr": "",
+    "code": "527078",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527090",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Kurha Hardo",
+    "name_mr": "",
+    "code": "527090",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527091",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Jamathi",
+    "name_mr": "",
+    "code": "527091",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527092",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Lonwadi Pr Bodwad",
+    "name_mr": "",
+    "code": "527092",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527094",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Shevage Kh",
+    "name_mr": "",
+    "code": "527094",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  },
+  {
+    "village_id": "v-527093",
+    "district_id": "jalgaon",
+    "taluka_id": "bodvad",
+    "name_en": "Dhondkheda",
+    "name_mr": "",
+    "code": "527093",
+    "boundary_file": "/data/boundaries/villages/jalgaon/bodvad.geojson"
+  }
+]

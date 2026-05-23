@@ -1,0 +1,974 @@
+[
+  {
+    "village_id": "v-535099",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Tidangi",
+    "name_mr": "",
+    "code": "535099",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535135",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Koreghat",
+    "name_mr": "",
+    "code": "535135",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535098",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dadhera",
+    "name_mr": "",
+    "code": "535098",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535136",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Telkamthi",
+    "name_mr": "",
+    "code": "535136",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535097",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Deoli",
+    "name_mr": "",
+    "code": "535097",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535100",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Telgaon",
+    "name_mr": "",
+    "code": "535100",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535103",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Tishti Bk",
+    "name_mr": "",
+    "code": "535103",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535111",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dudhabardi",
+    "name_mr": "",
+    "code": "535111",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535102",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Tishti Kh",
+    "name_mr": "",
+    "code": "535102",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535110",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sonoli",
+    "name_mr": "",
+    "code": "535110",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535104",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Zilpi",
+    "name_mr": "",
+    "code": "535104",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535101",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Nandi Kheda",
+    "name_mr": "",
+    "code": "535101",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535137",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Nilgaon",
+    "name_mr": "",
+    "code": "535137",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535112",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Panjra",
+    "name_mr": "",
+    "code": "535112",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535138",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Borgaon bk.",
+    "name_mr": "",
+    "code": "535138",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535107",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Pilkapar",
+    "name_mr": "",
+    "code": "535107",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535109",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Jirola",
+    "name_mr": "",
+    "code": "535109",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535114",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Panubali",
+    "name_mr": "",
+    "code": "535114",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535108",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Mandvi",
+    "name_mr": "",
+    "code": "535108",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535113",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Parsodi Wakil",
+    "name_mr": "",
+    "code": "535113",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535115",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Kokarda",
+    "name_mr": "",
+    "code": "535115",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535139",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Adasa",
+    "name_mr": "",
+    "code": "535139",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535106",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Budhla",
+    "name_mr": "",
+    "code": "535106",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535105",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Lohagad",
+    "name_mr": "",
+    "code": "535105",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535116",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khumari",
+    "name_mr": "",
+    "code": "535116",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535141",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dhapewada Bk",
+    "name_mr": "",
+    "code": "535141",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535142",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Kanyadhol",
+    "name_mr": "",
+    "code": "535142",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535140",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sonpur",
+    "name_mr": "",
+    "code": "535140",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535118",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khursapar",
+    "name_mr": "",
+    "code": "535118",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535117",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Mhasepathar",
+    "name_mr": "",
+    "code": "535117",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535143",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sindi",
+    "name_mr": "",
+    "code": "535143",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535148",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Madha sawangi",
+    "name_mr": "",
+    "code": "535148",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535149",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "535149",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-251343",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Mohpa (M CI)",
+    "name_mr": "",
+    "code": "251343",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535144",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Pipla (Kinkheda)",
+    "name_mr": "",
+    "code": "535144",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535150",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khangaon",
+    "name_mr": "",
+    "code": "535150",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535119",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ramgiri",
+    "name_mr": "",
+    "code": "535119",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535155",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sonapar",
+    "name_mr": "",
+    "code": "535155",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535145",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Mohagaon",
+    "name_mr": "",
+    "code": "535145",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535151",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dhurkheda",
+    "name_mr": "",
+    "code": "535151",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535152",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Borgaon kh.",
+    "name_mr": "",
+    "code": "535152",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535156",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dhapewada Kh",
+    "name_mr": "",
+    "code": "535156",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535154",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Bhandagi",
+    "name_mr": "",
+    "code": "535154",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535123",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Susundri",
+    "name_mr": "",
+    "code": "535123",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535167",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Belori Bk",
+    "name_mr": "",
+    "code": "535167",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535146",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "535146",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535147",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Wadhona Kh",
+    "name_mr": "",
+    "code": "535147",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535122",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khairi (Desh)",
+    "name_mr": "",
+    "code": "535122",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535157",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Wadhona Bk",
+    "name_mr": "",
+    "code": "535157",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535153",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dorli (mani)",
+    "name_mr": "",
+    "code": "535153",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535120",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Chakdoh",
+    "name_mr": "",
+    "code": "535120",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535121",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Pardi (Desh)",
+    "name_mr": "",
+    "code": "535121",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535158",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sawali Kh",
+    "name_mr": "",
+    "code": "535158",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535124",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sawandri",
+    "name_mr": "",
+    "code": "535124",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535166",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sawali Bk",
+    "name_mr": "",
+    "code": "535166",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535168",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Tonda Khairi",
+    "name_mr": "",
+    "code": "535168",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535165",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Waroda",
+    "name_mr": "",
+    "code": "535165",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535125",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Yelkapar",
+    "name_mr": "",
+    "code": "535125",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535128",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Wathoda",
+    "name_mr": "",
+    "code": "535128",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535127",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sonoli",
+    "name_mr": "",
+    "code": "535127",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535162",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sindi",
+    "name_mr": "",
+    "code": "535162",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535126",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Kohali",
+    "name_mr": "",
+    "code": "535126",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535159",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ubali",
+    "name_mr": "",
+    "code": "535159",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535169",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Gowari",
+    "name_mr": "",
+    "code": "535169",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535129",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ubagi",
+    "name_mr": "",
+    "code": "535129",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535163",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Zunki",
+    "name_mr": "",
+    "code": "535163",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535172",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ghorad",
+    "name_mr": "",
+    "code": "535172",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535170",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khairi (Lakhmaji)",
+    "name_mr": "",
+    "code": "535170",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535130",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Mohali",
+    "name_mr": "",
+    "code": "535130",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535171",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "535171",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535161",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Peth Ubali",
+    "name_mr": "",
+    "code": "535161",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535160",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khapari (Kothe)",
+    "name_mr": "",
+    "code": "535160",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535173",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ghogali",
+    "name_mr": "",
+    "code": "535173",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535131",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Pohigond Khairi",
+    "name_mr": "",
+    "code": "535131",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-251342",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Kalmeshwar-Bramhni (M Cl)",
+    "name_mr": "",
+    "code": "251342",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535164",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dorli (Bhodji)",
+    "name_mr": "",
+    "code": "535164",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535133",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "535133",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535132",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Bordoh",
+    "name_mr": "",
+    "code": "535132",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535175",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khairi (Harji)",
+    "name_mr": "",
+    "code": "535175",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535181",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "535181",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535174",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Uparwani",
+    "name_mr": "",
+    "code": "535174",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535184",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Pipla",
+    "name_mr": "",
+    "code": "535184",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535185",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dahegaon",
+    "name_mr": "",
+    "code": "535185",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535134",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Linga",
+    "name_mr": "",
+    "code": "535134",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535182",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Selu",
+    "name_mr": "",
+    "code": "535182",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535183",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sahajapur",
+    "name_mr": "",
+    "code": "535183",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535180",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Gumthala",
+    "name_mr": "",
+    "code": "535180",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535176",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Nimboli",
+    "name_mr": "",
+    "code": "535176",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535179",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Lonara",
+    "name_mr": "",
+    "code": "535179",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535186",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Dorli gangaji",
+    "name_mr": "",
+    "code": "535186",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535187",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Kalambi",
+    "name_mr": "",
+    "code": "535187",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535188",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ketapar",
+    "name_mr": "",
+    "code": "535188",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535177",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ladai (Jangli)",
+    "name_mr": "",
+    "code": "535177",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535198",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Sahuli",
+    "name_mr": "",
+    "code": "535198",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535189",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Astikala",
+    "name_mr": "",
+    "code": "535189",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "bazargaon-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "BAZARGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535178",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Ladai (mal)",
+    "name_mr": "",
+    "code": "535178",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535197",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Nanda",
+    "name_mr": "",
+    "code": "535197",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535196",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Karli",
+    "name_mr": "",
+    "code": "535196",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535190",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Pilkapar",
+    "name_mr": "",
+    "code": "535190",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535195",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Khapari (Uma)",
+    "name_mr": "",
+    "code": "535195",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535194",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Nimji",
+    "name_mr": "",
+    "code": "535194",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535192",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Gadaga",
+    "name_mr": "",
+    "code": "535192",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535191",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "535191",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535200",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Gondkhairi",
+    "name_mr": "",
+    "code": "535200",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535193",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "535193",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535201",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Chinchbhuwan",
+    "name_mr": "",
+    "code": "535201",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  },
+  {
+    "village_id": "v-535199",
+    "district_id": "nagpur",
+    "taluka_id": "kalameshwar",
+    "name_en": "Alesur",
+    "name_mr": "",
+    "code": "535199",
+    "boundary_file": "/data/boundaries/villages/nagpur/kalameshwar.geojson"
+  }
+]

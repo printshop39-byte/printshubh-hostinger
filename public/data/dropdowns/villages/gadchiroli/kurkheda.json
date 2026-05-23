@@ -1,0 +1,1199 @@
+[
+  {
+    "village_id": "v-538691",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chandona",
+    "name_mr": "",
+    "code": "538691",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538640",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Ghati",
+    "name_mr": "",
+    "code": "538640",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538693",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Ambezari",
+    "name_mr": "",
+    "code": "538693",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538639",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "538639",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538698",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dalli",
+    "name_mr": "",
+    "code": "538698",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538713",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Khobramendha",
+    "name_mr": "",
+    "code": "538713",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538643",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bhagawanpur",
+    "name_mr": "",
+    "code": "538643",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538641",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "538641",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538712",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dameshwar",
+    "name_mr": "",
+    "code": "538712",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538699",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Nalikasa",
+    "name_mr": "",
+    "code": "538699",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538700",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Yengalkheda",
+    "name_mr": "",
+    "code": "538700",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538707",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sonsari",
+    "name_mr": "",
+    "code": "538707",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538702",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dhusi Masahat",
+    "name_mr": "",
+    "code": "538702",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-68",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538657",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Halkikanhar",
+    "name_mr": "",
+    "code": "538657",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538655",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bamhani",
+    "name_mr": "",
+    "code": "538655",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538656",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Pitesur",
+    "name_mr": "",
+    "code": "538656",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538659",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sindesur",
+    "name_mr": "",
+    "code": "538659",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538616",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Gewardha",
+    "name_mr": "",
+    "code": "538616",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538658",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kotaldoha",
+    "name_mr": "",
+    "code": "538658",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538660",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Joshitola",
+    "name_mr": "",
+    "code": "538660",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538665",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Lawari",
+    "name_mr": "",
+    "code": "538665",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538663",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Charbhatti",
+    "name_mr": "",
+    "code": "538663",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538607",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "538607",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538609",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dhanori",
+    "name_mr": "",
+    "code": "538609",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538608",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Anjantola",
+    "name_mr": "",
+    "code": "538608",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538664",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bijapur",
+    "name_mr": "",
+    "code": "538664",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538615",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Khedegaon",
+    "name_mr": "",
+    "code": "538615",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538666",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Yerkadi",
+    "name_mr": "",
+    "code": "538666",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538662",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Salangtola",
+    "name_mr": "",
+    "code": "538662",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538661",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Palasgad",
+    "name_mr": "",
+    "code": "538661",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538673",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Khedegaon",
+    "name_mr": "",
+    "code": "538673",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538612",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dhamaditola",
+    "name_mr": "",
+    "code": "538612",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538672",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Maushi",
+    "name_mr": "",
+    "code": "538672",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538611",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "538611",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538671",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Gargada",
+    "name_mr": "",
+    "code": "538671",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538610",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sadhutola",
+    "name_mr": "",
+    "code": "538610",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538667",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538667",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538619",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Mohagaon Alias Wakadi",
+    "name_mr": "",
+    "code": "538619",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538670",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Katangtola",
+    "name_mr": "",
+    "code": "538670",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538668",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Marartola",
+    "name_mr": "",
+    "code": "538668",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538669",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Antargaon",
+    "name_mr": "",
+    "code": "538669",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538614",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chikhali",
+    "name_mr": "",
+    "code": "538614",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538613",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Nanhi",
+    "name_mr": "",
+    "code": "538613",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538620",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Lendhari",
+    "name_mr": "",
+    "code": "538620",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538674",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chikhaldhokada",
+    "name_mr": "",
+    "code": "538674",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-276286",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kurkheda (NP)",
+    "name_mr": "",
+    "code": "276286",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538676",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Purada",
+    "name_mr": "",
+    "code": "538676",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538627",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Umarzari",
+    "name_mr": "",
+    "code": "538627",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538675",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Hatinagar",
+    "name_mr": "",
+    "code": "538675",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538678",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Wagdara Alias Gowarhudki",
+    "name_mr": "",
+    "code": "538678",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538621",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bhimanpayli",
+    "name_mr": "",
+    "code": "538621",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538677",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Jamtola",
+    "name_mr": "",
+    "code": "538677",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538622",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Janbhur Kheda",
+    "name_mr": "",
+    "code": "538622",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538617",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chichtola",
+    "name_mr": "",
+    "code": "538617",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538623",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kumbhitola",
+    "name_mr": "",
+    "code": "538623",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538680",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Laxmipur",
+    "name_mr": "",
+    "code": "538680",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538626",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Gurnoli",
+    "name_mr": "",
+    "code": "538626",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538681",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chirchadi",
+    "name_mr": "",
+    "code": "538681",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538631",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Gothangaon",
+    "name_mr": "",
+    "code": "538631",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538625",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Andhali",
+    "name_mr": "",
+    "code": "538625",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538629",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Maldugi",
+    "name_mr": "",
+    "code": "538629",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538624",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Wagheda",
+    "name_mr": "",
+    "code": "538624",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538682",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bhategaon",
+    "name_mr": "",
+    "code": "538682",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538679",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Ramgad",
+    "name_mr": "",
+    "code": "538679",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538630",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Yerandi",
+    "name_mr": "",
+    "code": "538630",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538684",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sitashivani",
+    "name_mr": "",
+    "code": "538684",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538628",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Nawargaon",
+    "name_mr": "",
+    "code": "538628",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538683",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dadapur",
+    "name_mr": "",
+    "code": "538683",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538635",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Arattondi",
+    "name_mr": "",
+    "code": "538635",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538636",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Jayatpur (Rith)",
+    "name_mr": "",
+    "code": "538636",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538687",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sonpur",
+    "name_mr": "",
+    "code": "538687",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538634",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Saytola",
+    "name_mr": "",
+    "code": "538634",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538633",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "538633",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538632",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "538632",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538686",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Yedapur",
+    "name_mr": "",
+    "code": "538686",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538685",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Warvi",
+    "name_mr": "",
+    "code": "538685",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-69",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538637",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kharmaltola",
+    "name_mr": "",
+    "code": "538637",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538696",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kurandi (Rith)",
+    "name_mr": "",
+    "code": "538696",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538688",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Shivni",
+    "name_mr": "",
+    "code": "538688",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538694",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chipari",
+    "name_mr": "",
+    "code": "538694",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538692",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Andhali",
+    "name_mr": "",
+    "code": "538692",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538638",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "538638",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538689",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chandagad",
+    "name_mr": "",
+    "code": "538689",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538697",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Katalwada",
+    "name_mr": "",
+    "code": "538697",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538690",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Salai Tola",
+    "name_mr": "",
+    "code": "538690",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538695",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bhandari (Masahat)",
+    "name_mr": "",
+    "code": "538695",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-70",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538642",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kharkada",
+    "name_mr": "",
+    "code": "538642",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538646",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chinegaon",
+    "name_mr": "",
+    "code": "538646",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538701",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Chichewada",
+    "name_mr": "",
+    "code": "538701",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538703",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538703",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-71",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538717",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Ranwahi",
+    "name_mr": "",
+    "code": "538717",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538647",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Palasgaon",
+    "name_mr": "",
+    "code": "538647",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538708",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bandhgaon",
+    "name_mr": "",
+    "code": "538708",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538711",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Neharpayli",
+    "name_mr": "",
+    "code": "538711",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538645",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Gangoli",
+    "name_mr": "",
+    "code": "538645",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538644",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "538644",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538716",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kasarbodi",
+    "name_mr": "",
+    "code": "538716",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538710",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "538710",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538704",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kosi",
+    "name_mr": "",
+    "code": "538704",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538648",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kadholi",
+    "name_mr": "",
+    "code": "538648",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538715",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Palapundi",
+    "name_mr": "",
+    "code": "538715",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538729",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Charvidand",
+    "name_mr": "",
+    "code": "538729",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538705",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Mohagaon",
+    "name_mr": "",
+    "code": "538705",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538709",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Bortola",
+    "name_mr": "",
+    "code": "538709",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538714",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Yedaskuhi",
+    "name_mr": "",
+    "code": "538714",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538653",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Wasi",
+    "name_mr": "",
+    "code": "538653",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538706",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Mendha",
+    "name_mr": "",
+    "code": "538706",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538728",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Malewada",
+    "name_mr": "",
+    "code": "538728",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538718",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dhanegaon",
+    "name_mr": "",
+    "code": "538718",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538719",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "538719",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538732",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Yedaskuhi Masehat",
+    "name_mr": "",
+    "code": "538732",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538654",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Uradi",
+    "name_mr": "",
+    "code": "538654",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538649",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sawalkheda",
+    "name_mr": "",
+    "code": "538649",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538733",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Gangsaitola",
+    "name_mr": "",
+    "code": "538733",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538730",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Huryaldand",
+    "name_mr": "",
+    "code": "538730",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538720",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Dholdongri",
+    "name_mr": "",
+    "code": "538720",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538651",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "538651",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538727",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Fari",
+    "name_mr": "",
+    "code": "538727",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538652",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sonerangi",
+    "name_mr": "",
+    "code": "538652",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538731",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Kumalpar (Rith)",
+    "name_mr": "",
+    "code": "538731",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538650",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Karadi",
+    "name_mr": "",
+    "code": "538650",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538721",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Palasgoan",
+    "name_mr": "",
+    "code": "538721",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538726",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Navezari",
+    "name_mr": "",
+    "code": "538726",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538724",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Angara",
+    "name_mr": "",
+    "code": "538724",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538722",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Sawatala",
+    "name_mr": "",
+    "code": "538722",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538725",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Satitola",
+    "name_mr": "",
+    "code": "538725",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  },
+  {
+    "village_id": "v-538723",
+    "district_id": "gadchiroli",
+    "taluka_id": "kurkheda",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "538723",
+    "boundary_file": "/data/boundaries/villages/gadchiroli/kurkheda.geojson"
+  }
+]

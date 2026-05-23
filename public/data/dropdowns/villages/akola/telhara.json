@@ -1,0 +1,938 @@
+[
+  {
+    "village_id": "v-251309",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Telhara (M CI)",
+    "name_mr": "",
+    "code": "251309",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529655",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sonkel",
+    "name_mr": "",
+    "code": "529655",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529670",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Wadgaon Rothe",
+    "name_mr": "",
+    "code": "529670",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529673",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Dapura",
+    "name_mr": "",
+    "code": "529673",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529639",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Bhokar",
+    "name_mr": "",
+    "code": "529639",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529649",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Warud Bk",
+    "name_mr": "",
+    "code": "529649",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529650",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Ghodegaon",
+    "name_mr": "",
+    "code": "529650",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529652",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Malegaon Bazar",
+    "name_mr": "",
+    "code": "529652",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529640",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Pathardi",
+    "name_mr": "",
+    "code": "529640",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529657",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Ranegaon",
+    "name_mr": "",
+    "code": "529657",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529653",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sheri Kh",
+    "name_mr": "",
+    "code": "529653",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529656",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "529656",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529619",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Bhili",
+    "name_mr": "",
+    "code": "529619",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529620",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Dhonda Akhar",
+    "name_mr": "",
+    "code": "529620",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529621",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Chipi",
+    "name_mr": "",
+    "code": "529621",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529622",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Karhi Pr. Adgaon",
+    "name_mr": "",
+    "code": "529622",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529624",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Borwa",
+    "name_mr": "",
+    "code": "529624",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529599",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Zari Bazar",
+    "name_mr": "",
+    "code": "529599",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529618",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Chandanpur",
+    "name_mr": "",
+    "code": "529618",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529623",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Karhi Pr. Rupagad",
+    "name_mr": "",
+    "code": "529623",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529601",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Chinchari",
+    "name_mr": "",
+    "code": "529601",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529626",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Chitalwadi",
+    "name_mr": "",
+    "code": "529626",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529600",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Diwanzari",
+    "name_mr": "",
+    "code": "529600",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529659",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Bhamberi",
+    "name_mr": "",
+    "code": "529659",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529672",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Manabda",
+    "name_mr": "",
+    "code": "529672",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529663",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Wakodi",
+    "name_mr": "",
+    "code": "529663",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529661",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Thar",
+    "name_mr": "",
+    "code": "529661",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529643",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Atkali",
+    "name_mr": "",
+    "code": "529643",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529660",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Khaparkhed",
+    "name_mr": "",
+    "code": "529660",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529662",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Tudgaon",
+    "name_mr": "",
+    "code": "529662",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529641",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Chapaner",
+    "name_mr": "",
+    "code": "529641",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529642",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "529642",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529664",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "529664",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529671",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "529671",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529666",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Jafarapur",
+    "name_mr": "",
+    "code": "529666",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529665",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Wadi Adampur",
+    "name_mr": "",
+    "code": "529665",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529644",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Nimboli",
+    "name_mr": "",
+    "code": "529644",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529597",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Moypani",
+    "name_mr": "",
+    "code": "529597",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529596",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Pimparkhed",
+    "name_mr": "",
+    "code": "529596",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529598",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Umarshevadi",
+    "name_mr": "",
+    "code": "529598",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529625",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Khandala",
+    "name_mr": "",
+    "code": "529625",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529602",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Moradi",
+    "name_mr": "",
+    "code": "529602",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529603",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Hiwarkhed (MCl)",
+    "name_mr": "",
+    "code": "529603",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529605",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Badkhed",
+    "name_mr": "",
+    "code": "529605",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529604",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Karla BK",
+    "name_mr": "",
+    "code": "529604",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529627",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sadarpur",
+    "name_mr": "",
+    "code": "529627",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529631",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Adgaon BK",
+    "name_mr": "",
+    "code": "529631",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529606",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "529606",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529607",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Saundala",
+    "name_mr": "",
+    "code": "529607",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529628",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Mehkhed",
+    "name_mr": "",
+    "code": "529628",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529610",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Talegaon Kh",
+    "name_mr": "",
+    "code": "529610",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529629",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Malthana Kh",
+    "name_mr": "",
+    "code": "529629",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529630",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Malthana Bk",
+    "name_mr": "",
+    "code": "529630",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529608",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sonwadi",
+    "name_mr": "",
+    "code": "529608",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529632",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Shivaji Nagar",
+    "name_mr": "",
+    "code": "529632",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529609",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Parasharampur",
+    "name_mr": "",
+    "code": "529609",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529616",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Danapur",
+    "name_mr": "",
+    "code": "529616",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529612",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Talegaon Bk",
+    "name_mr": "",
+    "code": "529612",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529614",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Hingani BK",
+    "name_mr": "",
+    "code": "529614",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529633",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Malegaon Pr.Adgaon",
+    "name_mr": "",
+    "code": "529633",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529635",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Malpura",
+    "name_mr": "",
+    "code": "529635",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529615",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Hingani KH",
+    "name_mr": "",
+    "code": "529615",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529613",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Gordha",
+    "name_mr": "",
+    "code": "529613",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529634",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Warud Kh",
+    "name_mr": "",
+    "code": "529634",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529611",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Kalamkhed",
+    "name_mr": "",
+    "code": "529611",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529638",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sirsoli",
+    "name_mr": "",
+    "code": "529638",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529637",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Kalegaon",
+    "name_mr": "",
+    "code": "529637",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529648",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Belkhed",
+    "name_mr": "",
+    "code": "529648",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529636",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Akoli Ruprao",
+    "name_mr": "",
+    "code": "529636",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529646",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Raikhed",
+    "name_mr": "",
+    "code": "529646",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529617",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Hayatpur",
+    "name_mr": "",
+    "code": "529617",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529645",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Changalwadi",
+    "name_mr": "",
+    "code": "529645",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529647",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Kotha",
+    "name_mr": "",
+    "code": "529647",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529658",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Jastagaon",
+    "name_mr": "",
+    "code": "529658",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529654",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sheri Pr.wadner",
+    "name_mr": "",
+    "code": "529654",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529668",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Warud wadner",
+    "name_mr": "",
+    "code": "529668",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529669",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Nimbora Kh",
+    "name_mr": "",
+    "code": "529669",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529676",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Ubarkhed",
+    "name_mr": "",
+    "code": "529676",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529667",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Ukali Bajar",
+    "name_mr": "",
+    "code": "529667",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529675",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Khel Mukadam",
+    "name_mr": "",
+    "code": "529675",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529677",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Kheldeshpande",
+    "name_mr": "",
+    "code": "529677",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529680",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Nimbora Bk",
+    "name_mr": "",
+    "code": "529680",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529683",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Wangargaon",
+    "name_mr": "",
+    "code": "529683",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529674",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Khelkrishnaji",
+    "name_mr": "",
+    "code": "529674",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529678",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Manatri Kh",
+    "name_mr": "",
+    "code": "529678",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529679",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Manatri Bk",
+    "name_mr": "",
+    "code": "529679",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529689",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Khelsatwaji",
+    "name_mr": "",
+    "code": "529689",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529681",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Piwandal Bk",
+    "name_mr": "",
+    "code": "529681",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529682",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Babhulgaon",
+    "name_mr": "",
+    "code": "529682",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529690",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Narsipur",
+    "name_mr": "",
+    "code": "529690",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529693",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Ner",
+    "name_mr": "",
+    "code": "529693",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529688",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Bambarda KH",
+    "name_mr": "",
+    "code": "529688",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529685",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Talegaon Pr.wadner",
+    "name_mr": "",
+    "code": "529685",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529691",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Khakata",
+    "name_mr": "",
+    "code": "529691",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529684",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Talegaon Pr.Paturdi",
+    "name_mr": "",
+    "code": "529684",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529694",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Piwandal Kh",
+    "name_mr": "",
+    "code": "529694",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529687",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Adsul",
+    "name_mr": "",
+    "code": "529687",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529686",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Daula",
+    "name_mr": "",
+    "code": "529686",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529692",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Umri",
+    "name_mr": "",
+    "code": "529692",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529695",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sangavi",
+    "name_mr": "",
+    "code": "529695",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529651",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Sheri Bk",
+    "name_mr": "",
+    "code": "529651",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-529595",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Wari Bhairaogad",
+    "name_mr": "",
+    "code": "529595",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-531592",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Barukheda",
+    "name_mr": "",
+    "code": "531592",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  },
+  {
+    "village_id": "v-531595",
+    "district_id": "akola",
+    "taluka_id": "telhara",
+    "name_en": "Nagartas",
+    "name_mr": "",
+    "code": "531595",
+    "boundary_file": "/data/boundaries/villages/akola/telhara.geojson"
+  }
+]

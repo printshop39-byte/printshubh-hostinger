@@ -1,0 +1,875 @@
+[
+  {
+    "village_id": "v-561099",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kapilapuri",
+    "name_mr": "",
+    "code": "561099",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561103",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "561103",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561102",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Shirala",
+    "name_mr": "",
+    "code": "561102",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561101",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Lohara",
+    "name_mr": "",
+    "code": "561101",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561100",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Wangegavhan",
+    "name_mr": "",
+    "code": "561100",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561104",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Nalgaon",
+    "name_mr": "",
+    "code": "561104",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561062",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Katewadi",
+    "name_mr": "",
+    "code": "561062",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561068",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Ingoda",
+    "name_mr": "",
+    "code": "561068",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561061",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Deulgaon",
+    "name_mr": "",
+    "code": "561061",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561067",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Parewadi",
+    "name_mr": "",
+    "code": "561067",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561106",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Rohkal",
+    "name_mr": "",
+    "code": "561106",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561063",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Gosaviwadi (Donja)",
+    "name_mr": "",
+    "code": "561063",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561064",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Aleshwar",
+    "name_mr": "",
+    "code": "561064",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561131",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Yenegaon",
+    "name_mr": "",
+    "code": "561131",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561077",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Domgaon",
+    "name_mr": "",
+    "code": "561077",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561123",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Brahmagaon",
+    "name_mr": "",
+    "code": "561123",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561093",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Khasgaon",
+    "name_mr": "",
+    "code": "561093",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561091",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Katrabad",
+    "name_mr": "",
+    "code": "561091",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561092",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Songiri",
+    "name_mr": "",
+    "code": "561092",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561090",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Pithapuri",
+    "name_mr": "",
+    "code": "561090",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561125",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Asu",
+    "name_mr": "",
+    "code": "561125",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561124",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Saranwadi",
+    "name_mr": "",
+    "code": "561124",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561095",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Dhagpimpri",
+    "name_mr": "",
+    "code": "561095",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561094",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Deogaon kh.",
+    "name_mr": "",
+    "code": "561094",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561126",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Ainapurwadi",
+    "name_mr": "",
+    "code": "561126",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561098",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Karanja",
+    "name_mr": "",
+    "code": "561098",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561097",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Awar pimpri",
+    "name_mr": "",
+    "code": "561097",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561096",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Wadner",
+    "name_mr": "",
+    "code": "561096",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561066",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Donja",
+    "name_mr": "",
+    "code": "561066",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561070",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kandari",
+    "name_mr": "",
+    "code": "561070",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561071",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "561071",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561072",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Mugaon",
+    "name_mr": "",
+    "code": "561072",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561065",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Bangalwadi",
+    "name_mr": "",
+    "code": "561065",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561127",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Sakat kh.",
+    "name_mr": "",
+    "code": "561127",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561107",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Sakat bk.",
+    "name_mr": "",
+    "code": "561107",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561108",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Pistamwadi",
+    "name_mr": "",
+    "code": "561108",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561112",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "561112",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561076",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kumbheja",
+    "name_mr": "",
+    "code": "561076",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561114",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Andhori",
+    "name_mr": "",
+    "code": "561114",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561081",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Pimparkhed",
+    "name_mr": "",
+    "code": "561081",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561113",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Rajuri",
+    "name_mr": "",
+    "code": "561113",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561130",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Wadi Rajuri",
+    "name_mr": "",
+    "code": "561130",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561080",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "561080",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561133",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Bhandgaon",
+    "name_mr": "",
+    "code": "561133",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561115",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Andhora",
+    "name_mr": "",
+    "code": "561115",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561116",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Gharagaon",
+    "name_mr": "",
+    "code": "561116",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561119",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Sirsao",
+    "name_mr": "",
+    "code": "561119",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561078",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Rosa",
+    "name_mr": "",
+    "code": "561078",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561082",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Khasapuri",
+    "name_mr": "",
+    "code": "561082",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561079",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Jamgaon",
+    "name_mr": "",
+    "code": "561079",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561117",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kangalgaon",
+    "name_mr": "",
+    "code": "561117",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561083",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Bodakha",
+    "name_mr": "",
+    "code": "561083",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561085",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Bawachi",
+    "name_mr": "",
+    "code": "561085",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561089",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Bhotra",
+    "name_mr": "",
+    "code": "561089",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561084",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Dahitana",
+    "name_mr": "",
+    "code": "561084",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561121",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Wakadi",
+    "name_mr": "",
+    "code": "561121",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561087",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Rui",
+    "name_mr": "",
+    "code": "561087",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561086",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Dudhi",
+    "name_mr": "",
+    "code": "561086",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561122",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Pimpalwadi",
+    "name_mr": "",
+    "code": "561122",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561120",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Hingangaon Bk.",
+    "name_mr": "",
+    "code": "561120",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561040",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Deogaon Bk.",
+    "name_mr": "",
+    "code": "561040",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561039",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Jakate wadi",
+    "name_mr": "",
+    "code": "561039",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561046",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "561046",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561055",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Dhotri",
+    "name_mr": "",
+    "code": "561055",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561041",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Gosaviwadi",
+    "name_mr": "",
+    "code": "561041",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561044",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Pandharewadi",
+    "name_mr": "",
+    "code": "561044",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561043",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Takmodwadi",
+    "name_mr": "",
+    "code": "561043",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561050",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Undegaon",
+    "name_mr": "",
+    "code": "561050",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561042",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Khandeshwar wadi",
+    "name_mr": "",
+    "code": "561042",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561049",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Manik nagar",
+    "name_mr": "",
+    "code": "561049",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561054",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kokarwadi",
+    "name_mr": "",
+    "code": "561054",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561052",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kukkadgaon",
+    "name_mr": "",
+    "code": "561052",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561038",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Chinchpur Kh.",
+    "name_mr": "",
+    "code": "561038",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561051",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "561051",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561056",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Tandul wadi",
+    "name_mr": "",
+    "code": "561056",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561053",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "561053",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561058",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Watephal",
+    "name_mr": "",
+    "code": "561058",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561059",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Hingangaon kh.",
+    "name_mr": "",
+    "code": "561059",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561069",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Anala",
+    "name_mr": "",
+    "code": "561069",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561060",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Jagdalwadi",
+    "name_mr": "",
+    "code": "561060",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561073",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kaundgaon",
+    "name_mr": "",
+    "code": "561073",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561074",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Sonari",
+    "name_mr": "",
+    "code": "561074",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561128",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Lakhi",
+    "name_mr": "",
+    "code": "561128",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561109",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kumbhephal",
+    "name_mr": "",
+    "code": "561109",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561110",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Jake Pimpri",
+    "name_mr": "",
+    "code": "561110",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561129",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Arangaon",
+    "name_mr": "",
+    "code": "561129",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561132",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Sawadarwadi",
+    "name_mr": "",
+    "code": "561132",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561111",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Pachpimpla",
+    "name_mr": "",
+    "code": "561111",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561118",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Jawala (n.)",
+    "name_mr": "",
+    "code": "561118",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561075",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Bhoinja",
+    "name_mr": "",
+    "code": "561075",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561105",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Wanewadi",
+    "name_mr": "",
+    "code": "561105",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561057",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Chinchpur Bk.",
+    "name_mr": "",
+    "code": "561057",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561045",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Sakkarwadi",
+    "name_mr": "",
+    "code": "561045",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561047",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Lonarwadi",
+    "name_mr": "",
+    "code": "561047",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561048",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Kalewadi",
+    "name_mr": "",
+    "code": "561048",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-561088",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Paranda (rural)",
+    "name_mr": "",
+    "code": "561088",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  },
+  {
+    "village_id": "v-251566",
+    "district_id": "dharashiv",
+    "taluka_id": "paranda",
+    "name_en": "Paranda (M Cl)",
+    "name_mr": "",
+    "code": "251566",
+    "boundary_file": "/data/boundaries/villages/dharashiv/paranda.geojson"
+  }
+]

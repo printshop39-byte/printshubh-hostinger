@@ -1,0 +1,1721 @@
+[
+  {
+    "village_id": "v-534912",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Rajni",
+    "name_mr": "",
+    "code": "534912",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534911",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mukani",
+    "name_mr": "",
+    "code": "534911",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534917",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Tapani",
+    "name_mr": "",
+    "code": "534917",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534913",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khamli",
+    "name_mr": "",
+    "code": "534913",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534919",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Jatamzari",
+    "name_mr": "",
+    "code": "534919",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534928",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dorli (Bhandwalkar)",
+    "name_mr": "",
+    "code": "534928",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534920",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Panjra",
+    "name_mr": "",
+    "code": "534920",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534914",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Nanda",
+    "name_mr": "",
+    "code": "534914",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534918",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bid Jatamzari",
+    "name_mr": "",
+    "code": "534918",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534921",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gondimohgaon",
+    "name_mr": "",
+    "code": "534921",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534929",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Masli",
+    "name_mr": "",
+    "code": "534929",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534916",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gollarkhapa",
+    "name_mr": "",
+    "code": "534916",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534915",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Sonoli",
+    "name_mr": "",
+    "code": "534915",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534927",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gondidigras",
+    "name_mr": "",
+    "code": "534927",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534923",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Zilpa",
+    "name_mr": "",
+    "code": "534923",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534932",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kalambha",
+    "name_mr": "",
+    "code": "534932",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534924",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "534924",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534931",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wandli (Kh)",
+    "name_mr": "",
+    "code": "534931",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534933",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mohkhedi",
+    "name_mr": "",
+    "code": "534933",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534925",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mendki",
+    "name_mr": "",
+    "code": "534925",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534934",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Yenwa",
+    "name_mr": "",
+    "code": "534934",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534926",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "534926",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534930",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Babulkheda",
+    "name_mr": "",
+    "code": "534930",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534950",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khairi (Navghare)",
+    "name_mr": "",
+    "code": "534950",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534948",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chikhali (Bk)",
+    "name_mr": "",
+    "code": "534948",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534936",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Isasani",
+    "name_mr": "",
+    "code": "534936",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534935",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Yerla (Dhote)",
+    "name_mr": "",
+    "code": "534935",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534938",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Digras (Bk)",
+    "name_mr": "",
+    "code": "534938",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534922",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gondikhapa",
+    "name_mr": "",
+    "code": "534922",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534949",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Isapur (Bk)",
+    "name_mr": "",
+    "code": "534949",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534937",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wadvihara",
+    "name_mr": "",
+    "code": "534937",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534947",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gonhi",
+    "name_mr": "",
+    "code": "534947",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534951",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Isapur (Kh)",
+    "name_mr": "",
+    "code": "534951",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534945",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "534945",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534994",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Paradsinga",
+    "name_mr": "",
+    "code": "534994",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534946",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Salai (Bk)",
+    "name_mr": "",
+    "code": "534946",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534939",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Harankhuri",
+    "name_mr": "",
+    "code": "534939",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534953",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mhaskhapra",
+    "name_mr": "",
+    "code": "534953",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534944",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wadhona (Lodhi)",
+    "name_mr": "",
+    "code": "534944",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534955",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chendkapur",
+    "name_mr": "",
+    "code": "534955",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534999",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "534999",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534954",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "534954",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534996",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khangaon",
+    "name_mr": "",
+    "code": "534996",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534952",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gangaldoh",
+    "name_mr": "",
+    "code": "534952",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534940",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Panwadi",
+    "name_mr": "",
+    "code": "534940",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535000",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bhajipani",
+    "name_mr": "",
+    "code": "535000",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534995",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Lamdham",
+    "name_mr": "",
+    "code": "534995",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534943",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khanwadi",
+    "name_mr": "",
+    "code": "534943",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534941",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Delwadi",
+    "name_mr": "",
+    "code": "534941",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535002",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bordoh",
+    "name_mr": "",
+    "code": "535002",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534958",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Lakholi",
+    "name_mr": "",
+    "code": "534958",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534942",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Sirsawadi",
+    "name_mr": "",
+    "code": "534942",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534997",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chichala",
+    "name_mr": "",
+    "code": "534997",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535008",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kolambi",
+    "name_mr": "",
+    "code": "535008",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534998",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Naigaon (NV)",
+    "name_mr": "",
+    "code": "534998",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535001",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Pathar",
+    "name_mr": "",
+    "code": "535001",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534956",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Randhoda",
+    "name_mr": "",
+    "code": "534956",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-251341",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Katol (M Cl)",
+    "name_mr": "",
+    "code": "251341",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534959",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kohala",
+    "name_mr": "",
+    "code": "534959",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535006",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dhiwarwadi",
+    "name_mr": "",
+    "code": "535006",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535007",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Fetri",
+    "name_mr": "",
+    "code": "535007",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535005",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Amnergondi",
+    "name_mr": "",
+    "code": "535005",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534957",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Sonkhamb",
+    "name_mr": "",
+    "code": "534957",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534960",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dhawalapur",
+    "name_mr": "",
+    "code": "534960",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534961",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bramhapuri",
+    "name_mr": "",
+    "code": "534961",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534964",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "534964",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535004",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Borgondi",
+    "name_mr": "",
+    "code": "535004",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535003",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Pardi (Gotmare)",
+    "name_mr": "",
+    "code": "535003",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535010",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Pandhardhakani",
+    "name_mr": "",
+    "code": "535010",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535009",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "535009",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535015",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ambada (Sonak)",
+    "name_mr": "",
+    "code": "535015",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534965",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dorli (Kh)",
+    "name_mr": "",
+    "code": "534965",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534962",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ajangaon",
+    "name_mr": "",
+    "code": "534962",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534963",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mohgaon",
+    "name_mr": "",
+    "code": "534963",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534966",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dorli (Bk)",
+    "name_mr": "",
+    "code": "534966",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535031",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mohgaon (Dhole)",
+    "name_mr": "",
+    "code": "535031",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535012",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chaurepathar",
+    "name_mr": "",
+    "code": "535012",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535016",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khandala (Kh)",
+    "name_mr": "",
+    "code": "535016",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535014",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Jatamkohala",
+    "name_mr": "",
+    "code": "535014",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535011",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mohgaon (Jangli)",
+    "name_mr": "",
+    "code": "535011",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534969",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Metpanjara",
+    "name_mr": "",
+    "code": "534969",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534971",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Hatla",
+    "name_mr": "",
+    "code": "534971",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534968",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Tarabodi",
+    "name_mr": "",
+    "code": "534968",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535013",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "535013",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "palgondi-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "PALGONDI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534967",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ubagi",
+    "name_mr": "",
+    "code": "534967",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535019",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Linga",
+    "name_mr": "",
+    "code": "535019",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535017",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wandli (Kh)",
+    "name_mr": "",
+    "code": "535017",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535020",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Panjra (Bk)",
+    "name_mr": "",
+    "code": "535020",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535018",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Saoli (Kh)",
+    "name_mr": "",
+    "code": "535018",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534970",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mendhepathar",
+    "name_mr": "",
+    "code": "534970",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535027",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ladgaon",
+    "name_mr": "",
+    "code": "535027",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534977",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Raulgaon",
+    "name_mr": "",
+    "code": "534977",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535021",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Saoli (Bk)",
+    "name_mr": "",
+    "code": "535021",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534976",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Yenvihira",
+    "name_mr": "",
+    "code": "534976",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535030",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bhorgad",
+    "name_mr": "",
+    "code": "535030",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535026",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Waghoda",
+    "name_mr": "",
+    "code": "535026",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534972",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khapari (Kh)",
+    "name_mr": "",
+    "code": "534972",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535022",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ridhora",
+    "name_mr": "",
+    "code": "535022",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534973",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kondhasaoli",
+    "name_mr": "",
+    "code": "534973",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534975",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wajbodi",
+    "name_mr": "",
+    "code": "534975",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535024",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gharatwada",
+    "name_mr": "",
+    "code": "535024",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535025",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Gujarkhedi",
+    "name_mr": "",
+    "code": "535025",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534974",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Sonmoh",
+    "name_mr": "",
+    "code": "534974",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535028",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "535028",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535032",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kolhu",
+    "name_mr": "",
+    "code": "535032",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535023",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "535023",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535038",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khutamba",
+    "name_mr": "",
+    "code": "535038",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535033",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Saoli",
+    "name_mr": "",
+    "code": "535033",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534983",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chikhali (Malode)",
+    "name_mr": "",
+    "code": "534983",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535029",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Palgondi",
+    "name_mr": "",
+    "code": "535029",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534978",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kotwalbardi",
+    "name_mr": "",
+    "code": "534978",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535040",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "535040",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535041",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Panchdhar",
+    "name_mr": "",
+    "code": "535041",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535035",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Walni",
+    "name_mr": "",
+    "code": "535035",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535039",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kokarda",
+    "name_mr": "",
+    "code": "535039",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534982",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Maragsur",
+    "name_mr": "",
+    "code": "534982",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534985",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wai (Bk)",
+    "name_mr": "",
+    "code": "534985",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535037",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kedarpur",
+    "name_mr": "",
+    "code": "535037",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "kedarpur-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "KEDARPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534984",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Wai (Kh)",
+    "name_mr": "",
+    "code": "534984",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535034",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chikhlagad",
+    "name_mr": "",
+    "code": "535034",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "kondhali-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "KONDHALI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535036",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Tandulwani",
+    "name_mr": "",
+    "code": "535036",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534980",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Murli",
+    "name_mr": "",
+    "code": "534980",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534981",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bhudakmadka",
+    "name_mr": "",
+    "code": "534981",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534979",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ghorpad",
+    "name_mr": "",
+    "code": "534979",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535059",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kachari Savanga",
+    "name_mr": "",
+    "code": "535059",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534986",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Alagondi",
+    "name_mr": "",
+    "code": "534986",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535060",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Sonpur",
+    "name_mr": "",
+    "code": "535060",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535042",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kalkuhi",
+    "name_mr": "",
+    "code": "535042",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535044",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Sabkund",
+    "name_mr": "",
+    "code": "535044",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535043",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mendhepathar (Jangli)",
+    "name_mr": "",
+    "code": "535043",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535048",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Murti",
+    "name_mr": "",
+    "code": "535048",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534987",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chaukigad",
+    "name_mr": "",
+    "code": "534987",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534988",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kalmunda",
+    "name_mr": "",
+    "code": "534988",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534991",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Katlabodi",
+    "name_mr": "",
+    "code": "534991",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535045",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bilavargondi",
+    "name_mr": "",
+    "code": "535045",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535050",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ahmednagar",
+    "name_mr": "",
+    "code": "535050",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534990",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Garamsur",
+    "name_mr": "",
+    "code": "534990",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535049",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chandanpardi",
+    "name_mr": "",
+    "code": "535049",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535058",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kelapur",
+    "name_mr": "",
+    "code": "535058",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535046",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Nandora",
+    "name_mr": "",
+    "code": "535046",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535061",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "535061",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534989",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Shekapur",
+    "name_mr": "",
+    "code": "534989",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535051",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "535051",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535054",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khursapur",
+    "name_mr": "",
+    "code": "535054",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535047",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khapa",
+    "name_mr": "",
+    "code": "535047",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535057",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Salai (Bk)",
+    "name_mr": "",
+    "code": "535057",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534992",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dhankundav",
+    "name_mr": "",
+    "code": "534992",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-534993",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mandala",
+    "name_mr": "",
+    "code": "534993",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535052",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Shivkamath",
+    "name_mr": "",
+    "code": "535052",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535053",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Junapani",
+    "name_mr": "",
+    "code": "535053",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535055",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Salai (Kh)",
+    "name_mr": "",
+    "code": "535055",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535063",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bihalgondi",
+    "name_mr": "",
+    "code": "535063",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535064",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kundi",
+    "name_mr": "",
+    "code": "535064",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535062",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dudhala",
+    "name_mr": "",
+    "code": "535062",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535074",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Jamgad",
+    "name_mr": "",
+    "code": "535074",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535075",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khapari (Barokar)",
+    "name_mr": "",
+    "code": "535075",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535073",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "535073",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535066",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chakdoh",
+    "name_mr": "",
+    "code": "535066",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535069",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "535069",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535070",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Panjra (Kate)",
+    "name_mr": "",
+    "code": "535070",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535065",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ringanabodi",
+    "name_mr": "",
+    "code": "535065",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535067",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Elkapar",
+    "name_mr": "",
+    "code": "535067",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535076",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "535076",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535068",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Akewada",
+    "name_mr": "",
+    "code": "535068",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535079",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dhurkheda",
+    "name_mr": "",
+    "code": "535079",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535078",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "535078",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535077",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khairi (Kh)",
+    "name_mr": "",
+    "code": "535077",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535082",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Mhasala",
+    "name_mr": "",
+    "code": "535082",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535083",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Miniwada",
+    "name_mr": "",
+    "code": "535083",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535080",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "535080",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535081",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dodki",
+    "name_mr": "",
+    "code": "535081",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535084",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Malkapur",
+    "name_mr": "",
+    "code": "535084",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535090",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Chikhali (Masod)",
+    "name_mr": "",
+    "code": "535090",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535089",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Jatlapur",
+    "name_mr": "",
+    "code": "535089",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535088",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Pusagondi",
+    "name_mr": "",
+    "code": "535088",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535085",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Ghubadi",
+    "name_mr": "",
+    "code": "535085",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535091",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Masod",
+    "name_mr": "",
+    "code": "535091",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535086",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kawdimet",
+    "name_mr": "",
+    "code": "535086",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "jamni-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "JAMNI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535092",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Bopapur",
+    "name_mr": "",
+    "code": "535092",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535087",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kinki Dhoda",
+    "name_mr": "",
+    "code": "535087",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-97",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535093",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kamthi",
+    "name_mr": "",
+    "code": "535093",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535094",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Pratapgad",
+    "name_mr": "",
+    "code": "535094",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535096",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Khapa (Bk)",
+    "name_mr": "",
+    "code": "535096",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535095",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Dhotiwada",
+    "name_mr": "",
+    "code": "535095",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  },
+  {
+    "village_id": "v-535071",
+    "district_id": "nagpur",
+    "taluka_id": "katol",
+    "name_en": "Kondhali (NP)",
+    "name_mr": "",
+    "code": "535071",
+    "boundary_file": "/data/boundaries/villages/nagpur/katol.geojson"
+  }
+]

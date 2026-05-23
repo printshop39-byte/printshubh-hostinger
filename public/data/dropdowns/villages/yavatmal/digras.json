@@ -1,0 +1,740 @@
+[
+  {
+    "village_id": "v-542684",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Kati",
+    "name_mr": "",
+    "code": "542684",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542703",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "542703",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542682",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dhanora  Bk.",
+    "name_mr": "",
+    "code": "542682",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542685",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "542685",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542707",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Tupta Kali",
+    "name_mr": "",
+    "code": "542707",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542686",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Pelu",
+    "name_mr": "",
+    "code": "542686",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542687",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Rahati",
+    "name_mr": "",
+    "code": "542687",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542705",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Nimbha",
+    "name_mr": "",
+    "code": "542705",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542711",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "542711",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542706",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Jawala (U)",
+    "name_mr": "",
+    "code": "542706",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542710",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Mendhi",
+    "name_mr": "",
+    "code": "542710",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542688",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Nandgavhan",
+    "name_mr": "",
+    "code": "542688",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542690",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Rui Talav",
+    "name_mr": "",
+    "code": "542690",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542689",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Sevanagar",
+    "name_mr": "",
+    "code": "542689",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542692",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Kolura",
+    "name_mr": "",
+    "code": "542692",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542712",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "542712",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542713",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Kalgaon",
+    "name_mr": "",
+    "code": "542713",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542715",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Vitholi",
+    "name_mr": "",
+    "code": "542715",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542691",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Marsul (NV)",
+    "name_mr": "",
+    "code": "542691",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542695",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Singad",
+    "name_mr": "",
+    "code": "542695",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542694",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Vasantpur Kharda",
+    "name_mr": "",
+    "code": "542694",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542714",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Chinchapatra",
+    "name_mr": "",
+    "code": "542714",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542724",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Pimpri",
+    "name_mr": "",
+    "code": "542724",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542725",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dolamba",
+    "name_mr": "",
+    "code": "542725",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542729",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dhanora (Tada)",
+    "name_mr": "",
+    "code": "542729",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542731",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Malhiwara",
+    "name_mr": "",
+    "code": "542731",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542665",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Morkhed",
+    "name_mr": "",
+    "code": "542665",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542654",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Sakara",
+    "name_mr": "",
+    "code": "542654",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542653",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Donad",
+    "name_mr": "",
+    "code": "542653",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542664",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Gandhinagar",
+    "name_mr": "",
+    "code": "542664",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542655",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Khekadi",
+    "name_mr": "",
+    "code": "542655",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542657",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "542657",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542656",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Lingi",
+    "name_mr": "",
+    "code": "542656",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542662",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Ramgaon",
+    "name_mr": "",
+    "code": "542662",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542661",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Tiwari",
+    "name_mr": "",
+    "code": "542661",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542652",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Harsul",
+    "name_mr": "",
+    "code": "542652",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542660",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Amala",
+    "name_mr": "",
+    "code": "542660",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542658",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Shiwani",
+    "name_mr": "",
+    "code": "542658",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542663",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "542663",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542669",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Arambhi",
+    "name_mr": "",
+    "code": "542669",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542666",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Laygavhan",
+    "name_mr": "",
+    "code": "542666",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542659",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Vadgaon",
+    "name_mr": "",
+    "code": "542659",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542668",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Amala Kh.",
+    "name_mr": "",
+    "code": "542668",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542676",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Mandwa",
+    "name_mr": "",
+    "code": "542676",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542675",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "542675",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542680",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Chicholi KH (NV)",
+    "name_mr": "",
+    "code": "542680",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542670",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Zirpurwadi",
+    "name_mr": "",
+    "code": "542670",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542673",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Khandapur",
+    "name_mr": "",
+    "code": "542673",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542674",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Mallapur",
+    "name_mr": "",
+    "code": "542674",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542672",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dhanora Kh.",
+    "name_mr": "",
+    "code": "542672",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542671",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dabha",
+    "name_mr": "",
+    "code": "542671",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542678",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Kalsa",
+    "name_mr": "",
+    "code": "542678",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542677",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "542677",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542699",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Chirkuta",
+    "name_mr": "",
+    "code": "542699",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542701",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Jogaldhari",
+    "name_mr": "",
+    "code": "542701",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542679",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "542679",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542700",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Fulwadi",
+    "name_mr": "",
+    "code": "542700",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542681",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Ukali",
+    "name_mr": "",
+    "code": "542681",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542697",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Deurwada (Pu)",
+    "name_mr": "",
+    "code": "542697",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542698",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Sawanga Bk.",
+    "name_mr": "",
+    "code": "542698",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-251390",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Digras (M Cl)",
+    "name_mr": "",
+    "code": "251390",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542683",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "542683",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542704",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Deurwadi",
+    "name_mr": "",
+    "code": "542704",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542702",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Sawanga Kh.",
+    "name_mr": "",
+    "code": "542702",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542709",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Loni",
+    "name_mr": "",
+    "code": "542709",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542708",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Lakh Rayachi (R)",
+    "name_mr": "",
+    "code": "542708",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542723",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dolhari",
+    "name_mr": "",
+    "code": "542723",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542721",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "542721",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542716",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Fetri",
+    "name_mr": "",
+    "code": "542716",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542726",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dolambawadi",
+    "name_mr": "",
+    "code": "542726",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542722",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "542722",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542718",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Vithala",
+    "name_mr": "",
+    "code": "542718",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542693",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Rui Mardhe",
+    "name_mr": "",
+    "code": "542693",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542719",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "542719",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542720",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Warandali",
+    "name_mr": "",
+    "code": "542720",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542727",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Dehani",
+    "name_mr": "",
+    "code": "542727",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542728",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Kandali",
+    "name_mr": "",
+    "code": "542728",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542696",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Bhilwadi",
+    "name_mr": "",
+    "code": "542696",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542717",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Sakari",
+    "name_mr": "",
+    "code": "542717",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542730",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Sevadas Nagar",
+    "name_mr": "",
+    "code": "542730",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-542667",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Mokh",
+    "name_mr": "",
+    "code": "542667",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  },
+  {
+    "village_id": "v-945853",
+    "district_id": "yavatmal",
+    "taluka_id": "digras",
+    "name_en": "Mokha No. 1",
+    "name_mr": "",
+    "code": "945853",
+    "boundary_file": "/data/boundaries/villages/yavatmal/digras.geojson"
+  }
+]

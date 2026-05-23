@@ -1,0 +1,902 @@
+[
+  {
+    "village_id": "v-541875",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Pellur",
+    "name_mr": "",
+    "code": "541875",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541874",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "541874",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541872",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kharal Peth",
+    "name_mr": "",
+    "code": "541872",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541858",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Aksapur",
+    "name_mr": "",
+    "code": "541858",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541871",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Bhanar Heti",
+    "name_mr": "",
+    "code": "541871",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541877",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Dhanapur",
+    "name_mr": "",
+    "code": "541877",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541876",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Karanji",
+    "name_mr": "",
+    "code": "541876",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541881",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Nandgaon",
+    "name_mr": "",
+    "code": "541881",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541879",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Patalwada",
+    "name_mr": "",
+    "code": "541879",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541900",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kudesavali",
+    "name_mr": "",
+    "code": "541900",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541878",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Patalwada Chak",
+    "name_mr": "",
+    "code": "541878",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541901",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "541901",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541882",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Yen Bothala",
+    "name_mr": "",
+    "code": "541882",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541887",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Vyankatpur",
+    "name_mr": "",
+    "code": "541887",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541888",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Vyankatpur Chak",
+    "name_mr": "",
+    "code": "541888",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541880",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Ghadoli",
+    "name_mr": "",
+    "code": "541880",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541885",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Ghadoli",
+    "name_mr": "",
+    "code": "541885",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541886",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Surgaon",
+    "name_mr": "",
+    "code": "541886",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-276358",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Gondpipri (NP)",
+    "name_mr": "",
+    "code": "276358",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541902",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "541902",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541883",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Vithalwada",
+    "name_mr": "",
+    "code": "541883",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541884",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Nawegaon Waghade",
+    "name_mr": "",
+    "code": "541884",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541896",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Pipari",
+    "name_mr": "",
+    "code": "541896",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541891",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Vihirgaon",
+    "name_mr": "",
+    "code": "541891",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541889",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Vihirgaon",
+    "name_mr": "",
+    "code": "541889",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541895",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Tarsa Bk.",
+    "name_mr": "",
+    "code": "541895",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541903",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Pachgaon",
+    "name_mr": "",
+    "code": "541903",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541892",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Pipari Tukum",
+    "name_mr": "",
+    "code": "541892",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "kothari-reserved-forest",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "KOTHARI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541863",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Likhitwada",
+    "name_mr": "",
+    "code": "541863",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541864",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Tekoda",
+    "name_mr": "",
+    "code": "541864",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541860",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Wadkuli",
+    "name_mr": "",
+    "code": "541860",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541862",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Wedgaon",
+    "name_mr": "",
+    "code": "541862",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541859",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Beradi",
+    "name_mr": "",
+    "code": "541859",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541866",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Wadholi",
+    "name_mr": "",
+    "code": "541866",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541869",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kultha",
+    "name_mr": "",
+    "code": "541869",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541865",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Likhitwada Rith",
+    "name_mr": "",
+    "code": "541865",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541868",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Tarada",
+    "name_mr": "",
+    "code": "541868",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541867",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Tarda",
+    "name_mr": "",
+    "code": "541867",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541873",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Borgaon",
+    "name_mr": "",
+    "code": "541873",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541861",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Sirsi Deulwar",
+    "name_mr": "",
+    "code": "541861",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541870",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Furdi Heti",
+    "name_mr": "",
+    "code": "541870",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541857",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Ganpur",
+    "name_mr": "",
+    "code": "541857",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541910",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Vithalwada",
+    "name_mr": "",
+    "code": "541910",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541890",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Dhamanpeth",
+    "name_mr": "",
+    "code": "541890",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541893",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Korambi",
+    "name_mr": "",
+    "code": "541893",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541894",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Tarsa Kh.",
+    "name_mr": "",
+    "code": "541894",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541897",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Ganesh Pipari",
+    "name_mr": "",
+    "code": "541897",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541904",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chiwandha",
+    "name_mr": "",
+    "code": "541904",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541898",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Watrana",
+    "name_mr": "",
+    "code": "541898",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541924",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Tohogaon",
+    "name_mr": "",
+    "code": "541924",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541907",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Gojoti",
+    "name_mr": "",
+    "code": "541907",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541913",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Ralapeth",
+    "name_mr": "",
+    "code": "541913",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541911",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Bhangram Talodhi",
+    "name_mr": "",
+    "code": "541911",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541899",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Sukwasi",
+    "name_mr": "",
+    "code": "541899",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541905",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Gojoli Makta",
+    "name_mr": "",
+    "code": "541905",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541909",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Fulora",
+    "name_mr": "",
+    "code": "541909",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541906",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Dubar Peth Chak",
+    "name_mr": "",
+    "code": "541906",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541912",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Bhangarpeth",
+    "name_mr": "",
+    "code": "541912",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541908",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Talodhi",
+    "name_mr": "",
+    "code": "541908",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541921",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Somanpalli",
+    "name_mr": "",
+    "code": "541921",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541914",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Salezari",
+    "name_mr": "",
+    "code": "541914",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541920",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Somanpalli",
+    "name_mr": "",
+    "code": "541920",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541922",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kondhana",
+    "name_mr": "",
+    "code": "541922",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541932",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Panora",
+    "name_mr": "",
+    "code": "541932",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541925",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Arvi",
+    "name_mr": "",
+    "code": "541925",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541923",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Mangal Peth",
+    "name_mr": "",
+    "code": "541923",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541916",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Pargaon",
+    "name_mr": "",
+    "code": "541916",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541931",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Supgaon",
+    "name_mr": "",
+    "code": "541931",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541915",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "541915",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541919",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Dongargaon",
+    "name_mr": "",
+    "code": "541919",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541934",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Nandwardhan",
+    "name_mr": "",
+    "code": "541934",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541927",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Dhaba",
+    "name_mr": "",
+    "code": "541927",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541928",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Dongargaon Mal",
+    "name_mr": "",
+    "code": "541928",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541917",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Undirgaon Ryt",
+    "name_mr": "",
+    "code": "541917",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541930",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "541930",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541918",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Undirgaon Alies Kantepeth",
+    "name_mr": "",
+    "code": "541918",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541933",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Shivani Deshpande",
+    "name_mr": "",
+    "code": "541933",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541926",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Wejgaon",
+    "name_mr": "",
+    "code": "541926",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541929",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Darur",
+    "name_mr": "",
+    "code": "541929",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541936",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Navegaon",
+    "name_mr": "",
+    "code": "541936",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541940",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Nandgaon",
+    "name_mr": "",
+    "code": "541940",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541935",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Darur",
+    "name_mr": "",
+    "code": "541935",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541938",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "541938",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541941",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kunde Nandgaon",
+    "name_mr": "",
+    "code": "541941",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541945",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Sarandi",
+    "name_mr": "",
+    "code": "541945",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541937",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Kirmiri",
+    "name_mr": "",
+    "code": "541937",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541939",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Heti Nandgaon",
+    "name_mr": "",
+    "code": "541939",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541943",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Bapur",
+    "name_mr": "",
+    "code": "541943",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541942",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Sakmur",
+    "name_mr": "",
+    "code": "541942",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541944",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Gujari",
+    "name_mr": "",
+    "code": "541944",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541946",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Lathi",
+    "name_mr": "",
+    "code": "541946",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541947",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "541947",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541952",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Sonapur Deshpande",
+    "name_mr": "",
+    "code": "541952",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541948",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Wamanpalli",
+    "name_mr": "",
+    "code": "541948",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541950",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Wedgaon",
+    "name_mr": "",
+    "code": "541950",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541951",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Chak Wedgaon",
+    "name_mr": "",
+    "code": "541951",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541949",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Tomta",
+    "name_mr": "",
+    "code": "541949",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  },
+  {
+    "village_id": "v-541953",
+    "district_id": "chandrapur",
+    "taluka_id": "gondpipri",
+    "name_en": "Polsa",
+    "name_mr": "",
+    "code": "541953",
+    "boundary_file": "/data/boundaries/villages/chandrapur/gondpipri.geojson"
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "village_id": "v-544633",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Pimpalgaon Mahadeo",
+    "name_mr": "",
+    "code": "544633",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544665",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "544665",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544666",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Degaon Bk.",
+    "name_mr": "",
+    "code": "544666",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544634",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Nandla Makta",
+    "name_mr": "",
+    "code": "544634",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544635",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "544635",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544614",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Bhogaon",
+    "name_mr": "",
+    "code": "544614",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544615",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Delub Bk",
+    "name_mr": "",
+    "code": "544615",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544636",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Pardi Makta",
+    "name_mr": "",
+    "code": "544636",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544647",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Shenni",
+    "name_mr": "",
+    "code": "544647",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544613",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Delub Kh",
+    "name_mr": "",
+    "code": "544613",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544612",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Umri",
+    "name_mr": "",
+    "code": "544612",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544637",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Karwadi",
+    "name_mr": "",
+    "code": "544637",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544616",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Kondha",
+    "name_mr": "",
+    "code": "544616",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544611",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Dhamdari",
+    "name_mr": "",
+    "code": "544611",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544646",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Chinchban",
+    "name_mr": "",
+    "code": "544646",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544639",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Lahan",
+    "name_mr": "",
+    "code": "544639",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544618",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "544618",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544617",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "544617",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-258020",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Ardhapur (NP)",
+    "name_mr": "",
+    "code": "258020",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544638",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Pangri Tarf Karwadi",
+    "name_mr": "",
+    "code": "544638",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544648",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Ahmadpur (D)",
+    "name_mr": "",
+    "code": "544648",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-944220",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Lahan Tanda",
+    "name_mr": "",
+    "code": "944220",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544621",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Kamtha Bk",
+    "name_mr": "",
+    "code": "544621",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544622",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Ganpur",
+    "name_mr": "",
+    "code": "544622",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544644",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Loni Bk.",
+    "name_mr": "",
+    "code": "544644",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544623",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Isampur",
+    "name_mr": "",
+    "code": "544623",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544619",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Degaon Kurhada",
+    "name_mr": "",
+    "code": "544619",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544641",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Patnur",
+    "name_mr": "",
+    "code": "544641",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544620",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Daur",
+    "name_mr": "",
+    "code": "544620",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544624",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Sangvi Kh.",
+    "name_mr": "",
+    "code": "544624",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544649",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Latifpur(D)",
+    "name_mr": "",
+    "code": "544649",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544653",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "544653",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544625",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "544625",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544643",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Loni Kh.",
+    "name_mr": "",
+    "code": "544643",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544652",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Hamrapur",
+    "name_mr": "",
+    "code": "544652",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544627",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Mendhla Kh.",
+    "name_mr": "",
+    "code": "544627",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544650",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Rahimpur Tarf Jamrun",
+    "name_mr": "",
+    "code": "544650",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544642",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Ambegaon",
+    "name_mr": "",
+    "code": "544642",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544626",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Mendhla Bk.",
+    "name_mr": "",
+    "code": "544626",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544654",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Belsar",
+    "name_mr": "",
+    "code": "544654",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544628",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Wahedpur",
+    "name_mr": "",
+    "code": "544628",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544658",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Jamrun",
+    "name_mr": "",
+    "code": "544658",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544655",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Mugatwadi (D)",
+    "name_mr": "",
+    "code": "544655",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544657",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Amrapur",
+    "name_mr": "",
+    "code": "544657",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544661",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Barasgaon",
+    "name_mr": "",
+    "code": "544661",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544629",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Bamni",
+    "name_mr": "",
+    "code": "544629",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544630",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "544630",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544659",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Dabhad",
+    "name_mr": "",
+    "code": "544659",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544660",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Kaladgaon",
+    "name_mr": "",
+    "code": "544660",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544631",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Shelgaon Kh.",
+    "name_mr": "",
+    "code": "544631",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544632",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Shelgaon Bk",
+    "name_mr": "",
+    "code": "544632",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544664",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Yelegaon",
+    "name_mr": "",
+    "code": "544664",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544663",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Khairgaon Bk.",
+    "name_mr": "",
+    "code": "544663",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544662",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Khairgaon Kh.",
+    "name_mr": "",
+    "code": "544662",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544547",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "544547",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544549",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Rodgi",
+    "name_mr": "",
+    "code": "544549",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544543",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Sayalwadi",
+    "name_mr": "",
+    "code": "544543",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544541",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Deshmukhwadi",
+    "name_mr": "",
+    "code": "544541",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544546",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Choramba (Nanded)",
+    "name_mr": "",
+    "code": "544546",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544553",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Nilkanthwadi (D)",
+    "name_mr": "",
+    "code": "544553",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544550",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Sonala",
+    "name_mr": "",
+    "code": "544550",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544551",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Chabhara (Tanda)",
+    "name_mr": "",
+    "code": "544551",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544548",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Khairgaon (m)",
+    "name_mr": "",
+    "code": "544548",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544656",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Amrabad",
+    "name_mr": "",
+    "code": "544656",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544651",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Amrabad Tanda",
+    "name_mr": "",
+    "code": "544651",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-544640",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Chanapur",
+    "name_mr": "",
+    "code": "544640",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  },
+  {
+    "village_id": "v-946163",
+    "district_id": "n-nded",
+    "taluka_id": "ardhapur",
+    "name_en": "Chenapur Tanda",
+    "name_mr": "",
+    "code": "946163",
+    "boundary_file": "/data/boundaries/villages/n-nded/ardhapur.geojson"
+  }
+]

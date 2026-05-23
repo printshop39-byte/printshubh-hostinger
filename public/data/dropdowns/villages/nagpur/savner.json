@@ -1,0 +1,1244 @@
+[
+  {
+    "village_id": "v-535210",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Hattisarra",
+    "name_mr": "",
+    "code": "535210",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535273",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Hetikheda",
+    "name_mr": "",
+    "code": "535273",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "jalalkhera-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "JALALKHERA RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535214",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Jalalkheda",
+    "name_mr": "",
+    "code": "535214",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535217",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Jaitpur",
+    "name_mr": "",
+    "code": "535217",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535271",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Mohagaon (Jangali)",
+    "name_mr": "",
+    "code": "535271",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535237",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bhojapur",
+    "name_mr": "",
+    "code": "535237",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535276",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Nimtalai",
+    "name_mr": "",
+    "code": "535276",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535238",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Narsala",
+    "name_mr": "",
+    "code": "535238",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535281",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kothulana",
+    "name_mr": "",
+    "code": "535281",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535231",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Dudhbardi",
+    "name_mr": "",
+    "code": "535231",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535239",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khapa (Narsala)",
+    "name_mr": "",
+    "code": "535239",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535286",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kodegaon",
+    "name_mr": "",
+    "code": "535286",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535285",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khedi",
+    "name_mr": "",
+    "code": "535285",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535283",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Ramdongari",
+    "name_mr": "",
+    "code": "535283",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535294",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khurajgaon",
+    "name_mr": "",
+    "code": "535294",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535232",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sherdi",
+    "name_mr": "",
+    "code": "535232",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535282",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kirnapur",
+    "name_mr": "",
+    "code": "535282",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535284",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Rajana (Halad)",
+    "name_mr": "",
+    "code": "535284",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535241",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bhagi Mahari",
+    "name_mr": "",
+    "code": "535241",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535220",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khapa (Janabai)",
+    "name_mr": "",
+    "code": "535220",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535240",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pipala (Bhadao)",
+    "name_mr": "",
+    "code": "535240",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535296",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Ajani",
+    "name_mr": "",
+    "code": "535296",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535209",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khairi (Dhalgaon)",
+    "name_mr": "",
+    "code": "535209",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535204",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "535204",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535218",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Joga",
+    "name_mr": "",
+    "code": "535218",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535330",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pota",
+    "name_mr": "",
+    "code": "535330",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535325",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bidkawadas",
+    "name_mr": "",
+    "code": "535325",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535327",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Ranala",
+    "name_mr": "",
+    "code": "535327",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535323",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Champa",
+    "name_mr": "",
+    "code": "535323",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535335",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Chandkapur (CT)",
+    "name_mr": "",
+    "code": "535335",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535334",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sillewada (CT)",
+    "name_mr": "",
+    "code": "535334",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535329",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Dahegaon (Rangari)",
+    "name_mr": "",
+    "code": "535329",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535324",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sawarmendha",
+    "name_mr": "",
+    "code": "535324",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535331",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bhanegaon",
+    "name_mr": "",
+    "code": "535331",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535336",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Chicholi (CT)",
+    "name_mr": "",
+    "code": "535336",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535216",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Chhatrapur",
+    "name_mr": "",
+    "code": "535216",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535279",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bawangaon",
+    "name_mr": "",
+    "code": "535279",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535228",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Nandori",
+    "name_mr": "",
+    "code": "535228",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535229",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Nandapur",
+    "name_mr": "",
+    "code": "535229",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535227",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Ashti Bk",
+    "name_mr": "",
+    "code": "535227",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535215",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Borgaon Jangli",
+    "name_mr": "",
+    "code": "535215",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535226",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Rampuri",
+    "name_mr": "",
+    "code": "535226",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535274",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Gadami",
+    "name_mr": "",
+    "code": "535274",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535278",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Umari Jambhalpani",
+    "name_mr": "",
+    "code": "535278",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535219",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "535219",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535292",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "535292",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535230",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Karajghat",
+    "name_mr": "",
+    "code": "535230",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535234",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Nanda Kh",
+    "name_mr": "",
+    "code": "535234",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535224",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pandhari (J)",
+    "name_mr": "",
+    "code": "535224",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535275",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kusumbi",
+    "name_mr": "",
+    "code": "535275",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535277",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Dhakara",
+    "name_mr": "",
+    "code": "535277",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535225",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Jakhewada",
+    "name_mr": "",
+    "code": "535225",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535223",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Umari (Bharatpur)",
+    "name_mr": "",
+    "code": "535223",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535233",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Gadegaon",
+    "name_mr": "",
+    "code": "535233",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535293",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khangaon",
+    "name_mr": "",
+    "code": "535293",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535221",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Nanda Gomukh",
+    "name_mr": "",
+    "code": "535221",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535280",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khairi (Panjabrao)",
+    "name_mr": "",
+    "code": "535280",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-251345",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khapa (M Cl)",
+    "name_mr": "",
+    "code": "251345",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535235",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Mangsa",
+    "name_mr": "",
+    "code": "535235",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535236",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pohana",
+    "name_mr": "",
+    "code": "535236",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535222",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Salai",
+    "name_mr": "",
+    "code": "535222",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535248",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Tekadi",
+    "name_mr": "",
+    "code": "535248",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535249",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Warpani",
+    "name_mr": "",
+    "code": "535249",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535252",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Nagalwadi",
+    "name_mr": "",
+    "code": "535252",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535251",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sarra",
+    "name_mr": "",
+    "code": "535251",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535250",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kormeta",
+    "name_mr": "",
+    "code": "535250",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535255",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bichawa",
+    "name_mr": "",
+    "code": "535255",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535253",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bhondetal",
+    "name_mr": "",
+    "code": "535253",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535254",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sironji",
+    "name_mr": "",
+    "code": "535254",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535260",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Surewani",
+    "name_mr": "",
+    "code": "535260",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535256",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Rajegaon",
+    "name_mr": "",
+    "code": "535256",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535259",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sonpur",
+    "name_mr": "",
+    "code": "535259",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535258",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Chorkhairi",
+    "name_mr": "",
+    "code": "535258",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535261",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Maharkund",
+    "name_mr": "",
+    "code": "535261",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535263",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Chargaon",
+    "name_mr": "",
+    "code": "535263",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535264",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Risala",
+    "name_mr": "",
+    "code": "535264",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535270",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khubala",
+    "name_mr": "",
+    "code": "535270",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535269",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Hingna",
+    "name_mr": "",
+    "code": "535269",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535213",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Raibasa",
+    "name_mr": "",
+    "code": "535213",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535267",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pipla (Rithi)",
+    "name_mr": "",
+    "code": "535267",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535268",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kocchi",
+    "name_mr": "",
+    "code": "535268",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535211",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Ashti Kh",
+    "name_mr": "",
+    "code": "535211",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535272",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pendhari",
+    "name_mr": "",
+    "code": "535272",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535212",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kelwad",
+    "name_mr": "",
+    "code": "535212",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535291",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Wagholi",
+    "name_mr": "",
+    "code": "535291",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535242",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Hetisurla",
+    "name_mr": "",
+    "code": "535242",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535288",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Gumgaon",
+    "name_mr": "",
+    "code": "535288",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535295",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pardi (Rithi)",
+    "name_mr": "",
+    "code": "535295",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535245",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Junewani",
+    "name_mr": "",
+    "code": "535245",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535289",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Wakodi",
+    "name_mr": "",
+    "code": "535289",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-251344",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Savner (M Cl)",
+    "name_mr": "",
+    "code": "251344",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535287",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Tigai",
+    "name_mr": "",
+    "code": "535287",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535290",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Dohanghat",
+    "name_mr": "",
+    "code": "535290",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535244",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Telangkhedi",
+    "name_mr": "",
+    "code": "535244",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535312",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "535312",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535297",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Borujwada",
+    "name_mr": "",
+    "code": "535297",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535302",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "535302",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535313",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Chichghat",
+    "name_mr": "",
+    "code": "535313",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535314",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bidachichghat",
+    "name_mr": "",
+    "code": "535314",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535243",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "535243",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535299",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "535299",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535311",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bhendala",
+    "name_mr": "",
+    "code": "535311",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535315",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Gosewadi",
+    "name_mr": "",
+    "code": "535315",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535303",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Manegaon",
+    "name_mr": "",
+    "code": "535303",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535332",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Waghoda (CT)",
+    "name_mr": "",
+    "code": "535332",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535300",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Angewada",
+    "name_mr": "",
+    "code": "535300",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535310",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Takali",
+    "name_mr": "",
+    "code": "535310",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535301",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Patakakhedi",
+    "name_mr": "",
+    "code": "535301",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535316",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kodadongri",
+    "name_mr": "",
+    "code": "535316",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535304",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pandharakhedi",
+    "name_mr": "",
+    "code": "535304",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535318",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Yeltur",
+    "name_mr": "",
+    "code": "535318",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535319",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "535319",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535317",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Patansavangi",
+    "name_mr": "",
+    "code": "535317",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535309",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kusumbi",
+    "name_mr": "",
+    "code": "535309",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535305",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Katodi",
+    "name_mr": "",
+    "code": "535305",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535333",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Walani (CT)",
+    "name_mr": "",
+    "code": "535333",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535320",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kawadas",
+    "name_mr": "",
+    "code": "535320",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535306",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Erangaon",
+    "name_mr": "",
+    "code": "535306",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535308",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sillori",
+    "name_mr": "",
+    "code": "535308",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535322",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Itangoti",
+    "name_mr": "",
+    "code": "535322",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535328",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "535328",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535326",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Pipla (da-B)",
+    "name_mr": "",
+    "code": "535326",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535321",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Belori Kh",
+    "name_mr": "",
+    "code": "535321",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535307",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bramhpuri",
+    "name_mr": "",
+    "code": "535307",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "warpani-reserved-forest",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "WARPANI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535247",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sindewani Bk",
+    "name_mr": "",
+    "code": "535247",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535246",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Sindewani Kh",
+    "name_mr": "",
+    "code": "535246",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535257",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Raiwadi",
+    "name_mr": "",
+    "code": "535257",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535262",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Tembhurdoh",
+    "name_mr": "",
+    "code": "535262",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535208",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kawatha",
+    "name_mr": "",
+    "code": "535208",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535265",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Badegaon",
+    "name_mr": "",
+    "code": "535265",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535266",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Kharduka",
+    "name_mr": "",
+    "code": "535266",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535207",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Jaitgad",
+    "name_mr": "",
+    "code": "535207",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535206",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Bid jatamkhora",
+    "name_mr": "",
+    "code": "535206",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535203",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Khursapar",
+    "name_mr": "",
+    "code": "535203",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  },
+  {
+    "village_id": "v-535205",
+    "district_id": "nagpur",
+    "taluka_id": "savner",
+    "name_en": "Jatamkhora",
+    "name_mr": "",
+    "code": "535205",
+    "boundary_file": "/data/boundaries/villages/nagpur/savner.geojson"
+  }
+]

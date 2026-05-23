@@ -1,0 +1,1370 @@
+[
+  {
+    "village_id": "v-530465",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Katkheda",
+    "name_mr": "",
+    "code": "530465",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530463",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kanheri",
+    "name_mr": "",
+    "code": "530463",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530467",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Yeranda",
+    "name_mr": "",
+    "code": "530467",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530558",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Asartek",
+    "name_mr": "",
+    "code": "530558",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530464",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sarav",
+    "name_mr": "",
+    "code": "530464",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530468",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Gorvha",
+    "name_mr": "",
+    "code": "530468",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530557",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Morgaon Kakad",
+    "name_mr": "",
+    "code": "530557",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530473",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Alanda",
+    "name_mr": "",
+    "code": "530473",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530559",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Pardi",
+    "name_mr": "",
+    "code": "530559",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530469",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Paranda",
+    "name_mr": "",
+    "code": "530469",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530470",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bramhandari",
+    "name_mr": "",
+    "code": "530470",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530471",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Pimpalkuta",
+    "name_mr": "",
+    "code": "530471",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530429",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sukali",
+    "name_mr": "",
+    "code": "530429",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530560",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Takali Chhabila",
+    "name_mr": "",
+    "code": "530560",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530472",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Rustamabad",
+    "name_mr": "",
+    "code": "530472",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530556",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bhambora",
+    "name_mr": "",
+    "code": "530556",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530561",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sadalapur",
+    "name_mr": "",
+    "code": "530561",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530466",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wizora",
+    "name_mr": "",
+    "code": "530466",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530562",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mozari Bk",
+    "name_mr": "",
+    "code": "530562",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530486",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Khambora",
+    "name_mr": "",
+    "code": "530486",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530485",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sahit",
+    "name_mr": "",
+    "code": "530485",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-276332",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Barshi Takali (NP)",
+    "name_mr": "",
+    "code": "276332",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530484",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shelapur",
+    "name_mr": "",
+    "code": "530484",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530480",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Asharafpur",
+    "name_mr": "",
+    "code": "530480",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530479",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bharatpur",
+    "name_mr": "",
+    "code": "530479",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530483",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Nashirabad",
+    "name_mr": "",
+    "code": "530483",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530482",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Ajani BK",
+    "name_mr": "",
+    "code": "530482",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530428",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "530428",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530488",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Rahit",
+    "name_mr": "",
+    "code": "530488",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530564",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Nimbi Kh",
+    "name_mr": "",
+    "code": "530564",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530487",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "530487",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530481",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Tawakalpur",
+    "name_mr": "",
+    "code": "530481",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530563",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "530563",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530492",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "530492",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530431",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shindkhed",
+    "name_mr": "",
+    "code": "530431",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530570",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Ghota",
+    "name_mr": "",
+    "code": "530570",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530566",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "530566",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530489",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Ajani Mahala",
+    "name_mr": "",
+    "code": "530489",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530565",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Nimbi BK",
+    "name_mr": "",
+    "code": "530565",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530568",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Pinjar",
+    "name_mr": "",
+    "code": "530568",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530490",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Ajani KH",
+    "name_mr": "",
+    "code": "530490",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530491",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Redhawa",
+    "name_mr": "",
+    "code": "530491",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530432",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "530432",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530504",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Donad KH",
+    "name_mr": "",
+    "code": "530504",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530502",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Donad BK",
+    "name_mr": "",
+    "code": "530502",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530512",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kherda Bk",
+    "name_mr": "",
+    "code": "530512",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530569",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mozari Kh",
+    "name_mr": "",
+    "code": "530569",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530434",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Rajanda",
+    "name_mr": "",
+    "code": "530434",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530493",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Pimpal Shenda",
+    "name_mr": "",
+    "code": "530493",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530501",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Warkhed Bk",
+    "name_mr": "",
+    "code": "530501",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530567",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kardu",
+    "name_mr": "",
+    "code": "530567",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530433",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Songiri",
+    "name_mr": "",
+    "code": "530433",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530495",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "530495",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530505",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Yawalkhed",
+    "name_mr": "",
+    "code": "530505",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530506",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kajaleshwar",
+    "name_mr": "",
+    "code": "530506",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530572",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dharagiri",
+    "name_mr": "",
+    "code": "530572",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530517",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bhendi Sutrak",
+    "name_mr": "",
+    "code": "530517",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530511",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shelu Kh",
+    "name_mr": "",
+    "code": "530511",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530513",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bhendi Kaji",
+    "name_mr": "",
+    "code": "530513",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530571",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Para Bhawani",
+    "name_mr": "",
+    "code": "530571",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530510",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shelu Bk",
+    "name_mr": "",
+    "code": "530510",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530516",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bhendi Mahala",
+    "name_mr": "",
+    "code": "530516",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530503",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Tamsi",
+    "name_mr": "",
+    "code": "530503",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530500",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dagadparwa",
+    "name_mr": "",
+    "code": "530500",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530514",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Manmatkhed",
+    "name_mr": "",
+    "code": "530514",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530435",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Jalalabad",
+    "name_mr": "",
+    "code": "530435",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530439",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Patkhed",
+    "name_mr": "",
+    "code": "530439",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530507",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Ujaleshwar",
+    "name_mr": "",
+    "code": "530507",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530496",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "530496",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530515",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bhendgaon",
+    "name_mr": "",
+    "code": "530515",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530442",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Punoti Bk",
+    "name_mr": "",
+    "code": "530442",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530518",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Salpi",
+    "name_mr": "",
+    "code": "530518",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530498",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Jogalkhed",
+    "name_mr": "",
+    "code": "530498",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530519",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Walapi",
+    "name_mr": "",
+    "code": "530519",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530573",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kherda Kh",
+    "name_mr": "",
+    "code": "530573",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530441",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mangrul",
+    "name_mr": "",
+    "code": "530441",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530508",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Nimbhara",
+    "name_mr": "",
+    "code": "530508",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530509",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dauchaka",
+    "name_mr": "",
+    "code": "530509",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530522",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Tiwasa Bk",
+    "name_mr": "",
+    "code": "530522",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530533",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "530533",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530499",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Punoti Kh",
+    "name_mr": "",
+    "code": "530499",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530574",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Umardari",
+    "name_mr": "",
+    "code": "530574",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530579",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kasarkhed",
+    "name_mr": "",
+    "code": "530579",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530532",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Tembhi",
+    "name_mr": "",
+    "code": "530532",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530580",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Morhal",
+    "name_mr": "",
+    "code": "530580",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530437",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Waghajali",
+    "name_mr": "",
+    "code": "530437",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530436",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Warkhed (Wagh)",
+    "name_mr": "",
+    "code": "530436",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530440",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Rajan Khed",
+    "name_mr": "",
+    "code": "530440",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530438",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Chincholi Rudrayani",
+    "name_mr": "",
+    "code": "530438",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530575",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bahirkhed",
+    "name_mr": "",
+    "code": "530575",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530523",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Tiwasa Kh",
+    "name_mr": "",
+    "code": "530523",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530531",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Ramgaon",
+    "name_mr": "",
+    "code": "530531",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530520",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Takarkhed",
+    "name_mr": "",
+    "code": "530520",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530530",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mahan",
+    "name_mr": "",
+    "code": "530530",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530578",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Pimpalgaon Chambhare",
+    "name_mr": "",
+    "code": "530578",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530521",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Chinchkhed",
+    "name_mr": "",
+    "code": "530521",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530535",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "530535",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530537",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Hatola",
+    "name_mr": "",
+    "code": "530537",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530446",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Rajankhedtanda (N.V.)",
+    "name_mr": "",
+    "code": "530446",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530581",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Chinchkhed BK",
+    "name_mr": "",
+    "code": "530581",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530534",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Januna",
+    "name_mr": "",
+    "code": "530534",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530536",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Atkali",
+    "name_mr": "",
+    "code": "530536",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530576",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Lakhamapur",
+    "name_mr": "",
+    "code": "530576",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530443",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Padmin",
+    "name_mr": "",
+    "code": "530443",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530524",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Titawa",
+    "name_mr": "",
+    "code": "530524",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530577",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Nihida",
+    "name_mr": "",
+    "code": "530577",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530525",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sayyadpur",
+    "name_mr": "",
+    "code": "530525",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530448",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Belkhed",
+    "name_mr": "",
+    "code": "530448",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530445",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Januna",
+    "name_mr": "",
+    "code": "530445",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530447",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shelgaon",
+    "name_mr": "",
+    "code": "530447",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530444",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sakani",
+    "name_mr": "",
+    "code": "530444",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530538",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Hirkani",
+    "name_mr": "",
+    "code": "530538",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530555",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sarkinhi",
+    "name_mr": "",
+    "code": "530555",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530583",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Jamkeshwar",
+    "name_mr": "",
+    "code": "530583",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530582",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dhakali",
+    "name_mr": "",
+    "code": "530582",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530584",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Titawa",
+    "name_mr": "",
+    "code": "530584",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530528",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Jambharun",
+    "name_mr": "",
+    "code": "530528",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530529",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Satali",
+    "name_mr": "",
+    "code": "530529",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530451",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Bormali",
+    "name_mr": "",
+    "code": "530451",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530526",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Shiwapur",
+    "name_mr": "",
+    "code": "530526",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530540",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "530540",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530452",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Lohgadtanda (N.V.)",
+    "name_mr": "",
+    "code": "530452",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530453",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Lohgad",
+    "name_mr": "",
+    "code": "530453",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530527",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Haldoli",
+    "name_mr": "",
+    "code": "530527",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530553",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Zodga",
+    "name_mr": "",
+    "code": "530553",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530454",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dhaba",
+    "name_mr": "",
+    "code": "530454",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530539",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wastapur",
+    "name_mr": "",
+    "code": "530539",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530585",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sawarkhed",
+    "name_mr": "",
+    "code": "530585",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530554",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Khopadi",
+    "name_mr": "",
+    "code": "530554",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530450",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sevanagar (N.V)",
+    "name_mr": "",
+    "code": "530450",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530455",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Nimbi",
+    "name_mr": "",
+    "code": "530455",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530462",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kothali Kh",
+    "name_mr": "",
+    "code": "530462",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530542",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wagha Bk",
+    "name_mr": "",
+    "code": "530542",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530586",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Pimpalgaon Hande",
+    "name_mr": "",
+    "code": "530586",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530541",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kothali Bk",
+    "name_mr": "",
+    "code": "530541",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530461",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Chohogaon",
+    "name_mr": "",
+    "code": "530461",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530449",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Chelaka",
+    "name_mr": "",
+    "code": "530449",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530460",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Saykhed",
+    "name_mr": "",
+    "code": "530460",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530543",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Warkhed Kh",
+    "name_mr": "",
+    "code": "530543",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530551",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Wagha Kh",
+    "name_mr": "",
+    "code": "530551",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530544",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Chincholi Devdari",
+    "name_mr": "",
+    "code": "530544",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530547",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Devdari",
+    "name_mr": "",
+    "code": "530547",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530459",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dhamandari",
+    "name_mr": "",
+    "code": "530459",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530457",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Jambvasu",
+    "name_mr": "",
+    "code": "530457",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530456",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "530456",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530549",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dhotarkhed",
+    "name_mr": "",
+    "code": "530549",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530550",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Fetra",
+    "name_mr": "",
+    "code": "530550",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530545",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Sakharvihira",
+    "name_mr": "",
+    "code": "530545",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530546",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Kinkhed",
+    "name_mr": "",
+    "code": "530546",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530548",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "530548",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-530458",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mandoli",
+    "name_mr": "",
+    "code": "530458",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  },
+  {
+    "village_id": "v-651832",
+    "district_id": "akola",
+    "taluka_id": "barshitakli",
+    "name_en": "Mungsaji Nagar",
+    "name_mr": "",
+    "code": "651832",
+    "boundary_file": "/data/boundaries/villages/akola/barshitakli.geojson"
+  }
+]

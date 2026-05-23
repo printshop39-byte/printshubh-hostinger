@@ -1,0 +1,911 @@
+[
+  {
+    "village_id": "v-567866",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Bahirewadi",
+    "name_mr": "",
+    "code": "567866",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567865",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Dhamane",
+    "name_mr": "",
+    "code": "567865",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567868",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Uttur",
+    "name_mr": "",
+    "code": "567868",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567870",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Belewadi Hubalgi",
+    "name_mr": "",
+    "code": "567870",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567867",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Mumewadi",
+    "name_mr": "",
+    "code": "567867",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567869",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Chavhanwadi",
+    "name_mr": "",
+    "code": "567869",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567871",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Zulapewadi",
+    "name_mr": "",
+    "code": "567871",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567872",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Chimane",
+    "name_mr": "",
+    "code": "567872",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567875",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Pendharwadi",
+    "name_mr": "",
+    "code": "567875",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567873",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Honyali",
+    "name_mr": "",
+    "code": "567873",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567874",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Karpewadi Dhumala",
+    "name_mr": "",
+    "code": "567874",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567876",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Ardal",
+    "name_mr": "",
+    "code": "567876",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567878",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "MahagondWadi",
+    "name_mr": "",
+    "code": "567878",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567877",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Halewadi",
+    "name_mr": "",
+    "code": "567877",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567879",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Mahagond",
+    "name_mr": "",
+    "code": "567879",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567880",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Vadakshiwale",
+    "name_mr": "",
+    "code": "567880",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567887",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Vazare",
+    "name_mr": "",
+    "code": "567887",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567881",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Masewadi",
+    "name_mr": "",
+    "code": "567881",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567882",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Jadhewadi",
+    "name_mr": "",
+    "code": "567882",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567886",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Madilage",
+    "name_mr": "",
+    "code": "567886",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567892",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Pernoli",
+    "name_mr": "",
+    "code": "567892",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567883",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Khoratwadi",
+    "name_mr": "",
+    "code": "567883",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567884",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Bhadawanwadi",
+    "name_mr": "",
+    "code": "567884",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567885",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Bhadawan",
+    "name_mr": "",
+    "code": "567885",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567891",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Harapwade",
+    "name_mr": "",
+    "code": "567891",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567890",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Koriwade",
+    "name_mr": "",
+    "code": "567890",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567927",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Saroli",
+    "name_mr": "",
+    "code": "567927",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567907",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Deokandgaon",
+    "name_mr": "",
+    "code": "567907",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567888",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Bachi",
+    "name_mr": "",
+    "code": "567888",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567889",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Sohale",
+    "name_mr": "",
+    "code": "567889",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567928",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Ningudage",
+    "name_mr": "",
+    "code": "567928",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567897",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Khede",
+    "name_mr": "",
+    "code": "567897",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567896",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Munguswadi",
+    "name_mr": "",
+    "code": "567896",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567894",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Salgaon",
+    "name_mr": "",
+    "code": "567894",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567893",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kurkunde",
+    "name_mr": "",
+    "code": "567893",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567929",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Gajargaon",
+    "name_mr": "",
+    "code": "567929",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567932",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kowade",
+    "name_mr": "",
+    "code": "567932",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567898",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Hajgoli Bk.",
+    "name_mr": "",
+    "code": "567898",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567933",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Pedrewadi",
+    "name_mr": "",
+    "code": "567933",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567899",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Hajgoli Kh.",
+    "name_mr": "",
+    "code": "567899",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567908",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Vinayakwadi",
+    "name_mr": "",
+    "code": "567908",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567901",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Sulgaon",
+    "name_mr": "",
+    "code": "567901",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567931",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kanoli",
+    "name_mr": "",
+    "code": "567931",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567909",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Dabheel",
+    "name_mr": "",
+    "code": "567909",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567930",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Harur",
+    "name_mr": "",
+    "code": "567930",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567905",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Dewarde",
+    "name_mr": "",
+    "code": "567905",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-251630",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Ajra (NP)",
+    "name_mr": "",
+    "code": "251630",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567906",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Medhewadi",
+    "name_mr": "",
+    "code": "567906",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567895",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Parewadi",
+    "name_mr": "",
+    "code": "567895",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567936",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Sarambalwadi",
+    "name_mr": "",
+    "code": "567936",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567900",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Chandewadi",
+    "name_mr": "",
+    "code": "567900",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567934",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Maligre",
+    "name_mr": "",
+    "code": "567934",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567948",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Hatiwade",
+    "name_mr": "",
+    "code": "567948",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567937",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Sule",
+    "name_mr": "",
+    "code": "567937",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567904",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Velawatti",
+    "name_mr": "",
+    "code": "567904",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567947",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Honewadi",
+    "name_mr": "",
+    "code": "567947",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567903",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Pethewadi",
+    "name_mr": "",
+    "code": "567903",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567910",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Shelap",
+    "name_mr": "",
+    "code": "567910",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567912",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Haloli",
+    "name_mr": "",
+    "code": "567912",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567911",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Dardewadi",
+    "name_mr": "",
+    "code": "567911",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567923",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Parpoli",
+    "name_mr": "",
+    "code": "567923",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567902",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Sawarwadi",
+    "name_mr": "",
+    "code": "567902",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567913",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Masoli",
+    "name_mr": "",
+    "code": "567913",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567949",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Bolakewadi",
+    "name_mr": "",
+    "code": "567949",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567938",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Lakudwadi",
+    "name_mr": "",
+    "code": "567938",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567921",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Gavase",
+    "name_mr": "",
+    "code": "567921",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567946",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Mendholi",
+    "name_mr": "",
+    "code": "567946",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567940",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kolindre",
+    "name_mr": "",
+    "code": "567940",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567939",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Handewadi",
+    "name_mr": "",
+    "code": "567939",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567944",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Shirsangi.",
+    "name_mr": "",
+    "code": "567944",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567956",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Murude",
+    "name_mr": "",
+    "code": "567956",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567945",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Yamekond",
+    "name_mr": "",
+    "code": "567945",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567922",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Alyachiwadi",
+    "name_mr": "",
+    "code": "567922",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567943",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kine",
+    "name_mr": "",
+    "code": "567943",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567958",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "567958",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567957",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kasar Kandgaon",
+    "name_mr": "",
+    "code": "567957",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567924",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Suleran",
+    "name_mr": "",
+    "code": "567924",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567916",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Ite",
+    "name_mr": "",
+    "code": "567916",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567951",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Shringarwadi",
+    "name_mr": "",
+    "code": "567951",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567915",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Deulwadi",
+    "name_mr": "",
+    "code": "567915",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567925",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Ambade",
+    "name_mr": "",
+    "code": "567925",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567941",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Poshratwadi",
+    "name_mr": "",
+    "code": "567941",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567926",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kitvade",
+    "name_mr": "",
+    "code": "567926",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567952",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Watangi",
+    "name_mr": "",
+    "code": "567952",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567942",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Redewadi",
+    "name_mr": "",
+    "code": "567942",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567955",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Uchangi",
+    "name_mr": "",
+    "code": "567955",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567920",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Awandi",
+    "name_mr": "",
+    "code": "567920",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567959",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Polgaon",
+    "name_mr": "",
+    "code": "567959",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567954",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kerakbol",
+    "name_mr": "",
+    "code": "567954",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567961",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Chafavade",
+    "name_mr": "",
+    "code": "567961",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567919",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Latagaon",
+    "name_mr": "",
+    "code": "567919",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567953",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Morewadi",
+    "name_mr": "",
+    "code": "567953",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567960",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Jeur",
+    "name_mr": "",
+    "code": "567960",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567917",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Erandol",
+    "name_mr": "",
+    "code": "567917",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567918",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Satewadi",
+    "name_mr": "",
+    "code": "567918",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567962",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Chitale",
+    "name_mr": "",
+    "code": "567962",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567963",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Bhavewadi",
+    "name_mr": "",
+    "code": "567963",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567935",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Kaginwadi",
+    "name_mr": "",
+    "code": "567935",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567950",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Burude",
+    "name_mr": "",
+    "code": "567950",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-652198",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Chitranagar",
+    "name_mr": "",
+    "code": "652198",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  },
+  {
+    "village_id": "v-567914",
+    "district_id": "kolh-pur",
+    "taluka_id": "ajra",
+    "name_en": "Karpewadi Khalsa",
+    "name_mr": "",
+    "code": "567914",
+    "boundary_file": "/data/boundaries/villages/kolh-pur/ajra.geojson"
+  }
+]

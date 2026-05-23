@@ -1,0 +1,1064 @@
+[
+  {
+    "village_id": "v-555660",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kuruli",
+    "name_mr": "",
+    "code": "555660",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555659",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nagargaon",
+    "name_mr": "",
+    "code": "555659",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555652",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Rakshewadi",
+    "name_mr": "",
+    "code": "555652",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555666",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Vadgaon Rasai",
+    "name_mr": "",
+    "code": "555666",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555669",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Faratwadi",
+    "name_mr": "",
+    "code": "555669",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555668",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Mandavgan Farata",
+    "name_mr": "",
+    "code": "555668",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555672",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Tandali",
+    "name_mr": "",
+    "code": "555672",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555667",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Sadalgaon",
+    "name_mr": "",
+    "code": "555667",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555671",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Ganegaon Dumala",
+    "name_mr": "",
+    "code": "555671",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555670",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Bambhulsar Bk.",
+    "name_mr": "",
+    "code": "555670",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555646",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shivtakrar Mahalungi",
+    "name_mr": "",
+    "code": "555646",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555636",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Takali Bhima",
+    "name_mr": "",
+    "code": "555636",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555673",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Koregaon Bhima",
+    "name_mr": "",
+    "code": "555673",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555657",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nirvi",
+    "name_mr": "",
+    "code": "555657",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555662",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shirasgaon Kata",
+    "name_mr": "",
+    "code": "555662",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555633",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dingrajwadi",
+    "name_mr": "",
+    "code": "555633",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555649",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Alegaon Paga",
+    "name_mr": "",
+    "code": "555649",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555648",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Arangaon",
+    "name_mr": "",
+    "code": "555648",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555637",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Vitthalwadi",
+    "name_mr": "",
+    "code": "555637",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555638",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dhanore",
+    "name_mr": "",
+    "code": "555638",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555634",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Darekarwadi",
+    "name_mr": "",
+    "code": "555634",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555661",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kolgaon Dolas",
+    "name_mr": "",
+    "code": "555661",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555658",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Andhalgaon",
+    "name_mr": "",
+    "code": "555658",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555653",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Ranjangaon Sandas",
+    "name_mr": "",
+    "code": "555653",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555664",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Pimpalsuti",
+    "name_mr": "",
+    "code": "555664",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555665",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Inamgaon",
+    "name_mr": "",
+    "code": "555665",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555559",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Pimparkhed",
+    "name_mr": "",
+    "code": "555559",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555560",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Jambut",
+    "name_mr": "",
+    "code": "555560",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555558",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kathapur Kh.",
+    "name_mr": "",
+    "code": "555558",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555562",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Chandoh",
+    "name_mr": "",
+    "code": "555562",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555563",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Fakate",
+    "name_mr": "",
+    "code": "555563",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555564",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Vadner Kh.",
+    "name_mr": "",
+    "code": "555564",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555565",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Takali Haji",
+    "name_mr": "",
+    "code": "555565",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555569",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kawathe",
+    "name_mr": "",
+    "code": "555569",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555567",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Sabalewadi",
+    "name_mr": "",
+    "code": "555567",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555571",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Savindane",
+    "name_mr": "",
+    "code": "555571",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555568",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nimgaon Dude",
+    "name_mr": "",
+    "code": "555568",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555573",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Ravadewadi",
+    "name_mr": "",
+    "code": "555573",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555582",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Futanwadi Akharimal",
+    "name_mr": "",
+    "code": "555582",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555574",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dongargan",
+    "name_mr": "",
+    "code": "555574",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555575",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Mhase Bk.",
+    "name_mr": "",
+    "code": "555575",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555580",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Thapewadi Pimpalwadi",
+    "name_mr": "",
+    "code": "555580",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555577",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Malthan",
+    "name_mr": "",
+    "code": "555577",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555587",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kanhur Mesai",
+    "name_mr": "",
+    "code": "555587",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555583",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Pabal",
+    "name_mr": "",
+    "code": "555583",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555576",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Amdabad",
+    "name_mr": "",
+    "code": "555576",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555608",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Annapur",
+    "name_mr": "",
+    "code": "555608",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555590",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Khairewadi",
+    "name_mr": "",
+    "code": "555590",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555607",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nimgaon Bhogi",
+    "name_mr": "",
+    "code": "555607",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555609",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shirur",
+    "name_mr": "",
+    "code": "555609",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555588",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shastabad",
+    "name_mr": "",
+    "code": "555588",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555589",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "555589",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555578",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Lakhewadi",
+    "name_mr": "",
+    "code": "555578",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555585",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Choudhar Bend",
+    "name_mr": "",
+    "code": "555585",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555591",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dhamari",
+    "name_mr": "",
+    "code": "555591",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555581",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Malwadi Agarkarwadi",
+    "name_mr": "",
+    "code": "555581",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555606",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Sone Sangavi",
+    "name_mr": "",
+    "code": "555606",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555611",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Saradwadi",
+    "name_mr": "",
+    "code": "555611",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555592",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Thitewadi",
+    "name_mr": "",
+    "code": "555592",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555594",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kendur",
+    "name_mr": "",
+    "code": "555594",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555603",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shingadwadi",
+    "name_mr": "",
+    "code": "555603",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555615",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dhok Sangavi",
+    "name_mr": "",
+    "code": "555615",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555614",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Karegaon",
+    "name_mr": "",
+    "code": "555614",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555605",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Waghale",
+    "name_mr": "",
+    "code": "555605",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555604",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Varude",
+    "name_mr": "",
+    "code": "555604",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555599",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Hivare",
+    "name_mr": "",
+    "code": "555599",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555613",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Golegaon",
+    "name_mr": "",
+    "code": "555613",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555616",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Pimpari Dumala",
+    "name_mr": "",
+    "code": "555616",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555620",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Ranjangaon Ganpati",
+    "name_mr": "",
+    "code": "555620",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555639",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Karade",
+    "name_mr": "",
+    "code": "555639",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555621",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Babhulsar Kh",
+    "name_mr": "",
+    "code": "555621",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555617",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Ganegaon Khalsa",
+    "name_mr": "",
+    "code": "555617",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555598",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Mukhai",
+    "name_mr": "",
+    "code": "555598",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555640",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Chavhanwadi",
+    "name_mr": "",
+    "code": "555640",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555600",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Pimpale Khalsa",
+    "name_mr": "",
+    "code": "555600",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555619",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Khandale",
+    "name_mr": "",
+    "code": "555619",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555597",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Karandi",
+    "name_mr": "",
+    "code": "555597",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555622",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Bhambarde",
+    "name_mr": "",
+    "code": "555622",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555601",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Jategaon Bk.",
+    "name_mr": "",
+    "code": "555601",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555642",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nimone",
+    "name_mr": "",
+    "code": "555642",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555641",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Motewadi",
+    "name_mr": "",
+    "code": "555641",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555625",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kondhapuri",
+    "name_mr": "",
+    "code": "555625",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555624",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Rautwadi",
+    "name_mr": "",
+    "code": "555624",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555623",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Karanjawane",
+    "name_mr": "",
+    "code": "555623",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555602",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Jategaon Kh.",
+    "name_mr": "",
+    "code": "555602",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555626",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nimgaon Mhalungi",
+    "name_mr": "",
+    "code": "555626",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555629",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Pimpale Jagtap",
+    "name_mr": "",
+    "code": "555629",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555628",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shikrapur",
+    "name_mr": "",
+    "code": "555628",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555654",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shindodi",
+    "name_mr": "",
+    "code": "555654",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555643",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Ambale",
+    "name_mr": "",
+    "code": "555643",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555644",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dahiwadi",
+    "name_mr": "",
+    "code": "555644",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555627",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "555627",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555635",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Talegaon Dhamdhere",
+    "name_mr": "",
+    "code": "555635",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555630",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Wajewadi",
+    "name_mr": "",
+    "code": "555630",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555656",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Gunat",
+    "name_mr": "",
+    "code": "555656",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555674",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Sanaswadi",
+    "name_mr": "",
+    "code": "555674",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555631",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Apti",
+    "name_mr": "",
+    "code": "555631",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555645",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Parodi",
+    "name_mr": "",
+    "code": "555645",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555647",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Uralgaon",
+    "name_mr": "",
+    "code": "555647",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555650",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Nhavara",
+    "name_mr": "",
+    "code": "555650",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555632",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Wadhu Bk.",
+    "name_mr": "",
+    "code": "555632",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555655",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Chinchani",
+    "name_mr": "",
+    "code": "555655",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555618",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Burunjwadi",
+    "name_mr": "",
+    "code": "555618",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555596",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Parhadwadi",
+    "name_mr": "",
+    "code": "555596",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555593",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Mahadeo Wadi",
+    "name_mr": "",
+    "code": "555593",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555595",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Sukrewadi",
+    "name_mr": "",
+    "code": "555595",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555584",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Zodagewadi",
+    "name_mr": "",
+    "code": "555584",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555572",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Munjalwadi",
+    "name_mr": "",
+    "code": "555572",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555570",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Echakewadi",
+    "name_mr": "",
+    "code": "555570",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555566",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Malwadi",
+    "name_mr": "",
+    "code": "555566",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555612",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Tardobachiwadi",
+    "name_mr": "",
+    "code": "555612",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555610",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kardilwadi",
+    "name_mr": "",
+    "code": "555610",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555579",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Midgulwadi",
+    "name_mr": "",
+    "code": "555579",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555663",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Dhumalwadi",
+    "name_mr": "",
+    "code": "555663",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555651",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Kohakdewadi",
+    "name_mr": "",
+    "code": "555651",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555561",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Sharadwadi",
+    "name_mr": "",
+    "code": "555561",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-555586",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Khairenagar",
+    "name_mr": "",
+    "code": "555586",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  },
+  {
+    "village_id": "v-251518",
+    "district_id": "pune",
+    "taluka_id": "shirur",
+    "name_en": "Shirur (M Cl)",
+    "name_mr": "",
+    "code": "251518",
+    "boundary_file": "/data/boundaries/villages/pune/shirur.geojson"
+  }
+]

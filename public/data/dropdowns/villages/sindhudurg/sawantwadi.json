@@ -1,0 +1,767 @@
+[
+  {
+    "village_id": "v-566853",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Shirshinge",
+    "name_mr": "",
+    "code": "566853",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566855",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Amboli",
+    "name_mr": "",
+    "code": "566855",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566854",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Gele",
+    "name_mr": "",
+    "code": "566854",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566857",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kalambist",
+    "name_mr": "",
+    "code": "566857",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566851",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sangeli",
+    "name_mr": "",
+    "code": "566851",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566856",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Verle",
+    "name_mr": "",
+    "code": "566856",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566852",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sawarwad",
+    "name_mr": "",
+    "code": "566852",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566844",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Ambegaon",
+    "name_mr": "",
+    "code": "566844",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566858",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Ovaliye",
+    "name_mr": "",
+    "code": "566858",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566859",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Madkhol",
+    "name_mr": "",
+    "code": "566859",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566843",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kunkeri",
+    "name_mr": "",
+    "code": "566843",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566864",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Parpoli",
+    "name_mr": "",
+    "code": "566864",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566842",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kolgaon",
+    "name_mr": "",
+    "code": "566842",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566870",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Masure",
+    "name_mr": "",
+    "code": "566870",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566863",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Devsu",
+    "name_mr": "",
+    "code": "566863",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566869",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Nene",
+    "name_mr": "",
+    "code": "566869",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566845",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Nirukhe",
+    "name_mr": "",
+    "code": "566845",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566865",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Danoli",
+    "name_mr": "",
+    "code": "566865",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566862",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Satuli",
+    "name_mr": "",
+    "code": "566862",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566841",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Bhom",
+    "name_mr": "",
+    "code": "566841",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566860",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kariwade",
+    "name_mr": "",
+    "code": "566860",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566866",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kesari",
+    "name_mr": "",
+    "code": "566866",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566840",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Nemale",
+    "name_mr": "",
+    "code": "566840",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566871",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Chaukul",
+    "name_mr": "",
+    "code": "566871",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566867",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Fansavade",
+    "name_mr": "",
+    "code": "566867",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566861",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Bavlat",
+    "name_mr": "",
+    "code": "566861",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566847",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Brahmanpat",
+    "name_mr": "",
+    "code": "566847",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566892",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Otavane",
+    "name_mr": "",
+    "code": "566892",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566872",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Bada",
+    "name_mr": "",
+    "code": "566872",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566848",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Malgaon",
+    "name_mr": "",
+    "code": "566848",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566895",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Udeli",
+    "name_mr": "",
+    "code": "566895",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566894",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Dabhil",
+    "name_mr": "",
+    "code": "566894",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566893",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sarmale",
+    "name_mr": "",
+    "code": "566893",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566922",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Majgaon (CT)",
+    "name_mr": "",
+    "code": "566922",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566868",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kegad",
+    "name_mr": "",
+    "code": "566868",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566873",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kumbharwada",
+    "name_mr": "",
+    "code": "566873",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566875",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Niravade",
+    "name_mr": "",
+    "code": "566875",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566849",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kumbharli",
+    "name_mr": "",
+    "code": "566849",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566896",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Gharap",
+    "name_mr": "",
+    "code": "566896",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566902",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Insuli",
+    "name_mr": "",
+    "code": "566902",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566897",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Konas",
+    "name_mr": "",
+    "code": "566897",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566898",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Asniye",
+    "name_mr": "",
+    "code": "566898",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566874",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Talavade",
+    "name_mr": "",
+    "code": "566874",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566900",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Vilavade",
+    "name_mr": "",
+    "code": "566900",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566903",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kshetrapal",
+    "name_mr": "",
+    "code": "566903",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566899",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Bhalawal",
+    "name_mr": "",
+    "code": "566899",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566850",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Vetye",
+    "name_mr": "",
+    "code": "566850",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566907",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Tamboli",
+    "name_mr": "",
+    "code": "566907",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566901",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Wafoli",
+    "name_mr": "",
+    "code": "566901",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566876",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sonurli",
+    "name_mr": "",
+    "code": "566876",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566906",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Degave",
+    "name_mr": "",
+    "code": "566906",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566877",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Nhaveli",
+    "name_mr": "",
+    "code": "566877",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566905",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Nigude",
+    "name_mr": "",
+    "code": "566905",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566923",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Banda (CT)",
+    "name_mr": "",
+    "code": "566923",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566904",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Ronapal",
+    "name_mr": "",
+    "code": "566904",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566914",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sherle",
+    "name_mr": "",
+    "code": "566914",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566908",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Padve",
+    "name_mr": "",
+    "code": "566908",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566909",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Padve",
+    "name_mr": "",
+    "code": "566909",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566880",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Dhakore",
+    "name_mr": "",
+    "code": "566880",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566915",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Padlos",
+    "name_mr": "",
+    "code": "566915",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566878",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Malewad",
+    "name_mr": "",
+    "code": "566878",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566916",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Madura",
+    "name_mr": "",
+    "code": "566916",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566910",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Dingne",
+    "name_mr": "",
+    "code": "566910",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566882",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Dandeli",
+    "name_mr": "",
+    "code": "566882",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566913",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Galel",
+    "name_mr": "",
+    "code": "566913",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566883",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Aros",
+    "name_mr": "",
+    "code": "566883",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566917",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kas",
+    "name_mr": "",
+    "code": "566917",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566879",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Ajgaon",
+    "name_mr": "",
+    "code": "566879",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566911",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Dongarpal",
+    "name_mr": "",
+    "code": "566911",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566881",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kondure",
+    "name_mr": "",
+    "code": "566881",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566919",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Satarda",
+    "name_mr": "",
+    "code": "566919",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566886",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Tiroda",
+    "name_mr": "",
+    "code": "566886",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566920",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sateli Tarf Satarda",
+    "name_mr": "",
+    "code": "566920",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566884",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Talawane",
+    "name_mr": "",
+    "code": "566884",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566885",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Gulduve",
+    "name_mr": "",
+    "code": "566885",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566887",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Nanos",
+    "name_mr": "",
+    "code": "566887",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566912",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Netarde",
+    "name_mr": "",
+    "code": "566912",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566918",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Satose",
+    "name_mr": "",
+    "code": "566918",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566889",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Aronda",
+    "name_mr": "",
+    "code": "566889",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566888",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Bhatpavani",
+    "name_mr": "",
+    "code": "566888",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566921",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kavthani",
+    "name_mr": "",
+    "code": "566921",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566890",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Kinale",
+    "name_mr": "",
+    "code": "566890",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566891",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Savarjuva",
+    "name_mr": "",
+    "code": "566891",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-251613",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Sawantwadi (M Cl)",
+    "name_mr": "",
+    "code": "251613",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  },
+  {
+    "village_id": "v-566846",
+    "district_id": "sindhudurg",
+    "taluka_id": "sawantwadi",
+    "name_en": "Charathe",
+    "name_mr": "",
+    "code": "566846",
+    "boundary_file": "/data/boundaries/villages/sindhudurg/sawantwadi.geojson"
+  }
+]

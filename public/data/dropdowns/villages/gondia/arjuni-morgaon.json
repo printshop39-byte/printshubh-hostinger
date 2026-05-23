@@ -1,0 +1,1523 @@
+[
+  {
+    "village_id": "v-538188",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bhursitola",
+    "name_mr": "",
+    "code": "538188",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538207",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "538207",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538189",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bidtola",
+    "name_mr": "",
+    "code": "538189",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538194",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mungali",
+    "name_mr": "",
+    "code": "538194",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538190",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bhagi (Rithi)",
+    "name_mr": "",
+    "code": "538190",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538271",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Vihirgaon Baradya",
+    "name_mr": "",
+    "code": "538271",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538192",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "538192",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538178",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Channa",
+    "name_mr": "",
+    "code": "538178",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538212",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Zashinagar",
+    "name_mr": "",
+    "code": "538212",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538186",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kholi",
+    "name_mr": "",
+    "code": "538186",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538187",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Nawegaon Bandh",
+    "name_mr": "",
+    "code": "538187",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538180",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gangezari",
+    "name_mr": "",
+    "code": "538180",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538176",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Somalpur",
+    "name_mr": "",
+    "code": "538176",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538270",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Silezari",
+    "name_mr": "",
+    "code": "538270",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-72",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538208",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Chutiya",
+    "name_mr": "",
+    "code": "538208",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538179",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bakati",
+    "name_mr": "",
+    "code": "538179",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538177",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Yerandi",
+    "name_mr": "",
+    "code": "538177",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-73",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538210",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tumdimendha",
+    "name_mr": "",
+    "code": "538210",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538183",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Parsodi(rai)",
+    "name_mr": "",
+    "code": "538183",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-74",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538184",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pandharwani(rai)",
+    "name_mr": "",
+    "code": "538184",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538209",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Malkazari",
+    "name_mr": "",
+    "code": "538209",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538181",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bhiwakhidki",
+    "name_mr": "",
+    "code": "538181",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538175",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Siregaon",
+    "name_mr": "",
+    "code": "538175",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538185",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pandharwani(mal)",
+    "name_mr": "",
+    "code": "538185",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538268",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538268",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538269",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ghusobatola",
+    "name_mr": "",
+    "code": "538269",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538174",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gudhari",
+    "name_mr": "",
+    "code": "538174",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538205",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Rampuri",
+    "name_mr": "",
+    "code": "538205",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538182",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Chalana Khodaka",
+    "name_mr": "",
+    "code": "538182",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538206",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Yelodi",
+    "name_mr": "",
+    "code": "538206",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538193",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sawartola",
+    "name_mr": "",
+    "code": "538193",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538191",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bortola",
+    "name_mr": "",
+    "code": "538191",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538214",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pauni",
+    "name_mr": "",
+    "code": "538214",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538213",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tidka",
+    "name_mr": "",
+    "code": "538213",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-76",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538273",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bondgaon devi",
+    "name_mr": "",
+    "code": "538273",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538211",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kasari (RHV)",
+    "name_mr": "",
+    "code": "538211",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538195",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dewalgaon",
+    "name_mr": "",
+    "code": "538195",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538274",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Inzori",
+    "name_mr": "",
+    "code": "538274",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-77",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538272",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sarandi",
+    "name_mr": "",
+    "code": "538272",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538196",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Somalpur",
+    "name_mr": "",
+    "code": "538196",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538277",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Surgaon",
+    "name_mr": "",
+    "code": "538277",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538275",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Khambi",
+    "name_mr": "",
+    "code": "538275",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538276",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Chapti",
+    "name_mr": "",
+    "code": "538276",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538215",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dhabetekadi",
+    "name_mr": "",
+    "code": "538215",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538218",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kanholi",
+    "name_mr": "",
+    "code": "538218",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538219",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Jabbarkheda",
+    "name_mr": "",
+    "code": "538219",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538281",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dewalgaon",
+    "name_mr": "",
+    "code": "538281",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538197",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538197",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538221",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Yerandi",
+    "name_mr": "",
+    "code": "538221",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538199",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Barabhati",
+    "name_mr": "",
+    "code": "538199",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538198",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Yerandi",
+    "name_mr": "",
+    "code": "538198",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538222",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mahuli",
+    "name_mr": "",
+    "code": "538222",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538278",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "538278",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538223",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Darregaon [ RHV]",
+    "name_mr": "",
+    "code": "538223",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538202",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kawatha",
+    "name_mr": "",
+    "code": "538202",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538279",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "538279",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538280",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Silli",
+    "name_mr": "",
+    "code": "538280",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538282",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bodra",
+    "name_mr": "",
+    "code": "538282",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538220",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Surtoli (RHV)",
+    "name_mr": "",
+    "code": "538220",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538200",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kumbhitola",
+    "name_mr": "",
+    "code": "538200",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538201",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bolade",
+    "name_mr": "",
+    "code": "538201",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538224",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mohgaon (RHV)",
+    "name_mr": "",
+    "code": "538224",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538284",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Arattondi",
+    "name_mr": "",
+    "code": "538284",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538225",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kudk (RHV)",
+    "name_mr": "",
+    "code": "538225",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538285",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dobhana",
+    "name_mr": "",
+    "code": "538285",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538283",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "538283",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538286",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sukadi",
+    "name_mr": "",
+    "code": "538286",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538287",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "538287",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538203",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bortekadi (Rithi)",
+    "name_mr": "",
+    "code": "538203",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538226",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Salai (RHV)",
+    "name_mr": "",
+    "code": "538226",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-78",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538291",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tadgaon",
+    "name_mr": "",
+    "code": "538291",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538288",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pathari(Rithi)",
+    "name_mr": "",
+    "code": "538288",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538204",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kalimati",
+    "name_mr": "",
+    "code": "538204",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-276366",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Arjuni (NP)",
+    "name_mr": "",
+    "code": "276366",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538289",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Morgaon",
+    "name_mr": "",
+    "code": "538289",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538292",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tidka",
+    "name_mr": "",
+    "code": "538292",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538228",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gothangaon",
+    "name_mr": "",
+    "code": "538228",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-79",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538293",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Karadgaon",
+    "name_mr": "",
+    "code": "538293",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538296",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Zarpada",
+    "name_mr": "",
+    "code": "538296",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538299",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Doma",
+    "name_mr": "",
+    "code": "538299",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538297",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tavasikh",
+    "name_mr": "",
+    "code": "538297",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538300",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ramghat",
+    "name_mr": "",
+    "code": "538300",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538229",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ramnagar",
+    "name_mr": "",
+    "code": "538229",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538227",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sanjaynagar",
+    "name_mr": "",
+    "code": "538227",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538298",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Nilaj",
+    "name_mr": "",
+    "code": "538298",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538294",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bolde",
+    "name_mr": "",
+    "code": "538294",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538303",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mahalgaon",
+    "name_mr": "",
+    "code": "538303",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538235",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gandhari",
+    "name_mr": "",
+    "code": "538235",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538234",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bondgaon",
+    "name_mr": "",
+    "code": "538234",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538304",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538304",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538230",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pratapgad",
+    "name_mr": "",
+    "code": "538230",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538233",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kadholi",
+    "name_mr": "",
+    "code": "538233",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538295",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dhabetekari",
+    "name_mr": "",
+    "code": "538295",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538305",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Malkanpur",
+    "name_mr": "",
+    "code": "538305",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538306",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tumdimendha",
+    "name_mr": "",
+    "code": "538306",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538301",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Budhewada",
+    "name_mr": "",
+    "code": "538301",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538232",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "538232",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538237",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Surban",
+    "name_mr": "",
+    "code": "538237",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538238",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Jarugata",
+    "name_mr": "",
+    "code": "538238",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538236",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "538236",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538307",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mahurkuda",
+    "name_mr": "",
+    "code": "538307",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538302",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "538302",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538308",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Itakheda",
+    "name_mr": "",
+    "code": "538308",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538239",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dinkarnagar",
+    "name_mr": "",
+    "code": "538239",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538242",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Karandali",
+    "name_mr": "",
+    "code": "538242",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538317",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mahagaon",
+    "name_mr": "",
+    "code": "538317",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538241",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Khokari",
+    "name_mr": "",
+    "code": "538241",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538309",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "538309",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538240",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Chicholi",
+    "name_mr": "",
+    "code": "538240",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538245",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tukum Narayan",
+    "name_mr": "",
+    "code": "538245",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538314",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Siroli",
+    "name_mr": "",
+    "code": "538314",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538312",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Isapur",
+    "name_mr": "",
+    "code": "538312",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538311",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ghatipalasagaon",
+    "name_mr": "",
+    "code": "538311",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538243",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Umarpayali",
+    "name_mr": "",
+    "code": "538243",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538246",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kelwad",
+    "name_mr": "",
+    "code": "538246",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538310",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Wadegaon",
+    "name_mr": "",
+    "code": "538310",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "charbhatti-reserved-forest",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "CHARBHATTI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538313",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Khamkhurra",
+    "name_mr": "",
+    "code": "538313",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538247",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kaneri",
+    "name_mr": "",
+    "code": "538247",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538248",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pushpanagar (a)",
+    "name_mr": "",
+    "code": "538248",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538244",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "538244",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538267",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Tirkhuri",
+    "name_mr": "",
+    "code": "538267",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538260",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "538260",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538251",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Keshori",
+    "name_mr": "",
+    "code": "538251",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538252",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gardanpur",
+    "name_mr": "",
+    "code": "538252",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538249",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Pushpanagar (b)",
+    "name_mr": "",
+    "code": "538249",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538316",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Yerandi",
+    "name_mr": "",
+    "code": "538316",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538318",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Yegaon",
+    "name_mr": "",
+    "code": "538318",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538253",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gawarra",
+    "name_mr": "",
+    "code": "538253",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538258",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Parastola",
+    "name_mr": "",
+    "code": "538258",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538250",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Wadegaon Bandya",
+    "name_mr": "",
+    "code": "538250",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538266",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bharnoli",
+    "name_mr": "",
+    "code": "538266",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538320",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Korambhi",
+    "name_mr": "",
+    "code": "538320",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538319",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Janawa",
+    "name_mr": "",
+    "code": "538319",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "reserved-forest-dup-80",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538263",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Saigaon",
+    "name_mr": "",
+    "code": "538263",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538264",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Rajoli",
+    "name_mr": "",
+    "code": "538264",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538259",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Junevani",
+    "name_mr": "",
+    "code": "538259",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538254",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Varvhi",
+    "name_mr": "",
+    "code": "538254",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538324",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Arunnagar",
+    "name_mr": "",
+    "code": "538324",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538321",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Arattondi",
+    "name_mr": "",
+    "code": "538321",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538257",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Arattondi",
+    "name_mr": "",
+    "code": "538257",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538255",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ambhora",
+    "name_mr": "",
+    "code": "538255",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538331",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Katgaon",
+    "name_mr": "",
+    "code": "538331",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538332",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kholda",
+    "name_mr": "",
+    "code": "538332",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538329",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mandokhal",
+    "name_mr": "",
+    "code": "538329",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538326",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Korambhitola",
+    "name_mr": "",
+    "code": "538326",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538330",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "538330",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538256",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Dhamditola",
+    "name_mr": "",
+    "code": "538256",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538322",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Mandokhal",
+    "name_mr": "",
+    "code": "538322",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538323",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Asoli",
+    "name_mr": "",
+    "code": "538323",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538261",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ilda",
+    "name_mr": "",
+    "code": "538261",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538328",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sawari",
+    "name_mr": "",
+    "code": "538328",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538325",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Gournagar",
+    "name_mr": "",
+    "code": "538325",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538327",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Sindmarhan",
+    "name_mr": "",
+    "code": "538327",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538262",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kanhalgaon",
+    "name_mr": "",
+    "code": "538262",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538265",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "538265",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538216",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Kohalgaon",
+    "name_mr": "",
+    "code": "538216",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538217",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Ranjitola",
+    "name_mr": "",
+    "code": "538217",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538231",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Butai",
+    "name_mr": "",
+    "code": "538231",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  },
+  {
+    "village_id": "v-538315",
+    "district_id": "gondia",
+    "taluka_id": "arjuni-morgaon",
+    "name_en": "Navnitpur",
+    "name_mr": "",
+    "code": "538315",
+    "boundary_file": "/data/boundaries/villages/gondia/arjuni-morgaon.geojson"
+  }
+]

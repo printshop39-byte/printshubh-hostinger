@@ -1,0 +1,911 @@
+[
+  {
+    "village_id": "v-547502",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Gondhankheda",
+    "name_mr": "",
+    "code": "547502",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547503",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "547503",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547485",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Nalwihira",
+    "name_mr": "",
+    "code": "547485",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547476",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Borkhedi Chinch",
+    "name_mr": "",
+    "code": "547476",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547483",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Aland",
+    "name_mr": "",
+    "code": "547483",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547500",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "547500",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547447",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Borkhedi Gaiki",
+    "name_mr": "",
+    "code": "547447",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547482",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Hanumanth Kheda",
+    "name_mr": "",
+    "code": "547482",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547479",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Mangarul",
+    "name_mr": "",
+    "code": "547479",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547475",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Nimkheda Bk.",
+    "name_mr": "",
+    "code": "547475",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547442",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Rupkheda Kh",
+    "name_mr": "",
+    "code": "547442",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547499",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Varkheda Viro",
+    "name_mr": "",
+    "code": "547499",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-276372",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Jafrabad (NP)",
+    "name_mr": "",
+    "code": "276372",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547469",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Pimpal Khunta",
+    "name_mr": "",
+    "code": "547469",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547504",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Garkheda",
+    "name_mr": "",
+    "code": "547504",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547501",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Khamkheda",
+    "name_mr": "",
+    "code": "547501",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547444",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sawarkheda",
+    "name_mr": "",
+    "code": "547444",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547474",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Dolkheda Bk.",
+    "name_mr": "",
+    "code": "547474",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547470",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Devulgaon Ugle",
+    "name_mr": "",
+    "code": "547470",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547446",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Jawakheda",
+    "name_mr": "",
+    "code": "547446",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547477",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Devulzari",
+    "name_mr": "",
+    "code": "547477",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547478",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sipora",
+    "name_mr": "",
+    "code": "547478",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547434",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Pimpalgaon Kad",
+    "name_mr": "",
+    "code": "547434",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547468",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Weerkheda Bhalki",
+    "name_mr": "",
+    "code": "547468",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547428",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Chinchkheda",
+    "name_mr": "",
+    "code": "547428",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547423",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Borgaon Bk.",
+    "name_mr": "",
+    "code": "547423",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547460",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Warud Bk.",
+    "name_mr": "",
+    "code": "547460",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547453",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Wankheda",
+    "name_mr": "",
+    "code": "547453",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547454",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bharaj Kh.",
+    "name_mr": "",
+    "code": "547454",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547429",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Yeota",
+    "name_mr": "",
+    "code": "547429",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547462",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sanjol",
+    "name_mr": "",
+    "code": "547462",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547430",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "547430",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547461",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kolegaon",
+    "name_mr": "",
+    "code": "547461",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547421",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Dhondkheda",
+    "name_mr": "",
+    "code": "547421",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547422",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Belora",
+    "name_mr": "",
+    "code": "547422",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547456",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sindi",
+    "name_mr": "",
+    "code": "547456",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547420",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Chapnera",
+    "name_mr": "",
+    "code": "547420",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547452",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Rastal",
+    "name_mr": "",
+    "code": "547452",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547455",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bharaj Bk.",
+    "name_mr": "",
+    "code": "547455",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547451",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kusali",
+    "name_mr": "",
+    "code": "547451",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547448",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Pasodi",
+    "name_mr": "",
+    "code": "547448",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547450",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Andhari",
+    "name_mr": "",
+    "code": "547450",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547449",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Adha",
+    "name_mr": "",
+    "code": "547449",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547441",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Repala",
+    "name_mr": "",
+    "code": "547441",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547435",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Varud Kh.",
+    "name_mr": "",
+    "code": "547435",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547471",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kumbhari",
+    "name_mr": "",
+    "code": "547471",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547426",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Hiwarabali",
+    "name_mr": "",
+    "code": "547426",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547433",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Asai",
+    "name_mr": "",
+    "code": "547433",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547465",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Gopi",
+    "name_mr": "",
+    "code": "547465",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547463",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Konad",
+    "name_mr": "",
+    "code": "547463",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547432",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kolhapur",
+    "name_mr": "",
+    "code": "547432",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547425",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bori Kh.",
+    "name_mr": "",
+    "code": "547425",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547427",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Janephal",
+    "name_mr": "",
+    "code": "547427",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547466",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Khasgaon",
+    "name_mr": "",
+    "code": "547466",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547431",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Mahora",
+    "name_mr": "",
+    "code": "547431",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547459",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Songiri",
+    "name_mr": "",
+    "code": "547459",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547458",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Khaparkheda",
+    "name_mr": "",
+    "code": "547458",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547424",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Borgaon Math",
+    "name_mr": "",
+    "code": "547424",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547457",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sawasani",
+    "name_mr": "",
+    "code": "547457",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547519",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Niwdunga",
+    "name_mr": "",
+    "code": "547519",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547498",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Satephal",
+    "name_mr": "",
+    "code": "547498",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547497",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sirala",
+    "name_mr": "",
+    "code": "547497",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547518",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Dongaon",
+    "name_mr": "",
+    "code": "547518",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547514",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "547514",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547516",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Pokhari",
+    "name_mr": "",
+    "code": "547516",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547515",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Butkheda",
+    "name_mr": "",
+    "code": "547515",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547496",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Nandkheda",
+    "name_mr": "",
+    "code": "547496",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547495",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kinhi",
+    "name_mr": "",
+    "code": "547495",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547517",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Devale Gavhan",
+    "name_mr": "",
+    "code": "547517",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547513",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Akola",
+    "name_mr": "",
+    "code": "547513",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547494",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kachanera",
+    "name_mr": "",
+    "code": "547494",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547493",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Papal",
+    "name_mr": "",
+    "code": "547493",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547491",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Dolkheda Kh.",
+    "name_mr": "",
+    "code": "547491",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547512",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "547512",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547492",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Warkheda (Firangi)",
+    "name_mr": "",
+    "code": "547492",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547509",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Gadegavhan",
+    "name_mr": "",
+    "code": "547509",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547490",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "547490",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547489",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kalegaon",
+    "name_mr": "",
+    "code": "547489",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547510",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Ambewadi",
+    "name_mr": "",
+    "code": "547510",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547508",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Tapovan Gondhan",
+    "name_mr": "",
+    "code": "547508",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547486",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bhatodi",
+    "name_mr": "",
+    "code": "547486",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547511",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Tembhurni",
+    "name_mr": "",
+    "code": "547511",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547487",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "547487",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547488",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Kumbharzari",
+    "name_mr": "",
+    "code": "547488",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547481",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bramhapuri",
+    "name_mr": "",
+    "code": "547481",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547507",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Nimkheda Kh.",
+    "name_mr": "",
+    "code": "547507",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547506",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "547506",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547505",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Dawargaon",
+    "name_mr": "",
+    "code": "547505",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547484",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Hiwara Kavali",
+    "name_mr": "",
+    "code": "547484",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547480",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Rupkheda Bk.",
+    "name_mr": "",
+    "code": "547480",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547473",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sawarkheda Gondhan",
+    "name_mr": "",
+    "code": "547473",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547437",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Ghankheda",
+    "name_mr": "",
+    "code": "547437",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547439",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Gokulwadi",
+    "name_mr": "",
+    "code": "547439",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547445",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Aradkheda",
+    "name_mr": "",
+    "code": "547445",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547440",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Harpala",
+    "name_mr": "",
+    "code": "547440",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547472",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bharadkhead",
+    "name_mr": "",
+    "code": "547472",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547467",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Merkheda",
+    "name_mr": "",
+    "code": "547467",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547436",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Bhorkheda",
+    "name_mr": "",
+    "code": "547436",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547464",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Sonkheda",
+    "name_mr": "",
+    "code": "547464",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547438",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Mhasarul",
+    "name_mr": "",
+    "code": "547438",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  },
+  {
+    "village_id": "v-547520",
+    "district_id": "jalna",
+    "taluka_id": "jafrabad",
+    "name_en": "Tondoli",
+    "name_mr": "",
+    "code": "547520",
+    "boundary_file": "/data/boundaries/villages/jalna/jafrabad.geojson"
+  }
+]

@@ -1,0 +1,1415 @@
+[
+  {
+    "village_id": "v-534074",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pandharkawda",
+    "name_mr": "",
+    "code": "534074",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534067",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dhamangaon",
+    "name_mr": "",
+    "code": "534067",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534075",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Karla",
+    "name_mr": "",
+    "code": "534075",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534073",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ganeshpur",
+    "name_mr": "",
+    "code": "534073",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534068",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Wathoda",
+    "name_mr": "",
+    "code": "534068",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534066",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "534066",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534078",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Mudhapur",
+    "name_mr": "",
+    "code": "534078",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534076",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kartada",
+    "name_mr": "",
+    "code": "534076",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534170",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kurzadi",
+    "name_mr": "",
+    "code": "534170",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534084",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Satoda",
+    "name_mr": "",
+    "code": "534084",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534086",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "534086",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534069",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Amla",
+    "name_mr": "",
+    "code": "534069",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534172",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Waifad",
+    "name_mr": "",
+    "code": "534172",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534072",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Tigaon",
+    "name_mr": "",
+    "code": "534072",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534083",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bhiwapur",
+    "name_mr": "",
+    "code": "534083",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534070",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sindi Kh.",
+    "name_mr": "",
+    "code": "534070",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534085",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Alodi (CT)",
+    "name_mr": "",
+    "code": "534085",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534082",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "534082",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534071",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dahegaon Miskin",
+    "name_mr": "",
+    "code": "534071",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534194",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Masala (CT)",
+    "name_mr": "",
+    "code": "534194",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534193",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Warud (CT)",
+    "name_mr": "",
+    "code": "534193",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534080",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kedarwadi",
+    "name_mr": "",
+    "code": "534080",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534195",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Nalwadi (CT)",
+    "name_mr": "",
+    "code": "534195",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534179",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Rotha",
+    "name_mr": "",
+    "code": "534179",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534081",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kamathwada",
+    "name_mr": "",
+    "code": "534081",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534139",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kesalapur",
+    "name_mr": "",
+    "code": "534139",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534096",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ashrafpur",
+    "name_mr": "",
+    "code": "534096",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534095",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Banpur",
+    "name_mr": "",
+    "code": "534095",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534183",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "534183",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534124",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "534124",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534131",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sawali",
+    "name_mr": "",
+    "code": "534131",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534148",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Wadadha",
+    "name_mr": "",
+    "code": "534148",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534132",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Yerandgaon",
+    "name_mr": "",
+    "code": "534132",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534125",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Yesamba",
+    "name_mr": "",
+    "code": "534125",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534147",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Fattepur",
+    "name_mr": "",
+    "code": "534147",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534141",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Aminpur",
+    "name_mr": "",
+    "code": "534141",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534142",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Walhapur",
+    "name_mr": "",
+    "code": "534142",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534140",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Chunala",
+    "name_mr": "",
+    "code": "534140",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534157",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "534157",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534146",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ajagaon",
+    "name_mr": "",
+    "code": "534146",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534043",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Morangana",
+    "name_mr": "",
+    "code": "534043",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534047",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Chaka",
+    "name_mr": "",
+    "code": "534047",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534045",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Amaji Majara",
+    "name_mr": "",
+    "code": "534045",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534046",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kamthi",
+    "name_mr": "",
+    "code": "534046",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534048",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Chendakapur",
+    "name_mr": "",
+    "code": "534048",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534050",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "534050",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534052",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Anji",
+    "name_mr": "",
+    "code": "534052",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534051",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pavnur",
+    "name_mr": "",
+    "code": "534051",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534049",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sewa",
+    "name_mr": "",
+    "code": "534049",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534053",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Narsula",
+    "name_mr": "",
+    "code": "534053",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534054",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Mandawa",
+    "name_mr": "",
+    "code": "534054",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534058",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dorli",
+    "name_mr": "",
+    "code": "534058",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534055",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pulai",
+    "name_mr": "",
+    "code": "534055",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534056",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Peth",
+    "name_mr": "",
+    "code": "534056",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534057",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Borgaon (Savali)",
+    "name_mr": "",
+    "code": "534057",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534059",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dhulwa",
+    "name_mr": "",
+    "code": "534059",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534060",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Borgaon (Nandora)",
+    "name_mr": "",
+    "code": "534060",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534063",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Belgaon",
+    "name_mr": "",
+    "code": "534063",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534077",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Mahakal",
+    "name_mr": "",
+    "code": "534077",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534064",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Wagdara",
+    "name_mr": "",
+    "code": "534064",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534079",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pavnar",
+    "name_mr": "",
+    "code": "534079",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534065",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Lonsawali",
+    "name_mr": "",
+    "code": "534065",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534061",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Digraj",
+    "name_mr": "",
+    "code": "534061",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534062",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Zadgaon",
+    "name_mr": "",
+    "code": "534062",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534192",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sindi Medhe",
+    "name_mr": "",
+    "code": "534192",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-251334",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Wardha (M Cl)",
+    "name_mr": "",
+    "code": "251334",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534104",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kutki",
+    "name_mr": "",
+    "code": "534104",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534105",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kharangana (Gode)",
+    "name_mr": "",
+    "code": "534105",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534176",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "534176",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534098",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Chichala",
+    "name_mr": "",
+    "code": "534098",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534178",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dhotra",
+    "name_mr": "",
+    "code": "534178",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534180",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Nagthana",
+    "name_mr": "",
+    "code": "534180",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534173",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "534173",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534177",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Amboda",
+    "name_mr": "",
+    "code": "534177",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534171",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bodad",
+    "name_mr": "",
+    "code": "534171",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534100",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Barbadi",
+    "name_mr": "",
+    "code": "534100",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534101",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sevagram (CT)",
+    "name_mr": "",
+    "code": "534101",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534103",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Karanji (Bhoge)",
+    "name_mr": "",
+    "code": "534103",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534175",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Nimgaon",
+    "name_mr": "",
+    "code": "534175",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534196",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Borgaon (Meghe) (CT)",
+    "name_mr": "",
+    "code": "534196",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534089",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Padhegaon (Mokashi)",
+    "name_mr": "",
+    "code": "534089",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534197",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sawangi (Meghe) (CT)",
+    "name_mr": "",
+    "code": "534197",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534102",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "534102",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534174",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kelapur",
+    "name_mr": "",
+    "code": "534174",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534099",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Chitoda",
+    "name_mr": "",
+    "code": "534099",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534088",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bhaiyapur",
+    "name_mr": "",
+    "code": "534088",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534106",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Karanji (Kanji)",
+    "name_mr": "",
+    "code": "534106",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534109",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Nandora",
+    "name_mr": "",
+    "code": "534109",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534090",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Shampur",
+    "name_mr": "",
+    "code": "534090",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534108",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "534108",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534107",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sondlapur",
+    "name_mr": "",
+    "code": "534107",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534137",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Inzapur",
+    "name_mr": "",
+    "code": "534137",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534181",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Padhegaon",
+    "name_mr": "",
+    "code": "534181",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534110",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Mandavgad",
+    "name_mr": "",
+    "code": "534110",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534182",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Chikni",
+    "name_mr": "",
+    "code": "534182",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534115",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Balapur",
+    "name_mr": "",
+    "code": "534115",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534120",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pujai",
+    "name_mr": "",
+    "code": "534120",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534116",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Waigaon",
+    "name_mr": "",
+    "code": "534116",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534117",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Itlapur",
+    "name_mr": "",
+    "code": "534117",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534094",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Jamtha",
+    "name_mr": "",
+    "code": "534094",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534114",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "534114",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534138",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Selukate",
+    "name_mr": "",
+    "code": "534138",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534128",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Mudhapur",
+    "name_mr": "",
+    "code": "534128",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534111",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bhuigaon",
+    "name_mr": "",
+    "code": "534111",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534113",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dhanora",
+    "name_mr": "",
+    "code": "534113",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534093",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Paloti",
+    "name_mr": "",
+    "code": "534093",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534185",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Hirapur",
+    "name_mr": "",
+    "code": "534185",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534129",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sakhara",
+    "name_mr": "",
+    "code": "534129",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534118",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Madni",
+    "name_mr": "",
+    "code": "534118",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534130",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "534130",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534092",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "534092",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534119",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bondapur",
+    "name_mr": "",
+    "code": "534119",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534127",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Gondapur",
+    "name_mr": "",
+    "code": "534127",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534123",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Raghunathpur",
+    "name_mr": "",
+    "code": "534123",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534121",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "534121",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534186",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Meghapur",
+    "name_mr": "",
+    "code": "534186",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534184",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Afzalpur",
+    "name_mr": "",
+    "code": "534184",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534126",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Abdullapur",
+    "name_mr": "",
+    "code": "534126",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534187",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Balapur",
+    "name_mr": "",
+    "code": "534187",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534122",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bhankheda",
+    "name_mr": "",
+    "code": "534122",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534188",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Selsura",
+    "name_mr": "",
+    "code": "534188",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534112",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Jaulgaon",
+    "name_mr": "",
+    "code": "534112",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534097",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Kurzadi",
+    "name_mr": "",
+    "code": "534097",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534144",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Waigaon",
+    "name_mr": "",
+    "code": "534144",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534143",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Taharpur",
+    "name_mr": "",
+    "code": "534143",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534163",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sonegaon",
+    "name_mr": "",
+    "code": "534163",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534133",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Tanapur",
+    "name_mr": "",
+    "code": "534133",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534134",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "534134",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534145",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Asala",
+    "name_mr": "",
+    "code": "534145",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534160",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Shivapur",
+    "name_mr": "",
+    "code": "534160",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534149",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sirasgaon",
+    "name_mr": "",
+    "code": "534149",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534156",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "534156",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534135",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Goji",
+    "name_mr": "",
+    "code": "534135",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534162",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sultanpur",
+    "name_mr": "",
+    "code": "534162",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534161",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "534161",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534159",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Mirapur",
+    "name_mr": "",
+    "code": "534159",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534158",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dapori",
+    "name_mr": "",
+    "code": "534158",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534155",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bhiwapur",
+    "name_mr": "",
+    "code": "534155",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534150",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Jamnala",
+    "name_mr": "",
+    "code": "534150",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534165",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "534165",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534136",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Raipalli",
+    "name_mr": "",
+    "code": "534136",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534164",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dhotra",
+    "name_mr": "",
+    "code": "534164",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534152",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dewangan",
+    "name_mr": "",
+    "code": "534152",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534153",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ambapur",
+    "name_mr": "",
+    "code": "534153",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534151",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Itala",
+    "name_mr": "",
+    "code": "534151",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534154",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Bhawanpur",
+    "name_mr": "",
+    "code": "534154",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534167",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ajansara",
+    "name_mr": "",
+    "code": "534167",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534166",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Sonpeth",
+    "name_mr": "",
+    "code": "534166",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534168",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Ekurli",
+    "name_mr": "",
+    "code": "534168",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534169",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Dhodari",
+    "name_mr": "",
+    "code": "534169",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534044",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pavni",
+    "name_mr": "",
+    "code": "534044",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534190",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Yaganddeo",
+    "name_mr": "",
+    "code": "534190",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534189",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Narayanpur",
+    "name_mr": "",
+    "code": "534189",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534191",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Pipri (CT)",
+    "name_mr": "",
+    "code": "534191",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-945404",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Natala RHV",
+    "name_mr": "",
+    "code": "945404",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-534091",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Salod (Hirapur)",
+    "name_mr": "",
+    "code": "534091",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  },
+  {
+    "village_id": "v-651844",
+    "district_id": "wardha",
+    "taluka_id": "wardha",
+    "name_en": "Neri(RHV)",
+    "name_mr": "",
+    "code": "651844",
+    "boundary_file": "/data/boundaries/villages/wardha/wardha.geojson"
+  }
+]

@@ -1,0 +1,731 @@
+[
+  {
+    "village_id": "v-547103",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Gunj",
+    "name_mr": "",
+    "code": "547103",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547102",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Dutka",
+    "name_mr": "",
+    "code": "547102",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547098",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sawangi Thadi",
+    "name_mr": "",
+    "code": "547098",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547101",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Rahati",
+    "name_mr": "",
+    "code": "547101",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547096",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Digras",
+    "name_mr": "",
+    "code": "547096",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547095",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Pharkanda",
+    "name_mr": "",
+    "code": "547095",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547099",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Pimpalgaon {M}",
+    "name_mr": "",
+    "code": "547099",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547097",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Barbadi",
+    "name_mr": "",
+    "code": "547097",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547100",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Bhogaon",
+    "name_mr": "",
+    "code": "547100",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547110",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Jawla (palam)",
+    "name_mr": "",
+    "code": "547110",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547106",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sheikh Rajura",
+    "name_mr": "",
+    "code": "547106",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547104",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Parwa",
+    "name_mr": "",
+    "code": "547104",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547089",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Dhanewadi",
+    "name_mr": "",
+    "code": "547089",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547094",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Phala",
+    "name_mr": "",
+    "code": "547094",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547091",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Umarthadi",
+    "name_mr": "",
+    "code": "547091",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547088",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Raorajur",
+    "name_mr": "",
+    "code": "547088",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547109",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Gulkhand",
+    "name_mr": "",
+    "code": "547109",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547090",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Khurlewadi",
+    "name_mr": "",
+    "code": "547090",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547093",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Someshawar",
+    "name_mr": "",
+    "code": "547093",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547105",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Kharab Dhanora",
+    "name_mr": "",
+    "code": "547105",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547092",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Arkhed",
+    "name_mr": "",
+    "code": "547092",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547087",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sawangi Bhujbal",
+    "name_mr": "",
+    "code": "547087",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547113",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sayala (palam)",
+    "name_mr": "",
+    "code": "547113",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547108",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Wadi (kh)",
+    "name_mr": "",
+    "code": "547108",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547111",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Ghoda",
+    "name_mr": "",
+    "code": "547111",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-276297",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Palam (NP)",
+    "name_mr": "",
+    "code": "276297",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547112",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "547112",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547107",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Wadi {Bk}",
+    "name_mr": "",
+    "code": "547107",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547114",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Rokadewadi",
+    "name_mr": "",
+    "code": "547114",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547115",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Kapsi",
+    "name_mr": "",
+    "code": "547115",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547116",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Ajamabad",
+    "name_mr": "",
+    "code": "547116",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547120",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Anjanwadi",
+    "name_mr": "",
+    "code": "547120",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547121",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Peth Shivani",
+    "name_mr": "",
+    "code": "547121",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547127",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sarfrajpur",
+    "name_mr": "",
+    "code": "547127",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547122",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sategaon",
+    "name_mr": "",
+    "code": "547122",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547128",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Dhuppa",
+    "name_mr": "",
+    "code": "547128",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547118",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Puyani",
+    "name_mr": "",
+    "code": "547118",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547124",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Kolwadi",
+    "name_mr": "",
+    "code": "547124",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547129",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Peth Pimpalgaon",
+    "name_mr": "",
+    "code": "547129",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547123",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Selu",
+    "name_mr": "",
+    "code": "547123",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547117",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Ganeshwadi",
+    "name_mr": "",
+    "code": "547117",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547133",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Navhalgaon",
+    "name_mr": "",
+    "code": "547133",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547131",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Adgaon",
+    "name_mr": "",
+    "code": "547131",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547132",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Kandalgaon",
+    "name_mr": "",
+    "code": "547132",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547125",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Pendu Kh.",
+    "name_mr": "",
+    "code": "547125",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547130",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Teljapur",
+    "name_mr": "",
+    "code": "547130",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547137",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Navha",
+    "name_mr": "",
+    "code": "547137",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547126",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Pendu Bk.",
+    "name_mr": "",
+    "code": "547126",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547140",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Khoras",
+    "name_mr": "",
+    "code": "547140",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547134",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Vanbhujwadi",
+    "name_mr": "",
+    "code": "547134",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547142",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sadlapur",
+    "name_mr": "",
+    "code": "547142",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547135",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Anandwadi",
+    "name_mr": "",
+    "code": "547135",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547139",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Khadi",
+    "name_mr": "",
+    "code": "547139",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547136",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Chatori",
+    "name_mr": "",
+    "code": "547136",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547141",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Tambulgaon",
+    "name_mr": "",
+    "code": "547141",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547145",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Umra",
+    "name_mr": "",
+    "code": "547145",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547144",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Mutkhed",
+    "name_mr": "",
+    "code": "547144",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547151",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Warkhed",
+    "name_mr": "",
+    "code": "547151",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547138",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Bandarwadi",
+    "name_mr": "",
+    "code": "547138",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547143",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sipegaon",
+    "name_mr": "",
+    "code": "547143",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547148",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Borgaon Bk.",
+    "name_mr": "",
+    "code": "547148",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547155",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Borgaon Kh.",
+    "name_mr": "",
+    "code": "547155",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547147",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Konerwadi",
+    "name_mr": "",
+    "code": "547147",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547153",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Chorwad",
+    "name_mr": "",
+    "code": "547153",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547146",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Bhalkudki",
+    "name_mr": "",
+    "code": "547146",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547150",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Ukkadgaon Jagir",
+    "name_mr": "",
+    "code": "547150",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547158",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Mozamabad",
+    "name_mr": "",
+    "code": "547158",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547154",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Pokharni Devi",
+    "name_mr": "",
+    "code": "547154",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547157",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sirsam (palam)",
+    "name_mr": "",
+    "code": "547157",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547160",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Girdharwadi",
+    "name_mr": "",
+    "code": "547160",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547156",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Martandwadi",
+    "name_mr": "",
+    "code": "547156",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547161",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Fattunaik Tanda",
+    "name_mr": "",
+    "code": "547161",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547159",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Banwas",
+    "name_mr": "",
+    "code": "547159",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547165",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "547165",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547152",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Mozmabad Tanda",
+    "name_mr": "",
+    "code": "547152",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547164",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Dongargaon (palam)",
+    "name_mr": "",
+    "code": "547164",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547168",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Sadgirwadi",
+    "name_mr": "",
+    "code": "547168",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547166",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Mahadewadi",
+    "name_mr": "",
+    "code": "547166",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547167",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Landakwadi",
+    "name_mr": "",
+    "code": "547167",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547163",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Ramapur",
+    "name_mr": "",
+    "code": "547163",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  },
+  {
+    "village_id": "v-547162",
+    "district_id": "parbhani",
+    "taluka_id": "palam",
+    "name_en": "Ramapur Tanda",
+    "name_mr": "",
+    "code": "547162",
+    "boundary_file": "/data/boundaries/villages/parbhani/palam.geojson"
+  }
+]

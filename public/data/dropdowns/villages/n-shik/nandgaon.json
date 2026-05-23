@@ -1,0 +1,920 @@
+[
+  {
+    "village_id": "v-550386",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Jalgaon Kh.",
+    "name_mr": "",
+    "code": "550386",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550315",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Astagaon",
+    "name_mr": "",
+    "code": "550315",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550316",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Dhotane Bk.",
+    "name_mr": "",
+    "code": "550316",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550327",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Dhotane Kh.",
+    "name_mr": "",
+    "code": "550327",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550314",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Panzandeo",
+    "name_mr": "",
+    "code": "550314",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550343",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Mandwad",
+    "name_mr": "",
+    "code": "550343",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550336",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Krantinagar",
+    "name_mr": "",
+    "code": "550336",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550337",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Malaharwadi",
+    "name_mr": "",
+    "code": "550337",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550328",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Hiswal Kh.",
+    "name_mr": "",
+    "code": "550328",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550339",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Pokhari Patode",
+    "name_mr": "",
+    "code": "550339",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550342",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Azadnagar",
+    "name_mr": "",
+    "code": "550342",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550393",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Chinchvihir",
+    "name_mr": "",
+    "code": "550393",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550387",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Jalgaon Bk.",
+    "name_mr": "",
+    "code": "550387",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550403",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Bolthan",
+    "name_mr": "",
+    "code": "550403",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550357",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Lohashingve",
+    "name_mr": "",
+    "code": "550357",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550326",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Narayangaon",
+    "name_mr": "",
+    "code": "550326",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550402",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Jawalki",
+    "name_mr": "",
+    "code": "550402",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550401",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Gondegaon",
+    "name_mr": "",
+    "code": "550401",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550404",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Rohile Bk",
+    "name_mr": "",
+    "code": "550404",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550365",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Amode",
+    "name_mr": "",
+    "code": "550365",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550364",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Borale",
+    "name_mr": "",
+    "code": "550364",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550363",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Malgaon",
+    "name_mr": "",
+    "code": "550363",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550366",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Mangalane",
+    "name_mr": "",
+    "code": "550366",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550362",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Kalamdari",
+    "name_mr": "",
+    "code": "550362",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550367",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Vehelgaon",
+    "name_mr": "",
+    "code": "550367",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550370",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Palshi",
+    "name_mr": "",
+    "code": "550370",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550371",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Sawargaon",
+    "name_mr": "",
+    "code": "550371",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550368",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Jamdari",
+    "name_mr": "",
+    "code": "550368",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550369",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Talwade",
+    "name_mr": "",
+    "code": "550369",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550360",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Wakhari",
+    "name_mr": "",
+    "code": "550360",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550372",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Naydongari",
+    "name_mr": "",
+    "code": "550372",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550361",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Pimprale",
+    "name_mr": "",
+    "code": "550361",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550373",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Birole",
+    "name_mr": "",
+    "code": "550373",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550306",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Darhel",
+    "name_mr": "",
+    "code": "550306",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550376",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Sakore",
+    "name_mr": "",
+    "code": "550376",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550374",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Muldongari",
+    "name_mr": "",
+    "code": "550374",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550307",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Nandur",
+    "name_mr": "",
+    "code": "550307",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550305",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Boygaon",
+    "name_mr": "",
+    "code": "550305",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550381",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Rankhede",
+    "name_mr": "",
+    "code": "550381",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550380",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Chandore",
+    "name_mr": "",
+    "code": "550380",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550377",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "New_panzan",
+    "name_mr": "",
+    "code": "550377",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550311",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Bhardi",
+    "name_mr": "",
+    "code": "550311",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550308",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Porkerwadi",
+    "name_mr": "",
+    "code": "550308",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550334",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Hinganwadi (N.V.)",
+    "name_mr": "",
+    "code": "550334",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550310",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Dhaner",
+    "name_mr": "",
+    "code": "550310",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550309",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Kondhar",
+    "name_mr": "",
+    "code": "550309",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550312",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Nawasari",
+    "name_mr": "",
+    "code": "550312",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550313",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Khadgaon",
+    "name_mr": "",
+    "code": "550313",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550330",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Hirenagar",
+    "name_mr": "",
+    "code": "550330",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550329",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Hiswal Bk.",
+    "name_mr": "",
+    "code": "550329",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550384",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Pardhadi",
+    "name_mr": "",
+    "code": "550384",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550382",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Hingane Dehere",
+    "name_mr": "",
+    "code": "550382",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550335",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Grinarnagar (NV)",
+    "name_mr": "",
+    "code": "550335",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550385",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Pimparkhed",
+    "name_mr": "",
+    "code": "550385",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550383",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Pimpri_haveli",
+    "name_mr": "",
+    "code": "550383",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550379",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Doctorwadi",
+    "name_mr": "",
+    "code": "550379",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550344",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Shastrinager",
+    "name_mr": "",
+    "code": "550344",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550378",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Babhulwadi",
+    "name_mr": "",
+    "code": "550378",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550333",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Phulenagar (NV)",
+    "name_mr": "",
+    "code": "550333",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550332",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Shriramnagar (NV)",
+    "name_mr": "",
+    "code": "550332",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550338",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Gangadhari",
+    "name_mr": "",
+    "code": "550338",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550396",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Dheku Bk.",
+    "name_mr": "",
+    "code": "550396",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550388",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Ganeshnagar",
+    "name_mr": "",
+    "code": "550388",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550395",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Dheku Kh.",
+    "name_mr": "",
+    "code": "550395",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550318",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "550318",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-251440",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Manmad (M CI)",
+    "name_mr": "",
+    "code": "251440",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550341",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Dahigaon",
+    "name_mr": "",
+    "code": "550341",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550340",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Tandulwadi",
+    "name_mr": "",
+    "code": "550340",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550317",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Panewadi",
+    "name_mr": "",
+    "code": "550317",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550345",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Besgaon",
+    "name_mr": "",
+    "code": "550345",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550394",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Kusumtel",
+    "name_mr": "",
+    "code": "550394",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550397",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Chandanpuri",
+    "name_mr": "",
+    "code": "550397",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550398",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Lodhare",
+    "name_mr": "",
+    "code": "550398",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550346",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Mohegaon",
+    "name_mr": "",
+    "code": "550346",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550347",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Laxminagar",
+    "name_mr": "",
+    "code": "550347",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550389",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Manikpunj",
+    "name_mr": "",
+    "code": "550389",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550349",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Bangaon Bk.",
+    "name_mr": "",
+    "code": "550349",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550352",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Takli Kh.",
+    "name_mr": "",
+    "code": "550352",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550319",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Ekwai",
+    "name_mr": "",
+    "code": "550319",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550351",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Takli Bk.",
+    "name_mr": "",
+    "code": "550351",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550348",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Morzar",
+    "name_mr": "",
+    "code": "550348",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550400",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Jategaon",
+    "name_mr": "",
+    "code": "550400",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550321",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Satane",
+    "name_mr": "",
+    "code": "550321",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550320",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Karhi",
+    "name_mr": "",
+    "code": "550320",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550350",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Bangaon Kh.",
+    "name_mr": "",
+    "code": "550350",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550392",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Kasari",
+    "name_mr": "",
+    "code": "550392",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550399",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Vasantnagar",
+    "name_mr": "",
+    "code": "550399",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550356",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Bhalur",
+    "name_mr": "",
+    "code": "550356",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550325",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Ghadeghewadi",
+    "name_mr": "",
+    "code": "550325",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550355",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Wadali Bk.",
+    "name_mr": "",
+    "code": "550355",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550354",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Wadali Kh.",
+    "name_mr": "",
+    "code": "550354",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550390",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Kasabkhede",
+    "name_mr": "",
+    "code": "550390",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550353",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Khirdipatode",
+    "name_mr": "",
+    "code": "550353",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550324",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Malegaon Karyat",
+    "name_mr": "",
+    "code": "550324",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550322",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Anakwade",
+    "name_mr": "",
+    "code": "550322",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550323",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Wanjarwadi",
+    "name_mr": "",
+    "code": "550323",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550358",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Soygaon",
+    "name_mr": "",
+    "code": "550358",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550391",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Pohi",
+    "name_mr": "",
+    "code": "550391",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550359",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Bhauri",
+    "name_mr": "",
+    "code": "550359",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550375",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Aswaldara",
+    "name_mr": "",
+    "code": "550375",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-251439",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Nandgaon (M Cl)",
+    "name_mr": "",
+    "code": "251439",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  },
+  {
+    "village_id": "v-550331",
+    "district_id": "n-shik",
+    "taluka_id": "nandgaon",
+    "name_en": "Nandgaon Rural",
+    "name_mr": "",
+    "code": "550331",
+    "boundary_file": "/data/boundaries/villages/n-shik/nandgaon.geojson"
+  }
+]

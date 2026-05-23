@@ -1,0 +1,947 @@
+[
+  {
+    "village_id": "v-563458",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kuranwadi",
+    "name_mr": "",
+    "code": "563458",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563431",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kalewadi (Naravane)",
+    "name_mr": "",
+    "code": "563431",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563432",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Naravane",
+    "name_mr": "",
+    "code": "563432",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563453",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Devapur",
+    "name_mr": "",
+    "code": "563453",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563437",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Didwaghwadi (divad)",
+    "name_mr": "",
+    "code": "563437",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563438",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dhakani",
+    "name_mr": "",
+    "code": "563438",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563439",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Gatewadi (Dhakani)",
+    "name_mr": "",
+    "code": "563439",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563430",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dorgewadi (Naravane)",
+    "name_mr": "",
+    "code": "563430",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563454",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shirtav",
+    "name_mr": "",
+    "code": "563454",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563456",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Gangoti",
+    "name_mr": "",
+    "code": "563456",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563452",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Palsavade",
+    "name_mr": "",
+    "code": "563452",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563455",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pulkoti",
+    "name_mr": "",
+    "code": "563455",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563440",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Wadjal",
+    "name_mr": "",
+    "code": "563440",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563445",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Panavan",
+    "name_mr": "",
+    "code": "563445",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563441",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kukudwad",
+    "name_mr": "",
+    "code": "563441",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563444",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Valai",
+    "name_mr": "",
+    "code": "563444",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563446",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Jambhulani",
+    "name_mr": "",
+    "code": "563446",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563459",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Varkute malavadi",
+    "name_mr": "",
+    "code": "563459",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563442",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Agaswadi",
+    "name_mr": "",
+    "code": "563442",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563457",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bangarwadi",
+    "name_mr": "",
+    "code": "563457",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563443",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pukalewadi",
+    "name_mr": "",
+    "code": "563443",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563381",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mogarale",
+    "name_mr": "",
+    "code": "563381",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563380",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Tondale",
+    "name_mr": "",
+    "code": "563380",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563382",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pachvad",
+    "name_mr": "",
+    "code": "563382",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563362",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Varugad",
+    "name_mr": "",
+    "code": "563362",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563396",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shinganapur",
+    "name_mr": "",
+    "code": "563396",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563383",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Anubhulewadi",
+    "name_mr": "",
+    "code": "563383",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563360",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shripanvan",
+    "name_mr": "",
+    "code": "563360",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563384",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Gherewadi",
+    "name_mr": "",
+    "code": "563384",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563361",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Garadachiwadi (varugad)",
+    "name_mr": "",
+    "code": "563361",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563359",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kalaskarwadi (kulakjai)",
+    "name_mr": "",
+    "code": "563359",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563397",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Thadale",
+    "name_mr": "",
+    "code": "563397",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563387",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bijavadi",
+    "name_mr": "",
+    "code": "563387",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563363",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Khandyachiwadi(varugad)\n",
+    "name_mr": "",
+    "code": "563363",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563386",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Rajavadi",
+    "name_mr": "",
+    "code": "563386",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563364",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Ugalyachiwadi (varugad)",
+    "name_mr": "",
+    "code": "563364",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563370",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Parkhandi",
+    "name_mr": "",
+    "code": "563370",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563400",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mohi",
+    "name_mr": "",
+    "code": "563400",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563366",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kulakjai",
+    "name_mr": "",
+    "code": "563366",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563369",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shindi kh",
+    "name_mr": "",
+    "code": "563369",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563367",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Khokade",
+    "name_mr": "",
+    "code": "563367",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563371",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Takewadi (Andhali)",
+    "name_mr": "",
+    "code": "563371",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563365",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Gadewadi",
+    "name_mr": "",
+    "code": "563365",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563385",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Danavalewadi",
+    "name_mr": "",
+    "code": "563385",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563398",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dangirewadi",
+    "name_mr": "",
+    "code": "563398",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563373",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bhandavali",
+    "name_mr": "",
+    "code": "563373",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563392",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Wawarhire",
+    "name_mr": "",
+    "code": "563392",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563399",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dangirewadi",
+    "name_mr": "",
+    "code": "563399",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563368",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bothe",
+    "name_mr": "",
+    "code": "563368",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563390",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pangari",
+    "name_mr": "",
+    "code": "563390",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563401",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Khutbav",
+    "name_mr": "",
+    "code": "563401",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563376",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Andhali",
+    "name_mr": "",
+    "code": "563376",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563372",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Malavadi",
+    "name_mr": "",
+    "code": "563372",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563394",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bidal",
+    "name_mr": "",
+    "code": "563394",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563391",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Virobanagar",
+    "name_mr": "",
+    "code": "563391",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563378",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bodake",
+    "name_mr": "",
+    "code": "563378",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563423",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Sokasan",
+    "name_mr": "",
+    "code": "563423",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563402",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mardi",
+    "name_mr": "",
+    "code": "563402",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563405",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Injabav",
+    "name_mr": "",
+    "code": "563405",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563393",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Vadgaon",
+    "name_mr": "",
+    "code": "563393",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563374",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shiravali",
+    "name_mr": "",
+    "code": "563374",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563403",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bhalavadi",
+    "name_mr": "",
+    "code": "563403",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563406",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Sambhukhed",
+    "name_mr": "",
+    "code": "563406",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563375",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Satrewadi (malavadi)",
+    "name_mr": "",
+    "code": "563375",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563377",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kasarwadi (Andhali)",
+    "name_mr": "",
+    "code": "563377",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563407",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Paryanti",
+    "name_mr": "",
+    "code": "563407",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563422",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shevari",
+    "name_mr": "",
+    "code": "563422",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-276417",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dahivadi (NP)",
+    "name_mr": "",
+    "code": "276417",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563424",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Ranand",
+    "name_mr": "",
+    "code": "563424",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563408",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Hawaldarwadi (paryanti)",
+    "name_mr": "",
+    "code": "563408",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563379",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shindi Bk.",
+    "name_mr": "",
+    "code": "563379",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563413",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kolewadi",
+    "name_mr": "",
+    "code": "563413",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563449",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Karkhel",
+    "name_mr": "",
+    "code": "563449",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563416",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mahimangad",
+    "name_mr": "",
+    "code": "563416",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563425",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Jashi",
+    "name_mr": "",
+    "code": "563425",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563404",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Ranjani",
+    "name_mr": "",
+    "code": "563404",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563426",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Palashi",
+    "name_mr": "",
+    "code": "563426",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563411",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Warkute mhaswad",
+    "name_mr": "",
+    "code": "563411",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563410",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "563410",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563414",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pandharwadi (mahimangad)",
+    "name_mr": "",
+    "code": "563414",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563421",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Gondavale Bk.",
+    "name_mr": "",
+    "code": "563421",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563428",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Gondavale kh.",
+    "name_mr": "",
+    "code": "563428",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563419",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pingali Bk",
+    "name_mr": "",
+    "code": "563419",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563417",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Ukirde",
+    "name_mr": "",
+    "code": "563417",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563409",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Bhatki",
+    "name_mr": "",
+    "code": "563409",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-251589",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mhaswad (M Cl)",
+    "name_mr": "",
+    "code": "251589",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563418",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Swarupkhanwadi (mahimangad)",
+    "name_mr": "",
+    "code": "563418",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563450",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dhuldev",
+    "name_mr": "",
+    "code": "563450",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563415",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Divadi (mahimangad)",
+    "name_mr": "",
+    "code": "563415",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563427",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mankarnawadi",
+    "name_mr": "",
+    "code": "563427",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563420",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pingali Kh.",
+    "name_mr": "",
+    "code": "563420",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563412",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Waki",
+    "name_mr": "",
+    "code": "563412",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563433",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Lodhavade",
+    "name_mr": "",
+    "code": "563433",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563434",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Pimpari",
+    "name_mr": "",
+    "code": "563434",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563451",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Hingani",
+    "name_mr": "",
+    "code": "563451",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563429",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kiraksal",
+    "name_mr": "",
+    "code": "563429",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563436",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Divad",
+    "name_mr": "",
+    "code": "563436",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563435",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Dhamani",
+    "name_mr": "",
+    "code": "563435",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563447",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Virali",
+    "name_mr": "",
+    "code": "563447",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563460",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Mahabaleshwar wadi",
+    "name_mr": "",
+    "code": "563460",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563461",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Kalchondi",
+    "name_mr": "",
+    "code": "563461",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563462",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Shenwadi",
+    "name_mr": "",
+    "code": "563462",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563448",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Chillarwadi",
+    "name_mr": "",
+    "code": "563448",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563388",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Yelegaon",
+    "name_mr": "",
+    "code": "563388",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  },
+  {
+    "village_id": "v-563389",
+    "district_id": "s-t-ra",
+    "taluka_id": "man",
+    "name_en": "Jadhavwadi",
+    "name_mr": "",
+    "code": "563389",
+    "boundary_file": "/data/boundaries/villages/s-t-ra/man.geojson"
+  }
+]

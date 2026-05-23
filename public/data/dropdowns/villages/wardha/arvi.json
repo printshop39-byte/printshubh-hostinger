@@ -1,0 +1,2144 @@
+[
+  {
+    "village_id": "v-533669",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Theka Sarangpuri",
+    "name_mr": "",
+    "code": "533669",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533674",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hiwara",
+    "name_mr": "",
+    "code": "533674",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533684",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ashta",
+    "name_mr": "",
+    "code": "533684",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533678",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jamkhuta",
+    "name_mr": "",
+    "code": "533678",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533725",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nandpur",
+    "name_mr": "",
+    "code": "533725",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533721",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Eklara",
+    "name_mr": "",
+    "code": "533721",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533676",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Thar",
+    "name_mr": "",
+    "code": "533676",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533703",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "533703",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533681",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Chinchatana",
+    "name_mr": "",
+    "code": "533681",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533722",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ladegaon",
+    "name_mr": "",
+    "code": "533722",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533686",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Chandani",
+    "name_mr": "",
+    "code": "533686",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533685",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Matoda",
+    "name_mr": "",
+    "code": "533685",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533687",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Benoda",
+    "name_mr": "",
+    "code": "533687",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533679",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Titona",
+    "name_mr": "",
+    "code": "533679",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "chicholi-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "CHICHOLI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533709",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Panjara",
+    "name_mr": "",
+    "code": "533709",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533712",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ismailpur",
+    "name_mr": "",
+    "code": "533712",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533780",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Vitpur",
+    "name_mr": "",
+    "code": "533780",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533733",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wagda",
+    "name_mr": "",
+    "code": "533733",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533775",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pimpalkhuta",
+    "name_mr": "",
+    "code": "533775",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533763",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Navabpur",
+    "name_mr": "",
+    "code": "533763",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533713",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bajarwada",
+    "name_mr": "",
+    "code": "533713",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "gumgaon-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "GUMGAON RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533734",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Agapur",
+    "name_mr": "",
+    "code": "533734",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533714",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hardoli",
+    "name_mr": "",
+    "code": "533714",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533778",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mahakali",
+    "name_mr": "",
+    "code": "533778",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533740",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Manulapur",
+    "name_mr": "",
+    "code": "533740",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533746",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wathoda",
+    "name_mr": "",
+    "code": "533746",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533739",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jamalpur",
+    "name_mr": "",
+    "code": "533739",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533653",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kharashi",
+    "name_mr": "",
+    "code": "533653",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533654",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jamner",
+    "name_mr": "",
+    "code": "533654",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533655",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bodala",
+    "name_mr": "",
+    "code": "533655",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533664",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khanwadi",
+    "name_mr": "",
+    "code": "533664",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533657",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jalgaon",
+    "name_mr": "",
+    "code": "533657",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533656",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wardha",
+    "name_mr": "",
+    "code": "533656",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533658",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Partoda",
+    "name_mr": "",
+    "code": "533658",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533663",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Maneri",
+    "name_mr": "",
+    "code": "533663",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533665",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Yerzad",
+    "name_mr": "",
+    "code": "533665",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533673",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Harashi",
+    "name_mr": "",
+    "code": "533673",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533660",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Devhada",
+    "name_mr": "",
+    "code": "533660",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533666",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mandla",
+    "name_mr": "",
+    "code": "533666",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533677",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hivaratanda",
+    "name_mr": "",
+    "code": "533677",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533661",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Tokiwada",
+    "name_mr": "",
+    "code": "533661",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533659",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Gangapur",
+    "name_mr": "",
+    "code": "533659",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533662",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Goiwada",
+    "name_mr": "",
+    "code": "533662",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533719",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Shirpur",
+    "name_mr": "",
+    "code": "533719",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533672",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rajani",
+    "name_mr": "",
+    "code": "533672",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533671",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pachod",
+    "name_mr": "",
+    "code": "533671",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533667",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "533667",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533718",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Takarkheda",
+    "name_mr": "",
+    "code": "533718",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533720",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khadaki",
+    "name_mr": "",
+    "code": "533720",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533670",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Chincholi",
+    "name_mr": "",
+    "code": "533670",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533668",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sarangpuri",
+    "name_mr": "",
+    "code": "533668",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533682",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ahmadnagar",
+    "name_mr": "",
+    "code": "533682",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533702",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bedhona",
+    "name_mr": "",
+    "code": "533702",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533704",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jiwapur",
+    "name_mr": "",
+    "code": "533704",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533690",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "533690",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-251332",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Arvi (M Cl)",
+    "name_mr": "",
+    "code": "251332",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533688",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Singona",
+    "name_mr": "",
+    "code": "533688",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533723",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rahimabad",
+    "name_mr": "",
+    "code": "533723",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533699",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Savlapur",
+    "name_mr": "",
+    "code": "533699",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533781",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Saheli",
+    "name_mr": "",
+    "code": "533781",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533689",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Daulatpur",
+    "name_mr": "",
+    "code": "533689",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533701",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Lahadevi",
+    "name_mr": "",
+    "code": "533701",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533724",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Karmabad",
+    "name_mr": "",
+    "code": "533724",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533700",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ladnapur",
+    "name_mr": "",
+    "code": "533700",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533726",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dhanodi Kh.",
+    "name_mr": "",
+    "code": "533726",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533707",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nagazari",
+    "name_mr": "",
+    "code": "533707",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533710",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Shahabajpur",
+    "name_mr": "",
+    "code": "533710",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533732",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ahmadabad",
+    "name_mr": "",
+    "code": "533732",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533729",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Deurwada",
+    "name_mr": "",
+    "code": "533729",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533692",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "533692",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533727",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rudrapur",
+    "name_mr": "",
+    "code": "533727",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533728",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Saheb-Daulatpur",
+    "name_mr": "",
+    "code": "533728",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533705",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "533705",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533711",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mirapur",
+    "name_mr": "",
+    "code": "533711",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "danapur-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "DANAPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533731",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Shahamahamadpur",
+    "name_mr": "",
+    "code": "533731",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533694",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ajdapur",
+    "name_mr": "",
+    "code": "533694",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533708",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ambazari",
+    "name_mr": "",
+    "code": "533708",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533706",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Tuljapur",
+    "name_mr": "",
+    "code": "533706",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533779",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wanarkund",
+    "name_mr": "",
+    "code": "533779",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533742",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khubgaon",
+    "name_mr": "",
+    "code": "533742",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533736",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ithalapur",
+    "name_mr": "",
+    "code": "533736",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533785",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Malegaon Theka",
+    "name_mr": "",
+    "code": "533785",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533715",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jamthi",
+    "name_mr": "",
+    "code": "533715",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533717",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Theka Ambazari",
+    "name_mr": "",
+    "code": "533717",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533743",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Chondi Bahadarpur",
+    "name_mr": "",
+    "code": "533743",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533782",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khapri",
+    "name_mr": "",
+    "code": "533782",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "khapri-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "KHAPRI RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533774",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Gumgaon",
+    "name_mr": "",
+    "code": "533774",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533777",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kachnur",
+    "name_mr": "",
+    "code": "533777",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533748",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ahirwada",
+    "name_mr": "",
+    "code": "533748",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533784",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Malegaon Kali",
+    "name_mr": "",
+    "code": "533784",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533744",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pachegaon",
+    "name_mr": "",
+    "code": "533744",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533783",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Brahmanwada",
+    "name_mr": "",
+    "code": "533783",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533738",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sarkaspur",
+    "name_mr": "",
+    "code": "533738",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533747",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ambikapur",
+    "name_mr": "",
+    "code": "533747",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533786",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dahegaon( Gondi)",
+    "name_mr": "",
+    "code": "533786",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533745",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hashimpur",
+    "name_mr": "",
+    "code": "533745",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533790",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Taroda",
+    "name_mr": "",
+    "code": "533790",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533776",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Chandani",
+    "name_mr": "",
+    "code": "533776",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533755",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Revti",
+    "name_mr": "",
+    "code": "533755",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533789",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bothali Heti",
+    "name_mr": "",
+    "code": "533789",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533749",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wallipur",
+    "name_mr": "",
+    "code": "533749",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533791",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khapari",
+    "name_mr": "",
+    "code": "533791",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533767",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hariswada",
+    "name_mr": "",
+    "code": "533767",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533759",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "533759",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533757",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Gavhankhedi",
+    "name_mr": "",
+    "code": "533757",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533756",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kawadi",
+    "name_mr": "",
+    "code": "533756",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533753",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Roshanpur",
+    "name_mr": "",
+    "code": "533753",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533764",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nimboli",
+    "name_mr": "",
+    "code": "533764",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533798",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Madana",
+    "name_mr": "",
+    "code": "533798",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533752",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mirzapur",
+    "name_mr": "",
+    "code": "533752",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533750",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kashimpur",
+    "name_mr": "",
+    "code": "533750",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533800",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sawad",
+    "name_mr": "",
+    "code": "533800",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533788",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nanhi",
+    "name_mr": "",
+    "code": "533788",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533751",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Allipur",
+    "name_mr": "",
+    "code": "533751",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533730",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nababpur",
+    "name_mr": "",
+    "code": "533730",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533770",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pipari",
+    "name_mr": "",
+    "code": "533770",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533817",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Panjara Bothali",
+    "name_mr": "",
+    "code": "533817",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533794",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sukli",
+    "name_mr": "",
+    "code": "533794",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533765",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wadhona",
+    "name_mr": "",
+    "code": "533765",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533801",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Balaimajara",
+    "name_mr": "",
+    "code": "533801",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533802",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kasarkheda",
+    "name_mr": "",
+    "code": "533802",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533804",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Panwadi",
+    "name_mr": "",
+    "code": "533804",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533803",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Patan",
+    "name_mr": "",
+    "code": "533803",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533766",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mahamadpur",
+    "name_mr": "",
+    "code": "533766",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533808",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bothali",
+    "name_mr": "",
+    "code": "533808",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533771",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mubarakpur",
+    "name_mr": "",
+    "code": "533771",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533772",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bhadod",
+    "name_mr": "",
+    "code": "533772",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533805",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bhadod",
+    "name_mr": "",
+    "code": "533805",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533807",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "533807",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533818",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kakaddara",
+    "name_mr": "",
+    "code": "533818",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533760",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Murtijapur",
+    "name_mr": "",
+    "code": "533760",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533768",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hatla",
+    "name_mr": "",
+    "code": "533768",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533787",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kharangana",
+    "name_mr": "",
+    "code": "533787",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533795",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Talegaon",
+    "name_mr": "",
+    "code": "533795",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533761",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Neri",
+    "name_mr": "",
+    "code": "533761",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533769",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Borgaon",
+    "name_mr": "",
+    "code": "533769",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533792",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kinhala",
+    "name_mr": "",
+    "code": "533792",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533762",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mahimapur",
+    "name_mr": "",
+    "code": "533762",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533758",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pargothan",
+    "name_mr": "",
+    "code": "533758",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533796",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Morangana",
+    "name_mr": "",
+    "code": "533796",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533773",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Antardoh",
+    "name_mr": "",
+    "code": "533773",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533799",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Borkhedi",
+    "name_mr": "",
+    "code": "533799",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533797",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Theka Sawad",
+    "name_mr": "",
+    "code": "533797",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533793",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "533793",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533816",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sawangi",
+    "name_mr": "",
+    "code": "533816",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533825",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dhanodi",
+    "name_mr": "",
+    "code": "533825",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533821",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bodad",
+    "name_mr": "",
+    "code": "533821",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533824",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bahadarpur",
+    "name_mr": "",
+    "code": "533824",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533823",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Babapur",
+    "name_mr": "",
+    "code": "533823",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533819",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Gaurkheda",
+    "name_mr": "",
+    "code": "533819",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533806",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ratnapur",
+    "name_mr": "",
+    "code": "533806",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533820",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Chor Amba",
+    "name_mr": "",
+    "code": "533820",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533810",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sukli",
+    "name_mr": "",
+    "code": "533810",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533822",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hivara",
+    "name_mr": "",
+    "code": "533822",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533809",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Natala",
+    "name_mr": "",
+    "code": "533809",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533813",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ajangaon",
+    "name_mr": "",
+    "code": "533813",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "ratnapur-reserved-forest",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "RATNAPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533833",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Saldara",
+    "name_mr": "",
+    "code": "533833",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533835",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rohana",
+    "name_mr": "",
+    "code": "533835",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533812",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "533812",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533811",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dudhbardi",
+    "name_mr": "",
+    "code": "533811",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533830",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Laxmipur",
+    "name_mr": "",
+    "code": "533830",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533832",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Malatpur",
+    "name_mr": "",
+    "code": "533832",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533829",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nagapur",
+    "name_mr": "",
+    "code": "533829",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533831",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sirpur",
+    "name_mr": "",
+    "code": "533831",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533826",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wadgaon",
+    "name_mr": "",
+    "code": "533826",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533827",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dighi",
+    "name_mr": "",
+    "code": "533827",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533828",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Saikheda",
+    "name_mr": "",
+    "code": "533828",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533834",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ambapur",
+    "name_mr": "",
+    "code": "533834",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533838",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wai",
+    "name_mr": "",
+    "code": "533838",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533814",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Tembhari",
+    "name_mr": "",
+    "code": "533814",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533815",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Umari",
+    "name_mr": "",
+    "code": "533815",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533839",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khairi",
+    "name_mr": "",
+    "code": "533839",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533849",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pachod",
+    "name_mr": "",
+    "code": "533849",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533840",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Hamdapur",
+    "name_mr": "",
+    "code": "533840",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533836",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dahyapur",
+    "name_mr": "",
+    "code": "533836",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533837",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dongargaon",
+    "name_mr": "",
+    "code": "533837",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533841",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Gazipur",
+    "name_mr": "",
+    "code": "533841",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533848",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Krishnapur",
+    "name_mr": "",
+    "code": "533848",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533842",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mudhapur",
+    "name_mr": "",
+    "code": "533842",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533844",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Marda",
+    "name_mr": "",
+    "code": "533844",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533847",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "533847",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533851",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rampur",
+    "name_mr": "",
+    "code": "533851",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533850",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Parsodi",
+    "name_mr": "",
+    "code": "533850",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533843",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dattapur",
+    "name_mr": "",
+    "code": "533843",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533846",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sukli",
+    "name_mr": "",
+    "code": "533846",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533852",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Virul",
+    "name_mr": "",
+    "code": "533852",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533845",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Daryapur",
+    "name_mr": "",
+    "code": "533845",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533853",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Salfal Heti",
+    "name_mr": "",
+    "code": "533853",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533858",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bori",
+    "name_mr": "",
+    "code": "533858",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533855",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nagazari",
+    "name_mr": "",
+    "code": "533855",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533856",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bid-Nagzari",
+    "name_mr": "",
+    "code": "533856",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533857",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mankapur",
+    "name_mr": "",
+    "code": "533857",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533854",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sawarkheda",
+    "name_mr": "",
+    "code": "533854",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533863",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pimpalgaon",
+    "name_mr": "",
+    "code": "533863",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533859",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Husenpur",
+    "name_mr": "",
+    "code": "533859",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533868",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Renkapur",
+    "name_mr": "",
+    "code": "533868",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533862",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nijampur",
+    "name_mr": "",
+    "code": "533862",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533860",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Husenpur",
+    "name_mr": "",
+    "code": "533860",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533861",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Takli",
+    "name_mr": "",
+    "code": "533861",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533871",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rasulabad",
+    "name_mr": "",
+    "code": "533871",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533870",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Barha Sonegaon",
+    "name_mr": "",
+    "code": "533870",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533866",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Shahapur",
+    "name_mr": "",
+    "code": "533866",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533867",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Umarda",
+    "name_mr": "",
+    "code": "533867",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533869",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kanchanpur",
+    "name_mr": "",
+    "code": "533869",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533865",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sorta",
+    "name_mr": "",
+    "code": "533865",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533864",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wadala",
+    "name_mr": "",
+    "code": "533864",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533872",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sirda",
+    "name_mr": "",
+    "code": "533872",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "danapur-reserved-forest-dup-157",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "DANAPUR RESERVED FOREST",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533741",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Haibatpur",
+    "name_mr": "",
+    "code": "533741",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533696",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Irgavhan",
+    "name_mr": "",
+    "code": "533696",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533693",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Isakpur",
+    "name_mr": "",
+    "code": "533693",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533683",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jamb",
+    "name_mr": "",
+    "code": "533683",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533680",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Adegaon",
+    "name_mr": "",
+    "code": "533680",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533754",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nandora",
+    "name_mr": "",
+    "code": "533754",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533735",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "533735",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533737",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Tona",
+    "name_mr": "",
+    "code": "533737",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944966",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dahegaon Tanda",
+    "name_mr": "",
+    "code": "944966",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533675",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Belhara",
+    "name_mr": "",
+    "code": "533675",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533716",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Dahegaon Mustafa",
+    "name_mr": "",
+    "code": "533716",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-533691",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Bhaipur",
+    "name_mr": "",
+    "code": "533691",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944975",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Vagada",
+    "name_mr": "",
+    "code": "944975",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944973",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Pipari",
+    "name_mr": "",
+    "code": "944973",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944976",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Wathoda RHV",
+    "name_mr": "",
+    "code": "944976",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944978",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Belhara Tanda",
+    "name_mr": "",
+    "code": "944978",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-917333",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Haibatpur RHV",
+    "name_mr": "",
+    "code": "917333",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944969",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Mirzapur RHV",
+    "name_mr": "",
+    "code": "944969",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-917332",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Jam RHV",
+    "name_mr": "",
+    "code": "917332",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944970",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Nandora RHV",
+    "name_mr": "",
+    "code": "944970",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944967",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ithalpur",
+    "name_mr": "",
+    "code": "944967",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944977",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Ahirwada",
+    "name_mr": "",
+    "code": "944977",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-944974",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Sarkaspur",
+    "name_mr": "",
+    "code": "944974",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  },
+  {
+    "village_id": "v-908939",
+    "district_id": "wardha",
+    "taluka_id": "arvi",
+    "name_en": "Kopra (N.V.)",
+    "name_mr": "",
+    "code": "908939",
+    "boundary_file": "/data/boundaries/villages/wardha/arvi.geojson"
+  }
+]

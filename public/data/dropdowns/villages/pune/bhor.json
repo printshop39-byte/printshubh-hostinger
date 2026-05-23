@@ -1,0 +1,1820 @@
+[
+  {
+    "village_id": "v-556792",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dhamunashi",
+    "name_mr": "",
+    "code": "556792",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556806",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karungan",
+    "name_mr": "",
+    "code": "556806",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556800",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nandagaon",
+    "name_mr": "",
+    "code": "556800",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556804",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Hirdoshi",
+    "name_mr": "",
+    "code": "556804",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556798",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vathar (Hirda Mawal)",
+    "name_mr": "",
+    "code": "556798",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556853",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhabavadi",
+    "name_mr": "",
+    "code": "556853",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556829",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Natambi",
+    "name_mr": "",
+    "code": "556829",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556830",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Chikhalavade",
+    "name_mr": "",
+    "code": "556830",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556807",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ashimpi",
+    "name_mr": "",
+    "code": "556807",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556857",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bajarwadi",
+    "name_mr": "",
+    "code": "556857",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556802",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Devghar",
+    "name_mr": "",
+    "code": "556802",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556801",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nigudaghar",
+    "name_mr": "",
+    "code": "556801",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556852",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Khanapur",
+    "name_mr": "",
+    "code": "556852",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556799",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Apati",
+    "name_mr": "",
+    "code": "556799",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556832",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karanje",
+    "name_mr": "",
+    "code": "556832",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556803",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Venupuri",
+    "name_mr": "",
+    "code": "556803",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556805",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Varavand",
+    "name_mr": "",
+    "code": "556805",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556854",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Hatnoshi",
+    "name_mr": "",
+    "code": "556854",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556809",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shirgaon",
+    "name_mr": "",
+    "code": "556809",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556815",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhambatmal",
+    "name_mr": "",
+    "code": "556815",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556834",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sangvi Tarf Bhor",
+    "name_mr": "",
+    "code": "556834",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556816",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Salav",
+    "name_mr": "",
+    "code": "556816",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556836",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Angasule",
+    "name_mr": "",
+    "code": "556836",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556839",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nazare",
+    "name_mr": "",
+    "code": "556839",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556811",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Durgadi",
+    "name_mr": "",
+    "code": "556811",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556817",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Rayari",
+    "name_mr": "",
+    "code": "556817",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556859",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Palsoshi",
+    "name_mr": "",
+    "code": "556859",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556823",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kudali Kh.",
+    "name_mr": "",
+    "code": "556823",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556824",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kudali Bk.",
+    "name_mr": "",
+    "code": "556824",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556822",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Gudhe",
+    "name_mr": "",
+    "code": "556822",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556861",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Balawadi",
+    "name_mr": "",
+    "code": "556861",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556821",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nivangan",
+    "name_mr": "",
+    "code": "556821",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556840",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karnawad",
+    "name_mr": "",
+    "code": "556840",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556820",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dhanivali",
+    "name_mr": "",
+    "code": "556820",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556862",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pale",
+    "name_mr": "",
+    "code": "556862",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556843",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mhakoshi",
+    "name_mr": "",
+    "code": "556843",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556844",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vadtumbi",
+    "name_mr": "",
+    "code": "556844",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556842",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vaveghar",
+    "name_mr": "",
+    "code": "556842",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556849",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ravadi",
+    "name_mr": "",
+    "code": "556849",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556865",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Varodi Bk.",
+    "name_mr": "",
+    "code": "556865",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556863",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Varodi Kh.",
+    "name_mr": "",
+    "code": "556863",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556846",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Korle",
+    "name_mr": "",
+    "code": "556846",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556864",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Varodi Daymukh",
+    "name_mr": "",
+    "code": "556864",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556847",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Titeghar",
+    "name_mr": "",
+    "code": "556847",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556794",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mhasar Bk.",
+    "name_mr": "",
+    "code": "556794",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556795",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mhasar Kh.",
+    "name_mr": "",
+    "code": "556795",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556825",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pombardi",
+    "name_mr": "",
+    "code": "556825",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556788",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhanusdara",
+    "name_mr": "",
+    "code": "556788",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556851",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Utroli",
+    "name_mr": "",
+    "code": "556851",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556850",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vadgaon Dal",
+    "name_mr": "",
+    "code": "556850",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556796",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karanjgaon",
+    "name_mr": "",
+    "code": "556796",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556789",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kund",
+    "name_mr": "",
+    "code": "556789",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556827",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shirvali Tarf Bhor",
+    "name_mr": "",
+    "code": "556827",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556826",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Venavadi",
+    "name_mr": "",
+    "code": "556826",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556726",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vatharhinge",
+    "name_mr": "",
+    "code": "556726",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556797",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pisavare",
+    "name_mr": "",
+    "code": "556797",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556791",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shilimb",
+    "name_mr": "",
+    "code": "556791",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556808",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Umbarde",
+    "name_mr": "",
+    "code": "556808",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556828",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ambeghar",
+    "name_mr": "",
+    "code": "556828",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556793",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kondhari",
+    "name_mr": "",
+    "code": "556793",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556701",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Hatave Kh.",
+    "name_mr": "",
+    "code": "556701",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556750",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karandi Kh",
+    "name_mr": "",
+    "code": "556750",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556740",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Khulshi",
+    "name_mr": "",
+    "code": "556740",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556748",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karandi Bk",
+    "name_mr": "",
+    "code": "556748",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "fort",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "FORT",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556747",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kambare Bk",
+    "name_mr": "",
+    "code": "556747",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556712",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Harishchandri",
+    "name_mr": "",
+    "code": "556712",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556746",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kambare Kh",
+    "name_mr": "",
+    "code": "556746",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556707",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Khadki",
+    "name_mr": "",
+    "code": "556707",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556745",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kurunji",
+    "name_mr": "",
+    "code": "556745",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556749",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vadhane",
+    "name_mr": "",
+    "code": "556749",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556705",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nidhan",
+    "name_mr": "",
+    "code": "556705",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556744",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Male",
+    "name_mr": "",
+    "code": "556744",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556708",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Umbare",
+    "name_mr": "",
+    "code": "556708",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556753",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Gorad Mhashivali",
+    "name_mr": "",
+    "code": "556753",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556752",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Tale Mhashivali",
+    "name_mr": "",
+    "code": "556752",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556714",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kapurhop",
+    "name_mr": "",
+    "code": "556714",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556706",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sangvi Kh.",
+    "name_mr": "",
+    "code": "556706",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556719",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Wagajwadi",
+    "name_mr": "",
+    "code": "556719",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556703",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhilarewadi",
+    "name_mr": "",
+    "code": "556703",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "submerged",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "SUBMERGED",
+    "name_mr": "",
+    "code": null,
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556673",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shindewadi",
+    "name_mr": "",
+    "code": "556673",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556672",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sasewadi",
+    "name_mr": "",
+    "code": "556672",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556674",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Velu",
+    "name_mr": "",
+    "code": "556674",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556675",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kasurdi (Khedebare)",
+    "name_mr": "",
+    "code": "556675",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556676",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ranje",
+    "name_mr": "",
+    "code": "556676",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556679",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shivare",
+    "name_mr": "",
+    "code": "556679",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556677",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kusagaon",
+    "name_mr": "",
+    "code": "556677",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556680",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Varve Kh.",
+    "name_mr": "",
+    "code": "556680",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556678",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Khopi",
+    "name_mr": "",
+    "code": "556678",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556681",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kambare",
+    "name_mr": "",
+    "code": "556681",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556684",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Parwadi",
+    "name_mr": "",
+    "code": "556684",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556683",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kanjale",
+    "name_mr": "",
+    "code": "556683",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556682",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Varve Bk.",
+    "name_mr": "",
+    "code": "556682",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556691",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karandi Khe Ba",
+    "name_mr": "",
+    "code": "556691",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556686",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kurungvadi",
+    "name_mr": "",
+    "code": "556686",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556688",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kelawade",
+    "name_mr": "",
+    "code": "556688",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556689",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Naygaon",
+    "name_mr": "",
+    "code": "556689",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556690",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Degaon",
+    "name_mr": "",
+    "code": "556690",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556687",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Salavade",
+    "name_mr": "",
+    "code": "556687",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556685",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sonavadi",
+    "name_mr": "",
+    "code": "556685",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556697",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Jambhali",
+    "name_mr": "",
+    "code": "556697",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556699",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sangvi Bk.",
+    "name_mr": "",
+    "code": "556699",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556698",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kolavadi",
+    "name_mr": "",
+    "code": "556698",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556695",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nasrapur",
+    "name_mr": "",
+    "code": "556695",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556694",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Malegaon",
+    "name_mr": "",
+    "code": "556694",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556696",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Virwadi",
+    "name_mr": "",
+    "code": "556696",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556693",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kamthadi",
+    "name_mr": "",
+    "code": "556693",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556713",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Divale",
+    "name_mr": "",
+    "code": "556713",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556692",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ketkavane (Nimme)",
+    "name_mr": "",
+    "code": "556692",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556704",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Didghar",
+    "name_mr": "",
+    "code": "556704",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556739",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Guhini",
+    "name_mr": "",
+    "code": "556739",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556718",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Morwadi",
+    "name_mr": "",
+    "code": "556718",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556741",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhutonde",
+    "name_mr": "",
+    "code": "556741",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556715",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nigade",
+    "name_mr": "",
+    "code": "556715",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556754",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Jogawadi",
+    "name_mr": "",
+    "code": "556754",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556716",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dhangawadi",
+    "name_mr": "",
+    "code": "556716",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556709",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mohari Bk.",
+    "name_mr": "",
+    "code": "556709",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556751",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Vakambe",
+    "name_mr": "",
+    "code": "556751",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556742",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dere",
+    "name_mr": "",
+    "code": "556742",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556722",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhongvali",
+    "name_mr": "",
+    "code": "556722",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556770",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Rajaghar",
+    "name_mr": "",
+    "code": "556770",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556755",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Majgaon",
+    "name_mr": "",
+    "code": "556755",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556769",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Velvand",
+    "name_mr": "",
+    "code": "556769",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556759",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Chandavane",
+    "name_mr": "",
+    "code": "556759",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556711",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mohari Kh.",
+    "name_mr": "",
+    "code": "556711",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556756",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Lavheri",
+    "name_mr": "",
+    "code": "556756",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556702",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Hatave Bk.",
+    "name_mr": "",
+    "code": "556702",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556732",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Telavadi",
+    "name_mr": "",
+    "code": "556732",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556757",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Harnas",
+    "name_mr": "",
+    "code": "556757",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556758",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kumbale",
+    "name_mr": "",
+    "code": "556758",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556717",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kikavi",
+    "name_mr": "",
+    "code": "556717",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556738",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Brahmanghar",
+    "name_mr": "",
+    "code": "556738",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556771",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pasure",
+    "name_mr": "",
+    "code": "556771",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556743",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhandravali",
+    "name_mr": "",
+    "code": "556743",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556710",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kasurdi (Gunjan Mawal)",
+    "name_mr": "",
+    "code": "556710",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556721",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Savardare",
+    "name_mr": "",
+    "code": "556721",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556737",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Narhe",
+    "name_mr": "",
+    "code": "556737",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556767",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Jayatpad",
+    "name_mr": "",
+    "code": "556767",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556764",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nanavale",
+    "name_mr": "",
+    "code": "556764",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556720",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sarole",
+    "name_mr": "",
+    "code": "556720",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556773",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Karnvadi",
+    "name_mr": "",
+    "code": "556773",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556736",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sangamner",
+    "name_mr": "",
+    "code": "556736",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556760",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bope",
+    "name_mr": "",
+    "code": "556760",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556734",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhairavnathnagar",
+    "name_mr": "",
+    "code": "556734",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556733",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Alande",
+    "name_mr": "",
+    "code": "556733",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556768",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nandghur",
+    "name_mr": "",
+    "code": "556768",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556774",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mhalavadi",
+    "name_mr": "",
+    "code": "556774",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556766",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pangari",
+    "name_mr": "",
+    "code": "556766",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556761",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sangvi (Velavand Khore)",
+    "name_mr": "",
+    "code": "556761",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556763",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kondgaon",
+    "name_mr": "",
+    "code": "556763",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556775",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bare Bk.",
+    "name_mr": "",
+    "code": "556775",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556723",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Panjalwadi",
+    "name_mr": "",
+    "code": "556723",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556727",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nhavi",
+    "name_mr": "",
+    "code": "556727",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556776",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bare Kh.",
+    "name_mr": "",
+    "code": "556776",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556730",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pande",
+    "name_mr": "",
+    "code": "556730",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556783",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shind",
+    "name_mr": "",
+    "code": "556783",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556782",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Gavadi",
+    "name_mr": "",
+    "code": "556782",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556728",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Rajapur",
+    "name_mr": "",
+    "code": "556728",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556735",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ingavali",
+    "name_mr": "",
+    "code": "556735",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556765",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dehen",
+    "name_mr": "",
+    "code": "556765",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556729",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhambavade",
+    "name_mr": "",
+    "code": "556729",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556777",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Basarapur",
+    "name_mr": "",
+    "code": "556777",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556731",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kenjal",
+    "name_mr": "",
+    "code": "556731",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556784",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nand",
+    "name_mr": "",
+    "code": "556784",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556786",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Brahmanghar",
+    "name_mr": "",
+    "code": "556786",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556778",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Sangvi (Hirdas Mawal)",
+    "name_mr": "",
+    "code": "556778",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556787",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mahude Kh.",
+    "name_mr": "",
+    "code": "556787",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556724",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Taprewadi",
+    "name_mr": "",
+    "code": "556724",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556781",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kiwat",
+    "name_mr": "",
+    "code": "556781",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556780",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bholavade",
+    "name_mr": "",
+    "code": "556780",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556779",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Yevali",
+    "name_mr": "",
+    "code": "556779",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556762",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Salungan",
+    "name_mr": "",
+    "code": "556762",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556785",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mahude Bk.",
+    "name_mr": "",
+    "code": "556785",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556790",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Rajivadi",
+    "name_mr": "",
+    "code": "556790",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556725",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Gunand",
+    "name_mr": "",
+    "code": "556725",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-251535",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhor (M Cl)",
+    "name_mr": "",
+    "code": "251535",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556835",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Bhavekhal",
+    "name_mr": "",
+    "code": "556835",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556855",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nilakanth",
+    "name_mr": "",
+    "code": "556855",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556813",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Mazari",
+    "name_mr": "",
+    "code": "556813",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556812",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shirvali (Hirdas Maval)",
+    "name_mr": "",
+    "code": "556812",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556819",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pavhar Kh.",
+    "name_mr": "",
+    "code": "556819",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556818",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dapakeghar",
+    "name_mr": "",
+    "code": "556818",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556810",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Abhepuri",
+    "name_mr": "",
+    "code": "556810",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556833",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Panvhal",
+    "name_mr": "",
+    "code": "556833",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556856",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Gokavadi",
+    "name_mr": "",
+    "code": "556856",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556838",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ambavade",
+    "name_mr": "",
+    "code": "556838",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556837",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kari",
+    "name_mr": "",
+    "code": "556837",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556814",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Pavhar Bk.",
+    "name_mr": "",
+    "code": "556814",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556858",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dhavadi",
+    "name_mr": "",
+    "code": "556858",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556860",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Nere",
+    "name_mr": "",
+    "code": "556860",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556845",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Shivnagari",
+    "name_mr": "",
+    "code": "556845",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556841",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kudpanewadi",
+    "name_mr": "",
+    "code": "556841",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556772",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Taljainagar",
+    "name_mr": "",
+    "code": "556772",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556831",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Chikhalavade Kh",
+    "name_mr": "",
+    "code": "556831",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556866",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Ambade",
+    "name_mr": "",
+    "code": "556866",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-652098",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Kolewadi",
+    "name_mr": "",
+    "code": "652098",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-652097",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Dhondewadi",
+    "name_mr": "",
+    "code": "652097",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556848",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Chikhalgaon",
+    "name_mr": "",
+    "code": "556848",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-652096",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Adachiwadi",
+    "name_mr": "",
+    "code": "652096",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-556700",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Tambhad",
+    "name_mr": "",
+    "code": "556700",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  },
+  {
+    "village_id": "v-943016",
+    "district_id": "pune",
+    "taluka_id": "bhor",
+    "name_en": "Madgudewadi",
+    "name_mr": "",
+    "code": "943016",
+    "boundary_file": "/data/boundaries/villages/pune/bhor.geojson"
+  }
+]
