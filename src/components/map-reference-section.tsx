@@ -31,6 +31,13 @@ import {
   TALUKA_MR_MAP,
   VILLAGE_MR_MAP,
 } from "@/lib/maharashtra-name-map";
+import {
+  ensureVillageNames,
+  getTalukaCode,
+  getTalukaDisplayName,
+  getVillageDisplayName,
+  villageNamesReady,
+} from "@/lib/maharashtra-local-names";
 
 /* ── Types ─────────────────────────────────────────────────────────────────── */
 
@@ -1455,12 +1462,52 @@ export function MapReferenceSection() {
 
   const [baseLayerId, setBaseLayerId] = useState<BaseLayerId>("osm");
 
+  /* Bumps once the MAHA village-names JSON has finished loading. Listed in
+   * dropdown render's useMemo deps so option labels re-render with Marathi
+   * names the moment the data arrives. The JSON itself is cached in module
+   * scope inside maharashtra-local-names — this state only signals "ready". */
+  const [villageNamesTick, setVillageNamesTick] = useState(
+    villageNamesReady() ? 1 : 0,
+  );
+
   /* Mobile-only anchors. Used by the Form↔Map pill toggle AND by the
    * auto-scroll-to-map effect that fires after a village is selected.
    * Desktop ignores these refs — scroll only triggers below Tailwind's
    * lg breakpoint (1024 px). */
   const mobileMapAnchorRef = useRef<HTMLDivElement | null>(null);
   const mobileFormAnchorRef = useRef<HTMLDivElement | null>(null);
+
+  /* English district key for MAHA_TALUKAS lookup. We pass DistrictRow.name_en
+   * (uppercase) when available, otherwise the LGD-based fallback. The MAHA
+   * helpers normalise to uppercase A-Z before keyed lookup. */
+  const districtKeyEn = useMemo(() => {
+    const row = districts.find((d) => d.district_id === form.district_id);
+    if (!row) return "";
+    return row.name_en?.trim() || DISTRICT_ID_FALLBACK_EN[row.district_id] || "";
+  }, [districts, form.district_id]);
+
+  /* Taluka numeric code (4292 = Ajra, Kolhapur). Needed to look up villages
+   * in the MAHA dataset. Recomputed whenever the selected taluka changes. */
+  const talukaCodeMaha = useMemo(() => {
+    if (!districtKeyEn || !form.taluka_id) return null;
+    const row = talukas.find((t) => t.taluka_id === form.taluka_id);
+    if (!row?.name_en) return null;
+    return getTalukaCode(districtKeyEn, row.name_en);
+  }, [districtKeyEn, talukas, form.taluka_id]);
+
+  /* Trigger lazy fetch of MAHA village-names JSON as soon as the user opens
+   * a taluka. The module caches the response in scope so subsequent dropdown
+   * mounts skip the fetch entirely. We bump a tick on completion so the
+   * option labels re-render with Marathi values. */
+  useEffect(() => {
+    if (!form.taluka_id) return;
+    if (villageNamesReady()) return;
+    let cancelled = false;
+    ensureVillageNames().then(() => {
+      if (!cancelled) setVillageNamesTick((t) => t + 1);
+    });
+    return () => { cancelled = true; };
+  }, [form.taluka_id]);
 
   /* ── Load districts ────────────────────────────────────────────────────── */
   useEffect(() => {
@@ -1485,14 +1532,25 @@ export function MapReferenceSection() {
       return;
     }
     const url = `/data/dropdowns/talukas/${encodeURIComponent(form.district_id)}.json`;
+    /* Recompute district key inline (effect closure captures previous render's
+     * districtKeyEn, which may still be empty on first selection). */
+    const distRow = districts.find((d) => d.district_id === form.district_id);
+    const distKey =
+      distRow?.name_en?.trim() ||
+      DISTRICT_ID_FALLBACK_EN[form.district_id] ||
+      "";
     fetch(url)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
       .then((rows: TalukaRow[]) => {
-        rows.sort((a, b) =>
-          displayWithMap(a, lang, TALUKA_MR_MAP).localeCompare(
-            displayWithMap(b, lang, TALUKA_MR_MAP),
-          ),
-        );
+        rows.sort((a, b) => {
+          const an = a.name_en
+            ? getTalukaDisplayName(distKey, a.name_en, lang)
+            : displayWithMap(a, lang, TALUKA_MR_MAP);
+          const bn = b.name_en
+            ? getTalukaDisplayName(distKey, b.name_en, lang)
+            : displayWithMap(b, lang, TALUKA_MR_MAP);
+          return an.localeCompare(bn);
+        });
         setTalukas(rows);
         console.debug("[MapReference] talukas loaded:", rows.length, "from", url);
       })
@@ -1500,7 +1558,7 @@ export function MapReferenceSection() {
         console.error("[MapReference] talukas fetch failed:", url, e);
         setTalukas([]);
       });
-  }, [form.district_id, lang]);
+  }, [form.district_id, lang, districts]);
 
   useEffect(() => {
     if (!form.district_id || !form.taluka_id) {
@@ -1508,14 +1566,29 @@ export function MapReferenceSection() {
       return;
     }
     const url = `/data/dropdowns/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.json`;
+    /* Resolve taluka code once for the sort — the lookup is cheap but we
+     * don't want to repeat it inside every compare call. */
+    const distRow = districts.find((d) => d.district_id === form.district_id);
+    const distKey =
+      distRow?.name_en?.trim() ||
+      DISTRICT_ID_FALLBACK_EN[form.district_id] ||
+      "";
+    const talRow = talukas.find((t) => t.taluka_id === form.taluka_id);
+    const tCode = talRow?.name_en
+      ? getTalukaCode(distKey, talRow.name_en)
+      : null;
     fetch(url)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
       .then((rows: VillageRow[]) => {
-        rows.sort((a, b) =>
-          displayWithMap(a, lang, VILLAGE_MR_MAP).localeCompare(
-            displayWithMap(b, lang, VILLAGE_MR_MAP),
-          ),
-        );
+        rows.sort((a, b) => {
+          const an = a.name_en
+            ? getVillageDisplayName(tCode, a.name_en, lang)
+            : displayWithMap(a, lang, VILLAGE_MR_MAP);
+          const bn = b.name_en
+            ? getVillageDisplayName(tCode, b.name_en, lang)
+            : displayWithMap(b, lang, VILLAGE_MR_MAP);
+          return an.localeCompare(bn);
+        });
         setVillages(rows);
         console.debug("[MapReference] villages loaded:", rows.length, "from", url);
       })
@@ -1523,7 +1596,7 @@ export function MapReferenceSection() {
         console.error("[MapReference] villages fetch failed:", url, e);
         setVillages([]);
       });
-  }, [form.district_id, form.taluka_id, lang]);
+  }, [form.district_id, form.taluka_id, lang, districts, talukas]);
 
   useEffect(() => {
     if (!form.district_id || !form.taluka_id || !form.village_id) {
@@ -1596,7 +1669,10 @@ export function MapReferenceSection() {
     mobileMapAnchorRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
   }, [boundaryFeature]);
 
-  /* ── Dropdown handlers — store the *display* name into form.{district…} ── */
+  /* ── Dropdown handlers — store the *display* name into form.{district…}
+   * Taluka and village now go through the MAHA helpers; the legacy
+   * displayWithMap path is kept as a safety fallback if the row lacks
+   * name_en (shouldn't happen in practice). */
   const handleSelectDistrict = useCallback(
     (id: string) => {
       const row = districts.find((d) => d.district_id === id);
@@ -1620,50 +1696,79 @@ export function MapReferenceSection() {
     (id: string) => {
       const row = talukas.find((t) => t.taluka_id === id);
       console.debug("[MapReference] selected taluka:", id, row);
+      const display = row?.name_en
+        ? getTalukaDisplayName(districtKeyEn, row.name_en, lang)
+        : row
+          ? displayWithMap(row, lang, TALUKA_MR_MAP)
+          : "";
       setForm((prev) => ({
         ...prev,
         taluka_id: id,
-        taluka: row ? displayWithMap(row, lang, TALUKA_MR_MAP) : "",
+        taluka: display,
         village_id: "", village: "",
       }));
       setVillages([]);
       setBoundaryFeature(null);
       setBoundaryError(null);
     },
-    [talukas, lang],
+    [talukas, lang, districtKeyEn],
   );
 
   const handleSelectVillage = useCallback(
     (id: string) => {
       const row = villages.find((v) => v.village_id === id);
       console.debug("[MapReference] selected village:", id, row);
+      const display = row?.name_en
+        ? getVillageDisplayName(talukaCodeMaha, row.name_en, lang)
+        : row
+          ? displayWithMap(row, lang, VILLAGE_MR_MAP)
+          : "";
       setForm((prev) => ({
         ...prev,
         village_id: id,
-        village: row ? displayWithMap(row, lang, VILLAGE_MR_MAP) : "",
+        village: display,
       }));
     },
-    [villages, lang],
+    [villages, lang, talukaCodeMaha],
   );
 
   /* ── If user toggles language AFTER a selection, refresh the stored
    *    display names so the WhatsApp message and the on-screen "Selected
-   *    village" banner stay in sync. */
+   *    village" banner stay in sync. Also re-runs when the lazy MAHA
+   *    village-names JSON finishes loading (villageNamesTick) so Marathi
+   *    labels populate as soon as data lands. */
   useEffect(() => {
     setForm((prev) => {
       const distRow = districts.find((d) => d.district_id === prev.district_id);
       const talRow = talukas.find((t) => t.taluka_id === prev.taluka_id);
       const vilRow = villages.find((v) => v.village_id === prev.village_id);
+      const distKey =
+        distRow?.name_en?.trim() ||
+        DISTRICT_ID_FALLBACK_EN[prev.district_id] ||
+        "";
+      const tCode = talRow?.name_en
+        ? getTalukaCode(distKey, talRow.name_en)
+        : null;
       return {
         ...prev,
         district: distRow ? displayDistrictName(distRow, lang) : prev.district,
-        taluka:   talRow  ? displayWithMap(talRow, lang, TALUKA_MR_MAP) : prev.taluka,
-        village:  vilRow  ? displayWithMap(vilRow, lang, VILLAGE_MR_MAP) : prev.village,
+        taluka: talRow?.name_en
+          ? getTalukaDisplayName(distKey, talRow.name_en, lang)
+          : talRow
+            ? displayWithMap(talRow, lang, TALUKA_MR_MAP)
+            : prev.taluka,
+        village: vilRow?.name_en
+          ? getVillageDisplayName(tCode, vilRow.name_en, lang)
+          : vilRow
+            ? displayWithMap(vilRow, lang, VILLAGE_MR_MAP)
+            : prev.village,
       };
     });
-    // We want this to fire only on lang change — including the rest causes a loop.
+    // Intentionally narrow deps: lang change OR village-names data arrival
+    // triggers a refresh. Including districts/talukas/villages would cause a
+    // loop on every fetch.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [lang]);
+  }, [lang, villageNamesTick]);
 
   /* ── Derivations ───────────────────────────────────────────────────────── */
   const villageCentroid = useMemo(() => {
@@ -1723,8 +1828,34 @@ export function MapReferenceSection() {
 
   const selectedVillageDisplay = useMemo(() => {
     const vilRow = villages.find((v) => v.village_id === form.village_id);
-    return vilRow ? displayWithMap(vilRow, lang, VILLAGE_MR_MAP) : "";
-  }, [villages, form.village_id, lang]);
+    if (!vilRow) return "";
+    if (vilRow.name_en) {
+      return getVillageDisplayName(talukaCodeMaha, vilRow.name_en, lang);
+    }
+    return displayWithMap(vilRow, lang, VILLAGE_MR_MAP);
+    // villageNamesTick re-fires after lazy data arrives so the Marathi label
+    // shows up in the banner without needing a re-selection.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [villages, form.village_id, lang, talukaCodeMaha, villageNamesTick]);
+
+  /* Pre-computed village dropdown options. Listed as deps:
+   *   - villages   : the row set
+   *   - lang       : EN / MR switch
+   *   - talukaCodeMaha : drives MAHA village lookup
+   *   - villageNamesTick : bumps when the lazy JSON arrives, forcing labels
+   *                        to flip from English fallback → Marathi local.
+   * Using a memo (instead of rendering inline) keeps the lazy-data dep
+   * explicit and avoids the "unused var" lint that a comma-operator hack
+   * would trip. */
+  const villageOptions = useMemo(() => {
+    return villages.map((v) => ({
+      id: v.village_id,
+      label: v.name_en
+        ? getVillageDisplayName(talukaCodeMaha, v.name_en, lang)
+        : displayWithMap(v, lang, VILLAGE_MR_MAP),
+    }));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [villages, lang, talukaCodeMaha, villageNamesTick]);
 
   /* ── Render ────────────────────────────────────────────────────────────── */
   return (
@@ -1920,7 +2051,9 @@ export function MapReferenceSection() {
                       <option value="">— {tx.chooseTaluka} —</option>
                       {talukas.map((t) => (
                         <option key={t.taluka_id} value={t.taluka_id}>
-                          {displayWithMap(t, lang, TALUKA_MR_MAP)}
+                          {t.name_en
+                            ? getTalukaDisplayName(districtKeyEn, t.name_en, lang)
+                            : displayWithMap(t, lang, TALUKA_MR_MAP)}
                         </option>
                       ))}
                     </select>
@@ -1937,9 +2070,9 @@ export function MapReferenceSection() {
                       className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
                     >
                       <option value="">— {tx.chooseVillage} —</option>
-                      {villages.map((v) => (
-                        <option key={v.village_id} value={v.village_id}>
-                          {displayWithMap(v, lang, VILLAGE_MR_MAP)}
+                      {villageOptions.map((opt) => (
+                        <option key={opt.id} value={opt.id}>
+                          {opt.label}
                         </option>
                       ))}
                     </select>
