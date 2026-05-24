@@ -34,6 +34,20 @@ import {
 
 /* ── Types ─────────────────────────────────────────────────────────────────── */
 
+/**
+ * Service tab IDs — modeled on Maharashtra Digital Satbara navigation.
+ * Picking a tab changes which input fields are shown AND which lines the
+ * WhatsApp message includes.
+ */
+type ServiceTab =
+  | "7_12"
+  | "8a"
+  | "eferfar"
+  | "property_card"
+  | "property_card_ferfar"
+  | "mumbai_property_card"
+  | "swamitva_map";
+
 interface FormData {
   district: string;
   taluka: string;
@@ -41,9 +55,25 @@ interface FormData {
   district_id: string;
   taluka_id: string;
   village_id: string;
+  /* 7/12 + Swamitva Map fields */
   gutNumber: string;
   surveyNumber: string;
+  /* 8A field */
+  khataNumber: string;
+  /* eFerfar / Property Card Ferfar field */
+  ferfarNumber: string;
+  /* Property Card + Mumbai City Property Card */
   ctsNumber: string;
+  /* Property Card / Property Card Ferfar */
+  region: string;
+  office: string;
+  peth: string;
+  /* Mumbai City Property Card */
+  citySurveyOffice: string;
+  divisionWard: string;
+  /* Property Card + Mumbai City Property Card — "all" | "live" */
+  entryType: "all" | "live" | "";
+  /* legacy free-text service label (kept for back-compat in the WA msg fallback) */
   serviceType: string;
 }
 
@@ -460,6 +490,61 @@ const LAYER_VISIBILITY: Record<BaseLayerId, string[]> = {
 
 const ALL_BASE_LAYER_IDS = PRELOADED_LAYERS.map((l) => l.id);
 
+/* ── Service tabs ──────────────────────────────────────────────────────────── */
+
+const SERVICE_TAB_ORDER: ServiceTab[] = [
+  "7_12",
+  "8a",
+  "eferfar",
+  "property_card",
+  "property_card_ferfar",
+  "mumbai_property_card",
+  "swamitva_map",
+];
+
+const SERVICE_LABELS: Record<Lang, Record<ServiceTab, string>> = {
+  mr: {
+    "7_12": "7/12",
+    "8a": "8A",
+    eferfar: "फेरफार",
+    property_card: "प्रॉपर्टी कार्ड",
+    property_card_ferfar: "प्रॉपर्टी कार्ड फेरफार",
+    mumbai_property_card: "मुंबई प्रॉपर्टी कार्ड",
+    swamitva_map: "स्वामित्व नकाशा",
+  },
+  en: {
+    "7_12": "7/12",
+    "8a": "8A",
+    eferfar: "eFerfar",
+    property_card: "Property Card",
+    property_card_ferfar: "Property Card Ferfar",
+    mumbai_property_card: "Mumbai Property Card",
+    swamitva_map: "Swamitva Map",
+  },
+};
+
+/** Long-form service label for the WhatsApp message body. */
+const SERVICE_FULL_LABELS: Record<Lang, Record<ServiceTab, string>> = {
+  mr: {
+    "7_12": "7/12 उतारा",
+    "8a": "8A उतारा",
+    eferfar: "ई-फेरफार (Mutation)",
+    property_card: "मिळकत पत्रिका (Property Card)",
+    property_card_ferfar: "मिळकत पत्रिका फेरफार",
+    mumbai_property_card: "मुंबई शहर मिळकत पत्रिका",
+    swamitva_map: "स्वामित्व नकाशा",
+  },
+  en: {
+    "7_12": "7/12 Extract",
+    "8a": "8A Extract",
+    eferfar: "eFerfar (Mutation)",
+    property_card: "Property Card",
+    property_card_ferfar: "Property Card Mutation",
+    mumbai_property_card: "Property Card — Mumbai City",
+    swamitva_map: "Swamitva Map",
+  },
+};
+
 /* ── Translations ──────────────────────────────────────────────────────────── */
 
 const ui: Record<Lang, {
@@ -467,14 +552,25 @@ const ui: Record<Lang, {
   heading: string;
   subtext: string;
   formHeading: string;
+  tabsHelper: string;
   district: string;
   taluka: string;
   village: string;
+  region: string;
+  office: string;
+  peth: string;
+  citySurveyOffice: string;
+  divisionWard: string;
   gutNo: string;
   surveyNo: string;
   ctsNo: string;
-  serviceType: string;
-  serviceTypes: string[];
+  ctsNoSelectHint: string;
+  khataNo: string;
+  khataHolderHint: string;
+  ferfarNo: string;
+  entryTypeLabel: string;
+  entryAll: string;
+  entryLive: string;
   whatsappBtn: string;
   disclaimer: string;
   locateMe: string;
@@ -482,6 +578,11 @@ const ui: Record<Lang, {
   chooseDistrict: string;
   chooseTaluka: string;
   chooseVillage: string;
+  chooseRegion: string;
+  chooseOffice: string;
+  choosePeth: string;
+  chooseCitySurveyOffice: string;
+  chooseDivisionWard: string;
   boundaryLoading: string;
   boundaryError: string;
   boundarySelected: string;
@@ -505,24 +606,25 @@ const ui: Record<Lang, {
     heading: "जमीन / सर्वे नकाशा संदर्भ शोधा",
     subtext: "जिल्हा → तालुका → गाव निवडा. गावाची सीमा हायलाइट होईल. नंतर नकाशावर तुमची प्लॉट सीमा मार्क करा.",
     formHeading: "जमीन माहिती भरा",
+    tabsHelper: "कागदपत्र प्रकार निवडा. निवडीनुसार आवश्यक माहिती खाली भरा.",
     district: "जिल्हा",
     taluka: "तालुका",
     village: "गाव",
+    region: "विभाग",
+    office: "कार्यालय",
+    peth: "पेठ / गाव",
+    citySurveyOffice: "सिटी सर्व्हे कार्यालय",
+    divisionWard: "विभाग / वॉर्ड",
     gutNo: "गट नंबर (माहीत असल्यास)",
     surveyNo: "सर्वे नंबर (माहीत असल्यास)",
-    ctsNo: "CTS नंबर (माहीत असल्यास)",
-    serviceType: "सेवा प्रकार",
-    serviceTypes: [
-      "7/12 उतारा",
-      "8A उतारा",
-      "स्वामित्व चौकशी नोंद",
-      "ई-फेरफार",
-      "मिळकत पत्रिका",
-      "मिळकत पत्रिकेचे फेरफार",
-      "मुंबई शहर मिळकत पत्रिका",
-      "ई-अभिलेख",
-      "स्वामित्व नकाशे",
-    ],
+    ctsNo: "CTS नंबर",
+    ctsNoSelectHint: "CTS नंबर निवडा",
+    khataNo: "खाता नंबर",
+    khataHolderHint: "खाता नंबर / पहिले नाव / मधले नाव / आडनाव — यापैकी काहीही",
+    ferfarNo: "फेरफार नंबर / Mutation No.",
+    entryTypeLabel: "नोंद प्रकार",
+    entryAll: "सर्व नोंदी (All Entry)",
+    entryLive: "चालू नोंद (Live Entry)",
     whatsappBtn: "WhatsApp वर पाठवा",
     disclaimer:
       "ही सुविधा प्राथमिक नकाशा संदर्भासाठी आहे. अंतिम जमीन नोंदी अधिकृत पोर्टलवरून पडताळाव्यात.",
@@ -532,6 +634,11 @@ const ui: Record<Lang, {
     chooseDistrict: "जिल्हा निवडा",
     chooseTaluka: "तालुका निवडा",
     chooseVillage: "गाव निवडा",
+    chooseRegion: "विभाग निवडा",
+    chooseOffice: "कार्यालय निवडा",
+    choosePeth: "पेठ / गाव निवडा",
+    chooseCitySurveyOffice: "सिटी सर्व्हे कार्यालय निवडा",
+    chooseDivisionWard: "विभाग / वॉर्ड निवडा",
     boundaryLoading: "गावाची सीमा लोड होत आहे...",
     boundaryError: "गावाची सीमा लोड झाली नाही. कृपया पुन्हा प्रयत्न करा.",
     boundarySelected: "निवडलेले गाव",
@@ -562,24 +669,25 @@ const ui: Record<Lang, {
     heading: "Find Land / Survey Map Reference",
     subtext: "Pick District → Taluka → Village. The village boundary lights up. Then mark your plot boundary on the map.",
     formHeading: "Enter Land Details",
+    tabsHelper: "Select document type. Required fields will change based on your selection.",
     district: "District",
     taluka: "Taluka",
     village: "Village",
+    region: "Region",
+    office: "Office",
+    peth: "Peth / Village",
+    citySurveyOffice: "City Survey Office",
+    divisionWard: "Division / Ward",
     gutNo: "Gut Number (if known)",
     surveyNo: "Survey Number (if known)",
-    ctsNo: "CTS Number (if known)",
-    serviceType: "Service Type",
-    serviceTypes: [
-      "7/12 Extract",
-      "8A Extract",
-      "Svamitva Enquiry Register",
-      "eFerfar (Mutation)",
-      "Property Card",
-      "Property Card Mutation",
-      "Property Card Mumbai City",
-      "eRecords",
-      "Svamitva Maps",
-    ],
+    ctsNo: "CTS Number",
+    ctsNoSelectHint: "Select CTS No.",
+    khataNo: "Khata Number",
+    khataHolderHint: "Khata No. / First name / Middle name / Last name — any of these",
+    ferfarNo: "Ferfar Number / Mutation No.",
+    entryTypeLabel: "Entry type",
+    entryAll: "All Entry",
+    entryLive: "Live Entry",
     whatsappBtn: "Send via WhatsApp",
     disclaimer:
       "This tool is for preliminary map reference only. Final land records must be verified from official portals.",
@@ -589,6 +697,11 @@ const ui: Record<Lang, {
     chooseDistrict: "Choose district",
     chooseTaluka: "Choose taluka",
     chooseVillage: "Choose village",
+    chooseRegion: "Choose region",
+    chooseOffice: "Choose office",
+    choosePeth: "Choose peth / village",
+    chooseCitySurveyOffice: "Choose city survey office",
+    chooseDivisionWard: "Choose division / ward",
     boundaryLoading: "Loading village boundary...",
     boundaryError: "Could not load the village boundary. Please try again.",
     boundarySelected: "Selected village",
@@ -616,31 +729,143 @@ const ui: Record<Lang, {
   },
 };
 
+/* ── Service-specific field map ────────────────────────────────────────────────
+ *
+ * For each ServiceTab we declare:
+ *   - which location fields apply (always include district where applicable)
+ *   - which service-specific fields appear under the location selectors
+ *   - which field is the "primary" one (label is visually stronger)
+ *
+ * The WhatsApp builder below reads this same shape to know which lines to emit,
+ * so visible UI and outgoing message stay in lockstep — no risk of sending a
+ * CTS number when the user filled in a Khata number.
+ */
+interface ServiceFieldConfig {
+  // Location section
+  showRegion: boolean;          // Property Card / Property Card Ferfar
+  showDistrict: boolean;        // every service
+  showOffice: boolean;          // Property Card / Property Card Ferfar
+  showTaluka: boolean;          // 7/12 / 8A / eFerfar / Swamitva Map
+  showVillage: boolean;         // most services (but labelled "गाव / पेठ" for PC)
+  showPeth: boolean;            // Property Card / Property Card Ferfar (replaces village select label)
+  showCitySurveyOffice: boolean; // Mumbai Property Card
+  showDivisionWard: boolean;    // Mumbai Property Card
+
+  // Service-specific section
+  showGutNumber: boolean;
+  showSurveyNumber: boolean;
+  showCtsNumber: boolean;
+  showKhataNumber: boolean;
+  showFerfarNumber: boolean;
+  showEntryType: boolean;
+
+  primaryField: "gut" | "survey" | "cts" | "khata" | "ferfar" | null;
+}
+
+const SERVICE_FIELDS: Record<ServiceTab, ServiceFieldConfig> = {
+  "7_12": {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: true, showSurveyNumber: true, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: "gut",
+  },
+  "8a": {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
+    showKhataNumber: true, showFerfarNumber: false, showEntryType: false,
+    primaryField: "khata",
+  },
+  eferfar: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: true, showEntryType: false,
+    primaryField: "ferfar",
+  },
+  property_card: {
+    showRegion: true, showDistrict: true, showOffice: true,
+    showTaluka: false, showVillage: false, showPeth: true,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: true,
+    primaryField: "cts",
+  },
+  property_card_ferfar: {
+    showRegion: true, showDistrict: true, showOffice: true,
+    showTaluka: false, showVillage: false, showPeth: true,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: true, showEntryType: false,
+    primaryField: "ferfar",
+  },
+  mumbai_property_card: {
+    showRegion: false, showDistrict: false, showOffice: false,
+    showTaluka: false, showVillage: false, showPeth: false,
+    showCitySurveyOffice: true, showDivisionWard: true,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: true,
+    primaryField: "cts",
+  },
+  swamitva_map: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: true, showSurveyNumber: true, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+  },
+};
+
 /* ── WhatsApp message builder ──────────────────────────────────────────────── */
 
 function buildWhatsAppMsg(args: {
   lang: Lang;
+  service: ServiceTab;
   form: FormData;
   villageCentroid: { lat: number; lng: number } | null;
   plotCoords: LngLat[];
   plotCentroid: { lat: number; lng: number } | null;
   plotAreaSqm: number;
 }): string {
-  const { lang, form, villageCentroid, plotCoords, plotCentroid, plotAreaSqm } = args;
+  const { lang, service, form, villageCentroid, plotCoords, plotCentroid, plotAreaSqm } = args;
+  const cfg = SERVICE_FIELDS[service];
   const gmap = (lat: number, lng: number) =>
     `https://maps.google.com/?q=${lat.toFixed(6)},${lng.toFixed(6)}`;
 
+  const entryLabel = (lang === "mr"
+    ? { all: "सर्व नोंदी", live: "चालू नोंद" }
+    : { all: "All Entry",  live: "Live Entry" })[form.entryType || "all"] ?? "";
+
   if (lang === "mr") {
     const lines: string[] = [
-      "नमस्कार, मला जमीन / नकाशा सेवेसाठी मदत हवी आहे.",
-      form.district ? `जिल्हा: ${form.district}` : "",
-      form.taluka ? `तालुका: ${form.taluka}` : "",
-      form.village ? `गाव: ${form.village}` : "",
-      form.serviceType ? `सेवा: ${form.serviceType}` : "",
-      form.gutNumber ? `गट नंबर: ${form.gutNumber}` : "",
-      form.surveyNumber ? `सर्वे नंबर: ${form.surveyNumber}` : "",
-      form.ctsNumber ? `CTS नंबर: ${form.ctsNumber}` : "",
+      "नमस्कार PrintShubh,",
+      "मला खालील कागदपत्रासाठी मदत हवी आहे.",
+      "",
+      `सेवा: ${SERVICE_FULL_LABELS.mr[service]}`,
     ];
+    if (cfg.showRegion && form.region) lines.push(`विभाग: ${form.region}`);
+    if (cfg.showDistrict && form.district) lines.push(`जिल्हा: ${form.district}`);
+    if (cfg.showOffice && form.office) lines.push(`कार्यालय: ${form.office}`);
+    if (cfg.showTaluka && form.taluka) lines.push(`तालुका: ${form.taluka}`);
+    if (cfg.showVillage && form.village) lines.push(`गाव: ${form.village}`);
+    if (cfg.showPeth && form.peth) lines.push(`गाव / पेठ: ${form.peth}`);
+    if (cfg.showCitySurveyOffice && form.citySurveyOffice)
+      lines.push(`सिटी सर्व्हे कार्यालय: ${form.citySurveyOffice}`);
+    if (cfg.showDivisionWard && form.divisionWard)
+      lines.push(`विभाग / वॉर्ड: ${form.divisionWard}`);
+
+    if (cfg.showGutNumber && form.gutNumber) lines.push(`गट नंबर: ${form.gutNumber}`);
+    if (cfg.showSurveyNumber && form.surveyNumber) lines.push(`सर्वे नंबर: ${form.surveyNumber}`);
+    if (cfg.showCtsNumber && form.ctsNumber) lines.push(`CTS नंबर: ${form.ctsNumber}`);
+    if (cfg.showKhataNumber && form.khataNumber) lines.push(`खाता नंबर: ${form.khataNumber}`);
+    if (cfg.showFerfarNumber && form.ferfarNumber) lines.push(`फेरफार नंबर: ${form.ferfarNumber}`);
+    if (cfg.showEntryType && form.entryType) lines.push(`नोंद प्रकार: ${entryLabel}`);
+
     if (villageCentroid) {
       lines.push("");
       lines.push(`गाव मध्यबिंदू: ${villageCentroid.lat.toFixed(6)}, ${villageCentroid.lng.toFixed(6)}`);
@@ -658,19 +883,34 @@ function buildWhatsAppMsg(args: {
       });
     }
     lines.push("");
-    lines.push("कृपया पुढील माहिती द्या.");
-    return lines.filter((l) => l !== undefined).join("\n");
+    lines.push("कृपया पुढील प्रक्रिया सांगा.");
+    return lines.join("\n");
   }
+
   const lines: string[] = [
-    "Hello, I need help with a land / map service request.",
-    form.district ? `District: ${form.district}` : "",
-    form.taluka ? `Taluka: ${form.taluka}` : "",
-    form.village ? `Village: ${form.village}` : "",
-    form.serviceType ? `Service: ${form.serviceType}` : "",
-    form.gutNumber ? `Gut No.: ${form.gutNumber}` : "",
-    form.surveyNumber ? `Survey No.: ${form.surveyNumber}` : "",
-    form.ctsNumber ? `CTS No.: ${form.ctsNumber}` : "",
+    "Hello PrintShubh,",
+    "I need help with the following document.",
+    "",
+    `Service: ${SERVICE_FULL_LABELS.en[service]}`,
   ];
+  if (cfg.showRegion && form.region) lines.push(`Region: ${form.region}`);
+  if (cfg.showDistrict && form.district) lines.push(`District: ${form.district}`);
+  if (cfg.showOffice && form.office) lines.push(`Office: ${form.office}`);
+  if (cfg.showTaluka && form.taluka) lines.push(`Taluka: ${form.taluka}`);
+  if (cfg.showVillage && form.village) lines.push(`Village: ${form.village}`);
+  if (cfg.showPeth && form.peth) lines.push(`Peth / Village: ${form.peth}`);
+  if (cfg.showCitySurveyOffice && form.citySurveyOffice)
+    lines.push(`City Survey Office: ${form.citySurveyOffice}`);
+  if (cfg.showDivisionWard && form.divisionWard)
+    lines.push(`Division / Ward: ${form.divisionWard}`);
+
+  if (cfg.showGutNumber && form.gutNumber) lines.push(`Gut No.: ${form.gutNumber}`);
+  if (cfg.showSurveyNumber && form.surveyNumber) lines.push(`Survey No.: ${form.surveyNumber}`);
+  if (cfg.showCtsNumber && form.ctsNumber) lines.push(`CTS No.: ${form.ctsNumber}`);
+  if (cfg.showKhataNumber && form.khataNumber) lines.push(`Khata No.: ${form.khataNumber}`);
+  if (cfg.showFerfarNumber && form.ferfarNumber) lines.push(`Ferfar / Mutation No.: ${form.ferfarNumber}`);
+  if (cfg.showEntryType && form.entryType) lines.push(`Entry type: ${entryLabel}`);
+
   if (villageCentroid) {
     lines.push("");
     lines.push(`Village centroid: ${villageCentroid.lat.toFixed(6)}, ${villageCentroid.lng.toFixed(6)}`);
@@ -689,7 +929,7 @@ function buildWhatsAppMsg(args: {
   }
   lines.push("");
   lines.push("Please advise next steps.");
-  return lines.filter((l) => l !== undefined).join("\n");
+  return lines.join("\n");
 }
 
 /* ── Map panel ─────────────────────────────────────────────────────────────── */
@@ -1181,8 +1421,20 @@ export function MapReferenceSection() {
   const [form, setForm] = useState<FormData>({
     district: "", taluka: "", village: "",
     district_id: "", taluka_id: "", village_id: "",
-    gutNumber: "", surveyNumber: "", ctsNumber: "", serviceType: "",
+    gutNumber: "", surveyNumber: "",
+    khataNumber: "", ferfarNumber: "", ctsNumber: "",
+    region: "", office: "", peth: "",
+    citySurveyOffice: "", divisionWard: "",
+    entryType: "all",
+    serviceType: "",
   });
+
+  /* Selected service tab — drives which fields are visible and which lines the
+   * WhatsApp message includes. Defaults to 7/12 since that's the most common
+   * request volume for PrintShubh. Switching tabs preserves all already-typed
+   * values so the user can toggle without losing work. */
+  const [activeService, setActiveService] = useState<ServiceTab>("7_12");
+  const fieldCfg = SERVICE_FIELDS[activeService];
 
   const [districts, setDistricts] = useState<DistrictRow[]>([]);
   const [talukas, setTalukas] = useState<TalukaRow[]>([]);
@@ -1426,11 +1678,31 @@ export function MapReferenceSection() {
     [drawnCoords, drawMode],
   );
 
-  const waEnabled = Boolean(form.district_id && form.taluka_id && form.village_id);
+  /* Enable WhatsApp once the user has filled the *required* fields for the
+   * currently active service. Different services have different "minimum
+   * to send" requirements — taluka/village services need the dropdown chain,
+   * Property Card needs CTS, Mumbai PC needs City Survey + CTS, etc. */
+  const waEnabled = useMemo(() => {
+    const cfg = fieldCfg;
+    // For taluka/village-driven services we still require the full chain so
+    // the boundary fit + village name go into the WA message.
+    if (cfg.showVillage && (!form.district_id || !form.taluka_id || !form.village_id)) {
+      return false;
+    }
+    if (cfg.showDistrict && !cfg.showVillage && !form.district) {
+      return false;
+    }
+    if (cfg.showCitySurveyOffice && !form.citySurveyOffice) return false;
+    if (cfg.primaryField === "khata" && !form.khataNumber) return false;
+    if (cfg.primaryField === "ferfar" && !form.ferfarNumber) return false;
+    if (cfg.primaryField === "cts" && !form.ctsNumber) return false;
+    return true;
+  }, [fieldCfg, form]);
 
   const waHref = useMemo(() => {
     const msg = buildWhatsAppMsg({
       lang,
+      service: activeService,
       form,
       villageCentroid,
       plotCoords: drawMode === "done" ? drawnCoords : [],
@@ -1438,10 +1710,16 @@ export function MapReferenceSection() {
       plotAreaSqm,
     });
     return `https://wa.me/918625801907?text=${encodeURIComponent(msg)}`;
-  }, [lang, form, villageCentroid, drawnCoords, drawMode, plotCentroid, plotAreaSqm]);
+  }, [lang, activeService, form, villageCentroid, drawnCoords, drawMode, plotCentroid, plotAreaSqm]);
 
+  /**
+   * Generic form updater. We cast the resulting object back to FormData
+   * because `entryType` is a literal union ("all" | "live" | "") that a
+   * plain `string` would widen. The radio inputs only ever emit "all" or
+   * "live", so the cast is sound in practice.
+   */
   const updateForm = (key: keyof FormData, value: string) =>
-    setForm((prev) => ({ ...prev, [key]: value }));
+    setForm((prev) => ({ ...prev, [key]: value } as FormData));
 
   const selectedVillageDisplay = useMemo(() => {
     const vilRow = villages.find((v) => v.village_id === form.village_id);
@@ -1547,101 +1825,284 @@ export function MapReferenceSection() {
 
           <div ref={mobileFormAnchorRef} className="order-1 space-y-4 lg:order-2">
             <div className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
-              <h3 className="mb-5 text-lg font-black text-slate-950">{tx.formHeading}</h3>
+              <h3 className="mb-3 text-lg font-black text-slate-950">{tx.formHeading}</h3>
+
+              {/* ── Service tabs ────────────────────────────────────────────
+               * Horizontal pill bar. Scrolls horizontally on small screens so
+               * the 7 tabs never wrap awkwardly. -mx-* + px-* lets the row
+               * bleed to the card edges and gives the rightmost pill some
+               * breathing room when scrolled to the end. */}
+              <div
+                role="tablist"
+                aria-label={lang === "mr" ? "कागदपत्र प्रकार" : "Document type"}
+                className="-mx-1 mb-2 flex gap-1.5 overflow-x-auto px-1 pb-2 [scrollbar-width:thin]"
+              >
+                {SERVICE_TAB_ORDER.map((id) => {
+                  const isActive = activeService === id;
+                  return (
+                    <button
+                      key={id}
+                      type="button"
+                      role="tab"
+                      aria-selected={isActive}
+                      onClick={() => setActiveService(id)}
+                      className={`shrink-0 whitespace-nowrap rounded-full border px-3.5 py-1.5 text-xs font-bold transition focus:outline-none focus:ring-2 focus:ring-blue-200 sm:text-sm ${
+                        isActive
+                          ? "border-blue-700 bg-blue-700 text-white shadow-sm"
+                          : "border-slate-200 bg-slate-50 text-slate-700 hover:border-slate-300 hover:bg-white"
+                      }`}
+                    >
+                      {SERVICE_LABELS[lang][id]}
+                    </button>
+                  );
+                })}
+              </div>
+              <p className="mb-5 flex items-start gap-1.5 text-[11px] leading-5 text-slate-500">
+                <Info className="mt-0.5 size-3.5 shrink-0 text-blue-500" />
+                {tx.tabsHelper}
+              </p>
+
               <div className="space-y-4">
-                <div>
-                  <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.district}</label>
-                  <select
-                    value={form.district_id}
-                    onChange={(e) => handleSelectDistrict(e.target.value)}
-                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
-                  >
-                    <option value="">— {tx.chooseDistrict} —</option>
-                    {districts.map((d) => (
-                      <option key={d.district_id} value={d.district_id}>
-                        {displayDistrictName(d, lang)}
-                      </option>
-                    ))}
-                  </select>
-                </div>
+                {/* ── Location section ──────────────────────────────────── */}
+                {fieldCfg.showRegion && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.region}</label>
+                    <input
+                      type="text"
+                      value={form.region}
+                      onChange={(e) => updateForm("region", e.target.value)}
+                      placeholder={tx.chooseRegion}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                  </div>
+                )}
 
-                <div>
-                  <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.taluka}</label>
-                  <select
-                    value={form.taluka_id}
-                    onChange={(e) => handleSelectTaluka(e.target.value)}
-                    disabled={!form.district_id}
-                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
-                  >
-                    <option value="">— {tx.chooseTaluka} —</option>
-                    {talukas.map((t) => (
-                      <option key={t.taluka_id} value={t.taluka_id}>
-                        {displayWithMap(t, lang, TALUKA_MR_MAP)}
-                      </option>
-                    ))}
-                  </select>
-                </div>
+                {fieldCfg.showDistrict && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.district}</label>
+                    <select
+                      value={form.district_id}
+                      onChange={(e) => handleSelectDistrict(e.target.value)}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    >
+                      <option value="">— {tx.chooseDistrict} —</option>
+                      {districts.map((d) => (
+                        <option key={d.district_id} value={d.district_id}>
+                          {displayDistrictName(d, lang)}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+                )}
 
-                <div>
-                  <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.village}</label>
-                  <select
-                    value={form.village_id}
-                    onChange={(e) => handleSelectVillage(e.target.value)}
-                    disabled={!form.taluka_id}
-                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
-                  >
-                    <option value="">— {tx.chooseVillage} —</option>
-                    {villages.map((v) => (
-                      <option key={v.village_id} value={v.village_id}>
-                        {displayWithMap(v, lang, VILLAGE_MR_MAP)}
-                      </option>
-                    ))}
-                  </select>
-                </div>
+                {fieldCfg.showOffice && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.office}</label>
+                    <input
+                      type="text"
+                      value={form.office}
+                      onChange={(e) => updateForm("office", e.target.value)}
+                      placeholder={tx.chooseOffice}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                  </div>
+                )}
 
-                {form.district_id && !form.taluka_id && (
+                {fieldCfg.showTaluka && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.taluka}</label>
+                    <select
+                      value={form.taluka_id}
+                      onChange={(e) => handleSelectTaluka(e.target.value)}
+                      disabled={!form.district_id}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
+                    >
+                      <option value="">— {tx.chooseTaluka} —</option>
+                      {talukas.map((t) => (
+                        <option key={t.taluka_id} value={t.taluka_id}>
+                          {displayWithMap(t, lang, TALUKA_MR_MAP)}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+                )}
+
+                {fieldCfg.showVillage && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.village}</label>
+                    <select
+                      value={form.village_id}
+                      onChange={(e) => handleSelectVillage(e.target.value)}
+                      disabled={!form.taluka_id}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50 disabled:text-slate-400"
+                    >
+                      <option value="">— {tx.chooseVillage} —</option>
+                      {villages.map((v) => (
+                        <option key={v.village_id} value={v.village_id}>
+                          {displayWithMap(v, lang, VILLAGE_MR_MAP)}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+                )}
+
+                {fieldCfg.showPeth && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.peth}</label>
+                    <input
+                      type="text"
+                      value={form.peth}
+                      onChange={(e) => updateForm("peth", e.target.value)}
+                      placeholder={tx.choosePeth}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                  </div>
+                )}
+
+                {fieldCfg.showCitySurveyOffice && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.citySurveyOffice}</label>
+                    <input
+                      type="text"
+                      value={form.citySurveyOffice}
+                      onChange={(e) => updateForm("citySurveyOffice", e.target.value)}
+                      placeholder={tx.chooseCitySurveyOffice}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                  </div>
+                )}
+
+                {fieldCfg.showDivisionWard && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.divisionWard}</label>
+                    <input
+                      type="text"
+                      value={form.divisionWard}
+                      onChange={(e) => updateForm("divisionWard", e.target.value)}
+                      placeholder={tx.chooseDivisionWard}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                  </div>
+                )}
+
+                {fieldCfg.showDistrict && form.district_id && !form.taluka_id && fieldCfg.showTaluka && (
                   <p className="flex items-start gap-2 rounded-md border border-blue-200 bg-blue-50 px-3 py-2 text-xs leading-5 text-blue-900">
                     <Info className="mt-0.5 size-3.5 shrink-0" />
                     {lang === "mr" ? "आता तालुका निवडा." : "Now choose a taluka."}
                   </p>
                 )}
 
-                <div className="grid gap-3 sm:grid-cols-3">
+                {/* ── Service-specific fields ───────────────────────────── */}
+                {fieldCfg.showKhataNumber && (
                   <div>
-                    <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.gutNo}</label>
-                    <input type="text" value={form.gutNumber} onChange={(e) => updateForm("gutNumber", e.target.value)}
+                    <label className="mb-1.5 block text-sm font-black text-blue-900">
+                      {tx.khataNo}
+                    </label>
+                    <input
+                      type="text"
+                      value={form.khataNumber}
+                      onChange={(e) => updateForm("khataNumber", e.target.value)}
                       placeholder="—"
-                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
+                      className="h-12 lg:h-11 w-full rounded-md border-2 border-blue-200 bg-blue-50/40 px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-100"
+                    />
+                    <p className="mt-1 text-[11px] leading-5 text-slate-500">{tx.khataHolderHint}</p>
                   </div>
+                )}
+
+                {fieldCfg.showFerfarNumber && (
                   <div>
-                    <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.surveyNo}</label>
-                    <input type="text" value={form.surveyNumber} onChange={(e) => updateForm("surveyNumber", e.target.value)}
+                    <label className="mb-1.5 block text-sm font-black text-blue-900">
+                      {tx.ferfarNo}
+                    </label>
+                    <input
+                      type="text"
+                      value={form.ferfarNumber}
+                      onChange={(e) => updateForm("ferfarNumber", e.target.value)}
                       placeholder="—"
-                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
+                      className="h-12 lg:h-11 w-full rounded-md border-2 border-blue-200 bg-blue-50/40 px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-100"
+                    />
                   </div>
+                )}
+
+                {fieldCfg.showCtsNumber && (
                   <div>
-                    <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.ctsNo}</label>
-                    <input type="text" value={form.ctsNumber} onChange={(e) => updateForm("ctsNumber", e.target.value)}
-                      placeholder="—"
-                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white" />
+                    <label className="mb-1.5 block text-sm font-black text-blue-900">
+                      {tx.ctsNo}
+                    </label>
+                    <input
+                      type="text"
+                      value={form.ctsNumber}
+                      onChange={(e) => updateForm("ctsNumber", e.target.value)}
+                      placeholder={tx.ctsNoSelectHint}
+                      className="h-12 lg:h-11 w-full rounded-md border-2 border-blue-200 bg-blue-50/40 px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white focus:ring-2 focus:ring-blue-100"
+                    />
                   </div>
-                </div>
+                )}
+
+                {(fieldCfg.showGutNumber || fieldCfg.showSurveyNumber) && (
+                  <div className="grid gap-3 sm:grid-cols-2">
+                    {fieldCfg.showGutNumber && (
+                      <div>
+                        <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.gutNo}</label>
+                        <input
+                          type="text"
+                          value={form.gutNumber}
+                          onChange={(e) => updateForm("gutNumber", e.target.value)}
+                          placeholder="—"
+                          className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white"
+                        />
+                      </div>
+                    )}
+                    {fieldCfg.showSurveyNumber && (
+                      <div>
+                        <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.surveyNo}</label>
+                        <input
+                          type="text"
+                          value={form.surveyNumber}
+                          onChange={(e) => updateForm("surveyNumber", e.target.value)}
+                          placeholder="—"
+                          className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white"
+                        />
+                      </div>
+                    )}
+                  </div>
+                )}
+
+                {fieldCfg.showEntryType && (
+                  <div>
+                    <span className="mb-1.5 block text-sm font-bold text-slate-700">{tx.entryTypeLabel}</span>
+                    <div className="flex flex-wrap gap-2">
+                      {(["all", "live"] as const).map((opt) => {
+                        const checked = form.entryType === opt;
+                        return (
+                          <label
+                            key={opt}
+                            className={`inline-flex cursor-pointer items-center gap-2 rounded-md border px-3 py-2 text-xs font-bold transition sm:text-sm ${
+                              checked
+                                ? "border-blue-600 bg-blue-50 text-blue-900"
+                                : "border-slate-300 bg-white text-slate-700 hover:bg-slate-50"
+                            }`}
+                          >
+                            <input
+                              type="radio"
+                              name="entryType"
+                              value={opt}
+                              checked={checked}
+                              onChange={() => updateForm("entryType", opt)}
+                              className="accent-blue-600"
+                            />
+                            {opt === "all" ? tx.entryAll : tx.entryLive}
+                          </label>
+                        );
+                      })}
+                    </div>
+                  </div>
+                )}
 
                 <p className="text-xs leading-5 text-slate-500">
                   <Info className="mr-1 inline size-3.5 text-amber-500" />
                   {tx.optionalNote}
                 </p>
-
-                <div>
-                  <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.serviceType}</label>
-                  <select value={form.serviceType} onChange={(e) => updateForm("serviceType", e.target.value)}
-                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500">
-                    <option value="">{lang === "mr" ? "— सेवा निवडा —" : "— Select service —"}</option>
-                    {tx.serviceTypes.map((s) => (
-                      <option key={s} value={s}>{s}</option>
-                    ))}
-                  </select>
-                </div>
               </div>
 
               {!waEnabled && (
