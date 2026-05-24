@@ -194,6 +194,7 @@ export async function ensureVillageNames(): Promise<VillagesByTalukaCode> {
     })
     .then((data: VillagesByTalukaCode) => {
       VILLAGE_CACHE = data;
+      logDatasetsReady();
       return data;
     })
     .catch((e) => {
@@ -278,6 +279,7 @@ export async function ensureLgdNames(): Promise<LgdDataset | null> {
     })
     .then((data) => {
       LGD_CACHE = data ?? null;
+      logDatasetsReady();
       return LGD_CACHE;
     })
     .catch((e) => {
@@ -388,16 +390,37 @@ const DEBUG_ON =
 const _debugSeen = new Set<string>();
 function debugLog(payload: Record<string, unknown>) {
   if (!DEBUG_ON) return;
+  // Dedup signature INCLUDES cache-loaded flags so we re-log when LGD/MAHA
+  // arrives late and the same lookup transitions from English fallback to
+  // a localized result.
   const sig = JSON.stringify([
     payload.kind,
     payload.districtKey,
     payload.talukaEn,
     payload.villageEn,
+    payload.source,
+    payload.lgdLoaded,
+    payload.mahaLoaded,
   ]);
   if (_debugSeen.has(sig)) return;
   _debugSeen.add(sig);
   // eslint-disable-next-line no-console
   console.log("[LGD]", payload);
+}
+
+/** One-shot log fired the first time either localization cache lands.
+ * Useful for confirming the JSON files were actually fetched. */
+let _datasetLogOnce = false;
+function logDatasetsReady() {
+  if (_datasetLogOnce || !DEBUG_ON) return;
+  if (LGD_CACHE === null && VILLAGE_CACHE === null) return;
+  _datasetLogOnce = true;
+  // eslint-disable-next-line no-console
+  console.log("[LGD data loaded]", {
+    lgdTalukaKeys: LGD_CACHE ? Object.keys(LGD_CACHE.talukas).length : 0,
+    lgdByNameKeys: LGD_CACHE ? Object.keys(LGD_CACHE.byName).length : 0,
+    mahaTalukaCodes: VILLAGE_CACHE ? Object.keys(VILLAGE_CACHE).length : 0,
+  });
 }
 
 /** Taluka label (row-based). Always returns a non-empty string, falling

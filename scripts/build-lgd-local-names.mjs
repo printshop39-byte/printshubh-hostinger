@@ -78,6 +78,73 @@ function normHeader(h) {
     .trim();
 }
 
+// ── CP437 mojibake decoder ──────────────────────────────────────────
+//
+// LGD Maharashtra .xlsx exports store Marathi (Devanagari) cells as
+// UTF-8 bytes that were saved through a CP437 (DOS OEM) round-trip,
+// so the cell shows up as e.g. "αñàαñ¼αÑìαñªαÑüαñ▓ αñ▓αñ╛αñƒ"
+// instead of "अब्दुल लाट".
+//
+// To recover, we map each visible char back to its CP437 byte (the
+// table below covers every code point CP437 assigns to 0x80–0xFF),
+// then decode the resulting bytes as UTF-8.
+const CP437 = {
+  "Ç":0x80,"ü":0x81,"é":0x82,"â":0x83,"ä":0x84,"à":0x85,"å":0x86,"ç":0x87,
+  "ê":0x88,"ë":0x89,"è":0x8A,"ï":0x8B,"î":0x8C,"ì":0x8D,"Ä":0x8E,"Å":0x8F,
+  "É":0x90,"æ":0x91,"Æ":0x92,"ô":0x93,"ö":0x94,"ò":0x95,"û":0x96,"ù":0x97,
+  "ÿ":0x98,"Ö":0x99,"Ü":0x9A,"¢":0x9B,"£":0x9C,"¥":0x9D,"₧":0x9E,"ƒ":0x9F,
+  "á":0xA0,"í":0xA1,"ó":0xA2,"ú":0xA3,"ñ":0xA4,"Ñ":0xA5,"ª":0xA6,"º":0xA7,
+  "¿":0xA8,"⌐":0xA9,"¬":0xAA,"½":0xAB,"¼":0xAC,"¡":0xAD,"«":0xAE,"»":0xAF,
+  "░":0xB0,"▒":0xB1,"▓":0xB2,"│":0xB3,"┤":0xB4,"╡":0xB5,"╢":0xB6,"╖":0xB7,
+  "╕":0xB8,"╣":0xB9,"║":0xBA,"╗":0xBB,"╝":0xBC,"╜":0xBD,"╛":0xBE,"┐":0xBF,
+  "└":0xC0,"┴":0xC1,"┬":0xC2,"├":0xC3,"─":0xC4,"┼":0xC5,"╞":0xC6,"╟":0xC7,
+  "╚":0xC8,"╔":0xC9,"╩":0xCA,"╦":0xCB,"╠":0xCC,"═":0xCD,"╬":0xCE,"╧":0xCF,
+  "╨":0xD0,"╤":0xD1,"╥":0xD2,"╙":0xD3,"╘":0xD4,"╒":0xD5,"╓":0xD6,"╫":0xD7,
+  "╪":0xD8,"┘":0xD9,"┌":0xDA,"█":0xDB,"▄":0xDC,"▌":0xDD,"▐":0xDE,"▀":0xDF,
+  "α":0xE0,"ß":0xE1,"Γ":0xE2,"π":0xE3,"Σ":0xE4,"σ":0xE5,"µ":0xE6,"τ":0xE7,
+  "Φ":0xE8,"Θ":0xE9,"Ω":0xEA,"δ":0xEB,"∞":0xEC,"φ":0xED,"ε":0xEE,"∩":0xEF,
+  "≡":0xF0,"±":0xF1,"≥":0xF2,"≤":0xF3,"⌠":0xF4,"⌡":0xF5,"÷":0xF6,"≈":0xF7,
+  "°":0xF8,"∙":0xF9,"·":0xFA,"√":0xFB,"ⁿ":0xFC,"²":0xFD,"■":0xFE," ":0xFF,
+};
+
+const DEVA_RANGE = /[ऀ-ॿ]/;
+
+/** Decode a CP437-mojibake string back to its original UTF-8 text.
+ * Returns the original string unchanged if:
+ *   • the input is empty / null
+ *   • the input already contains real Devanagari (no decoding needed)
+ *   • any character isn't in the CP437 map (we'd lose data) */
+function decodeMojibakeIfNeeded(raw) {
+  if (!raw) return "";
+  const s = String(raw);
+  if (DEVA_RANGE.test(s)) return s; // already valid Devanagari, leave alone
+  // Heuristic: only attempt decode if the string contains chars typical of
+  // the mojibake pattern (α, ñ, Ñ, à, ì, etc.). Saves us from mangling
+  // genuine English values.
+  if (!/[αñÑàìª▓╛ƒ¼]/.test(s)) return s;
+  const bytes = [];
+  for (const ch of s) {
+    const code = ch.charCodeAt(0);
+    if (code < 0x80) {
+      bytes.push(code);
+    } else if (CP437[ch] !== undefined) {
+      bytes.push(CP437[ch]);
+    } else {
+      // unknown high-bit char — bail out, return original
+      return s;
+    }
+  }
+  try {
+    const decoded = Buffer.from(bytes).toString("utf8");
+    // Sanity check: decoded result must contain Devanagari, otherwise it's
+    // not the kind of mojibake we expected and we'd be returning garbage.
+    if (!DEVA_RANGE.test(decoded)) return s;
+    return decoded;
+  } catch {
+    return s;
+  }
+}
+
 function normName(raw) {
   if (!raw) return "";
   return String(raw).toLowerCase().replace(/[^a-z0-9]+/g, "");
@@ -121,8 +188,8 @@ const HEADER_PATTERNS = {
     /^district$/i,
   ],
   districtMr: [
-    /^district\s*name\s*\(\s*in\s*local\s*\)/i,
-    /^district\s*\(\s*local\s*\)/i,
+    /^district\s*name\s*\(\s*in\s*local(?:\s*language)?\s*\)/i,
+    /^district\s*\(\s*local(?:\s*language)?\s*\)/i,
   ],
   talukaEn: [
     /^(sub[_ \-]?district|tehsil|taluka|block)\s*name\s*\(\s*in\s*english\s*\)/i,
@@ -130,7 +197,7 @@ const HEADER_PATTERNS = {
     /^(sub[_ \-]?district|tehsil|taluka|block)$/i,
   ],
   talukaMr: [
-    /^(sub[_ \-]?district|tehsil|taluka|block)\s*name\s*\(\s*in\s*local\s*\)/i,
+    /^(sub[_ \-]?district|tehsil|taluka|block)\s*name\s*\(\s*in\s*local(?:\s*language)?\s*\)/i,
   ],
   villageEn: [
     /^village\s*name\s*\(\s*in\s*english\s*\)/i,
@@ -325,7 +392,9 @@ function ingestFile(file, accumulator, fileDistrictHint) {
         if (!looksPositional(r)) continue;
         villageCode = String(r[1] ?? "").trim();
         villageEn = String(r[2] ?? "").trim();
-        villageMr = String(r[3] ?? "").trim();
+        // CP437-mojibake → real Devanagari. No-op if already valid UTF-8
+        // or pure ASCII.
+        villageMr = decodeMojibakeIfNeeded(String(r[3] ?? "").trim());
         const hier = parseHierarchy(String(r[4] ?? ""));
         if (!hier) continue;
         talukaEn = hier.talukaEn;
@@ -340,11 +409,11 @@ function ingestFile(file, accumulator, fileDistrictHint) {
           return v == null ? "" : String(v).trim();
         };
         districtEn = cell("districtEn") || fileDistrictHint || "";
-        districtMr = cell("districtMr");
+        districtMr = decodeMojibakeIfNeeded(cell("districtMr"));
         talukaEn = cell("talukaEn");
-        talukaMr = cell("talukaMr");
+        talukaMr = decodeMojibakeIfNeeded(cell("talukaMr"));
         villageEn = cell("villageEn");
-        villageMr = cell("villageMr");
+        villageMr = decodeMojibakeIfNeeded(cell("villageMr"));
         villageCode = cell("villageCode");
         // If header layout has a hierarchy column, parse it as fallback.
         if (!talukaEn && cols.hierarchy !== -1) {
