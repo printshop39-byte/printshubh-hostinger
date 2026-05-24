@@ -22,6 +22,10 @@
  */
 
 import type { Lang } from "@/components/language-context";
+import {
+  DISTRICT_ID_FALLBACK_EN,
+  KNOWN_NAME_FIXES,
+} from "@/lib/maharashtra-name-map";
 
 interface TalukaEntry { name: string; local: string; code: number; }
 type TalukasByDistrict = Record<string, TalukaEntry[]>;
@@ -35,32 +39,107 @@ export const MAHA_TALUKAS: TalukasByDistrict = {"AMRAVATI":[{"name":"Achalpur","
 /* ── District-key normalisation ──────────────────────────────────────
  * MAHA_DATA keys districts by UPPERCASE English ("AMRAVATI", "KOLHAPUR").
  * Our DistrictRow.name_en is also UPPERCASE but occasionally byte-corrupted
- * (KOLH>PUR). We normalise the user-supplied key to plain A-Z only before
- * looking it up. Also handles "AHMADNAGAR" alias for "AHMEDNAGAR". */
+ * (KOLH>PUR — the `>` byte 0x3E replaced `A` 0x41 during DBF parsing). The
+ * fix table KNOWN_NAME_FIXES maps the raw corrupted strings back to clean
+ * ASCII; we apply it FIRST so the alphanumeric strip doesn't drop the `>`
+ * and silently lose the `A`.
+ *
+ * After the fix we strip non-A-Z, then apply district-rename aliases for
+ * AHMADNAGAR / AHMEDNAGAR / AHILYANAGAR, CHHATRAPATI SAMBHAJINAGAR =
+ * AURANGABAD (renamed 2022), DHARASHIV = OSMANABAD (renamed 2022). */
 function normDistrict(raw: string): string {
   if (!raw) return "";
-  const upper = raw.toUpperCase().replace(/[^A-Z]+/g, "");
+  // 1. Recover byte-corrupted forms BEFORE we strip punctuation.
+  const fixed = KNOWN_NAME_FIXES[raw] ?? raw;
+  // 2. Uppercase + strip everything but A-Z.
+  const upper = fixed.toUpperCase().replace(/[^A-Z]+/g, "");
+  // 3. Rename aliases (current + historical district names).
   const aliases: Record<string, string> = {
+    // Ahmednagar was renamed Ahilyanagar in 2024. MAHA_DATA still uses the
+    // old name "AHMEDNAGAR" so we redirect both forms there.
     AHMADNAGAR: "AHMEDNAGAR",
     AHILYANAGAR: "AHMEDNAGAR",
+    // Aurangabad renamed Chhatrapati Sambhajinagar in 2022.
     CHHATRAPATISAMBHAJINAGAR: "AURANGABAD",
+    // Osmanabad renamed Dharashiv in 2022.
     DHARASHIV: "OSMANABAD",
+    // KOLH>PUR was already handled by KNOWN_NAME_FIXES, but if for some
+    // reason the strip happens first (older callers) we still recover.
+    KOLHPUR: "KOLHAPUR",
+    NNDED: "NANDED",
+    NANDURBR: "NANDURBAR",
+    NSHIK: "NASHIK",
+    STRA: "SATARA",
   };
   return aliases[upper] ?? upper;
 }
 
+/** Best-effort English district key from a DistrictRow. Tries name_en first
+ * (run through KNOWN_NAME_FIXES + normDistrict), then DISTRICT_ID_FALLBACK_EN
+ * keyed by district_id slug. Returns "" only when both are missing. */
+function districtKeyFromRow(row: LocalNameRow | undefined): string {
+  if (!row) return "";
+  const raw = (row.name_en ?? "").trim();
+  if (raw) {
+    const k = normDistrict(raw);
+    if (k) return k;
+  }
+  const slug = row.district_id;
+  if (slug && DISTRICT_ID_FALLBACK_EN[slug]) {
+    return normDistrict(DISTRICT_ID_FALLBACK_EN[slug]);
+  }
+  // Last resort: try treating the slug itself as a district name
+  // (e.g. slug "kolh-pur" → normDistrict tries the slug, hits its alias
+  // "KOLHPUR" → "KOLHAPUR"). This catches districts we forgot to add to
+  // DISTRICT_ID_FALLBACK_EN.
+  if (slug) {
+    return normDistrict(slug);
+  }
+  return "";
+}
+
 /* ── Name normalisation ─────────────────────────────────────────────
- * Strip spaces, hyphens, dots, parens and lowercase so that
- *   "Chandur Railway" == "chandurrailway"
- *   "Desaiganj (Vadasa)" == "desaiganjvadasa" */
+ * Two passes of normalisation:
+ *
+ *   normName(): strict — strip non-alphanumerics and lowercase. Catches
+ *               "Chandur Railway" vs "ChandurRailway",
+ *               "Desaiganj (Vadasa)" vs "DesaiganjVadasa".
+ *
+ *   normNameRelaxed(): like normName, plus collapse the Marathi village
+ *               suffix family:
+ *                  Bk. / Bk / Budruk  → bk
+ *                  Kh. / Kh / Khurd   → kh
+ *                  (CT) / (M Corp) / (MC) / (NP) / (OG) → drop
+ *               So "Pimpari Kh." matches "Pimpari Khurd" matches "Pimpari Kh"
+ *               under the same key.
+ *
+ * Looking up a village does two passes: strict first, then relaxed if the
+ * strict match misses. That way exact matches stay precise and ambiguous
+ * suffixes still resolve.
+ */
 function normName(raw: string): string {
   if (!raw) return "";
   return raw.toLowerCase().replace(/[^a-z0-9]+/g, "");
 }
 
+function normNameRelaxed(raw: string): string {
+  if (!raw) return "";
+  return raw
+    .toLowerCase()
+    // Drop common administrative-status tags in parens.
+    .replace(/\((?:ct|mcorp|m corp|mc|np|na|og|cb|m|ph)\)/gi, "")
+    // Unify suffix family: word boundary so "bkrishna" is untouched.
+    .replace(/\b(bk\.?|budruk)\b/gi, "bk")
+    .replace(/\b(kh\.?|khurd)\b/gi, "kh")
+    // Now strip everything else.
+    .replace(/[^a-z0-9]+/g, "");
+}
+
 /* ── Taluka lookup ───────────────────────────────────────────────── */
 
-/** Returns the matched MAHA TalukaEntry, or null. */
+/** Returns the matched MAHA TalukaEntry, or null. Two-pass match: strict
+ * (alphanumeric-only) then relaxed (collapse Bk./Kh./Budruk/Khurd, drop
+ * (CT)/(MC) status tags). */
 export function findTalukaEntry(
   districtKeyRaw: string,
   talukaEnglishName: string,
@@ -68,9 +147,14 @@ export function findTalukaEntry(
   const dkey = normDistrict(districtKeyRaw);
   const list = MAHA_TALUKAS[dkey];
   if (!list) return null;
-  const want = normName(talukaEnglishName);
-  if (!want) return null;
-  return list.find((t) => normName(t.name) === want) ?? null;
+  const wantStrict = normName(talukaEnglishName);
+  if (!wantStrict) return null;
+  let hit = list.find((t) => normName(t.name) === wantStrict);
+  if (hit) return hit;
+  const wantRelaxed = normNameRelaxed(talukaEnglishName);
+  if (!wantRelaxed) return null;
+  hit = list.find((t) => normNameRelaxed(t.name) === wantRelaxed);
+  return hit ?? null;
 }
 
 /** Marathi display, falling back to the original English if no local. */
@@ -122,7 +206,9 @@ export async function ensureVillageNames(): Promise<VillagesByTalukaCode> {
 
 /** Marathi display for a single village.
  *  Pass the *taluka code* (from getTalukaCode) and the village English name.
- *  Returns the original English name when no Marathi label is on file. */
+ *  Two-pass match (strict → relaxed) so "Pimpari Kh." resolves whether the
+ *  MAHA data spells it Kh. / Kh / Khurd. Returns the original English name
+ *  when no Marathi label is on file — never returns null. */
 export function getVillageDisplayName(
   talukaCode: number | null,
   villageEnglishName: string,
@@ -132,8 +218,12 @@ export function getVillageDisplayName(
   if (talukaCode == null || !VILLAGE_CACHE) return villageEnglishName;
   const list = VILLAGE_CACHE[String(talukaCode)];
   if (!list) return villageEnglishName;
-  const want = normName(villageEnglishName);
-  const match = list.find((v) => normName(v.n) === want);
+  const wantStrict = normName(villageEnglishName);
+  let match = list.find((v) => normName(v.n) === wantStrict);
+  if (!match) {
+    const wantRelaxed = normNameRelaxed(villageEnglishName);
+    match = list.find((v) => normNameRelaxed(v.n) === wantRelaxed);
+  }
   if (match && match.l && match.l.trim()) return match.l;
   return villageEnglishName;
 }
@@ -142,3 +232,300 @@ export function getVillageDisplayName(
 export function villageNamesReady(): boolean {
   return VILLAGE_CACHE !== null;
 }
+
+/* ── LGD lookup overlay (optional) ────────────────────────────────────
+ * The LGD JSON (built from the user's Excel sheets via
+ * scripts/build-lgd-local-names.mjs) is the authoritative source. It's
+ * lazy-fetched once on first taluka selection — same pattern as the MAHA
+ * villages dataset. When present, LGD takes precedence over MAHA; when
+ * absent, MAHA is the fallback; when neither has a Marathi label, the
+ * helpers return the original English string from the row.
+ *
+ * Schema (matches scripts/build-lgd-local-names.mjs output):
+ *   {
+ *     "byVillageCode": { "<lgdCode>": { nameEn, nameMr, talukaEn, talukaMr,
+ *                                       districtEn, districtMr } },
+ *     "byName":       { "district|taluka|village-normalized": { nameEn, nameMr } },
+ *     "talukas":      { "district|taluka-normalized": { nameEn, nameMr } }
+ *   }
+ */
+interface LgdNamePair { nameEn: string; nameMr: string; }
+interface LgdVillageRecord extends LgdNamePair {
+  talukaEn?: string; talukaMr?: string;
+  districtEn?: string; districtMr?: string;
+}
+interface LgdDataset {
+  byVillageCode: Record<string, LgdVillageRecord>;
+  byName: Record<string, LgdNamePair>;
+  talukas: Record<string, LgdNamePair>;
+}
+
+let LGD_CACHE: LgdDataset | null = null;
+let LGD_PROMISE: Promise<LgdDataset | null> | null = null;
+
+/** Fetch & cache the LGD JSON. Resolves to null if the file is missing —
+ * the helpers all treat null as "no overlay, use MAHA / fallback". */
+export async function ensureLgdNames(): Promise<LgdDataset | null> {
+  if (LGD_CACHE) return LGD_CACHE;
+  if (LGD_PROMISE) return LGD_PROMISE;
+  LGD_PROMISE = fetch("/data/lgd-local-names.json")
+    .then((r) => {
+      if (!r.ok) {
+        // 404 is expected before the user runs the LGD build script.
+        return null;
+      }
+      return r.json() as Promise<LgdDataset>;
+    })
+    .then((data) => {
+      LGD_CACHE = data ?? null;
+      return LGD_CACHE;
+    })
+    .catch((e) => {
+      console.warn("[lgd-local-names] fetch failed (will use MAHA fallback):", e);
+      LGD_CACHE = null;
+      return null;
+    });
+  return LGD_PROMISE;
+}
+
+export function lgdNamesReady(): boolean {
+  return LGD_CACHE !== null;
+}
+
+/* ── Row-based helpers (the public API the component should call) ───
+ *
+ * Crucial rule: these helpers NEVER filter or skip rows. They take a row
+ * from the existing dropdown JSON, look up an optional Marathi label, and
+ * return either the localized label or the row's original English name as
+ * fallback. The dropdown render path stays a 1-to-1 map over the existing
+ * row arrays.
+ *
+ * Lookup order for villages:
+ *   1. LGD byVillageCode  (LGD code from row.village_id or row.code)
+ *   2. LGD byName         (district|taluka|village key, strict + relaxed)
+ *   3. MAHA villages      (taluka code → village list, strict + relaxed)
+ *   4. row.name_en        (always returned in English mode, or as final fallback)
+ *
+ * Lookup order for talukas:
+ *   1. LGD talukas        (district|taluka key, strict + relaxed)
+ *   2. MAHA talukas       (district → name list, strict + relaxed)
+ *   3. row.name_en
+ */
+
+/** Minimal subset of the DistrictRow / TalukaRow / VillageRow shapes the
+ * helpers actually read. Defined here (not imported) to avoid coupling
+ * this lib to the component's types — any compatible shape works. */
+export interface LocalNameRow {
+  name_en?: string;
+  name_mr?: string;
+  code?: string | number | null;       // LGD code if present on row
+  village_id?: string;                   // e.g. "v-563889"
+  taluka_id?: string;                    // e.g. "t-512-ajra"
+  district_id?: string;                  // e.g. "d-516"
+}
+
+/** Pull a probable LGD numeric code out of a row. We check `code`, then the
+ * trailing digits of village_id ("v-563889" → "563889") so old data without
+ * an explicit code still resolves. */
+function lgdCodeFromRow(row: LocalNameRow | undefined): string | null {
+  if (!row) return null;
+  if (row.code != null && String(row.code).trim()) return String(row.code).trim();
+  for (const k of ["village_id", "taluka_id", "district_id"] as const) {
+    const v = row[k];
+    if (!v) continue;
+    const m = /(\d{3,})$/.exec(v);
+    if (m) return m[1];
+  }
+  return null;
+}
+
+function lgdLookupByName(
+  kind: "village" | "taluka",
+  districtKeyRaw: string,
+  talukaEnglish: string | undefined,
+  villageEnglish: string | undefined,
+): LgdNamePair | null {
+  if (!LGD_CACHE) return null;
+  const dKey = normDistrict(districtKeyRaw);
+  if (!dKey) return null;
+
+  if (kind === "taluka") {
+    if (!talukaEnglish) return null;
+    const strict = `${dKey}|${normName(talukaEnglish)}`;
+    const relaxed = `${dKey}|${normNameRelaxed(talukaEnglish)}`;
+    return LGD_CACHE.talukas[strict] ?? LGD_CACHE.talukas[relaxed] ?? null;
+  }
+
+  // village
+  if (!talukaEnglish || !villageEnglish) return null;
+  const tStrict = normName(talukaEnglish);
+  const tRelaxed = normNameRelaxed(talukaEnglish);
+  const vStrict = normName(villageEnglish);
+  const vRelaxed = normNameRelaxed(villageEnglish);
+  const candidates = [
+    `${dKey}|${tStrict}|${vStrict}`,
+    `${dKey}|${tStrict}|${vRelaxed}`,
+    `${dKey}|${tRelaxed}|${vStrict}`,
+    `${dKey}|${tRelaxed}|${vRelaxed}`,
+  ];
+  for (const c of candidates) {
+    if (LGD_CACHE.byName[c]) return LGD_CACHE.byName[c];
+  }
+  return null;
+}
+
+/* Once-per-(district, taluka, village) debug log. Browser-side only —
+ * gated by a Set so noisy dropdowns don't flood the console. Toggle the
+ * env-checked DEBUG_ON flag below to silence. */
+/* Debug logs fire only in development OR when the page URL has ?debugLgd=1.
+ * Per-call payload is keyed by (kind, districtKey, talukaEn, villageEn) so
+ * the same dropdown re-render doesn't flood the console — first occurrence
+ * wins. */
+const DEBUG_ON =
+  typeof window !== "undefined" &&
+  (process.env.NODE_ENV !== "production" ||
+    /[?&]debugLgd=1\b/.test(window.location?.search ?? ""));
+const _debugSeen = new Set<string>();
+function debugLog(payload: Record<string, unknown>) {
+  if (!DEBUG_ON) return;
+  const sig = JSON.stringify([
+    payload.kind,
+    payload.districtKey,
+    payload.talukaEn,
+    payload.villageEn,
+  ]);
+  if (_debugSeen.has(sig)) return;
+  _debugSeen.add(sig);
+  // eslint-disable-next-line no-console
+  console.log("[LGD]", payload);
+}
+
+/** Taluka label (row-based). Always returns a non-empty string, falling
+ * back to row.name_en. Pass the matching DistrictRow so we know which
+ * district the taluka belongs to (LGD + MAHA are keyed by district). */
+export function getTalukaDisplayNameRow(
+  talukaRow: LocalNameRow | undefined,
+  districtRow: LocalNameRow | undefined,
+  lang: Lang,
+): string {
+  const fallback = talukaRow?.name_en?.trim() || talukaRow?.name_mr?.trim() || "—";
+  if (!talukaRow) return fallback;
+  if (lang !== "mr") return fallback;
+
+  // Resolve to a clean uppercase English key — handles KOLH>PUR via
+  // KNOWN_NAME_FIXES inside normDistrict + slug fallback.
+  const dKey = districtKeyFromRow(districtRow);
+
+  let result = fallback;
+  let source: string = "fallback-en";
+
+  // 1. LGD by name (district|taluka key)
+  const lgd = lgdLookupByName("taluka", dKey, talukaRow.name_en, undefined);
+  if (lgd && lgd.nameMr && lgd.nameMr.trim()) {
+    result = lgd.nameMr; source = "lgd-byName";
+  }
+  // 2. Row's own Marathi name (from the dropdown JSON)
+  else if (talukaRow.name_mr && talukaRow.name_mr.trim()) {
+    result = talukaRow.name_mr; source = "row.name_mr";
+  }
+  // 3. MAHA
+  else if (dKey && talukaRow.name_en) {
+    const entry = findTalukaEntry(dKey, talukaRow.name_en);
+    if (entry && entry.local && entry.local.trim()) {
+      result = entry.local; source = "maha";
+    }
+  }
+
+  debugLog({
+    kind: "taluka",
+    lgdLoaded: LGD_CACHE !== null,
+    mahaLoaded: VILLAGE_CACHE !== null,
+    districtKey: dKey,
+    talukaEn: talukaRow.name_en ?? "",
+    talukaLookupKey: dKey && talukaRow.name_en
+      ? `${dKey}|${normName(talukaRow.name_en)}`
+      : "",
+    source,
+    result,
+  });
+
+  return result;
+}
+
+/** Village label (row-based). Pass the village row + parent taluka + parent
+ * district so the helpers have full context. Like the taluka helper, ALWAYS
+ * returns a non-empty string — never null or "—" unless the row itself has
+ * no name. */
+export function getVillageDisplayNameRow(
+  villageRow: LocalNameRow | undefined,
+  talukaRow: LocalNameRow | undefined,
+  districtRow: LocalNameRow | undefined,
+  lang: Lang,
+): string {
+  const fallback = villageRow?.name_en?.trim() || villageRow?.name_mr?.trim() || "—";
+  if (!villageRow) return fallback;
+  if (lang !== "mr") return fallback;
+
+  const dKey = districtKeyFromRow(districtRow);
+
+  let result = fallback;
+  let source: string = "fallback-en";
+
+  // 1. LGD by village code
+  const vCode = lgdCodeFromRow(villageRow);
+  if (LGD_CACHE && vCode) {
+    const rec = LGD_CACHE.byVillageCode[vCode];
+    if (rec && rec.nameMr && rec.nameMr.trim()) {
+      result = rec.nameMr; source = "lgd-byCode";
+    }
+  }
+  // 2. LGD by name (district|taluka|village)
+  if (result === fallback) {
+    const lgd = lgdLookupByName("village", dKey, talukaRow?.name_en, villageRow.name_en);
+    if (lgd && lgd.nameMr && lgd.nameMr.trim()) {
+      result = lgd.nameMr; source = "lgd-byName";
+    }
+  }
+  // 3. Row's own Marathi name (from the dropdown JSON)
+  if (result === fallback && villageRow.name_mr && villageRow.name_mr.trim()) {
+    result = villageRow.name_mr; source = "row.name_mr";
+  }
+  // 4. MAHA villages by taluka code
+  if (result === fallback && dKey && talukaRow?.name_en && villageRow.name_en) {
+    const tCode = getTalukaCode(dKey, talukaRow.name_en);
+    if (tCode != null && VILLAGE_CACHE) {
+      const list = VILLAGE_CACHE[String(tCode)];
+      if (list) {
+        const wantStrict = normName(villageRow.name_en);
+        let match = list.find((v) => normName(v.n) === wantStrict);
+        if (!match) {
+          const wantRelaxed = normNameRelaxed(villageRow.name_en);
+          match = list.find((v) => normNameRelaxed(v.n) === wantRelaxed);
+        }
+        if (match && match.l && match.l.trim()) {
+          result = match.l; source = "maha";
+        }
+      }
+    }
+  }
+
+  debugLog({
+    kind: "village",
+    lgdLoaded: LGD_CACHE !== null,
+    mahaLoaded: VILLAGE_CACHE !== null,
+    districtKey: dKey,
+    talukaEn: talukaRow?.name_en ?? "",
+    villageEn: villageRow.name_en ?? "",
+    villageLookupKey:
+      dKey && talukaRow?.name_en && villageRow.name_en
+        ? `${dKey}|${normName(talukaRow.name_en)}|${normName(villageRow.name_en)}`
+        : "",
+    lgdCode: vCode,
+    source,
+    result,
+  });
+
+  return result;
+}
+
+/* (DISTRICT_ID_FALLBACK_EN is imported at the top of this module.) */

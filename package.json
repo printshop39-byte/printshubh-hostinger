@@ -6,7 +6,8 @@
     "dev": "next dev --webpack",
     "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "build-lgd": "node scripts/build-lgd-local-names.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
@@ -34,6 +35,7 @@
     "eslint-config-next": "16.2.6",
     "mapshaper": "^0.7.19",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "xlsx": "^0.18.5"
   }
 }
