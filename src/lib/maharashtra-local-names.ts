@@ -157,6 +157,29 @@ export function findTalukaEntry(
   return hit ?? null;
 }
 
+/** Match a MAHA taluka entry by its numeric LGD code. This is the most
+ * reliable join because LGD codes are stable across name renames and free
+ * of the LGD-vs-MAHA spelling mismatches that plague taluka names
+ * (e.g. dropdown says "GAGANBAWADA" while MAHA stores it as "Bavda" — both
+ * carry LGD code 4288, so the join still works).
+ *
+ * The dropdown JSON stores LGD codes as zero-padded strings like "04288",
+ * while MAHA stores them as plain numbers like 4288. parseInt() normalises
+ * both so the lookup is identity-stable. */
+export function findTalukaEntryByLgdCode(
+  districtKeyRaw: string,
+  lgdCode: string | number | null | undefined,
+): TalukaEntry | null {
+  if (lgdCode == null || lgdCode === "") return null;
+  const num =
+    typeof lgdCode === "number" ? lgdCode : parseInt(String(lgdCode), 10);
+  if (!Number.isFinite(num) || num <= 0) return null;
+  const dkey = normDistrict(districtKeyRaw);
+  const list = MAHA_TALUKAS[dkey];
+  if (!list) return null;
+  return list.find((t) => t.code === num) ?? null;
+}
+
 /** Marathi display, falling back to the original English if no local. */
 export function getTalukaDisplayName(
   districtKeyRaw: string,
@@ -321,6 +344,10 @@ export interface LocalNameRow {
   name_en?: string;
   name_mr?: string;
   code?: string | number | null;       // LGD code if present on row
+  /** LGD code on taluka rows (dropdown JSON ships this as a zero-padded
+   * string like "04288"). Treated as authoritative for MAHA joins because
+   * names diverge across LGD and MAHA datasets. */
+  lgd?: string | number | null;
   village_id?: string;                   // e.g. "v-563889"
   taluka_id?: string;                    // e.g. "t-512-ajra"
   district_id?: string;                  // e.g. "d-516"
@@ -451,8 +478,22 @@ export function getTalukaDisplayNameRow(
   else if (talukaRow.name_mr && talukaRow.name_mr.trim()) {
     result = talukaRow.name_mr; source = "row.name_mr";
   }
-  // 3. MAHA
-  else if (dKey && talukaRow.name_en) {
+  // 3. MAHA — try LGD-code join FIRST (immune to name mismatches like
+  //    GAGANBAWADA vs Bavda; both share code 4288), then name-based join
+  //    as a last resort for any row that's missing an lgd code. We pull
+  //    the code from row.lgd if present, otherwise from a trailing digit
+  //    run in taluka_id (legacy rows like "t-04288-bavda").
+  else if (dKey) {
+    const codeRaw =
+      talukaRow.lgd != null && String(talukaRow.lgd).trim()
+        ? talukaRow.lgd
+        : lgdCodeFromRow(talukaRow);
+    const entry = findTalukaEntryByLgdCode(dKey, codeRaw);
+    if (entry && entry.local && entry.local.trim()) {
+      result = entry.local; source = "maha-byCode";
+    }
+  }
+  if (result === fallback && dKey && talukaRow.name_en) {
     const entry = findTalukaEntry(dKey, talukaRow.name_en);
     if (entry && entry.local && entry.local.trim()) {
       result = entry.local; source = "maha";
@@ -513,9 +554,20 @@ export function getVillageDisplayNameRow(
   if (result === fallback && villageRow.name_mr && villageRow.name_mr.trim()) {
     result = villageRow.name_mr; source = "row.name_mr";
   }
-  // 4. MAHA villages by taluka code
-  if (result === fallback && dKey && talukaRow?.name_en && villageRow.name_en) {
-    const tCode = getTalukaCode(dKey, talukaRow.name_en);
+  // 4. MAHA villages by taluka code. We prefer the LGD code from the
+  //    taluka row (authoritative, immune to name mismatches like
+  //    GAGANBAWADA↔Bavda) and only fall back to a name-based join when
+  //    the taluka row doesn't carry an lgd code.
+  if (result === fallback && dKey && villageRow.name_en) {
+    let tCode: number | null = null;
+    const lgdRaw = talukaRow?.lgd;
+    if (lgdRaw != null && String(lgdRaw).trim()) {
+      const num = parseInt(String(lgdRaw), 10);
+      if (Number.isFinite(num) && num > 0) tCode = num;
+    }
+    if (tCode == null && talukaRow?.name_en) {
+      tCode = getTalukaCode(dKey, talukaRow.name_en);
+    }
     if (tCode != null && VILLAGE_CACHE) {
       const list = VILLAGE_CACHE[String(tCode)];
       if (list) {
