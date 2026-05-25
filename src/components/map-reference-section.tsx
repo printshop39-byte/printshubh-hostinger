@@ -1474,71 +1474,50 @@ export function MapReferenceSection() {
     [districts, form.district_id],
   );
 
-  /* ── District canonicalisation (display-only) ─────────────────────────
+  /* ── District dropdown dedup (display-only) ───────────────────────────
    *
-   * districts.json has a few accidental duplicates — most visibly TWO
-   * rows labelled "CHHATRAPATI SAMBHAJINAGAR" (LGD 515 = the real one,
-   * LGD 499 = an orphan with just "Kannad" under it). The previous
-   * LGD-code-only dedup missed this because the codes differ; the rows
-   * collide only on the displayed Marathi label.
+   * districts.json has accidental duplicates — most visibly TWO rows
+   * labelled "CHHATRAPATI SAMBHAJINAGAR" (LGD 515 = real, LGD 499 = an
+   * orphan with just "Kannad" under it). The user-facing rule is:
+   *   - English mode: keep the original list, exact labels (1-to-1 from
+   *     dropdown JSON, never altered).
+   *   - Marathi mode: if two rows render the SAME Marathi label, show
+   *     only the first one. Later duplicates are hidden.
    *
-   * Strategy (display-layer only, no data mutation):
-   *   1. getCanonicalDistrictKey() maps every Aurangabad/Sambhajinagar
-   *      variant — and the LGD-515 row — to one canonical key
-   *      "chhatrapati-sambhajinagar". Other districts use their own
-   *      slug, so unrelated rows never collide.
-   *   2. We then build a Set key of `canonical|labelKey` where labelKey
-   *      is the user-visible label (Marathi when lang=mr, district_id
-   *      otherwise) with whitespace stripped. First row with a given
-   *      composite key wins; later duplicates are hidden.
-   *   3. The currently-selected row is ALWAYS kept visible, even if
-   *      it would otherwise be deduped — so a stored form.district_id
-   *      pointing to a hidden sibling never breaks the UI.
+   * Selected row is always kept visible — if the user has somehow stored
+   * a hidden sibling's district_id, the <select> still has a matching
+   * <option> so their selection round-trips correctly.
    *
-   * Important: LGD-499 stays its own row in the data (we don't delete),
-   * but Marathi mode collapses it under the canonical Sambhajinagar in
-   * the dropdown. English mode also collapses it because its name_en
-   * matches the canonical row's name_en exactly. */
-  function getCanonicalDistrictKey(
-    d: DistrictRow & { lgd?: string | null },
-  ): string {
-    const raw = String(d.district_id || d.name_en || "").toLowerCase();
-    const lgdCode = String(d.lgd ?? "").trim();
-    if (
-      raw.includes("aurangabad") ||
-      raw.includes("sambhajinagar") ||
-      lgdCode === "515"
-    ) {
-      return "chhatrapati-sambhajinagar";
-    }
-    return raw || `lgd-${lgdCode}`;
-  }
-
-  /** labelKey is the user-visible label collapsed of whitespace so two
-   * rows with the *same display label* (Marathi or English) but
-   * different slugs still get caught by the dedup. In Marathi mode this
-   * is the localised name; in English mode it's the cleaned title-cased
-   * English name. */
-  function dropdownLabelKey(d: DistrictRow): string {
-    const label = displayDistrictName(d, lang);
-    return (label || "").replace(/\s+/g, "").toLowerCase();
-  }
-
+   * No source data is mutated; talukas / villages under hidden rows
+   * remain fully reachable via direct URL or state, just not picked from
+   * the dropdown. */
   const visibleDistricts = useMemo(() => {
     const seen = new Set<string>();
+    const hiddenLabels: string[] = [];
     const out = districts.filter((d) => {
-      // Never hide the row the user has already selected — that would
-      // make the <select> render an empty value and confuse them.
+      // Always keep the selected row — never yank it from under the user.
       if (selectedDistrictRow?.district_id === d.district_id) {
-        // Reserve this canonical+label slot so any sibling rows further
-        // down still get hidden.
-        seen.add(getCanonicalDistrictKey(d) + "|" + dropdownLabelKey(d));
+        if (lang === "mr") {
+          const key = displayDistrictName(d, "mr")
+            .replace(/\s+/g, "")
+            .trim()
+            .toLowerCase();
+          seen.add(key);
+        }
         return true;
       }
-      const canonicalKey =
-        getCanonicalDistrictKey(d) + "|" + dropdownLabelKey(d);
-      if (seen.has(canonicalKey)) return false;
-      seen.add(canonicalKey);
+      // English mode: no dedup. Each row passes through as-is.
+      if (lang !== "mr") return true;
+      const key = displayDistrictName(d, "mr")
+        .replace(/\s+/g, "")
+        .trim()
+        .toLowerCase();
+      if (!key) return true; // empty label → keep, can't dedup safely
+      if (seen.has(key)) {
+        hiddenLabels.push(displayDistrictName(d, "mr"));
+        return false;
+      }
+      seen.add(key);
       return true;
     });
 
@@ -1548,10 +1527,12 @@ export function MapReferenceSection() {
       /[?&]debugLgd=1\b/.test(window.location?.search ?? "")
     ) {
       // eslint-disable-next-line no-console
-      console.log("[districts visible]", {
+      console.log("[district dedup]", {
+        lang,
         total: districts.length,
         visible: out.length,
         hidden: districts.length - out.length,
+        hiddenLabels,
       });
     }
 

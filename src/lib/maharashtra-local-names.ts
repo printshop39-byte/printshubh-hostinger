@@ -714,10 +714,13 @@ export function getVillageDisplayNameRow(
     console.log("[MR fallback]", {
       districtId: districtRow?.district_id ?? "",
       districtEn: districtRow?.name_en ?? "",
+      districtKey: dKey,
       talukaId: talukaRow?.taluka_id ?? "",
       talukaEn: talukaRow?.name_en ?? "",
+      talukaLgd: talukaRow?.lgd ?? "",
       villageId: villageRow.village_id ?? "",
       villageEn: villageRow.name_en ?? "",
+      lgdCode: vCode,
       attemptedKeys,
       sameTalukaCandidateSample: mahaCandidates,
     });
