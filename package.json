@@ -7,7 +7,8 @@
     "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint",
-    "build-lgd": "node scripts/build-lgd-local-names.mjs"
+    "build-lgd": "node scripts/build-lgd-local-names.mjs",
+    "report-marathi": "node scripts/report-marathi-missing.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

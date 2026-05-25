@@ -38,9 +38,22 @@ export const KNOWN_NAME_FIXES: Record<string, string> = {
   // someone scanning the file can see the empty case was deliberate.
 };
 
-/* ── district_id → fallback English (only when name_en is empty) ──────────── */
+/* ── district_id → fallback English ───────────────────────────────────────
+ * Used in two places:
+ *   1. When DistrictRow.name_en is empty (LGD 503 / Amravati was the original
+ *      case).
+ *   2. As a secondary key inside the MAHA / LGD lookup chain when the raw
+ *      name_en is byte-corrupted (e.g. KOLH>PUR — see KNOWN_NAME_FIXES).
+ *      The slug is the canonical key in /public/data/dropdowns/, so any
+ *      district that appears there must have an entry below for the
+ *      localization helpers to find a clean English form. */
 export const DISTRICT_ID_FALLBACK_EN: Record<string, string> = {
   "d-503": "AMRAVATI",
+  "kolh-pur": "KOLHAPUR",
+  "n-nded": "NANDED",
+  "nandurb-r": "NANDURBAR",
+  "n-shik": "NASHIK",
+  "s-t-ra": "SATARA",
 };
 
 /* ── Marathi names for every Maharashtra district ────────────────────────────

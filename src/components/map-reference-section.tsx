@@ -1473,6 +1473,42 @@ export function MapReferenceSection() {
     () => districts.find((d) => d.district_id === form.district_id),
     [districts, form.district_id],
   );
+
+  /* ── District canonicalisation (display-only) ─────────────────────────
+   *
+   * districts.json has a few accidental duplicates that share an LGD code
+   * or display name — most visibly LGD 499 (an orphan "Kannad-only" row
+   * still labelled CHHATRAPATI SAMBHAJINAGAR) alongside the real LGD 515
+   * row. We don't want to delete data, but we don't want the dropdown to
+   * show the same district twice either. So at render time we dedup by
+   * canonical id: first district_id wins, all later siblings are hidden.
+   *
+   * The canonical id is the row's LGD code when present (stable across
+   * renames), otherwise the lowercased name_en, otherwise the slug itself.
+   * If the user has somehow stored form.district_id pointing to a hidden
+   * sibling, we still keep that row visible so their selection survives a
+   * rerender. */
+  const visibleDistricts = useMemo(() => {
+    const seen = new Map<string, string>(); // canonicalKey → first district_id
+    const out: DistrictRow[] = [];
+    for (const d of districts) {
+      const lgdRaw = (d as DistrictRow & { lgd?: string | null }).lgd;
+      const canonical = lgdRaw
+        ? `lgd-${String(lgdRaw).trim()}`
+        : `n-${(d.name_en ?? "").toUpperCase().replace(/[^A-Z]/g, "")}` ||
+          `id-${d.district_id}`;
+      const winner = seen.get(canonical);
+      if (winner == null) {
+        seen.set(canonical, d.district_id);
+        out.push(d);
+      } else if (d.district_id === form.district_id) {
+        // Keep the currently-selected sibling visible so we don't yank it
+        // out from under the user mid-render.
+        out.push(d);
+      }
+    }
+    return out;
+  }, [districts, form.district_id]);
   const selectedTalukaRow = useMemo(
     () => talukas.find((t) => t.taluka_id === form.taluka_id),
     [talukas, form.taluka_id],
@@ -1977,7 +2013,7 @@ export function MapReferenceSection() {
                       className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
                     >
                       <option value="">— {tx.chooseDistrict} —</option>
-                      {districts.map((d) => (
+                      {visibleDistricts.map((d) => (
                         <option key={d.district_id} value={d.district_id}>
                           {displayDistrictName(d, lang)}
                         </option>

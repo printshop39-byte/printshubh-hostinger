@@ -122,26 +122,47 @@ function normName(raw: string): string {
   return raw.toLowerCase().replace(/[^a-z0-9]+/g, "");
 }
 
+/** Strict-but-safe relaxation. Only collapses variations that are
+ * **provably the same village** — never a "contains" substring trick.
+ *
+ *   - Drop admin-status tags in parens: (CT), (M Corp), (MC), (M.C),
+ *     (NP), (N.P), (NA), (OG), (CB), (M), (PH), (N.V), (NV), (Cantt),
+ *     (Notified Village), (Out Growth).
+ *   - Bk. / Bk / Budruk → bk
+ *   - Kh. / Kh / Khurd → kh
+ *   - Marathi suffix vadi → wadi (always a stem-glued suffix).
+ *   - Numeric ordinals: "No. 1" / "No 1" / "Number 1" / "नं. 1" /
+ *     "नं 1" / "क्र. 1" / "क्र 1" → "no1"  (Khatgaon No. 1 ↔ Khatgaon-No1
+ *     ↔ Khatgaon नं. 1 all collapse).
+ *
+ * Devanagari is lowercased to itself (no-op) by .toLowerCase().
+ */
 function normNameRelaxed(raw: string): string {
   if (!raw) return "";
   return raw
     .toLowerCase()
-    // Drop common administrative-status tags in parens. Includes dotted
-    // forms (n.v, n. v, m.c) that MAHA villages use like
-    //   "Patilwadi (N.V)" / "Balewadi (N. V)".
+    // Drop common administrative-status tags in parens.
     .replace(
       /\((?:ct|mcorp|m\s*corp|mc|m\.?\s*c\.?|np|n\.?\s*p\.?|na|n\.?\s*a\.?|og|o\.?\s*g\.?|cb|c\.?\s*b\.?|m|ph|nv|n\.?\s*v\.?|cantt|out\s*growth|outgrowth|notified\s*village)\)/gi,
       "",
     )
+    // Numeric ordinals — English first, then Marathi shorthand.
+    // Order matters: do this BEFORE the alphanumeric strip so the
+    // remaining digits stay attached to "no".
+    .replace(/\b(?:no\.?|number)\s*(\d+)/gi, "no$1")
+    .replace(/नं\.?\s*(\d+)/g, "no$1")
+    .replace(/क्र\.?\s*(\d+)/g, "no$1")
     // Unify suffix family: word boundary so "bkrishna" is untouched.
     .replace(/\b(bk\.?|budruk)\b/gi, "bk")
+    .replace(/बु\.?/g, "bk")
     .replace(/\b(kh\.?|khurd)\b/gi, "kh")
+    .replace(/खु\.?/g, "kh")
     // Marathi suffix family: vadi → wadi (always a suffix in village names
     // like "Padawalvadi" / "Padawalwadi"; no word boundary on the left
     // because it's glued onto the preceding stem).
     .replace(/vadi\b/gi, "wadi")
     // Now strip everything else.
-    .replace(/[^a-z0-9]+/g, "");
+    .replace(/[^a-z0-9ऀ-ॿ]+/g, "");
 }
 
 /* ── Taluka lookup ───────────────────────────────────────────────── */
@@ -568,16 +589,23 @@ export function getVillageDisplayNameRow(
   //    GAGANBAWADA↔Bavda) and only fall back to a name-based join when
   //    the taluka row doesn't carry an lgd code.
   //
-  //    Matching ladder inside the taluka's village list:
-  //      a) strict  — alphanumeric-only equality
-  //      b) relaxed — drops (N.V)/(CT) tags, collapses Kh./Bk./vadi/wadi
-  //      c) contains/startsWith — last-resort within the same taluka,
-  //         e.g. dropdown "Patilwadi" matches MAHA "Patilwadi (N.V)"
-  //         even if the tag-strip ever misses a new variant.
+  //    Match ladder INSIDE the taluka's village list — order matters
+  //    because each rung is a stricter→looser canonical join, never a
+  //    broad substring guess:
   //
-  //    Source labels propagate to console: "maha" / "maha-relaxed" /
-  //    "maha-contains". On a true miss we log up to 5 candidate names
-  //    from the same taluka so we can eyeball what the data looked like.
+  //      a) strict  — alphanumeric-only equality.
+  //      b) relaxed — drops (N.V)/(CT)/(M Corp) tags, collapses
+  //                   Kh./Bk./Budruk/Khurd/बु./खु., vadi↔wadi, English
+  //                   and Marathi ordinals "No. 1"/"नं. 1" → "no1".
+  //      c) gated startsWith — only if EXACTLY ONE candidate in the same
+  //                   taluka starts with the relaxed dropdown stem AND
+  //                   length difference is ≤ 4 chars (catches harmless
+  //                   tag suffix variants we haven't enumerated, refuses
+  //                   broad partial matches like "Patil" → "Patilwadi"
+  //                   that could land on the wrong village).
+  //
+  //    On a true miss we log up to 5 candidate names from the same taluka
+  //    so the miss diagnostics show why it missed.
   let mahaCandidates: string[] = []; // for miss diagnostics only
   if (result === fallback && dKey && villageRow.name_en) {
     let tCode: number | null = null;
@@ -599,32 +627,32 @@ export function getVillageDisplayNameRow(
         let match = list.find((v) => normName(v.n) === wantStrict);
         let matchSource: string = "maha";
 
-        // b) relaxed
+        // b) safe-relaxed (only tag/suffix collapses)
         if (!match) {
           match = list.find((v) => normNameRelaxed(v.n) === wantRelaxed);
           if (match) matchSource = "maha-relaxed";
         }
 
-        // c) contains/startsWith on the relaxed key — only if both
-        //    sides are long enough that we won't paint with a giant brush
-        //    (3 chars is the smallest meaningful Indian village stem).
-        if (!match && wantRelaxed.length >= 3) {
-          match = list.find((v) => {
+        // c) GATED startsWith — same taluka (already enforced by
+        //    operating inside `list`), exactly one candidate, length
+        //    difference ≤ 4 chars. We deliberately do NOT do a generic
+        //    .includes() — that would let "Patil" match "Patilwadi"
+        //    incorrectly. The gate keeps us conservative: when there's
+        //    one and only one nearby candidate that this dropdown stem
+        //    is a prefix of (e.g. "Khatgaon" → "Khatgaon No 1" when the
+        //    ordinal stripper hasn't fired for some reason), accept it;
+        //    otherwise fall through to English.
+        if (!match && wantRelaxed.length >= 4) {
+          const candidates = list.filter((v) => {
             const cand = normNameRelaxed(v.n);
-            if (cand.length < 3) return false;
-            // startsWith covers "Patilwadi" → "Patilwadi (N.V)" once tags
-            // are off; contains catches "Patilwadi" inside e.g. a longer
-            // composite "Patilwadi Tarf X". We weigh startsWith first to
-            // avoid matching a substring on a totally different stem.
+            if (cand.length < 4) return false;
+            if (Math.abs(cand.length - wantRelaxed.length) > 4) return false;
             return cand.startsWith(wantRelaxed) || wantRelaxed.startsWith(cand);
           });
-          if (!match) {
-            match = list.find((v) => {
-              const cand = normNameRelaxed(v.n);
-              return cand.length >= 3 && cand.includes(wantRelaxed);
-            });
+          if (candidates.length === 1) {
+            match = candidates[0];
+            matchSource = "maha-prefix-1of1";
           }
-          if (match) matchSource = "maha-contains";
         }
 
         if (match && match.l && match.l.trim()) {
@@ -662,6 +690,38 @@ export function getVillageDisplayNameRow(
     source,
     result,
   });
+
+  // Explicit per-miss log requested by Sagar — emits a stable
+  //   "[MR fallback]" line you can grep in DevTools to find every
+  // village that didn't resolve. Fires only when we actually fell back
+  // to English AND debug logging is enabled.
+  if (DEBUG_ON && source === "fallback-en") {
+    const attemptedKeys: string[] = [];
+    if (vCode) attemptedKeys.push(`lgd-byVillageCode:${vCode}`);
+    if (dKey && talukaRow?.name_en && villageRow.name_en) {
+      const tS = normName(talukaRow.name_en);
+      const tR = normNameRelaxed(talukaRow.name_en);
+      const vS = normName(villageRow.name_en);
+      const vR = normNameRelaxed(villageRow.name_en);
+      attemptedKeys.push(`lgd-byName:${dKey}|${tS}|${vS}`);
+      if (tR !== tS || vR !== vS) {
+        attemptedKeys.push(`lgd-byName-relaxed:${dKey}|${tR}|${vR}`);
+      }
+      attemptedKeys.push(`maha-byTalukaCode:strict:${vS}`);
+      if (vR !== vS) attemptedKeys.push(`maha-byTalukaCode:relaxed:${vR}`);
+    }
+    // eslint-disable-next-line no-console
+    console.log("[MR fallback]", {
+      districtId: districtRow?.district_id ?? "",
+      districtEn: districtRow?.name_en ?? "",
+      talukaId: talukaRow?.taluka_id ?? "",
+      talukaEn: talukaRow?.name_en ?? "",
+      villageId: villageRow.village_id ?? "",
+      villageEn: villageRow.name_en ?? "",
+      attemptedKeys,
+      sameTalukaCandidateSample: mahaCandidates,
+    });
+  }
 
   return result;
 }
