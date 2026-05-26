@@ -1,7 +1,7 @@
-﻿"use client";
+"use client";
 
 /**
- * VillageMap (patched v4 — pure client component)
+ * VillageMap (patched v5 — handler-driven resets)
  *
  * - No imports of @/lib/village-data, node:fs, or node:path.
  * - All data fetched via browser fetch() from /data/* static JSON.
@@ -9,6 +9,18 @@
  * - WhatsApp button enabled as soon as district + taluka + village picked.
  * - Map layer add waits for MapLibre "load" event.
  * - Marathi-first name fallback ensures dropdowns are never blank.
+ *
+ * Why this version (v5):
+ *   The previous version cleared downstream state (talukas/villages/feature)
+ *   synchronously *inside* the effect that fetched the next layer. ESLint's
+ *   react-hooks/set-state-in-effect rule flags that pattern because it
+ *   creates avoidable re-renders and obscures the data-flow.
+ *
+ *   The fix: every "user picked something" reset is now performed inside the
+ *   `handleSelect*` callbacks (where the change actually originates), and
+ *   effects do nothing but FETCH + STORE the data they own. If the parent
+ *   inputs are missing, the effect simply does not run (or fetches nothing
+ *   and stores nothing) — no other state is touched.
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
@@ -146,80 +158,94 @@ export function VillageMap() {
   const [loading, setLoading] = useState(false);
   const [fetchError, setFetchError] = useState<string | null>(null);
 
+  /* ── Districts: load once per language change ───────────────────────── */
   useEffect(() => {
+    let cancelled = false;
     fetch("/data/dropdowns/districts.json")
       .then((r) => r.json())
       .then((rows: DistrictRow[]) => {
+        if (cancelled) return;
         rows.sort((a, b) => nameOf(a, lang).localeCompare(nameOf(b, lang)));
         setDistricts(rows);
         console.debug("[VillageMap] districts loaded:", rows.length);
       })
       .catch((e) => {
+        if (cancelled) return;
         console.error("[VillageMap] districts fetch failed:", e);
         setDistricts([]);
       });
+    return () => {
+      cancelled = true;
+    };
   }, [lang]);
 
+  /* ── Talukas: fetch when districtId changes ─────────────────────────
+   *
+   * IMPORTANT: this effect only WRITES `talukas` (and only when a fetch
+   * succeeds). Resets of `talukaId`/`villages`/`villageId`/`feature` live
+   * in handleSelectDistrict(), not here — that keeps the effect free of
+   * downstream-state mutations and satisfies react-hooks/set-state-in-
+   * effect. */
   useEffect(() => {
-    if (!districtId) {
-      setTalukas([]);
-      setTalukaId("");
-      return;
-    }
+    if (!districtId) return;
+    let cancelled = false;
     const url = `/data/dropdowns/talukas/${encodeURIComponent(districtId)}.json`;
     fetch(url)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
       .then((rows: TalukaRow[]) => {
+        if (cancelled) return;
         rows.sort((a, b) => nameOf(a, lang).localeCompare(nameOf(b, lang)));
         setTalukas(rows);
         console.debug("[VillageMap] talukas loaded:", rows.length, "from", url);
       })
       .catch((e) => {
+        if (cancelled) return;
         console.error("[VillageMap] talukas fetch failed:", url, e);
         setTalukas([]);
       });
-    setTalukaId("");
-    setVillages([]);
-    setVillageId("");
-    setFeature(null);
-    setFetchError(null);
+    return () => {
+      cancelled = true;
+    };
   }, [districtId, lang]);
 
+  /* ── Villages: fetch when (districtId, talukaId) change.
+   * Same handler-driven reset rule as above. */
   useEffect(() => {
-    if (!districtId || !talukaId) {
-      setVillages([]);
-      setVillageId("");
-      return;
-    }
+    if (!districtId || !talukaId) return;
+    let cancelled = false;
     const url = `/data/dropdowns/villages/${encodeURIComponent(districtId)}/${encodeURIComponent(talukaId)}.json`;
     fetch(url)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
       .then((rows: VillageRow[]) => {
+        if (cancelled) return;
         rows.sort((a, b) => nameOf(a, lang).localeCompare(nameOf(b, lang)));
         setVillages(rows);
         console.debug("[VillageMap] villages loaded:", rows.length, "from", url);
       })
       .catch((e) => {
+        if (cancelled) return;
         console.error("[VillageMap] villages fetch failed:", url, e);
         setVillages([]);
       });
-    setVillageId("");
-    setFeature(null);
-    setFetchError(null);
+    return () => {
+      cancelled = true;
+    };
   }, [districtId, talukaId, lang]);
 
+  /* ── Boundary feature: fetch when (districtId, talukaId, villageId, villages) change.
+   *
+   * Reset of `feature` to null when a parent id is missing now happens in
+   * handleSelectDistrict()/handleSelectTaluka()/handleSelectVillage(),
+   * not here. If we land in this effect without a full triple, we just
+   * exit — no setState calls. */
   useEffect(() => {
-    if (!districtId || !talukaId || !villageId) {
-      setFeature(null);
-      setFetchError(null);
-      return;
-    }
+    if (!districtId || !talukaId || !villageId) return;
     const selected = villages.find((v) => v.village_id === villageId);
     if (!selected) {
       console.warn("[VillageMap] selected village_id not in villages list:", villageId);
-      setFeature(null);
       return;
     }
+    let cancelled = false;
     const url =
       selected.boundary_file ||
       `/data/boundaries/villages/${encodeURIComponent(districtId)}/${encodeURIComponent(talukaId)}.geojson`;
@@ -239,6 +265,7 @@ export function VillageMap() {
         return r.json() as Promise<BoundaryFC>;
       })
       .then((fc) => {
+        if (cancelled) return;
         console.debug("[VillageMap] taluka feature count:", fc.features?.length);
         const match = (fc.features || []).find(
           (f) => f.properties.village_id === villageId,
@@ -259,11 +286,15 @@ export function VillageMap() {
         setLoading(false);
       })
       .catch((e) => {
+        if (cancelled) return;
         console.error("[VillageMap] boundary fetch failed:", url, e);
         setFeature(null);
         setFetchError(tx.fetchError);
         setLoading(false);
       });
+    return () => {
+      cancelled = true;
+    };
   }, [districtId, talukaId, villageId, villages, tx.fetchError]);
 
   useEffect(() => {
@@ -390,17 +421,42 @@ export function VillageMap() {
     return `https://wa.me/918625801907?text=${encodeURIComponent(msg)}`;
   }, [waEnabled, district, taluka, village, centroid, lang, tx]);
 
+  /* ── Handler-driven resets ───────────────────────────────────────────
+   *
+   * Each select handler is the single point where we clear downstream
+   * state. This pulls the reset logic OUT of the data-fetching effects
+   * (which previously violated react-hooks/set-state-in-effect) and into
+   * the change-event source — easier to read, easier to test, lint-clean.
+   */
   const handleSelectDistrict = useCallback((id: string) => {
     console.debug("[VillageMap] selected district:", id);
     setDistrictId(id);
+    // Picking a new district invalidates everything downstream.
+    setTalukas([]);
+    setTalukaId("");
+    setVillages([]);
+    setVillageId("");
+    setFeature(null);
+    setFetchError(null);
   }, []);
   const handleSelectTaluka = useCallback((id: string) => {
     console.debug("[VillageMap] selected taluka:", id);
     setTalukaId(id);
+    // Picking a new taluka invalidates villages + feature only.
+    setVillages([]);
+    setVillageId("");
+    setFeature(null);
+    setFetchError(null);
   }, []);
   const handleSelectVillage = useCallback((id: string) => {
     console.debug("[VillageMap] selected village:", id);
     setVillageId(id);
+    if (!id) {
+      // User cleared the village picker (chose the "—" option) — drop the
+      // currently highlighted boundary so the map matches the form.
+      setFeature(null);
+      setFetchError(null);
+    }
   }, []);
 
   return (
@@ -508,7 +564,7 @@ export function VillageMap() {
               </div>
             )}
 
-            
+
             <a
               href={waEnabled ? waHref : undefined}
               target="_blank"

@@ -461,7 +461,6 @@ function debugLog(payload: Record<string, unknown>) {
   ]);
   if (_debugSeen.has(sig)) return;
   _debugSeen.add(sig);
-  // eslint-disable-next-line no-console
   console.log("[LGD]", payload);
 }
 
@@ -472,7 +471,6 @@ function logDatasetsReady() {
   if (_datasetLogOnce || !DEBUG_ON) return;
   if (LGD_CACHE === null && VILLAGE_CACHE === null) return;
   _datasetLogOnce = true;
-  // eslint-disable-next-line no-console
   console.log("[LGD data loaded]", {
     lgdTalukaKeys: LGD_CACHE ? Object.keys(LGD_CACHE.talukas).length : 0,
     lgdByNameKeys: LGD_CACHE ? Object.keys(LGD_CACHE.byName).length : 0,
@@ -710,7 +708,6 @@ export function getVillageDisplayNameRow(
       attemptedKeys.push(`maha-byTalukaCode:strict:${vS}`);
       if (vR !== vS) attemptedKeys.push(`maha-byTalukaCode:relaxed:${vR}`);
     }
-    // eslint-disable-next-line no-console
     console.log("[MR fallback]", {
       districtId: districtRow?.district_id ?? "",
       districtEn: districtRow?.name_en ?? "",

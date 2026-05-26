@@ -1,0 +1,12 @@
+# PrintShubh — Marathi-first Maharashtra land documents assistance
+# https://www.printshubh.shop/
+
+User-agent: *
+Allow: /
+
+# Disallow build artefacts / Next.js internal endpoints — these aren't
+# user-facing pages and shouldn't show up in search.
+Disallow: /_next/
+Disallow: /api/
+
+Sitemap: https://www.printshubh.shop/sitemap.xml
