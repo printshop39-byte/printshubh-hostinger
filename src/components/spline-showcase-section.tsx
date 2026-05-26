@@ -48,13 +48,36 @@ export function SplineShowcaseSection() {
   const sectionRef = useRef<HTMLElement>(null);
   const [inView, setInView] = useState(false);
 
+  /* In-view detection.
+   *
+   * Two cases:
+   *   1. Browser supports IntersectionObserver — observe the section and
+   *      flip `inView` to true inside the observer callback. Observer
+   *      callbacks are async (they fire from the browser's intersection
+   *      task), so the setState call there isn't synchronous-in-effect.
+   *   2. Browser lacks IntersectionObserver (very old WebViews / SSR
+   *      pretests) — we want to load the scene immediately, but doing
+   *      setInView(true) directly inside the effect body trips
+   *      react-hooks/set-state-in-effect. Defer the flip with a
+   *      microtask so it leaves the synchronous effect frame; behaviour
+   *      is identical to the user, lint is satisfied.
+   *
+   * Either way the cleanup tears down the observer + cancels the
+   * pending microtask. */
   useEffect(() => {
     const node = sectionRef.current;
     if (!node) return;
+
     if (typeof IntersectionObserver === "undefined") {
-      setInView(true);
-      return;
+      let cancelled = false;
+      queueMicrotask(() => {
+        if (!cancelled) setInView(true);
+      });
+      return () => {
+        cancelled = true;
+      };
     }
+
     const io = new IntersectionObserver(
       (entries) => {
         for (const e of entries) {

@@ -234,10 +234,17 @@ export function VillageMap() {
 
   /* ── Boundary feature: fetch when (districtId, talukaId, villageId, villages) change.
    *
-   * Reset of `feature` to null when a parent id is missing now happens in
-   * handleSelectDistrict()/handleSelectTaluka()/handleSelectVillage(),
-   * not here. If we land in this effect without a full triple, we just
-   * exit — no setState calls. */
+   * Reset of `feature` to null when a parent id is missing happens in
+   * handleSelectDistrict() / handleSelectTaluka() / handleSelectVillage()
+   * — not here. The pre-fetch loading-flag and error-clear also live in
+   * handleSelectVillage(): that's the user-action moment when the fetch
+   * is conceptually starting, and ESLint's react-hooks/set-state-in-
+   * effect rule (correctly) doesn't want loading/error toggles
+   * synchronously inside the effect body.
+   *
+   * What's left in this effect: kick off the fetch, then resolve
+   * loading/feature/fetchError inside the async .then/.catch — those
+   * callbacks run in a later microtask, so the rule allows them. */
   useEffect(() => {
     if (!districtId || !talukaId || !villageId) return;
     const selected = villages.find((v) => v.village_id === villageId);
@@ -257,8 +264,6 @@ export function VillageMap() {
       url,
     });
 
-    setLoading(true);
-    setFetchError(null);
     fetch(url)
       .then((r) => {
         if (!r.ok) throw new Error("HTTP " + r.status + " from " + url);
@@ -456,7 +461,16 @@ export function VillageMap() {
       // currently highlighted boundary so the map matches the form.
       setFeature(null);
       setFetchError(null);
+      setLoading(false);
+      return;
     }
+    // Kick off the loading UX here, in the user-action source — the
+    // boundary-fetch effect (driven by [districtId, talukaId, villageId])
+    // will resolve loading/feature in its async .then. Doing the
+    // pre-fetch flip in the handler keeps the effect body free of
+    // synchronous setState calls (react-hooks/set-state-in-effect).
+    setLoading(true);
+    setFetchError(null);
   }, []);
 
   return (
