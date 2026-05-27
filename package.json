@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
-    "start": "next start -p ${PORT:-3000}",
+    "start": "node scripts/start-next.mjs",
     "lint": "eslint",
     "build-lgd": "node scripts/build-lgd-local-names.mjs",
     "report-marathi": "node scripts/report-marathi-missing.mjs"
