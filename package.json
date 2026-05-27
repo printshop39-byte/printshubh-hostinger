@@ -2,10 +2,13 @@
   "name": "printshubh-shop",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18.18.0"
+  },
   "scripts": {
     "dev": "next dev --webpack",
     "build": "next build --webpack",
-    "start": "next start",
+    "start": "next start -p ${PORT:-3000}",
     "lint": "eslint",
     "build-lgd": "node scripts/build-lgd-local-names.mjs",
     "report-marathi": "node scripts/report-marathi-missing.mjs"
