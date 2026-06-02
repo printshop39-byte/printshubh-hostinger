@@ -25,14 +25,14 @@ const t: Record<Lang, {
   govDisclaimer: string;
 }> = {
   mr: {
-    badge: "महाराष्ट्रासाठी मराठी-प्रथम डिजिटल सेवा",
+    badge: "महाराष्ट्रासाठी प्रॉपर्टी रिपोर्ट डिजिटल सेवा",
     h1: "प्रॉपर्टी रिपोर्ट सेवा",
     subheadline:
-      "7/12, 8A, गाव नकाशा, फेरफार आणि जमीन अहवालासाठी महाराष्ट्र डिजिटल सेवा उपलब्ध.",
+      "7/12, 8A, गाव नकाशा, फेरफार आणि जमीन अहवालासाठी महाराष्ट्रभर डिजिटल सेवा उपलब्ध.",
     cta1: "सेवा निवडा",
     cta2: "WhatsApp वर विचारा",
     trustLine:
-      "मागील ३० वर्षांपासून नकाशे, जमीन अभिलेख आणि सरकारी कागदपत्र प्रक्रियेचा अनुभव असलेल्या टीमकडून महाराष्ट्रासाठी विश्वासार्ह सहाय्य.",
+      "मागील ३० वर्षांपासून नकाशे, जमीन अभिलेख आणि सरकारी कागदपत्र प्रक्रियेचा अनुभव असलेल्या टीमकडून महाराष्ट्रासाठी विश्वासार्ह डिजिटल सेवा.",
     trustItems: [
       "सोपी प्रक्रिया",
       "WhatsApp वर PDF",
@@ -45,19 +45,19 @@ const t: Record<Lang, {
       "PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित खाजगी सहाय्य सेवा प्रदान करतो.",
   },
   en: {
-    badge: "Marathi-first Land Digital Service for Maharashtra",
-    h1: "Maharashtra-wide assistance for Village Map, 7/12 Extract and DP Map",
+    badge: "Maharashtra Property Report Digital Service",
+    h1: "Property Report Service",
     subheadline:
-      "Drop a pin on the map, get latitude/longitude — get assistance for 7/12, 8A, Village Map, Mutation, Property Card and Land Report via WhatsApp.",
+      "Digital service across Maharashtra for 7/12, 8A, village map, mutation, property card and land report.",
     cta1: "Choose Service",
     cta2: "Ask on WhatsApp",
     trustLine:
-      "Trusted assistance for Maharashtra, backed by 30 years of experience in maps, land records, and government document workflows.",
+      "Trusted digital service for Maharashtra, backed by 30 years of experience in maps, land records, and government document workflows.",
     trustItems: [
       "Simple Process",
       "PDF on WhatsApp",
       "Service Across Maharashtra",
-      "Assistance Based on Official Sources",
+      "Digital Service Based on Official Sources",
     ],
     whatsappMessage: "I need help with land document services",
     cta1Href: "#map-reference",
