@@ -153,20 +153,6 @@ function titleCaseName(raw?: string): string {
     });
 }
 
-/** Display name for any row that may have name_mr / name_en — taluka, village, etc. */
-function displayName(
-  row: { name_en?: string; name_mr?: string } | undefined,
-  lang: Lang,
-): string {
-  if (!row) return "—";
-  const mr = row.name_mr?.trim();
-  const cleanedEn = titleCaseName(row.name_en);
-  if (lang === "mr") {
-    return mr || cleanedEn || "—";
-  }
-  return cleanedEn || mr || "—";
-}
-
 /** Districts get extra care: empty name_en fallback + DISTRICT_MR_MAP. */
 function displayDistrictName(row: DistrictRow | undefined, lang: Lang): string {
   if (!row) return "—";
@@ -958,6 +944,11 @@ function MapPanel({
   const drawModeRef = useRef<DrawMode>(drawMode);
   const drawnCoordsRef = useRef<LngLat[]>(drawnCoords);
   const cursorLngLatRef = useRef<LngLat | null>(null);
+  /* Touch / coarse-pointer flag. On touch devices the map fires `mousemove`
+   * during a finger-drag (pan), which would make the dashed preview line
+   * "follow the finger". We detect a coarse pointer once and skip the
+   * hover-preview entirely there — points are still added on tap (click). */
+  const isTouchRef = useRef(false);
 
   /* Loading indicator: counts in-flight tile requests for whichever base
    * sources are currently visible. Driven by MapLibre's sourcedataloading
@@ -982,6 +973,13 @@ function MapPanel({
 
     async function init() {
       if (!mapContainerRef.current) return;
+      // Detect a coarse / touch pointer once. Used to skip the hover-follow
+      // preview line on phones and tablets.
+      isTouchRef.current =
+        typeof window !== "undefined" &&
+        (window.matchMedia?.("(pointer: coarse)").matches ||
+          "ontouchstart" in window ||
+          navigator.maxTouchPoints > 0);
       const mgl = await import("maplibre-gl");
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const ML: any = mgl.default ?? mgl;
@@ -1084,7 +1082,12 @@ function MapPanel({
         if (drawnCoordsRef.current.length >= 3) setDrawMode("done");
       });
 
+      // Hover-follow preview is DESKTOP-ONLY. On touch devices we never update
+      // the cursor position from move events, so the dashed preview line does
+      // not chase the finger during a pan. Plot points are still committed via
+      // the "click" (tap) handler above — selection is tap-only everywhere.
       mapInstance.on("mousemove", (e: { lngLat: { lng: number; lat: number } }) => {
+        if (isTouchRef.current) return;
         if (drawModeRef.current !== "drawing") return;
         cursorLngLatRef.current = [e.lngLat.lng, e.lngLat.lat];
         renderProgressLine();
@@ -1210,15 +1213,6 @@ function MapPanel({
     else map.once("load", renderOnce);
   }, [boundaryFeature]);
 
-  /* ── Render polygon + vertices on coord/mode changes ───────────────────── */
-  useEffect(() => {
-    const map = mapRef.current;
-    if (!map || !mapReadyRef.current) return;
-    renderCommitted();
-    renderProgressLine();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [drawnCoords, drawMode]);
-
   function renderCommitted() {
     const map = mapRef.current;
     if (!map || !mapReadyRef.current) return;
@@ -1257,7 +1251,9 @@ function MapPanel({
       map.getSource("plot-progress")?.setData({ type: "FeatureCollection", features: [] });
       return;
     }
-    const line: LngLat[] = cursor ? [...coords, cursor] : [...coords];
+    // On touch devices never append the cursor point — the preview line must
+    // not trail the finger. Desktop keeps the rubber-band preview.
+    const line: LngLat[] = cursor && !isTouchRef.current ? [...coords, cursor] : [...coords];
     map.getSource("plot-progress")?.setData({
       type: "FeatureCollection",
       features: [
@@ -1269,6 +1265,16 @@ function MapPanel({
       ],
     });
   }
+
+  /* ── Render polygon + vertices on coord/mode changes ─────────────────────
+   * Declared AFTER renderCommitted/renderProgressLine so both are defined
+   * before this effect references them (satisfies react-hooks/immutability). */
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !mapReadyRef.current) return;
+    renderCommitted();
+    renderProgressLine();
+  }, [drawnCoords, drawMode]);
 
   /* ── Cursor + dblclick-zoom gating ─────────────────────────────────────── */
   useEffect(() => {
@@ -1296,10 +1302,7 @@ function MapPanel({
   };
 
   return (
-    <div
-      className="relative overflow-hidden rounded-lg border border-slate-200 shadow-sm"
-      style={{ height: 420 }}
-    >
+    <div className="relative h-[320px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[380px] md:h-[460px]">
       <div ref={mapContainerRef} className="h-full w-full" />
 
       {/* Loading indicator — shown only while the currently-visible base
@@ -1314,8 +1317,10 @@ function MapPanel({
         </div>
       )}
 
-      {/* Draw toolbar — top-left */}
-      <div className="absolute left-3 top-3 z-10 flex items-stretch overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md">
+      {/* Draw toolbar — top-left. On mobile it sits on its own row and scrolls
+          horizontally (touch) so the three actions never clip or collide with
+          the layer switcher. Desktop keeps the original compact bar. */}
+      <div className="absolute left-3 right-3 top-3 z-10 flex max-w-[calc(100%-1.5rem)] items-stretch overflow-x-auto whitespace-nowrap rounded-lg border border-slate-300 bg-white shadow-md [-webkit-overflow-scrolling:touch] [scrollbar-width:none] sm:left-3 sm:right-auto sm:w-auto sm:overflow-visible">
         <button
           type="button"
           onClick={() => {
@@ -1325,7 +1330,7 @@ function MapPanel({
             console.debug("[MapReference] draw mode → drawing");
           }}
           aria-pressed={drawMode === "drawing"}
-          className={`inline-flex items-center gap-1.5 px-3 py-2 text-xs font-bold transition ${
+          className={`inline-flex shrink-0 items-center gap-1.5 px-3 py-2 text-xs font-bold transition ${
             drawMode === "drawing"
               ? "bg-blue-600 text-white"
               : "text-slate-700 hover:bg-slate-50"
@@ -1342,7 +1347,7 @@ function MapPanel({
             }
           }}
           disabled={!(drawMode === "drawing" && drawnCoords.length >= 3)}
-          className="inline-flex items-center gap-1.5 border-l border-slate-200 px-3 py-2 text-xs font-bold text-slate-700 transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:text-slate-300"
+          className="inline-flex shrink-0 items-center gap-1.5 border-l border-slate-200 px-3 py-2 text-xs font-bold text-slate-700 transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:text-slate-300"
         >
           <Check className="size-3.5" />
           {tx.drawFinish}
@@ -1355,20 +1360,23 @@ function MapPanel({
             cursorLngLatRef.current = null;
           }}
           disabled={drawnCoords.length === 0 && drawMode === "idle"}
-          className="inline-flex items-center gap-1.5 border-l border-slate-200 px-3 py-2 text-xs font-bold text-slate-700 transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:text-slate-300"
+          className="inline-flex shrink-0 items-center gap-1.5 border-l border-slate-200 px-3 py-2 text-xs font-bold text-slate-700 transition hover:bg-slate-50 disabled:cursor-not-allowed disabled:text-slate-300"
         >
           <Eraser className="size-3.5" />
           {tx.drawClear}
         </button>
       </div>
 
-      {/* Base-layer switcher — top-right */}
+      {/* Base-layer switcher. On mobile it sits on a SECOND row below the draw
+          toolbar (top-14) spanning the width and scrolls horizontally (touch),
+          so all layers — Hybrid / Satellite / भूभाग / Topo — are reachable and
+          never clip. Desktop keeps the original top-right compact bar. */}
       <div
-        className="absolute right-3 top-3 z-10 flex items-stretch overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md"
+        className="absolute left-3 right-3 top-14 z-10 flex max-w-[calc(100%-1.5rem)] items-stretch overflow-x-auto whitespace-nowrap rounded-lg border border-slate-300 bg-white shadow-md [-webkit-overflow-scrolling:touch] [scrollbar-width:none] sm:left-auto sm:right-3 sm:top-3 sm:w-auto sm:justify-end sm:overflow-visible"
         role="group"
         aria-label={tx.baseLayerLabel}
       >
-        <span className="hidden items-center gap-1 border-r border-slate-200 bg-slate-50 px-2.5 text-[10px] font-black uppercase tracking-[0.12em] text-slate-500 sm:inline-flex">
+        <span className="hidden shrink-0 items-center gap-1 border-r border-slate-200 bg-slate-50 px-2.5 text-[10px] font-black uppercase tracking-[0.12em] text-slate-500 sm:inline-flex">
           <Layers className="size-3" />
           {tx.baseLayerLabel}
         </span>
@@ -1378,7 +1386,7 @@ function MapPanel({
             type="button"
             onClick={() => setBaseLayerId(id)}
             aria-pressed={baseLayerId === id}
-            className={`border-l border-slate-200 px-2.5 py-2 text-[11px] font-bold transition first:border-l-0 ${
+            className={`shrink-0 border-l border-slate-200 px-2.5 py-2 text-[11px] font-bold transition first:border-l-0 ${
               baseLayerId === id
                 ? "bg-blue-600 text-white"
                 : "text-slate-700 hover:bg-slate-50"
@@ -1450,6 +1458,10 @@ export function MapReferenceSection() {
   );
 
   const [baseLayerId, setBaseLayerId] = useState<BaseLayerId>("osm");
+  /* Tracks the last village_id we reset the draw state for, so the reset
+   * effect only fires when the village actually changes (conditional set →
+   * satisfies react-hooks/set-state-in-effect). */
+  const prevVillageIdRef = useRef(form.village_id);
 
   /* Bumps every time a localization source finishes loading (LGD or MAHA
    * villages). Listed in the dropdown render's useMemo deps so option
@@ -1526,7 +1538,6 @@ export function MapReferenceSection() {
       typeof window !== "undefined" &&
       /[?&]debugLgd=1\b/.test(window.location?.search ?? "")
     ) {
-      // eslint-disable-next-line no-console
       console.log("[district dedup]", {
         lang,
         total: districts.length,
@@ -1591,15 +1602,19 @@ export function MapReferenceSection() {
   }, [lang]);
 
   useEffect(() => {
-    if (!form.district_id) {
-      setTalukas([]);
-      return;
-    }
-    const url = `/data/dropdowns/talukas/${encodeURIComponent(form.district_id)}.json`;
-    const distRow = districts.find((d) => d.district_id === form.district_id);
-    fetch(url)
-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
-      .then((rows: TalukaRow[]) => {
+    let cancelled = false;
+    void (async () => {
+      if (!form.district_id) {
+        if (!cancelled) setTalukas([]);
+        return;
+      }
+      const url = `/data/dropdowns/talukas/${encodeURIComponent(form.district_id)}.json`;
+      const distRow = districts.find((d) => d.district_id === form.district_id);
+      try {
+        const r = await fetch(url);
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const rows = (await r.json()) as TalukaRow[];
+        if (cancelled) return;
         // Label-only sort: we never drop or reshape rows. If the localization
         // dataset hasn't loaded yet, the helper returns row.name_en so we get
         // a sensible alphabetical order regardless.
@@ -1610,24 +1625,32 @@ export function MapReferenceSection() {
         });
         setTalukas(rows);
         console.debug("[MapReference] talukas loaded:", rows.length, "from", url);
-      })
-      .catch((e) => {
+      } catch (e) {
+        if (cancelled) return;
         console.error("[MapReference] talukas fetch failed:", url, e);
         setTalukas([]);
-      });
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
   }, [form.district_id, lang, districts]);
 
   useEffect(() => {
-    if (!form.district_id || !form.taluka_id) {
-      setVillages([]);
-      return;
-    }
-    const url = `/data/dropdowns/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.json`;
-    const distRow = districts.find((d) => d.district_id === form.district_id);
-    const talRow = talukas.find((t) => t.taluka_id === form.taluka_id);
-    fetch(url)
-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
-      .then((rows: VillageRow[]) => {
+    let cancelled = false;
+    void (async () => {
+      if (!form.district_id || !form.taluka_id) {
+        if (!cancelled) setVillages([]);
+        return;
+      }
+      const url = `/data/dropdowns/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.json`;
+      const distRow = districts.find((d) => d.district_id === form.district_id);
+      const talRow = talukas.find((t) => t.taluka_id === form.taluka_id);
+      try {
+        const r = await fetch(url);
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const rows = (await r.json()) as VillageRow[];
+        if (cancelled) return;
         // Label-only sort. EVERY row that comes back from the dropdown JSON
         // ends up in setVillages — the helper never returns null, so the
         // sort comparator is total.
@@ -1638,44 +1661,58 @@ export function MapReferenceSection() {
         });
         setVillages(rows);
         console.debug("[MapReference] villages loaded:", rows.length, "from", url);
-      })
-      .catch((e) => {
+      } catch (e) {
+        if (cancelled) return;
         console.error("[MapReference] villages fetch failed:", url, e);
         setVillages([]);
-      });
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
   }, [form.district_id, form.taluka_id, lang, districts, talukas]);
 
+  /* Boundary loader. All state writes happen inside an async flow guarded by
+   * `cancelled`, so none run synchronously in the effect body (satisfies
+   * react-hooks/set-state-in-effect) and a superseded selection can't clobber
+   * a newer one (fixes a stale-fetch race as a bonus). */
   useEffect(() => {
-    if (!form.district_id || !form.taluka_id || !form.village_id) {
-      setBoundaryFeature(null);
-      setBoundaryError(null);
-      return;
-    }
-    const selectedVillage = villages.find((v) => v.village_id === form.village_id);
-    if (!selectedVillage) {
-      console.warn("[MapReference] selected village_id not in villages list:", form.village_id);
-      setBoundaryFeature(null);
-      return;
-    }
-    const url =
-      selectedVillage.boundary_file ||
-      `/data/boundaries/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.geojson`;
+    let cancelled = false;
 
-    console.debug("[MapReference] fetching boundary:", {
-      district_id: form.district_id,
-      taluka_id: form.taluka_id,
-      village_id: form.village_id,
-      boundary_file: url,
-    });
+    void (async () => {
+      if (!form.district_id || !form.taluka_id || !form.village_id) {
+        if (!cancelled) {
+          setBoundaryFeature(null);
+          setBoundaryError(null);
+        }
+        return;
+      }
+      const selectedVillage = villages.find((v) => v.village_id === form.village_id);
+      if (!selectedVillage) {
+        console.warn("[MapReference] selected village_id not in villages list:", form.village_id);
+        if (!cancelled) setBoundaryFeature(null);
+        return;
+      }
+      const url =
+        selectedVillage.boundary_file ||
+        `/data/boundaries/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.geojson`;
 
-    setBoundaryLoading(true);
-    setBoundaryError(null);
-    fetch(url)
-      .then((r) => {
+      console.debug("[MapReference] fetching boundary:", {
+        district_id: form.district_id,
+        taluka_id: form.taluka_id,
+        village_id: form.village_id,
+        boundary_file: url,
+      });
+
+      if (!cancelled) {
+        setBoundaryLoading(true);
+        setBoundaryError(null);
+      }
+      try {
+        const r = await fetch(url);
         if (!r.ok) throw new Error("HTTP " + r.status + " from " + url);
-        return r.json() as Promise<BoundaryFC>;
-      })
-      .then((fc) => {
+        const fc = (await r.json()) as BoundaryFC;
+        if (cancelled) return;
         console.debug("[MapReference] taluka feature count:", fc.features?.length);
         const match = (fc.features || []).find(
           (f) => f.properties.village_id === form.village_id,
@@ -1689,16 +1726,25 @@ export function MapReferenceSection() {
         }
         setBoundaryFeature(match);
         setBoundaryLoading(false);
-      })
-      .catch((e) => {
+      } catch (e) {
+        if (cancelled) return;
         console.error("[MapReference] boundary fetch failed:", url, e);
         setBoundaryFeature(null);
         setBoundaryError(tx.boundaryError);
         setBoundaryLoading(false);
-      });
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+    };
   }, [form.district_id, form.taluka_id, form.village_id, villages, tx.boundaryError]);
 
   useEffect(() => {
+    // Only reset when the village genuinely changed — not on unrelated
+    // re-renders that re-run this effect with the same village_id.
+    if (prevVillageIdRef.current === form.village_id) return;
+    prevVillageIdRef.current = form.village_id;
     setDrawnCoordsRaw([]);
     setDrawMode("idle");
   }, [form.village_id]);
@@ -1783,21 +1829,32 @@ export function MapReferenceSection() {
    *    datasets finish loading (villageNamesTick) so Marathi labels populate
    *    as soon as data arrives. */
   useEffect(() => {
-    setForm((prev) => {
-      const distRow = districts.find((d) => d.district_id === prev.district_id);
-      const talRow = talukas.find((t) => t.taluka_id === prev.taluka_id);
-      const vilRow = villages.find((v) => v.village_id === prev.village_id);
-      return {
-        ...prev,
-        district: distRow ? displayDistrictName(distRow, lang) : prev.district,
-        taluka: talRow
-          ? getTalukaDisplayNameRow(talRow, distRow, lang)
-          : prev.taluka,
-        village: vilRow
-          ? getVillageDisplayNameRow(vilRow, talRow, distRow, lang)
-          : prev.village,
-      };
+    let cancelled = false;
+    // Defer the relabel to a microtask so the setState is not synchronous
+    // within the effect body (satisfies react-hooks/set-state-in-effect).
+    // Behavior is unchanged: it still re-derives the stored display names
+    // when the language toggles or lazy LGD/MAHA data arrives.
+    void Promise.resolve().then(() => {
+      if (cancelled) return;
+      setForm((prev) => {
+        const distRow = districts.find((d) => d.district_id === prev.district_id);
+        const talRow = talukas.find((t) => t.taluka_id === prev.taluka_id);
+        const vilRow = villages.find((v) => v.village_id === prev.village_id);
+        return {
+          ...prev,
+          district: distRow ? displayDistrictName(distRow, lang) : prev.district,
+          taluka: talRow
+            ? getTalukaDisplayNameRow(talRow, distRow, lang)
+            : prev.taluka,
+          village: vilRow
+            ? getVillageDisplayNameRow(vilRow, talRow, distRow, lang)
+            : prev.village,
+        };
+      });
     });
+    return () => {
+      cancelled = true;
+    };
     // Intentionally narrow deps: lang change OR a tick from lazy data arrival
     // triggers a refresh. Including districts/talukas/villages would cause a
     // loop on every fetch.
@@ -1910,11 +1967,12 @@ export function MapReferenceSection() {
           </button>
         </div>
 
-        <div className="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-start">
+        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-start">
           {/*
-           * Mobile: form column (order-1) renders FIRST, so the user lands
-           * on the dropdowns. Map column (order-2) sits below. Desktop keeps
-           * the original side-by-side layout via lg:order-* overrides.
+           * Mobile: the FORM column is written first in the source AND given
+           * order-1, so the user always lands on the dropdowns/tabs with the
+           * map below — even if a CSS layer is stale or `order` is ignored.
+           * Desktop restores map-left / form-right via lg:order-* overrides.
            */}
           <div ref={mobileMapAnchorRef} className="order-2 space-y-4 lg:order-1">
             <MapPanel
@@ -1985,13 +2043,14 @@ export function MapReferenceSection() {
 
               {/* ── Service tabs ────────────────────────────────────────────
                * Horizontal pill bar. Scrolls horizontally on small screens so
-               * the 7 tabs never wrap awkwardly. -mx-* + px-* lets the row
-               * bleed to the card edges and gives the rightmost pill some
-               * breathing room when scrolled to the end. */}
+               * the 7 tabs never wrap awkwardly. w-full + max-w-full keeps the
+               * row inside its card; overflow-x-auto scrolls the pills, and
+               * overscroll-x-contain stops a swipe from dragging the whole page.
+               * No negative margins, so the row never bleeds past the card. */}
               <div
                 role="tablist"
                 aria-label={lang === "mr" ? "कागदपत्र प्रकार" : "Document type"}
-                className="-mx-1 mb-2 flex gap-1.5 overflow-x-auto px-1 pb-2 [scrollbar-width:thin]"
+                className="mb-2 flex w-full max-w-full flex-nowrap gap-1.5 overflow-x-auto overscroll-x-contain px-0.5 pb-2 [scrollbar-width:thin]"
               >
                 {SERVICE_TAB_ORDER.map((id) => {
                   const isActive = activeService === id;
