@@ -42,8 +42,12 @@ export function LandingAnimations() {
           }
         });
 
-        if (!compactScreen) {
-          gsap.to("[data-scan]", { duration: 3.2, ease: "power1.inOut", repeat: -1, xPercent: 280 });
+        // Only animate the scan beam if the element actually exists on this
+        // page. Querying first avoids GSAP's "target [data-scan] not found"
+        // console warning on pages/layouts that don't render a [data-scan] node.
+        const scanTargets = gsap.utils.toArray<HTMLElement>("[data-scan]");
+        if (!compactScreen && scanTargets.length > 0) {
+          gsap.to(scanTargets, { duration: 3.2, ease: "power1.inOut", repeat: -1, xPercent: 280 });
         }
       });
 

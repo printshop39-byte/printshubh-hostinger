@@ -44,11 +44,10 @@ const SIMPLIFY_PCT = Number(args.simplify || 8);
 if (!SRC) { console.error("Missing --src <path-to-shapefile.shp>"); process.exit(1); }
 
 /* ───────────────────────── DBF parser ───────────────────────────────────── */
-function parseDbf(dbfPath, encoding) {
+function parseDbf(dbfPath) {
   const buf = readFileSync(dbfPath);
   const numRecords = buf.readUInt32LE(4);
   const headerLen = buf.readUInt16LE(8);
-  const recordLen = buf.readUInt16LE(10);
   const fields = [];
   let offset = 32;
   while (offset < headerLen - 1) {
@@ -110,7 +109,7 @@ async function main() {
   const cpgPath = resolve(dir, base + ".cpg");
   const encoding = existsSync(cpgPath) ? readFileSync(cpgPath, "utf8").trim() : "latin1";
 
-  const { fields } = parseDbf(dbfPath, encoding);
+  const { fields } = parseDbf(dbfPath);
 
   const FIELD_MAP = {
     district:      args["district-field"]      || pickColumn(fields, ["DTNAME","DIST_NAME","DISTRICT","DIST","D_NAME","NAME_2","ADM2_EN","district_n"]),

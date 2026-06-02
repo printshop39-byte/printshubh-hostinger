@@ -16,6 +16,16 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Global horizontal-overflow guard.
+ * Stops any single wide child (tab row, map, sticky bar) from making the
+ * whole document shift left-right on mobile. max-width:100% + overflow-x:hidden
+ * on BOTH html and body is the reliable cross-browser combination. */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);

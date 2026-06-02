@@ -1,0 +1,99 @@
+From: Mobile responsive fix — tab overflow, page horizontal shift, GSAP warning
+Subject: [PATCH] Fix mobile horizontal overflow (tabs + page) and GSAP [data-scan] warning
+
+Five files changed. Desktop design unchanged.
+ - src/app/globals.css                      : global html,body overflow-x guard
+ - src/components/map-reference-section.tsx : mobile-safe service tabs row
+ - src/components/landing-animations.tsx    : guard GSAP [data-scan] target
+ - src/components/service-page-shell.tsx    : overflow-x-hidden on <main>
+ - src/components/legal-page-shell.tsx      : overflow-x-hidden on <main>
+
+---
+diff --git a/src/app/globals.css b/src/app/globals.css
+index 0000000..0000000 100644
+--- a/src/app/globals.css
++++ b/src/app/globals.css
+@@ -15,6 +15,16 @@
+ html {
+   scroll-behavior: smooth;
+ }
+
++/* Global horizontal-overflow guard.
++ * Stops any single wide child (tab row, map, sticky bar) from making the
++ * whole document shift left-right on mobile. max-width:100% + overflow-x:hidden
++ * on BOTH html and body is the reliable cross-browser combination. */
++html,
++body {
++  max-width: 100%;
++  overflow-x: hidden;
++}
++
+ body {
+   background: var(--background);
+   color: var(--foreground);
+   font-family: var(--font-noto-devanagari), "Mangal", var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+ }
+diff --git a/src/components/map-reference-section.tsx b/src/components/map-reference-section.tsx
+index 0000000..0000000 100644
+--- a/src/components/map-reference-section.tsx
++++ b/src/components/map-reference-section.tsx
+@@ -1986,11 +1986,12 @@
+               {/* ── Service tabs ────────────────────────────────────────────
+-               * Horizontal pill bar. Scrolls horizontally on small screens so
+-               * the 7 tabs never wrap awkwardly. -mx-* + px-* lets the row
+-               * bleed to the card edges and gives the rightmost pill some
+-               * breathing room when scrolled to the end. */}
++               * Horizontal pill bar. Scrolls horizontally on small screens so
++               * the 7 tabs never wrap awkwardly. w-full + max-w-full keeps the
++               * row inside its card; overflow-x-auto scrolls the pills, and
++               * overscroll-x-contain stops a swipe from dragging the whole page.
++               * No negative margins, so the row never bleeds past the card. */}
+               <div
+                 role="tablist"
+                 aria-label={lang === "mr" ? "कागदपत्र प्रकार" : "Document type"}
+-                className="-mx-1 mb-2 flex gap-1.5 overflow-x-auto px-1 pb-2 [scrollbar-width:thin]"
++                className="mb-2 flex w-full max-w-full flex-nowrap gap-1.5 overflow-x-auto overscroll-x-contain px-0.5 pb-2 [scrollbar-width:thin]"
+               >
+                 {SERVICE_TAB_ORDER.map((id) => {
+                   const isActive = activeService === id;
+diff --git a/src/components/landing-animations.tsx b/src/components/landing-animations.tsx
+index 0000000..0000000 100644
+--- a/src/components/landing-animations.tsx
++++ b/src/components/landing-animations.tsx
+@@ -42,9 +42,13 @@
+         });
+
+-        if (!compactScreen) {
+-          gsap.to("[data-scan]", { duration: 3.2, ease: "power1.inOut", repeat: -1, xPercent: 280 });
+-        }
++        // Only animate the scan beam if the element actually exists on this
++        // page. Querying first avoids GSAP's "target [data-scan] not found"
++        // console warning on pages/layouts that don't render a [data-scan] node.
++        const scanTargets = gsap.utils.toArray<HTMLElement>("[data-scan]");
++        if (!compactScreen && scanTargets.length > 0) {
++          gsap.to(scanTargets, { duration: 3.2, ease: "power1.inOut", repeat: -1, xPercent: 280 });
++        }
+       });
+
+       return () => {
+diff --git a/src/components/service-page-shell.tsx b/src/components/service-page-shell.tsx
+index 0000000..0000000 100644
+--- a/src/components/service-page-shell.tsx
++++ b/src/components/service-page-shell.tsx
+@@ -78,7 +78,7 @@
+   return (
+     <>
+       <SiteHeader />
+-      <main className="min-h-screen bg-[#f7fbff] pb-24 text-slate-900">
++      <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] pb-24 text-slate-900">
+         <section className="border-b border-slate-200 bg-white px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
+diff --git a/src/components/legal-page-shell.tsx b/src/components/legal-page-shell.tsx
+index 0000000..0000000 100644
+--- a/src/components/legal-page-shell.tsx
++++ b/src/components/legal-page-shell.tsx
+@@ -53,7 +53,7 @@
+     <>
+       <SiteHeader />
+-      <main className="min-h-screen bg-[#f7fbff] pb-24 text-slate-900">
++      <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] pb-24 text-slate-900">
+         {/* Hero band */}

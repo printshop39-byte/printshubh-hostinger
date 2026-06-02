@@ -292,9 +292,16 @@ export function LocationAutocomplete({
   const [activeIdx, setActiveIdx] = useState(0);
   const wrapperRef = useRef<HTMLDivElement>(null);
   const listRef = useRef<HTMLUListElement>(null);
+  const prevValueRef = useRef(value);
 
+  // Sync the controlled `value` prop into local query state, but only when it
+  // actually changes — a conditional set keeps this out of the
+  // react-hooks/set-state-in-effect rule while preserving the same behavior.
   useEffect(() => {
-    if (value !== undefined) setQuery(value);
+    if (value === undefined) return;
+    if (prevValueRef.current === value) return;
+    prevValueRef.current = value;
+    setQuery(value);
   }, [value]);
 
   const filtered = useMemo<Suggestion[]>(() => {
@@ -303,11 +310,6 @@ export function LocationAutocomplete({
     /* Stable order: districts first, then talukas, then villages */
     const rank: Record<Suggestion["kind"], number> = { district: 0, taluka: 1, village: 2 };
     return out.sort((a, b) => rank[a.kind] - rank[b.kind]).slice(0, 12);
-  }, [query]);
-
-  /* Reset activeIdx when filter changes */
-  useEffect(() => {
-    setActiveIdx(0);
   }, [query]);
 
   /* Outside click closes */
@@ -406,6 +408,7 @@ export function LocationAutocomplete({
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);
+              setActiveIdx(0); // reset highlight when the filter changes
               setOpen(true);
             }}
             onFocus={() => {
@@ -414,8 +417,10 @@ export function LocationAutocomplete({
             onKeyDown={onKeyDown}
             placeholder={placeholder}
             aria-label={placeholder}
+            role="combobox"
             aria-autocomplete="list"
             aria-expanded={open}
+            aria-controls="location-autocomplete-listbox"
             autoComplete="off"
             spellCheck={false}
             className={`w-full rounded-xl border border-slate-300 bg-white pl-9 pr-9 text-sm font-semibold text-slate-900 shadow-sm outline-none transition placeholder:font-medium placeholder:text-slate-400 focus:border-blue-500 focus:ring-2 focus:ring-blue-100 ${
@@ -427,6 +432,7 @@ export function LocationAutocomplete({
               type="button"
               onClick={() => {
                 setQuery("");
+                setActiveIdx(0); // reset highlight when the filter is cleared
                 setOpen(false);
               }}
               aria-label={lang === "mr" ? "साफ करा" : "Clear"}
@@ -453,7 +459,7 @@ export function LocationAutocomplete({
 
       {open && filtered.length > 0 && (
         <div className="absolute left-0 right-0 top-full z-30 mt-2 overflow-hidden rounded-xl border border-slate-200 bg-white shadow-2xl shadow-blue-900/10">
-          <ul ref={listRef} className="max-h-72 overflow-y-auto py-1" role="listbox">
+          <ul ref={listRef} id="location-autocomplete-listbox" className="max-h-72 overflow-y-auto py-1" role="listbox">
             {filtered.map((s, idx) => {
               const isActive = idx === activeIdx;
               const primary = s.primary[lang];

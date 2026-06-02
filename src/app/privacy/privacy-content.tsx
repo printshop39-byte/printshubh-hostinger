@@ -5,10 +5,9 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { useLang, type Lang } from "@/components/language-context";
+import { type Lang } from "@/components/language-context";
 
 export function PrivacyContent() {
-  const { lang } = useLang();
   return (
     <LegalPageShell
       title={{ mr: "गोपनीयता धोरण", en: "Privacy Policy" }}

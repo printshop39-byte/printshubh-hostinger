@@ -196,7 +196,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
       <ServiceSection heading="What is this service?">
         <p>
           The <strong>Property Card (Milkat Patrika)</strong> is issued by
-          Maharashtra's Bhumi Abhilekh department for <em>urban</em>
+          Maharashtra&apos;s Bhumi Abhilekh department for <em>urban</em>
           properties. It carries CTS number, area, owner names, encumbrances,
           transfer history and registration entries on one document — for
           flats, bungalows, offices and urban plots this is the formal
@@ -204,7 +204,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
         </p>
         <p>
           The PrintShubh team retrieves the publicly available digital
-          Property Card from City Survey offices' <strong>online official
+          Property Card from City Survey offices&apos; <strong>online official
           sources</strong> and sends a PDF on WhatsApp. When a stamped copy
           is needed we guide on the next step.
         </p>

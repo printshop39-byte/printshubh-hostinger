@@ -6,7 +6,7 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { useLang, type Lang } from "@/components/language-context";
+import { type Lang } from "@/components/language-context";
 
 const trustLine: Record<Lang, string> = {
   mr: "मागील ३० वर्षांपासून नकाशे, जमीन अभिलेख आणि सरकारी कागदपत्र प्रक्रियेचा अनुभव असलेल्या टीमकडून महाराष्ट्रासाठी विश्वासार्ह सहाय्य.",
@@ -14,8 +14,6 @@ const trustLine: Record<Lang, string> = {
 };
 
 export function AboutContent() {
-  const { lang } = useLang();
-
   return (
     <LegalPageShell
       title={{ mr: "आमच्याबद्दल", en: "About PrintShubh" }}

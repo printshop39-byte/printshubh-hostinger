@@ -1,0 +1,374 @@
+Subject: [PATCH] Mobile map fixes + react-hooks/set-state-in-effect refactor
+
+One file changed: src/components/map-reference-section.tsx
+
+Mobile map fixes:
+  - Responsive map height (h-[320px] sm:h-[380px] md:h-[460px] w-full max-w-full),
+    replacing the fixed inline style={{ height: 420 }}.
+  - Touch hover-follow disabled: isTouchRef detects a coarse pointer; the map
+    `mousemove` preview line never updates on touch, so nothing follows the
+    finger. Plot points are still committed on tap/click only.
+  - Overlay toolbars (draw toolbar + base-layer switcher) are width-capped and
+    the switcher wraps on mobile so they never overflow a narrow map.
+
+Lint fixes (react-hooks/set-state-in-effect, react-hooks v7):
+  - talukas loader, villages loader, boundary loader: all setState moved inside
+    an async IIFE guarded by `cancelled` (also fixes a stale-fetch race).
+  - draw-reset effect: guarded with prevVillageIdRef so the reset is conditional.
+  - language relabel effect: setForm deferred into a microtask with a guard.
+
+Behavior unchanged. No village data, shapefile, or GIS files touched.
+
+---
+diff --git a/src/components/map-reference-section.tsx b/src/components/map-reference-section.tsx
+index 0000000..0000000 100644
+--- a/src/components/map-reference-section.tsx
++++ b/src/components/map-reference-section.tsx
+@@ -958,6 +958,11 @@
+   const drawModeRef = useRef<DrawMode>(drawMode);
+   const drawnCoordsRef = useRef<LngLat[]>(drawnCoords);
+   const cursorLngLatRef = useRef<LngLat | null>(null);
++  /* Touch / coarse-pointer flag. On touch devices the map fires `mousemove`
++   * during a finger-drag (pan), which would make the dashed preview line
++   * "follow the finger". We detect a coarse pointer once and skip the
++   * hover-preview entirely there — points are still added on tap (click). */
++  const isTouchRef = useRef(false);
+
+@@ -983,6 +988,13 @@
+     async function init() {
+       if (!mapContainerRef.current) return;
++      // Detect a coarse / touch pointer once. Used to skip the hover-follow
++      // preview line on phones and tablets.
++      isTouchRef.current =
++        typeof window !== "undefined" &&
++        (window.matchMedia?.("(pointer: coarse)").matches ||
++          "ontouchstart" in window ||
++          navigator.maxTouchPoints > 0);
+       const mgl = await import("maplibre-gl");
+
+@@ -1087,5 +1099,11 @@
+-      mapInstance.on("mousemove", (e: { lngLat: { lng: number; lat: number } }) => {
+-        if (drawModeRef.current !== "drawing") return;
+-        cursorLngLatRef.current = [e.lngLat.lng, e.lngLat.lat];
+-        renderProgressLine();
+-      });
++      // Hover-follow preview is DESKTOP-ONLY. On touch devices we never update
++      // the cursor position from move events, so the dashed preview line does
++      // not chase the finger during a pan. Plot points are still committed via
++      // the "click" (tap) handler above — selection is tap-only everywhere.
++      mapInstance.on("mousemove", (e: { lngLat: { lng: number; lat: number } }) => {
++        if (isTouchRef.current) return;
++        if (drawModeRef.current !== "drawing") return;
++        cursorLngLatRef.current = [e.lngLat.lng, e.lngLat.lat];
++        renderProgressLine();
++      });
+
+@@ -1277,1 +1294,3 @@ function renderProgressLine() {
+-    const line: LngLat[] = cursor ? [...coords, cursor] : [...coords];
++    // On touch devices never append the cursor point — the preview line must
++    // not trail the finger. Desktop keeps the rubber-band preview.
++    const line: LngLat[] = cursor && !isTouchRef.current ? [...coords, cursor] : [...coords];
+
+@@ -1298,5 +1317,3 @@
+   return (
+-    <div
+-      className="relative overflow-hidden rounded-lg border border-slate-200 shadow-sm"
+-      style={{ height: 420 }}
+-    >
++    <div className="relative h-[320px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[380px] md:h-[460px]">
+       <div ref={mapContainerRef} className="h-full w-full" />
+
+@@ -1317,2 +1334,3 @@
+-      {/* Draw toolbar — top-left */}
+-      <div className="absolute left-3 top-3 z-10 flex items-stretch overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md">
++      {/* Draw toolbar — top-left. max-w guard + smaller text on mobile so it
++          never collides with the base-layer switcher on a narrow map. */}
++      <div className="absolute left-3 top-3 z-10 flex max-w-[calc(100%-1.5rem)] items-stretch overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md">
+
+@@ -1365,6 +1383,6 @@
+-      {/* Base-layer switcher — top-right */}
+-      <div
+-        className="absolute right-3 top-3 z-10 flex items-stretch overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md"
++      {/* Base-layer switcher — top-right. On mobile it wraps and is width-
++          capped so the 5 layer buttons never push past the map edge. */}
++      <div
++        className="absolute right-3 top-3 z-10 flex max-w-[calc(100%-1.5rem)] flex-wrap items-stretch justify-end gap-y-1 overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md"
+         role="group"
+         aria-label={tx.baseLayerLabel}
+       >
+
+@@ -1470,6 +1488,10 @@
+   const [baseLayerId, setBaseLayerId] = useState<BaseLayerId>("osm");
++  /* Tracks the last village_id we reset the draw state for, so the reset
++   * effect only fires when the village actually changes (conditional set →
++   * satisfies react-hooks/set-state-in-effect). */
++  const prevVillageIdRef = useRef(form.village_id);
+
+@@ -1615,26 +1637,32 @@ Load talukas
+-  useEffect(() => {
+-    if (!form.district_id) {
+-      setTalukas([]);
+-      return;
+-    }
+-    const url = `/data/dropdowns/talukas/${encodeURIComponent(form.district_id)}.json`;
+-    const distRow = districts.find((d) => d.district_id === form.district_id);
+-    fetch(url)
+-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
+-      .then((rows: TalukaRow[]) => {
+-        rows.sort((a, b) => {
+-          const an = getTalukaDisplayNameRow(a, distRow, lang);
+-          const bn = getTalukaDisplayNameRow(b, distRow, lang);
+-          return an.localeCompare(bn);
+-        });
+-        setTalukas(rows);
+-        console.debug("[MapReference] talukas loaded:", rows.length, "from", url);
+-      })
+-      .catch((e) => {
+-        console.error("[MapReference] talukas fetch failed:", url, e);
+-        setTalukas([]);
+-      });
+-  }, [form.district_id, lang, districts]);
++  useEffect(() => {
++    let cancelled = false;
++    void (async () => {
++      if (!form.district_id) {
++        if (!cancelled) setTalukas([]);
++        return;
++      }
++      const url = `/data/dropdowns/talukas/${encodeURIComponent(form.district_id)}.json`;
++      const distRow = districts.find((d) => d.district_id === form.district_id);
++      try {
++        const r = await fetch(url);
++        if (!r.ok) throw new Error("HTTP " + r.status);
++        const rows = (await r.json()) as TalukaRow[];
++        if (cancelled) return;
++        rows.sort((a, b) => {
++          const an = getTalukaDisplayNameRow(a, distRow, lang);
++          const bn = getTalukaDisplayNameRow(b, distRow, lang);
++          return an.localeCompare(bn);
++        });
++        setTalukas(rows);
++        console.debug("[MapReference] talukas loaded:", rows.length, "from", url);
++      } catch (e) {
++        if (cancelled) return;
++        console.error("[MapReference] talukas fetch failed:", url, e);
++        setTalukas([]);
++      }
++    })();
++    return () => {
++      cancelled = true;
++    };
++  }, [form.district_id, lang, districts]);
+
+@@ -1642,27 +1670,33 @@ Load villages
+-  useEffect(() => {
+-    if (!form.district_id || !form.taluka_id) {
+-      setVillages([]);
+-      return;
+-    }
+-    const url = `/data/dropdowns/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.json`;
+-    const distRow = districts.find((d) => d.district_id === form.district_id);
+-    const talRow = talukas.find((t) => t.taluka_id === form.taluka_id);
+-    fetch(url)
+-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("HTTP " + r.status))))
+-      .then((rows: VillageRow[]) => {
+-        rows.sort((a, b) => {
+-          const an = getVillageDisplayNameRow(a, talRow, distRow, lang);
+-          const bn = getVillageDisplayNameRow(b, talRow, distRow, lang);
+-          return an.localeCompare(bn);
+-        });
+-        setVillages(rows);
+-        console.debug("[MapReference] villages loaded:", rows.length, "from", url);
+-      })
+-      .catch((e) => {
+-        console.error("[MapReference] villages fetch failed:", url, e);
+-        setVillages([]);
+-      });
+-  }, [form.district_id, form.taluka_id, lang, districts, talukas]);
++  useEffect(() => {
++    let cancelled = false;
++    void (async () => {
++      if (!form.district_id || !form.taluka_id) {
++        if (!cancelled) setVillages([]);
++        return;
++      }
++      const url = `/data/dropdowns/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.json`;
++      const distRow = districts.find((d) => d.district_id === form.district_id);
++      const talRow = talukas.find((t) => t.taluka_id === form.taluka_id);
++      try {
++        const r = await fetch(url);
++        if (!r.ok) throw new Error("HTTP " + r.status);
++        const rows = (await r.json()) as VillageRow[];
++        if (cancelled) return;
++        rows.sort((a, b) => {
++          const an = getVillageDisplayNameRow(a, talRow, distRow, lang);
++          const bn = getVillageDisplayNameRow(b, talRow, distRow, lang);
++          return an.localeCompare(bn);
++        });
++        setVillages(rows);
++        console.debug("[MapReference] villages loaded:", rows.length, "from", url);
++      } catch (e) {
++        if (cancelled) return;
++        console.error("[MapReference] villages fetch failed:", url, e);
++        setVillages([]);
++      }
++    })();
++    return () => {
++      cancelled = true;
++    };
++  }, [form.district_id, form.taluka_id, lang, districts, talukas]);
+
+@@ -1666,52 +1700,64 @@ Load boundary
+-  useEffect(() => {
+-    if (!form.district_id || !form.taluka_id || !form.village_id) {
+-      setBoundaryFeature(null);
+-      setBoundaryError(null);
+-      return;
+-    }
+-    const selectedVillage = villages.find((v) => v.village_id === form.village_id);
+-    if (!selectedVillage) {
+-      console.warn("[MapReference] selected village_id not in villages list:", form.village_id);
+-      setBoundaryFeature(null);
+-      return;
+-    }
+-    const url =
+-      selectedVillage.boundary_file ||
+-      `/data/boundaries/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.geojson`;
+-    setBoundaryLoading(true);
+-    setBoundaryError(null);
+-    fetch(url)
+-      .then((r) => {
+-        if (!r.ok) throw new Error("HTTP " + r.status + " from " + url);
+-        return r.json() as Promise<BoundaryFC>;
+-      })
+-      .then((fc) => {
+-        const match = (fc.features || []).find(
+-          (f) => f.properties.village_id === form.village_id,
+-        );
+-        if (!match) {
+-          setBoundaryFeature(null);
+-          setBoundaryError(tx.boundaryError);
+-          setBoundaryLoading(false);
+-          return;
+-        }
+-        setBoundaryFeature(match);
+-        setBoundaryLoading(false);
+-      })
+-      .catch((e) => {
+-        setBoundaryFeature(null);
+-        setBoundaryError(tx.boundaryError);
+-        setBoundaryLoading(false);
+-      });
+-  }, [form.district_id, form.taluka_id, form.village_id, villages, tx.boundaryError]);
++  /* Boundary loader. All state writes happen inside an async flow guarded by
++   * `cancelled`, so none run synchronously in the effect body (satisfies
++   * react-hooks/set-state-in-effect) and a superseded selection can't clobber
++   * a newer one (fixes a stale-fetch race as a bonus). */
++  useEffect(() => {
++    let cancelled = false;
++    void (async () => {
++      if (!form.district_id || !form.taluka_id || !form.village_id) {
++        if (!cancelled) {
++          setBoundaryFeature(null);
++          setBoundaryError(null);
++        }
++        return;
++      }
++      const selectedVillage = villages.find((v) => v.village_id === form.village_id);
++      if (!selectedVillage) {
++        console.warn("[MapReference] selected village_id not in villages list:", form.village_id);
++        if (!cancelled) setBoundaryFeature(null);
++        return;
++      }
++      const url =
++        selectedVillage.boundary_file ||
++        `/data/boundaries/villages/${encodeURIComponent(form.district_id)}/${encodeURIComponent(form.taluka_id)}.geojson`;
++      if (!cancelled) {
++        setBoundaryLoading(true);
++        setBoundaryError(null);
++      }
++      try {
++        const r = await fetch(url);
++        if (!r.ok) throw new Error("HTTP " + r.status + " from " + url);
++        const fc = (await r.json()) as BoundaryFC;
++        if (cancelled) return;
++        const match = (fc.features || []).find(
++          (f) => f.properties.village_id === form.village_id,
++        );
++        if (!match) {
++          setBoundaryFeature(null);
++          setBoundaryError(tx.boundaryError);
++          setBoundaryLoading(false);
++          return;
++        }
++        setBoundaryFeature(match);
++        setBoundaryLoading(false);
++      } catch (e) {
++        if (cancelled) return;
++        console.error("[MapReference] boundary fetch failed:", url, e);
++        setBoundaryFeature(null);
++        setBoundaryError(tx.boundaryError);
++        setBoundaryLoading(false);
++      }
++    })();
++    return () => {
++      cancelled = true;
++    };
++  }, [form.district_id, form.taluka_id, form.village_id, villages, tx.boundaryError]);
+
+@@ -1719,4 +1765,7 @@ Reset draw state on village change
+-  useEffect(() => {
+-    setDrawnCoordsRaw([]);
+-    setDrawMode("idle");
+-  }, [form.village_id]);
++  useEffect(() => {
++    // Only reset when the village genuinely changed — not on unrelated
++    // re-renders that re-run this effect with the same village_id.
++    if (prevVillageIdRef.current === form.village_id) return;
++    prevVillageIdRef.current = form.village_id;
++    setDrawnCoordsRaw([]);
++    setDrawMode("idle");
++  }, [form.village_id]);
+
+@@ -1804,16 +1853,24 @@ Language relabel
+-  useEffect(() => {
+-    setForm((prev) => {
+-      const distRow = districts.find((d) => d.district_id === prev.district_id);
+-      const talRow = talukas.find((t) => t.taluka_id === prev.taluka_id);
+-      const vilRow = villages.find((v) => v.village_id === prev.village_id);
+-      return {
+-        ...prev,
+-        district: distRow ? displayDistrictName(distRow, lang) : prev.district,
+-        taluka: talRow ? getTalukaDisplayNameRow(talRow, distRow, lang) : prev.taluka,
+-        village: vilRow ? getVillageDisplayNameRow(vilRow, talRow, distRow, lang) : prev.village,
+-      };
+-    });
+-    // eslint-disable-next-line react-hooks/exhaustive-deps
+-  }, [lang, villageNamesTick]);
++  useEffect(() => {
++    let cancelled = false;
++    // Defer the relabel to a microtask so the setState is not synchronous
++    // within the effect body (satisfies react-hooks/set-state-in-effect).
++    // Behavior is unchanged: it still re-derives the stored display names
++    // when the language toggles or lazy LGD/MAHA data arrives.
++    void Promise.resolve().then(() => {
++      if (cancelled) return;
++      setForm((prev) => {
++        const distRow = districts.find((d) => d.district_id === prev.district_id);
++        const talRow = talukas.find((t) => t.taluka_id === prev.taluka_id);
++        const vilRow = villages.find((v) => v.village_id === prev.village_id);
++        return {
++          ...prev,
++          district: distRow ? displayDistrictName(distRow, lang) : prev.district,
++          taluka: talRow ? getTalukaDisplayNameRow(talRow, distRow, lang) : prev.taluka,
++          village: vilRow ? getVillageDisplayNameRow(vilRow, talRow, distRow, lang) : prev.village,
++        };
++      });
++    });
++    return () => {
++      cancelled = true;
++    };
++    // Intentionally narrow deps: lang change OR a tick from lazy data arrival
++    // triggers a refresh. Including districts/talukas/villages would loop.
++    // eslint-disable-next-line react-hooks/exhaustive-deps
++  }, [lang, villageNamesTick]);

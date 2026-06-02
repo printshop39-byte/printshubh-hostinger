@@ -200,14 +200,14 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
         <p>
           The <strong>Development Plan (DP)</strong> and{" "}
           <strong>Town Planning Scheme (TP)</strong> are statutory maps
-          sanctioned under Maharashtra's Regional and Town Planning Act. They
+          sanctioned under Maharashtra&apos;s Regional and Town Planning Act. They
           record zoning (residential, commercial, industrial), road widths,
           public reservations (gardens, schools, hospitals) and future growth
           direction.
         </p>
         <p>
           The PrintShubh team checks <strong>UDCPR 2020</strong>, sanctioned
-          DP publications and the relevant town-planning department's{" "}
+          DP publications and the relevant town-planning department&apos;s{" "}
           <strong>official public sources</strong> and delivers the DP
           provisions applicable to your land on WhatsApp — explained simply.
         </p>

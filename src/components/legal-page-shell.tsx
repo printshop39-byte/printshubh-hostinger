@@ -53,7 +53,7 @@ export function LegalPageShell({
   return (
     <>
       <SiteHeader />
-      <main className="min-h-screen bg-[#f7fbff] pb-24 text-slate-900">
+      <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] pb-24 text-slate-900">
         {/* Hero band */}
         <section className="border-b border-slate-200 bg-white px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-4xl">

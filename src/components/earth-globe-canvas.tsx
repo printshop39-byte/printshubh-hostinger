@@ -9,9 +9,9 @@
 
 "use client";
 
-import { Canvas, useFrame, useLoader, useThree } from "@react-three/fiber";
+import { Canvas, useFrame, useLoader } from "@react-three/fiber";
 import { Html, OrbitControls } from "@react-three/drei";
-import { Component, Suspense, useRef } from "react";
+import { Component, Suspense, useMemo, useRef } from "react";
 import type { ReactNode } from "react";
 import * as THREE from "three";
 
@@ -137,14 +137,11 @@ function IndiaMarker() {
 /* ── Cloud layer — only rendered when cloud texture loads ── */
 function CloudLayer() {
   const ref = useRef<THREE.Mesh>(null);
-  let cloudTex: THREE.Texture;
-  try {
-    // useLoader throws if suspended; TextureErrorBoundary catches hard failures
-    cloudTex = useLoader(THREE.TextureLoader, CLOUD_TEX);
-  } catch {
-    // Cloud texture missing or failed — skip cloud layer silently
-    return null;
-  }
+  // Hooks are called unconditionally and in a fixed order (rules-of-hooks).
+  // Suspension during load is handled by the <Suspense> wrapper, and a hard
+  // load failure is caught by the NullErrorBoundary around this component in
+  // <Scene>, so the cloud layer is still skipped silently when missing.
+  const cloudTex = useLoader(THREE.TextureLoader, CLOUD_TEX);
   useFrame((_, delta) => {
     if (ref.current) ref.current.rotation.y += delta * 0.042;
   });
@@ -165,10 +162,18 @@ function CloudLayer() {
 /* ── Earth sphere with real satellite texture ── */
 function EarthSphere() {
   const ref = useRef<THREE.Mesh>(null);
-  const earthTex = useLoader(THREE.TextureLoader, EARTH_TEX);
+  const loadedTex = useLoader(THREE.TextureLoader, EARTH_TEX);
 
-  earthTex.colorSpace = THREE.SRGBColorSpace;
-  earthTex.anisotropy = 4;
+  // Clone before configuring: the texture returned by useLoader is a shared,
+  // cached instance that react-hooks/immutability treats as frozen, so we
+  // mutate our own copy instead. Same visual result (sRGB + anisotropy 4).
+  const earthTex = useMemo(() => {
+    const tex = loadedTex.clone();
+    tex.colorSpace = THREE.SRGBColorSpace;
+    tex.anisotropy = 4;
+    tex.needsUpdate = true;
+    return tex;
+  }, [loadedTex]);
 
   useFrame((_, delta) => {
     if (ref.current) ref.current.rotation.y += delta * 0.055;
@@ -250,6 +255,26 @@ class TextureErrorBoundary extends Component<
   }
 }
 
+/* ── Error boundary that renders nothing on failure — used for the optional
+ *    cloud layer so a missing/broken cloud texture is skipped silently
+ *    without affecting the rest of the scene. ── */
+class NullErrorBoundary extends Component<
+  { children: ReactNode },
+  { failed: boolean }
+> {
+  constructor(props: { children: ReactNode }) {
+    super(props);
+    this.state = { failed: false };
+  }
+  static getDerivedStateFromError() {
+    return { failed: true };
+  }
+  render() {
+    if (this.state.failed) return null;
+    return this.props.children;
+  }
+}
+
 /* ── Full Three.js scene ── */
 function Scene() {
   return (
@@ -277,9 +302,11 @@ function Scene() {
       </TextureErrorBoundary>
 
       {/* Cloud layer (suspends separately — missing cloud tex is caught silently) */}
-      <Suspense fallback={null}>
-        <CloudLayer />
-      </Suspense>
+      <NullErrorBoundary>
+        <Suspense fallback={null}>
+          <CloudLayer />
+        </Suspense>
+      </NullErrorBoundary>
 
       {/* Atmosphere + orbit ring */}
       <AtmosphereGlow />

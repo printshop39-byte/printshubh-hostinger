@@ -192,10 +192,10 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
       <ServiceSection heading="What is this service?">
         <p>
           The <strong>village map (Gav Nakasha)</strong> is an official map
-          prepared by Maharashtra's Bhumi Abhilekh department showing the
-          village boundary, every Gut / Survey number's layout, internal
+          prepared by Maharashtra&apos;s Bhumi Abhilekh department showing the
+          village boundary, every Gut / Survey number&apos;s layout, internal
           roads, water bodies, public assets and neighbour relationships.
-          It's referenced often in land transactions, building permits and
+          It&apos;s referenced often in land transactions, building permits and
           court matters.
         </p>
         <p>
@@ -252,7 +252,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
         </p>
         <p>
           Areas shown on the map are <em>indicative</em>. Final legal area
-          requires a Bhumi Mojni officer's measurement.
+          requires a Bhumi Mojni officer&apos;s measurement.
         </p>
       </ServiceSection>
 

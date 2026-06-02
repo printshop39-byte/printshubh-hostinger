@@ -186,7 +186,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
     <>
       <ServiceSection heading="What is this service?">
         <p>
-          The <strong>8A extract</strong> is Maharashtra's{" "}
+          The <strong>8A extract</strong> is Maharashtra&apos;s{" "}
           <em>account-holder-wise</em> land record. It consolidates{" "}
           <strong>every Gut held by one owner</strong> in a village into one
           document — Gut numbers, areas, account number and total holding.
@@ -238,7 +238,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
       <ServiceSection heading="PDF / document assistance">
         <p>
           The 8A PDF lists every land parcel under that account holder, each
-          parcel's area, and the total holding. Print-friendly A4 output; on
+          parcel&apos;s area, and the total holding. Print-friendly A4 output; on
           request we tidy formatting before sending.
         </p>
       </ServiceSection>

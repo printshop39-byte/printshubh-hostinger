@@ -6,11 +6,10 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { useLang, type Lang } from "@/components/language-context";
+import { type Lang } from "@/components/language-context";
 import { SITE_CONTACT } from "@/components/site-footer";
 
 export function RefundContent() {
-  const { lang } = useLang();
   return (
     <LegalPageShell
       title={{ mr: "परतावा धोरण", en: "Refund Policy" }}

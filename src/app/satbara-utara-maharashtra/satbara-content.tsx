@@ -214,7 +214,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
       <ServiceSection heading="What is this service?">
         <p>
           The <strong>7/12 extract</strong> (Marathi: <em>Satbara</em>) is
-          Maharashtra's most important land-ownership document. It carries Gut
+          Maharashtra&apos;s most important land-ownership document. It carries Gut
           or Survey number, area, owner name, crop entries, encumbrances and
           inheritance notes on one page. It is mandatory for almost every land
           transaction — sale, mortgage, NA permission, inheritance, government
@@ -258,8 +258,8 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
           ]}
         />
         <p>
-          Don't have a Gut or Survey number? Use the map finder on the
-          homepage — pick district → taluka → village and we'll take it from
+          Don&apos;t have a Gut or Survey number? Use the map finder on the
+          homepage — pick district → taluka → village and we&apos;ll take it from
           there.
         </p>
       </ServiceSection>
@@ -288,7 +288,7 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
         <p>
           The PDF is a <strong>reference</strong>, not a stamped legal copy.
           For court / registration / bank submission you may need a Tehsil
-          office <em>signed-and-stamped</em> copy — we'll guide you on the
+          office <em>signed-and-stamped</em> copy — we&apos;ll guide you on the
           next step in those cases.
         </p>
       </ServiceSection>

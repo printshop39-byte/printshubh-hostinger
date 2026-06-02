@@ -6,10 +6,9 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { useLang, type Lang } from "@/components/language-context";
+import { type Lang } from "@/components/language-context";
 
 export function DisclaimerContent() {
-  const { lang } = useLang();
   return (
     <LegalPageShell
       title={{ mr: "अस्वीकरण", en: "Disclaimer" }}

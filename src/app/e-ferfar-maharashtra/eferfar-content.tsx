@@ -190,9 +190,9 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
         <p>
           <strong>E-Ferfar (mutation)</strong> is the official record of any
           change in land ownership or rights. Sale, inheritance, mortgage,
-          transfer, gift — each change is registered with the Talathi's
+          transfer, gift — each change is registered with the Talathi&apos;s
           office. Once sanctioned, the mutation reflects in the 7/12
-          extract's 'other rights' column.
+          extract&apos;s &apos;other rights&apos; column.
         </p>
         <p>
           The PrintShubh team retrieves the publicly available mutation
