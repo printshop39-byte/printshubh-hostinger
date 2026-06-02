@@ -45,7 +45,7 @@ const t: Record<Lang, {
       "PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित खाजगी सहाय्य सेवा प्रदान करतो.",
   },
   en: {
-    badge: "Marathi-first Land Assistance for Maharashtra",
+    badge: "Marathi-first Land Digital Service for Maharashtra",
     h1: "Maharashtra-wide assistance for Village Map, 7/12 Extract and DP Map",
     subheadline:
       "Drop a pin on the map, get latitude/longitude — get assistance for 7/12, 8A, Village Map, Mutation, Property Card and Land Report via WhatsApp.",

@@ -37,7 +37,7 @@ const t: Record<Lang, {
   mr: {
     cardLabel: "जमीन कागदपत्र प्रक्रिया",
     cardMH: "MH",
-    visualTitle: "महाराष्ट्र जिल्हानुसार जमीन सहाय्य",
+    visualTitle: "महाराष्ट्र जिल्हानुसार जमीन डिजिटल सेवा",
     visualSubtitle: "जिल्हा → तालुका → गाव निवडा",
     pillDistrict: "जिल्हा",
     pillTaluka: "तालुका",
@@ -61,7 +61,7 @@ const t: Record<Lang, {
   en: {
     cardLabel: "Land Record Flow",
     cardMH: "MH",
-    visualTitle: "Maharashtra district-wise land assistance",
+    visualTitle: "Maharashtra district-wise land digital service",
     visualSubtitle: "Select district → taluka → village",
     pillDistrict: "जिल्हा",
     pillTaluka: "तालुका",
