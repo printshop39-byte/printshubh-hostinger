@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { BadgeCheck, Landmark, ScanLine } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 
@@ -33,6 +34,16 @@ const t: Record<Lang, {
   highlightPune: string;
   highlightKolhapur: string;
   highlightNashik: string;
+  /* Carousel slide captions */
+  slideDivisionTitle: string;
+  slideDistrictTitle: string;
+  /* Six administrative divisions (विभाग) */
+  divKonkan: string;
+  divPune: string;
+  divNashik: string;
+  divSambhajinagar: string;
+  divAmravati: string;
+  divNagpur: string;
 }> = {
   mr: {
     cardLabel: "जमीन कागदपत्र प्रक्रिया",
@@ -57,6 +68,14 @@ const t: Record<Lang, {
     highlightPune: "पुणे",
     highlightKolhapur: "कोल्हापूर",
     highlightNashik: "नाशिक",
+    slideDivisionTitle: "महाराष्ट्र विभाग नकाशा",
+    slideDistrictTitle: "महाराष्ट्र जिल्हा नकाशा",
+    divKonkan: "कोकण विभाग",
+    divPune: "पुणे विभाग",
+    divNashik: "नाशिक विभाग",
+    divSambhajinagar: "छत्रपती संभाजीनगर विभाग",
+    divAmravati: "अमरावती विभाग",
+    divNagpur: "नागपूर विभाग",
   },
   en: {
     cardLabel: "Land Record Flow",
@@ -81,6 +100,14 @@ const t: Record<Lang, {
     highlightPune: "Pune",
     highlightKolhapur: "Kolhapur",
     highlightNashik: "Nashik",
+    slideDivisionTitle: "Maharashtra Division Map",
+    slideDistrictTitle: "Maharashtra District Map",
+    divKonkan: "कोकण विभाग",
+    divPune: "पुणे विभाग",
+    divNashik: "नाशिक विभाग",
+    divSambhajinagar: "छत्रपती संभाजीनगर विभाग",
+    divAmravati: "अमरावती विभाग",
+    divNagpur: "नागपूर विभाग",
   },
 };
 
@@ -108,14 +135,26 @@ export function MaharashtraIllustration() {
   const { lang } = useLang();
   const tx = t[lang];
 
-  /* Highlight points (Pune, Kolhapur, Nashik) — coordinates are
-   * decorative, hand-tuned to sit visually inside the matching regions
-   * on the stylised outline below. */
-  const highlights = [
-    { cx: 134, cy: 168, label: tx.highlightPune, anchor: "start" as const, dx: 8, dy: 4 },
-    { cx: 116, cy: 196, label: tx.highlightKolhapur, anchor: "start" as const, dx: 8, dy: 4 },
-    { cx: 122, cy: 110, label: tx.highlightNashik, anchor: "end" as const, dx: -8, dy: 4 },
-  ];
+  /* ── 2-slide carousel: 0 = division map, 1 = district map ──
+   * Lightweight — pure React state + a single interval. Auto-advances every
+   * 4s. Respects prefers-reduced-motion (no auto-advance, dots still work).
+   * No map library; both slides are hand-drawn stylised SVG (not traced
+   * from any real/copyrighted map). */
+  const slideCount = 2;
+  const [slide, setSlide] = useState(0);
+
+  useEffect(() => {
+    if (typeof window !== "undefined" &&
+        window.matchMedia?.("(prefers-reduced-motion: reduce)").matches) {
+      return;
+    }
+    const id = window.setInterval(() => {
+      setSlide((s) => (s + 1) % slideCount);
+    }, 4000);
+    return () => window.clearInterval(id);
+  }, []);
+
+  const slideTitles = [tx.slideDivisionTitle, tx.slideDistrictTitle];
 
   return (
     <div
@@ -166,169 +205,45 @@ export function MaharashtraIllustration() {
             ))}
           </div>
 
-          {/* District-map style SVG illustration */}
-          <div className="relative flex flex-1 items-center justify-center overflow-hidden rounded-2xl border border-white/70 bg-gradient-to-br from-blue-50/70 via-white/40 to-emerald-50/70 p-3 sm:p-4">
-            <svg
-              viewBox="0 0 360 260"
-              className="h-auto w-full max-w-[460px]"
-              aria-label={
-                lang === "mr"
-                  ? "महाराष्ट्र जिल्हा-नकाशा शैलीतील दृश्य"
-                  : "Maharashtra district-map style illustration"
-              }
-              role="img"
-              preserveAspectRatio="xMidYMid meet"
-            >
-              <defs>
-                <pattern id="hero-mh-grid" width="18" height="18" patternUnits="userSpaceOnUse">
-                  <path d="M 18 0 L 0 0 0 18" fill="none" stroke="rgba(37,99,235,0.10)" strokeWidth="0.5" />
-                </pattern>
-                <linearGradient id="hero-mh-fill" x1="0" y1="0" x2="1" y2="1">
-                  <stop offset="0%" stopColor="rgba(219,234,254,0.95)" />
-                  <stop offset="100%" stopColor="rgba(220,252,231,0.85)" />
-                </linearGradient>
-                {/* Pulse animation scoped to this SVG. We animate via a
-                    scale transform on the wrapper <g> rather than the
-                    SVG `r` attribute so older Safari versions and SVG
-                    serialisers handle it cleanly. */}
-                <style>
-                  {`
-                    @keyframes mhPulse {
-                      0%   { transform: scale(1);   opacity: 0.7; }
-                      70%  { transform: scale(2.6); opacity: 0;   }
-                      100% { transform: scale(2.6); opacity: 0;   }
-                    }
-                    .mh-pulse {
-                      transform-box: fill-box;
-                      transform-origin: center;
-                      animation: mhPulse 2.2s ease-out infinite;
-                    }
-                    @media (prefers-reduced-motion: reduce) {
-                      .mh-pulse { animation: none; opacity: 0.35; }
-                    }
-                  `}
-                </style>
-              </defs>
+          {/* ── Map carousel: Slide 1 = divisions, Slide 2 = districts ── */}
+          <div className="relative flex flex-1 flex-col">
+            <div className="relative flex flex-1 items-center justify-center overflow-hidden rounded-2xl border border-white/70 bg-gradient-to-br from-amber-50/40 via-white/50 to-amber-50/30 p-3 sm:p-4">
+              {/* caption */}
+              <span className="absolute left-3 top-3 z-10 rounded-md border border-amber-200 bg-white/85 px-2 py-0.5 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm sm:text-[11px]">
+                {slideTitles[slide]}
+              </span>
 
-              {/* background grid */}
-              <rect width="360" height="260" fill="url(#hero-mh-grid)" />
+              {/* track — translates between the two slides */}
+              <div className="w-full max-w-[460px] overflow-hidden">
+                <div
+                  className="flex w-full transition-transform duration-700 ease-in-out"
+                  style={{ transform: `translateX(-${slide * 100}%)` }}
+                >
+                  <div className="w-full shrink-0">
+                    <DivisionMap tx={tx} lang={lang} />
+                  </div>
+                  <div className="w-full shrink-0">
+                    <DistrictMap tx={tx} lang={lang} />
+                  </div>
+                </div>
+              </div>
+            </div>
 
-              {/* Maharashtra outer outline (stylised — not a real boundary) */}
-              <path
-                d="M 36 132 L 60 92 L 96 70 L 138 64 L 184 60 L 230 64 L 274 76 L 310 96 L 326 130 L 320 162 L 304 192 L 272 214 L 232 224 L 188 226 L 146 222 L 108 210 L 76 188 L 52 162 Z"
-                fill="url(#hero-mh-fill)"
-                stroke="rgba(37,99,235,0.55)"
-                strokeWidth="1.8"
-                strokeLinejoin="round"
-              />
-
-              {/* Konkan */}
-              <path
-                d="M 36 132 L 60 92 L 80 100 L 88 138 L 80 178 L 64 178 L 52 162 Z"
-                fill="rgba(56,189,248,0.20)"
-                stroke="rgba(14,116,144,0.45)"
-                strokeWidth="0.9"
-              />
-              {/* North Maharashtra */}
-              <path
-                d="M 80 100 L 96 70 L 138 64 L 168 78 L 156 118 L 122 124 L 88 138 Z"
-                fill="rgba(167,243,208,0.30)"
-                stroke="rgba(5,150,105,0.45)"
-                strokeWidth="0.9"
-              />
-              {/* West Maharashtra (Pune/Kolhapur belt) */}
-              <path
-                d="M 88 138 L 122 124 L 156 118 L 168 156 L 152 192 L 120 200 L 92 188 L 80 178 Z"
-                fill="rgba(191,219,254,0.50)"
-                stroke="rgba(37,99,235,0.55)"
-                strokeWidth="1.1"
-              />
-              {/* Marathwada */}
-              <path
-                d="M 156 118 L 168 78 L 230 64 L 250 96 L 234 138 L 200 148 L 168 156 Z"
-                fill="rgba(254,215,170,0.35)"
-                stroke="rgba(217,119,6,0.45)"
-                strokeWidth="0.9"
-              />
-              {/* Vidarbha */}
-              <path
-                d="M 230 64 L 274 76 L 310 96 L 326 130 L 320 162 L 288 178 L 250 170 L 234 138 L 250 96 Z"
-                fill="rgba(252,165,165,0.28)"
-                stroke="rgba(190,18,60,0.45)"
-                strokeWidth="0.9"
-              />
-              {/* South-east filler */}
-              <path
-                d="M 168 156 L 200 148 L 234 138 L 250 170 L 232 200 L 200 214 L 168 210 L 152 192 Z"
-                fill="rgba(221,214,254,0.30)"
-                stroke="rgba(91,33,182,0.40)"
-                strokeWidth="0.9"
-              />
-
-              {/* Region labels */}
-              <text x="64" y="146" fontSize="8" fontWeight="700" fill="#0e7490">{tx.regionKonkan}</text>
-              <text x="106" y="96" fontSize="8" fontWeight="700" fill="#047857">{tx.regionNorthMH}</text>
-              <text x="100" y="170" fontSize="8.5" fontWeight="800" fill="#1e40af">{tx.regionWestMH}</text>
-              <text x="186" y="116" fontSize="8" fontWeight="700" fill="#b45309">{tx.regionMarathwada}</text>
-              <text x="262" y="124" fontSize="8" fontWeight="700" fill="#9f1239">{tx.regionVidarbha}</text>
-
-              {/* District dots (decorative) */}
-              <g>
-                {[
-                  { cx: 72, cy: 138 },
-                  { cx: 112, cy: 156 },
-                  { cx: 148, cy: 102 },
-                  { cx: 186, cy: 134 },
-                  { cx: 226, cy: 110 },
-                  { cx: 270, cy: 132 },
-                  { cx: 252, cy: 178 },
-                  { cx: 196, cy: 190 },
-                  { cx: 132, cy: 188 },
-                ].map((d, i) => (
-                  <circle
-                    key={i}
-                    cx={d.cx}
-                    cy={d.cy}
-                    r="2.4"
-                    fill="#2563eb"
-                    opacity="0.55"
-                  />
-                ))}
-              </g>
-
-              {/* Highlighted districts — Pune, Kolhapur, Nashik */}
-              {highlights.map((h) => (
-                <g key={h.label}>
-                  <circle
-                    className="mh-pulse"
-                    cx={h.cx}
-                    cy={h.cy}
-                    r="5"
-                    fill="none"
-                    stroke="#16a34a"
-                    strokeWidth="1.6"
-                  />
-                  <circle
-                    cx={h.cx}
-                    cy={h.cy}
-                    r="4.2"
-                    fill="#16a34a"
-                    stroke="#fff"
-                    strokeWidth="1.4"
-                  />
-                  <text
-                    x={h.cx + h.dx}
-                    y={h.cy + h.dy}
-                    fontSize="8.5"
-                    fontWeight="800"
-                    fill="#064e3b"
-                    textAnchor={h.anchor}
-                  >
-                    {h.label}
-                  </text>
-                </g>
+            {/* dot indicators */}
+            <div className="mt-3 flex items-center justify-center gap-2">
+              {Array.from({ length: slideCount }).map((_, i) => (
+                <button
+                  key={i}
+                  type="button"
+                  onClick={() => setSlide(i)}
+                  aria-label={`${slideTitles[i]}`}
+                  aria-current={slide === i}
+                  className={`h-2 rounded-full transition-all ${
+                    slide === i ? "w-5 bg-blue-700" : "w-2 bg-slate-300 hover:bg-slate-400"
+                  }`}
+                />
               ))}
-            </svg>
+            </div>
           </div>
 
           {/* Disclaimer */}
@@ -354,5 +269,146 @@ export function MaharashtraIllustration() {
         </div>
       </div>
     </div>
+  );
+}
+
+/* Shared shape of the card-local i18n strings. */
+type CardStrings = (typeof t)[Lang];
+
+/* ──────────────────────────────────────────────────────────────────────
+ * Slide 1 — Maharashtra DIVISION map (6 administrative विभाग).
+ *
+ * Original stylised shapes (NOT traced from any real/copyrighted map).
+ * Style: single light-yellow state fill, thin red internal boundaries,
+ * thicker red outer outline, dark-navy labels.
+ * ────────────────────────────────────────────────────────────────────── */
+const YELLOW = "#fef3c7";        // light yellow fill
+const RED_INNER = "#dc2626";     // internal division/district boundary
+const RED_OUTER = "#b91c1c";     // thicker state outline
+const NAVY = "#0f172a";          // labels
+
+function DivisionMap({ tx, lang }: { tx: CardStrings; lang: Lang }) {
+  /* Six original cells, hand-placed to read as N/W/central/E divisions. */
+  const divisions: Array<{ d: string; label: string; lx: number; ly: number }> = [
+    // Konkan — west coastal strip
+    { d: "M 40 120 L 60 96 L 78 104 L 84 150 L 78 196 L 60 196 L 50 168 Z", label: tx.divKonkan, lx: 50, ly: 152 },
+    // Nashik — north-west
+    { d: "M 60 96 L 100 72 L 150 70 L 152 110 L 110 120 L 84 116 L 78 104 Z", label: tx.divNashik, lx: 96, ly: 96 },
+    // Pune — west-central / south
+    { d: "M 78 104 L 84 116 L 110 120 L 152 110 L 158 158 L 134 196 L 100 200 L 84 178 L 84 150 Z", label: tx.divPune, lx: 104, ly: 158 },
+    // Chhatrapati Sambhajinagar (Marathwada) — central
+    { d: "M 152 110 L 150 70 L 214 66 L 232 104 L 214 150 L 176 156 L 158 158 Z", label: tx.divSambhajinagar, lx: 168, ly: 120 },
+    // Amravati — north-east
+    { d: "M 214 66 L 268 72 L 300 92 L 290 128 L 250 130 L 232 104 Z", label: tx.divAmravati, lx: 246, ly: 100 },
+    // Nagpur — far east
+    { d: "M 290 128 L 300 92 L 320 110 L 326 148 L 306 184 L 268 184 L 250 162 L 250 130 Z", label: tx.divNagpur, lx: 282, ly: 156 },
+  ];
+
+  return (
+    <svg
+      viewBox="0 0 360 240"
+      className="h-auto w-full"
+      role="img"
+      aria-label={lang === "mr" ? "महाराष्ट्र विभाग नकाशा" : "Maharashtra division map"}
+      preserveAspectRatio="xMidYMid meet"
+    >
+      {/* Division cells — single yellow fill, thin red inner borders */}
+      {divisions.map((dv) => (
+        <path key={dv.label} d={dv.d} fill={YELLOW} stroke={RED_INNER} strokeWidth="1" strokeLinejoin="round" />
+      ))}
+
+      {/* Thicker red outer state outline traced around the union of cells */}
+      <path
+        d="M 40 120 L 60 96 L 100 72 L 150 70 L 214 66 L 268 72 L 300 92 L 320 110 L 326 148 L 306 184 L 268 184 L 250 162 L 134 196 L 100 200 L 84 178 L 78 196 L 60 196 L 50 168 Z"
+        fill="none"
+        stroke={RED_OUTER}
+        strokeWidth="2.6"
+        strokeLinejoin="round"
+      />
+
+      {/* Division labels (दार्क navy) — kept compact to avoid clutter */}
+      {divisions.map((dv) => (
+        <text
+          key={`l-${dv.label}`}
+          x={dv.lx}
+          y={dv.ly}
+          fontSize="7"
+          fontWeight="700"
+          fill={NAVY}
+          textAnchor="middle"
+        >
+          {dv.label}
+        </text>
+      ))}
+    </svg>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────────────
+ * Slide 2 — Maharashtra DISTRICT map (stylised district grid).
+ *
+ * A readable, non-cluttered grid of original district cells with a few
+ * representative names placed where space allows. Same yellow/red/navy
+ * style as the division slide.
+ * ────────────────────────────────────────────────────────────────────── */
+function DistrictMap({ lang }: { tx: CardStrings; lang: Lang }) {
+  /* Representative district names (Marathi) placed on a tidy cell grid.
+   * Decorative — not a survey trace. A subset is labelled to stay legible. */
+  const districts: Array<{ d: string; label?: string; lx?: number; ly?: number }> = [
+    { d: "M 44 116 L 70 100 L 80 150 L 66 192 L 50 168 Z", label: "रत्नागिरी", lx: 60, ly: 150 },
+    { d: "M 70 100 L 104 80 L 110 118 L 80 150 Z", label: "ठाणे", lx: 90, ly: 110 },
+    { d: "M 104 80 L 150 74 L 152 110 L 110 118 Z", label: "नाशिक", lx: 128, ly: 98 },
+    { d: "M 80 150 L 110 118 L 152 110 L 150 156 L 120 188 L 90 178 Z", label: "पुणे", lx: 116, ly: 150 },
+    { d: "M 90 178 L 120 188 L 132 210 L 100 206 Z", label: "सातारा", lx: 110, ly: 198 },
+    { d: "M 150 156 L 152 110 L 196 108 L 200 152 L 172 168 Z", label: "अहिल्यानगर", lx: 176, ly: 138 },
+    { d: "M 152 110 L 150 74 L 200 72 L 204 106 L 196 108 Z", label: "जळगाव", lx: 178, ly: 92 },
+    { d: "M 196 108 L 204 106 L 244 110 L 240 150 L 200 152 Z", label: "छ. संभाजीनगर", lx: 222, ly: 132 },
+    { d: "M 204 106 L 200 72 L 256 74 L 268 104 L 244 110 Z", label: "अमरावती", lx: 232, ly: 92 },
+    { d: "M 256 74 L 300 86 L 312 118 L 280 124 L 268 104 Z", label: "अकोला", lx: 286, ly: 104 },
+    { d: "M 280 124 L 312 118 L 320 152 L 300 178 L 270 168 L 264 138 Z", label: "नागपूर", lx: 292, ly: 150 },
+    { d: "M 240 150 L 244 110 L 268 104 L 264 138 L 270 168 L 244 184 L 218 174 Z", label: "यवतमाळ", lx: 248, ly: 158 },
+    { d: "M 200 152 L 240 150 L 218 174 L 188 184 L 172 168 Z", label: "लातूर", lx: 206, ly: 170 },
+    { d: "M 120 188 L 150 156 L 172 168 L 188 184 L 160 206 L 132 210 Z", label: "सोलापूर", lx: 156, ly: 192 },
+  ];
+
+  return (
+    <svg
+      viewBox="0 0 360 240"
+      className="h-auto w-full"
+      role="img"
+      aria-label={lang === "mr" ? "महाराष्ट्र जिल्हा नकाशा" : "Maharashtra district map"}
+      preserveAspectRatio="xMidYMid meet"
+    >
+      {/* District cells — yellow fill, thin red inner borders */}
+      {districts.map((ds, i) => (
+        <path key={i} d={ds.d} fill={YELLOW} stroke={RED_INNER} strokeWidth="0.9" strokeLinejoin="round" />
+      ))}
+
+      {/* Thicker red outer state outline */}
+      <path
+        d="M 44 116 L 70 100 L 104 80 L 150 74 L 200 72 L 256 74 L 300 86 L 312 118 L 320 152 L 300 178 L 270 168 L 244 184 L 160 206 L 132 210 L 100 206 L 66 192 L 50 168 Z"
+        fill="none"
+        stroke={RED_OUTER}
+        strokeWidth="2.6"
+        strokeLinejoin="round"
+      />
+
+      {/* District names where space allows (navy, compact) */}
+      {districts.map((ds, i) =>
+        ds.label && ds.lx != null && ds.ly != null ? (
+          <text
+            key={`l-${i}`}
+            x={ds.lx}
+            y={ds.ly}
+            fontSize="6"
+            fontWeight="700"
+            fill={NAVY}
+            textAnchor="middle"
+          >
+            {ds.label}
+          </text>
+        ) : null,
+      )}
+    </svg>
   );
 }
