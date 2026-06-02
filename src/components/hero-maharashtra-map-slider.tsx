@@ -1,41 +1,60 @@
 "use client";
 
 /**
- * HeroMaharashtraMapSlider — 2-slide Maharashtra map for the hero card.
+ * HeroMaharashtraMapSlider — interactive 2-slide Maharashtra map for the hero
+ * card.
  *
- * Slide 1: administrative DIVISIONS (6 विभाग)
- * Slide 2: DISTRICTS (35)
+ * Slide 1: administrative DIVISIONS (6 विभाग), each in a soft pastel.
+ * Slide 2: DISTRICTS (35), single light-yellow fill.
  *
- * Data: /public/data/mh-hero-shapes.json — pre-projected SVG path strings
- * (viewBox 360×300) generated offline from the uploaded Maharashtra village
- * GeoJSON (mh1/mh2): villages were dissolved by DISTRICT, then districts
- * grouped into the 6 revenue divisions, simplified, and projected with a
- * Mercator fit. This is original, derived geometry — no Leaflet at runtime,
- * no copyrighted image, no map library shipped to the browser.
+ * Data: /public/data/mh-hero-shapes.json — original SVG path strings + label
+ * centroids (viewBox 720×600), derived offline from the uploaded Maharashtra
+ * village GeoJSON (mh1/mh2): villages dissolved by DISTRICT, districts grouped
+ * into the 6 revenue divisions, simplified and Mercator-projected. No Leaflet,
+ * no map library at runtime, no copyrighted image, no watermark.
  *
- * Style: single light-yellow fill, thin red internal borders, thicker red
- * outer outline, dark-navy labels. Auto-advances every 4s; dot indicators;
- * fully responsive; respects prefers-reduced-motion.
+ * Interactivity:
+ *  - Click a shape → zoom the SVG viewBox to that shape's bounding box,
+ *    highlight it, show its name in a pill, and pause the auto-carousel.
+ *  - Reset button ("पूर्ण नकाशा") restores the full-state view.
+ *  - Hover (desktop) brightens the fill + strengthens the border.
+ *  - Switching slides clears the selection.
+ *  - Borders: thin red internal, slightly thicker red outer. Labels dark navy.
+ *  - Respects prefers-reduced-motion (no auto-advance).
  */
 
 import { useEffect, useMemo, useState } from "react";
 import { useLang, type Lang } from "@/components/language-context";
 
-/* ── Style tokens (per spec) ── */
-const FILL = "#FEF3C7";      // light yellow (district slide — single fill)
-const STROKE_INNER = "#DC2626"; // red internal boundaries
-const STROKE_OUTER = "#B91C1C"; // thicker red outer boundary
-const LABEL = "#0F172A";        // dark navy
+/* ── Style tokens ── */
+const FILL = "#FEF3C7";          // light yellow (district slide single fill)
+const FILL_HOVER = "#FDE68A";    // slightly stronger yellow on hover/active
+const STROKE_INNER = "#DC2626";  // red internal boundaries
+const STROKE_OUTER = "#B91C1C";  // slightly thicker red outer boundary
+const LABEL = "#0F172A";         // dark navy
 
-/* Soft, landing-page-friendly pastels — one per विभाग so divisions are easy
- * to tell apart. Deliberately muted (no neon/bright). */
+/* Border weights tuned for the 720×600 viewBox (reduced ~35% from before). */
+const INNER_W = 1.3;
+const INNER_W_ACTIVE = 2.2;
+const OUTER_W = 2.3;
+
+/* Soft, landing-page-friendly pastels — one per विभाग. Muted, no neon. */
 const DIVISION_FILL: Record<string, string> = {
-  Konkan: "#dcfce7",                  // light green
-  Pune: "#ccfbf1",                    // light mint / teal
-  Nashik: "#ffedd5",                  // light orange
-  ChhatrapatiSambhajinagar: "#cffafe",// light cyan / blue
-  Amravati: "#fce7f3",                // light pink
-  Nagpur: "#fef9c3",                  // light yellow
+  Konkan: "#dcfce7",                   // light green
+  Pune: "#ccfbf1",                     // light mint / teal
+  Nashik: "#ffedd5",                   // light orange
+  ChhatrapatiSambhajinagar: "#cffafe", // light cyan / blue
+  Amravati: "#fce7f3",                 // light pink
+  Nagpur: "#fef9c3",                   // light yellow
+};
+/* A touch deeper version of each pastel for hover/active. */
+const DIVISION_FILL_HOVER: Record<string, string> = {
+  Konkan: "#bbf7d0",
+  Pune: "#99f6e4",
+  Nashik: "#fed7aa",
+  ChhatrapatiSambhajinagar: "#a5f3fc",
+  Amravati: "#fbcfe8",
+  Nagpur: "#fef08a",
 };
 
 interface Shape {
@@ -51,8 +70,6 @@ interface ShapeData {
   districts: Shape[];
 }
 
-/* English DIVISION id (from the data) → Marathi विभाग label.
- * Strictly "विभाग" — never "मंडळ". */
 const DIVISION_LABEL_MR: Record<string, string> = {
   Konkan: "कोकण विभाग",
   Pune: "पुणे विभाग",
@@ -70,53 +87,122 @@ const DIVISION_LABEL_EN: Record<string, string> = {
   Nagpur: "Nagpur",
 };
 
-/* English DISTRICT id → Marathi name. Only "major" districts get a visible
- * label on the district slide to avoid clutter; the rest still render as
- * shapes. */
+/* All 35 districts in Marathi (data ids are the older spellings). */
 const DISTRICT_LABEL_MR: Record<string, string> = {
   Mumbai: "मुंबई",
   Thane: "ठाणे",
-  Pune: "पुणे",
-  Nasik: "नाशिक",
-  Nagpur: "नागपूर",
-  Aurangabad: "छ. संभाजीनगर",
-  Kolhapur: "कोल्हापूर",
-  Solapur: "सोलापूर",
-  Amravati: "अमरावती",
-  Nanded: "नांदेड",
-  Satara: "सातारा",
+  Palghar: "पालघर",
+  Raigad: "रायगड",
   Ratnagiri: "रत्नागिरी",
-  Ahmadnagar: "अहिल्यानगर",
+  Sindhudurg: "सिंधुदुर्ग",
+  Pune: "पुणे",
+  Satara: "सातारा",
+  Sangali: "सांगली",
+  Solapur: "सोलापूर",
+  Kolhapur: "कोल्हापूर",
+  Nasik: "नाशिक",
+  Dhule: "धुळे",
+  Nandurbar: "नंदुरबार",
   Jalgaon: "जळगाव",
+  Ahmadnagar: "अहिल्यानगर",
+  Aurangabad: "छ. संभाजीनगर",
+  Jalna: "जालना",
+  Beed: "बीड",
   Latur: "लातूर",
+  Osmanabad: "धाराशिव",
+  Nanded: "नांदेड",
+  Parbhani: "परभणी",
+  Hingoli: "हिंगोली",
+  Amravati: "अमरावती",
+  Akola: "अकोला",
+  Washim: "वाशिम",
+  Buldana: "बुलढाणा",
+  Yavatmal: "यवतमाळ",
+  Nagpur: "नागपूर",
+  Wardha: "वर्धा",
+  Bhandara: "भंडारा",
+  Gondia: "गोंदिया",
+  Chandrapur: "चंद्रपूर",
+  Gadchiroli: "गडचिरोली",
 };
 const DISTRICT_LABEL_EN: Record<string, string> = {
   Mumbai: "Mumbai",
   Thane: "Thane",
-  Pune: "Pune",
-  Nasik: "Nashik",
-  Nagpur: "Nagpur",
-  Aurangabad: "Ch. Sambhajinagar",
-  Kolhapur: "Kolhapur",
-  Solapur: "Solapur",
-  Amravati: "Amravati",
-  Nanded: "Nanded",
-  Satara: "Satara",
+  Palghar: "Palghar",
+  Raigad: "Raigad",
   Ratnagiri: "Ratnagiri",
-  Ahmadnagar: "Ahilyanagar",
+  Sindhudurg: "Sindhudurg",
+  Pune: "Pune",
+  Satara: "Satara",
+  Sangali: "Sangli",
+  Solapur: "Solapur",
+  Kolhapur: "Kolhapur",
+  Nasik: "Nashik",
+  Dhule: "Dhule",
+  Nandurbar: "Nandurbar",
   Jalgaon: "Jalgaon",
+  Ahmadnagar: "Ahilyanagar",
+  Aurangabad: "Ch. Sambhajinagar",
+  Jalna: "Jalna",
+  Beed: "Beed",
   Latur: "Latur",
+  Osmanabad: "Dharashiv",
+  Nanded: "Nanded",
+  Parbhani: "Parbhani",
+  Hingoli: "Hingoli",
+  Amravati: "Amravati",
+  Akola: "Akola",
+  Washim: "Washim",
+  Buldana: "Buldhana",
+  Yavatmal: "Yavatmal",
+  Nagpur: "Nagpur",
+  Wardha: "Wardha",
+  Bhandara: "Bhandara",
+  Gondia: "Gondia",
+  Chandrapur: "Chandrapur",
+  Gadchiroli: "Gadchiroli",
 };
+
+/* On narrow screens we label only the larger / well-known districts to avoid
+ * clutter; the rest get a label only when selected (via the pill). */
+const DISTRICT_PRIORITY = new Set([
+  "Mumbai", "Pune", "Nasik", "Nagpur", "Aurangabad", "Kolhapur", "Solapur",
+  "Amravati", "Nanded", "Thane", "Ratnagiri", "Jalgaon", "Ahmadnagar",
+  "Latur", "Chandrapur", "Satara",
+]);
 
 const SLIDE_TITLE: Record<Lang, [string, string]> = {
   mr: ["महाराष्ट्र विभाग नकाशा", "महाराष्ट्र जिल्हा नकाशा"],
   en: ["Maharashtra Division Map", "Maharashtra District Map"],
 };
+const RESET_LABEL: Record<Lang, string> = {
+  mr: "पूर्ण नकाशा",
+  en: "Full map",
+};
+
+/* Parse a bounding box [minX, minY, w, h] from an SVG path's M/L coordinates. */
+function bboxOf(d: string): [number, number, number, number] {
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  const re = /[ML](-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)/g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(d)) !== null) {
+    const x = parseFloat(m[1]);
+    const y = parseFloat(m[2]);
+    if (x < minX) minX = x;
+    if (y < minY) minY = y;
+    if (x > maxX) maxX = x;
+    if (y > maxY) maxY = y;
+  }
+  if (!isFinite(minX)) return [0, 0, 0, 0];
+  return [minX, minY, maxX - minX, maxY - minY];
+}
 
 export function HeroMaharashtraMapSlider() {
   const { lang } = useLang();
   const [data, setData] = useState<ShapeData | null>(null);
   const [slide, setSlide] = useState(0);
+  // Selected shape id, tracked per slide so switching slides clears it.
+  const [selected, setSelected] = useState<string | null>(null);
   const slideCount = 2;
 
   /* Load the pre-projected shapes once. */
@@ -137,8 +223,10 @@ export function HeroMaharashtraMapSlider() {
     };
   }, []);
 
-  /* Auto-advance every 4s, unless reduced motion is requested. */
+  /* Auto-advance every 4s — but PAUSE while a shape is selected/zoomed, and
+   * never run under reduced-motion. */
   useEffect(() => {
+    if (selected) return;
     if (
       typeof window !== "undefined" &&
       window.matchMedia?.("(prefers-reduced-motion: reduce)").matches
@@ -149,19 +237,45 @@ export function HeroMaharashtraMapSlider() {
       setSlide((s) => (s + 1) % slideCount);
     }, 4000);
     return () => window.clearInterval(id);
-  }, []);
+  }, [selected]);
 
   const titles = SLIDE_TITLE[lang];
-  const vb = data ? `0 0 ${data.W} ${data.H}` : "0 0 720 600";
+  const W = data?.W ?? 720;
+  const H = data?.H ?? 600;
+
+  const divisionLabels = lang === "mr" ? DIVISION_LABEL_MR : DIVISION_LABEL_EN;
+  const districtLabels = lang === "mr" ? DISTRICT_LABEL_MR : DISTRICT_LABEL_EN;
+
+  const goToSlide = (i: number) => {
+    setSelected(null); // switching slides clears the selection
+    setSlide(i);
+  };
+  const handleSelect = (id: string) => {
+    setSelected((cur) => (cur === id ? null : id));
+  };
+
+  const activeLabels = slide === 0 ? divisionLabels : districtLabels;
+  const selectedName = selected ? activeLabels[selected] : null;
 
   return (
     <div className="relative flex w-full max-w-full flex-col">
-      <div className="relative w-full max-w-full overflow-hidden rounded-2xl border border-white/70 bg-gradient-to-br from-amber-50/40 via-white/50 to-amber-50/30 p-3 sm:p-4">
-        {/* slide caption */}
-        <span className="absolute left-3 top-3 z-10 rounded-md border border-amber-200 bg-white/85 px-2 py-0.5 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm sm:text-[11px]">
-          {titles[slide]}
+      {/* Selection pill + reset, above the map */}
+      <div className="mb-2 flex items-center justify-center gap-2">
+        <span className="rounded-md border border-amber-200 bg-white/85 px-2.5 py-1 text-[11px] font-bold text-slate-700 shadow-sm sm:text-xs">
+          {selectedName ?? titles[slide]}
         </span>
+        {selected && (
+          <button
+            type="button"
+            onClick={() => setSelected(null)}
+            className="rounded-md border border-red-200 bg-red-50 px-2.5 py-1 text-[11px] font-bold text-red-700 transition hover:bg-red-100 sm:text-xs"
+          >
+            {RESET_LABEL[lang]}
+          </button>
+        )}
+      </div>
 
+      <div className="relative w-full max-w-full overflow-hidden rounded-2xl border border-white/70 bg-gradient-to-br from-amber-50/40 via-white/50 to-amber-50/30 p-3 sm:p-4">
         {/* sliding track */}
         <div className="w-full overflow-hidden">
           <div
@@ -170,25 +284,32 @@ export function HeroMaharashtraMapSlider() {
           >
             <div className="w-full shrink-0">
               <MapSvg
-                viewBox={vb}
+                W={W}
+                H={H}
                 shapes={data?.divisions ?? []}
-                labelMap={lang === "mr" ? DIVISION_LABEL_MR : DIVISION_LABEL_EN}
+                labelMap={divisionLabels}
                 fillMap={DIVISION_FILL}
-                outerWidth={4}
-                innerWidth={1.4}
-                fontSize={13}
+                fillHoverMap={DIVISION_FILL_HOVER}
+                fontSize={14}
+                active={slide === 0}
+                selected={slide === 0 ? selected : null}
+                onSelect={handleSelect}
                 ariaLabel={titles[0]}
+                labelAll
               />
             </div>
             <div className="w-full shrink-0">
               <MapSvg
-                viewBox={vb}
+                W={W}
+                H={H}
                 shapes={data?.districts ?? []}
-                labelMap={lang === "mr" ? DISTRICT_LABEL_MR : DISTRICT_LABEL_EN}
-                outerWidth={4}
-                innerWidth={1.1}
+                labelMap={districtLabels}
                 fontSize={11}
+                active={slide === 1}
+                selected={slide === 1 ? selected : null}
+                onSelect={handleSelect}
                 ariaLabel={titles[1]}
+                priority={DISTRICT_PRIORITY}
               />
             </div>
           </div>
@@ -201,7 +322,7 @@ export function HeroMaharashtraMapSlider() {
           <button
             key={i}
             type="button"
-            onClick={() => setSlide(i)}
+            onClick={() => goToSlide(i)}
             aria-label={titles[i]}
             aria-current={slide === i}
             className={`h-2 rounded-full transition-all ${
@@ -215,29 +336,56 @@ export function HeroMaharashtraMapSlider() {
 }
 
 function MapSvg({
-  viewBox,
+  W,
+  H,
   shapes,
   labelMap,
   fillMap,
-  outerWidth,
-  innerWidth,
+  fillHoverMap,
   fontSize,
+  active,
+  selected,
+  onSelect,
   ariaLabel,
+  labelAll = false,
+  priority,
 }: {
-  viewBox: string;
+  W: number;
+  H: number;
   shapes: Shape[];
   labelMap: Record<string, string>;
-  /** Optional per-id fill (division slide). Falls back to the single yellow. */
   fillMap?: Record<string, string>;
-  outerWidth: number;
-  innerWidth: number;
+  fillHoverMap?: Record<string, string>;
   fontSize: number;
+  active: boolean;
+  selected: string | null;
+  onSelect: (id: string) => void;
   ariaLabel: string;
+  /** Label every shape (division slide). */
+  labelAll?: boolean;
+  /** District slide: only label ids in this set unless selected. */
+  priority?: Set<string>;
 }) {
-  // Combined outline path = union look: we draw every cell filled with the
-  // thin inner border, then redraw all cells' outlines once more with the
-  // thicker outer stroke and no fill so the silhouette reads as one state.
+  const [hovered, setHovered] = useState<string | null>(null);
+
   const combinedD = useMemo(() => shapes.map((s) => s.d).join(" "), [shapes]);
+
+  // Precompute bounding boxes once per shape set.
+  const bboxes = useMemo(() => {
+    const map: Record<string, [number, number, number, number]> = {};
+    for (const s of shapes) map[s.id] = bboxOf(s.d);
+    return map;
+  }, [shapes]);
+
+  // Zoom the viewBox to the selected shape (with padding), else full state.
+  const viewBox = useMemo(() => {
+    if (selected && bboxes[selected]) {
+      const [x, y, w, h] = bboxes[selected];
+      const pad = Math.max(w, h) * 0.35 + 12;
+      return `${x - pad} ${y - pad} ${w + pad * 2} ${h + pad * 2}`;
+    }
+    return `0 0 ${W} ${H}`;
+  }, [selected, bboxes, W, H]);
 
   return (
     <svg
@@ -247,43 +395,80 @@ function MapSvg({
       aria-label={ariaLabel}
       preserveAspectRatio="xMidYMid meet"
     >
-      {/* fills + internal borders */}
-      {shapes.map((s) => (
-        <path
-          key={s.id}
-          d={s.d}
-          fill={fillMap?.[s.id] ?? FILL}
-          stroke={STROKE_INNER}
-          strokeWidth={innerWidth}
-          strokeLinejoin="round"
-        />
-      ))}
+      {/* fills + internal borders (interactive) */}
+      {shapes.map((s) => {
+        const isSel = selected === s.id;
+        const isHover = hovered === s.id;
+        const baseFill = fillMap?.[s.id] ?? FILL;
+        const hoverFill = fillHoverMap?.[s.id] ?? FILL_HOVER;
+        const fill = isSel || isHover ? hoverFill : baseFill;
+        return (
+          <path
+            key={s.id}
+            d={s.d}
+            fill={fill}
+            stroke={STROKE_INNER}
+            strokeWidth={isSel || isHover ? INNER_W_ACTIVE : INNER_W}
+            strokeLinejoin="round"
+            tabIndex={active ? 0 : -1}
+            role="button"
+            aria-label={labelMap[s.id] ?? s.id}
+            aria-pressed={isSel}
+            style={{ cursor: "pointer", outline: "none" }}
+            onClick={() => onSelect(s.id)}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                onSelect(s.id);
+              }
+            }}
+            onMouseEnter={() => setHovered(s.id)}
+            onMouseLeave={() => setHovered((h) => (h === s.id ? null : h))}
+          />
+        );
+      })}
 
-      {/* thicker red outer outline (drawn over the whole set, no fill) */}
+      {/* thicker red outer outline (non-interactive, drawn above fills) */}
       <path
         d={combinedD}
         fill="none"
         stroke={STROKE_OUTER}
-        strokeWidth={outerWidth}
+        strokeWidth={OUTER_W}
         strokeLinejoin="round"
         strokeLinecap="round"
         opacity={0.9}
+        pointerEvents="none"
       />
 
       {/* labels */}
       {shapes.map((s) => {
         const label = labelMap[s.id];
         if (!label) return null;
+        const isSel = selected === s.id;
+        // District slide: when nothing is selected, only show priority labels
+        // (keeps the map readable). When a shape is selected we zoom in, so we
+        // show its label larger and hide the rest.
+        if (!labelAll && priority) {
+          if (selected) {
+            if (!isSel) return null;
+          } else if (!priority.has(s.id)) {
+            return null;
+          }
+        }
         return (
           <text
             key={`l-${s.id}`}
             x={s.cx}
             y={s.cy}
-            fontSize={fontSize}
-            fontWeight={700}
+            fontSize={isSel ? fontSize * 1.4 : fontSize}
+            fontWeight={isSel ? 800 : 700}
             fill={LABEL}
             textAnchor="middle"
             dominantBaseline="middle"
+            pointerEvents="none"
+            paintOrder="stroke"
+            stroke="#ffffff"
+            strokeWidth={isSel ? 3 : 2}
           >
             {label}
           </text>
