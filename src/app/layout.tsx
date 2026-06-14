@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Geist, Geist_Mono, Noto_Sans_Devanagari } from "next/font/google";
 import "./globals.css";
 import "maplibre-gl/dist/maplibre-gl.css";
@@ -148,6 +149,7 @@ export default function RootLayout({
       </head>
       <body className="flex min-h-full flex-col antialiased">
         <LanguageProvider>{children}</LanguageProvider>
+        <Script src="/price-assistant.js" strategy="afterInteractive" />
       </body>
     </html>
   );

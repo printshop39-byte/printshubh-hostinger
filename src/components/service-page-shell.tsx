@@ -16,6 +16,7 @@ import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { ServiceAreaDisclaimer } from "@/components/service-area-disclaimer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
+import { PricingSection } from "@/components/pricing-section";
 
 const homeLabel: Record<Lang, string> = { mr: "मुख्यपृष्ठ", en: "Home" };
 const servicesLabel: Record<Lang, string> = { mr: "सेवा", en: "Services" };
@@ -136,6 +137,7 @@ export function ServicePageShell({
             <article className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9">
               {lang === "mr" ? contentMr : contentEn}
             </article>
+            <PricingSection serviceName={title} />
             <RelatedServices slug={slug} lang={t} title={relatedHeading[t]} />
           </div>
         </section>

@@ -3,6 +3,7 @@ import dynamic from "next/dynamic";
 import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
+import { PricingSection } from "@/components/pricing-section";
 import { MapReferenceSection } from "@/components/map-reference-client";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
@@ -57,6 +58,14 @@ export default function Home() {
 
         {/* Below-fold — lazy loaded */}
         <ServicesGrid />
+
+        {/* Transparent starting prices — server-rendered for SEO */}
+        <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">
+          <div className="mx-auto max-w-4xl">
+            <PricingSection />
+          </div>
+        </section>
+
         <Disclaimer />
       </main>
       <SiteFooter />
