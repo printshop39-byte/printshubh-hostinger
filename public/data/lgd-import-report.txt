@@ -1,0 +1,12 @@
+LGD official import report — 2026-06-14
+
+Districts imported : 36 (Marathi: 36, missing: 0)
+Talukas imported   : 359 (Marathi: 260, missing: 99)
+Villages imported  : 44855 (Marathi: 44816, missing: 39)
+
+Output: public/data/lgd-local-names.json (6.7 MB)
+Keys: byVillageCode=44855 byName=45370 talukas=359
+
+Note: village file carries no taluka-local column; taluka Marathi is
+derived from the HQ village (village whose English name == taluka name).
+Districts/talukas/villages with blank Marathi fall back to English in the UI.
