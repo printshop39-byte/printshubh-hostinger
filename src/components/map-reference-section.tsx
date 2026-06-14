@@ -52,7 +52,19 @@ type ServiceTab =
   | "property_card"
   | "property_card_ferfar"
   | "mumbai_property_card"
-  | "swamitva_map";
+  | "index_ii"
+  | "village_map"
+  | "swamitva_map"
+  | "location_map"
+  | "map_overlay"
+  | "town_planning_map"
+  | "development_plan"
+  | "regional_plan"
+  | "google_zone_report"
+  | "full_map_report";
+
+/* Two top-level categories the service chips are grouped under. */
+type ServiceCategory = "digital" | "maps";
 
 interface FormData {
   district: string;
@@ -79,6 +91,15 @@ interface FormData {
   divisionWard: string;
   /* Property Card + Mumbai City Property Card — "all" | "live" */
   entryType: "all" | "live" | "";
+  /* Maps / Plans shared fields */
+  plotNumber: string;        // combined Gat / Survey / Plot number
+  localBody: string;         // free-text Village / City / Local body / Planning authority
+  gmapLink: string;          // Google Map pin / location link
+  note: string;              // purpose / note
+  overlayType: string;       // Map Overlay only
+  /* Index II */
+  docNumber: string;
+  docYear: string;
   /* legacy free-text service label (kept for back-compat in the WA msg fallback) */
   serviceType: string;
 }
@@ -474,34 +495,81 @@ const ALL_BASE_LAYER_IDS = PRELOADED_LAYERS.map((l) => l.id);
 
 /* ── Service tabs ──────────────────────────────────────────────────────────── */
 
-const SERVICE_TAB_ORDER: ServiceTab[] = [
-  "7_12",
-  "8a",
-  "eferfar",
-  "property_card",
-  "property_card_ferfar",
-  "mumbai_property_card",
-  "swamitva_map",
-];
+/* Service order within each category. */
+const CATEGORY_ORDER: ServiceCategory[] = ["digital", "maps"];
+
+const CATEGORY_SERVICES: Record<ServiceCategory, ServiceTab[]> = {
+  digital: [
+    "7_12",
+    "8a",
+    "eferfar",
+    "property_card",
+    "property_card_ferfar",
+    "mumbai_property_card",
+    "index_ii",
+  ],
+  maps: [
+    "village_map",
+    "swamitva_map",
+    "location_map",
+    "map_overlay",
+    "town_planning_map",
+    "development_plan",
+    "regional_plan",
+    "google_zone_report",
+    "full_map_report",
+  ],
+};
+
+const SERVICE_TO_CATEGORY: Record<ServiceTab, ServiceCategory> = (() => {
+  const m = {} as Record<ServiceTab, ServiceCategory>;
+  (Object.keys(CATEGORY_SERVICES) as ServiceCategory[]).forEach((c) => {
+    CATEGORY_SERVICES[c].forEach((s) => (m[s] = c));
+  });
+  return m;
+})();
+
+const CATEGORY_LABELS: Record<Lang, Record<ServiceCategory, string>> = {
+  mr: { digital: "डिजिटल दस्तऐवज", maps: "नकाशे / प्लॅन" },
+  en: { digital: "Digital Documents", maps: "Maps / Plans" },
+};
 
 const SERVICE_LABELS: Record<Lang, Record<ServiceTab, string>> = {
   mr: {
-    "7_12": "7/12",
-    "8a": "8A",
+    "7_12": "7/12 उतारा",
+    "8a": "8A उतारा",
     eferfar: "फेरफार",
-    property_card: "प्रॉपर्टी कार्ड",
-    property_card_ferfar: "प्रॉपर्टी कार्ड फेरफार",
+    property_card: "मिळकत पत्रिका",
+    property_card_ferfar: "मिळकत पत्रिका फेरफार",
     mumbai_property_card: "मुंबई प्रॉपर्टी कार्ड",
+    index_ii: "Index II",
+    village_map: "गाव नकाशा",
     swamitva_map: "स्वामित्व नकाशा",
+    location_map: "लोकेशन नकाशा",
+    map_overlay: "नकाशा ओव्हरले",
+    town_planning_map: "नगर रचना नकाशा",
+    development_plan: "विकास आराखडा",
+    regional_plan: "प्रादेशिक आराखडा",
+    google_zone_report: "Google झोन अहवाल",
+    full_map_report: "संपूर्ण नकाशा अहवाल",
   },
   en: {
-    "7_12": "7/12",
-    "8a": "8A",
-    eferfar: "eFerfar",
+    "7_12": "7/12 Extract",
+    "8a": "8A Extract",
+    eferfar: "Mutation / Ferfar",
     property_card: "Property Card",
-    property_card_ferfar: "Property Card Ferfar",
+    property_card_ferfar: "Property Card Mutation",
     mumbai_property_card: "Mumbai Property Card",
+    index_ii: "Index II",
+    village_map: "Village Map",
     swamitva_map: "Swamitva Map",
+    location_map: "Location Map",
+    map_overlay: "Map Overlay",
+    town_planning_map: "Town Planning Map",
+    development_plan: "Development Plan",
+    regional_plan: "Regional Plan",
+    google_zone_report: "Google Zone Report",
+    full_map_report: "Full Map Report",
   },
 };
 
@@ -510,20 +578,38 @@ const SERVICE_FULL_LABELS: Record<Lang, Record<ServiceTab, string>> = {
   mr: {
     "7_12": "7/12 उतारा",
     "8a": "8A उतारा",
-    eferfar: "ई-फेरफार (Mutation)",
+    eferfar: "फेरफार (Mutation)",
     property_card: "मिळकत पत्रिका (Property Card)",
     property_card_ferfar: "मिळकत पत्रिका फेरफार",
-    mumbai_property_card: "मुंबई शहर मिळकत पत्रिका",
+    mumbai_property_card: "मुंबई प्रॉपर्टी कार्ड",
+    index_ii: "Index II",
+    village_map: "गाव नकाशा",
     swamitva_map: "स्वामित्व नकाशा",
+    location_map: "लोकेशन नकाशा",
+    map_overlay: "नकाशा ओव्हरले",
+    town_planning_map: "नगर रचना नकाशा",
+    development_plan: "विकास आराखडा / Development Plan",
+    regional_plan: "प्रादेशिक आराखडा / Regional Plan",
+    google_zone_report: "Google Map नुसार झोन-निहाय जमीन अहवाल",
+    full_map_report: "संपूर्ण नकाशा विकास अहवाल",
   },
   en: {
     "7_12": "7/12 Extract",
     "8a": "8A Extract",
-    eferfar: "eFerfar (Mutation)",
+    eferfar: "Mutation / Ferfar",
     property_card: "Property Card",
     property_card_ferfar: "Property Card Mutation",
-    mumbai_property_card: "Property Card — Mumbai City",
+    mumbai_property_card: "Mumbai Property Card",
+    index_ii: "Index II",
+    village_map: "Village Map",
     swamitva_map: "Swamitva Map",
+    location_map: "Location Map",
+    map_overlay: "Map Overlay",
+    town_planning_map: "Town Planning Map",
+    development_plan: "Development Plan",
+    regional_plan: "Regional Plan",
+    google_zone_report: "Google Map Zone-wise Land Report",
+    full_map_report: "Full Map Development Report",
   },
 };
 
@@ -582,6 +668,21 @@ const ui: Record<Lang, {
   baseLayerLabel: string;
   baseLayers: Record<BaseLayerId, string>;
   changingMapType: string;
+  categoryHelper: string;
+  villageCity: string;
+  villageCityPlaceholder: string;
+  localBodyAuthority: string;
+  localBodyAuthorityPlaceholder: string;
+  plotNo: string;
+  gmapLinkLabel: string;
+  gmapLinkHint: string;
+  noteLabel: string;
+  notePlaceholder: string;
+  overlayTypeLabel: string;
+  overlayChoose: string;
+  overlayOptions: Record<"land_boundary" | "village_map" | "dp_tp" | "zone" | "satellite", string>;
+  docNumberLabel: string;
+  docYearLabel: string;
 }> = {
   mr: {
     sectionBadge: "नकाशा संदर्भ",
@@ -645,6 +746,27 @@ const ui: Record<Lang, {
       topo: "टोपो",
     },
     changingMapType: "नकाशा प्रकार बदलत आहे...",
+    categoryHelper: "प्रकार निवडा, मग सेवा निवडा.",
+    villageCity: "गाव / शहर",
+    villageCityPlaceholder: "गाव, शहर किंवा स्थानिक स्वराज्य संस्थेचे नाव",
+    localBodyAuthority: "शहर / नगरपालिका / महानगरपालिका / नियोजन प्राधिकरण",
+    localBodyAuthorityPlaceholder: "शहर, नगरपालिका, महानगरपालिका किंवा नियोजन प्राधिकरण",
+    plotNo: "गट / सर्वे / प्लॉट नंबर (माहीत असल्यास)",
+    gmapLinkLabel: "Google Map लिंक (ऐच्छिक)",
+    gmapLinkHint: "Google Maps वर ठिकाण उघडा → Share → लिंक कॉपी करून येथे पेस्ट करा.",
+    noteLabel: "टीप / उद्देश (ऐच्छिक)",
+    notePlaceholder: "तुमची गरज थोडक्यात लिहा. (जुना नकाशा PDF / स्क्रीनशॉट / coordinates असल्यास नमूद करा.)",
+    overlayTypeLabel: "ओव्हरले प्रकार (ऐच्छिक)",
+    overlayChoose: "ओव्हरले प्रकार निवडा",
+    overlayOptions: {
+      land_boundary: "जमीन सीमा ओव्हरले",
+      village_map: "गाव नकाशा ओव्हरले",
+      dp_tp: "DP / TP प्लॅन ओव्हरले",
+      zone: "झोन ओव्हरले",
+      satellite: "सॅटेलाइट नकाशा ओव्हरले",
+    },
+    docNumberLabel: "दस्त क्रमांक (ऐच्छिक)",
+    docYearLabel: "वर्ष (ऐच्छिक)",
   },
   en: {
     sectionBadge: "Map Reference",
@@ -708,6 +830,27 @@ const ui: Record<Lang, {
       topo: "Topo",
     },
     changingMapType: "Changing map type...",
+    categoryHelper: "Pick a category, then choose a service.",
+    villageCity: "Village / City",
+    villageCityPlaceholder: "Village, city or local body name",
+    localBodyAuthority: "City / Municipal Council / Corporation / Planning Authority",
+    localBodyAuthorityPlaceholder: "City, municipal council, corporation or planning authority",
+    plotNo: "Gat / Survey / Plot Number (if known)",
+    gmapLinkLabel: "Google Map Link (optional)",
+    gmapLinkHint: "Open the spot in Google Maps → Share → copy the link and paste it here.",
+    noteLabel: "Note / Purpose (optional)",
+    notePlaceholder: "Briefly describe what you need. (Mention if you have an old map PDF / screenshot / coordinates.)",
+    overlayTypeLabel: "Overlay Type (optional)",
+    overlayChoose: "Choose overlay type",
+    overlayOptions: {
+      land_boundary: "Land boundary overlay",
+      village_map: "Village map overlay",
+      dp_tp: "DP / TP plan overlay",
+      zone: "Zone overlay",
+      satellite: "Satellite map overlay",
+    },
+    docNumberLabel: "Document number (optional)",
+    docYearLabel: "Year (optional)",
   },
 };
 
@@ -742,6 +885,16 @@ interface ServiceFieldConfig {
   showEntryType: boolean;
 
   primaryField: "gut" | "survey" | "cts" | "khata" | "ferfar" | null;
+
+  /* ── Maps / Plans + Index II additions (all optional; default false) ── */
+  villageOptional?: boolean;     // taluka/village dropdowns shown but not required
+  showLocalBody?: boolean;       // free-text Village / City / Local body / Authority
+  localBodyKind?: "villageCity" | "authority"; // which label to use
+  showPlotNumber?: boolean;      // combined Gat / Survey / Plot number text input
+  showGmapLink?: boolean;        // Google Map link
+  showNote?: boolean;            // purpose / note textarea
+  showOverlayType?: boolean;     // Map Overlay only
+  showDocNumberYear?: boolean;   // Index II
 }
 
 const SERVICE_FIELDS: Record<ServiceTab, ServiceFieldConfig> = {
@@ -793,13 +946,104 @@ const SERVICE_FIELDS: Record<ServiceTab, ServiceFieldConfig> = {
     showKhataNumber: false, showFerfarNumber: false, showEntryType: true,
     primaryField: "cts",
   },
+  index_ii: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    showPlotNumber: true, showDocNumberYear: true,
+  },
+
+  /* ── Maps / Plans — village-level (use the district→taluka→village chain) ── */
+  village_map: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
   swamitva_map: {
     showRegion: false, showDistrict: true, showOffice: false,
     showTaluka: true, showVillage: true, showPeth: false,
     showCitySurveyOffice: false, showDivisionWard: false,
-    showGutNumber: true, showSurveyNumber: true, showCtsNumber: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
     showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
     primaryField: null,
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
+  google_zone_report: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
+  full_map_report: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: true, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: false,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
+
+  /* ── Maps / Plans — area/city level (taluka optional, free-text place) ── */
+  location_map: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: false, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    villageOptional: true, showLocalBody: true, localBodyKind: "villageCity",
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
+  map_overlay: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: false, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    villageOptional: true, showLocalBody: true, localBodyKind: "villageCity",
+    showPlotNumber: true, showGmapLink: true, showNote: true, showOverlayType: true,
+  },
+  town_planning_map: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: false, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    villageOptional: true, showLocalBody: true, localBodyKind: "authority",
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
+  development_plan: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: false, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    villageOptional: true, showLocalBody: true, localBodyKind: "authority",
+    showPlotNumber: true, showGmapLink: true, showNote: true,
+  },
+  regional_plan: {
+    showRegion: false, showDistrict: true, showOffice: false,
+    showTaluka: true, showVillage: false, showPeth: false,
+    showCitySurveyOffice: false, showDivisionWard: false,
+    showGutNumber: false, showSurveyNumber: false, showCtsNumber: true,
+    showKhataNumber: false, showFerfarNumber: false, showEntryType: false,
+    primaryField: null,
+    villageOptional: true, showLocalBody: true, localBodyKind: "authority",
+    showPlotNumber: true, showGmapLink: true, showNote: true,
   },
 };
 
@@ -816,6 +1060,7 @@ function buildWhatsAppMsg(args: {
 }): string {
   const { lang, service, form, villageCentroid, plotCoords, plotCentroid, plotAreaSqm } = args;
   const cfg = SERVICE_FIELDS[service];
+  const category = SERVICE_TO_CATEGORY[service];
   const gmap = (lat: number, lng: number) =>
     `https://maps.google.com/?q=${lat.toFixed(6)},${lng.toFixed(6)}`;
 
@@ -823,94 +1068,124 @@ function buildWhatsAppMsg(args: {
     ? { all: "सर्व नोंदी", live: "चालू नोंद" }
     : { all: "All Entry",  live: "Live Entry" })[form.entryType || "all"] ?? "";
 
-  if (lang === "mr") {
-    const lines: string[] = [
-      "नमस्कार PrintShubh,",
-      "मला खालील कागदपत्रासाठी मदत हवी आहे.",
-      "",
-      `सेवा: ${SERVICE_FULL_LABELS.mr[service]}`,
-    ];
-    if (cfg.showRegion && form.region) lines.push(`विभाग: ${form.region}`);
-    if (cfg.showDistrict && form.district) lines.push(`जिल्हा: ${form.district}`);
-    if (cfg.showOffice && form.office) lines.push(`कार्यालय: ${form.office}`);
-    if (cfg.showTaluka && form.taluka) lines.push(`तालुका: ${form.taluka}`);
-    if (cfg.showVillage && form.village) lines.push(`गाव: ${form.village}`);
-    if (cfg.showPeth && form.peth) lines.push(`गाव / पेठ: ${form.peth}`);
-    if (cfg.showCitySurveyOffice && form.citySurveyOffice)
-      lines.push(`सिटी सर्व्हे कार्यालय: ${form.citySurveyOffice}`);
-    if (cfg.showDivisionWard && form.divisionWard)
-      lines.push(`विभाग / वॉर्ड: ${form.divisionWard}`);
+  const overlayLabel = form.overlayType
+    ? ui[lang].overlayOptions[form.overlayType as keyof (typeof ui)["mr"]["overlayOptions"]] ?? form.overlayType
+    : "";
 
-    if (cfg.showGutNumber && form.gutNumber) lines.push(`गट नंबर: ${form.gutNumber}`);
-    if (cfg.showSurveyNumber && form.surveyNumber) lines.push(`सर्वे नंबर: ${form.surveyNumber}`);
-    if (cfg.showCtsNumber && form.ctsNumber) lines.push(`CTS नंबर: ${form.ctsNumber}`);
-    if (cfg.showKhataNumber && form.khataNumber) lines.push(`खाता नंबर: ${form.khataNumber}`);
-    if (cfg.showFerfarNumber && form.ferfarNumber) lines.push(`फेरफार नंबर: ${form.ferfarNumber}`);
-    if (cfg.showEntryType && form.entryType) lines.push(`नोंद प्रकार: ${entryLabel}`);
+  // The "place" is either the dropdown village (village-level services) or the
+  // free-text Village / City / Local body (area/city services).
+  const place = (cfg.showLocalBody ? form.localBody : form.village).trim();
 
-    if (villageCentroid) {
-      lines.push("");
-      lines.push(`गाव मध्यबिंदू: ${villageCentroid.lat.toFixed(6)}, ${villageCentroid.lng.toFixed(6)}`);
-      lines.push(`Google Maps: ${gmap(villageCentroid.lat, villageCentroid.lng)}`);
-    }
-    if (plotCoords.length >= 3 && plotCentroid) {
-      lines.push("");
-      lines.push("मी नकाशावर plot boundary मार्क केली आहे.");
-      lines.push(`प्लॉट मध्यबिंदू: ${plotCentroid.lat.toFixed(6)}, ${plotCentroid.lng.toFixed(6)}`);
-      lines.push(`Google Maps: ${gmap(plotCentroid.lat, plotCentroid.lng)}`);
-      lines.push(`अंदाजे क्षेत्रफळ: ${plotAreaSqm.toFixed(0)} वर्ग मीटर`);
-      lines.push("Plot polygon coordinates:");
-      plotCoords.forEach(([lng, lat], i) => {
-        lines.push(`${i + 1}. ${lat.toFixed(6)}, ${lng.toFixed(6)}`);
-      });
-    }
-    lines.push("");
-    lines.push("कृपया पुढील प्रक्रिया सांगा.");
-    return lines.join("\n");
-  }
+  // Combined Gat / Survey / Plot / CTS line (only the values the user filled).
+  const numbers = [
+    cfg.showGutNumber ? form.gutNumber : "",
+    cfg.showSurveyNumber ? form.surveyNumber : "",
+    cfg.showPlotNumber ? form.plotNumber : "",
+    cfg.showCtsNumber ? form.ctsNumber : "",
+  ].map((s) => s.trim()).filter(Boolean);
 
-  const lines: string[] = [
-    "Hello PrintShubh,",
-    "I need help with the following document.",
-    "",
-    `Service: ${SERVICE_FULL_LABELS.en[service]}`,
-  ];
-  if (cfg.showRegion && form.region) lines.push(`Region: ${form.region}`);
-  if (cfg.showDistrict && form.district) lines.push(`District: ${form.district}`);
-  if (cfg.showOffice && form.office) lines.push(`Office: ${form.office}`);
-  if (cfg.showTaluka && form.taluka) lines.push(`Taluka: ${form.taluka}`);
-  if (cfg.showVillage && form.village) lines.push(`Village: ${form.village}`);
-  if (cfg.showPeth && form.peth) lines.push(`Peth / Village: ${form.peth}`);
+  const docLine = [form.docNumber, form.docYear].map((s) => s.trim()).filter(Boolean).join(" / ");
+
+  const t = lang === "mr"
+    ? {
+        greeting: "नमस्कार PrintShubh,",
+        intro: "मला खालील सेवेसाठी मदत हवी आहे.",
+        category: "प्रकार",
+        service: "सेवा",
+        region: "विभाग",
+        district: "जिल्हा",
+        office: "कार्यालय",
+        taluka: "तालुका",
+        place: "गाव / शहर",
+        peth: "गाव / पेठ",
+        citySurvey: "सिटी सर्व्हे कार्यालय",
+        divisionWard: "विभाग / वॉर्ड",
+        numbers: "गट / सर्वे / प्लॉट / CTS नंबर",
+        khata: "खाता नंबर",
+        ferfar: "फेरफार नंबर",
+        doc: "दस्त क्रमांक / वर्ष",
+        entry: "नोंद प्रकार",
+        gmap: "Google Map लिंक",
+        overlay: "ओव्हरले प्रकार",
+        note: "टीप",
+        villageCentroid: "गाव मध्यबिंदू",
+        markedPlot: "मी नकाशावर plot boundary मार्क केली आहे.",
+        plotCentroid: "प्लॉट मध्यबिंदू",
+        area: "अंदाजे क्षेत्रफळ",
+        areaUnit: "वर्ग मीटर",
+        coords: "Plot polygon coordinates:",
+        closing: "कृपया किंमत आणि वेळ सांगा.",
+      }
+    : {
+        greeting: "Hello PrintShubh,",
+        intro: "I need help with the following service.",
+        category: "Category",
+        service: "Service",
+        region: "Region",
+        district: "District",
+        office: "Office",
+        taluka: "Taluka",
+        place: "Village / City",
+        peth: "Peth / Village",
+        citySurvey: "City Survey Office",
+        divisionWard: "Division / Ward",
+        numbers: "Gat / Survey / Plot / CTS Number",
+        khata: "Khata No.",
+        ferfar: "Ferfar / Mutation No.",
+        doc: "Document No. / Year",
+        entry: "Entry type",
+        gmap: "Google Map Link",
+        overlay: "Overlay Type",
+        note: "Note",
+        villageCentroid: "Village centroid",
+        markedPlot: "I have marked a plot boundary on the map.",
+        plotCentroid: "Plot centroid",
+        area: "Approx. area",
+        areaUnit: "sq.m",
+        coords: "Plot polygon coordinates:",
+        closing: "Please share the price and time required.",
+      };
+
+  const lines: string[] = [t.greeting, t.intro, ""];
+  lines.push(`${t.category}: ${CATEGORY_LABELS[lang][category]}`);
+  lines.push(`${t.service}: ${SERVICE_FULL_LABELS[lang][service]}`);
+  if (cfg.showRegion && form.region) lines.push(`${t.region}: ${form.region}`);
+  if (cfg.showDistrict && form.district) lines.push(`${t.district}: ${form.district}`);
+  if (cfg.showOffice && form.office) lines.push(`${t.office}: ${form.office}`);
+  if (cfg.showTaluka && form.taluka) lines.push(`${t.taluka}: ${form.taluka}`);
+  if (place) lines.push(`${t.place}: ${place}`);
+  if (cfg.showPeth && form.peth) lines.push(`${t.peth}: ${form.peth}`);
   if (cfg.showCitySurveyOffice && form.citySurveyOffice)
-    lines.push(`City Survey Office: ${form.citySurveyOffice}`);
+    lines.push(`${t.citySurvey}: ${form.citySurveyOffice}`);
   if (cfg.showDivisionWard && form.divisionWard)
-    lines.push(`Division / Ward: ${form.divisionWard}`);
-
-  if (cfg.showGutNumber && form.gutNumber) lines.push(`Gut No.: ${form.gutNumber}`);
-  if (cfg.showSurveyNumber && form.surveyNumber) lines.push(`Survey No.: ${form.surveyNumber}`);
-  if (cfg.showCtsNumber && form.ctsNumber) lines.push(`CTS No.: ${form.ctsNumber}`);
-  if (cfg.showKhataNumber && form.khataNumber) lines.push(`Khata No.: ${form.khataNumber}`);
-  if (cfg.showFerfarNumber && form.ferfarNumber) lines.push(`Ferfar / Mutation No.: ${form.ferfarNumber}`);
-  if (cfg.showEntryType && form.entryType) lines.push(`Entry type: ${entryLabel}`);
+    lines.push(`${t.divisionWard}: ${form.divisionWard}`);
+  if (numbers.length) lines.push(`${t.numbers}: ${numbers.join(" / ")}`);
+  if (cfg.showKhataNumber && form.khataNumber) lines.push(`${t.khata}: ${form.khataNumber}`);
+  if (cfg.showFerfarNumber && form.ferfarNumber) lines.push(`${t.ferfar}: ${form.ferfarNumber}`);
+  if (cfg.showDocNumberYear && docLine) lines.push(`${t.doc}: ${docLine}`);
+  if (cfg.showEntryType && form.entryType) lines.push(`${t.entry}: ${entryLabel}`);
+  if (cfg.showGmapLink && form.gmapLink) lines.push(`${t.gmap}: ${form.gmapLink}`);
+  if (cfg.showOverlayType && overlayLabel) lines.push(`${t.overlay}: ${overlayLabel}`);
+  if (cfg.showNote && form.note) lines.push(`${t.note}: ${form.note}`);
 
   if (villageCentroid) {
     lines.push("");
-    lines.push(`Village centroid: ${villageCentroid.lat.toFixed(6)}, ${villageCentroid.lng.toFixed(6)}`);
+    lines.push(`${t.villageCentroid}: ${villageCentroid.lat.toFixed(6)}, ${villageCentroid.lng.toFixed(6)}`);
     lines.push(`Google Maps: ${gmap(villageCentroid.lat, villageCentroid.lng)}`);
   }
   if (plotCoords.length >= 3 && plotCentroid) {
     lines.push("");
-    lines.push("I have marked a plot boundary on the map.");
-    lines.push(`Plot centroid: ${plotCentroid.lat.toFixed(6)}, ${plotCentroid.lng.toFixed(6)}`);
+    lines.push(t.markedPlot);
+    lines.push(`${t.plotCentroid}: ${plotCentroid.lat.toFixed(6)}, ${plotCentroid.lng.toFixed(6)}`);
     lines.push(`Google Maps: ${gmap(plotCentroid.lat, plotCentroid.lng)}`);
-    lines.push(`Approx. area: ${plotAreaSqm.toFixed(0)} sq.m`);
-    lines.push("Plot polygon coordinates:");
+    lines.push(`${t.area}: ${plotAreaSqm.toFixed(0)} ${t.areaUnit}`);
+    lines.push(t.coords);
     plotCoords.forEach(([lng, lat], i) => {
       lines.push(`${i + 1}. ${lat.toFixed(6)}, ${lng.toFixed(6)}`);
     });
   }
   lines.push("");
-  lines.push("Please advise next steps.");
+  lines.push(t.closing);
   return lines.join("\n");
 }
 
@@ -1430,6 +1705,8 @@ export function MapReferenceSection() {
     region: "", office: "", peth: "",
     citySurveyOffice: "", divisionWard: "",
     entryType: "all",
+    plotNumber: "", localBody: "", gmapLink: "", note: "", overlayType: "",
+    docNumber: "", docYear: "",
     serviceType: "",
   });
 
@@ -1438,7 +1715,14 @@ export function MapReferenceSection() {
    * request volume for PrintShubh. Switching tabs preserves all already-typed
    * values so the user can toggle without losing work. */
   const [activeService, setActiveService] = useState<ServiceTab>("7_12");
+  const [activeCategory, setActiveCategory] = useState<ServiceCategory>("digital");
   const fieldCfg = SERVICE_FIELDS[activeService];
+
+  /* Switching category jumps to the first service in that category. */
+  const handleSelectCategory = useCallback((cat: ServiceCategory) => {
+    setActiveCategory(cat);
+    setActiveService(CATEGORY_SERVICES[cat][0]);
+  }, []);
 
   const [districts, setDistricts] = useState<DistrictRow[]>([]);
   const [talukas, setTalukas] = useState<TalukaRow[]>([]);
@@ -1885,7 +2169,11 @@ export function MapReferenceSection() {
     if (cfg.showVillage && (!form.district_id || !form.taluka_id || !form.village_id)) {
       return false;
     }
-    if (cfg.showDistrict && !cfg.showVillage && !form.district) {
+    // City / area services: district + a free-text place (taluka optional).
+    if (cfg.showLocalBody && (!form.district_id || !form.localBody.trim())) {
+      return false;
+    }
+    if (cfg.showDistrict && !cfg.showVillage && !cfg.showLocalBody && !form.district) {
       return false;
     }
     if (cfg.showCitySurveyOffice && !form.citySurveyOffice) return false;
@@ -2047,12 +2335,40 @@ export function MapReferenceSection() {
                * row inside its card; overflow-x-auto scrolls the pills, and
                * overscroll-x-contain stops a swipe from dragging the whole page.
                * No negative margins, so the row never bleeds past the card. */}
+              {/* ── Category tabs (Digital Documents / Maps · Plans) ──── */}
               <div
                 role="tablist"
-                aria-label={lang === "mr" ? "कागदपत्र प्रकार" : "Document type"}
+                aria-label={lang === "mr" ? "सेवा प्रकार" : "Service category"}
+                className="mb-2.5 grid grid-cols-2 gap-2"
+              >
+                {CATEGORY_ORDER.map((cat) => {
+                  const isActive = activeCategory === cat;
+                  return (
+                    <button
+                      key={cat}
+                      type="button"
+                      role="tab"
+                      aria-selected={isActive}
+                      onClick={() => handleSelectCategory(cat)}
+                      className={`w-full whitespace-nowrap rounded-lg border px-3 py-2 text-xs font-black transition focus:outline-none focus:ring-2 focus:ring-blue-200 sm:text-sm ${
+                        isActive
+                          ? "border-blue-700 bg-blue-700 text-white shadow-sm"
+                          : "border-slate-200 bg-slate-50 text-slate-700 hover:border-slate-300 hover:bg-white"
+                      }`}
+                    >
+                      {CATEGORY_LABELS[lang][cat]}
+                    </button>
+                  );
+                })}
+              </div>
+
+              {/* ── Service chips for the active category ──────────────── */}
+              <div
+                role="tablist"
+                aria-label={lang === "mr" ? "सेवा" : "Service"}
                 className="mb-2 flex w-full max-w-full flex-nowrap gap-1.5 overflow-x-auto overscroll-x-contain px-0.5 pb-2 [scrollbar-width:thin]"
               >
-                {SERVICE_TAB_ORDER.map((id) => {
+                {CATEGORY_SERVICES[activeCategory].map((id) => {
                   const isActive = activeService === id;
                   return (
                     <button
@@ -2165,6 +2481,21 @@ export function MapReferenceSection() {
                   </div>
                 )}
 
+                {fieldCfg.showLocalBody && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">
+                      {fieldCfg.localBodyKind === "authority" ? tx.localBodyAuthority : tx.villageCity}
+                    </label>
+                    <input
+                      type="text"
+                      value={form.localBody}
+                      onChange={(e) => updateForm("localBody", e.target.value)}
+                      placeholder={fieldCfg.localBodyKind === "authority" ? tx.localBodyAuthorityPlaceholder : tx.villageCityPlaceholder}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                  </div>
+                )}
+
                 {fieldCfg.showPeth && (
                   <div>
                     <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.peth}</label>
@@ -2204,7 +2535,7 @@ export function MapReferenceSection() {
                   </div>
                 )}
 
-                {fieldCfg.showDistrict && form.district_id && !form.taluka_id && fieldCfg.showTaluka && (
+                {fieldCfg.showDistrict && form.district_id && !form.taluka_id && fieldCfg.showTaluka && fieldCfg.showVillage && !fieldCfg.villageOptional && (
                   <p className="flex items-start gap-2 rounded-md border border-blue-200 bg-blue-50 px-3 py-2 text-xs leading-5 text-blue-900">
                     <Info className="mt-0.5 size-3.5 shrink-0" />
                     {lang === "mr" ? "आता तालुका निवडा." : "Now choose a taluka."}
@@ -2284,6 +2615,89 @@ export function MapReferenceSection() {
                         />
                       </div>
                     )}
+                  </div>
+                )}
+
+                {fieldCfg.showPlotNumber && (
+                  <div>
+                    <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.plotNo}</label>
+                    <input
+                      type="text"
+                      value={form.plotNumber}
+                      onChange={(e) => updateForm("plotNumber", e.target.value)}
+                      placeholder="—"
+                      className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white"
+                    />
+                  </div>
+                )}
+
+                {fieldCfg.showDocNumberYear && (
+                  <div className="grid gap-3 sm:grid-cols-2">
+                    <div>
+                      <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.docNumberLabel}</label>
+                      <input
+                        type="text"
+                        value={form.docNumber}
+                        onChange={(e) => updateForm("docNumber", e.target.value)}
+                        placeholder="—"
+                        className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white"
+                      />
+                    </div>
+                    <div>
+                      <label className="mb-1.5 block text-xs font-bold text-slate-600">{tx.docYearLabel}</label>
+                      <input
+                        type="text"
+                        inputMode="numeric"
+                        value={form.docYear}
+                        onChange={(e) => updateForm("docYear", e.target.value)}
+                        placeholder="—"
+                        className="h-11 lg:h-10 w-full rounded-md border border-slate-300 bg-slate-50 px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:bg-white"
+                      />
+                    </div>
+                  </div>
+                )}
+
+                {fieldCfg.showOverlayType && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.overlayTypeLabel}</label>
+                    <select
+                      value={form.overlayType}
+                      onChange={(e) => updateForm("overlayType", e.target.value)}
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    >
+                      <option value="">— {tx.overlayChoose} —</option>
+                      {(Object.keys(tx.overlayOptions) as Array<keyof typeof tx.overlayOptions>).map((k) => (
+                        <option key={k} value={k}>{tx.overlayOptions[k]}</option>
+                      ))}
+                    </select>
+                  </div>
+                )}
+
+                {fieldCfg.showGmapLink && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.gmapLinkLabel}</label>
+                    <input
+                      type="url"
+                      inputMode="url"
+                      value={form.gmapLink}
+                      onChange={(e) => updateForm("gmapLink", e.target.value)}
+                      placeholder="https://maps.google.com/..."
+                      className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
+                    <p className="mt-1 text-[11px] leading-5 text-slate-500">{tx.gmapLinkHint}</p>
+                  </div>
+                )}
+
+                {fieldCfg.showNote && (
+                  <div>
+                    <label className="mb-1.5 block text-sm font-bold text-slate-700">{tx.noteLabel}</label>
+                    <textarea
+                      value={form.note}
+                      onChange={(e) => updateForm("note", e.target.value)}
+                      placeholder={tx.notePlaceholder}
+                      rows={3}
+                      className="w-full rounded-md border border-slate-300 bg-white px-3 py-2 text-base lg:text-sm font-medium text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                    />
                   </div>
                 )}
 

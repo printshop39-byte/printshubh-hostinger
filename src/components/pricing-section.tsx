@@ -24,6 +24,8 @@ const rows: Row[] = [
   { name: { mr: "8A उतारा", en: "8A Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
   { name: { mr: "मिळकत पत्रिका", en: "Property Card" }, price: { mr: "₹100 पासून", en: "From ₹100" } },
   { name: { mr: "गाव नकाशा", en: "Village Map" }, price: { mr: "₹300 पासून", en: "From ₹300" } },
+  { name: { mr: "लोकेशन नकाशा", en: "Location Map" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" } },
+  { name: { mr: "नकाशा ओव्हरले", en: "Map Overlay" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" } },
   { name: { mr: "संपूर्ण नकाशा विकास अहवाल", en: "Full Map Development Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
   { name: { mr: "नगर रचना नकाशा", en: "Town Planning Map" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
   { name: { mr: "Google Map नुसार झोन-निहाय जमीन अहवाल", en: "Google Map Zone-wise Land Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
