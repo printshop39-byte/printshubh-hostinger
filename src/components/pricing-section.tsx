@@ -18,18 +18,37 @@ import { useLang, type Lang } from "@/components/language-context";
 import { whatsappHref } from "@/lib/whatsapp";
 
 type Row = { name: Record<Lang, string>; price: Record<Lang, string> };
+type Group = { title: Record<Lang, string>; rows: Row[] };
 
-const rows: Row[] = [
-  { name: { mr: "7/12 उतारा", en: "7/12 Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
-  { name: { mr: "8A उतारा", en: "8A Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
-  { name: { mr: "मिळकत पत्रिका", en: "Property Card" }, price: { mr: "₹100 पासून", en: "From ₹100" } },
-  { name: { mr: "गाव नकाशा", en: "Village Map" }, price: { mr: "₹300 पासून", en: "From ₹300" } },
-  { name: { mr: "लोकेशन नकाशा", en: "Location Map" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" } },
-  { name: { mr: "नकाशा ओव्हरले", en: "Map Overlay" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" } },
-  { name: { mr: "संपूर्ण नकाशा विकास अहवाल", en: "Full Map Development Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
-  { name: { mr: "नगर रचना नकाशा", en: "Town Planning Map" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
-  { name: { mr: "Google Map नुसार झोन-निहाय जमीन अहवाल", en: "Google Map Zone-wise Land Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
-  { name: { mr: "Index II", en: "Index II" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" } },
+const ASK: Record<Lang, string> = { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" };
+
+const groups: Group[] = [
+  {
+    title: { mr: "डिजिटल दस्तऐवज", en: "Digital Documents" },
+    rows: [
+      { name: { mr: "7/12 उतारा", en: "7/12 Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
+      { name: { mr: "8A उतारा", en: "8A Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
+      { name: { mr: "फेरफार", en: "Mutation / Ferfar" }, price: ASK },
+      { name: { mr: "मिळकत पत्रिका", en: "Property Card" }, price: { mr: "₹100 पासून", en: "From ₹100" } },
+      { name: { mr: "मिळकत पत्रिका फेरफार", en: "Property Card Mutation" }, price: ASK },
+      { name: { mr: "मुंबई प्रॉपर्टी कार्ड", en: "Mumbai Property Card" }, price: ASK },
+      { name: { mr: "Index II", en: "Index II" }, price: ASK },
+    ],
+  },
+  {
+    title: { mr: "नकाशे / प्लॅन", en: "Maps / Plans" },
+    rows: [
+      { name: { mr: "गाव नकाशा", en: "Village Map" }, price: { mr: "₹300 पासून", en: "From ₹300" } },
+      { name: { mr: "स्वामित्व नकाशा", en: "Swamitva Map" }, price: ASK },
+      { name: { mr: "लोकेशन नकाशा", en: "Location Map" }, price: ASK },
+      { name: { mr: "नकाशा ओव्हरले", en: "Map Overlay" }, price: ASK },
+      { name: { mr: "नगर रचना नकाशा", en: "Town Planning Map" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+      { name: { mr: "विकास आराखडा", en: "Development Plan" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+      { name: { mr: "प्रादेशिक आराखडा", en: "Regional Plan" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+      { name: { mr: "Google Map नुसार झोन-निहाय जमीन अहवाल", en: "Google Map Zone-wise Land Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+      { name: { mr: "संपूर्ण नकाशा विकास अहवाल", en: "Full Map Development Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+    ],
+  },
 ];
 
 const badge: Record<Lang, string> = { mr: "पारदर्शक किंमत", en: "Transparent pricing" };
@@ -80,14 +99,23 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
       </h2>
       <p className="mt-2 max-w-2xl text-[15px] leading-7 text-slate-600">{sub[lang]}</p>
 
-      <dl className="mt-6 divide-y divide-slate-200 overflow-hidden rounded-xl border border-slate-200">
-        {rows.map((r) => (
-          <div key={r.name.en} className="flex items-center justify-between gap-4 px-4 py-3.5">
-            <dt className="text-[15px] font-semibold text-slate-800">{r.name[lang]}</dt>
-            <dd className="shrink-0 text-[15px] font-black text-green-700">{r.price[lang]}</dd>
+      <div className="mt-6 space-y-6">
+        {groups.map((g) => (
+          <div key={g.title.en}>
+            <h3 className="mb-2 text-sm font-black uppercase tracking-[0.14em] text-blue-700">
+              {g.title[lang]}
+            </h3>
+            <dl className="divide-y divide-slate-200 overflow-hidden rounded-xl border border-slate-200">
+              {g.rows.map((r) => (
+                <div key={r.name.en} className="flex items-center justify-between gap-4 px-4 py-3.5">
+                  <dt className="text-[15px] font-semibold text-slate-800">{r.name[lang]}</dt>
+                  <dd className="shrink-0 text-right text-[14px] font-black text-green-700">{r.price[lang]}</dd>
+                </div>
+              ))}
+            </dl>
           </div>
         ))}
-      </dl>
+      </div>
 
       <div className="mt-5 flex items-start gap-3 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3.5">
         <AlertTriangle className="mt-0.5 size-5 shrink-0 text-amber-600" />

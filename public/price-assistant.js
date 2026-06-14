@@ -56,18 +56,34 @@
     }
   };
 
-  // Services — bilingual name + price. askOnWhatsApp rows show price as-is.
+  var ASK = { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" };
+
+  // Services — flat list (used for detail view + WhatsApp link indexing).
   var SERVICES = [
+    // Digital Documents (0-6)
     { name: { mr: "7/12 उतारा", en: "7/12 Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
     { name: { mr: "8A उतारा", en: "8A Extract" }, price: { mr: "₹30 पासून", en: "From ₹30" } },
+    { name: { mr: "फेरफार", en: "Mutation / Ferfar" }, price: ASK, askOnWhatsApp: true },
     { name: { mr: "मिळकत पत्रिका", en: "Property Card" }, price: { mr: "₹100 पासून", en: "From ₹100" } },
+    { name: { mr: "मिळकत पत्रिका फेरफार", en: "Property Card Mutation" }, price: ASK, askOnWhatsApp: true },
+    { name: { mr: "मुंबई प्रॉपर्टी कार्ड", en: "Mumbai Property Card" }, price: ASK, askOnWhatsApp: true },
+    { name: { mr: "Index II", en: "Index II" }, price: ASK, askOnWhatsApp: true },
+    // Maps / Plans (7-15)
     { name: { mr: "गाव नकाशा", en: "Village Map" }, price: { mr: "₹300 पासून", en: "From ₹300" } },
-    { name: { mr: "लोकेशन नकाशा", en: "Location Map" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" }, askOnWhatsApp: true },
-    { name: { mr: "नकाशा ओव्हरले", en: "Map Overlay" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" }, askOnWhatsApp: true },
-    { name: { mr: "संपूर्ण नकाशा विकास अहवाल", en: "Full Map Development Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+    { name: { mr: "स्वामित्व नकाशा", en: "Swamitva Map" }, price: ASK, askOnWhatsApp: true },
+    { name: { mr: "लोकेशन नकाशा", en: "Location Map" }, price: ASK, askOnWhatsApp: true },
+    { name: { mr: "नकाशा ओव्हरले", en: "Map Overlay" }, price: ASK, askOnWhatsApp: true },
     { name: { mr: "नगर रचना नकाशा", en: "Town Planning Map" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+    { name: { mr: "विकास आराखडा", en: "Development Plan" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
+    { name: { mr: "प्रादेशिक आराखडा", en: "Regional Plan" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
     { name: { mr: "Google Map नुसार झोन-निहाय जमीन अहवाल", en: "Google Map Zone-wise Land Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } },
-    { name: { mr: "Index II", en: "Index II" }, price: { mr: "WhatsApp वर किंमत विचारा", en: "Ask price on WhatsApp" }, askOnWhatsApp: true }
+    { name: { mr: "संपूर्ण नकाशा विकास अहवाल", en: "Full Map Development Report" }, price: { mr: "₹200 पासून", en: "From ₹200" } }
+  ];
+
+  // Category groups — headings + which SERVICES indices belong to each.
+  var GROUPS = [
+    { title: { mr: "डिजिटल दस्तऐवज", en: "Digital Documents" }, items: [0, 1, 2, 3, 4, 5, 6] },
+    { title: { mr: "नकाशे / प्लॅन", en: "Maps / Plans" }, items: [7, 8, 9, 10, 11, 12, 13, 14, 15] }
   ];
 
   if (window.__psbPriceAssistantLoaded) return;
@@ -132,6 +148,8 @@
     '.psb-close:hover{background:rgba(255,255,255,.18)}' +
     '.psb-body{flex:1;overflow-y:auto;padding:14px;background:#f5f7f6}' +
     '.psb-bot{background:#fff;border:1px solid #e6e9e8;border-radius:12px;padding:11px 13px;font-size:13.5px;line-height:1.55;margin-bottom:12px}' +
+    '.psb-group{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:#1f6feb;margin:14px 2px 8px}' +
+    '.psb-group:first-of-type{margin-top:2px}' +
     '.psb-svc{display:flex;width:100%;justify-content:space-between;align-items:center;gap:8px;text-align:right;border:1px solid #cfe6d8;background:#fff;color:#16623a;border-radius:10px;padding:11px 13px;margin-bottom:8px;cursor:pointer;font-family:inherit;font-size:14px;font-weight:600;transition:background .12s,border-color .12s}' +
     '.psb-svc:hover{background:#eefaf2;border-color:#1f8f4e}' +
     '.psb-svc .psb-price{font-size:13px;font-weight:800;color:#1f8f4e;white-space:nowrap}' +
@@ -195,16 +213,20 @@
     var lang = getLang();
     body.innerHTML = "";
     body.appendChild(el("div", { class: "psb-bot" }, esc(s.welcome)));
-    SERVICES.forEach(function (svc, i) {
-      var btn = el(
-        "button",
-        { class: "psb-svc", type: "button" },
-        "<span>" + esc(svc.name[lang]) + '</span><span class="psb-price">' + esc(svc.price[lang]) + "</span>"
-      );
-      btn.addEventListener("click", function () {
-        renderDetail(i);
+    GROUPS.forEach(function (g) {
+      body.appendChild(el("div", { class: "psb-group" }, esc(g.title[lang])));
+      g.items.forEach(function (i) {
+        var svc = SERVICES[i];
+        var btn = el(
+          "button",
+          { class: "psb-svc", type: "button" },
+          "<span>" + esc(svc.name[lang]) + '</span><span class="psb-price">' + esc(svc.price[lang]) + "</span>"
+        );
+        btn.addEventListener("click", function () {
+          renderDetail(i);
+        });
+        body.appendChild(btn);
       });
-      body.appendChild(btn);
     });
     body.scrollTop = 0;
   }
