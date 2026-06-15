@@ -52,7 +52,7 @@ function MessageRow({ items, ariaHidden }: { items: string[]; ariaHidden?: boole
     >
       {items.map((m, i) => (
         <li key={`${m}-${i}`} className="flex items-center gap-8">
-          <span className="text-[13px] font-semibold leading-none">{m}</span>
+          <span className="text-[11.5px] font-semibold leading-none">{m}</span>
           <span aria-hidden="true" className="text-blue-300/80">
             •
           </span>
@@ -73,7 +73,7 @@ export function AnnouncementMarquee() {
       aria-label={ariaLabel[lang]}
       tabIndex={0}
     >
-      <div className="ps-marquee-track py-2">
+      <div className="ps-marquee-track py-1.5">
         <MessageRow items={items} />
         {/* Duplicate copy completes the seamless -50% loop. */}
         <MessageRow items={items} ariaHidden />

@@ -495,8 +495,21 @@ const ALL_BASE_LAYER_IDS = PRELOADED_LAYERS.map((l) => l.id);
 
 /* ── Service tabs ──────────────────────────────────────────────────────────── */
 
-/* Service order within each category. */
-const CATEGORY_ORDER: ServiceCategory[] = ["digital", "maps"];
+/* Flat service list shown in the homepage service-type dropdown (replaces the
+ * old category-tabs + chips). Order and membership per the simplified
+ * map-first homepage spec. */
+const SERVICE_DROPDOWN: ServiceTab[] = [
+  "7_12",
+  "8a",
+  "village_map",
+  "location_map",
+  "map_overlay",
+  "town_planning_map",
+  "development_plan",
+  "regional_plan",
+  "property_card",
+  "index_ii",
+];
 
 const CATEGORY_SERVICES: Record<ServiceCategory, ServiceTab[]> = {
   digital: [
@@ -687,9 +700,9 @@ const ui: Record<Lang, {
   mr: {
     sectionBadge: "नकाशा संदर्भ",
     heading: "जमीन / सर्वे नकाशा संदर्भ शोधा",
-    subtext: "जिल्हा → तालुका → गाव निवडा. गावाची सीमा हायलाइट होईल. नंतर नकाशावर तुमची प्लॉट सीमा मार्क करा.",
+    subtext: "जिल्हा, तालुका, गाव आणि गट/सर्वे नंबर निवडा. नकाशा संदर्भ आणि कागदपत्र सहाय्य WhatsApp वर मिळवा.",
     formHeading: "जमीन माहिती भरा",
-    tabsHelper: "कागदपत्र प्रकार निवडा. निवडीनुसार आवश्यक माहिती खाली भरा.",
+    tabsHelper: "सेवा निवडा. निवडीनुसार आवश्यक माहिती खाली भरा.",
     district: "जिल्हा",
     taluka: "तालुका",
     village: "गाव",
@@ -770,10 +783,10 @@ const ui: Record<Lang, {
   },
   en: {
     sectionBadge: "Map Reference",
-    heading: "Find Land / Survey Map Reference",
-    subtext: "Pick District → Taluka → Village. The village boundary lights up. Then mark your plot boundary on the map.",
+    heading: "Search land / survey map reference",
+    subtext: "Select district, taluka, village and gat/survey number. Get map reference and document assistance on WhatsApp.",
     formHeading: "Enter Land Details",
-    tabsHelper: "Select document type. Required fields will change based on your selection.",
+    tabsHelper: "Select a service. Required fields will change based on your selection.",
     district: "District",
     taluka: "Taluka",
     village: "Village",
@@ -1577,7 +1590,7 @@ function MapPanel({
   };
 
   return (
-    <div className="relative h-[320px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[380px] md:h-[460px]">
+    <div className="relative h-[360px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[440px] lg:h-[560px]">
       <div ref={mapContainerRef} className="h-full w-full" />
 
       {/* Loading indicator — shown only while the currently-visible base
@@ -1715,14 +1728,7 @@ export function MapReferenceSection() {
    * request volume for PrintShubh. Switching tabs preserves all already-typed
    * values so the user can toggle without losing work. */
   const [activeService, setActiveService] = useState<ServiceTab>("7_12");
-  const [activeCategory, setActiveCategory] = useState<ServiceCategory>("digital");
   const fieldCfg = SERVICE_FIELDS[activeService];
-
-  /* Switching category jumps to the first service in that category. */
-  const handleSelectCategory = useCallback((cat: ServiceCategory) => {
-    setActiveCategory(cat);
-    setActiveService(CATEGORY_SERVICES[cat][0]);
-  }, []);
 
   const [districts, setDistricts] = useState<DistrictRow[]>([]);
   const [talukas, setTalukas] = useState<TalukaRow[]>([]);
@@ -2255,14 +2261,14 @@ export function MapReferenceSection() {
           </button>
         </div>
 
-        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-start">
+        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1.5fr_0.85fr] lg:items-start">
           {/*
-           * Mobile: the FORM column is written first in the source AND given
-           * order-1, so the user always lands on the dropdowns/tabs with the
-           * map below — even if a CSS layer is stale or `order` is ignored.
-           * Desktop restores map-left / form-right via lg:order-* overrides.
+           * Map-first layout (simplified map-first homepage): the MAP column is
+           * written first and shown first on mobile (order-1), with the compact
+           * form directly below. Desktop keeps a broad map on the left and the
+           * form on the right.
            */}
-          <div ref={mobileMapAnchorRef} className="order-2 space-y-4 lg:order-1">
+          <div ref={mobileMapAnchorRef} className="order-1 space-y-4 lg:order-1">
             <MapPanel
               lang={lang}
               boundaryFeature={boundaryFeature}
@@ -2325,73 +2331,34 @@ export function MapReferenceSection() {
             )}
           </div>
 
-          <div ref={mobileFormAnchorRef} className="order-1 space-y-4 lg:order-2">
+          <div ref={mobileFormAnchorRef} className="order-2 space-y-4 lg:order-2">
             <div className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
               <h3 className="mb-3 text-lg font-black text-slate-950">{tx.formHeading}</h3>
 
-              {/* ── Service tabs ────────────────────────────────────────────
-               * Horizontal pill bar. Scrolls horizontally on small screens so
-               * the 7 tabs never wrap awkwardly. w-full + max-w-full keeps the
-               * row inside its card; overflow-x-auto scrolls the pills, and
-               * overscroll-x-contain stops a swipe from dragging the whole page.
-               * No negative margins, so the row never bleeds past the card. */}
-              {/* ── Category tabs (Digital Documents / Maps · Plans) ──── */}
-              <div
-                role="tablist"
-                aria-label={lang === "mr" ? "सेवा प्रकार" : "Service category"}
-                className="mb-2.5 grid grid-cols-2 gap-2"
-              >
-                {CATEGORY_ORDER.map((cat) => {
-                  const isActive = activeCategory === cat;
-                  return (
-                    <button
-                      key={cat}
-                      type="button"
-                      role="tab"
-                      aria-selected={isActive}
-                      onClick={() => handleSelectCategory(cat)}
-                      className={`w-full whitespace-nowrap rounded-lg border px-3 py-2 text-xs font-black transition focus:outline-none focus:ring-2 focus:ring-blue-200 sm:text-sm ${
-                        isActive
-                          ? "border-blue-700 bg-blue-700 text-white shadow-sm"
-                          : "border-slate-200 bg-slate-50 text-slate-700 hover:border-slate-300 hover:bg-white"
-                      }`}
-                    >
-                      {CATEGORY_LABELS[lang][cat]}
-                    </button>
-                  );
-                })}
-              </div>
-
-              {/* ── Service chips for the active category ──────────────── */}
-              <div
-                role="tablist"
-                aria-label={lang === "mr" ? "सेवा" : "Service"}
-                className="mb-2 flex w-full max-w-full flex-nowrap gap-1.5 overflow-x-auto overscroll-x-contain px-0.5 pb-2 [scrollbar-width:thin]"
-              >
-                {CATEGORY_SERVICES[activeCategory].map((id) => {
-                  const isActive = activeService === id;
-                  return (
-                    <button
-                      key={id}
-                      type="button"
-                      role="tab"
-                      aria-selected={isActive}
-                      onClick={() => setActiveService(id)}
-                      className={`shrink-0 whitespace-nowrap rounded-full border px-3.5 py-1.5 text-xs font-bold transition focus:outline-none focus:ring-2 focus:ring-blue-200 sm:text-sm ${
-                        isActive
-                          ? "border-blue-700 bg-blue-700 text-white shadow-sm"
-                          : "border-slate-200 bg-slate-50 text-slate-700 hover:border-slate-300 hover:bg-white"
-                      }`}
-                    >
+              {/* ── Service-type dropdown (replaces category tabs + chips) ──
+               * A single select keeps the form compact and removes the
+               * duplicate service tabs the homepage no longer needs. */}
+              <div className="mb-5">
+                <label htmlFor="service-type" className="mb-1.5 block text-sm font-bold text-slate-700">
+                  {lang === "mr" ? "सेवा प्रकार" : "Service type"}
+                </label>
+                <select
+                  id="service-type"
+                  value={activeService}
+                  onChange={(e) => setActiveService(e.target.value as ServiceTab)}
+                  className="h-11 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-800 transition focus:border-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-100"
+                >
+                  {SERVICE_DROPDOWN.map((id) => (
+                    <option key={id} value={id}>
                       {SERVICE_LABELS[lang][id]}
-                    </button>
-                  );
-                })}
+                    </option>
+                  ))}
+                </select>
+                <p className="mt-2 flex items-start gap-1.5 text-[11px] leading-5 text-slate-500">
+                  <Info className="mt-0.5 size-3.5 shrink-0 text-blue-500" />
+                  {tx.tabsHelper}
+                </p>
               </div>
-              <p className="mb-5 flex items-start gap-1.5 text-[11px] leading-5 text-slate-500">
-                <Info className="mt-0.5 size-3.5 shrink-0 text-blue-500" />
-                {tx.tabsHelper}
-              </p>
 
               <div className="space-y-4">
                 {/* ── Location section ──────────────────────────────────── */}

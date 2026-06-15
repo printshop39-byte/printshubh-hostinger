@@ -1,19 +1,16 @@
 import type { Metadata } from "next";
-import dynamic from "next/dynamic";
 import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
-import { PremiumHero } from "@/components/premium-hero";
 import { PricingSection } from "@/components/pricing-section";
 import { MapReferenceSection } from "@/components/map-reference-client";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
-/* ── Lazy-load below-fold heavy sections ── */
-const PremiumServiceTabs = dynamic(
-  () => import("@/components/premium-service-tabs").then((m) => m.PremiumServiceTabs),
-  { ssr: true },
-);
+/* Note: PremiumHero / PremiumServiceTabs (and the former DocumentChecklistGuide)
+ * are intentionally NOT rendered on the homepage. The page is now map-first:
+ * the MapReferenceSection (search land/survey map reference) is the hero. Those
+ * component files are kept in the repo for reuse but are no longer mounted. */
 
 /* ── Homepage metadata ──────────────────────────────────────────────────
  *
@@ -54,16 +51,12 @@ export default function Home() {
       <AnnouncementMarquee />
       <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] text-slate-900">
         <LandingAnimations />
-        <PremiumHero />
 
-        {/* Unified MapLibre finder — address search + District→Taluka→Village picker + boundary highlight */}
+        {/* Map-first hero — primary action visible right after the header:
+            broad MapLibre finder + compact District→Taluka→Village form. */}
         <MapReferenceSection />
 
-        {/* Below-fold — lazy loaded — premium service cards + short form
-            (primary conversion: service card → short form → WhatsApp) */}
-        <PremiumServiceTabs />
-
-        {/* Transparent starting prices — server-rendered for SEO */}
+        {/* Transparent starting prices — kept lower on the page */}
         <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">
           <div className="mx-auto max-w-4xl">
             <PricingSection />
