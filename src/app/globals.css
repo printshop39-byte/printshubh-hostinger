@@ -384,6 +384,79 @@ body {
   animation: spotlight 2s ease 0.75s 1 forwards;
 }
 
+/* ── Announcement marquee (homepage updates bar) ──
+ * Duplicated track translated -50% for a seamless loop. Pauses on hover /
+ * keyboard focus; disabled entirely under prefers-reduced-motion (handled
+ * in the reduced-motion block below — the first copy stays readable). */
+@keyframes ps-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.ps-marquee-track {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  will-change: transform;
+  animation: ps-marquee 38s linear infinite;
+}
+
+.ps-marquee:hover .ps-marquee-track,
+.ps-marquee:focus-within .ps-marquee-track {
+  animation-play-state: paused;
+}
+
+/* ── Auto service tabs: 5s progress underline ──
+ * Drives nothing on its own — purely the visual countdown. The JS timer
+ * advances tabs; this bar is keyed to (active + paused) so it restarts in
+ * sync with each fresh 5s window and freezes when paused. */
+@keyframes ps-tab-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.ps-tab-progress {
+  transform-origin: left center;
+  animation: ps-tab-progress 5s linear forwards;
+}
+
+/* ── Service card entrance (re-triggered on tab switch) ── */
+@keyframes ps-card-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.ps-card-in {
+  animation: ps-card-in 0.45s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ps-marquee-track {
+    animation: none;
+  }
+  .ps-tab-progress {
+    animation: none;
+    transform: scaleX(1);
+  }
+  .ps-card-in {
+    animation: none;
+  }
+}
+
 /* ── Spline loader (used while @splinetool lazy-imports) ── */
 .loader {
   width: 36px;

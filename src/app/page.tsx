@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import dynamic from "next/dynamic";
+import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
@@ -9,8 +10,8 @@ import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
 /* ── Lazy-load below-fold heavy sections ── */
-const ServicesGrid = dynamic(
-  () => import("@/components/services-grid").then((m) => m.ServicesGrid),
+const AutoServiceTabs = dynamic(
+  () => import("@/components/auto-service-tabs").then((m) => m.AutoServiceTabs),
   { ssr: true },
 );
 
@@ -49,6 +50,8 @@ export default function Home() {
   return (
     <>
       <SiteHeader />
+      {/* Scrolling updates / announcement bar — below header, above hero */}
+      <AnnouncementMarquee />
       <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] text-slate-900">
         <LandingAnimations />
         <HeroContent />
@@ -56,8 +59,8 @@ export default function Home() {
         {/* Unified MapLibre finder — address search + District→Taluka→Village picker + boundary highlight */}
         <MapReferenceSection />
 
-        {/* Below-fold — lazy loaded */}
-        <ServicesGrid />
+        {/* Below-fold — lazy loaded — auto-switching service tabs */}
+        <AutoServiceTabs />
 
         {/* Transparent starting prices — server-rendered for SEO */}
         <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">
