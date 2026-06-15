@@ -471,6 +471,29 @@ body {
   }
 }
 
+/* ── Admin reference / control point markers (MapLibre HTML markers) ── */
+.ps-ref-marker {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 1px 7px;
+  border: 1.5px solid rgba(255, 255, 255, 0.75);
+  border-radius: 9999px;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1.6;
+  white-space: nowrap;
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.35);
+  cursor: default;
+  user-select: none;
+}
+
+.ps-ref-marker.is-control {
+  outline: 2px solid #facc15;
+  outline-offset: 1px;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .ps-marquee-track {
     animation: none;

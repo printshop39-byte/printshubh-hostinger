@@ -21,6 +21,7 @@ import { Check, Eraser, FileUp, Info, Layers as LayersIcon, MapPin, Pencil } fro
 import { useLang } from "@/components/language-context";
 import { LandReportCasePanel } from "@/components/admin/land-report-case-panel";
 import { OverlayControlsPanel } from "@/components/admin/overlay-controls-panel";
+import { ReferencePointsPanel } from "@/components/admin/reference-points-panel";
 import { ReportOutputPanel } from "@/components/admin/report-output-panel";
 import { fileToRaster } from "@/lib/bhunaksha/pdf-to-image";
 import {
@@ -31,6 +32,7 @@ import {
   niceScaleDenominator,
   perimeterMeters,
   polygonEdges,
+  suggestOverlayPlacement,
   viewportWidthMeters,
   type LngLat,
 } from "@/lib/bhunaksha/overlay-transform";
@@ -38,8 +40,10 @@ import {
   createEmptyCase,
   FEATURE_NAME,
   OVERLAY_DISCLAIMER,
+  REFERENCE_TYPE_COLORS,
   type BhuNakshaOverlayConfig,
   type LandReportCase,
+  type ReferencePoint,
 } from "@/lib/bhunaksha/report-schema";
 
 const STORAGE_KEY = "printshubh_admin_bhunaksha_case_v1";
@@ -51,6 +55,7 @@ interface LayerVisibility {
   overlay: boolean;
   boundary: boolean;
   dimensions: boolean;
+  refPoints: boolean;
 }
 
 const ESRI_IMAGERY =
@@ -83,7 +88,7 @@ const T = {
   overlayLayer: { mr: "भूनकाशा overlay", en: "BhuNaksha overlay" },
   boundaryLayer: { mr: "निवडलेली प्लॉट सीमा", en: "Selected plot boundary" },
   dimsLayer: { mr: "सीमा परिमाणे", en: "Boundary dimensions" },
-  surveyLabels: { mr: "Survey / Gat labels (Phase 2)", en: "Survey / Gat labels (Phase 2)" },
+  refPointsLayer: { mr: "संदर्भ बिंदू / Survey labels", en: "Reference points / Survey labels" },
   notesMarkers: { mr: "Notes / Markers (Phase 2)", en: "Notes / Markers (Phase 2)" },
   drawStart: { mr: "प्लॉट सीमा मार्क करा", en: "Mark plot boundary" },
   drawFinish: { mr: "पूर्ण करा", en: "Finish" },
@@ -116,7 +121,8 @@ export function BhuNakshaOverlayTool() {
   const [drawMode, setDrawMode] = useState<DrawMode>("idle");
   const [drawnCoords, setDrawnCoords] = useState<LngLat[]>([]);
   const [moveMode, setMoveMode] = useState(false);
-  const [layers, setLayers] = useState<LayerVisibility>({ overlay: true, boundary: true, dimensions: true });
+  const [markMode, setMarkMode] = useState(false);
+  const [layers, setLayers] = useState<LayerVisibility>({ overlay: true, boundary: true, dimensions: true, refPoints: true });
   const [scaleText, setScaleText] = useState("");
   const [uploadBusy, setUploadBusy] = useState(false);
   const [uploadError, setUploadError] = useState<string | null>(null);
@@ -131,7 +137,10 @@ export function BhuNakshaOverlayTool() {
   const drawnCoordsRef = useRef<LngLat[]>([]);
   const drawModeRef = useRef<DrawMode>("idle");
   const moveModeRef = useRef(false);
+  const markModeRef = useRef(false);
   const lockedRef = useRef(false);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const refMarkersRef = useRef<any[]>([]);
   const layersRef = useRef<LayerVisibility>(layers);
   const caseRef = useRef<LandReportCase | null>(null);
   const overlayUrlRef = useRef<string | null>(null);
@@ -176,6 +185,7 @@ export function BhuNakshaOverlayTool() {
   useEffect(() => { drawnCoordsRef.current = drawnCoords; }, [drawnCoords]);
   useEffect(() => { drawModeRef.current = drawMode; }, [drawMode]);
   useEffect(() => { moveModeRef.current = moveMode; }, [moveMode]);
+  useEffect(() => { markModeRef.current = markMode; }, [markMode]);
   useEffect(() => { layersRef.current = layers; }, [layers]);
 
   const patchCase = useCallback((patch: Partial<LandReportCase>) => {
@@ -241,11 +251,30 @@ export function BhuNakshaOverlayTool() {
 
         renderPlot();
         renderEdgeLabels();
+        renderRefMarkers(caseRef.current?.referencePoints ?? []);
         applyOverlay(caseRef.current?.bhunakshaOverlay);
       });
 
-      // Boundary drawing
+      // Reference-point marking + boundary drawing
       map.on("click", (e: { lngLat: { lng: number; lat: number } }) => {
+        if (markModeRef.current) {
+          const now = new Date().toISOString();
+          const pt: ReferencePoint = {
+            id: globalThis.crypto?.randomUUID?.() ?? `rp-${Date.now()}`,
+            label: "",
+            type: "neighbor_survey",
+            lngLat: [e.lngLat.lng, e.lngLat.lat],
+            useForOverlayAlignment: false,
+            createdAt: now,
+            updatedAt: now,
+          };
+          setCaseData((prev) => ({
+            ...prev,
+            referencePoints: [...(prev.referencePoints ?? []), pt],
+            updatedAt: now,
+          }));
+          return;
+        }
         if (drawModeRef.current !== "drawing") return;
         setDrawnCoords((prev) => [...prev, [e.lngLat.lng, e.lngLat.lat] as LngLat]);
       });
@@ -296,6 +325,8 @@ export function BhuNakshaOverlayTool() {
     return () => {
       edgeMarkersRef.current.forEach((m) => m.remove());
       edgeMarkersRef.current = [];
+      refMarkersRef.current.forEach((m) => m.remove());
+      refMarkersRef.current = [];
       if (mapRef.current) {
         mapRef.current.remove();
         mapRef.current = null;
@@ -349,11 +380,31 @@ export function BhuNakshaOverlayTool() {
     }
   }
 
+  function renderRefMarkers(pts: ReferencePoint[]) {
+    const map = mapRef.current;
+    const ML = mglRef.current;
+    refMarkersRef.current.forEach((m) => m.remove());
+    refMarkersRef.current = [];
+    if (!map || !ML || !mapReadyRef.current || !layersRef.current.refPoints) return;
+    for (const p of pts) {
+      const el = document.createElement("div");
+      el.className = `ps-ref-marker${p.useForOverlayAlignment ? " is-control" : ""}`;
+      el.style.backgroundColor = REFERENCE_TYPE_COLORS[p.type];
+      el.textContent = p.label?.trim() || "•";
+      refMarkersRef.current.push(new ML.Marker({ element: el, anchor: "center" }).setLngLat(p.lngLat).addTo(map));
+    }
+  }
+
   useEffect(() => {
     if (!mapReadyRef.current) return;
     renderPlot();
     renderEdgeLabels();
   }, [drawnCoords, drawMode, layers.boundary, layers.dimensions]);
+
+  useEffect(() => {
+    if (!mapReadyRef.current) return;
+    renderRefMarkers(caseData.referencePoints ?? []);
+  }, [caseData.referencePoints, layers.refPoints]);
 
   /* ── Apply overlay image source ── */
   const applyOverlay = useCallback((ov: BhuNakshaOverlayConfig | undefined) => {
@@ -484,7 +535,49 @@ export function BhuNakshaOverlayTool() {
     else if (map.getLayer("plot-fill")) map.moveLayer("bhunaksha-img", "plot-fill"); // below boundary
   }, []);
 
-  const startDraw = () => { setMoveMode(false); setDrawnCoords([]); setDrawMode("drawing"); };
+  /* ── Reference-point handlers ── */
+  const updateRefPoint = useCallback((id: string, patch: Partial<ReferencePoint>) => {
+    const now = new Date().toISOString();
+    setCaseData((prev) => ({
+      ...prev,
+      referencePoints: (prev.referencePoints ?? []).map((p) => (p.id === id ? { ...p, ...patch, updatedAt: now } : p)),
+      updatedAt: now,
+    }));
+  }, []);
+
+  const deleteRefPoint = useCallback((id: string) => {
+    setCaseData((prev) => ({
+      ...prev,
+      referencePoints: (prev.referencePoints ?? []).filter((p) => p.id !== id),
+      updatedAt: new Date().toISOString(),
+    }));
+  }, []);
+
+  const toggleMarkMode = useCallback(() => {
+    setMarkMode((m) => !m);
+    setMoveMode(false);
+    if (drawModeRef.current === "drawing") setDrawMode("idle");
+  }, []);
+
+  const alignFromControlPoints = useCallback(() => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    const pts = (caseRef.current?.referencePoints ?? []).filter((p) => p.useForOverlayAlignment);
+    if (!ov || pts.length < 2) return;
+    const aspect = (ov.naturalWidthPx ?? 1) / Math.max(1, ov.naturalHeightPx ?? 1);
+    const sug = suggestOverlayPlacement(pts.map((p) => p.lngLat), aspect);
+    if (!sug) return;
+    patchOverlay({
+      centerLngLat: sug.center,
+      widthMeters: sug.widthMeters,
+      heightMeters: sug.heightMeters,
+      rotationDeg: sug.rotationDeg,
+      scale: 1,
+      controlPoints: pts.map((p) => ({ id: p.id, mapLngLat: p.lngLat, label: p.label, type: p.type })),
+    });
+    patchCase({ status: "overlay_done" });
+  }, [patchOverlay, patchCase]);
+
+  const startDraw = () => { setMoveMode(false); setMarkMode(false); setDrawnCoords([]); setDrawMode("drawing"); };
   const finishDraw = () => { if (drawnCoords.length >= 3) setDrawMode("done"); };
   const clearDraw = () => { setDrawnCoords([]); setDrawMode("idle"); patchCase({ drawnBoundary: undefined }); };
 
@@ -553,7 +646,15 @@ export function BhuNakshaOverlayTool() {
             {/* Hint */}
             <div className="pointer-events-none absolute bottom-3 left-3 z-10 max-w-[58%] rounded-md border border-blue-200 bg-white/90 px-3 py-2 text-[11px] font-semibold text-blue-900 shadow-sm backdrop-blur-sm">
               <MapPin className="mr-1 inline size-3.5" />
-              {moveMode ? (lang === "mr" ? "Overlay drag करा." : "Drag to move the overlay.") : T.drawHint[lang]}
+              {markMode
+                ? lang === "mr"
+                  ? "नकाशावर क्लिक करून संदर्भ बिंदू जोडा."
+                  : "Click on the map to add reference points."
+                : moveMode
+                  ? lang === "mr"
+                    ? "Overlay drag करा."
+                    : "Drag to move the overlay."
+                  : T.drawHint[lang]}
             </div>
           </div>
 
@@ -643,11 +744,23 @@ export function BhuNakshaOverlayTool() {
             onSetRotation={(deg) => patchOverlay({ rotationDeg: deg })}
             onScale={(v) => patchOverlay({ scale: v })}
             onToggleLock={() => patchOverlay({ locked: !overlay?.locked })}
-            onToggleMove={() => setMoveMode((m) => !m)}
+            onToggleMove={() => { setMoveMode((m) => !m); setMarkMode(false); }}
             onReset={resetOverlay}
             onFit={fitToView}
             onBringAbove={() => bringOverlay(true)}
             onBringBelow={() => bringOverlay(false)}
+          />
+
+          {/* Reference Points / Neighbor survey numbers (Phase 2 prep) */}
+          <ReferencePointsPanel
+            lang={lang}
+            points={caseData.referencePoints ?? []}
+            markMode={markMode}
+            hasOverlay={overlayUsed}
+            onToggleMarkMode={toggleMarkMode}
+            onUpdate={updateRefPoint}
+            onDelete={deleteRefPoint}
+            onAlign={alignFromControlPoints}
           />
 
           {/* D. Layers panel */}
@@ -663,7 +776,7 @@ export function BhuNakshaOverlayTool() {
               <label className="flex items-center gap-2"><input type="checkbox" checked={layers.overlay} onChange={(e) => setLayers((l) => ({ ...l, overlay: e.target.checked }))} className="size-4 accent-blue-600" /> {T.overlayLayer[lang]}</label>
               <label className="flex items-center gap-2"><input type="checkbox" checked={layers.boundary} onChange={(e) => setLayers((l) => ({ ...l, boundary: e.target.checked }))} className="size-4 accent-blue-600" /> {T.boundaryLayer[lang]}</label>
               <label className="flex items-center gap-2"><input type="checkbox" checked={layers.dimensions} onChange={(e) => setLayers((l) => ({ ...l, dimensions: e.target.checked }))} className="size-4 accent-blue-600" /> {T.dimsLayer[lang]}</label>
-              <label className="flex items-center gap-2 opacity-40"><input type="checkbox" disabled className="size-4" /> {T.surveyLabels[lang]}</label>
+              <label className="flex items-center gap-2"><input type="checkbox" checked={layers.refPoints} onChange={(e) => setLayers((l) => ({ ...l, refPoints: e.target.checked }))} className="size-4 accent-blue-600" /> {T.refPointsLayer[lang]}</label>
               <label className="flex items-center gap-2 opacity-40"><input type="checkbox" disabled className="size-4" /> {T.notesMarkers[lang]}</label>
             </div>
           </section>

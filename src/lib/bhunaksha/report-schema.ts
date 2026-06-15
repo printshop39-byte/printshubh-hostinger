@@ -39,18 +39,78 @@ export type BhuNakshaOverlayConfig = {
 
   locked: boolean;
 
-  // ── Phase 2 (NOT implemented yet) ──
-  // TODO(phase2): control-point georeferencing — collect 3–4 image↔map point
-  // pairs and solve an affine (or perspective/homography) transform so the
-  // overlay is properly georeferenced instead of manually placed.
+  // ── Control points used to assist manual alignment (Phase 2 prep) ──
+  // `mapLngLat` is captured now (admin marks the feature on the live map).
+  // `imagePoint` (pixel on the BhuNaksha image) is reserved for Phase 2, where
+  // image↔map pairs solve an affine (3 pts) / perspective (4 pts) transform.
+  // TODO(phase2): collect imagePoint pairs + solve a full georeference.
   controlPoints?: {
-    imagePoint: [number, number];
+    id: string;
+    imagePoint?: [number, number];
     mapLngLat: [number, number];
+    label?: string;
+    type?: string;
   }[];
 
   createdAt: string;
   updatedAt: string;
   createdBy?: string;
+};
+
+/* ── Reference / control points (admin marks surrounding survey numbers etc.) ── */
+export type ReferencePointType =
+  | "selected_plot"
+  | "neighbor_survey"
+  | "plot_corner"
+  | "road_access"
+  | "nala_stream"
+  | "village_boundary"
+  | "landmark"
+  | "other";
+
+export type ReferencePoint = {
+  id: string;
+  label: string;
+  type: ReferencePointType;
+  lngLat: [number, number];
+  useForOverlayAlignment: boolean;
+  note?: string;
+  createdAt: string;
+  updatedAt: string;
+};
+
+export const REFERENCE_POINT_TYPES: ReferencePointType[] = [
+  "selected_plot",
+  "neighbor_survey",
+  "plot_corner",
+  "road_access",
+  "nala_stream",
+  "village_boundary",
+  "landmark",
+  "other",
+];
+
+export const REFERENCE_TYPE_LABELS: Record<ReferencePointType, Record<Lang, string>> = {
+  selected_plot: { mr: "निवडलेला गट", en: "Selected plot" },
+  neighbor_survey: { mr: "शेजारी गट नंबर", en: "Neighbor survey number" },
+  plot_corner: { mr: "प्लॉट कोपरा", en: "Plot corner" },
+  road_access: { mr: "रस्ता / प्रवेश", en: "Road / access" },
+  nala_stream: { mr: "नाला / ओढा", en: "Nala / stream" },
+  village_boundary: { mr: "गाव सीमा", en: "Village boundary" },
+  landmark: { mr: "ओळख बिंदू", en: "Landmark" },
+  other: { mr: "इतर", en: "Other" },
+};
+
+/** Map marker colour per reference-point type. */
+export const REFERENCE_TYPE_COLORS: Record<ReferencePointType, string> = {
+  selected_plot: "#dc2626", // strong red
+  neighbor_survey: "#2563eb", // blue
+  plot_corner: "#16a34a", // green
+  road_access: "#d97706", // amber
+  nala_stream: "#0891b2", // cyan
+  village_boundary: "#7c3aed", // purple
+  landmark: "#db2777", // pink
+  other: "#64748b", // slate
 };
 
 /* ── Land report case ───────────────────────────────────────────────────────── */
@@ -82,6 +142,8 @@ export type LandReportCase = {
   adminNote?: string;
 
   bhunakshaOverlay?: BhuNakshaOverlayConfig;
+
+  referencePoints?: ReferencePoint[];
 
   drawnBoundary?: {
     coordinates: [number, number][];
@@ -116,6 +178,7 @@ function line(label: string, value?: string): string {
 
 /** Draft WhatsApp reply for the admin to send to the customer. */
 export function buildAdminWhatsAppMessage(c: LandReportCase, lang: Lang): string {
+  const aligned = !!c.bhunakshaOverlay?.controlPoints?.length;
   if (lang === "mr") {
     return [
       "नमस्कार, आपल्या जमीन/नकाशा संदर्भाची प्राथमिक तपासणी पूर्ण झाली आहे.",
@@ -127,6 +190,7 @@ export function buildAdminWhatsAppMessage(c: LandReportCase, lang: Lang): string
       line("गट / सर्वे / Plot / CTS", c.gatSurveyPlotCts),
       "Overlay प्रकार: भूनकाशा Manual Overlay",
       "Scale: अंदाजे",
+      ...(aligned ? ["Overlay alignment: Control points वापरून अंदाजे align केले."] : []),
       "",
       "टीप: हा अहवाल प्राथमिक संदर्भासाठी आहे. अंतिम पडताळणी अधिकृत सरकारी पोर्टल/मोजणी विभागाकडून करावी.",
     ].join("\n");
@@ -141,6 +205,7 @@ export function buildAdminWhatsAppMessage(c: LandReportCase, lang: Lang): string
     line("Gat / Survey / Plot / CTS", c.gatSurveyPlotCts),
     "Overlay type: Manual BhuNaksha Overlay",
     "Scale: Approximate",
+    ...(aligned ? ["Overlay alignment: Approximately aligned using control points."] : []),
     "",
     "Note: This report is for preliminary reference only. Final verification must be done through the official government portal/survey department.",
   ].join("\n");
@@ -171,6 +236,28 @@ export function buildReportDraft(
   lines.push(`${mr ? "Overlay प्रकार" : "Overlay type"}: ${FEATURE_NAME[lang]}`);
   lines.push(`${mr ? "Overlay अचूकता" : "Overlay accuracy"}: ${approx}`);
   lines.push(`${mr ? "Scale" : "Scale"}: ${opts.scaleText ? opts.scaleText + " (" + approx + ")" : approx}`);
+
+  // Reference / control points + alignment method
+  const refs = c.referencePoints ?? [];
+  const selectedPlot = refs.find((r) => r.type === "selected_plot")?.label || c.gatSurveyPlotCts;
+  const neighbors = refs.filter((r) => r.type === "neighbor_survey").map((r) => r.label).filter(Boolean);
+  const controlPts = refs.filter((r) => r.useForOverlayAlignment);
+  const alignedByCp = !!c.bhunakshaOverlay?.controlPoints?.length;
+  const method = alignedByCp
+    ? mr ? "Control-point assisted (Manual)" : "Control-point assisted (manual)"
+    : refs.length
+      ? mr ? "Manual + reference points" : "Manual + reference points"
+      : "Manual";
+  lines.push(line(mr ? "निवडलेला गट / प्लॉट" : "Selected plot number", selectedPlot));
+  if (neighbors.length)
+    lines.push(`${mr ? "शेजारी गट नंबर" : "Neighbor survey numbers"}: ${neighbors.join(", ")}`);
+  lines.push(`${mr ? "Overlay alignment पद्धत" : "Overlay alignment method"}: ${method}`);
+  if (controlPts.length) {
+    lines.push(mr ? "Control point निर्देशांक:" : "Control point coordinates:");
+    controlPts.forEach((p, i) =>
+      lines.push(`  ${i + 1}. ${p.label || (mr ? "बिंदू" : "Point")} — ${p.lngLat[1].toFixed(6)}, ${p.lngLat[0].toFixed(6)}`),
+    );
+  }
 
   if (b && b.coordinates.length >= 3) {
     if (typeof b.areaSqm === "number")

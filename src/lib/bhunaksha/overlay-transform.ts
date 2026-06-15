@@ -135,6 +135,44 @@ export function viewportWidthMeters(map: any): number {
   return haversineMeters([b.getWest(), lat], [b.getEast(), lat]);
 }
 
+/**
+ * Suggest an overlay placement (centre / size / rotation) from the control
+ * points the admin has marked on the live map. This is a PRACTICAL Phase-2
+ * heuristic — NOT a true georeference:
+ *   - centre  = centroid of the control points,
+ *   - size    = the points' spread (bounding diagonal) padded ~30 %, keeping
+ *               the image aspect ratio,
+ *   - rotation= the bearing of the first → second control point.
+ * With ≥2 points this gives translate + scale + rotation; the admin then
+ * fine-tunes. Returns null for <2 points.
+ *
+ * TODO(phase2): when imagePoint pairs are available, replace this with an
+ * affine (3 pts) / perspective (4 pts) solve for a real georeference.
+ */
+export function suggestOverlayPlacement(
+  points: LngLat[],
+  aspect: number,
+): { center: LngLat; widthMeters: number; heightMeters: number; rotationDeg: number } | null {
+  if (points.length < 2) return null;
+  const lng = points.reduce((s, p) => s + p[0], 0) / points.length;
+  const lat = points.reduce((s, p) => s + p[1], 0) / points.length;
+  const mPerLng = M_PER_DEG_LAT * Math.cos((lat * Math.PI) / 180) || M_PER_DEG_LAT;
+
+  const xs = points.map((p) => (p[0] - lng) * mPerLng);
+  const ys = points.map((p) => (p[1] - lat) * M_PER_DEG_LAT);
+  const spanX = Math.max(...xs) - Math.min(...xs);
+  const spanY = Math.max(...ys) - Math.min(...ys);
+  const diag = Math.hypot(spanX, spanY) || 100;
+  const safeAspect = aspect > 0 ? aspect : 1;
+  const widthMeters = Math.max(50, diag * 1.3);
+
+  const dx = (points[1][0] - points[0][0]) * mPerLng;
+  const dy = (points[1][1] - points[0][1]) * M_PER_DEG_LAT;
+  const rotationDeg = -(Math.atan2(dy, dx) * 180) / Math.PI;
+
+  return { center: [lng, lat], widthMeters, heightMeters: widthMeters / safeAspect, rotationDeg };
+}
+
 export function formatTodayDate(): string {
   try {
     return new Date().toLocaleDateString("en-GB", {
