@@ -14,10 +14,6 @@ const PremiumServiceTabs = dynamic(
   () => import("@/components/premium-service-tabs").then((m) => m.PremiumServiceTabs),
   { ssr: true },
 );
-const DocumentChecklistGuide = dynamic(
-  () => import("@/components/document-checklist-guide").then((m) => m.DocumentChecklistGuide),
-  { ssr: true },
-);
 
 /* ── Homepage metadata ──────────────────────────────────────────────────
  *
@@ -63,11 +59,9 @@ export default function Home() {
         {/* Unified MapLibre finder — address search + District→Taluka→Village picker + boundary highlight */}
         <MapReferenceSection />
 
-        {/* Below-fold — lazy loaded — premium auto-switching service tabs */}
+        {/* Below-fold — lazy loaded — premium service cards + short form
+            (primary conversion: service card → short form → WhatsApp) */}
         <PremiumServiceTabs />
-
-        {/* "Prepare your details" checklist + process guide */}
-        <DocumentChecklistGuide />
 
         {/* Transparent starting prices — server-rendered for SEO */}
         <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">
