@@ -444,6 +444,33 @@ body {
   animation: ps-card-in 0.45s ease-out both;
 }
 
+/* ── Plot boundary edge dimension labels (MapLibre HTML markers) ──
+ * Compact high-contrast pill placed at each edge midpoint. pointer-events:none
+ * so labels never block map panning/drawing. Smaller on phones to avoid
+ * crowding the plot. */
+.ps-edge-label {
+  display: inline-block;
+  padding: 1px 6px;
+  border: 1px solid rgba(148, 163, 184, 0.7);
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #0f172a;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 1.5;
+  white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.2);
+  pointer-events: none;
+  user-select: none;
+}
+
+@media (max-width: 640px) {
+  .ps-edge-label {
+    padding: 0 5px;
+    font-size: 9px;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .ps-marquee-track {
     animation: none;
