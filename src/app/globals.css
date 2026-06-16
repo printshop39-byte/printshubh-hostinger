@@ -496,13 +496,42 @@ body {
 
 /* ── Admin overlay transform handles (corner / edge / rotate) ── */
 .ps-overlay-handle {
-  width: 16px;
-  height: 16px;
+  position: relative;
+  width: 18px;
+  height: 18px;
   border-radius: 9999px;
   background: #fff;
   border: 3px solid #2563eb;
-  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.45);
+  box-shadow: 0 1px 5px rgba(15, 23, 42, 0.5);
   cursor: grab;
+  touch-action: none;
+}
+/* Corner handles: larger, colour-coded per corner, with a floating TL/TR/BR/BL
+ * label so the admin always knows which corner they are dragging. */
+.ps-overlay-handle.is-corner {
+  width: 22px;
+  height: 22px;
+  border-width: 4px;
+}
+.ps-overlay-handle.is-tl { border-color: #dc2626; }
+.ps-overlay-handle.is-tr { border-color: #2563eb; }
+.ps-overlay-handle.is-br { border-color: #16a34a; }
+.ps-overlay-handle.is-bl { border-color: #d97706; }
+.ps-handle-label {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 3px);
+  transform: translateX(-50%);
+  padding: 0 5px;
+  border-radius: 9999px;
+  background: rgba(15, 23, 42, 0.85);
+  color: #fff;
+  font-size: 9px;
+  font-weight: 800;
+  line-height: 1.7;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  pointer-events: none;
 }
 .ps-overlay-handle.is-edge {
   border-radius: 4px;
@@ -512,8 +541,20 @@ body {
   border-color: #d97706;
   background: #fff7ed;
 }
+.ps-overlay-handle.is-center {
+  border-style: dashed;
+  border-color: #7c3aed;
+}
 .ps-overlay-handle:active {
   cursor: grabbing;
+}
+/* Enlarge the touch target on phones without changing the visual size. */
+@media (max-width: 640px) {
+  .ps-overlay-handle::before {
+    content: "";
+    position: absolute;
+    inset: -10px;
+  }
 }
 
 /* ── Admin location-navigator pin (lat/long / village center) ── */

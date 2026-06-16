@@ -16,6 +16,11 @@
 (function () {
   "use strict";
 
+  // Admin-only routes (e.g. /admin/land-reports) must not show the public price
+  // chatbot. The widget is injected globally from the root layout, so it guards
+  // itself here against the /admin/* path.
+  if (typeof location !== "undefined" && /^\/admin(\/|$)/.test(location.pathname)) return;
+
   var WA_NUMBER = "918625801907";
 
   // UI strings per language

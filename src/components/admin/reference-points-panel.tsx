@@ -23,6 +23,7 @@ const L = {
   heading: { mr: "संदर्भ बिंदू / शेजारी गट नंबर", en: "Reference Points / Neighbor Survey Numbers" },
   markPoint: { mr: "बिंदू mark करा", en: "Mark point" },
   marking: { mr: "नकाशावर क्लिक करा…", en: "Click on the map…" },
+  newPointType: { mr: "नवीन बिंदू प्रकार", en: "New point type" },
   hint: {
     mr: "“बिंदू mark करा” दाबा, मग नकाशावर क्लिक करा. lat/lng आपोआप घेतले जाईल.",
     en: "Tap “Mark point”, then click on the map. Lat/lng is captured automatically.",
@@ -53,8 +54,10 @@ export function ReferencePointsPanel({
   lang,
   points,
   markMode,
+  markType,
   hasOverlay,
   onToggleMarkMode,
+  onMarkTypeChange,
   onUpdate,
   onDelete,
   onAlign,
@@ -62,8 +65,10 @@ export function ReferencePointsPanel({
   lang: Lang;
   points: ReferencePoint[];
   markMode: boolean;
+  markType: ReferencePointType;
   hasOverlay: boolean;
   onToggleMarkMode: () => void;
+  onMarkTypeChange: (t: ReferencePointType) => void;
   onUpdate: (id: string, patch: Partial<ReferencePoint>) => void;
   onDelete: (id: string) => void;
   onAlign: () => void;
@@ -77,17 +82,31 @@ export function ReferencePointsPanel({
         <Crosshair className="size-4" /> {L.heading[lang]}
       </h3>
 
-      <button
-        type="button"
-        onClick={onToggleMarkMode}
-        aria-pressed={markMode}
-        className={`inline-flex items-center gap-1.5 rounded-md border px-3 py-1.5 text-[12px] font-bold transition ${
-          markMode ? "border-blue-500 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"
-        }`}
-      >
-        <MapPin className="size-3.5" />
-        {markMode ? L.marking[lang] : L.markPoint[lang]}
-      </button>
+      <div className="flex flex-wrap items-center gap-2">
+        <button
+          type="button"
+          onClick={onToggleMarkMode}
+          aria-pressed={markMode}
+          className={`inline-flex items-center gap-1.5 rounded-md border px-3 py-1.5 text-[12px] font-bold transition ${
+            markMode ? "border-blue-500 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"
+          }`}
+        >
+          <MapPin className="size-3.5" />
+          {markMode ? L.marking[lang] : L.markPoint[lang]}
+        </button>
+        <select
+          value={markType}
+          onChange={(e) => onMarkTypeChange(e.target.value as ReferencePointType)}
+          aria-label={L.newPointType[lang]}
+          className="h-8 rounded-md border border-slate-300 px-1.5 text-[11px] font-semibold text-slate-700"
+        >
+          {REFERENCE_POINT_TYPES.map((t) => (
+            <option key={t} value={t}>
+              {REFERENCE_TYPE_LABELS[t][lang]}
+            </option>
+          ))}
+        </select>
+      </div>
       <p className="mt-2 text-[11px] leading-4 text-slate-500">{L.hint[lang]}</p>
 
       {/* Points list */}

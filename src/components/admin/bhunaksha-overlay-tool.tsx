@@ -39,11 +39,13 @@ import { LandReportCasePanel } from "@/components/admin/land-report-case-panel";
 import { LocationNavigatorPanel } from "@/components/admin/location-navigator-panel";
 import { OverlayControlsPanel } from "@/components/admin/overlay-controls-panel";
 import { OverlayCornersPanel, type CornerKey } from "@/components/admin/overlay-corners-panel";
+import { GeoreferencePanel, type Gcp } from "@/components/admin/georeference-panel";
 import { ReferencePointsPanel } from "@/components/admin/reference-points-panel";
 import { ReportOutputPanel } from "@/components/admin/report-output-panel";
 import { useLgdLocation } from "@/components/admin/use-lgd-location";
 import { fileToRaster } from "@/lib/bhunaksha/pdf-to-image";
 import {
+  accuracyScore,
   approxAreaSqMeters,
   approxScaleDenominator,
   cornersCentroid,
@@ -51,6 +53,7 @@ import {
   cornersToCoords,
   deriveParams,
   formatTodayDate,
+  georeferenceImage,
   haversineMeters,
   midpointLngLat,
   niceScaleDenominator,
@@ -65,6 +68,9 @@ import {
   type LngLat,
 } from "@/lib/bhunaksha/overlay-transform";
 import {
+  buildGeoJsonExport,
+  buildOverlayConfigExport,
+  buildReportHtml,
   createEmptyCase,
   FEATURE_NAME,
   OVERLAY_DISCLAIMER,
@@ -135,6 +141,11 @@ const T = {
   resetBtn: { mr: "Reset", en: "Reset" },
   fitMapBtn: { mr: "Fit to map", en: "Fit to map" },
   fitBoundaryBtn: { mr: "Fit to boundary", en: "Fit to boundary" },
+  boundaryFromOverlayBtn: { mr: "Overlay वरून सीमा", en: "Boundary from overlay" },
+  boundaryFromOverlayConfirm: {
+    mr: "सध्याची काढलेली सीमा overlay च्या कोपऱ्यांनी बदलायची?",
+    en: "Replace the current drawn boundary with the overlay's corners?",
+  },
   removeFile: { mr: "फाईल काढा", en: "Remove file" },
   removeConfirm: {
     mr: "भूनकाशा फाईल आणि overlay काढायचे? (केस तपशील राहतील)",
@@ -158,6 +169,7 @@ const T = {
   hintSides: { mr: "बाजूचे handle drag करून stretch करा.", en: "Drag a side handle to stretch that edge." },
   hintRotate: { mr: "Rotate handle drag करा.", en: "Drag the rotate handle." },
   hintMark: { mr: "नकाशावर क्लिक करून संदर्भ बिंदू जोडा.", en: "Click on the map to add reference points." },
+  hintGcp: { mr: "नकाशावर त्या feature ची जागा क्लिक करा (control point).", en: "Click the feature's location on the map (control point)." },
   approxScale: { mr: "अंदाजे स्केल", en: "Approx. Scale" },
   imageryDate: { mr: "प्रतिमा दिनांक", en: "Imagery date" },
   notAvailable: { mr: "उपलब्ध नाही", en: "Not available" },
@@ -188,6 +200,9 @@ export function BhuNakshaOverlayTool() {
   const [uploadBusy, setUploadBusy] = useState(false);
   const [uploadError, setUploadError] = useState<string | null>(null);
   const [pageNumber, setPageNumber] = useState(1);
+  const [gcps, setGcps] = useState<Gcp[]>([]);
+  const [gcpArmId, setGcpArmId] = useState<string | null>(null);
+  const [markType, setMarkType] = useState<ReferencePoint["type"]>("neighbor_survey");
 
   const lgd = useLgdLocation(lang);
 
@@ -203,6 +218,8 @@ export function BhuNakshaOverlayTool() {
   const transformModeRef = useRef<TransformMode>("move");
   const uniformRef = useRef(true);
   const markModeRef = useRef(false);
+  const markTypeRef = useRef<ReferencePoint["type"]>("neighbor_survey");
+  const gcpArmRef = useRef<string | null>(null);
   const lockedRef = useRef(false);
   const layersRef = useRef<LayerVisibility>(layers);
   const caseRef = useRef<LandReportCase | null>(null);
@@ -239,6 +256,10 @@ export function BhuNakshaOverlayTool() {
       setDrawnCoords(c.drawnBoundary.coordinates as LngLat[]);
       setDrawMode("done");
     }
+    const savedCps = (c.bhunakshaOverlay?.controlPoints ?? []).filter((p) => p.imagePoint);
+    if (savedCps.length) {
+      setGcps(savedCps.map((p) => ({ id: p.id, imagePoint: p.imagePoint as [number, number], mapLngLat: p.mapLngLat, label: p.label })));
+    }
     /* eslint-enable react-hooks/set-state-in-effect */
   }, []);
 
@@ -257,6 +278,8 @@ export function BhuNakshaOverlayTool() {
   useEffect(() => { transformModeRef.current = transformMode; }, [transformMode]);
   useEffect(() => { uniformRef.current = uniform; }, [uniform]);
   useEffect(() => { markModeRef.current = markMode; }, [markMode]);
+  useEffect(() => { markTypeRef.current = markType; }, [markType]);
+  useEffect(() => { gcpArmRef.current = gcpArmId; }, [gcpArmId]);
   useEffect(() => { layersRef.current = layers; }, [layers]);
   useEffect(() => { navTargetRef.current = navTarget; }, [navTarget]);
 
@@ -323,11 +346,27 @@ export function BhuNakshaOverlayTool() {
     }
   }
 
+  /* Dashed outline tracing the overlay quad — drawn above the raster so the
+   * four corners stay readable against busy satellite imagery while editing. */
+  function renderOverlayQuad(c: Corners | null) {
+    const map = mapRef.current;
+    if (!map || !mapReadyRef.current) return;
+    const src = map.getSource("overlay-quad");
+    if (!src) return;
+    if (!c) {
+      src.setData({ type: "FeatureCollection", features: [] });
+      return;
+    }
+    const ring = [c.topLeft, c.topRight, c.bottomRight, c.bottomLeft, c.topLeft];
+    src.setData({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: ring } });
+  }
+
   function applyCornersLive() {
     const map = mapRef.current;
     const wc = workingCornersRef.current;
     if (!map || !wc) return;
     map.getSource("bhunaksha-src")?.setCoordinates(cornersToCoords(wc));
+    renderOverlayQuad(wc);
   }
 
   function commitCorners() {
@@ -350,17 +389,30 @@ export function BhuNakshaOverlayTool() {
     const ML = mglRef.current;
     handleMarkersRef.current.forEach((m) => m.remove());
     handleMarkersRef.current = [];
-    if (!map || !ML || !mapReadyRef.current) return;
+    if (!map || !ML || !mapReadyRef.current) { renderOverlayQuad(null); return; }
     const ov = caseRef.current?.bhunakshaOverlay;
-    if (!ov?.dataUrl || ov.locked || !ov.visible || !layersRef.current.overlay) return;
+    if (!ov?.dataUrl || ov.locked || !ov.visible || !layersRef.current.overlay) { renderOverlayQuad(null); return; }
     const mode = transformModeRef.current;
-    if (mode === "pan" || mode === "move") return; // pan = map; move = drag the image
+    if (mode === "pan" || mode === "move") { renderOverlayQuad(null); return; } // pan = map; move = drag the image
     const corners = ovToCorners(ov);
     workingCornersRef.current = corners;
+    renderOverlayQuad(corners);
+
+    // TL/TR/BR/BL labels + per-corner colour (matches .is-tl/.is-tr/.is-br/.is-bl).
+    const CORNER_META: Record<keyof Corners, { cls: string; label: string }> = {
+      topLeft: { cls: "is-tl", label: "TL" },
+      topRight: { cls: "is-tr", label: "TR" },
+      bottomRight: { cls: "is-br", label: "BR" },
+      bottomLeft: { cls: "is-bl", label: "BL" },
+    };
 
     const cornerHandle = (key: keyof Corners) => {
       const el = document.createElement("div");
-      el.className = "ps-overlay-handle";
+      el.className = `ps-overlay-handle is-corner ${CORNER_META[key].cls}`;
+      const lbl = document.createElement("span");
+      lbl.className = "ps-handle-label";
+      lbl.textContent = CORNER_META[key].label;
+      el.appendChild(lbl);
       const m = new ML.Marker({ element: el, draggable: true, anchor: "center" }).setLngLat(corners[key]).addTo(map);
       m.on("dragstart", () => { draggingHandleRef.current = true; });
       m.on("drag", () => {
@@ -510,6 +562,8 @@ export function BhuNakshaOverlayTool() {
         map.addLayer({ id: "plot-fill", type: "fill", source: "plot", paint: { "fill-color": "#fb923c", "fill-opacity": 0.3 } });
         map.addLayer({ id: "plot-outline", type: "line", source: "plot", paint: { "line-color": "#dc2626", "line-width": 3 } });
         map.addLayer({ id: "plot-vertex-dots", type: "circle", source: "plot-vertices", paint: { "circle-radius": 5, "circle-color": "#dc2626", "circle-stroke-color": "#fff", "circle-stroke-width": 2 } });
+        map.addSource("overlay-quad", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
+        map.addLayer({ id: "overlay-quad-line", type: "line", source: "overlay-quad", paint: { "line-color": "#2563eb", "line-width": 1.5, "line-dasharray": [2, 2], "line-opacity": 0.9 } });
 
         const updateScale = () => {
           const den = niceScaleDenominator(approxScaleDenominator(map));
@@ -529,11 +583,24 @@ export function BhuNakshaOverlayTool() {
       });
 
       map.on("click", (e: { lngLat: { lng: number; lat: number } }) => {
+        // Georeference: a control point is armed and waiting for its map location.
+        if (gcpArmRef.current) {
+          const id = gcpArmRef.current;
+          const ll: [number, number] = [e.lngLat.lng, e.lngLat.lat];
+          setGcps((prev) => prev.map((g) => (g.id === id ? { ...g, mapLngLat: ll } : g)));
+          setGcpArmId(null);
+          return;
+        }
         if (markModeRef.current) {
           const now = new Date().toISOString();
+          const type = markTypeRef.current;
+          // Auto-number neighbor surveys so each click drops a visible marker the
+          // admin can then rename to the real gat/survey number.
+          const existing = (caseRef.current?.referencePoints ?? []).filter((p) => p.type === type).length;
+          const autoLabel = type === "neighbor_survey" ? String(existing + 1) : "";
           const pt: ReferencePoint = {
             id: globalThis.crypto?.randomUUID?.() ?? `rp-${Date.now()}`,
-            label: "", type: "neighbor_survey", lngLat: [e.lngLat.lng, e.lngLat.lat],
+            label: autoLabel, type, lngLat: [e.lngLat.lng, e.lngLat.lat],
             useForOverlayAlignment: false, createdAt: now, updatedAt: now,
           };
           setCaseData((prev) => ({ ...prev, referencePoints: [...(prev.referencePoints ?? []), pt], updatedAt: now }));
@@ -824,6 +891,7 @@ export function BhuNakshaOverlayTool() {
   const setMode = useCallback((m: TransformMode) => {
     setTransformMode(m);
     setMarkMode(false);
+    setGcpArmId(null);
     if (drawModeRef.current === "drawing") setDrawMode("idle");
     if (m !== "pan" && caseRef.current?.bhunakshaOverlay) {
       patchOverlay({ transformMode: m === "sides" ? "scale" : m });
@@ -875,6 +943,8 @@ export function BhuNakshaOverlayTool() {
     setCaseData((prev) => ({ ...prev, bhunakshaOverlay: undefined, adminNote: undefined, updatedAt: new Date().toISOString() }));
     setTransformMode("pan");
     setUploadError(null);
+    setGcps([]);
+    setGcpArmId(null);
     if (fileInputRef.current) fileInputRef.current.value = "";
   }, [lang]);
 
@@ -964,6 +1034,7 @@ export function BhuNakshaOverlayTool() {
 
   const toggleMarkMode = useCallback(() => {
     setMarkMode((m) => !m);
+    setGcpArmId(null);
     if (drawModeRef.current === "drawing") setDrawMode("idle");
   }, []);
 
@@ -981,9 +1052,150 @@ export function BhuNakshaOverlayTool() {
     patchCase({ status: "overlay_done" });
   }, [rebuildFromParams, patchCase]);
 
-  const startDraw = () => { setMarkMode(false); setDrawnCoords([]); setDrawMode("drawing"); };
+  const startDraw = () => { setMarkMode(false); setGcpArmId(null); setDrawnCoords([]); setDrawMode("drawing"); };
   const finishDraw = () => { if (drawnCoords.length >= 3) setDrawMode("done"); };
   const clearDraw = () => { setDrawnCoords([]); setDrawMode("idle"); patchCase({ drawnBoundary: undefined }); };
+
+  /* Reshape the plot boundary to the overlay's four corners (inverse of
+   * fitBoundary, which fits the overlay to the boundary). Useful when the
+   * overlay has been aligned first and the boundary should match it. */
+  const fitBoundaryToOverlay = useCallback(() => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov?.dataUrl) return;
+    if (
+      drawnCoordsRef.current.length >= 3 &&
+      typeof window !== "undefined" &&
+      !window.confirm(T.boundaryFromOverlayConfirm[lang])
+    )
+      return;
+    const c = ovToCorners(ov);
+    setMarkMode(false);
+    setDrawnCoords([c.topLeft, c.topRight, c.bottomRight, c.bottomLeft]);
+    setDrawMode("done");
+  }, [lang]);
+
+  /* Export the overlay alignment + case context as a portable JSON config
+   * (no raster) — the Report Builder's "Overlay configuration JSON export". */
+  const exportOverlayJson = useCallback(() => {
+    const c = caseRef.current;
+    if (!c) return;
+    try {
+      const obj = buildOverlayConfigExport(c, { generatedAt: new Date().toISOString() });
+      const blob = new Blob([JSON.stringify(obj, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `printshubh-overlay-${(c.gatSurveyPlotCts || c.id).replace(/[^\w-]+/g, "_")}-${Date.now()}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    } catch (e) {
+      console.error("[BhuNaksha] overlay JSON export failed", e);
+    }
+  }, []);
+
+  /* ── Control-point georeferencing (multi-reference alignment) ── */
+  const addImagePoint = useCallback((px: [number, number]) => {
+    const id = globalThis.crypto?.randomUUID?.() ?? `gcp-${Date.now()}`;
+    setGcps((prev) => [...prev, { id, imagePoint: px }]);
+    setGcpArmId(id); // immediately wait for the matching map click
+    setMarkMode(false);
+    if (drawModeRef.current === "drawing") setDrawMode("idle");
+  }, []);
+
+  const armGcpMap = useCallback((id: string) => {
+    setGcpArmId(id);
+    setMarkMode(false);
+    if (drawModeRef.current === "drawing") setDrawMode("idle");
+  }, []);
+
+  const updateGcpLabel = useCallback((id: string, label: string) => {
+    setGcps((prev) => prev.map((g) => (g.id === id ? { ...g, label } : g)));
+  }, []);
+
+  const deleteGcp = useCallback((id: string) => {
+    setGcps((prev) => prev.filter((g) => g.id !== id));
+    setGcpArmId((a) => (a === id ? null : a));
+  }, []);
+
+  const applyGeoreference = useCallback(() => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov?.dataUrl) return;
+    const w = ov.naturalWidthPx ?? 0;
+    const h = ov.naturalHeightPx ?? 0;
+    const complete = gcps.filter((g): g is Gcp & { mapLngLat: [number, number] } => !!g.mapLngLat);
+    if (complete.length < 2 || w <= 0 || h <= 0) return;
+    const result = georeferenceImage(
+      complete.map((g) => ({ imagePoint: g.imagePoint, mapLngLat: g.mapLngLat })),
+      w,
+      h,
+    );
+    if (!result) return;
+    const c = result.corners;
+    const d = deriveParams(c, ov.widthMeters ?? 500, ov.heightMeters ?? 500);
+    patchOverlay({
+      cornerLngLats: { topLeft: c.topLeft, topRight: c.topRight, bottomRight: c.bottomRight, bottomLeft: c.bottomLeft },
+      centerLngLat: d.center,
+      rotationDeg: clamp(d.rotationDeg, -180, 180),
+      scaleX: clamp(d.scaleX, 0.05, 10),
+      scaleY: clamp(d.scaleY, 0.05, 10),
+      alignmentMethod: result.method,
+      alignmentRmsMeters: result.rmsMeters,
+      accuracyScore: accuracyScore(result.rmsMeters, result.pointCount),
+      controlPoints: complete.map((g) => ({ id: g.id, imagePoint: g.imagePoint, mapLngLat: g.mapLngLat, label: g.label })),
+    });
+    patchCase({ status: "overlay_done" });
+    setGcpArmId(null);
+    setTransformMode("pan");
+  }, [gcps, patchOverlay, patchCase]);
+
+  /* ── GeoJSON + PDF report exports ── */
+  const exportGeoJson = useCallback(() => {
+    const c = caseRef.current;
+    if (!c) return;
+    try {
+      const fc = buildGeoJsonExport(c);
+      const blob = new Blob([JSON.stringify(fc, null, 2)], { type: "application/geo+json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `printshubh-${(c.gatSurveyPlotCts || c.id).replace(/[^\w-]+/g, "_")}-${Date.now()}.geojson`;
+      a.click();
+      URL.revokeObjectURL(url);
+    } catch (e) {
+      console.error("[BhuNaksha] GeoJSON export failed", e);
+    }
+  }, []);
+
+  const exportReportPdf = useCallback(() => {
+    const c = caseRef.current;
+    if (!c) return;
+    const map = mapRef.current;
+    let shot: string | undefined;
+    try {
+      shot = map?.getCanvas().toDataURL("image/png");
+    } catch {
+      shot = undefined;
+    }
+    const html = buildReportHtml(c, { screenshotDataUrl: shot, scaleText, generatedAt: formatTodayDate() }, lang);
+    const win = window.open("", "_blank");
+    if (!win) return; // popup blocked
+    win.document.open();
+    win.document.write(html);
+    win.document.close();
+    let printed = false;
+    const doPrint = () => {
+      if (printed) return;
+      printed = true;
+      try {
+        win.focus();
+        win.print();
+      } catch {
+        /* ignore */
+      }
+    };
+    win.onload = doPrint;
+    setTimeout(doPrint, 700);
+  }, [lang, scaleText]);
 
   const takeScreenshot = useCallback(() => {
     const map = mapRef.current;
@@ -1011,7 +1223,9 @@ export function BhuNakshaOverlayTool() {
     { mode: "rotate", label: T.modeRotate[lang], Icon: RotateCw },
   ];
 
-  const hint = markMode
+  const hint = gcpArmId
+    ? T.hintGcp[lang]
+    : markMode
     ? T.hintMark[lang]
     : transformMode === "pan"
       ? T.hintPan[lang]
@@ -1075,6 +1289,7 @@ export function BhuNakshaOverlayTool() {
             <button type="button" onClick={resetOverlay} disabled={!overlayUsed} className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-2.5 py-1.5 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50 disabled:opacity-40">{T.resetBtn[lang]}</button>
             <button type="button" onClick={fitMapView} disabled={!overlayUsed} className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-2.5 py-1.5 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50 disabled:opacity-40">{T.fitMapBtn[lang]}</button>
             <button type="button" onClick={fitBoundary} disabled={!overlayUsed || !hasBoundary} className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-2.5 py-1.5 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50 disabled:opacity-40">{T.fitBoundaryBtn[lang]}</button>
+            <button type="button" onClick={fitBoundaryToOverlay} disabled={!overlayUsed} className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-2.5 py-1.5 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50 disabled:opacity-40">{T.boundaryFromOverlayBtn[lang]}</button>
           </div>
 
           <div className="relative h-[420px] w-full overflow-hidden rounded-xl border border-slate-200 shadow-sm sm:h-[520px] lg:h-[600px]">
@@ -1228,11 +1443,30 @@ export function BhuNakshaOverlayTool() {
             lang={lang}
             points={caseData.referencePoints ?? []}
             markMode={markMode}
+            markType={markType}
             hasOverlay={overlayUsed}
             onToggleMarkMode={toggleMarkMode}
+            onMarkTypeChange={setMarkType}
             onUpdate={updateRefPoint}
             onDelete={deleteRefPoint}
             onAlign={alignFromControlPoints}
+          />
+
+          <GeoreferencePanel
+            lang={lang}
+            imageDataUrl={overlay?.dataUrl}
+            naturalWidthPx={overlay?.naturalWidthPx}
+            naturalHeightPx={overlay?.naturalHeightPx}
+            gcps={gcps}
+            armId={gcpArmId}
+            accuracyScore={overlay?.accuracyScore}
+            alignmentMethod={overlay?.alignmentMethod}
+            alignmentRmsMeters={overlay?.alignmentRmsMeters}
+            onAddImagePoint={addImagePoint}
+            onArmMap={armGcpMap}
+            onUpdateLabel={updateGcpLabel}
+            onDelete={deleteGcp}
+            onApply={applyGeoreference}
           />
 
           {/* Layers panel */}
@@ -1251,7 +1485,7 @@ export function BhuNakshaOverlayTool() {
             </div>
           </section>
 
-          <ReportOutputPanel lang={lang} value={caseData} overlayUsed={overlayUsed} scaleText={scaleText} onScreenshot={takeScreenshot} onChange={patchCase} />
+          <ReportOutputPanel lang={lang} value={caseData} overlayUsed={overlayUsed} scaleText={scaleText} onScreenshot={takeScreenshot} onExportJson={exportOverlayJson} onExportGeoJson={exportGeoJson} onExportPdf={exportReportPdf} onChange={patchCase} />
 
           <p className="text-[11px] font-semibold text-slate-400">{T.saved[lang]}</p>
         </div>

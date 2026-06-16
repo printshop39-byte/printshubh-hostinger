@@ -7,7 +7,7 @@
  * details are included in the report ONLY when the admin opts in.
  */
 
-import { Camera, Copy } from "lucide-react";
+import { Camera, Copy, FileJson, FileText, Map as MapIcon } from "lucide-react";
 import { useMemo, useState } from "react";
 import type { Lang } from "@/components/language-context";
 import {
@@ -21,6 +21,9 @@ import { formatTodayDate } from "@/lib/bhunaksha/overlay-transform";
 const L = {
   heading: { mr: "अहवाल आउटपुट", en: "Report Output" },
   screenshot: { mr: "नकाशा स्क्रीनशॉट", en: "Map screenshot" },
+  exportJson: { mr: "Overlay JSON export", en: "Export overlay JSON" },
+  exportGeoJson: { mr: "GeoJSON export", en: "Export GeoJSON" },
+  exportPdf: { mr: "PDF अहवाल", en: "Report PDF" },
   draft: { mr: "अंतर्गत अहवाल मसुदा", en: "Internal report draft" },
   whatsapp: { mr: "WhatsApp संदेश", en: "WhatsApp message" },
   copy: { mr: "कॉपी", en: "Copy" },
@@ -71,6 +74,9 @@ export function ReportOutputPanel({
   overlayUsed,
   scaleText,
   onScreenshot,
+  onExportJson,
+  onExportGeoJson,
+  onExportPdf,
   onChange,
 }: {
   lang: Lang;
@@ -78,6 +84,9 @@ export function ReportOutputPanel({
   overlayUsed: boolean;
   scaleText: string;
   onScreenshot: () => void;
+  onExportJson: () => void;
+  onExportGeoJson: () => void;
+  onExportPdf: () => void;
   onChange: (patch: Partial<LandReportCase>) => void;
 }) {
   const generatedAt = formatTodayDate();
@@ -91,14 +100,41 @@ export function ReportOutputPanel({
     <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
       <h3 className="mb-3 text-sm font-black text-slate-900">{L.heading[lang]}</h3>
 
-      <button
-        type="button"
-        onClick={onScreenshot}
-        className="mb-3 inline-flex items-center gap-1.5 rounded-md bg-blue-700 px-3 py-2 text-[12px] font-bold text-white transition hover:bg-blue-800"
-      >
-        <Camera className="size-3.5" />
-        {L.screenshot[lang]}
-      </button>
+      <div className="mb-3 flex flex-wrap gap-2">
+        <button
+          type="button"
+          onClick={onScreenshot}
+          className="inline-flex items-center gap-1.5 rounded-md bg-blue-700 px-3 py-2 text-[12px] font-bold text-white transition hover:bg-blue-800"
+        >
+          <Camera className="size-3.5" />
+          {L.screenshot[lang]}
+        </button>
+        <button
+          type="button"
+          onClick={onExportPdf}
+          className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-3 py-2 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50"
+        >
+          <FileText className="size-3.5" />
+          {L.exportPdf[lang]}
+        </button>
+        <button
+          type="button"
+          onClick={onExportGeoJson}
+          className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-3 py-2 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50"
+        >
+          <MapIcon className="size-3.5" />
+          {L.exportGeoJson[lang]}
+        </button>
+        <button
+          type="button"
+          onClick={onExportJson}
+          disabled={!overlayUsed}
+          className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-3 py-2 text-[12px] font-bold text-slate-700 transition hover:bg-slate-50 disabled:opacity-40"
+        >
+          <FileJson className="size-3.5" />
+          {L.exportJson[lang]}
+        </button>
+      </div>
 
       <label className="mb-3 block">
         <span className="mb-1 block text-[12px] font-bold text-slate-600">{L.reportNotes[lang]}</span>

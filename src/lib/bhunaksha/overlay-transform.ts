@@ -288,6 +288,185 @@ export function parseLatLngFromGoogleMapsUrl(input: string): LngLat | null {
   return null;
 }
 
+/* ── Control-point georeferencing (Priority 2 — multi-reference alignment) ─────
+ *
+ * Given ≥2 ground-control points (image pixel ↔ map lng/lat), solve a planar
+ * transform that maps the BhuNaksha image into map space, then project the four
+ * image corners through it to get the overlay's corner coordinates:
+ *   - 2 points → similarity (translate + uniform scale + rotation),
+ *   - 3+ points → affine (adds shear/aspect; least-squares over all points).
+ * The RMS of the residuals (predicted vs. actual map position, in metres) feeds
+ * the alignment accuracy score. This is a real least-squares georeference — not
+ * the earlier centroid heuristic in `suggestOverlayPlacement`.
+ *
+ * 4-point perspective/homography is intentionally left for a later pass. */
+
+export type GroundControlPoint = { imagePoint: LngLat; mapLngLat: LngLat };
+export type AlignMethod = "similarity" | "affine";
+
+/** Local east/north metres relative to an origin lng/lat (small-area planar). */
+function lngLatToLocalMeters(p: LngLat, origin: LngLat): [number, number] {
+  const mPerLng = M_PER_DEG_LAT * Math.cos((origin[1] * Math.PI) / 180) || M_PER_DEG_LAT;
+  return [(p[0] - origin[0]) * mPerLng, (p[1] - origin[1]) * M_PER_DEG_LAT];
+}
+function localMetersToLngLat(m: [number, number], origin: LngLat): LngLat {
+  const mPerLng = M_PER_DEG_LAT * Math.cos((origin[1] * Math.PI) / 180) || M_PER_DEG_LAT;
+  return [origin[0] + m[0] / mPerLng, origin[1] + m[1] / M_PER_DEG_LAT];
+}
+
+/** Solve a dense n×n linear system (Gaussian elimination with partial pivot). */
+function solveLinearSystem(A: number[][], b: number[]): number[] | null {
+  const n = b.length;
+  const M = A.map((row, i) => [...row, b[i]]);
+  for (let col = 0; col < n; col++) {
+    let piv = col;
+    for (let r = col + 1; r < n; r++) if (Math.abs(M[r][col]) > Math.abs(M[piv][col])) piv = r;
+    if (Math.abs(M[piv][col]) < 1e-12) return null; // singular / collinear
+    [M[col], M[piv]] = [M[piv], M[col]];
+    for (let r = 0; r < n; r++) {
+      if (r === col) continue;
+      const f = M[r][col] / M[col][col];
+      for (let c = col; c <= n; c++) M[r][c] -= f * M[col][c];
+    }
+  }
+  return M.map((row, i) => row[n] / row[i]);
+}
+
+/** Apply the image-pixel convention used by the solver (flip Y to north-up). */
+function srcConv(px: LngLat): [number, number] {
+  return [px[0], -px[1]];
+}
+
+type Transform = (pt: [number, number]) => [number, number];
+
+/** 2D similarity (conformal) least-squares: [[a,-b],[b,a]]·x + [tx,ty]. */
+function solveSimilarity(src: [number, number][], dst: [number, number][]): Transform | null {
+  // Unknowns u = [a, b, tx, ty]; two equations per point.
+  const ATA = Array.from({ length: 4 }, () => new Array(4).fill(0));
+  const ATb = new Array(4).fill(0);
+  const addRow = (coef: number[], rhs: number) => {
+    for (let i = 0; i < 4; i++) {
+      ATb[i] += coef[i] * rhs;
+      for (let j = 0; j < 4; j++) ATA[i][j] += coef[i] * coef[j];
+    }
+  };
+  for (let k = 0; k < src.length; k++) {
+    const [sx, sy] = src[k];
+    addRow([sx, -sy, 1, 0], dst[k][0]); // dst.x
+    addRow([sy, sx, 0, 1], dst[k][1]); // dst.y
+  }
+  const u = solveLinearSystem(ATA, ATb);
+  if (!u) return null;
+  const [a, b, tx, ty] = u;
+  return ([x, y]) => [a * x - b * y + tx, b * x + a * y + ty];
+}
+
+/** 6-parameter affine least-squares (two independent 3-var solves). */
+function solveAffine(src: [number, number][], dst: [number, number][]): Transform | null {
+  const build = (axis: 0 | 1): number[] | null => {
+    const ATA = Array.from({ length: 3 }, () => new Array(3).fill(0));
+    const ATb = new Array(3).fill(0);
+    for (let k = 0; k < src.length; k++) {
+      const coef = [src[k][0], src[k][1], 1];
+      const rhs = dst[k][axis];
+      for (let i = 0; i < 3; i++) {
+        ATb[i] += coef[i] * rhs;
+        for (let j = 0; j < 3; j++) ATA[i][j] += coef[i] * coef[j];
+      }
+    }
+    return solveLinearSystem(ATA, ATb);
+  };
+  const px = build(0);
+  const py = build(1);
+  if (!px || !py) return null;
+  return ([x, y]) => [px[0] * x + px[1] * y + px[2], py[0] * x + py[1] * y + py[2]];
+}
+
+export type GeorefResult = {
+  corners: Corners;
+  method: AlignMethod;
+  rmsMeters: number;
+  pointCount: number;
+};
+
+/**
+ * Georeference an `imgW × imgH` image from ground-control points and return the
+ * four map corners + fit quality. Returns null for <2 points or a degenerate
+ * (collinear) configuration.
+ */
+export function georeferenceImage(
+  gcps: GroundControlPoint[],
+  imgW: number,
+  imgH: number,
+): GeorefResult | null {
+  if (gcps.length < 2 || imgW <= 0 || imgH <= 0) return null;
+  const origin: LngLat = [
+    gcps.reduce((s, g) => s + g.mapLngLat[0], 0) / gcps.length,
+    gcps.reduce((s, g) => s + g.mapLngLat[1], 0) / gcps.length,
+  ];
+  const src = gcps.map((g) => srcConv(g.imagePoint));
+  const dst = gcps.map((g) => lngLatToLocalMeters(g.mapLngLat, origin));
+  const method: AlignMethod = gcps.length >= 3 ? "affine" : "similarity";
+  const tf = method === "affine" ? solveAffine(src, dst) : solveSimilarity(src, dst);
+  if (!tf) {
+    // Collinear points break affine — fall back to similarity.
+    const sim = solveSimilarity(src, dst);
+    if (!sim) return null;
+    return finishGeoref(sim, "similarity", gcps, src, dst, origin, imgW, imgH);
+  }
+  return finishGeoref(tf, method, gcps, src, dst, origin, imgW, imgH);
+}
+
+function finishGeoref(
+  tf: Transform,
+  method: AlignMethod,
+  gcps: GroundControlPoint[],
+  src: [number, number][],
+  dst: [number, number][],
+  origin: LngLat,
+  imgW: number,
+  imgH: number,
+): GeorefResult {
+  // Residual RMS in metres.
+  let sumSq = 0;
+  for (let k = 0; k < src.length; k++) {
+    const p = tf(src[k]);
+    sumSq += (p[0] - dst[k][0]) ** 2 + (p[1] - dst[k][1]) ** 2;
+  }
+  const rmsMeters = Math.sqrt(sumSq / src.length);
+
+  // Image corners (TL, TR, BR, BL) through the transform → lng/lat.
+  const cornerPx: LngLat[] = [
+    [0, 0],
+    [imgW, 0],
+    [imgW, imgH],
+    [0, imgH],
+  ];
+  const [tl, tr, br, bl] = cornerPx.map((px) => localMetersToLngLat(tf(srcConv(px)), origin)) as [
+    LngLat,
+    LngLat,
+    LngLat,
+    LngLat,
+  ];
+  return {
+    corners: { topLeft: tl, topRight: tr, bottomRight: br, bottomLeft: bl },
+    method,
+    rmsMeters,
+    pointCount: gcps.length,
+  };
+}
+
+/**
+ * Alignment accuracy score (0–100) from the fit residual + redundancy. Two
+ * points always fit exactly (rms≈0) but carry no redundancy, so the score is
+ * capped by point count. Higher = tighter, better-checked alignment.
+ */
+export function accuracyScore(rmsMeters: number, pointCount: number): number {
+  const base = 100 - rmsMeters * 6; // ~5 m → 70, ~10 m → 40
+  const cap = pointCount >= 4 ? 99 : pointCount === 3 ? 85 : 70;
+  return Math.max(5, Math.min(cap, Math.round(base)));
+}
+
 export function formatTodayDate(): string {
   try {
     return new Date().toLocaleDateString("en-GB", {
