@@ -22,6 +22,7 @@ import {
   Eraser,
   FileUp,
   Frame,
+  Hand,
   Info,
   Layers as LayersIcon,
   Lock,
@@ -35,9 +36,11 @@ import {
 } from "lucide-react";
 import { useLang } from "@/components/language-context";
 import { LandReportCasePanel } from "@/components/admin/land-report-case-panel";
+import { LocationNavigatorPanel } from "@/components/admin/location-navigator-panel";
 import { OverlayControlsPanel } from "@/components/admin/overlay-controls-panel";
 import { ReferencePointsPanel } from "@/components/admin/reference-points-panel";
 import { ReportOutputPanel } from "@/components/admin/report-output-panel";
+import { useLgdLocation } from "@/components/admin/use-lgd-location";
 import { fileToRaster } from "@/lib/bhunaksha/pdf-to-image";
 import {
   approxAreaSqMeters,
@@ -50,6 +53,7 @@ import {
   haversineMeters,
   midpointLngLat,
   niceScaleDenominator,
+  parseLatLngFromGoogleMapsUrl,
   perimeterMeters,
   polygonEdges,
   rotateCornersAround,
@@ -73,7 +77,7 @@ const STORAGE_KEY = "printshubh_admin_bhunaksha_case_v1";
 
 type BaseLayer = "satellite" | "osm";
 type DrawMode = "idle" | "drawing" | "done";
-type TransformMode = "move" | "corner" | "width" | "height" | "rotate";
+type TransformMode = "pan" | "move" | "corner" | "width" | "height" | "rotate";
 
 interface LayerVisibility {
   overlay: boolean;
@@ -121,7 +125,8 @@ const T = {
     en: "Could not render the PDF. Please upload an image (screenshot) instead.",
   },
   transform: { mr: "Overlay transform", en: "Overlay transform" },
-  modeMove: { mr: "हलवा", en: "Move" },
+  modePan: { mr: "नकाशा हलवा", en: "Pan map" },
+  modeMove: { mr: "Overlay हलवा", en: "Move overlay" },
   modeCorner: { mr: "कोपरे adjust करा", en: "Adjust corners" },
   modeWidth: { mr: "रुंदी stretch", en: "Stretch width" },
   modeHeight: { mr: "उंची stretch", en: "Stretch height" },
@@ -139,6 +144,7 @@ const T = {
   drawFinish: { mr: "पूर्ण करा", en: "Finish" },
   drawClear: { mr: "साफ करा", en: "Clear" },
   drawHint: { mr: "✏️ दाबा, points क्लिक करा, double-click ने पूर्ण.", en: "Tap ✏️, click points, double-click to finish." },
+  hintPan: { mr: "नकाशा drag करून हलवा (zoom/pan चालू).", en: "Drag to pan the map (zoom/pan stay active)." },
   hintMove: { mr: "Overlay drag करा.", en: "Drag to move the overlay." },
   hintCorner: { mr: "कोपरे drag करून आकार जुळवा.", en: "Drag the corner handles to fit." },
   hintEdge: { mr: "Edge handle drag करून stretch करा.", en: "Drag an edge handle to stretch." },
@@ -162,14 +168,19 @@ export function BhuNakshaOverlayTool() {
   const [baseLayer, setBaseLayer] = useState<BaseLayer>("satellite");
   const [drawMode, setDrawMode] = useState<DrawMode>("idle");
   const [drawnCoords, setDrawnCoords] = useState<LngLat[]>([]);
-  const [transformMode, setTransformMode] = useState<TransformMode>("move");
+  const [transformMode, setTransformMode] = useState<TransformMode>("pan");
   const [uniform, setUniform] = useState(true);
   const [markMode, setMarkMode] = useState(false);
   const [layers, setLayers] = useState<LayerVisibility>({ overlay: true, boundary: true, dimensions: true, refPoints: true });
   const [scaleText, setScaleText] = useState("");
+  const [currentZoom, setCurrentZoom] = useState(6.5);
+  const [navTarget, setNavTarget] = useState<{ lng: number; lat: number; label: string; type: ReferencePoint["type"] } | null>(null);
+  const [googleMsg, setGoogleMsg] = useState<string | null>(null);
   const [uploadBusy, setUploadBusy] = useState(false);
   const [uploadError, setUploadError] = useState<string | null>(null);
   const [pageNumber, setPageNumber] = useState(1);
+
+  const lgd = useLgdLocation(lang);
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const mapRef = useRef<any>(null);
@@ -194,6 +205,9 @@ export function BhuNakshaOverlayTool() {
   const handleMarkersRef = useRef<any[]>([]);
   const draggingHandleRef = useRef(false);
   const workingCornersRef = useRef<Corners | null>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const navMarkerRef = useRef<any>(null);
+  const navTargetRef = useRef<{ lng: number; lat: number; label: string; type: ReferencePoint["type"] } | null>(null);
   const dragRef = useRef<{ active: boolean; start: LngLat; startCorners: Corners; lastCorners: Corners } | null>(null);
 
   const overlay = caseData?.bhunakshaOverlay;
@@ -234,6 +248,7 @@ export function BhuNakshaOverlayTool() {
   useEffect(() => { uniformRef.current = uniform; }, [uniform]);
   useEffect(() => { markModeRef.current = markMode; }, [markMode]);
   useEffect(() => { layersRef.current = layers; }, [layers]);
+  useEffect(() => { navTargetRef.current = navTarget; }, [navTarget]);
 
   const patchCase = useCallback((patch: Partial<LandReportCase>) => {
     setCaseData((prev) => ({ ...prev, ...patch, updatedAt: new Date().toISOString() }));
@@ -329,7 +344,7 @@ export function BhuNakshaOverlayTool() {
     const ov = caseRef.current?.bhunakshaOverlay;
     if (!ov?.dataUrl || ov.locked || !ov.visible || !layersRef.current.overlay) return;
     const mode = transformModeRef.current;
-    if (mode === "move") return; // move = drag the image itself
+    if (mode === "pan" || mode === "move") return; // pan = map; move = drag the image
     const corners = ovToCorners(ov);
     workingCornersRef.current = corners;
 
@@ -425,11 +440,15 @@ export function BhuNakshaOverlayTool() {
 
   /* ── Map init ── */
   useEffect(() => {
+    let cancelled = false;
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     let map: any;
     async function init() {
-      if (!mapContainerRef.current) return;
+      // Guard against StrictMode's dev double-invoke + async race: never create
+      // a second map, and bail if the effect was cleaned up during `await`.
+      if (mapRef.current || !mapContainerRef.current) return;
       const mgl = await import("maplibre-gl");
+      if (cancelled || mapRef.current || !mapContainerRef.current) return;
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const ML: any = mgl.default ?? mgl;
       mglRef.current = ML;
@@ -466,6 +485,8 @@ export function BhuNakshaOverlayTool() {
           setScaleText(den > 0 ? `1:${den}` : "");
         };
         updateScale();
+        setCurrentZoom(map.getZoom());
+        map.on("zoom", () => setCurrentZoom(map.getZoom()));
         map.on("zoomend", updateScale);
         map.on("moveend", updateScale);
 
@@ -524,9 +545,14 @@ export function BhuNakshaOverlayTool() {
     }
     init();
     return () => {
+      cancelled = true;
       [...edgeMarkersRef.current, ...refMarkersRef.current, ...handleMarkersRef.current].forEach((m) => m.remove());
       edgeMarkersRef.current = []; refMarkersRef.current = []; handleMarkersRef.current = [];
-      if (mapRef.current) { mapRef.current.remove(); mapRef.current = null; mapReadyRef.current = false; }
+      if (navMarkerRef.current) { navMarkerRef.current.remove(); navMarkerRef.current = null; }
+      const live = map ?? mapRef.current;
+      if (live) { live.remove(); }
+      mapRef.current = null;
+      mapReadyRef.current = false;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -561,6 +587,44 @@ export function BhuNakshaOverlayTool() {
     rebuildHandles();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [overlay, transformMode, layers.overlay]);
+
+  /* Fly to the resolved village/taluka extent + set it as the nav target. */
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !mapReadyRef.current || !lgd.extent) return;
+    const [minLng, minLat, maxLng, maxLat] = lgd.extent.bbox;
+    map.fitBounds([[minLng, minLat], [maxLng, maxLat]], { padding: 60, maxZoom: lgd.extent.villageMatched ? 17 : 13, duration: 1000 });
+    const v = lgd.selectedNames().village;
+    setNavTarget({ lng: lgd.extent.center[0], lat: lgd.extent.center[1], label: v ? lgd.villageLabel(v) : "", type: "selected_plot" });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lgd.extent]);
+
+  /* Show the selected village boundary (below the overlay). */
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !mapReadyRef.current) return;
+    const SRC = "village-admin", FILL = "village-admin-fill", LINE = "village-admin-line";
+    if (map.getLayer(FILL)) map.removeLayer(FILL);
+    if (map.getLayer(LINE)) map.removeLayer(LINE);
+    if (map.getSource(SRC)) map.removeSource(SRC);
+    if (!lgd.boundaryFeature) return;
+    map.addSource(SRC, { type: "geojson", data: lgd.boundaryFeature });
+    const before = map.getLayer("bhunaksha-img") ? "bhunaksha-img" : map.getLayer("plot-fill") ? "plot-fill" : undefined;
+    map.addLayer({ id: FILL, type: "fill", source: SRC, paint: { "fill-color": "#facc15", "fill-opacity": 0.15 } }, before);
+    map.addLayer({ id: LINE, type: "line", source: SRC, paint: { "line-color": "#ca8a04", "line-width": 2 } }, before);
+  }, [lgd.boundaryFeature]);
+
+  /* Temporary navigation marker for lat/long / Google-link / village center. */
+  useEffect(() => {
+    const map = mapRef.current;
+    const ML = mglRef.current;
+    if (!map || !ML || !mapReadyRef.current) return;
+    if (navMarkerRef.current) { navMarkerRef.current.remove(); navMarkerRef.current = null; }
+    if (!navTarget) return;
+    const el = document.createElement("div");
+    el.className = "ps-nav-marker";
+    navMarkerRef.current = new ML.Marker({ element: el, anchor: "bottom" }).setLngLat([navTarget.lng, navTarget.lat]).addTo(map);
+  }, [navTarget]);
 
   /* ── Boundary derived + persistence ── */
   const plotEdges = useMemo(() => (drawMode === "done" ? polygonEdges(drawnCoords, drawnCoords.length >= 3) : []), [drawnCoords, drawMode]);
@@ -730,8 +794,66 @@ export function BhuNakshaOverlayTool() {
     setTransformMode(m);
     setMarkMode(false);
     if (drawModeRef.current === "drawing") setDrawMode("idle");
-    patchOverlay({ transformMode: m === "width" || m === "height" ? "scale" : m });
+    if (m !== "pan" && caseRef.current?.bhunakshaOverlay) {
+      patchOverlay({ transformMode: m === "width" || m === "height" ? "scale" : m });
+    }
   }, [patchOverlay]);
+
+  /* ── Location Navigator handlers ── */
+  const goLatLng = useCallback((lat: number, lng: number) => {
+    const map = mapRef.current;
+    if (!map) return;
+    map.flyTo({ center: [lng, lat], zoom: Math.max(map.getZoom(), 17), duration: 1000 });
+    setNavTarget({ lng, lat, label: `${lat.toFixed(6)}, ${lng.toFixed(6)}`, type: "landmark" });
+    setGoogleMsg(null);
+  }, []);
+
+  const goGoogle = useCallback(() => {
+    const ll = parseLatLngFromGoogleMapsUrl(caseRef.current?.googleMapLink ?? "");
+    if (ll) goLatLng(ll[1], ll[0]);
+    else setGoogleMsg(lang === "mr" ? "Link मधून lat-long मिळाले नाही. कृपया lat-long स्वतः paste करा." : "Couldn't read lat-long from the link. Please paste lat-long manually.");
+  }, [goLatLng, lang]);
+
+  const zoomIn = useCallback(() => mapRef.current?.zoomIn(), []);
+  const zoomOut = useCallback(() => mapRef.current?.zoomOut(), []);
+  const resetNorth = useCallback(() => mapRef.current?.resetNorth?.(), []);
+
+  const goVillage = useCallback(() => {
+    const map = mapRef.current;
+    if (!map || !lgd.extent) return;
+    const [a, b, c, d] = lgd.extent.bbox;
+    map.fitBounds([[a, b], [c, d]], { padding: 60, maxZoom: lgd.extent.villageMatched ? 17 : 13, duration: 800 });
+  }, [lgd.extent]);
+
+  const fitBoundaryMap = useCallback(() => {
+    const map = mapRef.current;
+    const coords = drawnCoordsRef.current;
+    if (!map || coords.length < 2) return;
+    const lngs = coords.map((c) => c[0]);
+    const lats = coords.map((c) => c[1]);
+    map.fitBounds([[Math.min(...lngs), Math.min(...lats)], [Math.max(...lngs), Math.max(...lats)]], { padding: 80, maxZoom: 19, duration: 800 });
+  }, []);
+
+  const fitOverlayMap = useCallback(() => {
+    const map = mapRef.current;
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!map || !ov?.dataUrl) return;
+    const cs = cornersToCoords(ovToCorners(ov));
+    const lngs = cs.map((c) => c[0]);
+    const lats = cs.map((c) => c[1]);
+    map.fitBounds([[Math.min(...lngs), Math.min(...lats)], [Math.max(...lngs), Math.max(...lats)]], { padding: 60, maxZoom: 19, duration: 800 });
+  }, []);
+
+  const addNavRefPoint = useCallback(() => {
+    const t = navTargetRef.current;
+    if (!t) return;
+    const now = new Date().toISOString();
+    const pt: ReferencePoint = {
+      id: globalThis.crypto?.randomUUID?.() ?? `rp-${Date.now()}`,
+      label: t.label || "", type: t.type, lngLat: [t.lng, t.lat], useForOverlayAlignment: false, createdAt: now, updatedAt: now,
+    };
+    setCaseData((prev) => ({ ...prev, referencePoints: [...(prev.referencePoints ?? []), pt], updatedAt: now }));
+  }, []);
 
   /* ── Reference-point handlers ── */
   const updateRefPoint = useCallback((id: string, patch: Partial<ReferencePoint>) => {
@@ -785,6 +907,7 @@ export function BhuNakshaOverlayTool() {
   const hasSelectedPlot = hasBoundary || (caseData.referencePoints ?? []).some((p) => p.type === "selected_plot");
 
   const MODE_BUTTONS: { mode: TransformMode; label: string; Icon: typeof Move }[] = [
+    { mode: "pan", label: T.modePan[lang], Icon: Hand },
     { mode: "move", label: T.modeMove[lang], Icon: Move },
     { mode: "corner", label: T.modeCorner[lang], Icon: Frame },
     { mode: "width", label: T.modeWidth[lang], Icon: MoveHorizontal },
@@ -794,13 +917,15 @@ export function BhuNakshaOverlayTool() {
 
   const hint = markMode
     ? T.hintMark[lang]
-    : transformMode === "move"
-      ? T.hintMove[lang]
-      : transformMode === "corner"
-        ? T.hintCorner[lang]
-        : transformMode === "rotate"
-          ? T.hintRotate[lang]
-          : T.hintEdge[lang];
+    : transformMode === "pan"
+      ? T.hintPan[lang]
+      : transformMode === "move"
+        ? T.hintMove[lang]
+        : transformMode === "corner"
+          ? T.hintCorner[lang]
+          : transformMode === "rotate"
+            ? T.hintRotate[lang]
+            : T.hintEdge[lang];
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6">
@@ -820,20 +945,25 @@ export function BhuNakshaOverlayTool() {
           {/* Transform toolbar (directly above map) */}
           <div className="flex flex-wrap items-center gap-2 rounded-xl border border-slate-200 bg-white p-2 shadow-sm">
             <span className="px-1 text-[11px] font-black uppercase tracking-wide text-slate-400">{T.transform[lang]}</span>
-            {MODE_BUTTONS.map(({ mode, label, Icon }) => (
-              <button
-                key={mode}
-                type="button"
-                onClick={() => setMode(mode)}
-                disabled={!overlayUsed || overlay?.locked}
-                aria-pressed={transformMode === mode}
-                className={`inline-flex items-center gap-1.5 rounded-md border px-2.5 py-1.5 text-[12px] font-bold transition disabled:opacity-40 ${
-                  transformMode === mode && overlayUsed && !overlay?.locked ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"
-                }`}
-              >
-                <Icon className="size-3.5" /> {label}
-              </button>
-            ))}
+            {MODE_BUTTONS.map(({ mode, label, Icon }) => {
+              const overlayMode = mode !== "pan";
+              const isDisabled = overlayMode && (!overlayUsed || overlay?.locked);
+              const isActive = transformMode === mode && (!overlayMode || (overlayUsed && !overlay?.locked));
+              return (
+                <button
+                  key={mode}
+                  type="button"
+                  onClick={() => setMode(mode)}
+                  disabled={isDisabled}
+                  aria-pressed={transformMode === mode}
+                  className={`inline-flex items-center gap-1.5 rounded-md border px-2.5 py-1.5 text-[12px] font-bold transition disabled:opacity-40 ${
+                    isActive ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"
+                  }`}
+                >
+                  <Icon className="size-3.5" /> {label}
+                </button>
+              );
+            })}
             <button
               type="button"
               onClick={() => patchOverlay({ locked: !overlay?.locked })}
@@ -898,6 +1028,38 @@ export function BhuNakshaOverlayTool() {
 
         {/* ── Panels column ── */}
         <div className="space-y-4 lg:max-h-[84vh] lg:overflow-y-auto lg:pr-1">
+          <LocationNavigatorPanel
+            lang={lang}
+            districts={lgd.districts}
+            talukas={lgd.talukas}
+            villages={lgd.villages}
+            districtId={lgd.districtId}
+            talukaId={lgd.talukaId}
+            villageId={lgd.villageId}
+            selectDistrict={lgd.selectDistrict}
+            selectTaluka={lgd.selectTaluka}
+            selectVillage={lgd.selectVillage}
+            districtLabel={lgd.districtLabel}
+            talukaLabel={lgd.talukaLabel}
+            villageLabel={lgd.villageLabel}
+            extent={lgd.extent}
+            currentZoom={currentZoom}
+            hasGoogleLink={!!caseData.googleMapLink}
+            googleMsg={googleMsg}
+            hasBoundary={hasBoundary}
+            hasOverlay={overlayUsed}
+            canAddRef={!!navTarget}
+            onGoLatLng={goLatLng}
+            onGoGoogle={goGoogle}
+            onZoomIn={zoomIn}
+            onZoomOut={zoomOut}
+            onResetNorth={resetNorth}
+            onGoVillage={goVillage}
+            onFitBoundary={fitBoundaryMap}
+            onFitOverlay={fitOverlayMap}
+            onAddRef={addNavRefPoint}
+          />
+
           <LandReportCasePanel value={caseData} onChange={patchCase} lang={lang} />
 
           {/* Upload panel */}

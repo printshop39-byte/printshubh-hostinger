@@ -516,6 +516,17 @@ body {
   cursor: grabbing;
 }
 
+/* ── Admin location-navigator pin (lat/long / village center) ── */
+.ps-nav-marker {
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px 9999px 9999px 0;
+  background: #2563eb;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 5px rgba(15, 23, 42, 0.5);
+  transform: rotate(-45deg);
+}
+
 @media (prefers-reduced-motion: reduce) {
   .ps-marquee-track {
     animation: none;

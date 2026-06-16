@@ -258,6 +258,35 @@ export function suggestOverlayPlacement(
   return { center: [lng, lat], widthMeters, heightMeters: widthMeters / safeAspect, rotationDeg };
 }
 
+/**
+ * Best-effort lat/lng extraction from a Google Maps URL. Handles the common
+ * `@lat,lng`, `q=lat,lng`, `!3dlat!4dlng` and bare "lat, lng" forms. Returns
+ * null for shortlinks (maps.app.goo.gl / goo.gl/maps) that need a network
+ * redirect to resolve — the caller should then ask for manual lat/lng.
+ */
+export function parseLatLngFromGoogleMapsUrl(input: string): LngLat | null {
+  if (!input) return null;
+  const s = input.trim();
+  const valid = (lat: number, lng: number) =>
+    Number.isFinite(lat) && Number.isFinite(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180;
+  const patterns = [
+    /@(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)/,
+    /[?&]q=(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)/,
+    /[?&](?:ll|center|destination)=(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)/,
+    /!3d(-?\d{1,3}\.\d+)!4d(-?\d{1,3}\.\d+)/,
+    /(-?\d{1,3}\.\d{4,}),\s*(-?\d{1,3}\.\d{4,})/,
+  ];
+  for (const re of patterns) {
+    const m = s.match(re);
+    if (m) {
+      const lat = parseFloat(m[1]);
+      const lng = parseFloat(m[2]);
+      if (valid(lat, lng)) return [lng, lat];
+    }
+  }
+  return null;
+}
+
 export function formatTodayDate(): string {
   try {
     return new Date().toLocaleDateString("en-GB", {
