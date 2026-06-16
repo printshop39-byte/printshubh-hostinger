@@ -261,20 +261,31 @@ export function buildReportDraft(
   const neighbors = refs.filter((r) => r.type === "neighbor_survey").map((r) => r.label).filter(Boolean);
   const controlPts = refs.filter((r) => r.useForOverlayAlignment);
   const alignedByCp = !!c.bhunakshaOverlay?.controlPoints?.length;
+  const gref = refs.find((r) => /google map location/i.test(r.label));
+  const corners = c.bhunakshaOverlay?.cornerLngLats;
+  const fmtLatLng = (p: [number, number]) => `${p[1].toFixed(6)}, ${p[0].toFixed(6)}`;
   const method = alignedByCp
-    ? mr ? "Control-point assisted (Manual)" : "Control-point assisted (manual)"
-    : refs.length
-      ? mr ? "Manual + reference points" : "Manual + reference points"
-      : "Manual";
+    ? mr ? "Control-point assisted (Manual overlay)" : "Control-point assisted (manual overlay)"
+    : gref
+      ? "Manual overlay + Google Map reference"
+      : corners
+        ? "Manual overlay + corner adjustment"
+        : "Manual overlay";
   lines.push(line(mr ? "निवडलेला गट / प्लॉट" : "Selected plot number", selectedPlot));
   if (neighbors.length)
     lines.push(`${mr ? "शेजारी गट नंबर" : "Neighbor survey numbers"}: ${neighbors.join(", ")}`);
+  if (gref) lines.push(`${mr ? "Google Map निर्देशांक" : "Google Map coordinates"}: ${fmtLatLng(gref.lngLat)}`);
   lines.push(`${mr ? "Overlay alignment पद्धत" : "Overlay alignment method"}: ${method}`);
   if (controlPts.length) {
     lines.push(mr ? "Control point निर्देशांक:" : "Control point coordinates:");
     controlPts.forEach((p, i) =>
-      lines.push(`  ${i + 1}. ${p.label || (mr ? "बिंदू" : "Point")} — ${p.lngLat[1].toFixed(6)}, ${p.lngLat[0].toFixed(6)}`),
+      lines.push(`  ${i + 1}. ${p.label || (mr ? "बिंदू" : "Point")} — ${fmtLatLng(p.lngLat)}`),
     );
+  }
+  if (corners) {
+    lines.push(mr ? "Overlay कोपरे (lat, lng):" : "Overlay corners (lat, lng):");
+    lines.push(`  TL ${fmtLatLng(corners.topLeft)} · TR ${fmtLatLng(corners.topRight)}`);
+    lines.push(`  BR ${fmtLatLng(corners.bottomRight)} · BL ${fmtLatLng(corners.bottomLeft)}`);
   }
 
   if (b && b.coordinates.length >= 3) {

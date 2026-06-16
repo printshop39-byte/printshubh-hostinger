@@ -84,6 +84,7 @@ export function LocationNavigatorPanel(props: LocationNavigatorProps) {
       latStr = a.trim();
       lngStr = (b ?? "").trim();
     }
+    if (!latStr || !lngStr) return;
     const lat = Number(latStr);
     const lng = Number(lngStr);
     if (Number.isFinite(lat) && Number.isFinite(lng)) props.onGoLatLng(lat, lng);

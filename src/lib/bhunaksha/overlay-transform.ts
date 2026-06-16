@@ -274,7 +274,8 @@ export function parseLatLngFromGoogleMapsUrl(input: string): LngLat | null {
     /[?&]q=(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)/,
     /[?&](?:ll|center|destination)=(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)/,
     /!3d(-?\d{1,3}\.\d+)!4d(-?\d{1,3}\.\d+)/,
-    /(-?\d{1,3}\.\d{4,}),\s*(-?\d{1,3}\.\d{4,})/,
+    /geo:(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+)/,
+    /(-?\d{1,3}\.\d{3,}),\s*(-?\d{1,3}\.\d{3,})/,
   ];
   for (const re of patterns) {
     const m = s.match(re);
