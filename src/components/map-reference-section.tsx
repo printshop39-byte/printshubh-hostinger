@@ -22,6 +22,7 @@ import {
   MapPin,
   MessageCircle,
   Pencil,
+  X,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import {
@@ -1745,7 +1746,7 @@ function MapPanel({
   };
 
   return (
-    <div className="relative h-[360px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[440px] lg:h-[560px]">
+    <div className="relative h-[55vh] min-h-[320px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[62vh] lg:h-[70vh] lg:min-h-[560px]">
       <div ref={mapContainerRef} className="h-full w-full" />
 
       {/* Loading indicator — shown only while the currently-visible base
@@ -1917,7 +1918,8 @@ export function MapReferenceSection() {
     [],
   );
 
-  const [baseLayerId, setBaseLayerId] = useState<BaseLayerId>("osm");
+  const [baseLayerId, setBaseLayerId] = useState<BaseLayerId>("satellite");
+  const [formOpen, setFormOpen] = useState(false);
   /* Tracks the last village_id we reset the draw state for, so the reset
    * effect only fires when the village actually changes (conditional set →
    * satisfies react-hooks/set-state-in-effect). */
@@ -2411,50 +2413,55 @@ export function MapReferenceSection() {
 
   /* ── Render ────────────────────────────────────────────────────────────── */
   return (
-    <section id="map-reference" className="bg-[#f0f7ff] px-5 py-20 sm:px-8 lg:py-24">
+    <section id="map-reference" className="bg-[#f0f7ff] px-5 py-6 sm:px-8 sm:py-20 lg:py-24">
       <div className="mx-auto max-w-7xl">
-        <div data-reveal className="mb-10">
+        <div data-reveal className="mb-4 sm:mb-10">
           <p className="text-sm font-bold uppercase tracking-[0.2em] text-blue-700">{tx.sectionBadge}</p>
           <h2 className="mt-3 text-3xl font-black leading-tight text-slate-950 sm:text-5xl">{tx.heading}</h2>
           <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600">{tx.subtext}</p>
         </div>
 
-        {/* Mobile-only Form ↔ Map quick toggle. Hidden on lg+. */}
-        <div className="mb-5 flex gap-2 rounded-lg border border-slate-200 bg-white p-1 shadow-sm lg:hidden">
-          <button
-            type="button"
-            onClick={() => mobileFormAnchorRef.current?.scrollIntoView({ behavior: "smooth", block: "start" })}
-            className="flex-1 rounded-md bg-blue-600 px-3 py-2 text-sm font-black text-white transition active:scale-[0.98]"
-          >
-            {lang === "mr" ? "फॉर्म" : "Form"}
-          </button>
-          <button
-            type="button"
-            onClick={() => mobileMapAnchorRef.current?.scrollIntoView({ behavior: "smooth", block: "start" })}
-            className="flex-1 rounded-md bg-slate-100 px-3 py-2 text-sm font-black text-slate-800 transition hover:bg-slate-200 active:scale-[0.98]"
-          >
-            {lang === "mr" ? "नकाशा पहा" : "Show map"}
-          </button>
-        </div>
+        {/*
+         * Map-first workspace: a single full-width map (Google-Earth-like). The
+         * "जमीन माहिती भरा" form opens as a right-side drawer (desktop) / bottom
+         * sheet (mobile) via the floating "माहिती भरा" tab — so the map stays wide.
+         */}
+        <div className="relative">
+          <div ref={mobileMapAnchorRef} className="space-y-4">
+            <div className="relative">
+              <MapPanel
+                lang={lang}
+                boundaryFeature={boundaryFeature}
+                drawMode={drawMode}
+                setDrawMode={setDrawMode}
+                drawnCoords={drawnCoords}
+                setDrawnCoords={setDrawnCoords}
+                baseLayerId={baseLayerId}
+                setBaseLayerId={setBaseLayerId}
+              />
 
-        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1.5fr_0.85fr] lg:items-start">
-          {/*
-           * Map-first layout (simplified map-first homepage): the MAP column is
-           * written first and shown first on mobile (order-1), with the compact
-           * form directly below. Desktop keeps a broad map on the left and the
-           * form on the right.
-           */}
-          <div ref={mobileMapAnchorRef} className="order-1 space-y-4 lg:order-1">
-            <MapPanel
-              lang={lang}
-              boundaryFeature={boundaryFeature}
-              drawMode={drawMode}
-              setDrawMode={setDrawMode}
-              drawnCoords={drawnCoords}
-              setDrawnCoords={setDrawnCoords}
-              baseLayerId={baseLayerId}
-              setBaseLayerId={setBaseLayerId}
-            />
+              {/* Desktop: floating tab on the map's right edge */}
+              <button
+                type="button"
+                onClick={() => setFormOpen(true)}
+                aria-expanded={formOpen}
+                className="absolute right-3 top-1/2 z-30 hidden -translate-y-1/2 items-center gap-2 rounded-full bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg ring-2 ring-white/70 transition hover:bg-blue-700 lg:inline-flex"
+              >
+                <Pencil className="size-4" />
+                {lang === "mr" ? "माहिती भरा" : "Fill details"}
+              </button>
+            </div>
+
+            {/* Mobile: full-width Fill-details CTA directly under the map */}
+            <button
+              type="button"
+              onClick={() => setFormOpen(true)}
+              aria-expanded={formOpen}
+              className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-lg bg-blue-600 text-base font-black text-white shadow-sm transition hover:bg-blue-700 active:scale-[0.99] lg:hidden"
+            >
+              <Pencil className="size-5" />
+              {lang === "mr" ? "माहिती भरा" : "Fill details"}
+            </button>
 
             {boundaryLoading && (
               <div className="flex items-center gap-2 rounded-md border border-blue-200 bg-blue-50 px-3 py-2 text-xs font-semibold text-blue-900">
@@ -2535,9 +2542,33 @@ export function MapReferenceSection() {
             )}
           </div>
 
-          <div ref={mobileFormAnchorRef} className="order-2 space-y-4 lg:order-2">
-            <div className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
-              <h3 className="mb-3 text-lg font-black text-slate-950">{tx.formHeading}</h3>
+          {/* Form drawer — right-side panel (desktop) / bottom sheet (mobile).
+           * Overlays the map with a backdrop; the map stays visible behind it. */}
+          <div
+            className={`fixed inset-0 z-[60] ${formOpen ? "" : "pointer-events-none"}`}
+            role="dialog"
+            aria-modal="true"
+            aria-hidden={!formOpen}
+          >
+            <div
+              onClick={() => setFormOpen(false)}
+              className={`absolute inset-0 bg-slate-900/40 backdrop-blur-sm transition-opacity duration-300 ${formOpen ? "opacity-100" : "opacity-0"}`}
+            />
+            <div
+              className={`absolute inset-x-0 bottom-0 flex max-h-[88vh] flex-col rounded-t-2xl bg-white shadow-2xl transition-transform duration-300 ease-out sm:inset-y-0 sm:bottom-auto sm:left-auto sm:right-0 sm:h-full sm:w-[440px] sm:max-w-[92vw] sm:max-h-none sm:rounded-none ${formOpen ? "translate-y-0 sm:translate-x-0" : "translate-y-full sm:translate-y-0 sm:translate-x-full"}`}
+            >
+              <div ref={mobileFormAnchorRef} className="flex items-center justify-between border-b border-slate-200 px-5 py-3">
+                <h3 className="text-lg font-black text-slate-950">{tx.formHeading}</h3>
+                <button
+                  type="button"
+                  onClick={() => setFormOpen(false)}
+                  className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-3 py-1.5 text-sm font-bold text-slate-700 transition hover:bg-slate-50"
+                >
+                  <X className="size-4" />
+                  {lang === "mr" ? "बंद करा" : "Close"}
+                </button>
+              </div>
+              <div className="flex-1 overflow-y-auto px-5 py-4 sm:px-6">
 
               {/* ── Service-type dropdown (replaces category tabs + chips) ──
                * A single select keeps the form compact and removes the
@@ -2936,14 +2967,14 @@ export function MapReferenceSection() {
                   {tx.whatsappBtn}
                 </button>
               )}
-            </div>
-
-            <div className="flex items-start gap-3 rounded-lg border border-amber-200 bg-amber-50 px-4 py-4 text-sm font-semibold leading-6 text-amber-900">
-              <Info className="mt-0.5 size-5 shrink-0 text-amber-600" />
-              {tx.disclaimer}
-            </div>
-          </div>
-        </div>
+                <div className="mt-4 flex items-start gap-3 rounded-lg border border-amber-200 bg-amber-50 px-4 py-4 text-sm font-semibold leading-6 text-amber-900">
+                  <Info className="mt-0.5 size-5 shrink-0 text-amber-600" />
+                  {tx.disclaimer}
+                </div>
+              </div>{/* /drawer scroll-container */}
+            </div>{/* /drawer panel */}
+          </div>{/* /drawer overlay */}
+        </div>{/* /map-first relative wrapper */}
       </div>
     </section>
   );
