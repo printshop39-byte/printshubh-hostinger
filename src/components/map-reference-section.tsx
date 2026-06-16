@@ -242,6 +242,90 @@ function formatAreaPair(sqm: number, lang: Lang): string {
   return `${sqm.toFixed(0)} sq.m · ${acre.toFixed(3)} acre · ${guntha.toFixed(2)} guntha`;
 }
 
+/* ── Geodesic edge helpers (boundary dimensions) ──────────────────────────────
+ *
+ * Haversine distance is accurate to well within ~0.5 % at plot scale — far
+ * tighter than the drawing/imagery precision — so no external geometry library
+ * (Turf etc.) is pulled in. */
+function haversineMeters(a: LngLat, b: LngLat): number {
+  const R = 6371008.8; // mean Earth radius (m)
+  const toRad = (d: number) => (d * Math.PI) / 180;
+  const dLat = toRad(b[1] - a[1]);
+  const dLng = toRad(b[0] - a[0]);
+  const s =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(a[1])) * Math.cos(toRad(b[1])) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.min(1, Math.sqrt(s)));
+}
+
+interface PolygonEdge {
+  index: number; // 0-based edge index
+  mid: LngLat; // midpoint — anchor for the on-map dimension label
+  lengthM: number; // geodesic length in metres
+}
+
+/**
+ * Edges of the drawn polyline / polygon. When `closed` is true the wrap-around
+ * edge (last → first) is included; while the user is still drawing it is not.
+ */
+function polygonEdges(coords: LngLat[], closed: boolean): PolygonEdge[] {
+  const n = coords.length;
+  if (n < 2) return [];
+  const edges: PolygonEdge[] = [];
+  const count = closed ? n : n - 1;
+  for (let i = 0; i < count; i++) {
+    const from = coords[i];
+    const to = coords[(i + 1) % n];
+    edges.push({
+      index: i,
+      mid: [(from[0] + to[0]) / 2, (from[1] + to[1]) / 2],
+      lengthM: haversineMeters(from, to),
+    });
+  }
+  return edges;
+}
+
+function perimeterMeters(edges: PolygonEdge[]): number {
+  return edges.reduce((sum, e) => sum + e.lengthM, 0);
+}
+
+/* ── Approximate map scale ────────────────────────────────────────────────────
+ *
+ * Web-Mercator ground resolution (m per CSS pixel) → representative-fraction
+ * denominator, assuming the CSS reference pixel (~96 dpi). This is explicitly
+ * APPROXIMATE: the true on-screen scale depends on the device's physical pixel
+ * pitch, which the browser does not expose — hence the "Approx." label. */
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function approxScaleDenominator(map: any): number {
+  const lat = map.getCenter().lat as number;
+  const zoom = map.getZoom() as number;
+  const metersPerPixel =
+    (156543.03392 * Math.cos((lat * Math.PI) / 180)) / Math.pow(2, zoom);
+  return metersPerPixel / (0.0254 / 96); // 1 CSS px ≈ 1/96 inch
+}
+
+/** Round a scale denominator to a friendly 1 / 2 / 2.5 / 5 × 10ⁿ value. */
+function niceScaleDenominator(n: number): number {
+  if (!isFinite(n) || n <= 0) return 0;
+  const pow = Math.pow(10, Math.floor(Math.log10(n)));
+  const f = n / pow;
+  const nice = f < 1.5 ? 1 : f < 3 ? 2 : f < 4 ? 2.5 : f < 7.5 ? 5 : 10;
+  return Math.round(nice * pow);
+}
+
+/** Today's date as "12 Jun 2026" (English month abbreviation in both langs). */
+function formatTodayDate(): string {
+  try {
+    return new Date().toLocaleDateString("en-GB", {
+      day: "2-digit",
+      month: "short",
+      year: "numeric",
+    });
+  } catch {
+    return "";
+  }
+}
+
 /* ── Base-layer definitions ──────────────────────────────────────────────────
  *
  * All sources below are anonymous, no-API-key raster XYZ tiles:
@@ -495,8 +579,21 @@ const ALL_BASE_LAYER_IDS = PRELOADED_LAYERS.map((l) => l.id);
 
 /* ── Service tabs ──────────────────────────────────────────────────────────── */
 
-/* Service order within each category. */
-const CATEGORY_ORDER: ServiceCategory[] = ["digital", "maps"];
+/* Flat service list shown in the homepage service-type dropdown (replaces the
+ * old category-tabs + chips). Order and membership per the simplified
+ * map-first homepage spec. */
+const SERVICE_DROPDOWN: ServiceTab[] = [
+  "7_12",
+  "8a",
+  "village_map",
+  "location_map",
+  "map_overlay",
+  "town_planning_map",
+  "development_plan",
+  "regional_plan",
+  "property_card",
+  "index_ii",
+];
 
 const CATEGORY_SERVICES: Record<ServiceCategory, ServiceTab[]> = {
   digital: [
@@ -683,13 +780,20 @@ const ui: Record<Lang, {
   overlayOptions: Record<"land_boundary" | "village_map" | "dp_tp" | "zone" | "satellite", string>;
   docNumberLabel: string;
   docYearLabel: string;
+  approxScaleLabel: string;
+  imageryDateLabel: string;
+  imageryNotAvailable: string;
+  viewDateLabel: string;
+  sideLabel: string;
+  perimeterLabel: string;
+  sideLengthsHeading: string;
 }> = {
   mr: {
     sectionBadge: "नकाशा संदर्भ",
     heading: "जमीन / सर्वे नकाशा संदर्भ शोधा",
-    subtext: "जिल्हा → तालुका → गाव निवडा. गावाची सीमा हायलाइट होईल. नंतर नकाशावर तुमची प्लॉट सीमा मार्क करा.",
+    subtext: "जिल्हा, तालुका, गाव आणि गट/सर्वे नंबर निवडा. नकाशा संदर्भ आणि कागदपत्र सहाय्य WhatsApp वर मिळवा.",
     formHeading: "जमीन माहिती भरा",
-    tabsHelper: "कागदपत्र प्रकार निवडा. निवडीनुसार आवश्यक माहिती खाली भरा.",
+    tabsHelper: "सेवा निवडा. निवडीनुसार आवश्यक माहिती खाली भरा.",
     district: "जिल्हा",
     taluka: "तालुका",
     village: "गाव",
@@ -767,13 +871,20 @@ const ui: Record<Lang, {
     },
     docNumberLabel: "दस्त क्रमांक (ऐच्छिक)",
     docYearLabel: "वर्ष (ऐच्छिक)",
+    approxScaleLabel: "अंदाजे स्केल",
+    imageryDateLabel: "प्रतिमा दिनांक",
+    imageryNotAvailable: "उपलब्ध नाही",
+    viewDateLabel: "दृश्य दिनांक",
+    sideLabel: "बाजू",
+    perimeterLabel: "परिमिती",
+    sideLengthsHeading: "बाजूंची लांबी",
   },
   en: {
     sectionBadge: "Map Reference",
-    heading: "Find Land / Survey Map Reference",
-    subtext: "Pick District → Taluka → Village. The village boundary lights up. Then mark your plot boundary on the map.",
+    heading: "Search land / survey map reference",
+    subtext: "Select district, taluka, village and gat/survey number. Get map reference and document assistance on WhatsApp.",
     formHeading: "Enter Land Details",
-    tabsHelper: "Select document type. Required fields will change based on your selection.",
+    tabsHelper: "Select a service. Required fields will change based on your selection.",
     district: "District",
     taluka: "Taluka",
     village: "Village",
@@ -851,6 +962,13 @@ const ui: Record<Lang, {
     },
     docNumberLabel: "Document number (optional)",
     docYearLabel: "Year (optional)",
+    approxScaleLabel: "Approx. Scale",
+    imageryDateLabel: "Imagery date",
+    imageryNotAvailable: "Not available",
+    viewDateLabel: "View date",
+    sideLabel: "Side",
+    perimeterLabel: "Perimeter",
+    sideLengthsHeading: "Side lengths",
   },
 };
 
@@ -1225,6 +1343,16 @@ function MapPanel({
    * hover-preview entirely there — points are still added on tap (click). */
   const isTouchRef = useRef(false);
 
+  /* maplibre-gl module (for creating HTML markers) + the live edge-dimension
+   * labels rendered as one Marker per polygon edge midpoint. */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const mglRef = useRef<any>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const edgeMarkersRef = useRef<any[]>([]);
+
+  /* Approximate representative scale (e.g. "1:2500"), recomputed on zoom/move. */
+  const [scaleText, setScaleText] = useState<string>("");
+
   /* Loading indicator: counts in-flight tile requests for whichever base
    * sources are currently visible. Driven by MapLibre's sourcedataloading
    * + sourcedata + idle events. */
@@ -1258,6 +1386,7 @@ function MapPanel({
       const mgl = await import("maplibre-gl");
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const ML: any = mgl.default ?? mgl;
+      mglRef.current = ML;
 
       // Build sources + layers for ALL base layers up front.
       // Only the currently selected ones start visible.
@@ -1343,6 +1472,15 @@ function MapPanel({
           },
         });
 
+        // Approximate scale badge — compute now and on every zoom/move.
+        const updateScale = () => {
+          const den = niceScaleDenominator(approxScaleDenominator(mapInstance));
+          setScaleText(den > 0 ? `1:${den}` : "");
+        };
+        updateScale();
+        mapInstance.on("zoomend", updateScale);
+        mapInstance.on("moveend", updateScale);
+
         console.debug("[MapReference] map ready, draw layers installed");
       });
 
@@ -1398,6 +1536,8 @@ function MapPanel({
     init();
 
     return () => {
+      edgeMarkersRef.current.forEach((m) => m.remove());
+      edgeMarkersRef.current = [];
       if (mapRef.current) {
         mapRef.current.remove();
         mapRef.current = null;
@@ -1541,6 +1681,33 @@ function MapPanel({
     });
   }
 
+  /* ── Live boundary dimension labels ──────────────────────────────────────
+   * One small pill marker per edge, anchored at the edge midpoint, showing the
+   * geodesic length (e.g. "42.3 m"). Rebuilt on every coord/mode change so it
+   * stays in sync while drawing, finishing or clearing the polygon. The closing
+   * edge is only labelled once the polygon is "done". */
+  function renderEdgeLabels() {
+    const map = mapRef.current;
+    const ML = mglRef.current;
+    // Always clear stale markers first.
+    edgeMarkersRef.current.forEach((m) => m.remove());
+    edgeMarkersRef.current = [];
+    if (!map || !ML || !mapReadyRef.current) return;
+    const coords = drawnCoordsRef.current;
+    if (coords.length < 2) return;
+    const closed = drawModeRef.current === "done" && coords.length >= 3;
+    for (const edge of polygonEdges(coords, closed)) {
+      const el = document.createElement("div");
+      el.className = "ps-edge-label";
+      el.textContent = `${edge.lengthM.toFixed(1)} m`;
+      edgeMarkersRef.current.push(
+        new ML.Marker({ element: el, anchor: "center" })
+          .setLngLat(edge.mid)
+          .addTo(map),
+      );
+    }
+  }
+
   /* ── Render polygon + vertices on coord/mode changes ─────────────────────
    * Declared AFTER renderCommitted/renderProgressLine so both are defined
    * before this effect references them (satisfies react-hooks/immutability). */
@@ -1549,6 +1716,7 @@ function MapPanel({
     if (!map || !mapReadyRef.current) return;
     renderCommitted();
     renderProgressLine();
+    renderEdgeLabels();
   }, [drawnCoords, drawMode]);
 
   /* ── Cursor + dblclick-zoom gating ─────────────────────────────────────── */
@@ -1577,7 +1745,7 @@ function MapPanel({
   };
 
   return (
-    <div className="relative h-[320px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[380px] md:h-[460px]">
+    <div className="relative h-[360px] w-full max-w-full overflow-hidden rounded-lg border border-slate-200 shadow-sm sm:h-[440px] lg:h-[560px]">
       <div ref={mapContainerRef} className="h-full w-full" />
 
       {/* Loading indicator — shown only while the currently-visible base
@@ -1687,6 +1855,21 @@ function MapPanel({
         <MapPin className="mr-1 inline size-3.5" />
         {drawMode === "drawing" ? tx.drawHintActive : tx.drawHintIdle}
       </div>
+
+      {/* Approx. scale + imagery/view-date badges — bottom-right, stacked above
+          the locate button so they never obstruct the plot. */}
+      <div className="pointer-events-none absolute bottom-14 right-3 z-10 flex max-w-[55%] flex-col items-end gap-1.5">
+        {scaleText && (
+          <span className="rounded-full border border-slate-200 bg-white/90 px-2.5 py-1 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm">
+            {tx.approxScaleLabel}: {scaleText}
+          </span>
+        )}
+        <span className="rounded-full border border-slate-200 bg-white/90 px-2.5 py-1 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm">
+          {baseLayerId === "satellite" || baseLayerId === "hybrid"
+            ? `${tx.imageryDateLabel}: ${tx.imageryNotAvailable}`
+            : `${tx.viewDateLabel}: ${formatTodayDate()}`}
+        </span>
+      </div>
     </div>
   );
 }
@@ -1715,14 +1898,7 @@ export function MapReferenceSection() {
    * request volume for PrintShubh. Switching tabs preserves all already-typed
    * values so the user can toggle without losing work. */
   const [activeService, setActiveService] = useState<ServiceTab>("7_12");
-  const [activeCategory, setActiveCategory] = useState<ServiceCategory>("digital");
   const fieldCfg = SERVICE_FIELDS[activeService];
-
-  /* Switching category jumps to the first service in that category. */
-  const handleSelectCategory = useCallback((cat: ServiceCategory) => {
-    setActiveCategory(cat);
-    setActiveService(CATEGORY_SERVICES[cat][0]);
-  }, []);
 
   const [districts, setDistricts] = useState<DistrictRow[]>([]);
   const [talukas, setTalukas] = useState<TalukaRow[]>([]);
@@ -2157,6 +2333,12 @@ export function MapReferenceSection() {
     () => (drawMode === "done" ? approxAreaSqMeters(drawnCoords) : 0),
     [drawnCoords, drawMode],
   );
+  /* Edge-wise lengths + perimeter for the marked plot (closed polygon). */
+  const plotEdges = useMemo(
+    () => (drawMode === "done" ? polygonEdges(drawnCoords, drawnCoords.length >= 3) : []),
+    [drawnCoords, drawMode],
+  );
+  const plotPerimeterM = useMemo(() => perimeterMeters(plotEdges), [plotEdges]);
 
   /* Enable WhatsApp once the user has filled the *required* fields for the
    * currently active service. Different services have different "minimum
@@ -2255,14 +2437,14 @@ export function MapReferenceSection() {
           </button>
         </div>
 
-        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-start">
+        <div className="grid grid-cols-1 gap-8 lg:grid-cols-[1.5fr_0.85fr] lg:items-start">
           {/*
-           * Mobile: the FORM column is written first in the source AND given
-           * order-1, so the user always lands on the dropdowns/tabs with the
-           * map below — even if a CSS layer is stale or `order` is ignored.
-           * Desktop restores map-left / form-right via lg:order-* overrides.
+           * Map-first layout (simplified map-first homepage): the MAP column is
+           * written first and shown first on mobile (order-1), with the compact
+           * form directly below. Desktop keeps a broad map on the left and the
+           * form on the right.
            */}
-          <div ref={mobileMapAnchorRef} className="order-2 space-y-4 lg:order-1">
+          <div ref={mobileMapAnchorRef} className="order-1 space-y-4 lg:order-1">
             <MapPanel
               lang={lang}
               boundaryFeature={boundaryFeature}
@@ -2316,7 +2498,35 @@ export function MapReferenceSection() {
                       {formatAreaPair(plotAreaSqm, lang)}
                     </span>
                   </div>
+                  <div className="sm:col-span-2">
+                    <span className="text-slate-500">{tx.perimeterLabel}: </span>
+                    <span className="font-black text-orange-900">
+                      {plotPerimeterM.toFixed(1)} m
+                    </span>
+                  </div>
                 </div>
+
+                {/* Edge-wise side lengths */}
+                {plotEdges.length > 0 && (
+                  <div className="mt-3 border-t border-orange-200 pt-3">
+                    <p className="text-[11px] font-black uppercase tracking-wide text-orange-800/80">
+                      {tx.sideLengthsHeading}
+                    </p>
+                    <div className="mt-1.5 grid grid-cols-2 gap-x-4 gap-y-1 text-xs font-semibold text-slate-700 sm:grid-cols-3">
+                      {plotEdges.map((edge) => (
+                        <div key={edge.index} className="flex items-center justify-between gap-2">
+                          <span className="text-slate-500">
+                            {tx.sideLabel} {edge.index + 1}
+                          </span>
+                          <span className="font-black text-orange-900">
+                            {edge.lengthM.toFixed(1)} m
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
                 <p className="mt-3 flex items-start gap-1.5 text-[11px] leading-5 text-orange-800">
                   <Info className="mt-0.5 size-3 shrink-0" />
                   {tx.areaNote}
@@ -2325,73 +2535,34 @@ export function MapReferenceSection() {
             )}
           </div>
 
-          <div ref={mobileFormAnchorRef} className="order-1 space-y-4 lg:order-2">
+          <div ref={mobileFormAnchorRef} className="order-2 space-y-4 lg:order-2">
             <div className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
               <h3 className="mb-3 text-lg font-black text-slate-950">{tx.formHeading}</h3>
 
-              {/* ── Service tabs ────────────────────────────────────────────
-               * Horizontal pill bar. Scrolls horizontally on small screens so
-               * the 7 tabs never wrap awkwardly. w-full + max-w-full keeps the
-               * row inside its card; overflow-x-auto scrolls the pills, and
-               * overscroll-x-contain stops a swipe from dragging the whole page.
-               * No negative margins, so the row never bleeds past the card. */}
-              {/* ── Category tabs (Digital Documents / Maps · Plans) ──── */}
-              <div
-                role="tablist"
-                aria-label={lang === "mr" ? "सेवा प्रकार" : "Service category"}
-                className="mb-2.5 grid grid-cols-2 gap-2"
-              >
-                {CATEGORY_ORDER.map((cat) => {
-                  const isActive = activeCategory === cat;
-                  return (
-                    <button
-                      key={cat}
-                      type="button"
-                      role="tab"
-                      aria-selected={isActive}
-                      onClick={() => handleSelectCategory(cat)}
-                      className={`w-full whitespace-nowrap rounded-lg border px-3 py-2 text-xs font-black transition focus:outline-none focus:ring-2 focus:ring-blue-200 sm:text-sm ${
-                        isActive
-                          ? "border-blue-700 bg-blue-700 text-white shadow-sm"
-                          : "border-slate-200 bg-slate-50 text-slate-700 hover:border-slate-300 hover:bg-white"
-                      }`}
-                    >
-                      {CATEGORY_LABELS[lang][cat]}
-                    </button>
-                  );
-                })}
-              </div>
-
-              {/* ── Service chips for the active category ──────────────── */}
-              <div
-                role="tablist"
-                aria-label={lang === "mr" ? "सेवा" : "Service"}
-                className="mb-2 flex w-full max-w-full flex-nowrap gap-1.5 overflow-x-auto overscroll-x-contain px-0.5 pb-2 [scrollbar-width:thin]"
-              >
-                {CATEGORY_SERVICES[activeCategory].map((id) => {
-                  const isActive = activeService === id;
-                  return (
-                    <button
-                      key={id}
-                      type="button"
-                      role="tab"
-                      aria-selected={isActive}
-                      onClick={() => setActiveService(id)}
-                      className={`shrink-0 whitespace-nowrap rounded-full border px-3.5 py-1.5 text-xs font-bold transition focus:outline-none focus:ring-2 focus:ring-blue-200 sm:text-sm ${
-                        isActive
-                          ? "border-blue-700 bg-blue-700 text-white shadow-sm"
-                          : "border-slate-200 bg-slate-50 text-slate-700 hover:border-slate-300 hover:bg-white"
-                      }`}
-                    >
+              {/* ── Service-type dropdown (replaces category tabs + chips) ──
+               * A single select keeps the form compact and removes the
+               * duplicate service tabs the homepage no longer needs. */}
+              <div className="mb-5">
+                <label htmlFor="service-type" className="mb-1.5 block text-sm font-bold text-slate-700">
+                  {lang === "mr" ? "सेवा प्रकार" : "Service type"}
+                </label>
+                <select
+                  id="service-type"
+                  value={activeService}
+                  onChange={(e) => setActiveService(e.target.value as ServiceTab)}
+                  className="h-11 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm font-semibold text-slate-800 transition focus:border-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-100"
+                >
+                  {SERVICE_DROPDOWN.map((id) => (
+                    <option key={id} value={id}>
                       {SERVICE_LABELS[lang][id]}
-                    </button>
-                  );
-                })}
+                    </option>
+                  ))}
+                </select>
+                <p className="mt-2 flex items-start gap-1.5 text-[11px] leading-5 text-slate-500">
+                  <Info className="mt-0.5 size-3.5 shrink-0 text-blue-500" />
+                  {tx.tabsHelper}
+                </p>
               </div>
-              <p className="mb-5 flex items-start gap-1.5 text-[11px] leading-5 text-slate-500">
-                <Info className="mt-0.5 size-3.5 shrink-0 text-blue-500" />
-                {tx.tabsHelper}
-              </p>
 
               <div className="space-y-4">
                 {/* ── Location section ──────────────────────────────────── */}

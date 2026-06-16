@@ -533,3 +533,34 @@ body {
   box-shadow: 0 2px 5px rgba(15, 23, 42, 0.5);
   transform: rotate(-45deg);
 }
+
+/* ── Announcement marquee (homepage updates bar) ──
+ * Duplicated track translated -50% for a seamless loop. Pauses on hover /
+ * keyboard focus; disabled under prefers-reduced-motion. */
+@keyframes ps-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.ps-marquee-track {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  will-change: transform;
+  animation: ps-marquee 38s linear infinite;
+}
+
+.ps-marquee:hover .ps-marquee-track,
+.ps-marquee:focus-within .ps-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ps-marquee-track {
+    animation: none;
+  }
+}

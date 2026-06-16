@@ -1,18 +1,15 @@
 import type { Metadata } from "next";
-import dynamic from "next/dynamic";
+import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
-import { HeroContent } from "@/components/hero-content";
 import { PricingSection } from "@/components/pricing-section";
 import { MapReferenceSection } from "@/components/map-reference-client";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
-/* ── Lazy-load below-fold heavy sections ── */
-const ServicesGrid = dynamic(
-  () => import("@/components/services-grid").then((m) => m.ServicesGrid),
-  { ssr: true },
-);
+/* Map-first homepage: the MapReferenceSection (land/survey map-reference search
+ * + compact District→Taluka→Village form) is the hero. The old marketing hero
+ * and the services grid have been removed; pricing stays lower on the page. */
 
 /* ── Homepage metadata ──────────────────────────────────────────────────
  *
@@ -49,17 +46,16 @@ export default function Home() {
   return (
     <>
       <SiteHeader />
+      {/* Scrolling updates / announcement bar — below header, above hero */}
+      <AnnouncementMarquee />
       <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] text-slate-900">
         <LandingAnimations />
-        <HeroContent />
 
-        {/* Unified MapLibre finder — address search + District→Taluka→Village picker + boundary highlight */}
+        {/* Map-first hero — primary action visible right after the header:
+            broad MapLibre finder + compact District→Taluka→Village form. */}
         <MapReferenceSection />
 
-        {/* Below-fold — lazy loaded */}
-        <ServicesGrid />
-
-        {/* Transparent starting prices — server-rendered for SEO */}
+        {/* Transparent starting prices — kept lower on the page */}
         <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">
           <div className="mx-auto max-w-4xl">
             <PricingSection />
