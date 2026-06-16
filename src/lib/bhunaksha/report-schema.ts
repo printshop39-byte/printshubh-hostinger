@@ -24,14 +24,32 @@ export type BhuNakshaOverlayConfig = {
   naturalHeightPx?: number;
 
   visible: boolean;
-  opacity: number; // 0 to 1
-  rotationDeg: number;
-  scale: number; // multiplier applied to width/height meters
+  opacity: number; // 0.1 to 1
+  rotationDeg: number; // -180 to 180
+
+  scale: number; // legacy uniform scale (kept for back-compat)
+  scaleX?: number; // 0.05 to 10 (non-uniform width)
+  scaleY?: number; // 0.05 to 10 (non-uniform height)
 
   // Manual placement (map-anchored)
   centerLngLat: [number, number];
-  widthMeters?: number;
-  heightMeters?: number;
+  widthMeters?: number; // base width before scaleX
+  heightMeters?: number; // base height before scaleY
+
+  /**
+   * Four rendered corner coordinates (the rendering source of truth). Built
+   * from the params above, then freely editable by corner/edge dragging — which
+   * is what lets the admin fit irregular plots (skew/perspective-like).
+   */
+  cornerLngLats?: {
+    topLeft: [number, number];
+    topRight: [number, number];
+    bottomRight: [number, number];
+    bottomLeft: [number, number];
+  };
+
+  /** Active transform tool: drag-move / corner-drag / edge-stretch / rotate. */
+  transformMode?: "move" | "corner" | "scale" | "rotate";
 
   // Screen/map transform fallback (Phase 1 fallback only — currently unused)
   translateX?: number;

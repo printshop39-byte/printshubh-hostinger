@@ -1,23 +1,38 @@
 "use client";
 
 /**
- * Admin — Manual BhuNaksha Overlay tool (Phase 1).
+ * Admin — Manual BhuNaksha Overlay tool.
  *
- * Lets an admin upload a BhuNaksha PDF/image, render page 1 to an image,
- * manually place it on a satellite/base map (move / rotate / scale / opacity /
- * lock / reset / fit / z-order), optionally draw the plot boundary (with live
- * dimensions / perimeter / area / approx. scale), and generate a report draft +
- * WhatsApp summary + map screenshot.
+ * Upload a BhuNaksha PDF/image, render page 1, and manually align it on a
+ * satellite/base map. Alignment is a four-corner MapLibre `image` source:
+ *   - Move      — drag the whole overlay (translate all corners)
+ *   - Corners   — drag each of the 4 corner handles (skew/perspective-like fit)
+ *   - Width/Height stretch — drag edge handles (move two corners of an edge)
+ *   - Rotate    — drag a rotate handle (rigid rotation about the centroid)
+ *   - Numeric   — non-uniform scaleX / scaleY, rotation, opacity + fit helpers
+ * Plus boundary drawing (live dimensions/perimeter/area), reference/control
+ * points, report output, and a map screenshot. Admin-only, flag-gated.
  *
- * Phase 1 = MANUAL placement only. The schema + TODOs are ready for Phase 2
- * control-point georeferencing (see overlay-transform.ts / report-schema.ts).
- *
- * No backend exists yet, so the case is persisted to localStorage. This is an
- * admin-only component rendered behind a feature flag / protected route.
+ * No backend yet — the case persists to localStorage.
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Check, Eraser, FileUp, Info, Layers as LayersIcon, MapPin, Pencil } from "lucide-react";
+import {
+  Check,
+  Eraser,
+  FileUp,
+  Frame,
+  Info,
+  Layers as LayersIcon,
+  Lock,
+  MapPin,
+  Move,
+  MoveHorizontal,
+  MoveVertical,
+  Pencil,
+  RotateCw,
+  Unlock,
+} from "lucide-react";
 import { useLang } from "@/components/language-context";
 import { LandReportCasePanel } from "@/components/admin/land-report-case-panel";
 import { OverlayControlsPanel } from "@/components/admin/overlay-controls-panel";
@@ -27,13 +42,21 @@ import { fileToRaster } from "@/lib/bhunaksha/pdf-to-image";
 import {
   approxAreaSqMeters,
   approxScaleDenominator,
-  computeImageCorners,
+  cornersCentroid,
+  cornersFromParams,
+  cornersToCoords,
+  deriveParams,
   formatTodayDate,
+  haversineMeters,
+  midpointLngLat,
   niceScaleDenominator,
   perimeterMeters,
   polygonEdges,
+  rotateCornersAround,
   suggestOverlayPlacement,
+  translateCorners,
   viewportWidthMeters,
+  type Corners,
   type LngLat,
 } from "@/lib/bhunaksha/overlay-transform";
 import {
@@ -50,6 +73,7 @@ const STORAGE_KEY = "printshubh_admin_bhunaksha_case_v1";
 
 type BaseLayer = "satellite" | "osm";
 type DrawMode = "idle" | "drawing" | "done";
+type TransformMode = "move" | "corner" | "width" | "height" | "rotate";
 
 interface LayerVisibility {
   overlay: boolean;
@@ -61,18 +85,32 @@ interface LayerVisibility {
 const ESRI_IMAGERY =
   "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}";
 
+const clamp = (v: number, lo: number, hi: number) => Math.min(hi, Math.max(lo, v));
+
+function ovToCorners(ov: BhuNakshaOverlayConfig): Corners {
+  if (ov.cornerLngLats) {
+    return {
+      topLeft: ov.cornerLngLats.topLeft,
+      topRight: ov.cornerLngLats.topRight,
+      bottomRight: ov.cornerLngLats.bottomRight,
+      bottomLeft: ov.cornerLngLats.bottomLeft,
+    };
+  }
+  const w = (ov.widthMeters ?? 500) * (ov.scaleX ?? ov.scale ?? 1);
+  const h = (ov.heightMeters ?? 500) * (ov.scaleY ?? ov.scale ?? 1);
+  return cornersFromParams(ov.centerLngLat, w, h, ov.rotationDeg);
+}
+
 const T = {
   title: { mr: "भूनकाशा Manual Overlay", en: "Manual BhuNaksha Overlay" },
   adminBadge: { mr: "फक्त admin", en: "Admin only" },
   upload: { mr: "भूनकाशा अपलोड", en: "BhuNaksha Upload" },
-  chooseFile: { mr: "PDF / image निवडा", en: "Choose PDF / image" },
   fileType: { mr: "फाइल प्रकार", en: "File type" },
   pageNo: { mr: "पृष्ठ क्रमांक (PDF)", en: "Page number (PDF)" },
   preview: { mr: "Preview", en: "Preview" },
   extracted: { mr: "Extract केलेला मजकूर (admin)", en: "Extracted text (admin)" },
   owner: { mr: "मालक नाव (admin)", en: "Owner name (admin)" },
   khata: { mr: "खाता / Survey No (admin)", en: "Khata / Survey No (admin)" },
-  adminNote: { mr: "Admin टीप", en: "Admin note" },
   privacy: {
     mr: "मालक नाव, खाता व वैयक्तिक तपशील फक्त admin साठी. अहवालात समाविष्ट करायचे असल्यासच चालू करा.",
     en: "Owner name, Khata and personal details are admin-only. Include in the report only if explicitly enabled.",
@@ -82,6 +120,13 @@ const T = {
     mr: "PDF render होऊ शकले नाही. कृपया त्याऐवजी image (screenshot) अपलोड करा.",
     en: "Could not render the PDF. Please upload an image (screenshot) instead.",
   },
+  transform: { mr: "Overlay transform", en: "Overlay transform" },
+  modeMove: { mr: "हलवा", en: "Move" },
+  modeCorner: { mr: "कोपरे adjust करा", en: "Adjust corners" },
+  modeWidth: { mr: "रुंदी stretch", en: "Stretch width" },
+  modeHeight: { mr: "उंची stretch", en: "Stretch height" },
+  modeRotate: { mr: "फिरवा", en: "Rotate" },
+  lock: { mr: "Lock", en: "Lock" },
   layers: { mr: "नकाशा थर", en: "Map Layers" },
   satellite: { mr: "सॅटेलाइट", en: "Satellite" },
   baseMap: { mr: "बेस नकाशा (OSM)", en: "Base map (OSM)" },
@@ -93,10 +138,12 @@ const T = {
   drawStart: { mr: "प्लॉट सीमा मार्क करा", en: "Mark plot boundary" },
   drawFinish: { mr: "पूर्ण करा", en: "Finish" },
   drawClear: { mr: "साफ करा", en: "Clear" },
-  drawHint: {
-    mr: "✏️ दाबा, नकाशावर points क्लिक करा, double-click ने पूर्ण करा.",
-    en: "Tap ✏️, click points on the map, double-click to finish.",
-  },
+  drawHint: { mr: "✏️ दाबा, points क्लिक करा, double-click ने पूर्ण.", en: "Tap ✏️, click points, double-click to finish." },
+  hintMove: { mr: "Overlay drag करा.", en: "Drag to move the overlay." },
+  hintCorner: { mr: "कोपरे drag करून आकार जुळवा.", en: "Drag the corner handles to fit." },
+  hintEdge: { mr: "Edge handle drag करून stretch करा.", en: "Drag an edge handle to stretch." },
+  hintRotate: { mr: "Rotate handle drag करा.", en: "Drag the rotate handle." },
+  hintMark: { mr: "नकाशावर क्लिक करून संदर्भ बिंदू जोडा.", en: "Click on the map to add reference points." },
   approxScale: { mr: "अंदाजे स्केल", en: "Approx. Scale" },
   imageryDate: { mr: "प्रतिमा दिनांक", en: "Imagery date" },
   notAvailable: { mr: "उपलब्ध नाही", en: "Not available" },
@@ -111,16 +158,12 @@ const T = {
 export function BhuNakshaOverlayTool() {
   const { lang, setLang } = useLang();
 
-  // Initialized synchronously (deterministic for SSR/hydration); the load
-  // effect below replaces it with the persisted case on the client. Keeping it
-  // non-null means the map container is always mounted, so the map can init.
-  const [caseData, setCaseData] = useState<LandReportCase>(() =>
-    createEmptyCase("case-local", ""),
-  );
+  const [caseData, setCaseData] = useState<LandReportCase>(() => createEmptyCase("case-local", ""));
   const [baseLayer, setBaseLayer] = useState<BaseLayer>("satellite");
   const [drawMode, setDrawMode] = useState<DrawMode>("idle");
   const [drawnCoords, setDrawnCoords] = useState<LngLat[]>([]);
-  const [moveMode, setMoveMode] = useState(false);
+  const [transformMode, setTransformMode] = useState<TransformMode>("move");
+  const [uniform, setUniform] = useState(true);
   const [markMode, setMarkMode] = useState(false);
   const [layers, setLayers] = useState<LayerVisibility>({ overlay: true, boundary: true, dimensions: true, refPoints: true });
   const [scaleText, setScaleText] = useState("");
@@ -136,21 +179,26 @@ export function BhuNakshaOverlayTool() {
   const mapReadyRef = useRef(false);
   const drawnCoordsRef = useRef<LngLat[]>([]);
   const drawModeRef = useRef<DrawMode>("idle");
-  const moveModeRef = useRef(false);
+  const transformModeRef = useRef<TransformMode>("move");
+  const uniformRef = useRef(true);
   const markModeRef = useRef(false);
   const lockedRef = useRef(false);
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const refMarkersRef = useRef<any[]>([]);
   const layersRef = useRef<LayerVisibility>(layers);
   const caseRef = useRef<LandReportCase | null>(null);
   const overlayUrlRef = useRef<string | null>(null);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const edgeMarkersRef = useRef<any[]>([]);
-  const dragRef = useRef<{ active: boolean; start: LngLat; startCenter: LngLat; last: LngLat } | null>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const refMarkersRef = useRef<any[]>([]);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const handleMarkersRef = useRef<any[]>([]);
+  const draggingHandleRef = useRef(false);
+  const workingCornersRef = useRef<Corners | null>(null);
+  const dragRef = useRef<{ active: boolean; start: LngLat; startCorners: Corners; lastCorners: Corners } | null>(null);
 
   const overlay = caseData?.bhunakshaOverlay;
 
-  /* ── Load / persist case (localStorage placeholder for a real backend) ── */
+  /* ── Load / persist case ── */
   useEffect(() => {
     let loaded: LandReportCase | null = null;
     try {
@@ -161,7 +209,6 @@ export function BhuNakshaOverlayTool() {
     }
     const now = new Date().toISOString();
     const c = loaded ?? createEmptyCase("case-local", now);
-    /* Intentional load-on-mount hydration from localStorage (client-only). */
     /* eslint-disable react-hooks/set-state-in-effect */
     setCaseData(c);
     if (c.drawnBoundary?.coordinates?.length) {
@@ -172,185 +219,41 @@ export function BhuNakshaOverlayTool() {
   }, []);
 
   useEffect(() => {
-    if (!caseData) return;
     caseRef.current = caseData;
     lockedRef.current = !!caseData.bhunakshaOverlay?.locked;
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(caseData));
     } catch {
-      /* storage full / blocked — ignore in Phase 1 */
+      /* storage blocked — ignore in Phase 1 */
     }
   }, [caseData]);
 
   useEffect(() => { drawnCoordsRef.current = drawnCoords; }, [drawnCoords]);
   useEffect(() => { drawModeRef.current = drawMode; }, [drawMode]);
-  useEffect(() => { moveModeRef.current = moveMode; }, [moveMode]);
+  useEffect(() => { transformModeRef.current = transformMode; }, [transformMode]);
+  useEffect(() => { uniformRef.current = uniform; }, [uniform]);
   useEffect(() => { markModeRef.current = markMode; }, [markMode]);
   useEffect(() => { layersRef.current = layers; }, [layers]);
 
   const patchCase = useCallback((patch: Partial<LandReportCase>) => {
-    setCaseData((prev) => (prev ? { ...prev, ...patch, updatedAt: new Date().toISOString() } : prev));
+    setCaseData((prev) => ({ ...prev, ...patch, updatedAt: new Date().toISOString() }));
   }, []);
 
   const patchOverlay = useCallback((patch: Partial<BhuNakshaOverlayConfig>) => {
     setCaseData((prev) => {
-      if (!prev?.bhunakshaOverlay) return prev;
-      return {
-        ...prev,
-        bhunakshaOverlay: { ...prev.bhunakshaOverlay, ...patch, updatedAt: new Date().toISOString() },
-        updatedAt: new Date().toISOString(),
-      };
+      if (!prev.bhunakshaOverlay) return prev;
+      const now = new Date().toISOString();
+      return { ...prev, bhunakshaOverlay: { ...prev.bhunakshaOverlay, ...patch, updatedAt: now }, updatedAt: now };
     });
   }, []);
 
-  /* ── Map init ───────────────────────────────────────────────────────── */
-  useEffect(() => {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    let map: any;
-    async function init() {
-      if (!mapContainerRef.current) return;
-      const mgl = await import("maplibre-gl");
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      const ML: any = mgl.default ?? mgl;
-      mglRef.current = ML;
-
-      map = new ML.Map({
-        container: mapContainerRef.current,
-        preserveDrawingBuffer: true, // needed for screenshot toDataURL
-        style: {
-          version: 8,
-          sources: {
-            "base-satellite": { type: "raster", tiles: [ESRI_IMAGERY], tileSize: 256, maxzoom: 22, attribution: "Imagery © Esri" },
-            "base-osm": { type: "raster", tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"], tileSize: 256, maxzoom: 19, attribution: "© OpenStreetMap contributors" },
-          },
-          layers: [
-            { id: "base-satellite", type: "raster", source: "base-satellite", layout: { visibility: "visible" } },
-            { id: "base-osm", type: "raster", source: "base-osm", layout: { visibility: "none" } },
-          ],
-        },
-        center: [75.7139, 19.7515],
-        zoom: 6.5,
-      });
-      mapRef.current = map;
-
-      map.on("load", () => {
-        mapReadyRef.current = true;
-        map.addSource("plot", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
-        map.addSource("plot-vertices", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
-        map.addLayer({ id: "plot-fill", type: "fill", source: "plot", paint: { "fill-color": "#fb923c", "fill-opacity": 0.35 } });
-        map.addLayer({ id: "plot-outline", type: "line", source: "plot", paint: { "line-color": "#dc2626", "line-width": 3 } });
-        map.addLayer({ id: "plot-vertex-dots", type: "circle", source: "plot-vertices", paint: { "circle-radius": 5, "circle-color": "#dc2626", "circle-stroke-color": "#fff", "circle-stroke-width": 2 } });
-
-        const updateScale = () => {
-          const den = niceScaleDenominator(approxScaleDenominator(map));
-          setScaleText(den > 0 ? `1:${den}` : "");
-        };
-        updateScale();
-        map.on("zoomend", updateScale);
-        map.on("moveend", updateScale);
-
-        renderPlot();
-        renderEdgeLabels();
-        renderRefMarkers(caseRef.current?.referencePoints ?? []);
-        applyOverlay(caseRef.current?.bhunakshaOverlay);
-      });
-
-      // Reference-point marking + boundary drawing
-      map.on("click", (e: { lngLat: { lng: number; lat: number } }) => {
-        if (markModeRef.current) {
-          const now = new Date().toISOString();
-          const pt: ReferencePoint = {
-            id: globalThis.crypto?.randomUUID?.() ?? `rp-${Date.now()}`,
-            label: "",
-            type: "neighbor_survey",
-            lngLat: [e.lngLat.lng, e.lngLat.lat],
-            useForOverlayAlignment: false,
-            createdAt: now,
-            updatedAt: now,
-          };
-          setCaseData((prev) => ({
-            ...prev,
-            referencePoints: [...(prev.referencePoints ?? []), pt],
-            updatedAt: now,
-          }));
-          return;
-        }
-        if (drawModeRef.current !== "drawing") return;
-        setDrawnCoords((prev) => [...prev, [e.lngLat.lng, e.lngLat.lat] as LngLat]);
-      });
-      map.on("dblclick", (e: { preventDefault: () => void }) => {
-        if (drawModeRef.current !== "drawing") return;
-        e.preventDefault();
-        if (drawnCoordsRef.current.length >= 3) setDrawMode("done");
-      });
-
-      // Overlay move-drag
-      map.on("mousedown", (e: { lngLat: { lng: number; lat: number } }) => {
-        const ov = caseRef.current?.bhunakshaOverlay;
-        if (!moveModeRef.current || !ov?.dataUrl || lockedRef.current) return;
-        map.dragPan.disable();
-        dragRef.current = {
-          active: true,
-          start: [e.lngLat.lng, e.lngLat.lat],
-          startCenter: [...ov.centerLngLat] as LngLat,
-          last: [...ov.centerLngLat] as LngLat,
-        };
-      });
-      map.on("mousemove", (e: { lngLat: { lng: number; lat: number } }) => {
-        const d = dragRef.current;
-        const ov = caseRef.current?.bhunakshaOverlay;
-        if (!d?.active || !ov) return;
-        const next: LngLat = [d.startCenter[0] + (e.lngLat.lng - d.start[0]), d.startCenter[1] + (e.lngLat.lat - d.start[1])];
-        d.last = next;
-        const src = map.getSource("bhunaksha-src");
-        if (src) {
-          const w = (ov.widthMeters ?? 500) * ov.scale;
-          const h = (ov.heightMeters ?? 500) * ov.scale;
-          src.setCoordinates(computeImageCorners(next, w, h, ov.rotationDeg));
-        }
-      });
-      const endDrag = () => {
-        const d = dragRef.current;
-        if (d?.active) {
-          patchOverlay({ centerLngLat: d.last });
-          dragRef.current = null;
-          map.dragPan.enable();
-        }
-      };
-      map.on("mouseup", endDrag);
-
-      // Base layer visibility on init reflects state
-    }
-    init();
-    return () => {
-      edgeMarkersRef.current.forEach((m) => m.remove());
-      edgeMarkersRef.current = [];
-      refMarkersRef.current.forEach((m) => m.remove());
-      refMarkersRef.current = [];
-      if (mapRef.current) {
-        mapRef.current.remove();
-        mapRef.current = null;
-        mapReadyRef.current = false;
-      }
-    };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
-
-  /* ── Base layer switch ── */
-  useEffect(() => {
-    const map = mapRef.current;
-    if (!map || !mapReadyRef.current) return;
-    map.setLayoutProperty("base-satellite", "visibility", baseLayer === "satellite" ? "visible" : "none");
-    map.setLayoutProperty("base-osm", "visibility", baseLayer === "osm" ? "visible" : "none");
-  }, [baseLayer]);
-
-  /* ── Plot + edge labels ── */
+  /* ── Render helpers (function declarations so init's load callback can use them) ── */
   function renderPlot() {
     const map = mapRef.current;
     if (!map || !mapReadyRef.current) return;
     const coords = drawnCoordsRef.current;
-    const showBoundary = layersRef.current.boundary;
-    if (showBoundary && coords.length >= 3 && drawModeRef.current === "done") {
+    const show = layersRef.current.boundary;
+    if (show && coords.length >= 3 && drawModeRef.current === "done") {
       const ring = [...coords, coords[0]];
       map.getSource("plot")?.setData({ type: "FeatureCollection", features: [{ type: "Feature", properties: {}, geometry: { type: "Polygon", coordinates: [ring] } }] });
     } else {
@@ -358,7 +261,7 @@ export function BhuNakshaOverlayTool() {
     }
     map.getSource("plot-vertices")?.setData({
       type: "FeatureCollection",
-      features: showBoundary ? coords.map((c) => ({ type: "Feature", properties: {}, geometry: { type: "Point", coordinates: c } })) : [],
+      features: show ? coords.map((c) => ({ type: "Feature", properties: {}, geometry: { type: "Point", coordinates: c } })) : [],
     });
   }
 
@@ -395,18 +298,105 @@ export function BhuNakshaOverlayTool() {
     }
   }
 
-  useEffect(() => {
-    if (!mapReadyRef.current) return;
-    renderPlot();
-    renderEdgeLabels();
-  }, [drawnCoords, drawMode, layers.boundary, layers.dimensions]);
+  function applyCornersLive() {
+    const map = mapRef.current;
+    const wc = workingCornersRef.current;
+    if (!map || !wc) return;
+    map.getSource("bhunaksha-src")?.setCoordinates(cornersToCoords(wc));
+  }
 
-  useEffect(() => {
-    if (!mapReadyRef.current) return;
-    renderRefMarkers(caseData.referencePoints ?? []);
-  }, [caseData.referencePoints, layers.refPoints]);
+  function commitCorners() {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    const c = workingCornersRef.current;
+    if (!ov || !c) return;
+    const d = deriveParams(c, ov.widthMeters ?? 500, ov.heightMeters ?? 500);
+    patchOverlay({
+      cornerLngLats: { topLeft: c.topLeft, topRight: c.topRight, bottomRight: c.bottomRight, bottomLeft: c.bottomLeft },
+      centerLngLat: d.center,
+      rotationDeg: clamp(d.rotationDeg, -180, 180),
+      scaleX: clamp(d.scaleX, 0.05, 10),
+      scaleY: clamp(d.scaleY, 0.05, 10),
+    });
+  }
 
-  /* ── Apply overlay image source ── */
+  /* Rebuild the drag handles for the current transform mode. */
+  function rebuildHandles() {
+    const map = mapRef.current;
+    const ML = mglRef.current;
+    handleMarkersRef.current.forEach((m) => m.remove());
+    handleMarkersRef.current = [];
+    if (!map || !ML || !mapReadyRef.current) return;
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov?.dataUrl || ov.locked || !ov.visible || !layersRef.current.overlay) return;
+    const mode = transformModeRef.current;
+    if (mode === "move") return; // move = drag the image itself
+    const corners = ovToCorners(ov);
+    workingCornersRef.current = corners;
+
+    const cornerHandle = (key: keyof Corners) => {
+      const el = document.createElement("div");
+      el.className = "ps-overlay-handle";
+      const m = new ML.Marker({ element: el, draggable: true, anchor: "center" }).setLngLat(corners[key]).addTo(map);
+      m.on("dragstart", () => { draggingHandleRef.current = true; });
+      m.on("drag", () => {
+        const ll = m.getLngLat();
+        const wc = workingCornersRef.current;
+        if (wc) { workingCornersRef.current = { ...wc, [key]: [ll.lng, ll.lat] }; applyCornersLive(); }
+      });
+      m.on("dragend", () => { draggingHandleRef.current = false; commitCorners(); });
+      return m;
+    };
+
+    const edgeHandle = (pair: [keyof Corners, keyof Corners]) => {
+      const mid = midpointLngLat(corners[pair[0]], corners[pair[1]]);
+      const el = document.createElement("div");
+      el.className = "ps-overlay-handle is-edge";
+      const m = new ML.Marker({ element: el, draggable: true, anchor: "center" }).setLngLat(mid).addTo(map);
+      let last = m.getLngLat();
+      m.on("dragstart", () => { draggingHandleRef.current = true; last = m.getLngLat(); });
+      m.on("drag", () => {
+        const cur = m.getLngLat();
+        const dLng = cur.lng - last.lng;
+        const dLat = cur.lat - last.lat;
+        last = cur;
+        const wc = workingCornersRef.current;
+        if (!wc) return;
+        const next = { ...wc };
+        for (const k of pair) next[k] = [wc[k][0] + dLng, wc[k][1] + dLat];
+        workingCornersRef.current = next;
+        applyCornersLive();
+      });
+      m.on("dragend", () => { draggingHandleRef.current = false; commitCorners(); });
+      return m;
+    };
+
+    if (mode === "corner") {
+      handleMarkersRef.current.push(cornerHandle("topLeft"), cornerHandle("topRight"), cornerHandle("bottomRight"), cornerHandle("bottomLeft"));
+    } else if (mode === "width") {
+      handleMarkersRef.current.push(edgeHandle(["topLeft", "bottomLeft"]), edgeHandle(["topRight", "bottomRight"]));
+    } else if (mode === "height") {
+      handleMarkersRef.current.push(edgeHandle(["topLeft", "topRight"]), edgeHandle(["bottomLeft", "bottomRight"]));
+    } else if (mode === "rotate") {
+      const center = cornersCentroid(corners);
+      const topMid = midpointLngLat(corners.topLeft, corners.topRight);
+      const handlePos: LngLat = [topMid[0] + (topMid[0] - center[0]) * 0.3, topMid[1] + (topMid[1] - center[1]) * 0.3];
+      const angleOf = (p: LngLat) => {
+        const mPerLng = 111320 * Math.cos((center[1] * Math.PI) / 180) || 111320;
+        return -(Math.atan2((p[1] - center[1]) * 111320, (p[0] - center[0]) * mPerLng) * 180) / Math.PI;
+      };
+      const el = document.createElement("div");
+      el.className = "ps-overlay-handle is-rotate";
+      const m = new ML.Marker({ element: el, draggable: true, anchor: "center" }).setLngLat(handlePos).addTo(map);
+      let start = corners;
+      let startAngle = angleOf(handlePos);
+      m.on("dragstart", () => { draggingHandleRef.current = true; start = workingCornersRef.current ?? corners; const ll = m.getLngLat(); startAngle = angleOf([ll.lng, ll.lat]); });
+      m.on("drag", () => { const ll = m.getLngLat(); const delta = angleOf([ll.lng, ll.lat]) - startAngle; workingCornersRef.current = rotateCornersAround(start, center, delta); applyCornersLive(); });
+      m.on("dragend", () => { draggingHandleRef.current = false; commitCorners(); });
+      handleMarkersRef.current.push(m);
+    }
+  }
+
+  /* ── Apply overlay image (rendered from corners) ── */
   const applyOverlay = useCallback((ov: BhuNakshaOverlayConfig | undefined) => {
     const map = mapRef.current;
     if (!map || !mapReadyRef.current) return;
@@ -418,53 +408,174 @@ export function BhuNakshaOverlayTool() {
       overlayUrlRef.current = null;
       return;
     }
-    const w = (ov.widthMeters ?? 500) * ov.scale;
-    const h = (ov.heightMeters ?? 500) * ov.scale;
-    const corners = computeImageCorners(ov.centerLngLat, w, h, ov.rotationDeg);
+    const coords = cornersToCoords(ovToCorners(ov));
     if (overlayUrlRef.current !== ov.dataUrl || !map.getSource(SRC)) {
       if (map.getLayer(LYR)) map.removeLayer(LYR);
       if (map.getSource(SRC)) map.removeSource(SRC);
-      map.addSource(SRC, { type: "image", url: ov.dataUrl, coordinates: corners });
+      map.addSource(SRC, { type: "image", url: ov.dataUrl, coordinates: coords });
       const before = map.getLayer("plot-vertex-dots") ? "plot-vertex-dots" : undefined;
       map.addLayer({ id: LYR, type: "raster", source: SRC, paint: { "raster-opacity": ov.opacity, "raster-fade-duration": 0 } }, before);
       overlayUrlRef.current = ov.dataUrl;
     } else {
-      map.getSource(SRC).setCoordinates(corners);
+      map.getSource(SRC).setCoordinates(coords);
       map.setPaintProperty(LYR, "raster-opacity", ov.opacity);
     }
     map.setLayoutProperty(LYR, "visibility", ov.visible && layersRef.current.overlay ? "visible" : "none");
   }, []);
+
+  /* ── Map init ── */
+  useEffect(() => {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    let map: any;
+    async function init() {
+      if (!mapContainerRef.current) return;
+      const mgl = await import("maplibre-gl");
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const ML: any = mgl.default ?? mgl;
+      mglRef.current = ML;
+
+      map = new ML.Map({
+        container: mapContainerRef.current,
+        preserveDrawingBuffer: true,
+        style: {
+          version: 8,
+          sources: {
+            "base-satellite": { type: "raster", tiles: [ESRI_IMAGERY], tileSize: 256, maxzoom: 22, attribution: "Imagery © Esri" },
+            "base-osm": { type: "raster", tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"], tileSize: 256, maxzoom: 19, attribution: "© OpenStreetMap contributors" },
+          },
+          layers: [
+            { id: "base-satellite", type: "raster", source: "base-satellite", layout: { visibility: "visible" } },
+            { id: "base-osm", type: "raster", source: "base-osm", layout: { visibility: "none" } },
+          ],
+        },
+        center: [75.7139, 19.7515],
+        zoom: 6.5,
+      });
+      mapRef.current = map;
+
+      map.on("load", () => {
+        mapReadyRef.current = true;
+        map.addSource("plot", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
+        map.addSource("plot-vertices", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
+        map.addLayer({ id: "plot-fill", type: "fill", source: "plot", paint: { "fill-color": "#fb923c", "fill-opacity": 0.3 } });
+        map.addLayer({ id: "plot-outline", type: "line", source: "plot", paint: { "line-color": "#dc2626", "line-width": 3 } });
+        map.addLayer({ id: "plot-vertex-dots", type: "circle", source: "plot-vertices", paint: { "circle-radius": 5, "circle-color": "#dc2626", "circle-stroke-color": "#fff", "circle-stroke-width": 2 } });
+
+        const updateScale = () => {
+          const den = niceScaleDenominator(approxScaleDenominator(map));
+          setScaleText(den > 0 ? `1:${den}` : "");
+        };
+        updateScale();
+        map.on("zoomend", updateScale);
+        map.on("moveend", updateScale);
+
+        renderPlot();
+        renderEdgeLabels();
+        renderRefMarkers(caseRef.current?.referencePoints ?? []);
+        applyOverlay(caseRef.current?.bhunakshaOverlay);
+        rebuildHandles();
+      });
+
+      map.on("click", (e: { lngLat: { lng: number; lat: number } }) => {
+        if (markModeRef.current) {
+          const now = new Date().toISOString();
+          const pt: ReferencePoint = {
+            id: globalThis.crypto?.randomUUID?.() ?? `rp-${Date.now()}`,
+            label: "", type: "neighbor_survey", lngLat: [e.lngLat.lng, e.lngLat.lat],
+            useForOverlayAlignment: false, createdAt: now, updatedAt: now,
+          };
+          setCaseData((prev) => ({ ...prev, referencePoints: [...(prev.referencePoints ?? []), pt], updatedAt: now }));
+          return;
+        }
+        if (drawModeRef.current !== "drawing") return;
+        setDrawnCoords((prev) => [...prev, [e.lngLat.lng, e.lngLat.lat] as LngLat]);
+      });
+      map.on("dblclick", (e: { preventDefault: () => void }) => {
+        if (drawModeRef.current !== "drawing") return;
+        e.preventDefault();
+        if (drawnCoordsRef.current.length >= 3) setDrawMode("done");
+      });
+
+      // Overlay move-drag (translate corners)
+      map.on("mousedown", (e: { lngLat: { lng: number; lat: number } }) => {
+        const ov = caseRef.current?.bhunakshaOverlay;
+        if (transformModeRef.current !== "move" || !ov?.dataUrl || lockedRef.current) return;
+        const start = ovToCorners(ov);
+        map.dragPan.disable();
+        dragRef.current = { active: true, start: [e.lngLat.lng, e.lngLat.lat], startCorners: start, lastCorners: start };
+      });
+      map.on("mousemove", (e: { lngLat: { lng: number; lat: number } }) => {
+        const d = dragRef.current;
+        if (!d?.active) return;
+        const nc = translateCorners(d.startCorners, e.lngLat.lng - d.start[0], e.lngLat.lat - d.start[1]);
+        d.lastCorners = nc;
+        map.getSource("bhunaksha-src")?.setCoordinates(cornersToCoords(nc));
+      });
+      const endDrag = () => {
+        const d = dragRef.current;
+        if (d?.active) {
+          const c = d.lastCorners;
+          patchOverlay({ cornerLngLats: { topLeft: c.topLeft, topRight: c.topRight, bottomRight: c.bottomRight, bottomLeft: c.bottomLeft }, centerLngLat: cornersCentroid(c) });
+          dragRef.current = null;
+          map.dragPan.enable();
+        }
+      };
+      map.on("mouseup", endDrag);
+    }
+    init();
+    return () => {
+      [...edgeMarkersRef.current, ...refMarkersRef.current, ...handleMarkersRef.current].forEach((m) => m.remove());
+      edgeMarkersRef.current = []; refMarkersRef.current = []; handleMarkersRef.current = [];
+      if (mapRef.current) { mapRef.current.remove(); mapRef.current = null; mapReadyRef.current = false; }
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  /* ── Base layer switch ── */
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !mapReadyRef.current) return;
+    map.setLayoutProperty("base-satellite", "visibility", baseLayer === "satellite" ? "visible" : "none");
+    map.setLayoutProperty("base-osm", "visibility", baseLayer === "osm" ? "visible" : "none");
+  }, [baseLayer]);
+
+  useEffect(() => {
+    if (!mapReadyRef.current) return;
+    renderPlot();
+    renderEdgeLabels();
+  }, [drawnCoords, drawMode, layers.boundary, layers.dimensions]);
+
+  useEffect(() => {
+    if (!mapReadyRef.current) return;
+    renderRefMarkers(caseData.referencePoints ?? []);
+  }, [caseData.referencePoints, layers.refPoints]);
 
   useEffect(() => {
     applyOverlay(overlay);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [overlay, layers.overlay]);
 
-  /* ── Persist drawn boundary into the case (for the report) ── */
-  const plotEdges = useMemo(
-    () => (drawMode === "done" ? polygonEdges(drawnCoords, drawnCoords.length >= 3) : []),
-    [drawnCoords, drawMode],
-  );
+  /* Rebuild handles when overlay / mode / overlay-layer changes (not mid-drag). */
+  useEffect(() => {
+    if (!mapReadyRef.current || draggingHandleRef.current) return;
+    rebuildHandles();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [overlay, transformMode, layers.overlay]);
+
+  /* ── Boundary derived + persistence ── */
+  const plotEdges = useMemo(() => (drawMode === "done" ? polygonEdges(drawnCoords, drawnCoords.length >= 3) : []), [drawnCoords, drawMode]);
   const plotPerimeter = useMemo(() => perimeterMeters(plotEdges), [plotEdges]);
   const plotArea = useMemo(() => (drawMode === "done" ? approxAreaSqMeters(drawnCoords) : 0), [drawnCoords, drawMode]);
 
   useEffect(() => {
-    if (!caseData) return;
     if (drawMode === "done" && drawnCoords.length >= 3) {
       /* eslint-disable-next-line react-hooks/set-state-in-effect */
-      patchCase({
-        drawnBoundary: {
-          coordinates: drawnCoords,
-          areaSqm: plotArea,
-          perimeterMeters: plotPerimeter,
-          sideLengthsMeters: plotEdges.map((e) => e.lengthM),
-        },
-      });
+      patchCase({ drawnBoundary: { coordinates: drawnCoords, areaSqm: plotArea, perimeterMeters: plotPerimeter, sideLengthsMeters: plotEdges.map((e) => e.lengthM) } });
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [drawMode, drawnCoords, plotArea, plotPerimeter]);
 
-  /* ── File upload → raster → overlay config ── */
+  /* ── File upload ── */
   async function onFile(file: File) {
     if (!file || !mapRef.current) return;
     setUploadBusy(true);
@@ -476,6 +587,8 @@ export function BhuNakshaOverlayTool() {
       const widthMeters = Math.max(50, viewportWidthMeters(map) * 0.6);
       const heightMeters = widthMeters / aspect;
       const center = map.getCenter();
+      const c0: LngLat = [center.lng, center.lat];
+      const corners = cornersFromParams(c0, widthMeters, heightMeters, 0);
       const now = new Date().toISOString();
       const config: BhuNakshaOverlayConfig = {
         fileId: globalThis.crypto?.randomUUID?.() ?? `f-${Date.now()}`,
@@ -489,15 +602,18 @@ export function BhuNakshaOverlayTool() {
         opacity: 0.6,
         rotationDeg: 0,
         scale: 1,
-        centerLngLat: [center.lng, center.lat],
+        scaleX: 1,
+        scaleY: 1,
+        centerLngLat: c0,
         widthMeters,
         heightMeters,
+        cornerLngLats: { topLeft: corners.topLeft, topRight: corners.topRight, bottomRight: corners.bottomRight, bottomLeft: corners.bottomLeft },
+        transformMode: "move",
         locked: false,
         createdAt: now,
         updatedAt: now,
       };
-      patchCase({ bhunakshaOverlay: config, status: "in_review" });
-      if (raster.textPreview) patchCase({ adminNote: raster.textPreview });
+      patchCase({ bhunakshaOverlay: config, status: "in_review", ...(raster.textPreview ? { adminNote: raster.textPreview } : {}) });
     } catch (err) {
       console.error("[BhuNaksha] file render failed", err);
       setUploadError(T.pdfError[lang]);
@@ -506,56 +622,129 @@ export function BhuNakshaOverlayTool() {
     }
   }
 
-  /* ── Overlay control handlers ── */
-  const fitToView = useCallback(() => {
+  /* ── Numeric / fit handlers ── */
+  const rebuildFromParams = useCallback(
+    (patch: Partial<BhuNakshaOverlayConfig>, center: LngLat, wEff: number, hEff: number, rot: number) => {
+      const corners = cornersFromParams(center, wEff, hEff, rot);
+      patchOverlay({ ...patch, cornerLngLats: { topLeft: corners.topLeft, topRight: corners.topRight, bottomRight: corners.bottomRight, bottomLeft: corners.bottomLeft } });
+    },
+    [patchOverlay],
+  );
+
+  const onScaleX = useCallback((v: number) => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov) return;
+    const sx = clamp(v, 0.05, 10);
+    const sy = uniformRef.current ? sx : ov.scaleY ?? ov.scale ?? 1;
+    const baseW = ov.widthMeters ?? 500;
+    const baseH = ov.heightMeters ?? 500;
+    rebuildFromParams({ scaleX: sx, scaleY: sy }, ov.centerLngLat, baseW * sx, baseH * sy, ov.rotationDeg);
+  }, [rebuildFromParams]);
+
+  const onScaleY = useCallback((v: number) => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov) return;
+    const sy = clamp(v, 0.05, 10);
+    const sx = ov.scaleX ?? ov.scale ?? 1;
+    const baseW = ov.widthMeters ?? 500;
+    const baseH = ov.heightMeters ?? 500;
+    rebuildFromParams({ scaleX: sx, scaleY: sy }, ov.centerLngLat, baseW * sx, baseH * sy, ov.rotationDeg);
+  }, [rebuildFromParams]);
+
+  const onRotation = useCallback((deg: number) => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov) return;
+    const rot = clamp(deg, -180, 180);
+    const sx = ov.scaleX ?? ov.scale ?? 1;
+    const sy = ov.scaleY ?? ov.scale ?? 1;
+    rebuildFromParams({ rotationDeg: rot }, ov.centerLngLat, (ov.widthMeters ?? 500) * sx, (ov.heightMeters ?? 500) * sy, rot);
+  }, [rebuildFromParams]);
+
+  const toggleUniform = useCallback(() => {
+    setUniform((u) => {
+      const next = !u;
+      if (next) {
+        const ov = caseRef.current?.bhunakshaOverlay;
+        if (ov) {
+          const sx = ov.scaleX ?? ov.scale ?? 1;
+          rebuildFromParams({ scaleY: sx }, ov.centerLngLat, (ov.widthMeters ?? 500) * sx, (ov.heightMeters ?? 500) * sx, ov.rotationDeg);
+        }
+      }
+      return next;
+    });
+  }, [rebuildFromParams]);
+
+  const fitMapView = useCallback(() => {
     const map = mapRef.current;
     const ov = caseRef.current?.bhunakshaOverlay;
     if (!map || !ov) return;
     const aspect = (ov.naturalWidthPx ?? 1) / Math.max(1, ov.naturalHeightPx ?? 1);
-    const widthMeters = Math.max(50, viewportWidthMeters(map) * 0.6);
+    const w = Math.max(50, viewportWidthMeters(map) * 0.6);
     const center = map.getCenter();
-    patchOverlay({ widthMeters, heightMeters: widthMeters / aspect, scale: 1, centerLngLat: [center.lng, center.lat] });
-  }, [patchOverlay]);
+    rebuildFromParams({ scaleX: 1, scaleY: 1, widthMeters: w, heightMeters: w / aspect }, [center.lng, center.lat], w, w / aspect, ov.rotationDeg);
+  }, [rebuildFromParams]);
+
+  const fitBoundary = useCallback(() => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    const coords = drawnCoordsRef.current;
+    if (!ov || coords.length < 3) return;
+    const lngs = coords.map((c) => c[0]);
+    const lats = coords.map((c) => c[1]);
+    const minLng = Math.min(...lngs), maxLng = Math.max(...lngs);
+    const minLat = Math.min(...lats), maxLat = Math.max(...lats);
+    const center: LngLat = [(minLng + maxLng) / 2, (minLat + maxLat) / 2];
+    const w = Math.max(20, haversineMeters([minLng, center[1]], [maxLng, center[1]]) * 1.1);
+    const h = Math.max(20, haversineMeters([center[0], minLat], [center[0], maxLat]) * 1.1);
+    rebuildFromParams({ scaleX: 1, scaleY: 1, widthMeters: w, heightMeters: h }, center, w, h, ov.rotationDeg);
+  }, [rebuildFromParams]);
+
+  const fitSelectedPlot = useCallback(() => {
+    const ov = caseRef.current?.bhunakshaOverlay;
+    if (!ov) return;
+    const sel = (caseRef.current?.referencePoints ?? []).find((p) => p.type === "selected_plot");
+    if (sel) {
+      const sx = ov.scaleX ?? ov.scale ?? 1;
+      const sy = ov.scaleY ?? ov.scale ?? 1;
+      rebuildFromParams({ centerLngLat: sel.lngLat }, sel.lngLat, (ov.widthMeters ?? 500) * sx, (ov.heightMeters ?? 500) * sy, ov.rotationDeg);
+    } else {
+      fitBoundary();
+    }
+  }, [rebuildFromParams, fitBoundary]);
 
   const resetOverlay = useCallback(() => {
     const map = mapRef.current;
     const ov = caseRef.current?.bhunakshaOverlay;
     if (!map || !ov) return;
     const aspect = (ov.naturalWidthPx ?? 1) / Math.max(1, ov.naturalHeightPx ?? 1);
-    const widthMeters = Math.max(50, viewportWidthMeters(map) * 0.6);
+    const w = Math.max(50, viewportWidthMeters(map) * 0.6);
     const center = map.getCenter();
-    patchOverlay({ opacity: 0.6, rotationDeg: 0, scale: 1, visible: true, locked: false, widthMeters, heightMeters: widthMeters / aspect, centerLngLat: [center.lng, center.lat] });
-    setMoveMode(false);
-  }, [patchOverlay]);
+    rebuildFromParams(
+      { opacity: 0.6, rotationDeg: 0, scale: 1, scaleX: 1, scaleY: 1, visible: true, locked: false, widthMeters: w, heightMeters: w / aspect },
+      [center.lng, center.lat], w, w / aspect, 0,
+    );
+    setTransformMode("move");
+    setUniform(true);
+  }, [rebuildFromParams]);
 
-  const bringOverlay = useCallback((above: boolean) => {
-    const map = mapRef.current;
-    if (!map || !map.getLayer("bhunaksha-img")) return;
-    if (above) map.moveLayer("bhunaksha-img"); // to top
-    else if (map.getLayer("plot-fill")) map.moveLayer("bhunaksha-img", "plot-fill"); // below boundary
-  }, []);
+  const setMode = useCallback((m: TransformMode) => {
+    setTransformMode(m);
+    setMarkMode(false);
+    if (drawModeRef.current === "drawing") setDrawMode("idle");
+    patchOverlay({ transformMode: m === "width" || m === "height" ? "scale" : m });
+  }, [patchOverlay]);
 
   /* ── Reference-point handlers ── */
   const updateRefPoint = useCallback((id: string, patch: Partial<ReferencePoint>) => {
     const now = new Date().toISOString();
-    setCaseData((prev) => ({
-      ...prev,
-      referencePoints: (prev.referencePoints ?? []).map((p) => (p.id === id ? { ...p, ...patch, updatedAt: now } : p)),
-      updatedAt: now,
-    }));
+    setCaseData((prev) => ({ ...prev, referencePoints: (prev.referencePoints ?? []).map((p) => (p.id === id ? { ...p, ...patch, updatedAt: now } : p)), updatedAt: now }));
   }, []);
 
   const deleteRefPoint = useCallback((id: string) => {
-    setCaseData((prev) => ({
-      ...prev,
-      referencePoints: (prev.referencePoints ?? []).filter((p) => p.id !== id),
-      updatedAt: new Date().toISOString(),
-    }));
+    setCaseData((prev) => ({ ...prev, referencePoints: (prev.referencePoints ?? []).filter((p) => p.id !== id), updatedAt: new Date().toISOString() }));
   }, []);
 
   const toggleMarkMode = useCallback(() => {
     setMarkMode((m) => !m);
-    setMoveMode(false);
     if (drawModeRef.current === "drawing") setDrawMode("idle");
   }, []);
 
@@ -566,18 +755,14 @@ export function BhuNakshaOverlayTool() {
     const aspect = (ov.naturalWidthPx ?? 1) / Math.max(1, ov.naturalHeightPx ?? 1);
     const sug = suggestOverlayPlacement(pts.map((p) => p.lngLat), aspect);
     if (!sug) return;
-    patchOverlay({
-      centerLngLat: sug.center,
-      widthMeters: sug.widthMeters,
-      heightMeters: sug.heightMeters,
-      rotationDeg: sug.rotationDeg,
-      scale: 1,
-      controlPoints: pts.map((p) => ({ id: p.id, mapLngLat: p.lngLat, label: p.label, type: p.type })),
-    });
+    rebuildFromParams(
+      { scaleX: 1, scaleY: 1, widthMeters: sug.widthMeters, heightMeters: sug.heightMeters, rotationDeg: sug.rotationDeg, controlPoints: pts.map((p) => ({ id: p.id, mapLngLat: p.lngLat, label: p.label, type: p.type })) },
+      sug.center, sug.widthMeters, sug.heightMeters, sug.rotationDeg,
+    );
     patchCase({ status: "overlay_done" });
-  }, [patchOverlay, patchCase]);
+  }, [rebuildFromParams, patchCase]);
 
-  const startDraw = () => { setMoveMode(false); setMarkMode(false); setDrawnCoords([]); setDrawMode("drawing"); };
+  const startDraw = () => { setMarkMode(false); setDrawnCoords([]); setDrawMode("drawing"); };
   const finishDraw = () => { if (drawnCoords.length >= 3) setDrawMode("done"); };
   const clearDraw = () => { setDrawnCoords([]); setDrawMode("idle"); patchCase({ drawnBoundary: undefined }); };
 
@@ -585,9 +770,8 @@ export function BhuNakshaOverlayTool() {
     const map = mapRef.current;
     if (!map) return;
     try {
-      const url = map.getCanvas().toDataURL("image/png");
       const a = document.createElement("a");
-      a.href = url;
+      a.href = map.getCanvas().toDataURL("image/png");
       a.download = `printshubh-bhunaksha-${Date.now()}.png`;
       a.click();
     } catch (e) {
@@ -597,14 +781,32 @@ export function BhuNakshaOverlayTool() {
 
   const isImagery = baseLayer === "satellite";
   const overlayUsed = !!overlay?.dataUrl;
+  const hasBoundary = drawMode === "done" && drawnCoords.length >= 3;
+  const hasSelectedPlot = hasBoundary || (caseData.referencePoints ?? []).some((p) => p.type === "selected_plot");
+
+  const MODE_BUTTONS: { mode: TransformMode; label: string; Icon: typeof Move }[] = [
+    { mode: "move", label: T.modeMove[lang], Icon: Move },
+    { mode: "corner", label: T.modeCorner[lang], Icon: Frame },
+    { mode: "width", label: T.modeWidth[lang], Icon: MoveHorizontal },
+    { mode: "height", label: T.modeHeight[lang], Icon: MoveVertical },
+    { mode: "rotate", label: T.modeRotate[lang], Icon: RotateCw },
+  ];
+
+  const hint = markMode
+    ? T.hintMark[lang]
+    : transformMode === "move"
+      ? T.hintMove[lang]
+      : transformMode === "corner"
+        ? T.hintCorner[lang]
+        : transformMode === "rotate"
+          ? T.hintRotate[lang]
+          : T.hintEdge[lang];
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6">
       <header className="mb-4 flex flex-wrap items-center gap-3">
         <h1 className="text-xl font-black text-slate-900">{T.title[lang]}</h1>
-        <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-[11px] font-black uppercase tracking-wide text-amber-800">
-          {T.adminBadge[lang]}
-        </span>
+        <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-[11px] font-black uppercase tracking-wide text-amber-800">{T.adminBadge[lang]}</span>
         <span className="text-[11px] font-semibold text-slate-400">{FEATURE_NAME[lang === "mr" ? "en" : "mr"]}</span>
         <div className="ml-auto inline-flex overflow-hidden rounded-md border border-slate-300 text-xs font-bold">
           <button type="button" onClick={() => setLang("mr")} className={`px-2.5 py-1 ${lang === "mr" ? "bg-blue-600 text-white" : "bg-white text-slate-700"}`}>मराठी</button>
@@ -615,6 +817,36 @@ export function BhuNakshaOverlayTool() {
       <div className="grid gap-4 lg:grid-cols-[1.6fr_1fr]">
         {/* ── Map column ── */}
         <div className="space-y-3">
+          {/* Transform toolbar (directly above map) */}
+          <div className="flex flex-wrap items-center gap-2 rounded-xl border border-slate-200 bg-white p-2 shadow-sm">
+            <span className="px-1 text-[11px] font-black uppercase tracking-wide text-slate-400">{T.transform[lang]}</span>
+            {MODE_BUTTONS.map(({ mode, label, Icon }) => (
+              <button
+                key={mode}
+                type="button"
+                onClick={() => setMode(mode)}
+                disabled={!overlayUsed || overlay?.locked}
+                aria-pressed={transformMode === mode}
+                className={`inline-flex items-center gap-1.5 rounded-md border px-2.5 py-1.5 text-[12px] font-bold transition disabled:opacity-40 ${
+                  transformMode === mode && overlayUsed && !overlay?.locked ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"
+                }`}
+              >
+                <Icon className="size-3.5" /> {label}
+              </button>
+            ))}
+            <button
+              type="button"
+              onClick={() => patchOverlay({ locked: !overlay?.locked })}
+              disabled={!overlayUsed}
+              aria-pressed={overlay?.locked}
+              className={`inline-flex items-center gap-1.5 rounded-md border px-2.5 py-1.5 text-[12px] font-bold transition disabled:opacity-40 ${
+                overlay?.locked ? "border-amber-400 bg-amber-50 text-amber-800" : "border-slate-300 text-slate-700 hover:bg-slate-50"
+              }`}
+            >
+              {overlay?.locked ? <Lock className="size-3.5" /> : <Unlock className="size-3.5" />} {T.lock[lang]}
+            </button>
+          </div>
+
           <div className="relative h-[420px] w-full overflow-hidden rounded-xl border border-slate-200 shadow-sm sm:h-[520px] lg:h-[600px]">
             <div ref={mapContainerRef} className="h-full w-full" />
 
@@ -633,11 +865,7 @@ export function BhuNakshaOverlayTool() {
 
             {/* Scale + date badges */}
             <div className="pointer-events-none absolute bottom-3 right-3 z-10 flex flex-col items-end gap-1.5">
-              {scaleText && (
-                <span className="rounded-full border border-slate-200 bg-white/90 px-2.5 py-1 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm">
-                  {T.approxScale[lang]}: {scaleText}
-                </span>
-              )}
+              {scaleText && <span className="rounded-full border border-slate-200 bg-white/90 px-2.5 py-1 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm">{T.approxScale[lang]}: {scaleText}</span>}
               <span className="rounded-full border border-slate-200 bg-white/90 px-2.5 py-1 text-[10px] font-bold text-slate-700 shadow-sm backdrop-blur-sm">
                 {isImagery ? `${T.imageryDate[lang]}: ${T.notAvailable[lang]}` : `${T.viewDate[lang]}: ${formatTodayDate()}`}
               </span>
@@ -645,21 +873,12 @@ export function BhuNakshaOverlayTool() {
 
             {/* Hint */}
             <div className="pointer-events-none absolute bottom-3 left-3 z-10 max-w-[58%] rounded-md border border-blue-200 bg-white/90 px-3 py-2 text-[11px] font-semibold text-blue-900 shadow-sm backdrop-blur-sm">
-              <MapPin className="mr-1 inline size-3.5" />
-              {markMode
-                ? lang === "mr"
-                  ? "नकाशावर क्लिक करून संदर्भ बिंदू जोडा."
-                  : "Click on the map to add reference points."
-                : moveMode
-                  ? lang === "mr"
-                    ? "Overlay drag करा."
-                    : "Drag to move the overlay."
-                  : T.drawHint[lang]}
+              <MapPin className="mr-1 inline size-3.5" /> {hint}
             </div>
           </div>
 
           {/* Boundary summary */}
-          {drawMode === "done" && drawnCoords.length >= 3 && (
+          {hasBoundary && (
             <div className="rounded-xl border-2 border-orange-300 bg-orange-50 p-4 text-xs font-semibold text-slate-700">
               <p className="mb-2 text-sm font-black text-orange-900">{T.sideLengths[lang]}</p>
               <div className="grid grid-cols-2 gap-x-4 gap-y-1 sm:grid-cols-3">
@@ -674,33 +893,19 @@ export function BhuNakshaOverlayTool() {
             </div>
           )}
 
-          <p className="rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-[11.5px] leading-5 text-amber-900">
-            {OVERLAY_DISCLAIMER[lang]}
-          </p>
+          <p className="rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-[11.5px] leading-5 text-amber-900">{OVERLAY_DISCLAIMER[lang]}</p>
         </div>
 
         {/* ── Panels column ── */}
-        <div className="space-y-4 lg:max-h-[82vh] lg:overflow-y-auto lg:pr-1">
+        <div className="space-y-4 lg:max-h-[84vh] lg:overflow-y-auto lg:pr-1">
           <LandReportCasePanel value={caseData} onChange={patchCase} lang={lang} />
 
-          {/* B. Upload panel */}
+          {/* Upload panel */}
           <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
-            <h3 className="mb-2 flex items-center gap-1.5 text-sm font-black text-slate-900">
-              <FileUp className="size-4" /> {T.upload[lang]}
-            </h3>
-            <p className="mb-2 flex items-start gap-1.5 rounded-md bg-slate-50 px-2 py-1.5 text-[11px] font-semibold leading-4 text-slate-500">
-              <Info className="mt-0.5 size-3 shrink-0 text-blue-500" /> {T.privacy[lang]}
-            </p>
-            <div className="flex items-center gap-2">
-              <input
-                type="file"
-                accept="application/pdf,image/*"
-                onChange={(e) => { const f = e.target.files?.[0]; if (f) onFile(f); }}
-                className="block w-full text-[12px] text-slate-600 file:mr-2 file:rounded-md file:border-0 file:bg-blue-700 file:px-3 file:py-1.5 file:text-[12px] file:font-bold file:text-white hover:file:bg-blue-800"
-              />
-            </div>
-            <label className="mt-2 flex items-center gap-2 text-[12px] font-bold text-slate-600">
-              {T.pageNo[lang]}
+            <h3 className="mb-2 flex items-center gap-1.5 text-sm font-black text-slate-900"><FileUp className="size-4" /> {T.upload[lang]}</h3>
+            <p className="mb-2 flex items-start gap-1.5 rounded-md bg-slate-50 px-2 py-1.5 text-[11px] font-semibold leading-4 text-slate-500"><Info className="mt-0.5 size-3 shrink-0 text-blue-500" /> {T.privacy[lang]}</p>
+            <input type="file" accept="application/pdf,image/*" onChange={(e) => { const f = e.target.files?.[0]; if (f) onFile(f); }} className="block w-full text-[12px] text-slate-600 file:mr-2 file:rounded-md file:border-0 file:bg-blue-700 file:px-3 file:py-1.5 file:text-[12px] file:font-bold file:text-white hover:file:bg-blue-800" />
+            <label className="mt-2 flex items-center gap-2 text-[12px] font-bold text-slate-600">{T.pageNo[lang]}
               <input type="number" min={1} value={pageNumber} onChange={(e) => setPageNumber(Math.max(1, Number(e.target.value) || 1))} className="h-8 w-16 rounded-md border border-slate-300 px-2 text-center text-[13px]" />
             </label>
             {uploadBusy && <p className="mt-2 text-[12px] font-bold text-blue-700">{T.busy[lang]}</p>}
@@ -709,49 +914,42 @@ export function BhuNakshaOverlayTool() {
               <div className="mt-3">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={overlay.dataUrl} alt={T.preview[lang]} className="max-h-36 w-auto rounded-md border border-slate-200" />
-                <p className="mt-1 text-[11px] text-slate-500">
-                  {T.fileType[lang]}: <b>{overlay.fileType.toUpperCase()}</b> · {overlay.fileName}
-                </p>
+                <p className="mt-1 text-[11px] text-slate-500">{T.fileType[lang]}: <b>{overlay.fileType.toUpperCase()}</b> · {overlay.fileName}</p>
               </div>
             )}
             <div className="mt-3 grid grid-cols-1 gap-2">
-              <label className="block">
-                <span className="mb-1 block text-[12px] font-bold text-slate-600">{T.owner[lang]}</span>
-                <input type="text" value={caseData.ownerName ?? ""} onChange={(e) => patchCase({ ownerName: e.target.value })} className="h-8 w-full rounded-md border border-slate-300 px-2 text-[13px]" />
-              </label>
-              <label className="block">
-                <span className="mb-1 block text-[12px] font-bold text-slate-600">{T.khata[lang]}</span>
-                <input type="text" value={caseData.khataNumber ?? ""} onChange={(e) => patchCase({ khataNumber: e.target.value })} className="h-8 w-full rounded-md border border-slate-300 px-2 text-[13px]" />
-              </label>
-              <label className="block">
-                <span className="mb-1 block text-[12px] font-bold text-slate-600">{T.extracted[lang]}</span>
-                <textarea readOnly value={caseData.adminNote ?? ""} rows={2} className="w-full rounded-md border border-slate-200 bg-slate-50 px-2 py-1.5 text-[11.5px] text-slate-600" />
-              </label>
+              <label className="block"><span className="mb-1 block text-[12px] font-bold text-slate-600">{T.owner[lang]}</span>
+                <input type="text" value={caseData.ownerName ?? ""} onChange={(e) => patchCase({ ownerName: e.target.value })} className="h-8 w-full rounded-md border border-slate-300 px-2 text-[13px]" /></label>
+              <label className="block"><span className="mb-1 block text-[12px] font-bold text-slate-600">{T.khata[lang]}</span>
+                <input type="text" value={caseData.khataNumber ?? ""} onChange={(e) => patchCase({ khataNumber: e.target.value })} className="h-8 w-full rounded-md border border-slate-300 px-2 text-[13px]" /></label>
+              <label className="block"><span className="mb-1 block text-[12px] font-bold text-slate-600">{T.extracted[lang]}</span>
+                <textarea readOnly value={caseData.adminNote ?? ""} rows={2} className="w-full rounded-md border border-slate-200 bg-slate-50 px-2 py-1.5 text-[11.5px] text-slate-600" /></label>
             </div>
           </section>
 
           <OverlayControlsPanel
             lang={lang}
             hasOverlay={overlayUsed}
-            visible={overlay?.visible ?? true}
-            opacity={overlay?.opacity ?? 0.6}
-            rotationDeg={overlay?.rotationDeg ?? 0}
-            scale={overlay?.scale ?? 1}
             locked={overlay?.locked ?? false}
-            moveMode={moveMode}
-            onToggleVisible={() => patchOverlay({ visible: !overlay?.visible })}
-            onOpacity={(v) => patchOverlay({ opacity: v })}
-            onSetRotation={(deg) => patchOverlay({ rotationDeg: deg })}
-            onScale={(v) => patchOverlay({ scale: v })}
-            onToggleLock={() => patchOverlay({ locked: !overlay?.locked })}
-            onToggleMove={() => { setMoveMode((m) => !m); setMarkMode(false); }}
+            opacity={overlay?.opacity ?? 0.6}
+            scaleX={overlay?.scaleX ?? overlay?.scale ?? 1}
+            scaleY={overlay?.scaleY ?? overlay?.scale ?? 1}
+            rotationDeg={overlay?.rotationDeg ?? 0}
+            uniform={uniform}
+            hasBoundary={hasBoundary}
+            hasSelectedPlot={hasSelectedPlot}
+            onOpacity={(v) => patchOverlay({ opacity: clamp(v, 0.1, 1) })}
+            onScaleX={onScaleX}
+            onScaleY={onScaleY}
+            onRotation={onRotation}
+            onToggleUniform={toggleUniform}
+            onFitMapView={fitMapView}
+            onFitBoundary={fitBoundary}
+            onFitSelectedPlot={fitSelectedPlot}
             onReset={resetOverlay}
-            onFit={fitToView}
-            onBringAbove={() => bringOverlay(true)}
-            onBringBelow={() => bringOverlay(false)}
+            onToggleLock={() => patchOverlay({ locked: !overlay?.locked })}
           />
 
-          {/* Reference Points / Neighbor survey numbers (Phase 2 prep) */}
           <ReferencePointsPanel
             lang={lang}
             points={caseData.referencePoints ?? []}
@@ -763,11 +961,9 @@ export function BhuNakshaOverlayTool() {
             onAlign={alignFromControlPoints}
           />
 
-          {/* D. Layers panel */}
+          {/* Layers panel */}
           <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
-            <h3 className="mb-3 flex items-center gap-1.5 text-sm font-black text-slate-900">
-              <LayersIcon className="size-4" /> {T.layers[lang]}
-            </h3>
+            <h3 className="mb-3 flex items-center gap-1.5 text-sm font-black text-slate-900"><LayersIcon className="size-4" /> {T.layers[lang]}</h3>
             <div className="flex flex-wrap gap-2 text-[12px] font-bold">
               <button type="button" onClick={() => setBaseLayer("satellite")} aria-pressed={baseLayer === "satellite"} className={`rounded-md border px-2.5 py-1.5 ${baseLayer === "satellite" ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"}`}>{T.satellite[lang]}</button>
               <button type="button" onClick={() => setBaseLayer("osm")} aria-pressed={baseLayer === "osm"} className={`rounded-md border px-2.5 py-1.5 ${baseLayer === "osm" ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"}`}>{T.baseMap[lang]}</button>

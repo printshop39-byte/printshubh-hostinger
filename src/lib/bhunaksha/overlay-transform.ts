@@ -110,6 +110,91 @@ export function computeImageCorners(
   return [corners[0], corners[1], corners[2], corners[3]];
 }
 
+/* ── Four-corner overlay model ────────────────────────────────────────────────
+ *
+ * The overlay is rendered from four explicit corner coordinates (MapLibre
+ * `image` source). A clean rotated rectangle is built from params
+ * (center / width / height / rotation); corner & edge dragging then edits the
+ * corners freely, which allows skew/perspective-like manual fitting. `deriveParams`
+ * recovers approximate center / rotation / scaleX / scaleY from an edited quad
+ * so the numeric panel stays roughly in sync. */
+export type Corners = {
+  topLeft: LngLat;
+  topRight: LngLat;
+  bottomRight: LngLat;
+  bottomLeft: LngLat;
+};
+
+export function cornersFromParams(
+  center: LngLat,
+  widthMeters: number,
+  heightMeters: number,
+  rotationDeg: number,
+): Corners {
+  const [tl, tr, br, bl] = computeImageCorners(center, widthMeters, heightMeters, rotationDeg);
+  return { topLeft: tl, topRight: tr, bottomRight: br, bottomLeft: bl };
+}
+
+export function cornersToCoords(c: Corners): [LngLat, LngLat, LngLat, LngLat] {
+  return [c.topLeft, c.topRight, c.bottomRight, c.bottomLeft];
+}
+
+export function cornersCentroid(c: Corners): LngLat {
+  const pts = [c.topLeft, c.topRight, c.bottomRight, c.bottomLeft];
+  return [
+    pts.reduce((s, p) => s + p[0], 0) / 4,
+    pts.reduce((s, p) => s + p[1], 0) / 4,
+  ];
+}
+
+export function midpointLngLat(a: LngLat, b: LngLat): LngLat {
+  return [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2];
+}
+
+export function translateCorners(c: Corners, dLng: number, dLat: number): Corners {
+  const t = (p: LngLat): LngLat => [p[0] + dLng, p[1] + dLat];
+  return { topLeft: t(c.topLeft), topRight: t(c.topRight), bottomRight: t(c.bottomRight), bottomLeft: t(c.bottomLeft) };
+}
+
+/** Rigidly rotate all corners clockwise by `deltaDeg` around `center`. */
+export function rotateCornersAround(c: Corners, center: LngLat, deltaDeg: number): Corners {
+  const rad = (deltaDeg * Math.PI) / 180;
+  const cos = Math.cos(rad);
+  const sin = Math.sin(rad);
+  const mPerLng = M_PER_DEG_LAT * Math.cos((center[1] * Math.PI) / 180) || M_PER_DEG_LAT;
+  const rot = (p: LngLat): LngLat => {
+    const x = (p[0] - center[0]) * mPerLng;
+    const y = (p[1] - center[1]) * M_PER_DEG_LAT;
+    const rx = x * cos + y * sin;
+    const ry = -x * sin + y * cos;
+    return [center[0] + rx / mPerLng, center[1] + ry / M_PER_DEG_LAT];
+  };
+  return { topLeft: rot(c.topLeft), topRight: rot(c.topRight), bottomRight: rot(c.bottomRight), bottomLeft: rot(c.bottomLeft) };
+}
+
+/** Approximate center / rotation / scaleX / scaleY of a (possibly skewed) quad. */
+export function deriveParams(
+  c: Corners,
+  baseWidthMeters: number,
+  baseHeightMeters: number,
+): { center: LngLat; rotationDeg: number; scaleX: number; scaleY: number; widthMeters: number; heightMeters: number } {
+  const center = cornersCentroid(c);
+  const widthEff = (haversineMeters(c.topLeft, c.topRight) + haversineMeters(c.bottomLeft, c.bottomRight)) / 2;
+  const heightEff = (haversineMeters(c.topLeft, c.bottomLeft) + haversineMeters(c.topRight, c.bottomRight)) / 2;
+  const mPerLng = M_PER_DEG_LAT * Math.cos((center[1] * Math.PI) / 180) || M_PER_DEG_LAT;
+  const dx = (c.topRight[0] - c.topLeft[0]) * mPerLng;
+  const dy = (c.topRight[1] - c.topLeft[1]) * M_PER_DEG_LAT;
+  const rotationDeg = -(Math.atan2(dy, dx) * 180) / Math.PI;
+  return {
+    center,
+    rotationDeg,
+    scaleX: baseWidthMeters > 0 ? widthEff / baseWidthMeters : 1,
+    scaleY: baseHeightMeters > 0 ? heightEff / baseHeightMeters : 1,
+    widthMeters: widthEff,
+    heightMeters: heightEff,
+  };
+}
+
 /** Approximate representative-fraction scale denominator at the map centre. */
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export function approxScaleDenominator(map: any): number {
