@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { AdminLogin } from "./admin-login";
 import { LandReportInquiryForm } from "./inquiry-form";
+import { AdminLeadsList } from "./leads-list";
 import { expectedToken, isAuthed } from "./auth";
 
 /**
@@ -36,7 +37,12 @@ export default async function AdminLandReportsPage() {
 
   return (
     <main className="min-h-screen bg-[#f7fbff] text-slate-900">
-      <LandReportInquiryForm />
+      <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6">
+        {/* Client submissions from the public landing-page form */}
+        <AdminLeadsList />
+        {/* Admin's own manual WhatsApp message composer */}
+        <LandReportInquiryForm />
+      </div>
     </main>
   );
 }
