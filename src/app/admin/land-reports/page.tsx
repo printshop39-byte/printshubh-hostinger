@@ -1,17 +1,18 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { BhuNakshaOverlayTool } from "@/components/admin/bhunaksha-overlay-tool";
+import { AdminLogin } from "./admin-login";
+import { LandReportInquiryForm } from "./inquiry-form";
+import { expectedToken, isAuthed } from "./auth";
 
 /**
- * Protected internal admin route — Manual BhuNaksha Overlay (Phase 1).
+ * Admin land-reports — simple, stable WhatsApp inquiry workflow.
  *
- * Gated behind the ENABLE_ADMIN_BHUNAKSHA_OVERLAY feature flag: when it is not
- * "true" the route 404s, so it is never exposed publicly. It is also marked
- * noindex and is not listed in the sitemap. This is a placeholder gate — wire a
- * real auth check (session / IP allowlist) before production use.
+ * Two gates:
+ *   1. ENABLE_ADMIN_BHUNAKSHA_OVERLAY flag — route 404s when off (never public).
+ *   2. Shared-password login (ADMIN_ACCESS_PASSWORD) — see ./auth.ts.
  *
- * `force-dynamic` so the env flag is read at request time rather than baked in
- * at build time.
+ * The advanced GIS overlay tool now lives at /admin/land-reports-gis (preserved,
+ * not deleted). `force-dynamic` so env/cookies are read per request.
  */
 export const dynamic = "force-dynamic";
 
@@ -20,13 +21,22 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
-export default function AdminLandReportsPage() {
+export default async function AdminLandReportsPage() {
   if (process.env.ENABLE_ADMIN_BHUNAKSHA_OVERLAY !== "true") {
     notFound();
   }
+
+  if (!(await isAuthed())) {
+    return (
+      <main className="min-h-screen bg-[#f7fbff] text-slate-900">
+        <AdminLogin configured={expectedToken() !== null} />
+      </main>
+    );
+  }
+
   return (
     <main className="min-h-screen bg-[#f7fbff] text-slate-900">
-      <BhuNakshaOverlayTool />
+      <LandReportInquiryForm />
     </main>
   );
 }

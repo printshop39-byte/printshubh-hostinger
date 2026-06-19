@@ -37,6 +37,7 @@ import {
 import { useLang } from "@/components/language-context";
 import { LandReportCasePanel } from "@/components/admin/land-report-case-panel";
 import { LocationNavigatorPanel } from "@/components/admin/location-navigator-panel";
+import { MapOverlayControl } from "@/components/admin/map-overlay-control";
 import { OverlayControlsPanel } from "@/components/admin/overlay-controls-panel";
 import { OverlayCornersPanel, type CornerKey } from "@/components/admin/overlay-corners-panel";
 import { GeoreferencePanel, type Gcp } from "@/components/admin/georeference-panel";
@@ -97,6 +98,61 @@ const ESRI_IMAGERY =
   "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}";
 
 const clamp = (v: number, lo: number, hi: number) => Math.min(hi, Math.max(lo, v));
+
+/**
+ * Canonical bottom→top draw order for our custom layers. Lower index = drawn
+ * first = further back; base tiles always stay below all of these. Used to keep
+ * the overlay / boundary / handles stack deterministic after any add.
+ */
+const LAYER_STACK = [
+  "village-admin-fill",
+  "village-admin-line",
+  "bhunaksha-img", // scanned BhuNaksha overlay
+  "plot-fill",
+  "plot-outline",
+  "overlay-quad-line",
+  "plot-vertex-dots",
+] as const;
+
+/** Re-apply LAYER_STACK order for whichever layers currently exist (idempotent). */
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function reorderLayers(map: any) {
+  for (let i = LAYER_STACK.length - 1; i >= 0; i--) {
+    const id = LAYER_STACK[i];
+    if (!map.getLayer(id)) continue;
+    const above = LAYER_STACK[i + 1];
+    map.moveLayer(id, above && map.getLayer(above) ? above : undefined);
+  }
+}
+
+/**
+ * Downscale a data URL so the longest edge is ≤ maxEdge. Big PDF/scan rasters
+ * (4000px+) make slow GPU textures and laggy pan; capping the size is the single
+ * biggest overlay-render win. Uniform scale keeps the aspect ratio, so the
+ * georeference math (which is normalised by the four corners) stays correct.
+ */
+async function downscaleDataUrl(
+  dataUrl: string,
+  maxEdge = 2048,
+): Promise<{ url: string; w: number; h: number }> {
+  const img = new Image();
+  await new Promise<void>((resolve, reject) => {
+    img.onload = () => resolve();
+    img.onerror = reject;
+    img.src = dataUrl;
+  });
+  const longest = Math.max(img.width, img.height);
+  const scale = Math.min(1, maxEdge / longest);
+  if (scale === 1) return { url: dataUrl, w: img.width, h: img.height };
+  const cv = document.createElement("canvas");
+  cv.width = Math.round(img.width * scale);
+  cv.height = Math.round(img.height * scale);
+  const ctx = cv.getContext("2d");
+  if (!ctx) return { url: dataUrl, w: img.width, h: img.height };
+  ctx.drawImage(img, 0, 0, cv.width, cv.height);
+  // Scans are opaque — JPEG @0.85 shrinks the data URL a lot vs PNG.
+  return { url: cv.toDataURL("image/jpeg", 0.85), w: cv.width, h: cv.height };
+}
 
 function ovToCorners(ov: BhuNakshaOverlayConfig): Corners {
   if (ov.cornerLngLats) {
@@ -236,6 +292,8 @@ export function BhuNakshaOverlayTool() {
   const navMarkerRef = useRef<any>(null);
   const navTargetRef = useRef<{ lng: number; lat: number; label: string; type: ReferencePoint["type"] } | null>(null);
   const dragRef = useRef<{ active: boolean; start: LngLat; startCorners: Corners; lastCorners: Corners } | null>(null);
+  const rafRef = useRef<number | null>(null);
+  const pendingCoordsRef = useRef<number[][] | null>(null);
 
   const overlay = caseData?.bhunakshaOverlay;
 
@@ -361,11 +419,24 @@ export function BhuNakshaOverlayTool() {
     src.setData({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: ring } });
   }
 
+  /* rAF-coalesced setCoordinates: many drag events in one frame collapse to a
+   * single GPU update, so dragging a large overlay stays smooth. */
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  function scheduleSetCoordinates(map: any, coords: number[][]) {
+    pendingCoordsRef.current = coords;
+    if (rafRef.current != null) return;
+    rafRef.current = requestAnimationFrame(() => {
+      rafRef.current = null;
+      const c = pendingCoordsRef.current;
+      if (c) map.getSource("bhunaksha-src")?.setCoordinates(c);
+    });
+  }
+
   function applyCornersLive() {
     const map = mapRef.current;
     const wc = workingCornersRef.current;
     if (!map || !wc) return;
-    map.getSource("bhunaksha-src")?.setCoordinates(cornersToCoords(wc));
+    scheduleSetCoordinates(map, cornersToCoords(wc));
     renderOverlayQuad(wc);
   }
 
@@ -519,6 +590,7 @@ export function BhuNakshaOverlayTool() {
       map.setPaintProperty(LYR, "raster-opacity", ov.opacity);
     }
     map.setLayoutProperty(LYR, "visibility", ov.visible && layersRef.current.overlay ? "visible" : "none");
+    reorderLayers(map);
   }, []);
 
   /* ── Map init ── */
@@ -628,7 +700,7 @@ export function BhuNakshaOverlayTool() {
         if (!d?.active) return;
         const nc = translateCorners(d.startCorners, e.lngLat.lng - d.start[0], e.lngLat.lat - d.start[1]);
         d.lastCorners = nc;
-        map.getSource("bhunaksha-src")?.setCoordinates(cornersToCoords(nc));
+        scheduleSetCoordinates(map, cornersToCoords(nc));
       });
       const endDrag = () => {
         const d = dragRef.current;
@@ -644,6 +716,7 @@ export function BhuNakshaOverlayTool() {
     init();
     return () => {
       cancelled = true;
+      if (rafRef.current != null) { cancelAnimationFrame(rafRef.current); rafRef.current = null; }
       [...edgeMarkersRef.current, ...refMarkersRef.current, ...handleMarkersRef.current].forEach((m) => m.remove());
       edgeMarkersRef.current = []; refMarkersRef.current = []; handleMarkersRef.current = [];
       if (navMarkerRef.current) { navMarkerRef.current.remove(); navMarkerRef.current = null; }
@@ -710,6 +783,7 @@ export function BhuNakshaOverlayTool() {
     const before = map.getLayer("bhunaksha-img") ? "bhunaksha-img" : map.getLayer("plot-fill") ? "plot-fill" : undefined;
     map.addLayer({ id: FILL, type: "fill", source: SRC, paint: { "fill-color": "#facc15", "fill-opacity": 0.15 } }, before);
     map.addLayer({ id: LINE, type: "line", source: SRC, paint: { "line-color": "#ca8a04", "line-width": 2 } }, before);
+    reorderLayers(map);
   }, [lgd.boundaryFeature]);
 
   /* Temporary navigation marker for lat/long / Google-link / village center. */
@@ -737,6 +811,19 @@ export function BhuNakshaOverlayTool() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [drawMode, drawnCoords, plotArea, plotPerimeter]);
 
+  /* Z-index reorder for the scanned overlay (floating layer control). */
+  const moveOverlayUp = useCallback(() => {
+    const map = mapRef.current;
+    if (map?.getLayer("bhunaksha-img")) map.moveLayer("bhunaksha-img"); // to the very top
+  }, []);
+
+  const moveOverlayDown = useCallback(() => {
+    const map = mapRef.current;
+    if (!map?.getLayer("bhunaksha-img")) return;
+    const below = map.getLayer("village-admin-fill") ? "village-admin-fill" : "plot-fill";
+    if (map.getLayer(below)) map.moveLayer("bhunaksha-img", below);
+  }, []);
+
   /* ── File upload ── */
   async function onFile(file: File) {
     if (!file || !mapRef.current) return;
@@ -744,8 +831,11 @@ export function BhuNakshaOverlayTool() {
     setUploadError(null);
     try {
       const { raster, fileType } = await fileToRaster(file, pageNumber);
+      // Cap the raster size before it becomes a GPU texture (perf: avoids
+      // laggy pan/zoom with multi-megapixel scans). Aspect is preserved.
+      const scaled = await downscaleDataUrl(raster.dataUrl);
       const map = mapRef.current;
-      const aspect = raster.widthPx / Math.max(1, raster.heightPx);
+      const aspect = scaled.w / Math.max(1, scaled.h);
       const widthMeters = Math.max(50, viewportWidthMeters(map) * 0.6);
       const heightMeters = widthMeters / aspect;
       const center = map.getCenter();
@@ -757,9 +847,9 @@ export function BhuNakshaOverlayTool() {
         fileName: file.name,
         fileType,
         pageNumber: fileType === "pdf" ? pageNumber : undefined,
-        dataUrl: raster.dataUrl,
-        naturalWidthPx: raster.widthPx,
-        naturalHeightPx: raster.heightPx,
+        dataUrl: scaled.url,
+        naturalWidthPx: scaled.w,
+        naturalHeightPx: scaled.h,
         visible: true,
         opacity: 0.6,
         rotationDeg: 0,
@@ -1295,6 +1385,22 @@ export function BhuNakshaOverlayTool() {
           <div className="relative h-[420px] w-full overflow-hidden rounded-xl border border-slate-200 shadow-sm sm:h-[520px] lg:h-[600px]">
             <div ref={mapContainerRef} className="h-full w-full" />
 
+            {/* Floating overlay layer control (Google Earth-style, top-right) */}
+            <MapOverlayControl
+              lang={lang}
+              hasOverlay={overlayUsed}
+              opacity={overlay?.opacity ?? 0.6}
+              visible={overlay?.visible ?? true}
+              locked={overlay?.locked ?? false}
+              hasBoundary={hasBoundary}
+              onOpacity={(v) => patchOverlay({ opacity: clamp(v, 0, 1) })}
+              onToggleVisible={() => patchOverlay({ visible: !overlay?.visible })}
+              onToggleLock={() => patchOverlay({ locked: !overlay?.locked })}
+              onFitBoundary={fitBoundary}
+              onMoveUp={moveOverlayUp}
+              onMoveDown={moveOverlayDown}
+            />
+
             {/* Draw toolbar */}
             <div className="absolute left-3 top-3 z-10 flex overflow-hidden rounded-lg border border-slate-300 bg-white shadow-md">
               <button type="button" onClick={startDraw} aria-pressed={drawMode === "drawing"} className={`inline-flex items-center gap-1.5 px-3 py-2 text-xs font-bold transition ${drawMode === "drawing" ? "bg-blue-600 text-white" : "text-slate-700 hover:bg-slate-50"}`}>
@@ -1418,7 +1524,7 @@ export function BhuNakshaOverlayTool() {
             uniform={uniform}
             hasBoundary={hasBoundary}
             hasSelectedPlot={hasSelectedPlot}
-            onOpacity={(v) => patchOverlay({ opacity: clamp(v, 0.1, 1) })}
+            onOpacity={(v) => patchOverlay({ opacity: clamp(v, 0, 1) })}
             onScaleX={onScaleX}
             onScaleY={onScaleY}
             onRotation={onRotation}
