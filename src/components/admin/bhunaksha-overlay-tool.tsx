@@ -86,6 +86,16 @@ const STORAGE_KEY = "printshubh_admin_bhunaksha_case_v1";
 type BaseLayer = "satellite" | "osm";
 type DrawMode = "idle" | "drawing" | "done";
 type TransformMode = "pan" | "move" | "corner" | "sides" | "rotate";
+type SidebarTab = "case" | "overlay" | "layers" | "tools" | "report";
+
+/** Tabs that group the side panels (declutters the old 9-panel stack). */
+const SIDEBAR_TABS: { id: SidebarTab; label: { mr: string; en: string } }[] = [
+  { id: "case", label: { mr: "केस", en: "Case" } },
+  { id: "overlay", label: { mr: "Overlay", en: "Overlay" } },
+  { id: "layers", label: { mr: "थर", en: "Layers" } },
+  { id: "tools", label: { mr: "साधने", en: "Tools" } },
+  { id: "report", label: { mr: "अहवाल", en: "Report" } },
+];
 
 interface LayerVisibility {
   overlay: boolean;
@@ -271,6 +281,7 @@ export function BhuNakshaOverlayTool() {
   const [drawnCoords, setDrawnCoords] = useState<LngLat[]>([]);
   const [transformMode, setTransformMode] = useState<TransformMode>("pan");
   const [uniform, setUniform] = useState(true);
+  const [sidebarTab, setSidebarTab] = useState<SidebarTab>("case");
   const [markMode, setMarkMode] = useState(false);
   const [layers, setLayers] = useState<LayerVisibility>({ overlay: true, boundary: true, dimensions: true, refPoints: true });
   const [scaleText, setScaleText] = useState("");
@@ -1489,8 +1500,25 @@ export function BhuNakshaOverlayTool() {
           <p className="rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-[11.5px] leading-5 text-amber-900">{OVERLAY_DISCLAIMER[lang]}</p>
         </div>
 
-        {/* ── Panels column ── */}
-        <div className="space-y-4 lg:max-h-[84vh] lg:overflow-y-auto lg:pr-1">
+        {/* ── Panels column (tabbed — declutters the old 9-panel stack) ── */}
+        <div className="lg:max-h-[84vh] lg:overflow-y-auto lg:pr-1">
+          <div className="sticky top-0 z-10 mb-3 flex gap-1 rounded-xl border border-slate-200 bg-white/90 p-1 shadow-sm backdrop-blur">
+            {SIDEBAR_TABS.map((tb) => (
+              <button
+                key={tb.id}
+                type="button"
+                onClick={() => setSidebarTab(tb.id)}
+                aria-pressed={sidebarTab === tb.id}
+                className={`flex-1 rounded-lg px-2 py-2 text-[12px] font-bold transition ${
+                  sidebarTab === tb.id ? "bg-blue-600 text-white shadow" : "text-slate-600 hover:bg-slate-100"
+                }`}
+              >
+                {tb.label[lang]}
+              </button>
+            ))}
+          </div>
+
+          <div className={sidebarTab === "case" ? "space-y-4" : "hidden"}>
           <LocationNavigatorPanel
             lang={lang}
             districts={lgd.districts}
@@ -1524,7 +1552,9 @@ export function BhuNakshaOverlayTool() {
           />
 
           <LandReportCasePanel value={caseData} onChange={patchCase} lang={lang} onGoGoogle={goGoogle} onGoLatLng={goLatLng} googleMsg={googleMsg} />
+          </div>
 
+          <div className={sidebarTab === "overlay" ? "space-y-4" : "hidden"}>
           {/* Upload panel */}
           <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
             <h3 className="mb-2 flex items-center gap-1.5 text-sm font-black text-slate-900"><FileUp className="size-4" /> {T.upload[lang]}</h3>
@@ -1586,7 +1616,9 @@ export function BhuNakshaOverlayTool() {
             onReset={resetCorners}
             copied={cornersCopied}
           />
+          </div>
 
+          <div className={sidebarTab === "tools" ? "space-y-4" : "hidden"}>
           <ReferencePointsPanel
             lang={lang}
             points={caseData.referencePoints ?? []}
@@ -1616,7 +1648,9 @@ export function BhuNakshaOverlayTool() {
             onDelete={deleteGcp}
             onApply={applyGeoreference}
           />
+          </div>
 
+          <div className={sidebarTab === "layers" ? "space-y-4" : "hidden"}>
           {/* Layers panel (QGIS-style: eye toggles + opacity + reorder) */}
           <LayerPanel
             lang={lang}
@@ -1630,10 +1664,13 @@ export function BhuNakshaOverlayTool() {
             onOverlayUp={moveOverlayUp}
             onOverlayDown={moveOverlayDown}
           />
+          </div>
 
+          <div className={sidebarTab === "report" ? "space-y-4" : "hidden"}>
           <ReportOutputPanel lang={lang} value={caseData} overlayUsed={overlayUsed} scaleText={scaleText} onScreenshot={takeScreenshot} onExportJson={exportOverlayJson} onExportGeoJson={exportGeoJson} onExportPdf={exportReportPdf} onChange={patchCase} />
+          </div>
 
-          <p className="text-[11px] font-semibold text-slate-400">{T.saved[lang]}</p>
+          <p className="mt-3 text-[11px] font-semibold text-slate-400">{T.saved[lang]}</p>
         </div>
       </div>
     </div>
