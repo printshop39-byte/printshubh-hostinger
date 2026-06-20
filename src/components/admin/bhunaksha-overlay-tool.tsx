@@ -24,7 +24,6 @@ import {
   Frame,
   Hand,
   Info,
-  Layers as LayersIcon,
   Lock,
   MapPin,
   Move,
@@ -38,6 +37,7 @@ import { useLang } from "@/components/language-context";
 import { LandReportCasePanel } from "@/components/admin/land-report-case-panel";
 import { LocationNavigatorPanel } from "@/components/admin/location-navigator-panel";
 import { MapOverlayControl } from "@/components/admin/map-overlay-control";
+import { LayerPanel } from "@/components/admin/layer-panel";
 import { OverlayControlsPanel } from "@/components/admin/overlay-controls-panel";
 import { OverlayCornersPanel, type CornerKey } from "@/components/admin/overlay-corners-panel";
 import { GeoreferencePanel, type Gcp } from "@/components/admin/georeference-panel";
@@ -1595,21 +1595,19 @@ export function BhuNakshaOverlayTool() {
             onApply={applyGeoreference}
           />
 
-          {/* Layers panel */}
-          <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
-            <h3 className="mb-3 flex items-center gap-1.5 text-sm font-black text-slate-900"><LayersIcon className="size-4" /> {T.layers[lang]}</h3>
-            <div className="flex flex-wrap gap-2 text-[12px] font-bold">
-              <button type="button" onClick={() => setBaseLayer("satellite")} aria-pressed={baseLayer === "satellite"} className={`rounded-md border px-2.5 py-1.5 ${baseLayer === "satellite" ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"}`}>{T.satellite[lang]}</button>
-              <button type="button" onClick={() => setBaseLayer("osm")} aria-pressed={baseLayer === "osm"} className={`rounded-md border px-2.5 py-1.5 ${baseLayer === "osm" ? "border-blue-600 bg-blue-600 text-white" : "border-slate-300 text-slate-700 hover:bg-slate-50"}`}>{T.baseMap[lang]}</button>
-            </div>
-            <div className="mt-2 space-y-1.5 text-[12px] font-semibold text-slate-700">
-              <label className="flex items-center gap-2"><input type="checkbox" checked={layers.overlay} onChange={(e) => setLayers((l) => ({ ...l, overlay: e.target.checked }))} className="size-4 accent-blue-600" /> {T.overlayLayer[lang]}</label>
-              <label className="flex items-center gap-2"><input type="checkbox" checked={layers.boundary} onChange={(e) => setLayers((l) => ({ ...l, boundary: e.target.checked }))} className="size-4 accent-blue-600" /> {T.boundaryLayer[lang]}</label>
-              <label className="flex items-center gap-2"><input type="checkbox" checked={layers.dimensions} onChange={(e) => setLayers((l) => ({ ...l, dimensions: e.target.checked }))} className="size-4 accent-blue-600" /> {T.dimsLayer[lang]}</label>
-              <label className="flex items-center gap-2"><input type="checkbox" checked={layers.refPoints} onChange={(e) => setLayers((l) => ({ ...l, refPoints: e.target.checked }))} className="size-4 accent-blue-600" /> {T.refPointsLayer[lang]}</label>
-              <label className="flex items-center gap-2 opacity-40"><input type="checkbox" disabled className="size-4" /> {T.notesMarkers[lang]}</label>
-            </div>
-          </section>
+          {/* Layers panel (QGIS-style: eye toggles + opacity + reorder) */}
+          <LayerPanel
+            lang={lang}
+            baseLayer={baseLayer}
+            layers={layers}
+            hasOverlay={overlayUsed}
+            opacity={overlay?.opacity ?? 0.6}
+            onBaseLayer={setBaseLayer}
+            onToggle={(key) => setLayers((l) => ({ ...l, [key]: !l[key] }))}
+            onOpacity={(v) => patchOverlay({ opacity: clamp(v, 0, 1) })}
+            onOverlayUp={moveOverlayUp}
+            onOverlayDown={moveOverlayDown}
+          />
 
           <ReportOutputPanel lang={lang} value={caseData} overlayUsed={overlayUsed} scaleText={scaleText} onScreenshot={takeScreenshot} onExportJson={exportOverlayJson} onExportGeoJson={exportGeoJson} onExportPdf={exportReportPdf} onChange={patchCase} />
 
