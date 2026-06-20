@@ -19,6 +19,7 @@ import {
   ShieldCheck,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 
 /* ── Official PrintShubh contact details ──────────────────────────────────
  * Single source of truth — every component that needs the phone / WhatsApp
@@ -169,6 +170,7 @@ export function SiteFooter() {
               href={waHref}
               target="_blank"
               rel="noopener noreferrer"
+              onClick={inquiryCtaClick}
               className="mt-4 inline-flex h-10 items-center justify-center gap-2 rounded-md bg-green-600 px-4 text-sm font-bold text-white shadow-sm transition hover:bg-green-700"
             >
               <MessageCircle className="size-4" />

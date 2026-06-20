@@ -16,6 +16,7 @@
 import { AlertTriangle, BadgeCheck, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { whatsappHref } from "@/lib/whatsapp";
+import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 
 type Row = { name: Record<Lang, string>; price: Record<Lang, string> };
 type Group = { title: Record<Lang, string>; rows: Row[] };
@@ -128,6 +129,7 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
         href={waHref}
         target="_blank"
         rel="noopener noreferrer"
+        onClick={inquiryCtaClick}
         className="mt-6 inline-flex h-[52px] w-full items-center justify-center gap-2 rounded-md bg-green-600 px-5 text-[15px] font-bold text-white shadow-sm transition hover:bg-green-700 sm:w-auto"
       >
         <MessageCircle className="size-5" />

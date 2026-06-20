@@ -2,6 +2,7 @@
 
 import { AlertTriangle, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 
 const disclaimerText: Record<Lang, string> = {
   mr: "PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित सहाय्य सेवा प्रदान करतो.",
@@ -33,6 +34,9 @@ export function Disclaimer() {
         </div>
         <a
           href={waHref}
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={inquiryCtaClick}
           className="pointer-events-auto inline-flex h-11 items-center justify-center gap-2 rounded-md bg-green-600 px-4 text-sm font-bold text-white transition hover:bg-green-700"
         >
           <MessageCircle className="size-4" />

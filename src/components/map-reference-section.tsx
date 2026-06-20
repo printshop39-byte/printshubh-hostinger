@@ -13,6 +13,7 @@
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { OPEN_INQUIRY_EVENT } from "@/lib/inquiry-form-bus";
 import {
   Check,
   Eraser,
@@ -2423,6 +2424,14 @@ export function MapReferenceSection() {
    */
   const updateForm = (key: keyof FormData, value: string) =>
     setForm((prev) => ({ ...prev, [key]: value } as FormData));
+
+  /* Open this form when a "contact / ask price" CTA elsewhere on the homepage
+   * (pricing, footer) is clicked — funnels every visitor into a saved lead. */
+  useEffect(() => {
+    const open = () => setFormOpen(true);
+    window.addEventListener(OPEN_INQUIRY_EVENT, open);
+    return () => window.removeEventListener(OPEN_INQUIRY_EVENT, open);
+  }, []);
 
   const selectedVillageDisplay = useMemo(() => {
     const vilRow = villages.find((v) => v.village_id === form.village_id);
