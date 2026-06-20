@@ -68,6 +68,9 @@ type ServiceTab =
 type ServiceCategory = "digital" | "maps";
 
 interface FormData {
+  /* Contact — needed so a landing-page inquiry becomes an actionable admin lead */
+  customerName: string;
+  mobile: string;
   district: string;
   taluka: string;
   village: string;
@@ -1882,6 +1885,7 @@ export function MapReferenceSection() {
   const tx = ui[lang];
 
   const [form, setForm] = useState<FormData>({
+    customerName: "", mobile: "",
     district: "", taluka: "", village: "",
     district_id: "", taluka_id: "", village_id: "",
     gutNumber: "", surveyNumber: "",
@@ -2348,6 +2352,9 @@ export function MapReferenceSection() {
    * Property Card needs CTS, Mumbai PC needs City Survey + CTS, etc. */
   const waEnabled = useMemo(() => {
     const cfg = fieldCfg;
+    // Contact is required so every landing-page inquiry is a complete,
+    // callable lead in the admin panel (not just a WhatsApp hand-off).
+    if (!form.customerName.trim() || form.mobile.replace(/\D/g, "").length < 10) return false;
     // For taluka/village-driven services we still require the full chain so
     // the boundary fit + village name go into the WA message.
     if (cfg.showVillage && (!form.district_id || !form.taluka_id || !form.village_id)) {
@@ -2379,6 +2386,34 @@ export function MapReferenceSection() {
     });
     return `https://wa.me/918625801907?text=${encodeURIComponent(msg)}`;
   }, [lang, activeService, form, villageCentroid, drawnCoords, drawMode, plotCentroid, plotAreaSqm]);
+
+  /* Persist the inquiry as an admin lead (fire-and-forget) the moment the user
+   * taps WhatsApp. `keepalive` lets the POST finish even though a new tab opens.
+   * A save failure never blocks the WhatsApp hand-off. */
+  const saveLead = () => {
+    const gat =
+      form.plotNumber || form.gutNumber || form.surveyNumber || form.ctsNumber || form.khataNumber || "";
+    const payload = {
+      customer_name: form.customerName,
+      mobile: form.mobile,
+      service: SERVICE_LABELS.mr[activeService] ?? activeService,
+      district: form.district || undefined,
+      taluka: form.taluka || undefined,
+      village: form.village || form.localBody || undefined,
+      gat: gat || undefined,
+      note: form.note || undefined,
+    };
+    try {
+      void fetch("/api/inquiries", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+        keepalive: true,
+      }).catch(() => {});
+    } catch {
+      /* ignore — WhatsApp hand-off must not depend on the save */
+    }
+  };
 
   /**
    * Generic form updater. We cast the resulting object back to FormData
@@ -2593,6 +2628,36 @@ export function MapReferenceSection() {
                   <Info className="mt-0.5 size-3.5 shrink-0 text-blue-500" />
                   {tx.tabsHelper}
                 </p>
+              </div>
+
+              {/* ── Contact (name + mobile) — required so the inquiry is saved
+                   as an actionable lead in the admin panel ── */}
+              <div className="mb-5 grid grid-cols-1 gap-3 sm:grid-cols-2">
+                <div>
+                  <label className="mb-1.5 block text-sm font-bold text-slate-700">
+                    {lang === "mr" ? "तुमचं नाव *" : "Your name *"}
+                  </label>
+                  <input
+                    type="text"
+                    value={form.customerName}
+                    onChange={(e) => updateForm("customerName", e.target.value)}
+                    placeholder={lang === "mr" ? "उदा. रमेश पाटील" : "e.g. Ramesh Patil"}
+                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                  />
+                </div>
+                <div>
+                  <label className="mb-1.5 block text-sm font-bold text-slate-700">
+                    {lang === "mr" ? "मोबाइल नंबर *" : "Mobile number *"}
+                  </label>
+                  <input
+                    type="text"
+                    inputMode="tel"
+                    value={form.mobile}
+                    onChange={(e) => updateForm("mobile", e.target.value)}
+                    placeholder={lang === "mr" ? "10-अंकी क्रमांक" : "10-digit number"}
+                    className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+                  />
+                </div>
               </div>
 
               <div className="space-y-4">
@@ -2952,6 +3017,7 @@ export function MapReferenceSection() {
                   href={waHref}
                   target="_blank"
                   rel="noopener noreferrer"
+                  onClick={saveLead}
                   className="mt-6 inline-flex h-12 w-full items-center justify-center gap-2 rounded-md bg-green-600 text-base font-black text-white shadow-sm transition hover:bg-green-700"
                 >
                   <MessageCircle className="size-5" />
