@@ -9,7 +9,10 @@
 
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
-import { COOKIE_NAME, tokenFor, type LoginState } from "./auth";
+import { revalidatePath } from "next/cache";
+import { COOKIE_NAME, isAuthed, tokenFor, type LoginState } from "./auth";
+import { deleteInquiry, updateInquiryStatus } from "@/lib/inquiries";
+import { asStatus } from "@/lib/inquiry-status";
 
 const TWELVE_HOURS = 60 * 60 * 12;
 
@@ -36,4 +39,18 @@ export async function logoutAction(): Promise<void> {
   const store = await cookies();
   store.delete({ name: COOKIE_NAME, path: "/admin" });
   redirect("/admin/land-reports");
+}
+
+/** Set a lead's status. Admin-gated; refreshes the list on success. */
+export async function setLeadStatus(id: string, status: string): Promise<void> {
+  if (!(await isAuthed())) return;
+  await updateInquiryStatus(id, asStatus(status));
+  revalidatePath("/admin/land-reports");
+}
+
+/** Delete a lead. Admin-gated; refreshes the list on success. */
+export async function removeLead(id: string): Promise<void> {
+  if (!(await isAuthed())) return;
+  await deleteInquiry(id);
+  revalidatePath("/admin/land-reports");
 }

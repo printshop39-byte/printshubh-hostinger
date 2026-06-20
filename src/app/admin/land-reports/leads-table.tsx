@@ -1,14 +1,17 @@
 "use client";
 
 /**
- * Interactive client leads table. Each row is collapsed to a one-line summary;
- * clicking it expands the full inquiry detail inline with immediate actions
- * (WhatsApp reply + call), so the admin can act without leaving the list.
+ * Interactive client leads table. Each row collapses to a one-line summary with
+ * a status badge; clicking expands full detail with immediate actions —
+ * WhatsApp reply, call, status change (new/pending/process/complete) and delete.
+ * Mutations go through admin-gated server actions that revalidate the list.
  */
 
-import { useState } from "react";
-import { ChevronDown, MessageCircle, Phone } from "lucide-react";
+import { useState, useTransition } from "react";
+import { ChevronDown, MessageCircle, Phone, Trash2 } from "lucide-react";
 import type { Inquiry } from "@/lib/inquiries";
+import { INQUIRY_STATUSES, STATUS_META, asStatus } from "@/lib/inquiry-status";
+import { removeLead, setLeadStatus } from "./actions";
 
 function intlMobile(m: string): string {
   const d = m.replace(/\D/g, "");
@@ -39,6 +42,7 @@ function fmtTime(iso: string): string {
 
 export function LeadsTable({ rows }: { rows: Inquiry[] }) {
   const [openId, setOpenId] = useState<string | null>(null);
+  const [pending, startTransition] = useTransition();
 
   if (rows.length === 0) {
     return (
@@ -49,9 +53,11 @@ export function LeadsTable({ rows }: { rows: Inquiry[] }) {
   }
 
   return (
-    <div className="divide-y divide-slate-100">
+    <div className={`divide-y divide-slate-100 ${pending ? "opacity-60" : ""}`}>
       {rows.map((i) => {
         const open = openId === i.id;
+        const status = asStatus(i.status);
+        const meta = STATUS_META[status];
         return (
           <div key={i.id}>
             <button
@@ -60,10 +66,12 @@ export function LeadsTable({ rows }: { rows: Inquiry[] }) {
               aria-expanded={open}
               className="flex w-full items-center gap-3 px-2 py-3 text-left transition hover:bg-slate-50"
             >
+              <span className={`hidden size-2 shrink-0 rounded-full sm:block ${meta.dot}`} aria-hidden="true" />
               <div className="min-w-0 flex-1">
                 <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
                   <span className="font-bold text-slate-800">{i.customer_name}</span>
                   <span className="text-[12px] font-semibold text-slate-500">{i.mobile}</span>
+                  <span className={`rounded-full px-2 py-0.5 text-[10px] font-black ${meta.chip}`}>{meta.label}</span>
                 </div>
                 <div className="truncate text-[12px] text-slate-500">
                   {(i.service ?? "—")} · {placeOf(i)}
@@ -92,7 +100,32 @@ export function LeadsTable({ rows }: { rows: Inquiry[] }) {
                   </p>
                 ) : null}
 
-                <div className="mt-3 flex flex-wrap gap-2">
+                {/* Status setter */}
+                <div className="mt-3">
+                  <span className="mb-1.5 block text-[11px] font-bold uppercase tracking-wide text-slate-400">स्थिती</span>
+                  <div className="flex flex-wrap gap-1.5">
+                    {INQUIRY_STATUSES.map((s) => {
+                      const active = s === status;
+                      const m = STATUS_META[s];
+                      return (
+                        <button
+                          key={s}
+                          type="button"
+                          disabled={pending}
+                          onClick={() => startTransition(() => setLeadStatus(i.id, s))}
+                          className={`rounded-md px-2.5 py-1.5 text-[12px] font-bold transition disabled:opacity-50 ${
+                            active ? `${m.chip} ring-2 ring-offset-1 ring-current` : "border border-slate-300 bg-white text-slate-600 hover:bg-slate-50"
+                          }`}
+                        >
+                          {m.label}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+
+                {/* Actions */}
+                <div className="mt-4 flex flex-wrap gap-2">
                   <a
                     href={clientWhatsApp(i)}
                     target="_blank"
@@ -107,6 +140,18 @@ export function LeadsTable({ rows }: { rows: Inquiry[] }) {
                   >
                     <Phone className="size-4" /> कॉल करा
                   </a>
+                  <button
+                    type="button"
+                    disabled={pending}
+                    onClick={() => {
+                      if (window.confirm(`"${i.customer_name}" ची चौकशी कायमची काढायची?`)) {
+                        startTransition(() => removeLead(i.id));
+                      }
+                    }}
+                    className="ml-auto inline-flex items-center gap-1.5 rounded-md border border-red-200 px-3 py-2 text-[13px] font-bold text-red-700 transition hover:bg-red-50 disabled:opacity-50"
+                  >
+                    <Trash2 className="size-4" /> काढा
+                  </button>
                 </div>
               </div>
             )}

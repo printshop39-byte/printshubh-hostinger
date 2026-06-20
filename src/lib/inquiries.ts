@@ -64,6 +64,37 @@ export async function insertInquiry(input: InquiryInput): Promise<{ ok: boolean;
   }
 }
 
+/** Update one inquiry's status (admin-only — callers must auth first). */
+export async function updateInquiryStatus(id: string, status: string): Promise<{ ok: boolean }> {
+  if (!inquiriesConfigured()) return { ok: false };
+  try {
+    const res = await fetch(`${restUrl()}?id=eq.${encodeURIComponent(id)}`, {
+      method: "PATCH",
+      headers: { ...authHeaders(), Prefer: "return=minimal" },
+      body: JSON.stringify({ status }),
+      cache: "no-store",
+    });
+    return { ok: res.ok };
+  } catch {
+    return { ok: false };
+  }
+}
+
+/** Delete one inquiry (admin-only — callers must auth first). */
+export async function deleteInquiry(id: string): Promise<{ ok: boolean }> {
+  if (!inquiriesConfigured()) return { ok: false };
+  try {
+    const res = await fetch(`${restUrl()}?id=eq.${encodeURIComponent(id)}`, {
+      method: "DELETE",
+      headers: { ...authHeaders(), Prefer: "return=minimal" },
+      cache: "no-store",
+    });
+    return { ok: res.ok };
+  } catch {
+    return { ok: false };
+  }
+}
+
 /** Newest-first list of inquiries for the admin panel. Returns [] on any error. */
 export async function listInquiries(limit = 200): Promise<Inquiry[]> {
   if (!inquiriesConfigured()) return [];
