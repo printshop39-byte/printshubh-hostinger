@@ -1159,6 +1159,7 @@ export function BhuNakshaOverlayTool() {
   }, []);
 
   const toggleMarkMode = useCallback(() => {
+    setTransformMode("pan");
     setMarkMode((m) => !m);
     setGcpArmId(null);
     if (drawModeRef.current === "drawing") setDrawMode("idle");
@@ -1178,7 +1179,9 @@ export function BhuNakshaOverlayTool() {
     patchCase({ status: "overlay_done" });
   }, [rebuildFromParams, patchCase]);
 
-  const startDraw = () => { setMarkMode(false); setGcpArmId(null); setDrawnCoords([]); setDrawMode("drawing"); };
+  // Switch to "pan" so overlay handles / move-drag stop intercepting map clicks
+  // while drawing or marking (mode-conflict fix — these are separate gestures).
+  const startDraw = () => { setTransformMode("pan"); setMarkMode(false); setGcpArmId(null); setDrawnCoords([]); setDrawMode("drawing"); };
   const finishDraw = () => { if (drawnCoords.length >= 3) setDrawMode("done"); };
   const clearDraw = () => { setDrawnCoords([]); setDrawMode("idle"); patchCase({ drawnBoundary: undefined }); };
 
@@ -1235,6 +1238,7 @@ export function BhuNakshaOverlayTool() {
 
   /* ── Control-point georeferencing (multi-reference alignment) ── */
   const addImagePoint = useCallback((px: [number, number]) => {
+    setTransformMode("pan");
     const id = globalThis.crypto?.randomUUID?.() ?? `gcp-${Date.now()}`;
     setGcps((prev) => [...prev, { id, imagePoint: px }]);
     setGcpArmId(id); // immediately wait for the matching map click
@@ -1243,6 +1247,7 @@ export function BhuNakshaOverlayTool() {
   }, []);
 
   const armGcpMap = useCallback((id: string) => {
+    setTransformMode("pan");
     setGcpArmId(id);
     setMarkMode(false);
     if (drawModeRef.current === "drawing") setDrawMode("idle");
