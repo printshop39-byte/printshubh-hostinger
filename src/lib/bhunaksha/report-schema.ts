@@ -9,6 +9,7 @@
  */
 
 import type { Lang } from "@/components/language-context";
+import { bearingDistance, lngLatToUTM, quadrantBearing } from "./projection";
 
 /* ── Overlay configuration (saved per case) ─────────────────────────────────── */
 export type BhuNakshaOverlayConfig = {
@@ -507,6 +508,35 @@ export function buildReportHtml(
     ? `<tr><th>${esc(t("शेजारी गट नंबर", "Neighbor survey numbers"))}</th><td>${neighbors.map((n) => esc(n.label || "—")).join(", ")}</td></tr>`
     : "";
 
+  // CAD-style survey traverse: per-node lat/long + UTM, plus bearing & distance
+  // to the next node (closed polygon, last → first).
+  let nodeSection = "";
+  if (b && b.coordinates.length >= 3) {
+    const pts = b.coordinates as [number, number][];
+    const utm = pts.map(([lng, lat]) => lngLatToUTM(lng, lat));
+    const zone = utm[0]?.zone;
+    const nodeRows = pts
+      .map(([lng, lat], i) => {
+        const u = utm[i];
+        const next = utm[(i + 1) % utm.length];
+        const leg = bearingDistance(u, next);
+        return `<tr><td>P${i + 1}</td><td>${lat.toFixed(6)}</td><td>${lng.toFixed(6)}</td><td>${u.easting.toFixed(
+          2,
+        )}</td><td>${u.northing.toFixed(2)}</td><td>${quadrantBearing(leg.bearingDeg)}</td><td>${leg.distanceM.toFixed(
+          2,
+        )}</td></tr>`;
+      })
+      .join("");
+    nodeSection =
+      `<div class="section">${esc(t("सर्वेक्षण निर्देशांक (UTM)", "Survey coordinates (UTM)"))}` +
+      `<span class="muted"> — ${esc(t("झोन", "Zone"))} ${zone}N · WGS84</span></div>` +
+      `<table class="nodes"><thead><tr>` +
+      `<th>${esc(t("बिंदू", "Node"))}</th><th>Lat</th><th>Long</th>` +
+      `<th>${esc(t("पूर्व (m)", "Easting (m)"))}</th><th>${esc(t("उत्तर (m)", "Northing (m)"))}</th>` +
+      `<th>${esc(t("दिशा→पुढील", "Bearing→next"))}</th><th>${esc(t("अंतर (m)", "Dist (m)"))}</th>` +
+      `</tr></thead><tbody>${nodeRows}</tbody></table>`;
+  }
+
   const ownerRows =
     c.includeOwnerDetailsInReport && (c.ownerName || c.khataNumber)
       ? row(t("मालक", "Owner"), c.ownerName) + row(t("खाता नंबर", "Khata No."), c.khataNumber)
@@ -528,6 +558,9 @@ export function buildReportHtml(
   table { width: 100%; border-collapse: collapse; margin: 8px 0 14px; }
   th, td { text-align: left; vertical-align: top; padding: 5px 8px; border: 1px solid #e2e8f0; font-size: 12px; }
   th { width: 38%; background: #f8fafc; font-weight: 700; color: #334155; }
+  table.nodes th, table.nodes td { width: auto; font-size: 10.5px; padding: 3px 6px; text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  table.nodes th { text-align: right; background: #f1f5f9; }
+  table.nodes td:first-child, table.nodes th:first-child { text-align: left; font-weight: 700; }
   .map { width: 100%; max-height: 360px; object-fit: contain; border: 1px solid #cbd5e1; border-radius: 6px; }
   .muted { color:#94a3b8; font-size:12px; }
   .section { font-size: 13px; font-weight: 800; margin: 12px 0 4px; color:#1e293b; }
@@ -540,6 +573,7 @@ export function buildReportHtml(
   <div class="section">${esc(t("तपशील", "Details"))}</div>
   <table>${detailRows}${neighborList}${ownerRows}</table>
   ${dimRows ? `<div class="section">${esc(t("सीमा परिमाणे", "Boundary dimensions"))}</div><table>${dimRows}</table>` : ""}
+  ${nodeSection}
   <div class="section">${esc(t("नकाशा", "Map"))}</div>
   ${img}
   <div class="disclaimer">${esc(OVERLAY_DISCLAIMER[lang])}</div>
