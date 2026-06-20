@@ -237,6 +237,26 @@ const T = {
   saved: { mr: "Case localStorage मध्ये सेव्ह होते (Phase 1).", en: "Case is saved to localStorage (Phase 1)." },
 };
 
+/**
+ * Seed the case's contact/location from a lead handoff — the admin "GIS अहवाल
+ * बनवा" button links here with ?name=&mobile=&district=&taluka=&village=&gat=
+ * &service=, so the overlay starts with the customer's details pre-filled.
+ */
+function applyLeadParams(base: LandReportCase): LandReportCase {
+  if (typeof window === "undefined") return base;
+  const p = new URLSearchParams(window.location.search);
+  const get = (k: string) => p.get(k)?.trim() || "";
+  const seed: Partial<LandReportCase> = {};
+  if (get("name")) seed.customerName = get("name");
+  if (get("mobile")) seed.mobile = get("mobile");
+  if (get("service")) seed.serviceType = get("service");
+  if (get("district")) seed.district = get("district");
+  if (get("taluka")) seed.taluka = get("taluka");
+  if (get("village")) seed.villageOrCity = get("village");
+  if (get("gat")) seed.gatSurveyPlotCts = get("gat");
+  return Object.keys(seed).length ? { ...base, ...seed, updatedAt: new Date().toISOString() } : base;
+}
+
 export function BhuNakshaOverlayTool() {
   const { lang, setLang } = useLang();
 
@@ -307,7 +327,7 @@ export function BhuNakshaOverlayTool() {
       loaded = null;
     }
     const now = new Date().toISOString();
-    const c = loaded ?? createEmptyCase("case-local", now);
+    const c = applyLeadParams(loaded ?? createEmptyCase("case-local", now));
     /* eslint-disable react-hooks/set-state-in-effect */
     setCaseData(c);
     if (c.drawnBoundary?.coordinates?.length) {

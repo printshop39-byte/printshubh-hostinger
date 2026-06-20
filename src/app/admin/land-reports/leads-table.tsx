@@ -8,7 +8,7 @@
  */
 
 import { useState, useTransition } from "react";
-import { ChevronDown, MessageCircle, Phone, Trash2 } from "lucide-react";
+import { ChevronDown, Map as MapIcon, MessageCircle, Phone, Trash2 } from "lucide-react";
 import type { Inquiry } from "@/lib/inquiries";
 import { INQUIRY_STATUSES, STATUS_META, asStatus } from "@/lib/inquiry-status";
 import { removeLead, setLeadStatus } from "./actions";
@@ -25,6 +25,19 @@ function clientWhatsApp(i: Inquiry): string {
 
 function placeOf(i: Inquiry): string {
   return [i.village, i.taluka, i.district].filter(Boolean).join(", ") || "—";
+}
+
+/** Open the GIS overlay tool pre-filled with this lead's contact + location. */
+function gisReportHref(i: Inquiry): string {
+  const p = new URLSearchParams();
+  p.set("name", i.customer_name);
+  p.set("mobile", i.mobile);
+  if (i.service) p.set("service", i.service);
+  if (i.district) p.set("district", i.district);
+  if (i.taluka) p.set("taluka", i.taluka);
+  if (i.village) p.set("village", i.village);
+  if (i.gat) p.set("gat", i.gat);
+  return `/admin/land-reports-gis?${p.toString()}`;
 }
 
 function fmtTime(iso: string): string {
@@ -139,6 +152,12 @@ export function LeadsTable({ rows }: { rows: Inquiry[] }) {
                     className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 bg-white px-3 py-2 text-[13px] font-bold text-slate-700 transition hover:bg-slate-50"
                   >
                     <Phone className="size-4" /> कॉल करा
+                  </a>
+                  <a
+                    href={gisReportHref(i)}
+                    className="inline-flex items-center gap-1.5 rounded-md bg-blue-600 px-3 py-2 text-[13px] font-bold text-white transition hover:bg-blue-700"
+                  >
+                    <MapIcon className="size-4" /> GIS अहवाल बनवा
                   </a>
                   <button
                     type="button"
