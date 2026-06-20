@@ -38,7 +38,7 @@ const L = {
   empty: { mr: "अजून control points नाहीत.", en: "No control points yet." },
   pairs: { mr: "पूर्ण pairs", en: "Complete pairs" },
   apply: { mr: "Georeference apply करा", en: "Apply georeference" },
-  guidance: { mr: "2 = similarity · 3+ = affine (least-squares).", en: "2 = similarity · 3+ = affine (least-squares)." },
+  guidance: { mr: "2 = similarity · 3 = affine · 4+ = projective (perspective).", en: "2 = similarity · 3 = affine · 4+ = projective (perspective)." },
   accuracy: { mr: "अचूकता", en: "Accuracy" },
   method: { mr: "पद्धत", en: "Method" },
   rms: { mr: "RMS त्रुटी", en: "RMS error" },

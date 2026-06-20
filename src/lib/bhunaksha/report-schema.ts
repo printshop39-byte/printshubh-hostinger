@@ -72,7 +72,7 @@ export type BhuNakshaOverlayConfig = {
 
   // ── Alignment quality (Priority 2 — multi-reference georeferencing) ──
   /** How the current corners were produced. */
-  alignmentMethod?: "manual" | "similarity" | "affine";
+  alignmentMethod?: "manual" | "similarity" | "affine" | "projective";
   /** RMS residual of the control-point fit, in metres (lower = tighter). */
   alignmentRmsMeters?: number;
   /** Derived accuracy score 0–100 (see `accuracyScore`). */

@@ -294,15 +294,14 @@ export function parseLatLngFromGoogleMapsUrl(input: string): LngLat | null {
  * transform that maps the BhuNaksha image into map space, then project the four
  * image corners through it to get the overlay's corner coordinates:
  *   - 2 points → similarity (translate + uniform scale + rotation),
- *   - 3+ points → affine (adds shear/aspect; least-squares over all points).
+ *   - 3 points → affine (adds shear/aspect; least-squares over all points),
+ *   - 4+ points → projective homography (corrects perspective/keystone).
  * The RMS of the residuals (predicted vs. actual map position, in metres) feeds
  * the alignment accuracy score. This is a real least-squares georeference — not
- * the earlier centroid heuristic in `suggestOverlayPlacement`.
- *
- * 4-point perspective/homography is intentionally left for a later pass. */
+ * the earlier centroid heuristic in `suggestOverlayPlacement`. */
 
 export type GroundControlPoint = { imagePoint: LngLat; mapLngLat: LngLat };
-export type AlignMethod = "similarity" | "affine";
+export type AlignMethod = "similarity" | "affine" | "projective";
 
 /** Local east/north metres relative to an origin lng/lat (small-area planar). */
 function lngLatToLocalMeters(p: LngLat, origin: LngLat): [number, number] {
@@ -382,6 +381,40 @@ function solveAffine(src: [number, number][], dst: [number, number][]): Transfor
   return ([x, y]) => [px[0] * x + px[1] * y + px[2], py[0] * x + py[1] * y + py[2]];
 }
 
+/**
+ * 8-parameter projective homography least-squares (image px → dst metres).
+ * Unlike affine (which preserves parallelism → only a parallelogram), a
+ * homography maps the image rectangle to an arbitrary quad, so it corrects
+ * perspective / keystone distortion in tilted or photographed scans. Needs ≥4
+ * non-collinear points. h8 is fixed to 1; per point two DLT rows:
+ *   h0·x + h1·y + h2 − h6·x·X − h7·y·X = X
+ *   h3·x + h4·y + h5 − h6·x·Y − h7·y·Y = Y
+ */
+function solveHomography(src: [number, number][], dst: [number, number][]): Transform | null {
+  const ATA = Array.from({ length: 8 }, () => new Array(8).fill(0));
+  const ATb = new Array(8).fill(0);
+  const addRow = (coef: number[], rhs: number) => {
+    for (let i = 0; i < 8; i++) {
+      ATb[i] += coef[i] * rhs;
+      for (let j = 0; j < 8; j++) ATA[i][j] += coef[i] * coef[j];
+    }
+  };
+  for (let k = 0; k < src.length; k++) {
+    const [x, y] = src[k];
+    const [X, Y] = dst[k];
+    addRow([x, y, 1, 0, 0, 0, -x * X, -y * X], X);
+    addRow([0, 0, 0, x, y, 1, -x * Y, -y * Y], Y);
+  }
+  const h = solveLinearSystem(ATA, ATb);
+  if (!h) return null;
+  const [h0, h1, h2, h3, h4, h5, h6, h7] = h;
+  return ([x, y]) => {
+    const w = h6 * x + h7 * y + 1;
+    if (Math.abs(w) < 1e-12) return [x, y];
+    return [(h0 * x + h1 * y + h2) / w, (h3 * x + h4 * y + h5) / w];
+  };
+}
+
 export type GeorefResult = {
   corners: Corners;
   method: AlignMethod;
@@ -406,15 +439,17 @@ export function georeferenceImage(
   ];
   const src = gcps.map((g) => srcConv(g.imagePoint));
   const dst = gcps.map((g) => lngLatToLocalMeters(g.mapLngLat, origin));
-  const method: AlignMethod = gcps.length >= 3 ? "affine" : "similarity";
-  const tf = method === "affine" ? solveAffine(src, dst) : solveSimilarity(src, dst);
-  if (!tf) {
-    // Collinear points break affine — fall back to similarity.
-    const sim = solveSimilarity(src, dst);
-    if (!sim) return null;
-    return finishGeoref(sim, "similarity", gcps, src, dst, origin, imgW, imgH);
-  }
-  return finishGeoref(tf, method, gcps, src, dst, origin, imgW, imgH);
+  // 4+ pts → projective (perspective correction); 3 → affine; 2 → similarity.
+  const method: AlignMethod = gcps.length >= 4 ? "projective" : gcps.length >= 3 ? "affine" : "similarity";
+  const tf =
+    method === "projective" ? solveHomography(src, dst) : method === "affine" ? solveAffine(src, dst) : solveSimilarity(src, dst);
+  if (tf) return finishGeoref(tf, method, gcps, src, dst, origin, imgW, imgH);
+  // Degenerate (e.g. collinear) → step down to the next simplest model.
+  const affine = gcps.length >= 3 ? solveAffine(src, dst) : null;
+  if (affine) return finishGeoref(affine, "affine", gcps, src, dst, origin, imgW, imgH);
+  const sim = solveSimilarity(src, dst);
+  if (!sim) return null;
+  return finishGeoref(sim, "similarity", gcps, src, dst, origin, imgW, imgH);
 }
 
 function finishGeoref(
