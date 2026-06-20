@@ -218,6 +218,11 @@ const T = {
   drawStart: { mr: "प्लॉट सीमा मार्क करा", en: "Mark plot boundary" },
   drawFinish: { mr: "पूर्ण करा", en: "Finish" },
   drawClear: { mr: "साफ करा", en: "Clear" },
+  eraseAll: { mr: "सर्व पुसा", en: "Erase all" },
+  eraseAllConfirm: {
+    mr: "सर्व काढलेली सीमा व संदर्भ बिंदू पुसायचे? (भूनकाशा फाईल व केस तपशील राहतील)",
+    en: "Erase all drawn boundary and reference points? (BhuNaksha file and case details are kept)",
+  },
   drawHint: { mr: "✏️ दाबा, points क्लिक करा, double-click ने पूर्ण.", en: "Tap ✏️, click points, double-click to finish." },
   hintPan: { mr: "नकाशा drag करून हलवा (zoom/pan चालू).", en: "Drag to pan the map (zoom/pan stay active)." },
   hintMove: { mr: "Overlay drag करा.", en: "Drag to move the overlay." },
@@ -1166,6 +1171,20 @@ export function BhuNakshaOverlayTool() {
   const finishDraw = () => { if (drawnCoords.length >= 3) setDrawMode("done"); };
   const clearDraw = () => { setDrawnCoords([]); setDrawMode("idle"); patchCase({ drawnBoundary: undefined }); };
 
+  /* Reset Workspace — wipe every temporary marking (drawn boundary, reference
+   * points, control points) in one click, no page reload. The uploaded overlay
+   * and case details are kept. State changes cascade to the render effects,
+   * which clear the MapLibre GeoJSON sources + markers automatically. */
+  const resetWorkspace = useCallback(() => {
+    if (typeof window !== "undefined" && !window.confirm(T.eraseAllConfirm[lang])) return;
+    setDrawnCoords([]);
+    setDrawMode("idle");
+    setMarkMode(false);
+    setGcpArmId(null);
+    setGcps([]);
+    setCaseData((prev) => ({ ...prev, drawnBoundary: undefined, referencePoints: [], updatedAt: new Date().toISOString() }));
+  }, [lang]);
+
   /* Reshape the plot boundary to the overlay's four corners (inverse of
    * fitBoundary, which fits the overlay to the boundary). Useful when the
    * overlay has been aligned first and the boundary should match it. */
@@ -1431,6 +1450,9 @@ export function BhuNakshaOverlayTool() {
               </button>
               <button type="button" onClick={clearDraw} disabled={drawnCoords.length === 0 && drawMode === "idle"} className="inline-flex items-center gap-1.5 border-l border-slate-200 px-3 py-2 text-xs font-bold text-slate-700 transition hover:bg-slate-50 disabled:text-slate-300">
                 <Eraser className="size-3.5" /> {T.drawClear[lang]}
+              </button>
+              <button type="button" onClick={resetWorkspace} disabled={drawnCoords.length === 0 && (caseData.referencePoints?.length ?? 0) === 0 && gcps.length === 0} className="inline-flex items-center gap-1.5 border-l border-slate-200 px-3 py-2 text-xs font-bold text-red-600 transition hover:bg-red-50 disabled:text-slate-300">
+                <Trash2 className="size-3.5" /> {T.eraseAll[lang]}
               </button>
             </div>
 
