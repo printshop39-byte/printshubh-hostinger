@@ -14,10 +14,16 @@ interface Category {
   labelEn: string;
   labelMr: string;
 }
+interface ZoneRR {
+  en: string;
+  mr: string;
+  survey?: string;
+  rates: Record<string, number>;
+}
 interface TalukaRR {
   en: string;
   mr: string;
-  rates: Record<string, number>;
+  zones: ZoneRR[];
 }
 interface ReadyReckonerFile {
   sample?: boolean;
@@ -40,7 +46,7 @@ export const readyReckonerFaqMr: Array<{ q: string; a: string }> = [
   },
   {
     q: "रेडी रेकनर दर झोननिहाय का असतात?",
-    a: "एका तालुक्यात किंवा शहरात वेगवेगळ्या भागांचे (झोन) दर वेगळे असतात — मुख्य रस्त्यालगत जास्त, आतल्या भागात कमी. अधिकृत ASR मध्ये प्रत्येक झोनसाठी स्वतंत्र दर असतो. हे साधन सध्या तालुक्यासाठी एक प्रातिनिधिक दर दाखवते.",
+    a: "एका तालुक्यात किंवा शहरात वेगवेगळ्या भागांचे (झोन) दर वेगळे असतात — मुख्य रस्त्यालगत जास्त, आतल्या भागात कमी. अधिकृत ASR मध्ये प्रत्येक झोनसाठी (गाव + सर्व्हे/CTS श्रेणी) स्वतंत्र दर असतो. हे साधन तालुका → गाव/झोन निवडून दर दाखवते; तुम्ही गरजेनुसार अधिक झोन भरू शकता.",
   },
   {
     q: "मूल्य कसे मोजले जाते?",
@@ -59,7 +65,7 @@ const readyReckonerFaqEn: Array<{ q: string; a: string }> = [
   },
   {
     q: "Why are Ready Reckoner rates zone-wise?",
-    a: "Within a taluka or city, different areas (zones) have different rates — higher along main roads, lower in interior areas. The official ASR lists a separate rate per zone. This tool currently shows one representative rate per taluka.",
+    a: "Within a taluka or city, different areas (zones) have different rates — higher along main roads, lower in interior areas. The official ASR lists a separate rate per zone (village + survey/CTS range). This tool lets you pick taluka → village/zone to see the rate, and you can add more zones as needed.",
   },
   {
     q: "How is the value calculated?",
@@ -84,6 +90,7 @@ function ReadyReckonerLookup() {
   const mr = lang === "mr";
   const [data, setData] = useState<ReadyReckonerFile | null>(null);
   const [talukaIdx, setTalukaIdx] = useState(0);
+  const [zoneIdx, setZoneIdx] = useState(0);
   const [category, setCategory] = useState("residentialBuiltup");
   const [area, setArea] = useState(100);
 
@@ -99,7 +106,11 @@ function ReadyReckonerLookup() {
   }, []);
 
   const taluka = data?.talukas[talukaIdx];
-  const rate = taluka?.rates[category] ?? 0;
+  // Zone index can go stale when the taluka changes (new taluka may have
+  // fewer zones), so clamp before indexing.
+  const safeZoneIdx = taluka ? Math.min(zoneIdx, taluka.zones.length - 1) : 0;
+  const zone = taluka?.zones[safeZoneIdx];
+  const rate = zone?.rates[category] ?? 0;
   const value = useMemo(() => rate * (area > 0 ? area : 0), [rate, area]);
 
   if (!data) {
@@ -110,12 +121,21 @@ function ReadyReckonerLookup() {
     <div className="space-y-6">
       {data.sample && <SampleBanner mr={mr} note={mr ? data.noteMr : data.note} />}
 
-      <div className="grid gap-5 sm:grid-cols-2">
+      <div className="grid gap-5 sm:grid-cols-3">
         <SelectField
           label={mr ? `तालुका (जिल्हा: ${data.district.mr})` : `Taluka (District: ${data.district.en})`}
           value={String(talukaIdx)}
-          onChange={(v) => setTalukaIdx(Number(v))}
+          onChange={(v) => {
+            setTalukaIdx(Number(v));
+            setZoneIdx(0);
+          }}
           options={data.talukas.map((t, i) => ({ value: String(i), label: mr ? t.mr : t.en }))}
+        />
+        <SelectField
+          label={mr ? "गाव / झोन" : "Village / zone"}
+          value={String(safeZoneIdx)}
+          onChange={(v) => setZoneIdx(Number(v))}
+          options={(taluka?.zones ?? []).map((z, i) => ({ value: String(i), label: mr ? z.mr : z.en }))}
         />
         <SelectField
           label={mr ? "वर्ग" : "Category"}
@@ -125,13 +145,20 @@ function ReadyReckonerLookup() {
         />
       </div>
 
-      {/* All four category rates for the selected taluka. */}
+      {zone?.survey && (
+        <p className="-mt-2 text-[12px] text-slate-500">
+          {mr ? "झोन संदर्भ: " : "Zone reference: "}
+          {zone.survey}
+        </p>
+      )}
+
+      {/* All four category rates for the selected zone. */}
       <div className="grid gap-3 sm:grid-cols-4">
         {data.categories.map((c) => (
           <ResultStat
             key={c.key}
             label={mr ? c.labelMr : c.labelEn}
-            value={`${formatINR(taluka?.rates[c.key] ?? 0)}/m²`}
+            value={`${formatINR(zone?.rates[c.key] ?? 0)}/m²`}
             emphasis={c.key === category}
           />
         ))}
@@ -205,6 +232,7 @@ function BodyMr() {
         <ServiceList
           items={[
             "तालुका निवडा (सध्या कोल्हापूर जिल्हा नमुना म्हणून).",
+            "गाव / झोन निवडा — खऱ्या ASR प्रमाणे दर झोननिहाय बदलतो.",
             "वर्ग निवडा — शेतजमीन, निवासी भूखंड, निवासी बांधकाम किंवा व्यापारी बांधकाम.",
             "क्षेत्रफळ (चौरस मीटर) टाका — अंदाजे मूल्य लगेच दिसते.",
             "हेच मूल्य मुद्रांक शुल्क कॅल्क्युलेटरमध्ये वापरा.",
@@ -233,6 +261,7 @@ function BodyEn() {
         <ServiceList
           items={[
             "Select a taluka (currently Kolhapur district as a sample).",
+            "Select a village / zone — like the real ASR, the rate varies by zone.",
             "Select a category — agricultural, residential plot, residential built-up or commercial.",
             "Enter the area in square metres — the estimated value updates instantly.",
             "Use the same value in the Stamp Duty calculator.",
