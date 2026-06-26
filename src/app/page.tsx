@@ -4,6 +4,7 @@ import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { PricingSection } from "@/components/pricing-section";
 import { MapReferenceSection } from "@/components/map-reference-client";
+import { ToolsSection } from "@/components/tools-section";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
@@ -54,6 +55,9 @@ export default function Home() {
         {/* Map-first hero — primary action visible right after the header:
             broad MapLibre finder + compact District→Taluka→Village form. */}
         <MapReferenceSection />
+
+        {/* Free calculators — customer-facing tools, also linked from the nav */}
+        <ToolsSection />
 
         {/* Transparent starting prices — kept lower on the page */}
         <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">

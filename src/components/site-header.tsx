@@ -15,6 +15,7 @@ const nav: Record<Lang, { label: string; href: string }[]> = {
   mr: [
     { label: "मुख्यपृष्ठ", href: "/" },
     { label: "सेवा", href: "/#services" },
+    { label: "साधने", href: "/#tools" },
     { label: "नकाशा संदर्भ", href: "/#map-reference" },
     { label: "मदत", href: "/support" },
     { label: "FAQ", href: "/faq" },
@@ -23,6 +24,7 @@ const nav: Record<Lang, { label: string; href: string }[]> = {
   en: [
     { label: "Home", href: "/" },
     { label: "Services", href: "/#services" },
+    { label: "Tools", href: "/#tools" },
     { label: "Map Reference", href: "/#map-reference" },
     { label: "Support", href: "/support" },
     { label: "FAQ", href: "/faq" },
