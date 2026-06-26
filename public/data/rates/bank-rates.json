@@ -1,0 +1,16 @@
+{
+  "effectiveFrom": "2026-06",
+  "note": "Indicative starting home-loan interest rates for comparison only. Actual rate depends on the bank's credit assessment, CIBIL score, loan amount, scheme (floating/fixed) and prevailing repo rate. Always confirm the current rate with the bank.",
+  "noteMr": "तुलनेसाठी अंदाजे सुरुवातीचे गृहकर्ज व्याजदर. प्रत्यक्ष दर बँकेच्या पतमूल्यांकन, CIBIL स्कोअर, कर्जरक्कम, योजना (फ्लोटिंग/फिक्स्ड) आणि चालू रेपो दरावर अवलंबून असतो. चालू दर बँकेकडून पडताळा.",
+  "banks": [
+    { "name": "State Bank of India", "nameMr": "स्टेट बँक ऑफ इंडिया (SBI)", "roiFrom": 8.4, "maxTenureYears": 30 },
+    { "name": "Bank of Maharashtra", "nameMr": "बँक ऑफ महाराष्ट्र", "roiFrom": 8.35, "maxTenureYears": 30 },
+    { "name": "HDFC Bank", "nameMr": "एचडीएफसी बँक", "roiFrom": 8.5, "maxTenureYears": 30 },
+    { "name": "ICICI Bank", "nameMr": "आयसीआयसीआय बँक", "roiFrom": 8.5, "maxTenureYears": 30 },
+    { "name": "Axis Bank", "nameMr": "अ‍ॅक्सिस बँक", "roiFrom": 8.6, "maxTenureYears": 30 },
+    { "name": "Punjab National Bank", "nameMr": "पंजाब नॅशनल बँक (PNB)", "roiFrom": 8.45, "maxTenureYears": 30 },
+    { "name": "Bank of Baroda", "nameMr": "बँक ऑफ बडोदा", "roiFrom": 8.4, "maxTenureYears": 30 },
+    { "name": "LIC Housing Finance", "nameMr": "एलआयसी हाउसिंग फायनान्स", "roiFrom": 8.5, "maxTenureYears": 30 },
+    { "name": "Kotak Mahindra Bank", "nameMr": "कोटक महिंद्रा बँक", "roiFrom": 8.65, "maxTenureYears": 25 }
+  ]
+}

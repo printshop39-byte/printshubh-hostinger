@@ -36,6 +36,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/e-ferfar-maharashtra/`,        lastModified, changeFrequency: "monthly", priority: 0.8 },
     { url: `${SITE_URL}/jameen-report-maharashtra/`,   lastModified, changeFrequency: "monthly", priority: 0.8 },
 
+    /* Finance / property tools */
+    { url: `${SITE_URL}/home-loan-emi/`,               lastModified, changeFrequency: "monthly", priority: 0.7 },
+
     /* Trust / support pages */
     { url: `${SITE_URL}/about`,      lastModified, changeFrequency: "monthly", priority: 0.7 },
     { url: `${SITE_URL}/contact`,    lastModified, changeFrequency: "monthly", priority: 0.7 },
