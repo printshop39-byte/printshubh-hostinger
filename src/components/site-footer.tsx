@@ -68,7 +68,7 @@ const tx: Record<
     quick: [
       { label: "7/12 उतारा", href: "/#services" },
       { label: "8A उतारा", href: "/#services" },
-      { label: "गाव नकाशा", href: "/#map-reference" },
+      { label: "गाव नकाशा", href: "/nakasha-shodh" },
       { label: "TP / DP नकाशा", href: "/#services" },
       { label: "मिळकत पत्रिका", href: "/#services" },
       { label: "ई-फेरफार", href: "/#services" },
@@ -104,7 +104,7 @@ const tx: Record<
     quick: [
       { label: "7/12 Extract", href: "/#services" },
       { label: "8A Extract", href: "/#services" },
-      { label: "Village Map", href: "/#map-reference" },
+      { label: "Village Map", href: "/nakasha-shodh" },
       { label: "TP / DP Map", href: "/#services" },
       { label: "Property Card", href: "/#services" },
       { label: "eFerfar / Mutation", href: "/#services" },

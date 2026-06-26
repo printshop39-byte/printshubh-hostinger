@@ -40,7 +40,7 @@ const t: Record<Lang, {
       "अधिकृत स्रोतांवर आधारित डिजिटल सेवा",
     ],
     whatsappMessage: "मला जमीन कागदपत्र सेवेसाठी मदत हवी आहे",
-    cta1Href: "#map-reference",
+    cta1Href: "#services",
     govDisclaimer:
       "PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित खाजगी सहाय्य सेवा प्रदान करतो.",
   },
@@ -60,7 +60,7 @@ const t: Record<Lang, {
       "Digital Service Based on Official Sources",
     ],
     whatsappMessage: "I need help with land document services",
-    cta1Href: "#map-reference",
+    cta1Href: "#services",
     govDisclaimer:
       "PrintShubh is not a government website. We provide private assistance based on official/public sources.",
   },

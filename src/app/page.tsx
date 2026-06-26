@@ -2,15 +2,17 @@ import type { Metadata } from "next";
 import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
+import { HeroContent } from "@/components/hero-content";
+import { ServicesGrid } from "@/components/services-grid";
 import { PricingSection } from "@/components/pricing-section";
-import { MapReferenceSection } from "@/components/map-reference-client";
 import { ToolsSection } from "@/components/tools-section";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
-/* Map-first homepage: the MapReferenceSection (land/survey map-reference search
- * + compact District→Taluka→Village form) is the hero. The old marketing hero
- * and the services grid have been removed; pricing stays lower on the page. */
+/* Simple marketing homepage: hero → services list → free tools → pricing.
+ * The MapLibre map-reference finder is intentionally NOT the hero anymore —
+ * visitors found leading with the map confusing — it now lives on its own
+ * /nakasha-shodh page, linked from the nav. */
 
 /* ── Homepage metadata ──────────────────────────────────────────────────
  *
@@ -52,9 +54,11 @@ export default function Home() {
       <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] text-slate-900">
         <LandingAnimations />
 
-        {/* Map-first hero — primary action visible right after the header:
-            broad MapLibre finder + compact District→Taluka→Village form. */}
-        <MapReferenceSection />
+        {/* Simple hero — headline, trust strip + WhatsApp / "choose service" CTAs */}
+        <HeroContent />
+
+        {/* Services list — digital documents + maps/plans (the primary content) */}
+        <ServicesGrid />
 
         {/* Free calculators — customer-facing tools, also linked from the nav */}
         <ToolsSection />
