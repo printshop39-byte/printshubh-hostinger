@@ -1,44 +1,283 @@
 {
   "sample": true,
   "effectiveFrom": "2026-04 (SAMPLE — not official ASR)",
-  "district": { "en": "Kolhapur", "mr": "कोल्हापूर" },
-  "note": "SAMPLE / PLACEHOLDER rates per square metre for demonstration only. Real ASR rates are ZONE-WISE within a taluka — identified by village name and survey/CTS-number range on the IGR e-ASR portal. Replace each zone's values (and add more zones) with the official Annual Statement of Rates before relying on it. To fill real data: e-ASR portal → year → Kolhapur → taluka → village → read the rate.",
-  "noteMr": "ही केवळ नमुना आकडेवारी आहे (प्रति चौरस मीटर). खरे ASR दर तालुक्यातील झोननिहाय (गाव + सर्व्हे/CTS नंबर श्रेणी) असतात — IGR e-ASR portal वर मिळतात. वापरण्यापूर्वी प्रत्येक झोनचे अधिकृत दर भरा आणि गरजेनुसार झोन वाढवा.",
+  "district": {
+    "en": "Kolhapur",
+    "mr": "कोल्हापूर"
+  },
+  "note": "SAMPLE / PLACEHOLDER rates per square metre. Real ASR rates are zone-wise (village + survey/CTS range) on the IGR e-ASR portal. Edit data-source CSV and run `npm run build-asr` to update; pass --official once real rates are in.",
+  "noteMr": "ही नमुना आकडेवारी आहे (प्रति चौरस मीटर). खरे ASR दर झोननिहाय असतात — IGR e-ASR portal वर. CSV संपादित करून `npm run build-asr` चालवा.",
   "source": "https://easr.igrmaharashtra.gov.in/",
   "categories": [
-    { "key": "agricultural", "labelEn": "Agricultural land", "labelMr": "शेतजमीन" },
-    { "key": "residentialPlot", "labelEn": "Residential open plot", "labelMr": "निवासी खुला भूखंड" },
-    { "key": "residentialBuiltup", "labelEn": "Residential built-up", "labelMr": "निवासी बांधकाम" },
-    { "key": "commercialBuiltup", "labelEn": "Commercial built-up", "labelMr": "व्यापारी बांधकाम" }
+    {
+      "key": "agricultural",
+      "labelEn": "Agricultural land",
+      "labelMr": "शेतजमीन"
+    },
+    {
+      "key": "residentialPlot",
+      "labelEn": "Residential open plot",
+      "labelMr": "निवासी खुला भूखंड"
+    },
+    {
+      "key": "residentialBuiltup",
+      "labelEn": "Residential built-up",
+      "labelMr": "निवासी बांधकाम"
+    },
+    {
+      "key": "commercialBuiltup",
+      "labelEn": "Commercial built-up",
+      "labelMr": "व्यापारी बांधकाम"
+    }
   ],
   "talukas": [
     {
       "en": "Karveer",
       "mr": "करवीर",
       "zones": [
-        { "en": "Shahupuri", "mr": "शाहूपुरी", "survey": "CTS (sample)", "rates": { "agricultural": 2500, "residentialPlot": 46000, "residentialBuiltup": 64000, "commercialBuiltup": 108000 } },
-        { "en": "Rajarampuri", "mr": "राजारामपुरी", "survey": "CTS (sample)", "rates": { "agricultural": 2300, "residentialPlot": 42000, "residentialBuiltup": 59000, "commercialBuiltup": 96000 } },
-        { "en": "Kasaba Bawada", "mr": "कसबा बावडा", "survey": "CTS (sample)", "rates": { "agricultural": 1800, "residentialPlot": 30000, "residentialBuiltup": 43000, "commercialBuiltup": 70000 } },
-        { "en": "Phulewadi", "mr": "फुलेवाडी", "survey": "CTS (sample)", "rates": { "agricultural": 1500, "residentialPlot": 22000, "residentialBuiltup": 32000, "commercialBuiltup": 52000 } }
+        {
+          "en": "Shahupuri",
+          "mr": "शाहूपुरी",
+          "survey": "CTS (sample)",
+          "rates": {
+            "agricultural": 2500,
+            "residentialPlot": 46000,
+            "residentialBuiltup": 64000,
+            "commercialBuiltup": 108000
+          }
+        },
+        {
+          "en": "Rajarampuri",
+          "mr": "राजारामपुरी",
+          "survey": "CTS (sample)",
+          "rates": {
+            "agricultural": 2300,
+            "residentialPlot": 42000,
+            "residentialBuiltup": 59000,
+            "commercialBuiltup": 96000
+          }
+        },
+        {
+          "en": "Kasaba Bawada",
+          "mr": "कसबा बावडा",
+          "survey": "CTS (sample)",
+          "rates": {
+            "agricultural": 1800,
+            "residentialPlot": 30000,
+            "residentialBuiltup": 43000,
+            "commercialBuiltup": 70000
+          }
+        },
+        {
+          "en": "Phulewadi",
+          "mr": "फुलेवाडी",
+          "survey": "CTS (sample)",
+          "rates": {
+            "agricultural": 1500,
+            "residentialPlot": 22000,
+            "residentialBuiltup": 32000,
+            "commercialBuiltup": 52000
+          }
+        }
       ]
     },
     {
       "en": "Hatkanangle",
       "mr": "हातकणंगले",
       "zones": [
-        { "en": "Ichalkaranji (urban)", "mr": "इचलकरंजी (शहरी)", "survey": "CTS (sample)", "rates": { "agricultural": 1600, "residentialPlot": 24000, "residentialBuiltup": 38000, "commercialBuiltup": 62000 } },
-        { "en": "Rural", "mr": "ग्रामीण", "survey": "Survey no. (sample)", "rates": { "agricultural": 950, "residentialPlot": 8500, "residentialBuiltup": 22000, "commercialBuiltup": 34000 } }
+        {
+          "en": "Ichalkaranji (urban)",
+          "mr": "इचलकरंजी (शहरी)",
+          "survey": "CTS (sample)",
+          "rates": {
+            "agricultural": 1600,
+            "residentialPlot": 24000,
+            "residentialBuiltup": 38000,
+            "commercialBuiltup": 62000
+          }
+        },
+        {
+          "en": "Rural",
+          "mr": "ग्रामीण",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 950,
+            "residentialPlot": 8500,
+            "residentialBuiltup": 22000,
+            "commercialBuiltup": 34000
+          }
+        }
       ]
     },
-    { "en": "Shirol", "mr": "शिरोळ", "zones": [ { "en": "Jaysingpur (urban)", "mr": "जयसिंगपूर (शहरी)", "survey": "CTS (sample)", "rates": { "agricultural": 1000, "residentialPlot": 18000, "residentialBuiltup": 31000, "commercialBuiltup": 50000 } } ] },
-    { "en": "Panhala", "mr": "पन्हाळा", "zones": [ { "en": "Panhala (town)", "mr": "पन्हाळा (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 700, "residentialPlot": 9000, "residentialBuiltup": 26000, "commercialBuiltup": 42000 } } ] },
-    { "en": "Kagal", "mr": "कागल", "zones": [ { "en": "Kagal (town)", "mr": "कागल (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 850, "residentialPlot": 11000, "residentialBuiltup": 28000, "commercialBuiltup": 46000 } } ] },
-    { "en": "Gadhinglaj", "mr": "गडहिंग्लज", "zones": [ { "en": "Gadhinglaj (town)", "mr": "गडहिंग्लज (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 650, "residentialPlot": 8000, "residentialBuiltup": 24000, "commercialBuiltup": 39000 } } ] },
-    { "en": "Radhanagari", "mr": "राधानगरी", "zones": [ { "en": "Radhanagari (town)", "mr": "राधानगरी (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 500, "residentialPlot": 6000, "residentialBuiltup": 20000, "commercialBuiltup": 32000 } } ] },
-    { "en": "Shahuwadi", "mr": "शाहूवाडी", "zones": [ { "en": "Malkapur (town)", "mr": "मलकापूर (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 450, "residentialPlot": 5500, "residentialBuiltup": 18000, "commercialBuiltup": 29000 } } ] },
-    { "en": "Bhudargad", "mr": "भुदरगड", "zones": [ { "en": "Gargoti (town)", "mr": "गारगोटी (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 480, "residentialPlot": 5800, "residentialBuiltup": 19000, "commercialBuiltup": 30000 } } ] },
-    { "en": "Ajara", "mr": "आजरा", "zones": [ { "en": "Ajara (town)", "mr": "आजरा (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 420, "residentialPlot": 5000, "residentialBuiltup": 17000, "commercialBuiltup": 27000 } } ] },
-    { "en": "Chandgad", "mr": "चंदगड", "zones": [ { "en": "Chandgad (town)", "mr": "चंदगड (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 400, "residentialPlot": 4500, "residentialBuiltup": 16000, "commercialBuiltup": 25000 } } ] },
-    { "en": "Gaganbawada", "mr": "गगनबावडा", "zones": [ { "en": "Gaganbawada (town)", "mr": "गगनबावडा (गाव)", "survey": "Survey no. (sample)", "rates": { "agricultural": 380, "residentialPlot": 4000, "residentialBuiltup": 15000, "commercialBuiltup": 24000 } } ] }
+    {
+      "en": "Shirol",
+      "mr": "शिरोळ",
+      "zones": [
+        {
+          "en": "Jaysingpur (urban)",
+          "mr": "जयसिंगपूर (शहरी)",
+          "survey": "CTS (sample)",
+          "rates": {
+            "agricultural": 1000,
+            "residentialPlot": 18000,
+            "residentialBuiltup": 31000,
+            "commercialBuiltup": 50000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Panhala",
+      "mr": "पन्हाळा",
+      "zones": [
+        {
+          "en": "Panhala (town)",
+          "mr": "पन्हाळा (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 700,
+            "residentialPlot": 9000,
+            "residentialBuiltup": 26000,
+            "commercialBuiltup": 42000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Kagal",
+      "mr": "कागल",
+      "zones": [
+        {
+          "en": "Kagal (town)",
+          "mr": "कागल (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 850,
+            "residentialPlot": 11000,
+            "residentialBuiltup": 28000,
+            "commercialBuiltup": 46000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Gadhinglaj",
+      "mr": "गडहिंग्लज",
+      "zones": [
+        {
+          "en": "Gadhinglaj (town)",
+          "mr": "गडहिंग्लज (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 650,
+            "residentialPlot": 8000,
+            "residentialBuiltup": 24000,
+            "commercialBuiltup": 39000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Radhanagari",
+      "mr": "राधानगरी",
+      "zones": [
+        {
+          "en": "Radhanagari (town)",
+          "mr": "राधानगरी (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 500,
+            "residentialPlot": 6000,
+            "residentialBuiltup": 20000,
+            "commercialBuiltup": 32000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Shahuwadi",
+      "mr": "शाहूवाडी",
+      "zones": [
+        {
+          "en": "Malkapur (town)",
+          "mr": "मलकापूर (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 450,
+            "residentialPlot": 5500,
+            "residentialBuiltup": 18000,
+            "commercialBuiltup": 29000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Bhudargad",
+      "mr": "भुदरगड",
+      "zones": [
+        {
+          "en": "Gargoti (town)",
+          "mr": "गारगोटी (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 480,
+            "residentialPlot": 5800,
+            "residentialBuiltup": 19000,
+            "commercialBuiltup": 30000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Ajara",
+      "mr": "आजरा",
+      "zones": [
+        {
+          "en": "Ajara (town)",
+          "mr": "आजरा (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 420,
+            "residentialPlot": 5000,
+            "residentialBuiltup": 17000,
+            "commercialBuiltup": 27000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Chandgad",
+      "mr": "चंदगड",
+      "zones": [
+        {
+          "en": "Chandgad (town)",
+          "mr": "चंदगड (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 400,
+            "residentialPlot": 4500,
+            "residentialBuiltup": 16000,
+            "commercialBuiltup": 25000
+          }
+        }
+      ]
+    },
+    {
+      "en": "Gaganbawada",
+      "mr": "गगनबावडा",
+      "zones": [
+        {
+          "en": "Gaganbawada (town)",
+          "mr": "गगनबावडा (गाव)",
+          "survey": "Survey no. (sample)",
+          "rates": {
+            "agricultural": 380,
+            "residentialPlot": 4000,
+            "residentialBuiltup": 15000,
+            "commercialBuiltup": 24000
+          }
+        }
+      ]
+    }
   ]
 }

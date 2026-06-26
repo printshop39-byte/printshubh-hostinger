@@ -10,6 +10,7 @@
     "build": "next build --webpack",
     "start": "node scripts/start-next.mjs",
     "lint": "eslint",
+    "build-asr": "node scripts/build-ready-reckoner.mjs",
     "build-lgd": "node scripts/build-lgd-local-names.mjs",
     "build-lgd-official": "node --max-old-space-size=8192 scripts/build-lgd-official.mjs",
     "report-marathi": "node scripts/report-marathi-missing.mjs"
