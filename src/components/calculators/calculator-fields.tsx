@@ -84,6 +84,62 @@ export function SliderField({
   );
 }
 
+export function SelectField({
+  label,
+  value,
+  onChange,
+  options,
+}: {
+  label: ReactNode;
+  value: string;
+  onChange: (v: string) => void;
+  options: Array<{ value: string; label: ReactNode }>;
+}) {
+  return (
+    <label className="block">
+      <span className="mb-1.5 block text-[13px] font-bold text-slate-700">{label}</span>
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 text-[15px] font-semibold text-slate-900 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+      >
+        {options.map((o) => (
+          <option key={o.value} value={o.value}>
+            {o.label}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+}
+
+export function Toggle({
+  label,
+  checked,
+  onChange,
+  hint,
+}: {
+  label: ReactNode;
+  checked: boolean;
+  onChange: (v: boolean) => void;
+  hint?: ReactNode;
+}) {
+  return (
+    <label className="flex cursor-pointer items-start gap-3 rounded-md border border-slate-200 bg-slate-50 p-3">
+      <input
+        type="checkbox"
+        checked={checked}
+        onChange={(e) => onChange(e.target.checked)}
+        className="mt-0.5 size-4 shrink-0 cursor-pointer accent-blue-600"
+      />
+      <span>
+        <span className="block text-[13.5px] font-bold text-slate-800">{label}</span>
+        {hint && <span className="mt-0.5 block text-[12px] leading-5 text-slate-500">{hint}</span>}
+      </span>
+    </label>
+  );
+}
+
 export function ResultStat({
   label,
   value,

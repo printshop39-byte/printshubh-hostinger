@@ -1,0 +1,15 @@
+{
+  "effectiveFrom": "2026-06",
+  "note": "Indicative Maharashtra stamp duty and registration rules. Percentages follow the commonly published structure (local-body-wise stamp duty, metro cess in notified cities, 1% registration capped at Rs 30,000, 1% female-buyer rebate). Rules change in the state budget — verify the current rate at the IGR Maharashtra registration office before any transaction.",
+  "noteMr": "अंदाजे महाराष्ट्र मुद्रांक शुल्क व नोंदणी नियम. हे सर्वसाधारण प्रचलित रचनेनुसार आहेत. नियम राज्याच्या अर्थसंकल्पात बदलतात — व्यवहारापूर्वी IGR महाराष्ट्र नोंदणी कार्यालयाकडून चालू दर पडताळा.",
+  "areaTypes": [
+    { "key": "corporation", "labelEn": "Municipal Corporation", "labelMr": "महानगरपालिका हद्द", "stampPct": 5 },
+    { "key": "council", "labelEn": "Municipal Council / Nagar Panchayat / Cantonment", "labelMr": "नगरपालिका / नगर पंचायत / कॅन्टोन्मेंट", "stampPct": 4 },
+    { "key": "gram", "labelEn": "Gram Panchayat (rural)", "labelMr": "ग्रामपंचायत (ग्रामीण)", "stampPct": 3 }
+  ],
+  "metroCessPct": 1,
+  "metroCities": ["Mumbai", "Pune", "Nagpur", "Thane", "Navi Mumbai", "Pimpri-Chinchwad"],
+  "metroCitiesMr": ["मुंबई", "पुणे", "नागपूर", "ठाणे", "नवी मुंबई", "पिंपरी-चिंचवड"],
+  "registration": { "pct": 1, "capRupees": 30000 },
+  "femaleRebatePct": 1
+}

@@ -1,0 +1,27 @@
+{
+  "sample": true,
+  "effectiveFrom": "2026-04 (SAMPLE — not official ASR)",
+  "district": { "en": "Kolhapur", "mr": "कोल्हापूर" },
+  "note": "SAMPLE / PLACEHOLDER rates per square metre for demonstration only. Replace each value with the official Annual Statement of Rates (ASR / Ready Reckoner) published by IGR Maharashtra before relying on it. Real ASR rates are zone-wise within a taluka; this template carries one representative figure per category per taluka.",
+  "noteMr": "ही केवळ नमुना आकडेवारी आहे (प्रति चौरस मीटर). वापरण्यापूर्वी IGR महाराष्ट्रने प्रकाशित केलेल्या अधिकृत वार्षिक दर विवरणपत्र (ASR / रेडी रेकनर) मधील खरे दर भरा. खरे ASR दर तालुक्यातील झोननिहाय असतात.",
+  "categories": [
+    { "key": "agricultural", "labelEn": "Agricultural land", "labelMr": "शेतजमीन" },
+    { "key": "residentialPlot", "labelEn": "Residential open plot", "labelMr": "निवासी खुला भूखंड" },
+    { "key": "residentialBuiltup", "labelEn": "Residential built-up", "labelMr": "निवासी बांधकाम" },
+    { "key": "commercialBuiltup", "labelEn": "Commercial built-up", "labelMr": "व्यापारी बांधकाम" }
+  ],
+  "talukas": [
+    { "en": "Karveer", "mr": "करवीर", "rates": { "agricultural": 1200, "residentialPlot": 11000, "residentialBuiltup": 42000, "commercialBuiltup": 68000 } },
+    { "en": "Hatkanangle", "mr": "हातकणंगले", "rates": { "agricultural": 950, "residentialPlot": 8500, "residentialBuiltup": 34000, "commercialBuiltup": 55000 } },
+    { "en": "Shirol", "mr": "शिरोळ", "rates": { "agricultural": 1000, "residentialPlot": 7800, "residentialBuiltup": 31000, "commercialBuiltup": 50000 } },
+    { "en": "Panhala", "mr": "पन्हाळा", "rates": { "agricultural": 700, "residentialPlot": 6000, "residentialBuiltup": 26000, "commercialBuiltup": 42000 } },
+    { "en": "Kagal", "mr": "कागल", "rates": { "agricultural": 850, "residentialPlot": 7000, "residentialBuiltup": 28000, "commercialBuiltup": 46000 } },
+    { "en": "Gadhinglaj", "mr": "गडहिंग्लज", "rates": { "agricultural": 650, "residentialPlot": 5500, "residentialBuiltup": 24000, "commercialBuiltup": 39000 } },
+    { "en": "Radhanagari", "mr": "राधानगरी", "rates": { "agricultural": 500, "residentialPlot": 4200, "residentialBuiltup": 20000, "commercialBuiltup": 32000 } },
+    { "en": "Shahuwadi", "mr": "शाहूवाडी", "rates": { "agricultural": 450, "residentialPlot": 3800, "residentialBuiltup": 18000, "commercialBuiltup": 29000 } },
+    { "en": "Bhudargad", "mr": "भुदरगड", "rates": { "agricultural": 480, "residentialPlot": 4000, "residentialBuiltup": 19000, "commercialBuiltup": 30000 } },
+    { "en": "Ajara", "mr": "आजरा", "rates": { "agricultural": 420, "residentialPlot": 3500, "residentialBuiltup": 17000, "commercialBuiltup": 27000 } },
+    { "en": "Chandgad", "mr": "चंदगड", "rates": { "agricultural": 400, "residentialPlot": 3200, "residentialBuiltup": 16000, "commercialBuiltup": 25000 } },
+    { "en": "Gaganbawada", "mr": "गगनबावडा", "rates": { "agricultural": 380, "residentialPlot": 3000, "residentialBuiltup": 15000, "commercialBuiltup": 24000 } }
+  ]
+}

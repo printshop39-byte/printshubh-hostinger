@@ -60,8 +60,6 @@ export function computeEmi({
   };
 }
 
-/** Indian-format rupee string, no decimals: 1234567 → "₹12,34,567". */
-export function formatINR(value: number): string {
-  if (!Number.isFinite(value)) return "—";
-  return "₹" + Math.round(value).toLocaleString("en-IN");
-}
+// Re-exported so existing importers (`@/lib/calculators/emi`) keep working
+// now that the formatter is shared across all calculator tools.
+export { formatINR } from "./format";
