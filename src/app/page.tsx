@@ -5,11 +5,9 @@ import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
 import { QuickChips } from "@/components/quick-chips";
 import { UnifiedRecordForm } from "@/components/unified-record-form";
-import { ServicesGrid } from "@/components/services-grid";
 import { MapPromo } from "@/components/map-promo";
 import { TrustBar } from "@/components/trust-bar";
 import { Testimonials } from "@/components/testimonials";
-import { PricingSection } from "@/components/pricing-section";
 import { ToolsSection } from "@/components/tools-section";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
@@ -75,21 +73,11 @@ export default function Home() {
         {/* Map-services promo — DP / TPS / Regional Plan, from ₹200 */}
         <MapPromo />
 
-        {/* Services list — digital documents + maps/plans (the primary content) */}
-        <ServicesGrid />
-
         {/* Customer testimonials — renders only once real quotes are added */}
         <Testimonials />
 
         {/* Free calculators — customer-facing tools, also linked from the nav */}
         <ToolsSection />
-
-        {/* Transparent starting prices — kept lower on the page */}
-        <section className="bg-[#f7fbff] px-5 py-12 sm:px-8">
-          <div className="mx-auto max-w-4xl">
-            <PricingSection />
-          </div>
-        </section>
 
         <Disclaimer />
       </main>

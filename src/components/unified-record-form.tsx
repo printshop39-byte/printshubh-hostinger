@@ -272,7 +272,7 @@ export function UnifiedRecordForm() {
     "h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm text-slate-800 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:cursor-not-allowed disabled:bg-slate-50 disabled:text-slate-400";
 
   return (
-    <section className="bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
+    <section id="unified-form" className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
       <div className="mx-auto max-w-3xl">
         <h2 className="text-2xl font-black leading-tight text-slate-950 sm:text-3xl">{tx.heading}</h2>
         <p className="mt-2 text-[15px] leading-7 text-slate-600">{tx.sub}</p>

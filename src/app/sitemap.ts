@@ -39,6 +39,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     /* Map / survey finder */
     { url: `${SITE_URL}/nakasha-shodh/`,               lastModified, changeFrequency: "monthly", priority: 0.7 },
 
+    /* Pricing */
+    { url: `${SITE_URL}/pricing`,                      lastModified, changeFrequency: "monthly", priority: 0.7 },
+
     /* Finance / property tools */
     { url: `${SITE_URL}/home-loan-emi/`,               lastModified, changeFrequency: "monthly", priority: 0.7 },
     { url: `${SITE_URL}/stamp-duty/`,                  lastModified, changeFrequency: "monthly", priority: 0.7 },

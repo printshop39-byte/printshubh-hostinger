@@ -33,7 +33,7 @@ interface Item {
 
 const items: Item[] = [
   { icon: Home, label: { mr: "होम", en: "Home" }, href: "/" },
-  { icon: FileText, label: { mr: "सेवा", en: "Services" }, href: "/#services" },
+  { icon: FileText, label: { mr: "सेवा", en: "Services" }, href: "/#unified-form" },
   { icon: Calculator, label: { mr: "साधने", en: "Tools" }, href: "/#tools" },
 ];
 

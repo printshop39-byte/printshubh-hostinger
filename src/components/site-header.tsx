@@ -14,7 +14,7 @@ import { useLang, type Lang } from "@/components/language-context";
 const nav: Record<Lang, { label: string; href: string }[]> = {
   mr: [
     { label: "मुख्यपृष्ठ", href: "/" },
-    { label: "सेवा", href: "/#services" },
+    { label: "सेवा", href: "/#unified-form" },
     { label: "साधने", href: "/#tools" },
     { label: "नकाशा शोध", href: "/nakasha-shodh" },
     { label: "मदत", href: "/support" },
@@ -23,7 +23,7 @@ const nav: Record<Lang, { label: string; href: string }[]> = {
   ],
   en: [
     { label: "Home", href: "/" },
-    { label: "Services", href: "/#services" },
+    { label: "Services", href: "/#unified-form" },
     { label: "Tools", href: "/#tools" },
     { label: "Map Search", href: "/nakasha-shodh" },
     { label: "Support", href: "/support" },
