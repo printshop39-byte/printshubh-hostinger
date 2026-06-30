@@ -4,6 +4,7 @@ import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
 import { ServicesGrid } from "@/components/services-grid";
+import { MapPromo } from "@/components/map-promo";
 import { TrustBar } from "@/components/trust-bar";
 import { Testimonials } from "@/components/testimonials";
 import { PricingSection } from "@/components/pricing-section";
@@ -62,6 +63,9 @@ export default function Home() {
 
         {/* Trust signals — experience, coverage, delivery, payment */}
         <TrustBar />
+
+        {/* Map-services promo — DP / TPS / Regional Plan, from ₹200 */}
+        <MapPromo />
 
         {/* Services list — digital documents + maps/plans (the primary content) */}
         <ServicesGrid />
