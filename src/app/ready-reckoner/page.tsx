@@ -5,7 +5,7 @@ import { ReadyReckonerContent, readyReckonerFaqMr } from "./ready-reckoner-conte
 const PATH = "/ready-reckoner/";
 
 export const metadata: Metadata = {
-  title: "रेडी रेकनर दर कोल्हापूर | Ready Reckoner Rate Lookup | PrintShubh",
+  title: "रेडी रेकनर दर कोल्हापूर | Ready Reckoner Rate Lookup",
   description:
     "कोल्हापूर जिल्ह्यासाठी रेडी रेकनर (ASR) दर शोधा — तालुका व वर्गनिहाय प्रति चौरस मीटर सरकारी जमीन-मूल्य आणि अंदाजे मालमत्ता मूल्य. (नमुना दर.)",
   alternates: { canonical: PATH },

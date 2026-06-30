@@ -5,7 +5,7 @@ import { StampDutyContent, stampDutyFaqMr } from "./stamp-duty-content";
 const PATH = "/stamp-duty/";
 
 export const metadata: Metadata = {
-  title: "मुद्रांक शुल्क कॅल्क्युलेटर महाराष्ट्र | Stamp Duty Calculator | PrintShubh",
+  title: "मुद्रांक शुल्क कॅल्क्युलेटर महाराष्ट्र | Stamp Duty Calculator",
   description:
     "महाराष्ट्रासाठी मोफत मुद्रांक शुल्क कॅल्क्युलेटर — मालमत्ता मूल्य, स्थानिक स्वराज्य संस्था, मेट्रो सेस व महिला सवलतीसह मुद्रांक शुल्क, नोंदणी शुल्क व एकूण रक्कम मोजा.",
   alternates: { canonical: PATH },

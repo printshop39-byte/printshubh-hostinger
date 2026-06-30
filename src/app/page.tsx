@@ -4,10 +4,13 @@ import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
 import { ServicesGrid } from "@/components/services-grid";
+import { TrustBar } from "@/components/trust-bar";
+import { Testimonials } from "@/components/testimonials";
 import { PricingSection } from "@/components/pricing-section";
 import { ToolsSection } from "@/components/tools-section";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
+import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 
 /* Simple marketing homepage: hero → services list → free tools → pricing.
  * The MapLibre map-reference finder is intentionally NOT the hero anymore —
@@ -57,8 +60,14 @@ export default function Home() {
         {/* Simple hero — headline, trust strip + WhatsApp / "choose service" CTAs */}
         <HeroContent />
 
+        {/* Trust signals — experience, coverage, delivery, payment */}
+        <TrustBar />
+
         {/* Services list — digital documents + maps/plans (the primary content) */}
         <ServicesGrid />
+
+        {/* Customer testimonials — renders only once real quotes are added */}
+        <Testimonials />
 
         {/* Free calculators — customer-facing tools, also linked from the nav */}
         <ToolsSection />
@@ -72,6 +81,7 @@ export default function Home() {
 
         <Disclaimer />
       </main>
+      <WhatsAppSupportButton />
       <SiteFooter />
     </>
   );

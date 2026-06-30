@@ -5,7 +5,7 @@ import { SatbaraContent, satbaraFaqMr } from "./satbara-content";
 const PATH = "/satbara-utara-maharashtra/";
 
 export const metadata: Metadata = {
-  title: "7/12 उतारा महाराष्ट्र | Satbara Utara PDF सहाय्य | PrintShubh",
+  title: "7/12 उतारा महाराष्ट्र | Satbara Utara PDF सहाय्य",
   description:
     "महाराष्ट्रात 7/12 (सातबारा) उताऱ्यासाठी WhatsApp सहाय्य — जिल्हा, तालुका, गाव, गट नंबर शेअर करा. अधिकृत स्रोतांवर आधारित खाजगी सेवा.",
   alternates: { canonical: PATH },

@@ -25,10 +25,10 @@ const t: Record<Lang, {
   govDisclaimer: string;
 }> = {
   mr: {
-    badge: "महाराष्ट्रासाठी प्रॉपर्टी रिपोर्ट डिजिटल सेवा",
-    h1: "प्रॉपर्टी रिपोर्ट सेवा",
+    badge: "महाराष्ट्रासाठी जमीन कागदपत्र — डिजिटल सहाय्य सेवा",
+    h1: "महाराष्ट्रातील 7/12, 8A, गाव नकाशा — WhatsApp वर जलद मिळवा",
     subheadline:
-      "7/12, 8A, गाव नकाशा, फेरफार आणि जमीन अहवालासाठी महाराष्ट्रभर डिजिटल सेवा उपलब्ध.",
+      "जिल्हा, तालुका, गाव आणि गट नंबर सांगा — 7/12, 8A, गाव नकाशा, फेरफार व जमीन अहवालाची PDF थेट WhatsApp वर मिळवा. किंमत आधी कळेल, छुपी फी नाही, बहुतेक सेवा त्याच दिवशी.",
     cta1: "सेवा निवडा",
     cta2: "WhatsApp वर विचारा",
     trustLine:
@@ -45,10 +45,10 @@ const t: Record<Lang, {
       "PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित खाजगी सहाय्य सेवा प्रदान करतो.",
   },
   en: {
-    badge: "Maharashtra Property Report Digital Service",
-    h1: "Property Report Service",
+    badge: "Maharashtra Land Documents — Digital Assistance Service",
+    h1: "Get 7/12, 8A & village maps for Maharashtra — fast, on WhatsApp",
     subheadline:
-      "Digital service across Maharashtra for 7/12, 8A, village map, mutation, property card and land report.",
+      "Share district, taluka, village and Gut number — get the 7/12, 8A, village map, mutation or land-report PDF straight on WhatsApp. Price upfront, no hidden fees, most services same day.",
     cta1: "Choose Service",
     cta2: "Ask on WhatsApp",
     trustLine:

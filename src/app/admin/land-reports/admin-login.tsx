@@ -29,11 +29,22 @@ export function AdminLogin({ configured }: { configured: boolean }) {
 
         {!configured && (
           <p className="mb-3 rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-[12px] font-semibold text-amber-800">
-            सर्व्हरवर <code>ADMIN_ACCESS_PASSWORD</code> सेट केलेला नाही — प्रवेश बंद आहे.
+            सर्व्हरवर Supabase Auth सेट केलेले नाही — प्रवेश बंद आहे.
           </p>
         )}
 
         <form action={formAction} className="space-y-3">
+          <label className="block">
+            <span className="mb-1 block text-[12px] font-bold text-slate-600">ईमेल</span>
+            <input
+              type="email"
+              name="email"
+              autoComplete="username"
+              required
+              disabled={!configured || pending}
+              className="h-10 w-full rounded-md border border-slate-300 px-3 text-[14px] text-slate-800 focus:border-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:bg-slate-50"
+            />
+          </label>
           <label className="block">
             <span className="mb-1 block text-[12px] font-bold text-slate-600">पासवर्ड</span>
             <input

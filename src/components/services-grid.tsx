@@ -3,14 +3,28 @@
 import {
   Building2,
   ClipboardList,
+  Clock,
   FileText,
+  IndianRupee,
   Layers,
   Map,
   MapPinned,
+  MessageCircle,
   RefreshCw,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+
+/* Delivery promise shown on every service card. These are uniform across
+ * services and reflect the model already described on the FAQ page —
+ * PDF delivered on WhatsApp, UPI payment, usually same day — so nothing
+ * here is a new or unverified claim. */
+const deliveryBadges: { icon: LucideIcon; label: Record<Lang, string> }[] = [
+  { icon: FileText, label: { mr: "PDF", en: "PDF" } },
+  { icon: MessageCircle, label: { mr: "WhatsApp", en: "WhatsApp" } },
+  { icon: Clock, label: { mr: "बहुतेक त्याच दिवशी", en: "Usually same day" } },
+  { icon: IndianRupee, label: { mr: "UPI पेमेंट", en: "UPI payment" } },
+];
 
 type ServiceItem = {
   icon: LucideIcon;
@@ -141,13 +155,30 @@ export function ServicesGrid() {
               <article
                 data-reveal
                 key={service.title.en}
-                className="min-h-56 rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-blue-300 hover:shadow-md"
+                className="flex min-h-56 flex-col rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-blue-300 hover:shadow-md"
               >
                 <div className="grid size-11 place-items-center rounded-md bg-blue-50 text-blue-700">
                   <Icon className="size-5" aria-hidden="true" />
                 </div>
                 <h3 className="mt-6 text-xl font-bold text-slate-950">{title}</h3>
                 <p className="mt-3 text-sm leading-7 text-slate-600">{service.detail[lang]}</p>
+
+                {/* Uniform delivery badges — pinned to the card bottom so the
+                    grid stays visually aligned regardless of detail length. */}
+                <ul className="mt-auto flex flex-wrap gap-1.5 pt-4">
+                  {deliveryBadges.map((b) => {
+                    const BadgeIcon = b.icon;
+                    return (
+                      <li
+                        key={b.label.en}
+                        className="inline-flex items-center gap-1 rounded-full bg-slate-100 px-2 py-1 text-xs font-semibold text-slate-700"
+                      >
+                        <BadgeIcon className="size-3 text-blue-600" aria-hidden="true" />
+                        {b.label[lang]}
+                      </li>
+                    );
+                  })}
+                </ul>
               </article>
             );
           })}

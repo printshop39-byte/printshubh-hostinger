@@ -5,7 +5,7 @@ import { GavNakashaContent, gavNakashaFaqMr } from "./gav-nakasha-content";
 const PATH = "/gav-nakasha-maharashtra/";
 
 export const metadata: Metadata = {
-  title: "गाव नकाशा महाराष्ट्र | Village Map PDF सहाय्य | PrintShubh",
+  title: "गाव नकाशा महाराष्ट्र | Village Map PDF सहाय्य",
   description:
     "महाराष्ट्रातील गाव नकाशा, गट नकाशा व सर्वे नंबर संदर्भासाठी WhatsApp सहाय्य. Bhuvan, Mahabhumi व सार्वजनिक स्रोतांवर आधारित खाजगी सेवा.",
   alternates: { canonical: PATH },

@@ -1,39 +1,43 @@
+import "server-only";
+
 /**
  * Server-only access gate for the admin land-reports area.
  *
- * Backend-less by design: a single shared password (env `ADMIN_ACCESS_PASSWORD`)
- * gates entry. The cookie stores a SHA-256 of the password — never the raw value —
- * and is httpOnly, so it is not readable by client JS. This is a lightweight
- * "authorised users only" gate, NOT per-user subscription. Upgrade path: swap
- * `isAuthed()` / the login action for a real auth provider when a backend exists.
+ * Backed by Supabase Auth (email + password, per-user). The session lives in
+ * httpOnly cookies managed by @supabase/ssr; `isAuthed()` validates it against
+ * the Supabase Auth server on every call (getUser(), not getSession(), so a
+ * forged/expired cookie can't pass).
+ *
+ * Fail-safe: when Supabase auth env is not configured, `isAuthed()` returns
+ * false — the gate stays closed rather than falling open.
+ *
+ * Admin users are created in the Supabase dashboard (Authentication → Users);
+ * public sign-ups must be DISABLED there so only invited admins exist.
  */
 
-import { cookies } from "next/headers";
-import { createHash } from "crypto";
-
-export const COOKIE_NAME = "psh_admin_access";
+import {
+  createSupabaseServerClient,
+  supabaseAuthConfigured,
+} from "@/lib/supabase/server";
 
 /** Error state shared between the login action and the login form. */
 export type LoginState = { error?: string };
 
-/** Hash a password the same way the cookie stores it. */
-export function tokenFor(password: string): string {
-  return createHash("sha256").update(password).digest("hex");
+/** True when the Supabase auth env vars are present (login is possible). */
+export function authConfigured(): boolean {
+  return supabaseAuthConfigured();
 }
 
-/**
- * The token a valid cookie must hold, or `null` when no password is configured
- * (gate stays closed — fail safe rather than fail open).
- */
-export function expectedToken(): string | null {
-  const pw = process.env.ADMIN_ACCESS_PASSWORD;
-  return pw ? tokenFor(pw) : null;
-}
-
-/** True only when a password is configured AND the request cookie matches it. */
+/** True only when a valid Supabase user session is present. */
 export async function isAuthed(): Promise<boolean> {
-  const expected = expectedToken();
-  if (!expected) return false;
-  const store = await cookies();
-  return store.get(COOKIE_NAME)?.value === expected;
+  if (!supabaseAuthConfigured()) return false;
+  try {
+    const supabase = await createSupabaseServerClient();
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+    return Boolean(user);
+  } catch {
+    return false;
+  }
 }

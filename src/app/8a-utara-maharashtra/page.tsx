@@ -5,7 +5,7 @@ import { EightAContent, eightAFaqMr } from "./eight-a-content";
 const PATH = "/8a-utara-maharashtra/";
 
 export const metadata: Metadata = {
-  title: "8A उतारा महाराष्ट्र | 8A Extract PDF सहाय्य | PrintShubh",
+  title: "8A उतारा महाराष्ट्र | 8A Extract PDF सहाय्य",
   description:
     "महाराष्ट्रात 8A उताऱ्यासाठी WhatsApp सहाय्य — खातेदार-निहाय एकत्रित जमीन नोंदी. अधिकृत स्रोतांवर आधारित खाजगी सेवा.",
   alternates: { canonical: PATH },

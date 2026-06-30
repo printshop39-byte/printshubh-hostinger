@@ -4,6 +4,7 @@ import { Geist, Geist_Mono, Noto_Sans_Devanagari } from "next/font/google";
 import "./globals.css";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { LanguageProvider } from "@/components/language-context";
+import { MetaPixel } from "@/components/meta-pixel";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -120,6 +121,29 @@ const websiteLd = {
   inLanguage: "mr-IN",
 };
 
+/* ── JSON-LD: Organization ───────────────────────────────────────────
+ *
+ * The brand entity behind the service. ProfessionalService (above)
+ * already carries the local-business signals (telephone, areaServed);
+ * Organization adds the logo + contactPoint Google uses for the brand
+ * knowledge panel. areaServed is the whole state — this is a
+ * service-area business with no walk-in address, so none is asserted. */
+const organizationLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "PrintShubh",
+  url: SITE_URL + "/",
+  logo: SITE_URL + "/favicon.png",
+  email: "support@printshubh.shop",
+  areaServed: { "@type": "State", name: "Maharashtra" },
+  contactPoint: {
+    "@type": "ContactPoint",
+    telephone: "+91 86258 01907",
+    contactType: "customer support",
+    availableLanguage: ["Marathi", "English"],
+  },
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -146,8 +170,15 @@ export default function RootLayout({
             __html: JSON.stringify(websiteLd),
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationLd),
+          }}
+        />
       </head>
       <body className="flex min-h-full flex-col antialiased">
+        <MetaPixel />
         <LanguageProvider>{children}</LanguageProvider>
         <Script src="/price-assistant.js" strategy="afterInteractive" />
       </body>

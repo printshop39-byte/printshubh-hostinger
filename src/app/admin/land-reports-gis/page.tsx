@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { BhuNakshaOverlayTool } from "@/components/admin/bhunaksha-overlay-tool";
 import { AdminLogin } from "../land-reports/admin-login";
-import { expectedToken, isAuthed } from "../land-reports/auth";
+import { authConfigured, isAuthed } from "../land-reports/auth";
 
 /**
  * Advanced BhuNaksha GIS overlay tool — preserved from the original
@@ -24,7 +24,7 @@ export default async function AdminLandReportsGisPage() {
   if (!(await isAuthed())) {
     return (
       <main className="min-h-screen bg-[#f7fbff] text-slate-900">
-        <AdminLogin configured={expectedToken() !== null} />
+        <AdminLogin configured={authConfigured()} />
       </main>
     );
   }

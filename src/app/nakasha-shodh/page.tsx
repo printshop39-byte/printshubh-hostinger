@@ -4,6 +4,7 @@ import { LandingAnimations } from "@/components/landing-animations";
 import { MapReferenceSection } from "@/components/map-reference-client";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
+import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 
 /* ── Dedicated map / finder page ────────────────────────────────────────────
  *
@@ -14,7 +15,7 @@ import { SiteFooter } from "@/components/site-footer";
  * nav ("नकाशा शोध") for users who explicitly want the map finder. The section
  * keeps id="map-reference", so the inquiry-form bus continues to work here. */
 export const metadata: Metadata = {
-  title: "नकाशा शोध — जिल्हा, तालुका, गाव नकाशा संदर्भ | PrintShubh",
+  title: "नकाशा शोध — जिल्हा, तालुका, गाव नकाशा संदर्भ",
   description:
     "महाराष्ट्रातील जिल्हा, तालुका व गाव निवडून जमीन / सर्वे नकाशा संदर्भ शोधा. गाव सीमा पाहा आणि कागदपत्र सहाय्य WhatsApp वर मिळवा.",
   alternates: {
@@ -40,6 +41,7 @@ export default function NakashaShodhPage() {
         <LandingAnimations />
         <MapReferenceSection />
       </main>
+      <WhatsAppSupportButton />
       <SiteFooter />
     </>
   );

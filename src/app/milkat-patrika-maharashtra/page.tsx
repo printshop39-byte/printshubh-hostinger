@@ -6,7 +6,7 @@ const PATH = "/milkat-patrika-maharashtra/";
 
 export const metadata: Metadata = {
   title:
-    "मिळकत पत्रिका महाराष्ट्र | Property Card PDF सहाय्य | PrintShubh",
+    "मिळकत पत्रिका महाराष्ट्र | Property Card PDF सहाय्य",
   description:
     "महाराष्ट्रातील मिळकत पत्रिका (Property Card) PDF साठी WhatsApp सहाय्य — CTS नंबर, City Survey आणि शहरी मालमत्ता नोंदी. अधिकृत स्रोतांवर आधारित खाजगी सेवा.",
   alternates: { canonical: PATH },

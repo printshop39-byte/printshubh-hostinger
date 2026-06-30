@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { PrivacyContent } from "./privacy-content";
 
 export const metadata: Metadata = {
-  title: "गोपनीयता धोरण | Privacy Policy — PrintShubh",
+  title: "गोपनीयता धोरण | Privacy Policy",
   description:
     "PrintShubh कोणती माहिती गोळा करते, ती कशी वापरते आणि तुमच्या गोपनीयतेचे संरक्षण कसे करते — मराठी-प्रथम सोप्या भाषेत.",
   alternates: { canonical: "/privacy" },

@@ -5,7 +5,7 @@ import { JameenReportContent, jameenReportFaqMr } from "./jameen-report-content"
 const PATH = "/jameen-report-maharashtra/";
 
 export const metadata: Metadata = {
-  title: "जमीन अहवाल महाराष्ट्र | Land Report सहाय्य | PrintShubh",
+  title: "जमीन अहवाल महाराष्ट्र | Land Report सहाय्य",
   description:
     "महाराष्ट्रातील जमीन-अहवाल / Land Report — 7/12, 8A, फेरफार, नकाशा आणि बोजे यांचे एकत्रित संकलन. WhatsApp वर खाजगी सहाय्य.",
   alternates: { canonical: PATH },

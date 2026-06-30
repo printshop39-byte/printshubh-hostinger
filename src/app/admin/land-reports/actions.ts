@@ -1,43 +1,55 @@
 "use server";
 
 /**
- * Login / logout server actions for the admin land-reports gate.
- * Cookies can only be written from a Server Action or Route Handler (Next 16),
- * so the form posts here. On success we redirect so the page re-evaluates the
- * gate; on failure we return an error string for the form to show.
+ * Login / logout server actions for the admin land-reports gate, plus the
+ * lead-mutation actions. Auth is Supabase (email + password).
+ *
+ * signInWithPassword/signOut write the session cookies through the @supabase/ssr
+ * cookie adapter — that only persists from a Server Action / Route Handler
+ * (Next 16), which is exactly where these run.
  */
 
-import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
-import { COOKIE_NAME, isAuthed, tokenFor, type LoginState } from "./auth";
+import {
+  createSupabaseServerClient,
+  supabaseAuthConfigured,
+} from "@/lib/supabase/server";
+import { isAuthed, type LoginState } from "./auth";
 import { deleteInquiry, updateInquiryStatus } from "@/lib/inquiries";
 import { asStatus } from "@/lib/inquiry-status";
 
-const TWELVE_HOURS = 60 * 60 * 12;
+export async function loginAction(
+  _prev: LoginState,
+  formData: FormData,
+): Promise<LoginState> {
+  if (!supabaseAuthConfigured()) {
+    return {
+      error:
+        "सर्व्हरवर Supabase Auth सेट केलेले नाही (NEXT_PUBLIC_SUPABASE_URL / ANON_KEY).",
+    };
+  }
 
-export async function loginAction(_prev: LoginState, formData: FormData): Promise<LoginState> {
-  const configured = process.env.ADMIN_ACCESS_PASSWORD;
-  if (!configured) return { error: "सर्व्हरवर access password सेट केलेला नाही (ADMIN_ACCESS_PASSWORD)." };
+  const email = String(formData.get("email") ?? "").trim();
+  const password = String(formData.get("password") ?? "");
+  if (!email || !password) {
+    return { error: "ईमेल व पासवर्ड दोन्ही आवश्यक आहेत." };
+  }
 
-  const submitted = String(formData.get("password") ?? "");
-  if (submitted !== configured) return { error: "चुकीचा पासवर्ड. पुन्हा प्रयत्न करा." };
+  const supabase = await createSupabaseServerClient();
+  const { error } = await supabase.auth.signInWithPassword({ email, password });
+  // Deliberately generic message — don't reveal whether the email exists.
+  if (error) return { error: "चुकीचा ईमेल किंवा पासवर्ड." };
 
-  const store = await cookies();
-  store.set(COOKIE_NAME, tokenFor(configured), {
-    httpOnly: true,
-    secure: process.env.NODE_ENV === "production",
-    sameSite: "lax",
-    path: "/admin",
-    maxAge: TWELVE_HOURS,
-  });
-  // Re-run the page (now authed) instead of returning state.
+  // Session cookie is now set; re-run the page (now authed).
   redirect("/admin/land-reports");
 }
 
 export async function logoutAction(): Promise<void> {
-  const store = await cookies();
-  store.delete({ name: COOKIE_NAME, path: "/admin" });
+  if (supabaseAuthConfigured()) {
+    const supabase = await createSupabaseServerClient();
+    await supabase.auth.signOut();
+  }
   redirect("/admin/land-reports");
 }
 

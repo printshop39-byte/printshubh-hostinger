@@ -1850,7 +1850,8 @@ function MapPanel({
         type="button"
         onClick={handleLocateMe}
         title={tx.locateMe}
-        className="absolute bottom-3 right-3 z-10 flex h-9 w-9 items-center justify-center rounded-md border border-slate-300 bg-white shadow-sm transition hover:bg-slate-50"
+        aria-label={tx.locateMe}
+        className="absolute bottom-3 right-3 z-10 flex h-11 w-11 items-center justify-center rounded-md border border-slate-300 bg-white shadow-sm transition hover:bg-slate-50"
       >
         <Locate className="size-4 text-slate-600" />
       </button>

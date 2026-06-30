@@ -5,7 +5,7 @@ import { EmiContent, emiFaqMr } from "./emi-content";
 const PATH = "/home-loan-emi/";
 
 export const metadata: Metadata = {
-  title: "गृहकर्ज EMI कॅल्क्युलेटर | Home Loan EMI + बँक तुलना | PrintShubh",
+  title: "गृहकर्ज EMI कॅल्क्युलेटर | Home Loan EMI + बँक तुलना",
   description:
     "महाराष्ट्रासाठी मोफत गृहकर्ज EMI कॅल्क्युलेटर — कर्जरक्कम, व्याजदर व मुदत टाका आणि मासिक EMI, एकूण व्याज व बँकनिहाय तुलना लगेच पाहा.",
   alternates: { canonical: PATH },

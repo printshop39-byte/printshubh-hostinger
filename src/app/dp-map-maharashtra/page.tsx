@@ -6,7 +6,7 @@ const PATH = "/dp-map-maharashtra/";
 
 export const metadata: Metadata = {
   title:
-    "DP Map Maharashtra | TP Map व Development Plan सहाय्य | PrintShubh",
+    "DP Map Maharashtra | TP Map व Development Plan सहाय्य",
   description:
     "महाराष्ट्रातील DP Map, TP Scheme आणि Regional Plan संदर्भासाठी WhatsApp सहाय्य. झोन, आरक्षण, रस्ता रुंदी, FSI तपासणी — अधिकृत स्रोतांवर आधारित खाजगी सेवा.",
   alternates: { canonical: PATH },

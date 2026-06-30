@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { AdminLogin } from "./admin-login";
 import { AdminLeadsList } from "./leads-list";
 import { logoutAction } from "./actions";
-import { expectedToken, isAuthed } from "./auth";
+import { authConfigured, isAuthed } from "./auth";
 
 /**
  * Admin land-reports — simple, stable WhatsApp inquiry workflow.
@@ -30,7 +30,7 @@ export default async function AdminLandReportsPage() {
   if (!(await isAuthed())) {
     return (
       <main className="min-h-screen bg-[#f7fbff] text-slate-900">
-        <AdminLogin configured={expectedToken() !== null} />
+        <AdminLogin configured={authConfigured()} />
       </main>
     );
   }

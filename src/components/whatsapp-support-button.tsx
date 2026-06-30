@@ -9,6 +9,7 @@
 import { MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { SITE_CONTACT } from "@/components/site-footer";
+import { trackWhatsAppLead } from "@/components/meta-pixel";
 
 const msg: Record<Lang, string> = {
   mr: "नमस्कार, मला PrintShubh सेवेबद्दल मदत हवी आहे.",
@@ -31,6 +32,7 @@ export function WhatsAppSupportButton() {
       href={href}
       target="_blank"
       rel="noopener noreferrer"
+      onClick={() => trackWhatsAppLead()}
       aria-label={label[lang]}
       className="fixed bottom-5 right-5 z-50 inline-flex h-14 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-lg shadow-green-600/30 transition hover:bg-green-700 sm:bottom-7 sm:right-7"
     >

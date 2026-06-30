@@ -69,7 +69,9 @@ export function SiteHeader() {
             <button
               type="button"
               onClick={() => setLang("mr")}
-              className={`px-2.5 py-1.5 transition ${
+              aria-pressed={lang === "mr"}
+              aria-label="मराठी"
+              className={`inline-flex min-h-[44px] items-center px-3 py-2 transition ${
                 lang === "mr"
                   ? "bg-blue-600 text-white"
                   : "bg-white text-slate-700 hover:bg-slate-50"
@@ -80,7 +82,9 @@ export function SiteHeader() {
             <button
               type="button"
               onClick={() => setLang("en")}
-              className={`px-2.5 py-1.5 transition ${
+              aria-pressed={lang === "en"}
+              aria-label="English"
+              className={`inline-flex min-h-[44px] items-center px-3 py-2 transition ${
                 lang === "en"
                   ? "bg-blue-600 text-white"
                   : "bg-white text-slate-700 hover:bg-slate-50"
@@ -94,7 +98,9 @@ export function SiteHeader() {
             type="button"
             onClick={() => setOpen((o) => !o)}
             aria-label="Toggle navigation"
-            className="inline-flex h-9 w-9 items-center justify-center rounded-md border border-slate-300 text-slate-700 lg:hidden"
+            aria-expanded={open}
+            aria-controls="mobile-nav"
+            className="inline-flex h-11 w-11 items-center justify-center rounded-md border border-slate-300 text-slate-700 lg:hidden"
           >
             {open ? <X className="size-4" /> : <Menu className="size-4" />}
           </button>
@@ -103,14 +109,14 @@ export function SiteHeader() {
 
       {/* Mobile nav drawer */}
       {open && (
-        <nav className="border-t border-slate-200 bg-white lg:hidden">
+        <nav id="mobile-nav" className="border-t border-slate-200 bg-white lg:hidden">
           <ul className="mx-auto flex max-w-7xl flex-col px-5 py-3 sm:px-8">
             {items.map((it) => (
               <li key={it.href}>
                 <Link
                   href={it.href}
                   onClick={() => setOpen(false)}
-                  className="block rounded-md px-2 py-2.5 text-sm font-semibold text-slate-700 transition hover:bg-blue-50 hover:text-blue-700"
+                  className="flex min-h-[48px] items-center rounded-md px-2 py-2.5 text-sm font-semibold text-slate-700 transition hover:bg-blue-50 hover:text-blue-700"
                 >
                   {it.label}
                 </Link>
