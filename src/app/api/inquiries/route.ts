@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { insertInquiry } from "@/lib/inquiries";
+import { notifyNewInquiry } from "@/lib/notify-inquiry";
 
 /**
  * Public endpoint the landing-page inquiry form posts to. Validates, applies a
@@ -47,7 +48,7 @@ export async function POST(req: Request) {
     return NextResponse.json({ ok: false, error: "invalid" }, { status: 400 });
   }
 
-  const result = await insertInquiry({
+  const payload = {
     customer_name: name.slice(0, 120),
     mobile: mobile.slice(0, 15),
     service: str(body.service).slice(0, 80) || undefined,
@@ -56,10 +57,17 @@ export async function POST(req: Request) {
     village: str(body.village).slice(0, 80) || undefined,
     gat: str(body.gat).slice(0, 80) || undefined,
     note: str(body.note).slice(0, 1000) || undefined,
-  });
+  };
+
+  const result = await insertInquiry(payload);
 
   if (!result.ok) {
     return NextResponse.json({ ok: false, error: result.error }, { status: 500 });
   }
+
+  // Best-effort owner alert — inert until Resend env is set; never throws, so
+  // a failed email can't lose the lead (already saved above).
+  await notifyNewInquiry(payload);
+
   return NextResponse.json({ ok: true });
 }
