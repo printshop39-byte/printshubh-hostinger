@@ -4,6 +4,7 @@ import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
 import { QuickChips } from "@/components/quick-chips";
+import { UnifiedRecordForm } from "@/components/unified-record-form";
 import { ServicesGrid } from "@/components/services-grid";
 import { MapPromo } from "@/components/map-promo";
 import { TrustBar } from "@/components/trust-bar";
@@ -64,6 +65,9 @@ export default function Home() {
 
         {/* Mobile-only quick shortcuts to the most-requested services */}
         <QuickChips />
+
+        {/* Unified record picker — type → district/taluka/village → WhatsApp */}
+        <UnifiedRecordForm />
 
         {/* Trust signals — experience, coverage, delivery, payment */}
         <TrustBar />
