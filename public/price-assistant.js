@@ -167,7 +167,10 @@
     '.psb-wa svg{width:20px;height:20px;flex:0 0 auto}' +
     '.psb-back{background:transparent;border:0;color:#1f6feb;cursor:pointer;font-family:inherit;font-size:13px;font-weight:700;padding:6px 0;margin-bottom:6px;display:inline-flex;align-items:center;gap:5px}' +
     '.psb-foot{padding:10px 13px;background:#eef1f0;border-top:1px solid #e0e4e2;font-size:10.5px;line-height:1.5;color:#5a635e}' +
-    '@media (max-width:480px){.psb-panel{right:0;bottom:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;border-radius:0}.psb-launcher{right:16px;bottom:84px}}';
+    // On mobile the launcher collapses to an icon-only circle (hide the text
+    // span; aria-label keeps it labelled) and lifts above the sticky bottom
+    // nav + safe-area, so the wide pill no longer overlaps content/disclaimers.
+    '@media (max-width:480px){.psb-panel{right:0;bottom:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;border-radius:0}.psb-launcher{right:16px;bottom:calc(76px + env(safe-area-inset-bottom));padding:12px;gap:0}.psb-launcher>span:last-child{display:none}}';
 
   var style = el("style");
   style.textContent = css;

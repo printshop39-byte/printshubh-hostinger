@@ -8,7 +8,6 @@ import {
   ShieldCheck,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
-import { HeroMotionBackground } from "@/components/hero-motion-background";
 
 /* ── Translations ── */
 const t: Record<Lang, {
@@ -76,9 +75,6 @@ export function HeroContent() {
 
   return (
     <section className="relative isolate min-h-[100svh] overflow-hidden border-b border-slate-200 bg-[#f8fbff]">
-      {/* Premium Welta.ai-inspired animated background */}
-      <HeroMotionBackground />
-
       <div
         id="top"
         className="relative z-10 mx-auto w-full max-w-7xl px-5 pb-14 pt-8 sm:px-8 lg:pb-22 lg:pt-14"
