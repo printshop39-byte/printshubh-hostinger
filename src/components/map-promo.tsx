@@ -15,6 +15,7 @@ import { ArrowRight, Globe2, LayoutGrid, MapPinned, MessageCircle } from "lucide
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { InquiryButton } from "@/components/inquiry-button";
 
 const WHATSAPP_MESSAGE: Record<Lang, string> = {
   mr: "नमस्कार PrintShubh, मला नकाशा हवा आहे (DP / TPS / Regional Plan). गाव/शहर: ",
@@ -114,6 +115,7 @@ export function MapPromo() {
               </Link>
             </div>
             <p className="mt-3 text-sm text-blue-100">{tx.subCta}</p>
+            <InquiryButton variant="link" className="mt-2 text-white/90" />
           </div>
 
           {/* Right — service cards */}

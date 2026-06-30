@@ -5,6 +5,7 @@ import "./globals.css";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { LanguageProvider } from "@/components/language-context";
 import { MetaPixel } from "@/components/meta-pixel";
+import { MobileBottomNav } from "@/components/mobile-bottom-nav";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -177,9 +178,13 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="flex min-h-full flex-col antialiased">
+      <body className="flex min-h-full flex-col antialiased pb-16 md:pb-0">
         <MetaPixel />
-        <LanguageProvider>{children}</LanguageProvider>
+        <LanguageProvider>
+          {children}
+          {/* App-style sticky bottom nav — mobile only */}
+          <MobileBottomNav />
+        </LanguageProvider>
         <Script src="/price-assistant.js" strategy="afterInteractive" />
       </body>
     </html>

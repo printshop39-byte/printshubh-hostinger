@@ -3,6 +3,7 @@ import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
 import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
+import { QuickChips } from "@/components/quick-chips";
 import { ServicesGrid } from "@/components/services-grid";
 import { MapPromo } from "@/components/map-promo";
 import { TrustBar } from "@/components/trust-bar";
@@ -60,6 +61,9 @@ export default function Home() {
 
         {/* Simple hero — headline, trust strip + WhatsApp / "choose service" CTAs */}
         <HeroContent />
+
+        {/* Mobile-only quick shortcuts to the most-requested services */}
+        <QuickChips />
 
         {/* Trust signals — experience, coverage, delivery, payment */}
         <TrustBar />

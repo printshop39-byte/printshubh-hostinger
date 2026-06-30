@@ -10,6 +10,7 @@ import {
 import { useLang, type Lang } from "@/components/language-context";
 import { HeroMotionBackground } from "@/components/hero-motion-background";
 import { MaharashtraIllustration } from "@/components/maharashtra-illustration";
+import { InquiryButton } from "@/components/inquiry-button";
 
 /* ── Translations ── */
 const t: Record<Lang, {
@@ -112,6 +113,9 @@ export function HeroContent() {
               {tx.cta2}
             </a>
           </div>
+
+          {/* No-WhatsApp alternative — opens a short form that saves a lead */}
+          <InquiryButton variant="link" className="pointer-events-auto mt-3 text-blue-800" />
 
           {/* Government-disclaimer strip — sits directly under the primary
               CTAs so visitors see it before scrolling to the live picker. */}

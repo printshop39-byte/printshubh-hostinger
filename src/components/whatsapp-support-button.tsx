@@ -34,7 +34,7 @@ export function WhatsAppSupportButton() {
       rel="noopener noreferrer"
       onClick={() => trackWhatsAppLead()}
       aria-label={label[lang]}
-      className="fixed bottom-5 right-5 z-50 inline-flex h-14 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-lg shadow-green-600/30 transition hover:bg-green-700 sm:bottom-7 sm:right-7"
+      className="fixed bottom-5 right-5 z-50 hidden h-14 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-lg shadow-green-600/30 transition hover:bg-green-700 md:inline-flex md:bottom-7 md:right-7"
     >
       <MessageCircle className="size-5" />
       <span className="hidden sm:inline">{label[lang]}</span>
