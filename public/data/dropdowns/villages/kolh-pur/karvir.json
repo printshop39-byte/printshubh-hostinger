@@ -4,7 +4,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Madale",
-    "name_mr": "",
+    "name_mr": "मादळे",
     "code": "567400",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sadale",
-    "name_mr": "",
+    "name_mr": "सादळे",
     "code": "567401",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Padvalwadi",
-    "name_mr": "",
+    "name_mr": "पडवळवाडी",
     "code": "567393",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Shiye",
-    "name_mr": "",
+    "name_mr": "शिये",
     "code": "567402",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Jatharwadi",
-    "name_mr": "",
+    "name_mr": "जठारवाडी",
     "code": "567403",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bhuye",
-    "name_mr": "",
+    "name_mr": "भुये",
     "code": "567404",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bhuyewadi",
-    "name_mr": "",
+    "name_mr": "भूयेवाडी",
     "code": "567399",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kerle",
-    "name_mr": "",
+    "name_mr": "केर्ली",
     "code": "567394",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kerli",
-    "name_mr": "",
+    "name_mr": "केरळी",
     "code": "567397",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nigave  Dumala",
-    "name_mr": "",
+    "name_mr": "निगवे दुमाला",
     "code": "567398",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Warange",
-    "name_mr": "",
+    "name_mr": "वरणगे",
     "code": "567396",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nitawade",
-    "name_mr": "",
+    "name_mr": "निटवडे",
     "code": "567395",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Rajputwadi",
-    "name_mr": "",
+    "name_mr": "रजपुतवाडी",
     "code": "567406",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Wadange",
-    "name_mr": "",
+    "name_mr": "वडणगे",
     "code": "567405",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Padali Bk.",
-    "name_mr": "",
+    "name_mr": "पाडळी बुद्रुक",
     "code": "567383",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Chikhali",
-    "name_mr": "",
+    "name_mr": "चिखली",
     "code": "567407",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Hanmantwadi",
-    "name_mr": "",
+    "name_mr": "हणमंतवाडी",
     "code": "567384",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Khupire",
-    "name_mr": "",
+    "name_mr": "खुपिरे",
     "code": "567381",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Shindewadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी",
     "code": "567382",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Walivade",
-    "name_mr": "",
+    "name_mr": "वळीवडे",
     "code": "567409",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ambewadi",
-    "name_mr": "",
+    "name_mr": "आंबेवाडी",
     "code": "567408",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Chinchawade Tarf Kale",
-    "name_mr": "",
+    "name_mr": "चिंचवडे तर्फ कळे",
     "code": "567376",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Chinchwad",
-    "name_mr": "",
+    "name_mr": "चिंचवाड",
     "code": "567410",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Shinganapur",
-    "name_mr": "",
+    "name_mr": "शिंगणापूर",
     "code": "567385",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Adur",
-    "name_mr": "",
+    "name_mr": "आडूर",
     "code": "567379",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Koparde",
-    "name_mr": "",
+    "name_mr": "कोपार्डे",
     "code": "567380",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kalambe Tarf Kale",
-    "name_mr": "",
+    "name_mr": "कळंबे तर्फ कळे",
     "code": "567378",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bhamate",
-    "name_mr": "",
+    "name_mr": "भामटे",
     "code": "567377",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Uchgaon (CT)",
-    "name_mr": "",
+    "name_mr": "उचगाव",
     "code": "567499",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sabalewadi",
-    "name_mr": "",
+    "name_mr": "साबळेवाडी",
     "code": "567386",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nagadewadi",
-    "name_mr": "",
+    "name_mr": "नागदेववाडी",
     "code": "567387",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Wasagade",
-    "name_mr": "",
+    "name_mr": "वसगडे",
     "code": "567412",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Vakare",
-    "name_mr": "",
+    "name_mr": "वाकरे",
     "code": "567391",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sangrul",
-    "name_mr": "",
+    "name_mr": "सांगरूळ",
     "code": "567472",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Donwade",
-    "name_mr": "",
+    "name_mr": "दोनवडे",
     "code": "567390",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Balinge",
-    "name_mr": "",
+    "name_mr": "बालिंगे",
     "code": "567388",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kuditre",
-    "name_mr": "",
+    "name_mr": "कुडित्रे",
     "code": "567392",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sarnobatwadi",
-    "name_mr": "",
+    "name_mr": "सरनोबतवाडी",
     "code": "567416",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Padali Kh.",
-    "name_mr": "",
+    "name_mr": "पाडळी खुर्द",
     "code": "567389",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ujalaiwadi (CT)",
-    "name_mr": "",
+    "name_mr": "उजळाईवाडी",
     "code": "567497",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Khatangale",
-    "name_mr": "",
+    "name_mr": "खाटांगळे",
     "code": "567473",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Pasarde",
-    "name_mr": "",
+    "name_mr": "पासार्डे",
     "code": "567478",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Mharul",
-    "name_mr": "",
+    "name_mr": "म्हारूळ",
     "code": "567474",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Koge",
-    "name_mr": "",
+    "name_mr": "कोगे",
     "code": "567452",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kolhapur (M Corp)",
-    "name_mr": "",
+    "name_mr": "कोल्हापूर",
     "code": "251625",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kalambe T. Thane (CT)",
-    "name_mr": "",
+    "name_mr": "कळंबे  त ठाणे",
     "code": "567504",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bahireshwar.",
-    "name_mr": "",
+    "name_mr": "बहिरेश्वर",
     "code": "567475",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Amashi",
-    "name_mr": "",
+    "name_mr": "आमशी",
     "code": "567476",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sangwade",
-    "name_mr": "",
+    "name_mr": "सांगवडे",
     "code": "567413",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Tamgaon (CT)",
-    "name_mr": "",
+    "name_mr": "तामगाव",
     "code": "567503",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Morewadi (CT)",
-    "name_mr": "",
+    "name_mr": "मोरेवाडी",
     "code": "567501",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Wadipir",
-    "name_mr": "",
+    "name_mr": "वाडीपीर",
     "code": "567437",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Washi",
-    "name_mr": "",
+    "name_mr": "वाशी",
     "code": "567438",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Pachgaon (CT)",
-    "name_mr": "",
+    "name_mr": "पाचगाव",
     "code": "567500",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Gokul Shirgaon (CT)",
-    "name_mr": "",
+    "name_mr": "गोकुळ शिरगाव",
     "code": "567502",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Upawade",
-    "name_mr": "",
+    "name_mr": "उपवडे",
     "code": "567479",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Beed",
-    "name_mr": "",
+    "name_mr": "कसबा बीड",
     "code": "567454",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kandalgaon",
-    "name_mr": "",
+    "name_mr": "कंदलगाव",
     "code": "567417",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Mahe",
-    "name_mr": "",
+    "name_mr": "महे",
     "code": "567453",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ardewadi",
-    "name_mr": "",
+    "name_mr": "आरडेवाडी",
     "code": "567480",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sangwadewadi",
-    "name_mr": "",
+    "name_mr": "सांगवडेवाडी",
     "code": "567414",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ganeshwadi",
-    "name_mr": "",
+    "name_mr": "गणेशवाडी",
     "code": "567455",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Dhondewadi",
-    "name_mr": "",
+    "name_mr": "धोंडेवाडी",
     "code": "567456",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nerli",
-    "name_mr": "",
+    "name_mr": "नेर्ली",
     "code": "567418",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Waghobawadi",
-    "name_mr": "",
+    "name_mr": "वाघोबाचीवाडी",
     "code": "567477",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bololi",
-    "name_mr": "",
+    "name_mr": "बोलोली",
     "code": "567482",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Are",
-    "name_mr": "",
+    "name_mr": "आरे",
     "code": "567459",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Shipekarwadi",
-    "name_mr": "",
+    "name_mr": "शिपेकरवाडी",
     "code": "567457",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kaneriwadi (CT)",
-    "name_mr": "",
+    "name_mr": "कणेरीवाडी",
     "code": "567420",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Girgaon",
-    "name_mr": "",
+    "name_mr": "गिरगाव",
     "code": "567424",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Shelakewadi",
-    "name_mr": "",
+    "name_mr": "शेळकेवाडी",
     "code": "567439",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Savarwadi",
-    "name_mr": "",
+    "name_mr": "सावरवाडी",
     "code": "567458",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kekatwadi",
-    "name_mr": "",
+    "name_mr": "केकतवाडी",
     "code": "567483",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Halsavade",
-    "name_mr": "",
+    "name_mr": "हलसवडे",
     "code": "567415",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kaneri (CT)",
-    "name_mr": "",
+    "name_mr": "कणेरी",
     "code": "567421",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Durgulwadi",
-    "name_mr": "",
+    "name_mr": "दुर्गुळवाडी",
     "code": "567481",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Dhangarwadi",
-    "name_mr": "",
+    "name_mr": "धनगरवाडी",
     "code": "567460",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Gadegoundwadi",
-    "name_mr": "",
+    "name_mr": "गाडेगोंडवाडी",
     "code": "567461",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Shiroli Dumala",
-    "name_mr": "",
+    "name_mr": "शिरोली दुमाला",
     "code": "567484",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nandwal",
-    "name_mr": "",
+    "name_mr": "नंदवाळ",
     "code": "567441",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Vikaswadi",
-    "name_mr": "",
+    "name_mr": "विकासवाडी",
     "code": "567419",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kandgaon",
-    "name_mr": "",
+    "name_mr": "कांडगाव",
     "code": "567440",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bachani",
-    "name_mr": "",
+    "name_mr": "बाचणी",
     "code": "567463",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Mandare",
-    "name_mr": "",
+    "name_mr": "मांडरे",
     "code": "567488",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Chafodi",
-    "name_mr": "",
+    "name_mr": "चाफोडी",
     "code": "567491",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Savarde Dumala",
-    "name_mr": "",
+    "name_mr": "सावर्डे  दुमाला",
     "code": "567487",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Donwadi",
-    "name_mr": "",
+    "name_mr": "दोनवडी",
     "code": "567490",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Karbharwadi",
-    "name_mr": "",
+    "name_mr": "कारभारवाडी",
     "code": "567462",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sadoli Dumala",
-    "name_mr": "",
+    "name_mr": "सडोली दुमाला",
     "code": "567486",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Arale",
-    "name_mr": "",
+    "name_mr": "कसबा आरळे",
     "code": "567492",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Teraswadi",
-    "name_mr": "",
+    "name_mr": "तेरसवाडी",
     "code": "567493",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Garjan",
-    "name_mr": "",
+    "name_mr": "गर्जन",
     "code": "567489",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sadoli Khalsa",
-    "name_mr": "",
+    "name_mr": "सडोली  खालसा",
     "code": "567464",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kanchanwadi",
-    "name_mr": "",
+    "name_mr": "कांचनवाडी",
     "code": "567470",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kothali",
-    "name_mr": "",
+    "name_mr": "कोथळी",
     "code": "567446",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ispurli",
-    "name_mr": "",
+    "name_mr": "इस्पुर्ली",
     "code": "567432",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Hasur",
-    "name_mr": "",
+    "name_mr": "हसूर",
     "code": "567466",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ghanawade",
-    "name_mr": "",
+    "name_mr": "घानवडे",
     "code": "567494",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Mhalasvade",
-    "name_mr": "",
+    "name_mr": "म्हालसवडे",
     "code": "567471",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Ghungurwadi",
-    "name_mr": "",
+    "name_mr": "घुंगुरवाडी",
     "code": "567495",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kurdu",
-    "name_mr": "",
+    "name_mr": "कुर्डू",
     "code": "567445",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Manjarwadi",
-    "name_mr": "",
+    "name_mr": "मांजरवाडी",
     "code": "567496",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kurukli",
-    "name_mr": "",
+    "name_mr": "कुरुकली",
     "code": "567447",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bele",
-    "name_mr": "",
+    "name_mr": "बेले",
     "code": "567448",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nandgaon",
-    "name_mr": "",
+    "name_mr": "नंदगांव",
     "code": "567429",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Yevati",
-    "name_mr": "",
+    "name_mr": "येवती",
     "code": "567449",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nagaon",
-    "name_mr": "",
+    "name_mr": "नागांव",
     "code": "567431",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Mhalunge",
-    "name_mr": "",
+    "name_mr": "म्हाळुंगे",
     "code": "567450",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Parite",
-    "name_mr": "",
+    "name_mr": "परिते",
     "code": "567451",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Wadakashivale",
-    "name_mr": "",
+    "name_mr": "वडकशिवाले",
     "code": "567433",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Khebavade",
-    "name_mr": "",
+    "name_mr": "खेबवडे",
     "code": "567430",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Chuye",
-    "name_mr": "",
+    "name_mr": "चुये",
     "code": "567434",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kavane",
-    "name_mr": "",
+    "name_mr": "कावणे",
     "code": "567435",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Nigave Khalsa",
-    "name_mr": "",
+    "name_mr": "निगवे खालसा",
     "code": "567436",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Jaital",
-    "name_mr": "",
+    "name_mr": "जैताळ",
     "code": "567442",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Hanbarwadi",
-    "name_mr": "",
+    "name_mr": "हणबरवाडी",
     "code": "567427",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kogil Kh.",
-    "name_mr": "",
+    "name_mr": "कोगील खुर्द",
     "code": "567423",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1057,7 +1057,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Hirawade Dumala",
-    "name_mr": "",
+    "name_mr": "हिरवडे दुमाला",
     "code": "567485",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1066,7 +1066,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Kogil Bk.",
-    "name_mr": "",
+    "name_mr": "कोगील  बुद्रुक",
     "code": "567422",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1075,7 +1075,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Dewale",
-    "name_mr": "",
+    "name_mr": "देवाळे",
     "code": "567443",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1084,7 +1084,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Dindnevli",
-    "name_mr": "",
+    "name_mr": "दिंडनेर्ली",
     "code": "567428",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1093,7 +1093,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Waddwadi",
-    "name_mr": "",
+    "name_mr": "वड्डवाडी",
     "code": "567425",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1102,7 +1102,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Hirawade Khalasa",
-    "name_mr": "",
+    "name_mr": "हिरवडे खालसा",
     "code": "567465",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1111,7 +1111,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Wadagaon",
-    "name_mr": "",
+    "name_mr": "हसुर दुमाला",
     "code": "567426",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1120,7 +1120,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Haladi",
-    "name_mr": "",
+    "name_mr": "हळदी",
     "code": "567444",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1129,7 +1129,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Sonali",
-    "name_mr": "",
+    "name_mr": "सोनाळी",
     "code": "567468",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1138,7 +1138,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Patekarwadi",
-    "name_mr": "",
+    "name_mr": "पाटेकरवाडी",
     "code": "567469",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1147,7 +1147,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Bhatanwadi",
-    "name_mr": "",
+    "name_mr": "भाटणवाडी",
     "code": "567467",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1156,7 +1156,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Gandinagar (CT)",
-    "name_mr": "",
+    "name_mr": "गांधीनगर",
     "code": "567498",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1165,7 +1165,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "Mudashingi",
-    "name_mr": "",
+    "name_mr": "मुडशिंगी",
     "code": "567411",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   },
@@ -1174,7 +1174,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "karvir",
     "name_en": "New Wadade",
-    "name_mr": "",
+    "name_mr": "न्यू वाडदे",
     "code": "921519",
     "boundary_file": "/data/boundaries/villages/kolh-pur/karvir.geojson"
   }

@@ -4,7 +4,7 @@
     "district_id": "pune",
     "taluka_id": "pune-city",
     "name_en": "Kirkee (CB)",
-    "name_mr": "",
+    "name_mr": "किरकी",
     "code": "277295",
     "boundary_file": "/data/boundaries/villages/pune/pune-city.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "pune",
     "taluka_id": "pune-city",
     "name_en": "Pune (M Corp)",
-    "name_mr": "",
+    "name_mr": "पुणे",
     "code": "251530",
     "boundary_file": "/data/boundaries/villages/pune/pune-city.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "pune",
     "taluka_id": "pune-city",
     "name_en": "Pune (CB)",
-    "name_mr": "",
+    "name_mr": "पुणे",
     "code": "277298",
     "boundary_file": "/data/boundaries/villages/pune/pune-city.geojson"
   }

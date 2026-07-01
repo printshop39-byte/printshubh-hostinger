@@ -4,7 +4,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kalthan No.1",
-    "name_mr": "",
+    "name_mr": "कालठण नं.1",
     "code": "557076",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kalthan No.2",
-    "name_mr": "",
+    "name_mr": "कालठण नं.2",
     "code": "557086",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Vangali",
-    "name_mr": "",
+    "name_mr": "वनगळी",
     "code": "557090",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Jamb",
-    "name_mr": "",
+    "name_mr": "जांब",
     "code": "557035",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kurawali",
-    "name_mr": "",
+    "name_mr": "कुरवली",
     "code": "557036",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Mankarwadi",
-    "name_mr": "",
+    "name_mr": "मानकरवाडी",
     "code": "557032",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhandgaon",
-    "name_mr": "",
+    "name_mr": "भांडगांव",
     "code": "557109",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bawada",
-    "name_mr": "",
+    "name_mr": "बावडा",
     "code": "557111",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kacharewadi",
-    "name_mr": "",
+    "name_mr": "कचरवाडी बावडा",
     "code": "557117",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sarati",
-    "name_mr": "",
+    "name_mr": "सराटी",
     "code": "557118",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhigvanstation",
-    "name_mr": "",
+    "name_mr": "भिगवनस्टेशन",
     "code": "556989",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Takrarwadi",
-    "name_mr": "",
+    "name_mr": "तक्रारवाडी",
     "code": "556987",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Dikasal",
-    "name_mr": "",
+    "name_mr": "डिकसळ",
     "code": "556990",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhigvan",
-    "name_mr": "",
+    "name_mr": "भिगवण",
     "code": "556988",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Shetphalgadhe",
-    "name_mr": "",
+    "name_mr": "शेटफळ गढे",
     "code": "556984",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pimpale",
-    "name_mr": "",
+    "name_mr": "पिंपळे",
     "code": "556985",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Dalaj No.1",
-    "name_mr": "",
+    "name_mr": "डाळज नं 1",
     "code": "557000",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bandgarwadi",
-    "name_mr": "",
+    "name_mr": "बंडगारवाडी",
     "code": "556992",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Poundhawadi",
-    "name_mr": "",
+    "name_mr": "पोंधवडी",
     "code": "556993",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Ganjewalan",
-    "name_mr": "",
+    "name_mr": "गांजेवळण",
     "code": "557074",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhadalwadi",
-    "name_mr": "",
+    "name_mr": "भादलवाडी",
     "code": "556999",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Lamjewadi",
-    "name_mr": "",
+    "name_mr": "लामजेवाडी",
     "code": "556994",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Agoti No.2",
-    "name_mr": "",
+    "name_mr": "आगोती नं. 2",
     "code": "557073",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nirgude",
-    "name_mr": "",
+    "name_mr": "निरगुडे",
     "code": "556995",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kalewadi",
-    "name_mr": "",
+    "name_mr": "काळेवाडी",
     "code": "557003",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhawadi",
-    "name_mr": "",
+    "name_mr": "भावडी",
     "code": "557007",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Dalaj No.3",
-    "name_mr": "",
+    "name_mr": "डाळज नं 3",
     "code": "557002",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Agoti No.1",
-    "name_mr": "",
+    "name_mr": "आगोती नं. 1",
     "code": "557072",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bandewadi",
-    "name_mr": "",
+    "name_mr": "बांडेवाडी",
     "code": "557004",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Mhasobachiwadi",
-    "name_mr": "",
+    "name_mr": "म्हसोबाचीवाडी",
     "code": "556996",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pilewadi",
-    "name_mr": "",
+    "name_mr": "पिलेवाडी",
     "code": "557038",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Akole",
-    "name_mr": "",
+    "name_mr": "अकोले",
     "code": "556998",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Loni",
-    "name_mr": "",
+    "name_mr": "लोणी देवकर",
     "code": "557008",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Takali",
-    "name_mr": "",
+    "name_mr": "टाकली",
     "code": "557079",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Padasthal",
-    "name_mr": "",
+    "name_mr": "पडस्थळ",
     "code": "557078",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Gosaviwadi",
-    "name_mr": "",
+    "name_mr": "गोसावीवाडी",
     "code": "557042",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kalas",
-    "name_mr": "",
+    "name_mr": "कळस",
     "code": "557043",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Maradwadi",
-    "name_mr": "",
+    "name_mr": "मराडेवाडी",
     "code": "557039",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nhavi",
-    "name_mr": "",
+    "name_mr": "न्हावी",
     "code": "557040",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Vaysewadi",
-    "name_mr": "",
+    "name_mr": "वायसेवाडी",
     "code": "556997",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Shirsadi",
-    "name_mr": "",
+    "name_mr": "शिरसोडी",
     "code": "557077",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Rui",
-    "name_mr": "",
+    "name_mr": "रुई",
     "code": "557041",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Lakadi",
-    "name_mr": "",
+    "name_mr": "लाकडी",
     "code": "557012",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Balpudi",
-    "name_mr": "",
+    "name_mr": "बळपूडी",
     "code": "557010",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kazad",
-    "name_mr": "",
+    "name_mr": "काझड",
     "code": "557014",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Ajoti",
-    "name_mr": "",
+    "name_mr": "अजोती",
     "code": "557080",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Shindewadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी",
     "code": "557013",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Gagargaon",
-    "name_mr": "",
+    "name_mr": "गागरगांव",
     "code": "557087",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pimpri Kh.",
-    "name_mr": "",
+    "name_mr": "पिंपरी खुर्द",
     "code": "557082",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kauthali",
-    "name_mr": "",
+    "name_mr": "कौठळी",
     "code": "557059",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Thoratwadi",
-    "name_mr": "",
+    "name_mr": "थोरातवाडी (रूई)",
     "code": "557044",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Malwadi",
-    "name_mr": "",
+    "name_mr": "माळवाडी",
     "code": "557083",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Rajwadi",
-    "name_mr": "",
+    "name_mr": "राजवडी",
     "code": "557089",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Birgundwadi",
-    "name_mr": "",
+    "name_mr": "बिरंगुडवाडी",
     "code": "557045",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Narutwadi",
-    "name_mr": "",
+    "name_mr": "नरुटवाडी",
     "code": "557085",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sugaon",
-    "name_mr": "",
+    "name_mr": "सुगांव",
     "code": "557081",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nimbodi",
-    "name_mr": "",
+    "name_mr": "निंबोडी",
     "code": "557015",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bijwadi",
-    "name_mr": "",
+    "name_mr": "बिजवडी",
     "code": "557088",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kadbanwadi",
-    "name_mr": "",
+    "name_mr": "कडबनवाडी",
     "code": "557049",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Indapur (M CI)",
-    "name_mr": "",
+    "name_mr": "इंदापूर",
     "code": "251537",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bori",
-    "name_mr": "",
+    "name_mr": "बोरी",
     "code": "557016",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Vyahali",
-    "name_mr": "",
+    "name_mr": "व्याहळी",
     "code": "557060",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Shelgaon",
-    "name_mr": "",
+    "name_mr": "शेळगांव",
     "code": "557046",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pondkulwadi",
-    "name_mr": "",
+    "name_mr": "पोंदकुलवाडी",
     "code": "557091",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sansar",
-    "name_mr": "",
+    "name_mr": "सणसर",
     "code": "557017",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhawaninagar",
-    "name_mr": "",
+    "name_mr": "भवानीनगर",
     "code": "557018",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bharnewadi",
-    "name_mr": "",
+    "name_mr": "भरणेवाडी",
     "code": "557047",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Tarangwadi",
-    "name_mr": "",
+    "name_mr": "तरंगवाडी",
     "code": "557099",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nimgaon Ketki",
-    "name_mr": "",
+    "name_mr": "निमगाव केतकी",
     "code": "557063",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Shaha",
-    "name_mr": "",
+    "name_mr": "शहा",
     "code": "557092",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bambadwadi",
-    "name_mr": "",
+    "name_mr": "बांबडवाडी",
     "code": "557031",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Jachakvasti",
-    "name_mr": "",
+    "name_mr": "जाचकवस्ती",
     "code": "557019",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kandalgaon",
-    "name_mr": "",
+    "name_mr": "कांदलगाव",
     "code": "557093",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kacharewadi",
-    "name_mr": "",
+    "name_mr": "कचरवाडी (नि .के)",
     "code": "557061",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sardewadi",
-    "name_mr": "",
+    "name_mr": "सरडेवाडी",
     "code": "557096",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Gokhali",
-    "name_mr": "",
+    "name_mr": "गोखळी",
     "code": "557098",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sapkalwadi",
-    "name_mr": "",
+    "name_mr": "सपकळवाडी",
     "code": "557025",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Belewadi",
-    "name_mr": "",
+    "name_mr": "बेलवाडी",
     "code": "557024",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Hinganewadi",
-    "name_mr": "",
+    "name_mr": "हिंगणेवाडी",
     "code": "557026",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Hingangaon",
-    "name_mr": "",
+    "name_mr": "हिंगणगांव",
     "code": "557095",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Anthurne",
-    "name_mr": "",
+    "name_mr": "अंथुर्णे",
     "code": "557048",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Tawashi",
-    "name_mr": "",
+    "name_mr": "तावशी",
     "code": "557034",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Galand Wadi No.2",
-    "name_mr": "",
+    "name_mr": "गलांडवाडी नं. २",
     "code": "557097",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Gotandi",
-    "name_mr": "",
+    "name_mr": "गोतोंडी",
     "code": "557062",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Lasurne",
-    "name_mr": "",
+    "name_mr": "लासुर्णे",
     "code": "557022",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Thoratwadi",
-    "name_mr": "",
+    "name_mr": "थोरातवाडी",
     "code": "557029",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Taratgaon",
-    "name_mr": "",
+    "name_mr": "तरटगांव",
     "code": "557094",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Gholapwadi",
-    "name_mr": "",
+    "name_mr": "घोलपवाडी",
     "code": "557033",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pawarwadi",
-    "name_mr": "",
+    "name_mr": "पवारवाडी",
     "code": "557023",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Varkute Kh.",
-    "name_mr": "",
+    "name_mr": "वरकुटे खुर्द",
     "code": "557064",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Zagadewadi",
-    "name_mr": "",
+    "name_mr": "झगडेवाडी",
     "code": "557100",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sirsatwadi",
-    "name_mr": "",
+    "name_mr": "शिरसटवाडी",
     "code": "557054",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Babhulgaon",
-    "name_mr": "",
+    "name_mr": "बाभुळगाव",
     "code": "557104",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Hangarwadi",
-    "name_mr": "",
+    "name_mr": "हगारेवाडी",
     "code": "557050",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Vadapuri",
-    "name_mr": "",
+    "name_mr": "वडापुरी",
     "code": "557102",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kardanwadi",
-    "name_mr": "",
+    "name_mr": "कर्दनवाडी",
     "code": "557020",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Udhat",
-    "name_mr": "",
+    "name_mr": "उध्दट",
     "code": "557027",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pitkeshwar",
-    "name_mr": "",
+    "name_mr": "पिटकेश्वर",
     "code": "557051",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Paritwadi",
-    "name_mr": "",
+    "name_mr": "परीटवाडी",
     "code": "557028",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bedshinge",
-    "name_mr": "",
+    "name_mr": "बेडशिंगे",
     "code": "557103",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kalamb",
-    "name_mr": "",
+    "name_mr": "कळंब",
     "code": "557056",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Chavhanwadi",
-    "name_mr": "",
+    "name_mr": "चव्हाणवाडी",
     "code": "557030",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Ranmodwadi",
-    "name_mr": "",
+    "name_mr": "रणमोडवाडी",
     "code": "557055",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pandharwadi",
-    "name_mr": "",
+    "name_mr": "पंधारवाडी",
     "code": "557101",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Awasari",
-    "name_mr": "",
+    "name_mr": "अवसरी",
     "code": "557105",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhat Nimgaon",
-    "name_mr": "",
+    "name_mr": "भाट निमगांव",
     "code": "557106",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kati",
-    "name_mr": "",
+    "name_mr": "काटी",
     "code": "557065",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nimsakhar",
-    "name_mr": "",
+    "name_mr": "निमसाख़र",
     "code": "557057",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Chikhali",
-    "name_mr": "",
+    "name_mr": "चिखली",
     "code": "557037",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Shetphal Haveli",
-    "name_mr": "",
+    "name_mr": "शेटफळ हवेली",
     "code": "557107",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Ghorpadwadi",
-    "name_mr": "",
+    "name_mr": "घोरपडवाडी",
     "code": "557053",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Sarafwadi",
-    "name_mr": "",
+    "name_mr": "सराफवाडी",
     "code": "557052",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nirwangi",
-    "name_mr": "",
+    "name_mr": "निरवांगी",
     "code": "557058",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Surwad",
-    "name_mr": "",
+    "name_mr": "सुरवड",
     "code": "557108",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Reda",
-    "name_mr": "",
+    "name_mr": "रेडा",
     "code": "557067",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Vakilwasti",
-    "name_mr": "",
+    "name_mr": "वकीलवस्ती",
     "code": "557110",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Redani",
-    "name_mr": "",
+    "name_mr": "रेडणी",
     "code": "557068",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1057,7 +1057,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Bhodani",
-    "name_mr": "",
+    "name_mr": "भोडणी",
     "code": "557112",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1066,7 +1066,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Narsingpur",
-    "name_mr": "",
+    "name_mr": "नरसिंहपूर",
     "code": "557124",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1075,7 +1075,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Lakhewadi",
-    "name_mr": "",
+    "name_mr": "लाखेवाडी",
     "code": "557113",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1084,7 +1084,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Khorochi",
-    "name_mr": "",
+    "name_mr": "खोरोची",
     "code": "557069",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1093,7 +1093,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Tannu",
-    "name_mr": "",
+    "name_mr": "टणू",
     "code": "557123",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1102,7 +1102,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pimpri Bk.",
-    "name_mr": "",
+    "name_mr": "पिंपरी बुद्रुक",
     "code": "557122",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1111,7 +1111,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Chakati",
-    "name_mr": "",
+    "name_mr": "चाकाटी",
     "code": "557114",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1120,7 +1120,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Giravi",
-    "name_mr": "",
+    "name_mr": "गिरवी",
     "code": "557125",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1129,7 +1129,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Boratwadi",
-    "name_mr": "",
+    "name_mr": "बोराटवाडी",
     "code": "557070",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1138,7 +1138,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Ganeshwadi",
-    "name_mr": "",
+    "name_mr": "गणेशवाडी",
     "code": "557121",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1147,7 +1147,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Pithewadi",
-    "name_mr": "",
+    "name_mr": "पिठेवाडी",
     "code": "557115",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1156,7 +1156,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Nirnimgaon",
-    "name_mr": "",
+    "name_mr": "निरनिमगाव",
     "code": "557116",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1165,7 +1165,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Gondi",
-    "name_mr": "",
+    "name_mr": "गोंदी",
     "code": "557120",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1174,7 +1174,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Ozare",
-    "name_mr": "",
+    "name_mr": "ओझरे",
     "code": "557126",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1183,7 +1183,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Lumewadi",
-    "name_mr": "",
+    "name_mr": "लुमेवाडी",
     "code": "557119",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1192,7 +1192,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Madanwadi",
-    "name_mr": "",
+    "name_mr": "मदनवाडी",
     "code": "556986",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1201,7 +1201,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kumbhargaon",
-    "name_mr": "",
+    "name_mr": "कुंभारगांव",
     "code": "556991",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1210,7 +1210,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Chandgaon",
-    "name_mr": "",
+    "name_mr": "चांडगांव",
     "code": "557071",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1219,7 +1219,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Palasdeo",
-    "name_mr": "",
+    "name_mr": "पळसदेव",
     "code": "557005",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1228,7 +1228,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Malewadi",
-    "name_mr": "",
+    "name_mr": "माळेवाडी (पळसदेव)",
     "code": "557006",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1237,7 +1237,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Kalashi",
-    "name_mr": "",
+    "name_mr": "कळाशी",
     "code": "557075",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1246,7 +1246,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Varkute Bk.",
-    "name_mr": "",
+    "name_mr": "वरकुटे बुद्रुक",
     "code": "557009",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1255,7 +1255,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Karewadi",
-    "name_mr": "",
+    "name_mr": "करेवाडी",
     "code": "557011",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1264,7 +1264,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Dalaj No.2",
-    "name_mr": "",
+    "name_mr": "डाळज नं 2",
     "code": "557001",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1273,7 +1273,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Jadhavwadi",
-    "name_mr": "",
+    "name_mr": "जाधववाडी",
     "code": "557066",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1282,7 +1282,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Galand Wadi No.1",
-    "name_mr": "",
+    "name_mr": "गलांडवाडी नं 1",
     "code": "557084",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1291,7 +1291,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Jankshan",
-    "name_mr": "",
+    "name_mr": "जंक्शन",
     "code": "557021",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   },
@@ -1300,7 +1300,7 @@
     "district_id": "pune",
     "taluka_id": "indapur",
     "name_en": "Anandnagar",
-    "name_mr": "",
+    "name_mr": "आनंदनगर",
     "code": "916475",
     "boundary_file": "/data/boundaries/villages/pune/indapur.geojson"
   }

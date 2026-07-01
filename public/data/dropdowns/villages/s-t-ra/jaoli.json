@@ -4,7 +4,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Divdevwadi",
-    "name_mr": "",
+    "name_mr": "दिवदेववाडी",
     "code": "563986",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Rangeghar",
-    "name_mr": "",
+    "name_mr": "रानगेघर",
     "code": "564027",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Karedi t.kudal",
-    "name_mr": "",
+    "name_mr": "करंदी त. कुडाळ",
     "code": "564028",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhivadi",
-    "name_mr": "",
+    "name_mr": "भिवडी",
     "code": "564034",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mamurdi",
-    "name_mr": "",
+    "name_mr": "मामुर्डी",
     "code": "563987",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhamghar",
-    "name_mr": "",
+    "name_mr": "भामघर",
     "code": "563983",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sangvi t. kudal",
-    "name_mr": "",
+    "name_mr": "सांगवी त. कुडाळ",
     "code": "564033",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Galdev",
-    "name_mr": "",
+    "name_mr": "गाळदेव",
     "code": "563982",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Chorambe",
-    "name_mr": "",
+    "name_mr": "चोरांबे",
     "code": "563993",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mhate bk",
-    "name_mr": "",
+    "name_mr": "म्हाते बुद्रुक",
     "code": "563988",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Songaon",
-    "name_mr": "",
+    "name_mr": "सोनगाव",
     "code": "564105",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dare bk.",
-    "name_mr": "",
+    "name_mr": "दरे बुद्रुक",
     "code": "564102",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Karanje",
-    "name_mr": "",
+    "name_mr": "करंजे",
     "code": "564073",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Arde",
-    "name_mr": "",
+    "name_mr": "आर्डे",
     "code": "564106",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vadgare",
-    "name_mr": "",
+    "name_mr": "वाघदरे",
     "code": "563989",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Nandgane",
-    "name_mr": "",
+    "name_mr": "नांदगणे",
     "code": "563973",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ambeghar t.kudal",
-    "name_mr": "",
+    "name_mr": "आंबेघर त. कुडाळ",
     "code": "564012",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kavadi",
-    "name_mr": "",
+    "name_mr": "कावडी",
     "code": "564007",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sanapane",
-    "name_mr": "",
+    "name_mr": "सनपाने",
     "code": "564017",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhogavali t.kudal",
-    "name_mr": "",
+    "name_mr": "भोगवली त. कुडाळ",
     "code": "564013",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Hateghar",
-    "name_mr": "",
+    "name_mr": "हातगेघर",
     "code": "564014",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kuraloshi",
-    "name_mr": "",
+    "name_mr": "कुरळोशी",
     "code": "563972",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ambeghar  t medha",
-    "name_mr": "",
+    "name_mr": "आंबेघर त. मेढा",
     "code": "563979",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Akhade",
-    "name_mr": "",
+    "name_mr": "आखाडे",
     "code": "564018",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kelghar t medha",
-    "name_mr": "",
+    "name_mr": "केळघर त. मेढा",
     "code": "563976",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Shete",
-    "name_mr": "",
+    "name_mr": "शेते",
     "code": "564030",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhaleghar",
-    "name_mr": "",
+    "name_mr": "भालेघर",
     "code": "564016",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sayghar",
-    "name_mr": "",
+    "name_mr": "सायघर",
     "code": "564015",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ruighar",
-    "name_mr": "",
+    "name_mr": "रुईघर",
     "code": "563994",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhuteghar",
-    "name_mr": "",
+    "name_mr": "भुतेघर",
     "code": "563962",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Shindewadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी",
     "code": "563995",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Katavali",
-    "name_mr": "",
+    "name_mr": "काटवली",
     "code": "563996",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Beloshi",
-    "name_mr": "",
+    "name_mr": "बेलोशी",
     "code": "563997",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bondarwadi",
-    "name_mr": "",
+    "name_mr": "बोंडारवाडी",
     "code": "563961",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dapawadi",
-    "name_mr": "",
+    "name_mr": "दापवडी",
     "code": "564002",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bahule",
-    "name_mr": "",
+    "name_mr": "बाहुळे",
     "code": "563964",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kharshi  baramure",
-    "name_mr": "",
+    "name_mr": "खर्शी बारामुरे",
     "code": "564003",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Pimpali",
-    "name_mr": "",
+    "name_mr": "पिंपळी",
     "code": "564004",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vahite",
-    "name_mr": "",
+    "name_mr": "वाहिटे",
     "code": "563963",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ghoteghar",
-    "name_mr": "",
+    "name_mr": "घोटेघर",
     "code": "564000",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ranjni",
-    "name_mr": "",
+    "name_mr": "रांजणी",
     "code": "563999",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Taloshi",
-    "name_mr": "",
+    "name_mr": "तळोशी",
     "code": "563968",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Valanjwadi",
-    "name_mr": "",
+    "name_mr": "वाळंजवाडी",
     "code": "563967",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kedambe",
-    "name_mr": "",
+    "name_mr": "केडंबे",
     "code": "563969",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mahu",
-    "name_mr": "",
+    "name_mr": "महु",
     "code": "564001",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Valuth",
-    "name_mr": "",
+    "name_mr": "वालुथ",
     "code": "564011",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mukavale",
-    "name_mr": "",
+    "name_mr": "मुकवली",
     "code": "563965",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vahagaon",
-    "name_mr": "",
+    "name_mr": "वहागांव",
     "code": "563998",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ramwadi",
-    "name_mr": "",
+    "name_mr": "रामवाडी",
     "code": "564010",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Jarewadi",
-    "name_mr": "",
+    "name_mr": "जरेवाडी",
     "code": "564021",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vatambe",
-    "name_mr": "",
+    "name_mr": "वाटंबे",
     "code": "563966",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Humgaon",
-    "name_mr": "",
+    "name_mr": "हुमगाव",
     "code": "564020",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Akhegani",
-    "name_mr": "",
+    "name_mr": "आखेगणी",
     "code": "564005",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Rengadiwadi",
-    "name_mr": "",
+    "name_mr": "रेंगडीवाडी",
     "code": "563971",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Panas",
-    "name_mr": "",
+    "name_mr": "पानस",
     "code": "564008",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Varoshi",
-    "name_mr": "",
+    "name_mr": "वरोशी",
     "code": "563970",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Punavadi",
-    "name_mr": "",
+    "name_mr": "पुनवडी",
     "code": "563974",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kolewadi",
-    "name_mr": "",
+    "name_mr": "कोलेवाडी",
     "code": "564019",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sartale",
-    "name_mr": "",
+    "name_mr": "सरताळे",
     "code": "564022",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mhasve",
-    "name_mr": "",
+    "name_mr": "म्हसवे",
     "code": "564023",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Karhar",
-    "name_mr": "",
+    "name_mr": "करहर",
     "code": "564009",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Somardi",
-    "name_mr": "",
+    "name_mr": "सोमर्डी",
     "code": "564024",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dangreghar",
-    "name_mr": "",
+    "name_mr": "डांगरेघर",
     "code": "563975",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vivar",
-    "name_mr": "",
+    "name_mr": "विवर",
     "code": "564006",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Asani",
-    "name_mr": "",
+    "name_mr": "आसनी",
     "code": "563978",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bamnoli t. kudal",
-    "name_mr": "",
+    "name_mr": "बामणोली. त. कुडाळ",
     "code": "564029",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Gavdi",
-    "name_mr": "",
+    "name_mr": "गवडी",
     "code": "563980",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Indavli",
-    "name_mr": "",
+    "name_mr": "इंदवली त. कुडाळ",
     "code": "564025",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Marli",
-    "name_mr": "",
+    "name_mr": "मार्ली",
     "code": "564026",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Divdev",
-    "name_mr": "",
+    "name_mr": "दिवदेव",
     "code": "563985",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Okhavadi",
-    "name_mr": "",
+    "name_mr": "ओखवडी",
     "code": "563977",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sarjapur",
-    "name_mr": "",
+    "name_mr": "सर्जापूर",
     "code": "564032",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhogavali t. medha",
-    "name_mr": "",
+    "name_mr": "भोगवली त. मेढा",
     "code": "563981",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Savali",
-    "name_mr": "",
+    "name_mr": "सावली",
     "code": "563984",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Alewadi",
-    "name_mr": "",
+    "name_mr": "आलेवाडी",
     "code": "564100",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mhate kh.",
-    "name_mr": "",
+    "name_mr": "म्हाते खुर्द",
     "code": "563991",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mohat",
-    "name_mr": "",
+    "name_mr": "मोहाट",
     "code": "563992",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Gondemal",
-    "name_mr": "",
+    "name_mr": "गोंदेमाळ",
     "code": "563990",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kharshi t. kudal",
-    "name_mr": "",
+    "name_mr": "खर्शी त. कुडाळ",
     "code": "564111",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Medha (NP)",
-    "name_mr": "",
+    "name_mr": "मेधा",
     "code": "276415",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Anewadi",
-    "name_mr": "",
+    "name_mr": "आनेवाडी",
     "code": "564112",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Belawade",
-    "name_mr": "",
+    "name_mr": "बेलावडे",
     "code": "564107",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mahigaon",
-    "name_mr": "",
+    "name_mr": "महिगांव",
     "code": "564109",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Prabhuchiwadi",
-    "name_mr": "",
+    "name_mr": "प्रभूचीवाडी",
     "code": "564110",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Rendimura",
-    "name_mr": "",
+    "name_mr": "रेंडीमुरा",
     "code": "564103",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Maradmure",
-    "name_mr": "",
+    "name_mr": "मरडमुरे",
     "code": "564108",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Waki",
-    "name_mr": "",
+    "name_mr": "वाकी",
     "code": "564036",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Nipani",
-    "name_mr": "",
+    "name_mr": "निपाणी",
     "code": "564037",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Jawalwadi",
-    "name_mr": "",
+    "name_mr": "जावळवाडी",
     "code": "564080",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dhondewadi",
-    "name_mr": "",
+    "name_mr": "धोंडेवाडी",
     "code": "564101",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Raygaon",
-    "name_mr": "",
+    "name_mr": "रायगांव",
     "code": "564113",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Saygaon",
-    "name_mr": "",
+    "name_mr": "सायगाव",
     "code": "564114",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ganje",
-    "name_mr": "",
+    "name_mr": "गांजे",
     "code": "564075",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bibhvi",
-    "name_mr": "",
+    "name_mr": "बिभवी",
     "code": "564082",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Manti",
-    "name_mr": "",
+    "name_mr": "मान्टी",
     "code": "564040",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Agalavewadi",
-    "name_mr": "",
+    "name_mr": "आगलावेवाडी",
     "code": "564081",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Duduskarwadi",
-    "name_mr": "",
+    "name_mr": "दुदुस्करवाडी",
     "code": "564115",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Morghar",
-    "name_mr": "",
+    "name_mr": "मोरघर",
     "code": "564116",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mhamulkarwadi",
-    "name_mr": "",
+    "name_mr": "महामुलकरवाडी",
     "code": "564120",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ritkawali",
-    "name_mr": "",
+    "name_mr": "रिटकवली",
     "code": "564083",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Pawarwadi",
-    "name_mr": "",
+    "name_mr": "पवारवाडी",
     "code": "564119",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Bhanang",
-    "name_mr": "",
+    "name_mr": "भणंग",
     "code": "564091",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kumbhargani",
-    "name_mr": "",
+    "name_mr": "कुंभारगणी",
     "code": "564090",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ozare",
-    "name_mr": "",
+    "name_mr": "ओझरे",
     "code": "564089",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dare kh.",
-    "name_mr": "",
+    "name_mr": "दरे खुर्द",
     "code": "564118",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Pimpri t. medha",
-    "name_mr": "",
+    "name_mr": "पिंपरी त. मेढा",
     "code": "564074",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Furus",
-    "name_mr": "",
+    "name_mr": "फुरूस",
     "code": "564038",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Apti",
-    "name_mr": "",
+    "name_mr": "आपटी",
     "code": "564039",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vagheshwar",
-    "name_mr": "",
+    "name_mr": "वाघेश्वर",
     "code": "564095",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Morawale",
-    "name_mr": "",
+    "name_mr": "मोरावळे",
     "code": "564098",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Tambi t. medha",
-    "name_mr": "",
+    "name_mr": "तांबी त.मेढा",
     "code": "564079",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kesakarwadi",
-    "name_mr": "",
+    "name_mr": "केसकरवाडी",
     "code": "564096",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kusumbi",
-    "name_mr": "",
+    "name_mr": "कुसुंबी",
     "code": "564078",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sangvi t. medha",
-    "name_mr": "",
+    "name_mr": "सांगवी त. मेढा",
     "code": "564076",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kenjal",
-    "name_mr": "",
+    "name_mr": "केंजळ",
     "code": "564097",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Narfdev",
-    "name_mr": "",
+    "name_mr": "नरफदेव",
     "code": "564117",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kaloshi",
-    "name_mr": "",
+    "name_mr": "काळोशी",
     "code": "564084",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1057,7 +1057,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sahyadrinagar",
-    "name_mr": "",
+    "name_mr": "सहयाद्रिनगर",
     "code": "564077",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1066,7 +1066,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Tetli",
-    "name_mr": "",
+    "name_mr": "तेटली",
     "code": "564042",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1075,7 +1075,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kelghar t.solshi",
-    "name_mr": "",
+    "name_mr": "केळघर त. सोळशी",
     "code": "564041",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1084,7 +1084,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Nizare",
-    "name_mr": "",
+    "name_mr": "निझरे",
     "code": "564092",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1093,7 +1093,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Karandi t.medha",
-    "name_mr": "",
+    "name_mr": "करंडी तर्फ मेढा",
     "code": "564087",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1102,7 +1102,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Malchoundi",
-    "name_mr": "",
+    "name_mr": "मालचौंडी",
     "code": "564088",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1111,7 +1111,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dhanakwadi",
-    "name_mr": "",
+    "name_mr": "धनकवडी",
     "code": "564094",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1120,7 +1120,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kolghar",
-    "name_mr": "",
+    "name_mr": "कोळघर",
     "code": "564043",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1129,7 +1129,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Yekiv",
-    "name_mr": "",
+    "name_mr": "एकीव",
     "code": "564093",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1138,7 +1138,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Dund",
-    "name_mr": "",
+    "name_mr": "दुंद",
     "code": "564086",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1147,7 +1147,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sayali",
-    "name_mr": "",
+    "name_mr": "सायळी",
     "code": "564099",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1156,7 +1156,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sawari",
-    "name_mr": "",
+    "name_mr": "सावरी",
     "code": "564044",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1165,7 +1165,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kasbe  bamnoli",
-    "name_mr": "",
+    "name_mr": "कसबे बामणोली",
     "code": "564045",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1174,7 +1174,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Andhari",
-    "name_mr": "",
+    "name_mr": "अंधारी",
     "code": "564053",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1183,7 +1183,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kas",
-    "name_mr": "",
+    "name_mr": "कास",
     "code": "564054",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1192,7 +1192,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mhavshi",
-    "name_mr": "",
+    "name_mr": "म्हावशी",
     "code": "564052",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1201,7 +1201,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Ravandi",
-    "name_mr": "",
+    "name_mr": "रवंदी",
     "code": "564046",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1210,7 +1210,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Met shindi",
-    "name_mr": "",
+    "name_mr": "मेट शिंदी",
     "code": "564035",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1219,7 +1219,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Mauje shevandi",
-    "name_mr": "",
+    "name_mr": "मजरे शेंबडी",
     "code": "564050",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1228,7 +1228,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Phalani",
-    "name_mr": "",
+    "name_mr": "फळणी",
     "code": "564055",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1237,7 +1237,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Majare  shevandi",
-    "name_mr": "",
+    "name_mr": "मौजे शेंबडी",
     "code": "564051",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1246,7 +1246,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Madoshi",
-    "name_mr": "",
+    "name_mr": "माडोशी",
     "code": "564048",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1255,7 +1255,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Waghali",
-    "name_mr": "",
+    "name_mr": "वाघळी",
     "code": "564056",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1264,7 +1264,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Adoshi",
-    "name_mr": "",
+    "name_mr": "आडोशी",
     "code": "564047",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1273,7 +1273,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Munawale",
-    "name_mr": "",
+    "name_mr": "मुनावळे",
     "code": "564060",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1282,7 +1282,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Khirkhandi",
-    "name_mr": "",
+    "name_mr": "खिरखंडी",
     "code": "564057",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1291,7 +1291,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Umbarewadi",
-    "name_mr": "",
+    "name_mr": "उंबरेवाडी",
     "code": "564061",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1300,7 +1300,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kusapur",
-    "name_mr": "",
+    "name_mr": "कुसापूर",
     "code": "564049",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1309,7 +1309,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vasota",
-    "name_mr": "",
+    "name_mr": "वासोटा",
     "code": "564065",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1318,7 +1318,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Met indawli",
-    "name_mr": "",
+    "name_mr": "मेट इंदवली",
     "code": "564058",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1327,7 +1327,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Tambi",
-    "name_mr": "",
+    "name_mr": "तांबी",
     "code": "564062",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1336,7 +1336,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kargaon",
-    "name_mr": "",
+    "name_mr": "कारगांव",
     "code": "564059",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1345,7 +1345,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kusawade",
-    "name_mr": "",
+    "name_mr": "कुसवडे",
     "code": "564064",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1354,7 +1354,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Maldev",
-    "name_mr": "",
+    "name_mr": "मालदेव",
     "code": "564063",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1363,7 +1363,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Takawli",
-    "name_mr": "",
+    "name_mr": "टाकवली",
     "code": "564066",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1372,7 +1372,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Deur",
-    "name_mr": "",
+    "name_mr": "देऊर",
     "code": "564067",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1381,7 +1381,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Pali t. tamb",
-    "name_mr": "",
+    "name_mr": "पाली त.तांब",
     "code": "564068",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1390,7 +1390,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Vele",
-    "name_mr": "",
+    "name_mr": "वेळे",
     "code": "564071",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1399,7 +1399,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Sawrat",
-    "name_mr": "",
+    "name_mr": "सावरत",
     "code": "564070",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1408,7 +1408,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Jungti",
-    "name_mr": "",
+    "name_mr": "जुनगटी",
     "code": "564069",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1417,7 +1417,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Jambruk",
-    "name_mr": "",
+    "name_mr": "जाम्ब्रूक",
     "code": "564072",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1426,7 +1426,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Maleshwar",
-    "name_mr": "",
+    "name_mr": "मोळेश्वर",
     "code": "564085",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1435,7 +1435,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Karandoshi",
-    "name_mr": "",
+    "name_mr": "करंदोशी",
     "code": "564104",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1444,7 +1444,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Nevekarwadi",
-    "name_mr": "",
+    "name_mr": "नेवेकरवाडी",
     "code": "944136",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1453,7 +1453,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Kudal",
-    "name_mr": "",
+    "name_mr": "कुडाळ",
     "code": "564031",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   },
@@ -1462,7 +1462,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "jaoli",
     "name_en": "Panas (Punarvasan)",
-    "name_mr": "",
+    "name_mr": "पानास",
     "code": "652165",
     "boundary_file": "/data/boundaries/villages/s-t-ra/jaoli.geojson"
   }

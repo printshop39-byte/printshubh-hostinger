@@ -4,7 +4,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Manasgaon",
-    "name_mr": "",
+    "name_mr": "मनसगांव",
     "code": "528418",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Sagoda",
-    "name_mr": "",
+    "name_mr": "सगोडा",
     "code": "528400",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Khatkhed",
-    "name_mr": "",
+    "name_mr": "खातखेड",
     "code": "528415",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Pahurpurna",
-    "name_mr": "",
+    "name_mr": "पहुरपुर्णा",
     "code": "528416",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Bhastan",
-    "name_mr": "",
+    "name_mr": "भास्तन",
     "code": "528399",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Chinchkhed",
-    "name_mr": "",
+    "name_mr": "चिंचखेड",
     "code": "528403",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Yeulkhed",
-    "name_mr": "",
+    "name_mr": "येउलखेड",
     "code": "528441",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Palodi",
-    "name_mr": "",
+    "name_mr": "पाळोदी",
     "code": "528424",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Machhindrakhed",
-    "name_mr": "",
+    "name_mr": "मच्छींद्रखेड",
     "code": "528407",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Taroda Tarodi",
-    "name_mr": "",
+    "name_mr": "तरोडा तरोडी",
     "code": "528414",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Kalkhed",
-    "name_mr": "",
+    "name_mr": "कालखेड",
     "code": "528422",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Zadegaon",
-    "name_mr": "",
+    "name_mr": "झाडेगांव",
     "code": "528425",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Janori",
-    "name_mr": "",
+    "name_mr": "जानोरी",
     "code": "528442",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Shegaon (M Cl)",
-    "name_mr": "",
+    "name_mr": "शेगाव",
     "code": "802663",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Matargaon Kh.",
-    "name_mr": "",
+    "name_mr": "माटरगांव खुर्द",
     "code": "528409",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Brahmanwada",
-    "name_mr": "",
+    "name_mr": "ब्राम्हणवाडा",
     "code": "528408",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Jalamb",
-    "name_mr": "",
+    "name_mr": "जलंब भाग 1",
     "code": "528449",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Manegaon",
-    "name_mr": "",
+    "name_mr": "मानेगांव",
     "code": "528426",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Takali Dharav",
-    "name_mr": "",
+    "name_mr": "टाकळी धारव",
     "code": "528443",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Belura",
-    "name_mr": "",
+    "name_mr": "बेलूरा",
     "code": "528410",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Kurkhed",
-    "name_mr": "",
+    "name_mr": "कुरखेड",
     "code": "528413",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Nimbi",
-    "name_mr": "",
+    "name_mr": "निंबी",
     "code": "528411",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Tivhan Bk.",
-    "name_mr": "",
+    "name_mr": "तिव्हाण बुद्रुक",
     "code": "528445",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Mehen",
-    "name_mr": "",
+    "name_mr": "मेहेन (उजाड)",
     "code": "528427",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Tivhan Kh.",
-    "name_mr": "",
+    "name_mr": "तिव्हाण खुर्द",
     "code": "528444",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Dongarkhed",
-    "name_mr": "",
+    "name_mr": "डोंगरखेड",
     "code": "528417",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Kathora",
-    "name_mr": "",
+    "name_mr": "कठोरा",
     "code": "528398",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Bondgaon",
-    "name_mr": "",
+    "name_mr": "बोंडगांव",
     "code": "528402",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Kalwad",
-    "name_mr": "",
+    "name_mr": "कालवड",
     "code": "528397",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Bhongaon",
-    "name_mr": "",
+    "name_mr": "भोनगांव",
     "code": "528401",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Golegaon Kh",
-    "name_mr": "",
+    "name_mr": "गोळेगांव खुर्द",
     "code": "528420",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Golegaon Bk",
-    "name_mr": "",
+    "name_mr": "गोळेगांव बुद्रुक",
     "code": "528419",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Dolarkhed",
-    "name_mr": "",
+    "name_mr": "डोलारखेड",
     "code": "528404",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Padsul",
-    "name_mr": "",
+    "name_mr": "पाडसूळ",
     "code": "528421",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Matargaon Bk",
-    "name_mr": "",
+    "name_mr": "माटरगाव बु. भाग 1",
     "code": "528406",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Waradh",
-    "name_mr": "",
+    "name_mr": "वरध",
     "code": "528405",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Adsul",
-    "name_mr": "",
+    "name_mr": "आडसूळ",
     "code": "528423",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Morgaon Digras",
-    "name_mr": "",
+    "name_mr": "मोरगांव डिग्रस",
     "code": "528412",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Sangwa",
-    "name_mr": "",
+    "name_mr": "सांगवा",
     "code": "528446",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Alasana",
-    "name_mr": "",
+    "name_mr": "अळसना",
     "code": "528447",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Ekphal",
-    "name_mr": "",
+    "name_mr": "एकफळ",
     "code": "528448",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Kherda",
-    "name_mr": "",
+    "name_mr": "खेर्डा",
     "code": "528450",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Pahurjira",
-    "name_mr": "",
+    "name_mr": "पहूरजिरा भाग 1",
     "code": "528464",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Gaulkhed",
-    "name_mr": "",
+    "name_mr": "गौलखेड",
     "code": "528451",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Takali Hat",
-    "name_mr": "",
+    "name_mr": "टाकळी हाट",
     "code": "528454",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Takali Viro",
-    "name_mr": "",
+    "name_mr": "टाकळी विरो",
     "code": "528453",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Sawarna",
-    "name_mr": "",
+    "name_mr": "सवर्णा",
     "code": "528452",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Chincholi Karfarma",
-    "name_mr": "",
+    "name_mr": "चिंचोली कारफार्मा",
     "code": "528433",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Hingna Vaijanath",
-    "name_mr": "",
+    "name_mr": "हिंगना वैजीनाथ",
     "code": "528429",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Lasura Kh.",
-    "name_mr": "",
+    "name_mr": "लासूरा खुर्द",
     "code": "528455",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Lontek",
-    "name_mr": "",
+    "name_mr": "लोणटेक",
     "code": "528457",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Shrikshetra Nagzari",
-    "name_mr": "",
+    "name_mr": "श्रीक्षेत्रनागझरी",
     "code": "528430",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Lasura Bk.",
-    "name_mr": "",
+    "name_mr": "लासूरा बुद्रुक",
     "code": "528456",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Unhalkhed",
-    "name_mr": "",
+    "name_mr": "उन्हाळखेड",
     "code": "528431",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Takali Nagzari",
-    "name_mr": "",
+    "name_mr": "टाकळी नागझरी",
     "code": "528437",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Kanarkhed",
-    "name_mr": "",
+    "name_mr": "कनारखेड",
     "code": "528458",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Irkhed",
-    "name_mr": "",
+    "name_mr": "इरखेड",
     "code": "528459",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Gaigaon Bk.",
-    "name_mr": "",
+    "name_mr": "गायगांव बुद्रुक",
     "code": "528434",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Warkhed Bk.",
-    "name_mr": "",
+    "name_mr": "वरखेड बुद्रुक",
     "code": "528436",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Shirasgaon Nile",
-    "name_mr": "",
+    "name_mr": "शिरसगांव निळे",
     "code": "528461",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Manarkhed Kh",
-    "name_mr": "",
+    "name_mr": "मनारखेड खुर्द",
     "code": "528438",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Jawala Palaskhed",
-    "name_mr": "",
+    "name_mr": "जवळा पळसखेड",
     "code": "528435",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Shelgaon Ujad",
-    "name_mr": "",
+    "name_mr": "शेलगांव उजाड",
     "code": "528463",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Gaigaon Kh.",
-    "name_mr": "",
+    "name_mr": "गायगांव खुर्द",
     "code": "528460",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Warkhed Kh",
-    "name_mr": "",
+    "name_mr": "वरखेड खुर्द",
     "code": "528462",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Jawala Bk.",
-    "name_mr": "",
+    "name_mr": "जवळा बुद्रुक",
     "code": "528439",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Mahagaon",
-    "name_mr": "",
+    "name_mr": "महागांव",
     "code": "528440",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Tintrav",
-    "name_mr": "",
+    "name_mr": "तिंत्रव",
     "code": "528465",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Majalapur",
-    "name_mr": "",
+    "name_mr": "मजलापुर (उजाड)",
     "code": "528466",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Gavhan",
-    "name_mr": "",
+    "name_mr": "गव्हाण",
     "code": "528467",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Warud",
-    "name_mr": "",
+    "name_mr": "वरूड",
     "code": "528468",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Taroda Kasaba",
-    "name_mr": "",
+    "name_mr": "तरोडा कसबा",
     "code": "528469",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "buldhana",
     "taluka_id": "shegaon",
     "name_en": "Ghui",
-    "name_mr": "",
+    "name_mr": "घूई",
     "code": "528428",
     "boundary_file": "/data/boundaries/villages/buldhana/shegaon.geojson"
   }

@@ -4,7 +4,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Harpalwadi",
-    "name_mr": "",
+    "name_mr": "हरपळवाडी",
     "code": "564466",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pal",
-    "name_mr": "",
+    "name_mr": "पाल",
     "code": "564467",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shirgaon",
-    "name_mr": "",
+    "name_mr": "शिरगांव",
     "code": "564477",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Padali",
-    "name_mr": "",
+    "name_mr": "पाडळी हेळगाव",
     "code": "564490",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bhagatwadi",
-    "name_mr": "",
+    "name_mr": "भगतवाडी",
     "code": "564468",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gaikwadwadi",
-    "name_mr": "",
+    "name_mr": "गायकवाडवाडी",
     "code": "564491",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Banugadewadi",
-    "name_mr": "",
+    "name_mr": "बानुगडेवाडी",
     "code": "564489",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kalgaon",
-    "name_mr": "",
+    "name_mr": "कालगांव",
     "code": "564485",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vadgaon umbraj",
-    "name_mr": "",
+    "name_mr": "वडगांव उंब्रज",
     "code": "564476",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Marali",
-    "name_mr": "",
+    "name_mr": "मरळी",
     "code": "564469",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Helgaon",
-    "name_mr": "",
+    "name_mr": "हेळगांव",
     "code": "564488",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Maskarwadi",
-    "name_mr": "",
+    "name_mr": "मस्करवाडी",
     "code": "564472",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Parale",
-    "name_mr": "",
+    "name_mr": "पेरले",
     "code": "564479",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gosavewadi",
-    "name_mr": "",
+    "name_mr": "गोसावेवाडी",
     "code": "564492",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Daphalwadi",
-    "name_mr": "",
+    "name_mr": "डफळवाडी",
     "code": "564470",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chore",
-    "name_mr": "",
+    "name_mr": "चोरे",
     "code": "564474",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chorajwadi",
-    "name_mr": "",
+    "name_mr": "चोरजवाडी",
     "code": "564473",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Dhavarwadi",
-    "name_mr": "",
+    "name_mr": "धावरवाडी",
     "code": "564471",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Belwadi",
-    "name_mr": "",
+    "name_mr": "बेलवाडी",
     "code": "564487",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Wazewadi",
-    "name_mr": "",
+    "name_mr": "वाजेवाडी",
     "code": "564478",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Indoli",
-    "name_mr": "",
+    "name_mr": "इंदोली",
     "code": "564481",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kival",
-    "name_mr": "",
+    "name_mr": "किवळ",
     "code": "564501",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chinchani",
-    "name_mr": "",
+    "name_mr": "चिंचणी",
     "code": "564486",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Khodjaiwadi",
-    "name_mr": "",
+    "name_mr": "खोडजाईवाडी",
     "code": "564500",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kharade",
-    "name_mr": "",
+    "name_mr": "खराडे",
     "code": "564496",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kacharewadi",
-    "name_mr": "",
+    "name_mr": "कचरेवाडी",
     "code": "564495",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Hanbarwadi",
-    "name_mr": "",
+    "name_mr": "हणबरवाडी",
     "code": "564494",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shakerwadi (N.V.)",
-    "name_mr": "",
+    "name_mr": "साखरवाडी",
     "code": "564475",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Koriwale",
-    "name_mr": "",
+    "name_mr": "कोरीवळे",
     "code": "564482",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bhuyachiwadi",
-    "name_mr": "",
+    "name_mr": "भुयाचीवाडी",
     "code": "564480",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chikhali",
-    "name_mr": "",
+    "name_mr": "चिखली",
     "code": "564498",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kavathe",
-    "name_mr": "",
+    "name_mr": "जुने कवठे",
     "code": "564518",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shamgaon",
-    "name_mr": "",
+    "name_mr": "शामगांव",
     "code": "564540",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Korti",
-    "name_mr": "",
+    "name_mr": "कोर्टी",
     "code": "564517",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Hingnole",
-    "name_mr": "",
+    "name_mr": "हिंगनोळे",
     "code": "564483",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Wanyachiwadi",
-    "name_mr": "",
+    "name_mr": "वाण्याचीवाडी",
     "code": "564497",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Masur",
-    "name_mr": "",
+    "name_mr": "मसूर",
     "code": "564505",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Sabalwadi",
-    "name_mr": "",
+    "name_mr": "साबळवाडी",
     "code": "564484",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Navin kavathe",
-    "name_mr": "",
+    "name_mr": "नवीन कवठे",
     "code": "564519",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bhosalewadi",
-    "name_mr": "",
+    "name_mr": "भोसलेवाडी",
     "code": "564516",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Umbraj",
-    "name_mr": "",
+    "name_mr": "उंब्रज",
     "code": "564513",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Godwadi",
-    "name_mr": "",
+    "name_mr": "गोडवाडी",
     "code": "564514",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Andharwadi",
-    "name_mr": "",
+    "name_mr": "अंधारवाडी",
     "code": "564526",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vadoli bhikeshwar",
-    "name_mr": "",
+    "name_mr": "वडोली भिकेश्वर",
     "code": "564520",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Wagheshwar",
-    "name_mr": "",
+    "name_mr": "वाघेश्वर",
     "code": "564504",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Mangwadi",
-    "name_mr": "",
+    "name_mr": "मांगवाडी (उंब्रज)",
     "code": "564515",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kambirwadi",
-    "name_mr": "",
+    "name_mr": "कांबिरवाडी",
     "code": "564508",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Dhanakwadi",
-    "name_mr": "",
+    "name_mr": "धनकवडी",
     "code": "564521",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Antvadi",
-    "name_mr": "",
+    "name_mr": "अंतवडी",
     "code": "564502",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Malwadi",
-    "name_mr": "",
+    "name_mr": "माळवाडी",
     "code": "564507",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shiwade",
-    "name_mr": "",
+    "name_mr": "शिवडे",
     "code": "564523",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Risvad",
-    "name_mr": "",
+    "name_mr": "रिसवड",
     "code": "564503",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Hanumanwadi",
-    "name_mr": "",
+    "name_mr": "हनुमानवाडी",
     "code": "564522",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Khalkarwadi",
-    "name_mr": "",
+    "name_mr": "खालकरवाडी",
     "code": "564527",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Konegaon",
-    "name_mr": "",
+    "name_mr": "कोणेगांव",
     "code": "564509",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Charegaon",
-    "name_mr": "",
+    "name_mr": "चरेगांव",
     "code": "564529",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pachund",
-    "name_mr": "",
+    "name_mr": "पाचुंद",
     "code": "564541",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shahapur",
-    "name_mr": "",
+    "name_mr": "शहापुर",
     "code": "564511",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shiravade",
-    "name_mr": "",
+    "name_mr": "शिरवडे",
     "code": "564534",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Varade",
-    "name_mr": "",
+    "name_mr": "वराडे",
     "code": "564530",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Tasavade",
-    "name_mr": "",
+    "name_mr": "तासवडे",
     "code": "564531",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bhavanwadi",
-    "name_mr": "",
+    "name_mr": "भवानवाडी",
     "code": "564524",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "British-shirwade",
-    "name_mr": "",
+    "name_mr": "ब्रिटीश शिरवडे",
     "code": "564535",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pimpari",
-    "name_mr": "",
+    "name_mr": "पिंपरी",
     "code": "564510",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Mervawadi",
-    "name_mr": "",
+    "name_mr": "मेरवेवाडी",
     "code": "564539",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shitalwadi",
-    "name_mr": "",
+    "name_mr": "शितळवाडी",
     "code": "564528",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vadoli nileshwar",
-    "name_mr": "",
+    "name_mr": "वडोली निळेश्वर",
     "code": "564537",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Talbid",
-    "name_mr": "",
+    "name_mr": "तळबीड",
     "code": "564533",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yeshwantnagar",
-    "name_mr": "",
+    "name_mr": "यशवंतनगर",
     "code": "564512",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bholewadi",
-    "name_mr": "",
+    "name_mr": "भोळेवाडी",
     "code": "564565",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Nadashi",
-    "name_mr": "",
+    "name_mr": "नडशी",
     "code": "564536",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Belvade haveli",
-    "name_mr": "",
+    "name_mr": "बेलवडे हवेली",
     "code": "564532",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kamathi",
-    "name_mr": "",
+    "name_mr": "कामथी",
     "code": "564542",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Beldari",
-    "name_mr": "",
+    "name_mr": "बेलदरे",
     "code": "564566",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yadavawadi",
-    "name_mr": "",
+    "name_mr": "यादववाडी (मसुर)",
     "code": "564547",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vagheri",
-    "name_mr": "",
+    "name_mr": "वाघेरी",
     "code": "564538",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Koparde haveli",
-    "name_mr": "",
+    "name_mr": "कोपर्डे हवेली",
     "code": "564546",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Karavadi",
-    "name_mr": "",
+    "name_mr": "करवडी",
     "code": "564544",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Parle",
-    "name_mr": "",
+    "name_mr": "पार्ले",
     "code": "564545",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vahagaon",
-    "name_mr": "",
+    "name_mr": "वहागांव",
     "code": "564555",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Surli",
-    "name_mr": "",
+    "name_mr": "सुर्ली",
     "code": "564543",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ghonasi",
-    "name_mr": "",
+    "name_mr": "घोनशी",
     "code": "564556",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Mhopre",
-    "name_mr": "",
+    "name_mr": "म्होप्रे",
     "code": "564567",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vasantgad",
-    "name_mr": "",
+    "name_mr": "वसंतगड",
     "code": "564569",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vastisakurdi",
-    "name_mr": "",
+    "name_mr": "वस्तीसाकुर्डी",
     "code": "564568",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Khodshi",
-    "name_mr": "",
+    "name_mr": "खोडशी",
     "code": "564557",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Rajmachi",
-    "name_mr": "",
+    "name_mr": "राजमाची",
     "code": "564550",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Virvade",
-    "name_mr": "",
+    "name_mr": "विरवडे",
     "code": "564548",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vanavasmachi",
-    "name_mr": "",
+    "name_mr": "वनवासमाची",
     "code": "564558",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vanvasmachi",
-    "name_mr": "",
+    "name_mr": "वनवासमाची (स.गड)",
     "code": "564549",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Abachiwadi",
-    "name_mr": "",
+    "name_mr": "अबचीवाडी",
     "code": "564570",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vanvadi (Sadashivgad)",
-    "name_mr": "",
+    "name_mr": "वनवासमाची (सदाशिवगड)",
     "code": "564561",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Uttar Tambave",
-    "name_mr": "",
+    "name_mr": "उत्तर तांबवे",
     "code": "564577",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Sajur",
-    "name_mr": "",
+    "name_mr": "साजुर",
     "code": "564578",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Tambave",
-    "name_mr": "",
+    "name_mr": "तांबवे",
     "code": "564576",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Hajarmachi",
-    "name_mr": "",
+    "name_mr": "हजारमाची",
     "code": "564683",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Saidapur",
-    "name_mr": "",
+    "name_mr": "सैदापूर",
     "code": "564684",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Sakurdi",
-    "name_mr": "",
+    "name_mr": "साकुर्डी",
     "code": "564575",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vijaynagar",
-    "name_mr": "",
+    "name_mr": "विजयनगर",
     "code": "564559",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pashchimsupane",
-    "name_mr": "",
+    "name_mr": "पश्चिमसुपने",
     "code": "564573",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Patharwadi",
-    "name_mr": "",
+    "name_mr": "पाठरवाडी",
     "code": "564581",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gamewadi",
-    "name_mr": "",
+    "name_mr": "गमेवाडी",
     "code": "564580",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Mundhe",
-    "name_mr": "",
+    "name_mr": "मुंढे",
     "code": "564560",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Supane",
-    "name_mr": "",
+    "name_mr": "सुपने",
     "code": "564574",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Padalikese",
-    "name_mr": "",
+    "name_mr": "पाडळीकेसे",
     "code": "564572",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gote",
-    "name_mr": "",
+    "name_mr": "गोटे",
     "code": "564563",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Sayapur",
-    "name_mr": "",
+    "name_mr": "सयापूर",
     "code": "564552",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Tembhu",
-    "name_mr": "",
+    "name_mr": "टेंभु",
     "code": "564553",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Arewadi",
-    "name_mr": "",
+    "name_mr": "आरेवाडी",
     "code": "564579",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Govare",
-    "name_mr": "",
+    "name_mr": "गोवारे",
     "code": "564562",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Karad (M Cl)",
-    "name_mr": "",
+    "name_mr": "कराड",
     "code": "251598",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kirpe",
-    "name_mr": "",
+    "name_mr": "किरपे",
     "code": "564586",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kese",
-    "name_mr": "",
+    "name_mr": "केसे",
     "code": "564571",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Delewadi",
-    "name_mr": "",
+    "name_mr": "डेळेवाडी",
     "code": "564582",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Varunji",
-    "name_mr": "",
+    "name_mr": "वारुंजी",
     "code": "564564",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yenake",
-    "name_mr": "",
+    "name_mr": "येणके",
     "code": "564585",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ane",
-    "name_mr": "",
+    "name_mr": "आणे",
     "code": "564584",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1057,7 +1057,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yeravale",
-    "name_mr": "",
+    "name_mr": "येरवळे",
     "code": "564587",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1066,7 +1066,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Koregaon",
-    "name_mr": "",
+    "name_mr": "कोरेगांव",
     "code": "564554",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1075,7 +1075,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Malkapur (M Cl)",
-    "name_mr": "",
+    "name_mr": "मलकापूर",
     "code": "251314",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1084,7 +1084,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ambavade",
-    "name_mr": "",
+    "name_mr": "अंबवडे",
     "code": "564583",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1093,7 +1093,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Goleshwar",
-    "name_mr": "",
+    "name_mr": "गोळेश्वर",
     "code": "564666",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1102,7 +1102,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Potale",
-    "name_mr": "",
+    "name_mr": "पोतले",
     "code": "564590",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1111,7 +1111,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chachegaon",
-    "name_mr": "",
+    "name_mr": "चचेगांव",
     "code": "564588",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1120,7 +1120,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Karve",
-    "name_mr": "",
+    "name_mr": "कार्वे",
     "code": "564670",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1129,7 +1129,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kole",
-    "name_mr": "",
+    "name_mr": "कोळे",
     "code": "564591",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1138,7 +1138,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gopalnagar",
-    "name_mr": "",
+    "name_mr": "गोपाळनगर",
     "code": "564671",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1147,7 +1147,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kolewadi",
-    "name_mr": "",
+    "name_mr": "कोळेवाडी",
     "code": "564592",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1156,7 +1156,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Koyanavasahat",
-    "name_mr": "",
+    "name_mr": "कोयनावसाहत",
     "code": "564642",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1165,7 +1165,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kusur",
-    "name_mr": "",
+    "name_mr": "कुसुर",
     "code": "564594",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1174,7 +1174,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Tarukh",
-    "name_mr": "",
+    "name_mr": "तारूख",
     "code": "564595",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1183,7 +1183,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Jakhinwadi",
-    "name_mr": "",
+    "name_mr": "जखीनवाडी",
     "code": "564641",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1192,7 +1192,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gharewadi",
-    "name_mr": "",
+    "name_mr": "घारेवाडी",
     "code": "564600",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1201,7 +1201,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ving",
-    "name_mr": "",
+    "name_mr": "विंग",
     "code": "564589",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1210,7 +1210,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shinganwadi",
-    "name_mr": "",
+    "name_mr": "शिंगणवाडी",
     "code": "564599",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1219,7 +1219,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pachwadwasahat",
-    "name_mr": "",
+    "name_mr": "पाचवडवस्ती",
     "code": "564668",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1228,7 +1228,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kapil",
-    "name_mr": "",
+    "name_mr": "कापील",
     "code": "564667",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1237,7 +1237,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Navin Gaonthun Gharewadi",
-    "name_mr": "",
+    "name_mr": "नवीन गावठाण घारेवाडी",
     "code": "564601",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1246,7 +1246,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Wadgaon Haveli",
-    "name_mr": "",
+    "name_mr": "वडगांव हवेली",
     "code": "564672",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1255,7 +1255,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shindewadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी (कोळेवाडी)",
     "code": "564602",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1264,7 +1264,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shendawadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी",
     "code": "564593",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1273,7 +1273,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kodoli",
-    "name_mr": "",
+    "name_mr": "कोडोली",
     "code": "564669",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1282,7 +1282,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Nandlapur",
-    "name_mr": "",
+    "name_mr": "नांदलापुर",
     "code": "564643",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1291,7 +1291,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Munawale",
-    "name_mr": "",
+    "name_mr": "मुनावळे",
     "code": "564646",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1300,7 +1300,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Narayanwadi",
-    "name_mr": "",
+    "name_mr": "नारायणवाडी",
     "code": "564644",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1309,7 +1309,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Dhondewadi",
-    "name_mr": "",
+    "name_mr": "धोंडेवाडी",
     "code": "564640",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1318,7 +1318,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bamanwadi",
-    "name_mr": "",
+    "name_mr": "बामनवाडी",
     "code": "564596",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1327,7 +1327,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Dushere",
-    "name_mr": "",
+    "name_mr": "दुशेरे",
     "code": "564673",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1336,7 +1336,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Nandgaon",
-    "name_mr": "",
+    "name_mr": "नांदगांव",
     "code": "564638",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1345,7 +1345,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Sanjaynagar",
-    "name_mr": "",
+    "name_mr": "संजयनगर (शेरे )",
     "code": "564675",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1354,7 +1354,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Thoerathmal",
-    "name_mr": "",
+    "name_mr": "थोरातमळा (ओंड)",
     "code": "564676",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1363,7 +1363,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kaletake",
-    "name_mr": "",
+    "name_mr": "कालेटेक",
     "code": "564645",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1372,7 +1372,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shere",
-    "name_mr": "",
+    "name_mr": "शेरे",
     "code": "564674",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1381,7 +1381,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Tulsan",
-    "name_mr": "",
+    "name_mr": "तुळसण",
     "code": "564603",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1390,7 +1390,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ondosha",
-    "name_mr": "",
+    "name_mr": "ओंडोशी",
     "code": "564637",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1399,7 +1399,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pawarwadi",
-    "name_mr": "",
+    "name_mr": "पवारवाडी",
     "code": "564598",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1408,7 +1408,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Atake",
-    "name_mr": "",
+    "name_mr": "आटके",
     "code": "564647",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1417,7 +1417,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Patilmala",
-    "name_mr": "",
+    "name_mr": "पाटीलमळा",
     "code": "564658",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1426,7 +1426,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shenoli",
-    "name_mr": "",
+    "name_mr": "शेणोली",
     "code": "564677",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1435,7 +1435,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chaugulemala",
-    "name_mr": "",
+    "name_mr": "चौगुलेमळा",
     "code": "564654",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1444,7 +1444,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "pachupatewadi",
-    "name_mr": "",
+    "name_mr": "पाचुपतेवाडी",
     "code": "564604",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1453,7 +1453,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vanarwadi",
-    "name_mr": "",
+    "name_mr": "वानरवाडी",
     "code": "564597",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1462,7 +1462,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Sanjaynagar",
-    "name_mr": "",
+    "name_mr": "संजयनगर",
     "code": "564653",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1471,7 +1471,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Pawarwadi",
-    "name_mr": "",
+    "name_mr": "पवारवाडी (नांदगाव)",
     "code": "564660",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1480,7 +1480,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Thoratmala",
-    "name_mr": "",
+    "name_mr": "थोरातमळा",
     "code": "564657",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1489,7 +1489,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shenolistalion",
-    "name_mr": "",
+    "name_mr": "शेणोलीस्टेशन",
     "code": "564678",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1498,7 +1498,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kale",
-    "name_mr": "",
+    "name_mr": "काले",
     "code": "564651",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1507,7 +1507,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chapnemala",
-    "name_mr": "",
+    "name_mr": "चपणेमळी",
     "code": "564655",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1516,7 +1516,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Vathar",
-    "name_mr": "",
+    "name_mr": "वाठार",
     "code": "564650",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1525,7 +1525,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ond",
-    "name_mr": "",
+    "name_mr": "ओंड",
     "code": "564656",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1534,7 +1534,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Latakewadi",
-    "name_mr": "",
+    "name_mr": "लटकेवाडी",
     "code": "564606",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1543,7 +1543,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "vithobawadi",
-    "name_mr": "",
+    "name_mr": "विठोबाचीवाडी",
     "code": "564605",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1552,7 +1552,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Rethare kh.",
-    "name_mr": "",
+    "name_mr": "रेठरे खुर्द",
     "code": "564649",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1561,7 +1561,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Junjarwadi",
-    "name_mr": "",
+    "name_mr": "जुजारवाडी",
     "code": "564652",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1570,7 +1570,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Jadhavmala",
-    "name_mr": "",
+    "name_mr": "जाधवमळा",
     "code": "564648",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1579,7 +1579,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Havelwadi",
-    "name_mr": "",
+    "name_mr": "हवेलवाडी",
     "code": "564607",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1588,7 +1588,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gondi",
-    "name_mr": "",
+    "name_mr": "गोंदी",
     "code": "564679",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1597,7 +1597,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Mhasoli",
-    "name_mr": "",
+    "name_mr": "म्हासोली",
     "code": "564615",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1606,7 +1606,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Navin Nandgaon",
-    "name_mr": "",
+    "name_mr": "नवीन नांदगांव",
     "code": "564639",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1615,7 +1615,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shelakewadi",
-    "name_mr": "",
+    "name_mr": "शेळकेवाडी (म्हसोली)",
     "code": "564616",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1624,7 +1624,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yevati",
-    "name_mr": "",
+    "name_mr": "येवती",
     "code": "564618",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1633,7 +1633,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Rethare bk.",
-    "name_mr": "",
+    "name_mr": "रेठरे बुद्रुक",
     "code": "564681",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1642,7 +1642,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Savade",
-    "name_mr": "",
+    "name_mr": "सवादे",
     "code": "564608",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1651,7 +1651,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Undale",
-    "name_mr": "",
+    "name_mr": "उंडाळे",
     "code": "564610",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1660,7 +1660,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Julewadi",
-    "name_mr": "",
+    "name_mr": "जुळेवाडी",
     "code": "564680",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1669,7 +1669,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Hanumantwadi",
-    "name_mr": "",
+    "name_mr": "हणमंतवाडी",
     "code": "564622",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1678,7 +1678,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bandakerwadi",
-    "name_mr": "",
+    "name_mr": "बांदेकरवाडी",
     "code": "564609",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1687,7 +1687,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kalvade",
-    "name_mr": "",
+    "name_mr": "कालवडे",
     "code": "564661",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1696,7 +1696,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Manu",
-    "name_mr": "",
+    "name_mr": "मनू",
     "code": "564659",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1705,7 +1705,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Navinmalkheda",
-    "name_mr": "",
+    "name_mr": "नवीन मालखेड",
     "code": "564663",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1714,7 +1714,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gharalwadi",
-    "name_mr": "",
+    "name_mr": "घराळवाडी",
     "code": "564621",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1723,7 +1723,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Talgaon",
-    "name_mr": "",
+    "name_mr": "टाळगांव",
     "code": "564613",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1732,7 +1732,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shevalwadi",
-    "name_mr": "",
+    "name_mr": "शेवाळेवाडी (म्हासोली)",
     "code": "564617",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1741,7 +1741,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Malkhed",
-    "name_mr": "",
+    "name_mr": "मालखेड",
     "code": "564662",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1750,7 +1750,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Belavade Bk",
-    "name_mr": "",
+    "name_mr": "बेलवडे बुद्रुक",
     "code": "564664",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1759,7 +1759,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ghogaon",
-    "name_mr": "",
+    "name_mr": "घोगांव",
     "code": "564614",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1768,7 +1768,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shewalewadi",
-    "name_mr": "",
+    "name_mr": "शेवाळेवाडी (येवती )",
     "code": "564620",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1777,7 +1777,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Khubi",
-    "name_mr": "",
+    "name_mr": "खुबी",
     "code": "564682",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1786,7 +1786,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kasarshirambe",
-    "name_mr": "",
+    "name_mr": "कासारशिरंबे",
     "code": "564665",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1795,7 +1795,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yelgaon",
-    "name_mr": "",
+    "name_mr": "येळगांव",
     "code": "564627",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1804,7 +1804,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bhurbhushi",
-    "name_mr": "",
+    "name_mr": "भुरभुशी",
     "code": "564623",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1813,7 +1813,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gotewadi",
-    "name_mr": "",
+    "name_mr": "गोटेवाडी",
     "code": "564625",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1822,7 +1822,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yenape",
-    "name_mr": "",
+    "name_mr": "येणपे",
     "code": "564629",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1831,7 +1831,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Maharugadewadi",
-    "name_mr": "",
+    "name_mr": "महारूगडेवाडी",
     "code": "564635",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1840,7 +1840,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Salshirambe",
-    "name_mr": "",
+    "name_mr": "साळशिरंबे",
     "code": "564612",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1849,7 +1849,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Jinti",
-    "name_mr": "",
+    "name_mr": "जिंती",
     "code": "564636",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1858,7 +1858,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Chormarwadi",
-    "name_mr": "",
+    "name_mr": "चोरमारवाडी",
     "code": "564630",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1867,7 +1867,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bharewadi",
-    "name_mr": "",
+    "name_mr": "भरेवाडी",
     "code": "564624",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1876,7 +1876,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shevalwadi",
-    "name_mr": "",
+    "name_mr": "शेवाळवाडी ( येणपे)",
     "code": "564632",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1885,7 +1885,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Ganeshwadi",
-    "name_mr": "",
+    "name_mr": "गणेशवाडी",
     "code": "564626",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1894,7 +1894,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Akaichiwadi",
-    "name_mr": "",
+    "name_mr": "अकाईचीवाडी",
     "code": "564633",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1903,7 +1903,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Botrewadi",
-    "name_mr": "",
+    "name_mr": "बोत्रेवाडी",
     "code": "564634",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1912,7 +1912,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Matekerwadi",
-    "name_mr": "",
+    "name_mr": "माटेकरवाडी",
     "code": "564631",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1921,7 +1921,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Yadavwadi",
-    "name_mr": "",
+    "name_mr": "यादववाडी (उत्तर कोपर्डे)",
     "code": "564506",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1930,7 +1930,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shelekewadi",
-    "name_mr": "",
+    "name_mr": "शेळकेवाडी (येवती)",
     "code": "564619",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1939,7 +1939,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Shevalwadi",
-    "name_mr": "",
+    "name_mr": "शेवाळवाडी (उंडाळे)",
     "code": "564611",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1948,7 +1948,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Loharwadi",
-    "name_mr": "",
+    "name_mr": "लोहारवाडी",
     "code": "564628",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1957,7 +1957,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Nigadi",
-    "name_mr": "",
+    "name_mr": "निगडी",
     "code": "564493",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1966,7 +1966,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Gholapwadi",
-    "name_mr": "",
+    "name_mr": "घोलपवाडी",
     "code": "564499",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1975,7 +1975,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Babarmachi",
-    "name_mr": "",
+    "name_mr": "बाबरमाची",
     "code": "564551",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1984,7 +1984,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Dicholi (Babarmachi) RHV",
-    "name_mr": "",
+    "name_mr": "डिचोली रहावं",
     "code": "652167",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -1993,7 +1993,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Kalantrewadi",
-    "name_mr": "",
+    "name_mr": "कळंत्रेवाडी",
     "code": "564525",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -2002,7 +2002,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Nanegaon",
-    "name_mr": "",
+    "name_mr": "नाणेगांव पुनर्वसित",
     "code": "946092",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -2011,7 +2011,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Karanjoshi (Punarvasit) (N.V.)",
-    "name_mr": "",
+    "name_mr": "करंजोशी",
     "code": "654973",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -2020,7 +2020,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Bhambe (Punarvasit) (N.V.)",
-    "name_mr": "",
+    "name_mr": "भांबे",
     "code": "654972",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -2029,7 +2029,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Dicholi (Munawale-Kale) (N.V.)",
-    "name_mr": "",
+    "name_mr": "डिचोली",
     "code": "652168",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   },
@@ -2038,7 +2038,7 @@
     "district_id": "s-t-ra",
     "taluka_id": "karad",
     "name_en": "Savarghar (Punarvasit) (N.V.)",
-    "name_mr": "",
+    "name_mr": "सावरघर",
     "code": "654974",
     "boundary_file": "/data/boundaries/villages/s-t-ra/karad.geojson"
   }

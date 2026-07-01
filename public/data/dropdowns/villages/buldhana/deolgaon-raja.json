@@ -4,7 +4,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Andhera",
-    "name_mr": "",
+    "name_mr": "अंढेरा भाग 1",
     "code": "529329",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Baigaon Pr. Malkapur Pangra",
-    "name_mr": "",
+    "name_mr": "बायगांव बुद्रुक",
     "code": "529330",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Khadka",
-    "name_mr": "",
+    "name_mr": "खडका",
     "code": "529331",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Dodra",
-    "name_mr": "",
+    "name_mr": "डोड्रा",
     "code": "529338",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Pimpri Andhale",
-    "name_mr": "",
+    "name_mr": "पिंप्री आंधळे",
     "code": "529339",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Sevanagar",
-    "name_mr": "",
+    "name_mr": "सेवानगर",
     "code": "529328",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Mendgaon",
-    "name_mr": "",
+    "name_mr": "मेंडगाव",
     "code": "529332",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Chinchkhed",
-    "name_mr": "",
+    "name_mr": "चिंचखेड",
     "code": "529352",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Dhotra N.Pr.Malkapur Pangra",
-    "name_mr": "",
+    "name_mr": "धोत्रा नंदई",
     "code": "529344",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Shivni [Armal]",
-    "name_mr": "",
+    "name_mr": "शिवनी आरमाल",
     "code": "529333",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Waki Bk",
-    "name_mr": "",
+    "name_mr": "वाकी  बु",
     "code": "529340",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Baigaon Khurd",
-    "name_mr": "",
+    "name_mr": "बायगांव खुर्द",
     "code": "529337",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Khalyal Gavhan",
-    "name_mr": "",
+    "name_mr": "खल्याळ गव्हाण",
     "code": "529353",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Mandapgaon",
-    "name_mr": "",
+    "name_mr": "मंडपगाव",
     "code": "529336",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Sultanpur",
-    "name_mr": "",
+    "name_mr": "सुलतानपुर",
     "code": "529354",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Wadi Kh",
-    "name_mr": "",
+    "name_mr": "वाकी खु.",
     "code": "529341",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Saokhed Nagre",
-    "name_mr": "",
+    "name_mr": "सावखेड नागरे",
     "code": "529335",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Sura",
-    "name_mr": "",
+    "name_mr": "सुरा",
     "code": "529345",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Deulgaon Mahi",
-    "name_mr": "",
+    "name_mr": "देउळगांव मही भाग 1",
     "code": "529343",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Padali Shinde",
-    "name_mr": "",
+    "name_mr": "पाडळी शिंदे",
     "code": "529334",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Nagangaon",
-    "name_mr": "",
+    "name_mr": "नागनगांव",
     "code": "529346",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Singaon [Jahnagir]",
-    "name_mr": "",
+    "name_mr": "सिंनगांव (जहांगीर) भाग 1",
     "code": "529355",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Saramba",
-    "name_mr": "",
+    "name_mr": "सरंबा",
     "code": "529347",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Gargundi",
-    "name_mr": "",
+    "name_mr": "गारगुंडी",
     "code": "529359",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Garkhed",
-    "name_mr": "",
+    "name_mr": "गारखेड",
     "code": "529342",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Mehuna",
-    "name_mr": "",
+    "name_mr": "मेहुणा राजा",
     "code": "529360",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Narayankhed",
-    "name_mr": "",
+    "name_mr": "नारायणखेड",
     "code": "529348",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Digras Bk",
-    "name_mr": "",
+    "name_mr": "दिग्रस बु.",
     "code": "529349",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Takalkhed Vayal Pr Sindkhed Raja",
-    "name_mr": "",
+    "name_mr": "टाकरखेड भागिले",
     "code": "529361",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Kinhi Pawar Pr.Sindkhed Raja",
-    "name_mr": "",
+    "name_mr": "किन्ही पवार",
     "code": "529356",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Pangri Pr.japharabad",
-    "name_mr": "",
+    "name_mr": "पांगरी",
     "code": "529358",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Nimgaon Guru",
-    "name_mr": "",
+    "name_mr": "निमगाव गुरु",
     "code": "529371",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Rohana",
-    "name_mr": "",
+    "name_mr": "रोहणा",
     "code": "529362",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Pimpalgaon Chilamkha Pr.Japha",
-    "name_mr": "",
+    "name_mr": "पिंपळगांव चिलमखा",
     "code": "529373",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Takarkhed Vayal",
-    "name_mr": "",
+    "name_mr": "टाकरखेड वायाळ",
     "code": "529351",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Dagadwadi",
-    "name_mr": "",
+    "name_mr": "दगडवाडी",
     "code": "529363",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Doiphodewadi",
-    "name_mr": "",
+    "name_mr": "डोईफोड वाडी",
     "code": "529357",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Digras Kh",
-    "name_mr": "",
+    "name_mr": "दिग्रस खु.",
     "code": "529350",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Aland",
-    "name_mr": "",
+    "name_mr": "आळंद",
     "code": "529364",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Savangi Tekade",
-    "name_mr": "",
+    "name_mr": "सांवगी टेकाळे",
     "code": "529372",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Pimpalgaon Bk.",
-    "name_mr": "",
+    "name_mr": "पिंपळगाव बु",
     "code": "529370",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Kumbhari",
-    "name_mr": "",
+    "name_mr": "कुंभारी",
     "code": "529374",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Jawalkhed",
-    "name_mr": "",
+    "name_mr": "जवळखेड",
     "code": "529377",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Umarkhed Pr.sindkhed",
-    "name_mr": "",
+    "name_mr": "उंबरखेड",
     "code": "529376",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Deulgaon Raja (M Cl)",
-    "name_mr": "",
+    "name_mr": "देऊळगाव राजा",
     "code": "251306",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Chincholi Burkul",
-    "name_mr": "",
+    "name_mr": "चिंचोळी बूरकुल",
     "code": "529368",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Gondhankhed Pr.sindkhed",
-    "name_mr": "",
+    "name_mr": "गोंधनखेड",
     "code": "529369",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Saokhed Bhoi",
-    "name_mr": "",
+    "name_mr": "सावखेड भोई",
     "code": "529382",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Asola Pr.sindkhed",
-    "name_mr": "",
+    "name_mr": "आसोला जहाँगीर",
     "code": "529365",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Ambhora",
-    "name_mr": "",
+    "name_mr": "अंभोरा",
     "code": "529375",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Pimpalner",
-    "name_mr": "",
+    "name_mr": "पिंपळनेर",
     "code": "529380",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Jambhora",
-    "name_mr": "",
+    "name_mr": "जंभोरा",
     "code": "529379",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Bhivgaon Bk.",
-    "name_mr": "",
+    "name_mr": "भिवगाव बुद्रुक",
     "code": "529384",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Jumda",
-    "name_mr": "",
+    "name_mr": "जुमडा",
     "code": "529383",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Giroli Kh.",
-    "name_mr": "",
+    "name_mr": "गिरोली खु.",
     "code": "529387",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Palaskhed Zalta",
-    "name_mr": "",
+    "name_mr": "पळसखेड झाल्टा",
     "code": "529366",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Bamkhed",
-    "name_mr": "",
+    "name_mr": "बामखेड",
     "code": "529367",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Borakhedi Bawara",
-    "name_mr": "",
+    "name_mr": "बोरखेडी बावरा",
     "code": "529378",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Giroli Bk.",
-    "name_mr": "",
+    "name_mr": "गिरोली बु",
     "code": "529386",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Bhivgaon Kh.",
-    "name_mr": "",
+    "name_mr": "भिवगांव खुर्द",
     "code": "529385",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Palaskhed Malakdeo",
-    "name_mr": "",
+    "name_mr": "पळसखेड मलकदेव",
     "code": "529391",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Tuljapur",
-    "name_mr": "",
+    "name_mr": "तुळजापूर",
     "code": "529390",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Nimkhed",
-    "name_mr": "",
+    "name_mr": "निमखेड",
     "code": "529388",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Golegaon",
-    "name_mr": "",
+    "name_mr": "गोळेगांव",
     "code": "529389",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "buldhana",
     "taluka_id": "deolgaon-raja",
     "name_en": "Deulgaon Raja (Rural)",
-    "name_mr": "",
+    "name_mr": "देउळगांव राजा",
     "code": "529381",
     "boundary_file": "/data/boundaries/villages/buldhana/deolgaon-raja.geojson"
   }

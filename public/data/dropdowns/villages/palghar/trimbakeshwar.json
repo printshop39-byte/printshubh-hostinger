@@ -4,7 +4,7 @@
     "district_id": "palghar",
     "taluka_id": "trimbakeshwar",
     "name_en": "Mulvad",
-    "name_mr": "",
+    "name_mr": "मुलवड",
     "code": "550859",
     "boundary_file": "/data/boundaries/villages/palghar/trimbakeshwar.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "palghar",
     "taluka_id": "trimbakeshwar",
     "name_en": "Chouripada (N.V.)",
-    "name_mr": "",
+    "name_mr": "चौरापाडा",
     "code": "550862",
     "boundary_file": "/data/boundaries/villages/palghar/trimbakeshwar.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "palghar",
     "taluka_id": "trimbakeshwar",
     "name_en": "Sawarpada",
-    "name_mr": "",
+    "name_mr": "सावरपाडा",
     "code": "550830",
     "boundary_file": "/data/boundaries/villages/palghar/trimbakeshwar.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "palghar",
     "taluka_id": "trimbakeshwar",
     "name_en": "Walan",
-    "name_mr": "",
+    "name_mr": "वळण",
     "code": "550861",
     "boundary_file": "/data/boundaries/villages/palghar/trimbakeshwar.geojson"
   }
