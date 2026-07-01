@@ -4,7 +4,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Jaipur",
-    "name_mr": "",
+    "name_mr": "जयपूर",
     "code": "548124",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Uswad (Devthana)",
-    "name_mr": "",
+    "name_mr": "उस्वाद  (देवठाना )",
     "code": "548137",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Jambharun",
-    "name_mr": "",
+    "name_mr": "जामरुन",
     "code": "548130",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Daha",
-    "name_mr": "",
+    "name_mr": "दहा",
     "code": "548129",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kanadi",
-    "name_mr": "",
+    "name_mr": "कानडी",
     "code": "548134",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Erandeshwar",
-    "name_mr": "",
+    "name_mr": "एरंडेश्वर",
     "code": "548126",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Dudha",
-    "name_mr": "",
+    "name_mr": "दुधा",
     "code": "548132",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Limbkheda",
-    "name_mr": "",
+    "name_mr": "लिंबखेड",
     "code": "548133",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Saskheda",
-    "name_mr": "",
+    "name_mr": "सासखेडा",
     "code": "548139",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kokarasa",
-    "name_mr": "",
+    "name_mr": "कोकरसा",
     "code": "548127",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Tupa",
-    "name_mr": "",
+    "name_mr": "तुपा",
     "code": "548128",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Devthana Uswad",
-    "name_mr": "",
+    "name_mr": "देवठाणा उस्वद",
     "code": "548135",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Shivangiri",
-    "name_mr": "",
+    "name_mr": "शिवानगिरी",
     "code": "548123",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Incha",
-    "name_mr": "",
+    "name_mr": "इंचा",
     "code": "548118",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Takalkhopa",
-    "name_mr": "",
+    "name_mr": "टाकळखोपा",
     "code": "548119",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kirla",
-    "name_mr": "",
+    "name_mr": "किर्ला",
     "code": "548131",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Belora",
-    "name_mr": "",
+    "name_mr": "बेलोरा",
     "code": "548122",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pokhai Kandhali",
-    "name_mr": "",
+    "name_mr": "पोखरी केंधळी",
     "code": "548121",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Talni",
-    "name_mr": "",
+    "name_mr": "तळणी",
     "code": "548117",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Waghala",
-    "name_mr": "",
+    "name_mr": "वाघाळ",
     "code": "548120",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Bhuwan",
-    "name_mr": "",
+    "name_mr": "भुवन",
     "code": "548113",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Wadgaon Sarhadu",
-    "name_mr": "",
+    "name_mr": "वडगाव सरहद",
     "code": "548116",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Sirpur",
-    "name_mr": "",
+    "name_mr": "शिरपुर",
     "code": "548114",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kokramba",
-    "name_mr": "",
+    "name_mr": "कोकरंबा",
     "code": "548115",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Wazar Sarkate",
-    "name_mr": "",
+    "name_mr": "वझर सरकटे",
     "code": "548112",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Chandeshwar",
-    "name_mr": "",
+    "name_mr": "चांदेश्वर",
     "code": "548226",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kedarwakadi",
-    "name_mr": "",
+    "name_mr": "केदारवाकडी",
     "code": "548228",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Patoda Bk.",
-    "name_mr": "",
+    "name_mr": "पाटोदा बुद्रुक",
     "code": "548217",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Vidoli Kh.",
-    "name_mr": "",
+    "name_mr": "विडोळी खुर्द",
     "code": "548224",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Wanjola",
-    "name_mr": "",
+    "name_mr": "वाजोंळा",
     "code": "548225",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Gopegaon",
-    "name_mr": "",
+    "name_mr": "गोपेगाव",
     "code": "548222",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Patoda Kh.",
-    "name_mr": "",
+    "name_mr": "पाटोदा खूर्द",
     "code": "548227",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Nansi",
-    "name_mr": "",
+    "name_mr": "नान्‍सी",
     "code": "548221",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Khari Arda",
-    "name_mr": "",
+    "name_mr": "खारी आर्डा",
     "code": "548213",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Limbewadgaon",
-    "name_mr": "",
+    "name_mr": "लिंबेवडगाव",
     "code": "548216",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Ramtirth",
-    "name_mr": "",
+    "name_mr": "रामतिर्थ",
     "code": "548176",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Taltondi",
-    "name_mr": "",
+    "name_mr": "तळतोंडी",
     "code": "548200",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kanphodi",
-    "name_mr": "",
+    "name_mr": "कानफोडी",
     "code": "548190",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kathala Kh.",
-    "name_mr": "",
+    "name_mr": "कठाळा खुर्द",
     "code": "548189",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Ambhoda Kadam",
-    "name_mr": "",
+    "name_mr": "अंभोडा कदम",
     "code": "548174",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kathala Bk.",
-    "name_mr": "",
+    "name_mr": "कठाळा बुद्रुक",
     "code": "548188",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pimparkheda Kharabe",
-    "name_mr": "",
+    "name_mr": "पिंपरखेडा खराबे",
     "code": "548177",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Sawargaon Wayal",
-    "name_mr": "",
+    "name_mr": "सावरगाव वायाळ",
     "code": "548180",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pangri Bk.",
-    "name_mr": "",
+    "name_mr": "पांगरी बुद्रुक",
     "code": "548172",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pandhurna",
-    "name_mr": "",
+    "name_mr": "पांढुर्णा",
     "code": "548170",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Arda Tolaji",
-    "name_mr": "",
+    "name_mr": "आर्डा तोलाजी",
     "code": "548181",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Sonunkarwadi",
-    "name_mr": "",
+    "name_mr": "सोनुंकरवाडी",
     "code": "548173",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Maltondi",
-    "name_mr": "",
+    "name_mr": "माळतोंडी",
     "code": "548171",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Wai",
-    "name_mr": "",
+    "name_mr": "वाई",
     "code": "548185",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Dhonde Pimpalgaon",
-    "name_mr": "",
+    "name_mr": "धोंडी पिंपळगाव",
     "code": "548184",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Waghoda Tanda",
-    "name_mr": "",
+    "name_mr": "वाघोडा  तांडा",
     "code": "548162",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pangri (Gosavi)",
-    "name_mr": "",
+    "name_mr": "पांगरी (गोसावी)",
     "code": "548183",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Wadhegaon (pandhurna)",
-    "name_mr": "",
+    "name_mr": "वाढेगाव (पाढुर्णा)",
     "code": "548169",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Lawni",
-    "name_mr": "",
+    "name_mr": "लावणी",
     "code": "548182",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pangra Gadadhe",
-    "name_mr": "",
+    "name_mr": "पांगरा गडदे",
     "code": "548158",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Padlidudha",
-    "name_mr": "",
+    "name_mr": "पाडळी दुधा",
     "code": "548157",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Waghoda",
-    "name_mr": "",
+    "name_mr": "वाघोडा",
     "code": "548161",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Dhoksal",
-    "name_mr": "",
+    "name_mr": "ढोकसाळ",
     "code": "548168",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Vidoli Bk.",
-    "name_mr": "",
+    "name_mr": "विडोळी बुद्रुक",
     "code": "548223",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Arda Khari",
-    "name_mr": "",
+    "name_mr": "आर्डा खारी",
     "code": "548218",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Ranmala",
-    "name_mr": "",
+    "name_mr": "रानमळा",
     "code": "548215",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Mangrul",
-    "name_mr": "",
+    "name_mr": "मंगरूळ",
     "code": "548219",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Hatwan",
-    "name_mr": "",
+    "name_mr": "हातवन",
     "code": "548220",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Helaswadi",
-    "name_mr": "",
+    "name_mr": "हेलसवाडी",
     "code": "548205",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Georai",
-    "name_mr": "",
+    "name_mr": "गेवराई",
     "code": "548212",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Karnawal",
-    "name_mr": "",
+    "name_mr": "कर्णावळ",
     "code": "548214",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Devthana Mantha",
-    "name_mr": "",
+    "name_mr": "देवठाना  मंठा",
     "code": "548211",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Awalgaon",
-    "name_mr": "",
+    "name_mr": "आवलगाव",
     "code": "548210",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Mantha (NP)",
-    "name_mr": "",
+    "name_mr": "मंठा",
     "code": "276371",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kendhali",
-    "name_mr": "",
+    "name_mr": "केंधळी",
     "code": "548209",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Helas",
-    "name_mr": "",
+    "name_mr": "हेलस",
     "code": "548204",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Tokwadi",
-    "name_mr": "",
+    "name_mr": "टोकवाडी",
     "code": "548206",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Barbada",
-    "name_mr": "",
+    "name_mr": "बरबडा",
     "code": "548196",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Thengewadgaon",
-    "name_mr": "",
+    "name_mr": "ठेंगेवडगाव",
     "code": "548207",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Hiwarkheda",
-    "name_mr": "",
+    "name_mr": "हिवरखेडा",
     "code": "548198",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Malkini",
-    "name_mr": "",
+    "name_mr": "माळकिनी",
     "code": "548203",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pangri Kh.",
-    "name_mr": "",
+    "name_mr": "पांगरी खुर्द",
     "code": "548202",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Umarkheda",
-    "name_mr": "",
+    "name_mr": "उमरखेड",
     "code": "548199",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Bramhnath Tanda",
-    "name_mr": "",
+    "name_mr": "ब्रम्हनाथ तांडा",
     "code": "548186",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Limbona",
-    "name_mr": "",
+    "name_mr": "लिंबोना",
     "code": "548197",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Murumkheda",
-    "name_mr": "",
+    "name_mr": "मुरुमखेडा",
     "code": "548201",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Wirgavhan",
-    "name_mr": "",
+    "name_mr": "विरगव्हाण",
     "code": "548175",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Meskheda",
-    "name_mr": "",
+    "name_mr": "मेसखेडा",
     "code": "548178",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Watur Tanda",
-    "name_mr": "",
+    "name_mr": "वाटूर  तांडा",
     "code": "548194",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Akani",
-    "name_mr": "",
+    "name_mr": "आकणी",
     "code": "548195",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Gulkhand Tanda",
-    "name_mr": "",
+    "name_mr": "गुळखंड तांडा",
     "code": "548193",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Gulkhand",
-    "name_mr": "",
+    "name_mr": "गुळखंड",
     "code": "548192",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pakni",
-    "name_mr": "",
+    "name_mr": "पाकणी",
     "code": "548191",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Mosa",
-    "name_mr": "",
+    "name_mr": "मोसा",
     "code": "548187",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Jatkheda",
-    "name_mr": "",
+    "name_mr": "जातखेडा",
     "code": "548179",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Palaskheda",
-    "name_mr": "",
+    "name_mr": "पळसखेडा",
     "code": "548166",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kirtapur Tanda",
-    "name_mr": "",
+    "name_mr": "कीर्तापूर  तांडा",
     "code": "548156",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kinkheda",
-    "name_mr": "",
+    "name_mr": "किनखेडा",
     "code": "548154",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Warud",
-    "name_mr": "",
+    "name_mr": "वरुड",
     "code": "548165",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kirtapur",
-    "name_mr": "",
+    "name_mr": "कीर्तापूर",
     "code": "548155",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Ganeshpur",
-    "name_mr": "",
+    "name_mr": "गणेशपूर",
     "code": "548167",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Malsawangi",
-    "name_mr": "",
+    "name_mr": "माळसावंगी",
     "code": "548159",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pewa",
-    "name_mr": "",
+    "name_mr": "पेवा",
     "code": "548148",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Khorad Sawangi",
-    "name_mr": "",
+    "name_mr": "खोराड सावंगी",
     "code": "548153",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Naigaon P. Bamhani",
-    "name_mr": "",
+    "name_mr": "नायगाव प्र. बामणी",
     "code": "548152",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Vaidhywadgaon",
-    "name_mr": "",
+    "name_mr": "वैद्यवडगाव",
     "code": "548164",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Deogaon Khawate",
-    "name_mr": "",
+    "name_mr": "देवगाव खवणे",
     "code": "548160",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Mohdari",
-    "name_mr": "",
+    "name_mr": "मोहदरी",
     "code": "548147",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Ambhora Jahagir",
-    "name_mr": "",
+    "name_mr": "अंभोरा जहांगिर",
     "code": "548163",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Talegaon",
-    "name_mr": "",
+    "name_mr": "तळेगाव",
     "code": "548142",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Ambhor Shelke",
-    "name_mr": "",
+    "name_mr": "अंभोर  शेळके",
     "code": "548146",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Khorwad",
-    "name_mr": "",
+    "name_mr": "खोरवड",
     "code": "548136",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Kehalwadgaon",
-    "name_mr": "",
+    "name_mr": "केहाळ वडगाव",
     "code": "548151",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Mahora",
-    "name_mr": "",
+    "name_mr": "माहोरा",
     "code": "548150",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Naigaon P. Sevli",
-    "name_mr": "",
+    "name_mr": "नायगाव प्र. शेवली",
     "code": "548125",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Pokhari Takle",
-    "name_mr": "",
+    "name_mr": "पोखरी टकले",
     "code": "548149",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Andhwadi",
-    "name_mr": "",
+    "name_mr": "आंदवाडी",
     "code": "548145",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Chikhali",
-    "name_mr": "",
+    "name_mr": "चिखली",
     "code": "548144",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Malegaon",
-    "name_mr": "",
+    "name_mr": "माळेगाव",
     "code": "548140",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Dahifal Khandare",
-    "name_mr": "",
+    "name_mr": "दहिफळ  खंदारे",
     "code": "548141",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Garteki Tanda",
-    "name_mr": "",
+    "name_mr": "गर्तेकी  तांडा",
     "code": "548143",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "jalna",
     "taluka_id": "mantha",
     "name_en": "Hanwat Kheda",
-    "name_mr": "",
+    "name_mr": "हानवत खेडा",
     "code": "548138",
     "boundary_file": "/data/boundaries/villages/jalna/mantha.geojson"
   }

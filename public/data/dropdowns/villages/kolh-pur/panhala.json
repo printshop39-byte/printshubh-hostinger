@@ -4,7 +4,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Sawarde  T.Satave",
-    "name_mr": "",
+    "name_mr": "सावर्डे तर्फ सातवे",
     "code": "567131",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Satave",
-    "name_mr": "",
+    "name_mr": "कसबा सातवे",
     "code": "567132",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kakhe",
-    "name_mr": "",
+    "name_mr": "काखे",
     "code": "567133",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Mohare",
-    "name_mr": "",
+    "name_mr": "मोहरे",
     "code": "567136",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Amatewadi",
-    "name_mr": "",
+    "name_mr": "आमतेवाडी",
     "code": "567138",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Arale",
-    "name_mr": "",
+    "name_mr": "आरळे",
     "code": "567137",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Shindewadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी",
     "code": "567139",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Awali",
-    "name_mr": "",
+    "name_mr": "आवळी",
     "code": "567146",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Borpadale",
-    "name_mr": "",
+    "name_mr": "बोरपाडळे",
     "code": "567148",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Bahirewadi",
-    "name_mr": "",
+    "name_mr": "बहिरेवाडी",
     "code": "567135",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Shahapur",
-    "name_mr": "",
+    "name_mr": "शहापूर",
     "code": "567140",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kodoli",
-    "name_mr": "",
+    "name_mr": "कोडोली",
     "code": "567134",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Paijarwadi",
-    "name_mr": "",
+    "name_mr": "पैजारवाडी",
     "code": "567152",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pokhale",
-    "name_mr": "",
+    "name_mr": "पोखले",
     "code": "567142",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Male",
-    "name_mr": "",
+    "name_mr": "माले",
     "code": "567141",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Borivade",
-    "name_mr": "",
+    "name_mr": "बोरीवडे",
     "code": "567153",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Jakhale",
-    "name_mr": "",
+    "name_mr": "जाखले",
     "code": "567143",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Jeeur",
-    "name_mr": "",
+    "name_mr": "जेवूर",
     "code": "567151",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Navali",
-    "name_mr": "",
+    "name_mr": "नावली",
     "code": "567150",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kekhale",
-    "name_mr": "",
+    "name_mr": "केखले",
     "code": "567144",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Badewadi",
-    "name_mr": "",
+    "name_mr": "बादेवाडी",
     "code": "567155",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Bongewadi",
-    "name_mr": "",
+    "name_mr": "बोंगेवाडी",
     "code": "567154",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Apati",
-    "name_mr": "",
+    "name_mr": "आपटी",
     "code": "567161",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Vekhandwadi",
-    "name_mr": "",
+    "name_mr": "वेखंडवाडी",
     "code": "567158",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Mitharwadi",
-    "name_mr": "",
+    "name_mr": "मिठारवाडी",
     "code": "567149",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Ambavade",
-    "name_mr": "",
+    "name_mr": "आंबवडे",
     "code": "567163",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Mhalunge Tarf Thane",
-    "name_mr": "",
+    "name_mr": "म्हाळुंगे तर्फ ठाणे",
     "code": "567159",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Bandivade",
-    "name_mr": "",
+    "name_mr": "बांदिवडे",
     "code": "567156",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Japhale",
-    "name_mr": "",
+    "name_mr": "जाफळे",
     "code": "567145",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pimple T.Satave",
-    "name_mr": "",
+    "name_mr": "पिंपळे तर्फ सातवे",
     "code": "567164",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Panhala  (Rural)",
-    "name_mr": "",
+    "name_mr": "पन्हाळा",
     "code": "567160",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Injole",
-    "name_mr": "",
+    "name_mr": "इंजोळे",
     "code": "567157",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Nebapur",
-    "name_mr": "",
+    "name_mr": "नेबापूर",
     "code": "567162",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Waghave",
-    "name_mr": "",
+    "name_mr": "वाघवे",
     "code": "567193",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Giroli",
-    "name_mr": "",
+    "name_mr": "गिरोली",
     "code": "567171",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Golivade",
-    "name_mr": "",
+    "name_mr": "गोलीवडे",
     "code": "567191",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Wadi Ratnagiri (CT)",
-    "name_mr": "",
+    "name_mr": "वाडी रत्नागिरी",
     "code": "567260",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Danewadi",
-    "name_mr": "",
+    "name_mr": "दानेवाडी",
     "code": "567170",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kotoli",
-    "name_mr": "",
+    "name_mr": "कोतोली",
     "code": "567185",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Undri",
-    "name_mr": "",
+    "name_mr": "उंड्री",
     "code": "567175",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Karanjphen",
-    "name_mr": "",
+    "name_mr": "करंजफेण",
     "code": "567180",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Gude",
-    "name_mr": "",
+    "name_mr": "गुडे",
     "code": "567165",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Nivade",
-    "name_mr": "",
+    "name_mr": "निवडे",
     "code": "567174",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Dhabdhabewadi",
-    "name_mr": "",
+    "name_mr": "धबधबेवाडी",
     "code": "567166",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Nanundre",
-    "name_mr": "",
+    "name_mr": "नणुंद्रे",
     "code": "567181",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Rakshi",
-    "name_mr": "",
+    "name_mr": "राक्षी",
     "code": "567169",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pimple T.Thane",
-    "name_mr": "",
+    "name_mr": "पिंपळे तर्फ ठाणे",
     "code": "567192",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Ghotavade",
-    "name_mr": "",
+    "name_mr": "घोटवडे",
     "code": "567179",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kaneri",
-    "name_mr": "",
+    "name_mr": "कणेरी",
     "code": "567182",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Manewadi",
-    "name_mr": "",
+    "name_mr": "मानेवाडी",
     "code": "567190",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Alave",
-    "name_mr": "",
+    "name_mr": "आळवे",
     "code": "567189",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pohale T.Alate",
-    "name_mr": "",
+    "name_mr": "पोहाळे तर्फ आळते",
     "code": "567172",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Nikamwadi",
-    "name_mr": "",
+    "name_mr": "निकमवाडी",
     "code": "567194",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Darewadi",
-    "name_mr": "",
+    "name_mr": "दरेवाडी",
     "code": "567168",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kololi",
-    "name_mr": "",
+    "name_mr": "कोलोली",
     "code": "567184",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Utre",
-    "name_mr": "",
+    "name_mr": "उत्रे",
     "code": "567195",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Porle T.Thane",
-    "name_mr": "",
+    "name_mr": "पोर्ले तर्फ ठाणे",
     "code": "567196",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Chavhanwadi",
-    "name_mr": "",
+    "name_mr": "चव्हाणवाडी",
     "code": "567178",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Devthane",
-    "name_mr": "",
+    "name_mr": "देवठाणे",
     "code": "567211",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Telave",
-    "name_mr": "",
+    "name_mr": "तेलवे",
     "code": "567183",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Asurle",
-    "name_mr": "",
+    "name_mr": "आसुर्ले",
     "code": "567167",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Malwadi",
-    "name_mr": "",
+    "name_mr": "माळवाडी",
     "code": "567186",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Khotwadi",
-    "name_mr": "",
+    "name_mr": "खोतवाडी",
     "code": "567228",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Desaiwadi",
-    "name_mr": "",
+    "name_mr": "देसाईवाडी",
     "code": "567176",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Waloli",
-    "name_mr": "",
+    "name_mr": "वाळोली",
     "code": "567202",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kushire",
-    "name_mr": "",
+    "name_mr": "कुशिरे तर्फ ठाणे",
     "code": "567173",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Borgaon",
-    "name_mr": "",
+    "name_mr": "कसबा बोरगांव",
     "code": "567177",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Shindewadi",
-    "name_mr": "",
+    "name_mr": "शिंदेवाडी",
     "code": "567229",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Majegaon",
-    "name_mr": "",
+    "name_mr": "माजगांव",
     "code": "567230",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Warnul",
-    "name_mr": "",
+    "name_mr": "वारनूळ",
     "code": "567203",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Porle T.Borgaon",
-    "name_mr": "",
+    "name_mr": "पोर्ले तर्फ बोरगांव",
     "code": "567198",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "K.Thane",
-    "name_mr": "",
+    "name_mr": "क. ठाणे",
     "code": "567210",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Bajarbhongaon",
-    "name_mr": "",
+    "name_mr": "बाजारभोगाव",
     "code": "567199",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Salwadi",
-    "name_mr": "",
+    "name_mr": "साळवाडी",
     "code": "567201",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Tirpan",
-    "name_mr": "",
+    "name_mr": "तिरपण",
     "code": "567187",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Malwadi",
-    "name_mr": "",
+    "name_mr": "माळवाडी (मा)",
     "code": "567231",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pohale T.Borgaon",
-    "name_mr": "",
+    "name_mr": "पोहाळे तर्फ बोरगाव",
     "code": "567200",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Digawade",
-    "name_mr": "",
+    "name_mr": "दिगवडे",
     "code": "567188",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Majnal",
-    "name_mr": "",
+    "name_mr": "माजनाळ",
     "code": "567205",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Motaiwadi",
-    "name_mr": "",
+    "name_mr": "मोताईवाडी",
     "code": "567215",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Padal",
-    "name_mr": "",
+    "name_mr": "पडळ",
     "code": "567232",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Patpanhala",
-    "name_mr": "",
+    "name_mr": "पाटपन्हाळा",
     "code": "567197",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kumbharwadi",
-    "name_mr": "",
+    "name_mr": "कुंभारवाडी",
     "code": "567204",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Punal",
-    "name_mr": "",
+    "name_mr": "पुनाळ",
     "code": "567206",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Mahadikwadi",
-    "name_mr": "",
+    "name_mr": "महाडिकवाडी",
     "code": "567209",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kaurwadi",
-    "name_mr": "",
+    "name_mr": "काऊरवाडी",
     "code": "567216",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Manwad",
-    "name_mr": "",
+    "name_mr": "मानवाड",
     "code": "567220",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Walavekarwadi",
-    "name_mr": "",
+    "name_mr": "वाळवेकरवाडी",
     "code": "567214",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Washi",
-    "name_mr": "",
+    "name_mr": "वाशी",
     "code": "567221",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Mhalunge Tarf Borgaon",
-    "name_mr": "",
+    "name_mr": "म्हाळूंगे तर्फ बोरगांव",
     "code": "567208",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pisatri",
-    "name_mr": "",
+    "name_mr": "पिसात्री",
     "code": "567219",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kisrul",
-    "name_mr": "",
+    "name_mr": "किसरूळ",
     "code": "567217",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Katebhogaon",
-    "name_mr": "",
+    "name_mr": "काटेभोगाव",
     "code": "567212",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Mugadewadi",
-    "name_mr": "",
+    "name_mr": "मुगडेवाडी",
     "code": "567218",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pushire T.Borgaon",
-    "name_mr": "",
+    "name_mr": "पुशिरे तर्फ बोरगांव",
     "code": "567207",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pohalwadi",
-    "name_mr": "",
+    "name_mr": "पोहाळवाडी",
     "code": "567227",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Yevaluj",
-    "name_mr": "",
+    "name_mr": "यवलूज",
     "code": "567233",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Satarde",
-    "name_mr": "",
+    "name_mr": "सातार्डे",
     "code": "567234",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Talewadi",
-    "name_mr": "",
+    "name_mr": "तळेवाडी",
     "code": "567213",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kale",
-    "name_mr": "",
+    "name_mr": "कळे",
     "code": "567236",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Padasali",
-    "name_mr": "",
+    "name_mr": "पडसाळी",
     "code": "567222",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kolik",
-    "name_mr": "",
+    "name_mr": "कोलीक",
     "code": "567223",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kherivade",
-    "name_mr": "",
+    "name_mr": "खेरीवडे",
     "code": "567237",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Marali",
-    "name_mr": "",
+    "name_mr": "मरळी",
     "code": "567235",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Gharapan",
-    "name_mr": "",
+    "name_mr": "घरपण",
     "code": "567244",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Atkirwadi",
-    "name_mr": "",
+    "name_mr": "आतकिरवाडी",
     "code": "567238",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Pombre",
-    "name_mr": "",
+    "name_mr": "पोंबरे",
     "code": "567225",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Asagaon",
-    "name_mr": "",
+    "name_mr": "आसगांव",
     "code": "567240",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Parakhandale",
-    "name_mr": "",
+    "name_mr": "परखंदळे",
     "code": "567245",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Menganewadi",
-    "name_mr": "",
+    "name_mr": "मेंगाणेवाडी",
     "code": "567239",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Sawarde T.Asandoli",
-    "name_mr": "",
+    "name_mr": "सावर्डे तर्फ असंडोली",
     "code": "567241",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Malharpeth",
-    "name_mr": "",
+    "name_mr": "मल्हारपेठ",
     "code": "567242",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Gothane",
-    "name_mr": "",
+    "name_mr": "गोठणे",
     "code": "567224",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kaljawade",
-    "name_mr": "",
+    "name_mr": "काळजवडे",
     "code": "567226",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Morewadi",
-    "name_mr": "",
+    "name_mr": "मोरेवाडी",
     "code": "567250",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Navalvwadi",
-    "name_mr": "",
+    "name_mr": "नावाळवाडी",
     "code": "567243",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Gothe",
-    "name_mr": "",
+    "name_mr": "गोठे",
     "code": "567246",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1057,7 +1057,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Waghurde",
-    "name_mr": "",
+    "name_mr": "वाघूर्डे",
     "code": "567249",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1066,7 +1066,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Akurde",
-    "name_mr": "",
+    "name_mr": "आकूर्डे",
     "code": "567248",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1075,7 +1075,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Tandulwadi",
-    "name_mr": "",
+    "name_mr": "तांदूळवाडी",
     "code": "567247",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1084,7 +1084,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Sule",
-    "name_mr": "",
+    "name_mr": "सुळे",
     "code": "567251",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1093,7 +1093,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Kodavade",
-    "name_mr": "",
+    "name_mr": "कोदवडे",
     "code": "567252",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1102,7 +1102,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Panutre",
-    "name_mr": "",
+    "name_mr": "पणूत्रे",
     "code": "567254",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1111,7 +1111,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Gogave",
-    "name_mr": "",
+    "name_mr": "गोगवे",
     "code": "567253",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1120,7 +1120,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Wetavade",
-    "name_mr": "",
+    "name_mr": "वेतवडे",
     "code": "567255",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1129,7 +1129,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Ambarde",
-    "name_mr": "",
+    "name_mr": "आंबर्डे",
     "code": "567256",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1138,7 +1138,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Harpavade",
-    "name_mr": "",
+    "name_mr": "हरपवडे",
     "code": "567257",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1147,7 +1147,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Panore",
-    "name_mr": "",
+    "name_mr": "पणोरे",
     "code": "567259",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1156,7 +1156,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Nivachiwadi",
-    "name_mr": "",
+    "name_mr": "निवाचीवाडी",
     "code": "567258",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1165,7 +1165,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Dewale",
-    "name_mr": "",
+    "name_mr": "देवाळे",
     "code": "567147",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   },
@@ -1174,7 +1174,7 @@
     "district_id": "kolh-pur",
     "taluka_id": "panhala",
     "name_en": "Panhala  (M Cl)",
-    "name_mr": "",
+    "name_mr": "पन्हाळा",
     "code": "251615",
     "boundary_file": "/data/boundaries/villages/kolh-pur/panhala.geojson"
   }

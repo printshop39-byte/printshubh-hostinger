@@ -4,7 +4,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "SAMBALPUR RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "संबळपूर राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Lendezari",
-    "name_mr": "",
+    "name_mr": "लेंडेझरी",
     "code": "538067",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mangezari",
-    "name_mr": "",
+    "name_mr": "मंगेझरी(रिठी)",
     "code": "538066",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Murpar",
-    "name_mr": "",
+    "name_mr": "मुरपार (ले)",
     "code": "538068",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Halbitola",
-    "name_mr": "",
+    "name_mr": "हलबीटोला",
     "code": "538102",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Rengepar",
-    "name_mr": "",
+    "name_mr": "रेंगेपार",
     "code": "538101",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Gongale",
-    "name_mr": "",
+    "name_mr": "गोंगले",
     "code": "538104",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dhanori",
-    "name_mr": "",
+    "name_mr": "धानोरी",
     "code": "538071",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khadipar",
-    "name_mr": "",
+    "name_mr": "खाडीपार",
     "code": "538105",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Malijunga",
-    "name_mr": "",
+    "name_mr": "मालीजुंगा",
     "code": "538072",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Patekurra",
-    "name_mr": "",
+    "name_mr": "पाटेकुर्रा",
     "code": "538107",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dodke",
-    "name_mr": "",
+    "name_mr": "दोडके",
     "code": "538108",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bolunda",
-    "name_mr": "",
+    "name_mr": "बोळुंदा",
     "code": "538070",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Pandhari",
-    "name_mr": "",
+    "name_mr": "पांढरी",
     "code": "538103",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Thadezari",
-    "name_mr": "",
+    "name_mr": "थाडेझरी",
     "code": "538069",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mundipar",
-    "name_mr": "",
+    "name_mr": "मुंडीपार (ईश्वर)",
     "code": "538075",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Jambhali",
-    "name_mr": "",
+    "name_mr": "जांभळी",
     "code": "538109",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kosamtondi",
-    "name_mr": "",
+    "name_mr": "कोसमतोंडी",
     "code": "538073",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dunda",
-    "name_mr": "",
+    "name_mr": "डुंडा",
     "code": "538113",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Palasgaon",
-    "name_mr": "",
+    "name_mr": "पळसगाव",
     "code": "538111",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Sitepar",
-    "name_mr": "",
+    "name_mr": "सितेपार",
     "code": "538115",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Chichtola",
-    "name_mr": "",
+    "name_mr": "चिचटोला",
     "code": "538074",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Shivantola",
-    "name_mr": "",
+    "name_mr": "शिवनटोला",
     "code": "538114",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bhusaritola",
-    "name_mr": "",
+    "name_mr": "भुसारीटोला",
     "code": "538106",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Murpar",
-    "name_mr": "",
+    "name_mr": "मुरपार (राम)",
     "code": "538112",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dawwa",
-    "name_mr": "",
+    "name_mr": "डव्वा",
     "code": "538116",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Gopaltoli",
-    "name_mr": "",
+    "name_mr": "गोपालटोली",
     "code": "538110",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Ghategaon",
-    "name_mr": "",
+    "name_mr": "घटेगाव",
     "code": "538076",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Pindakepar Rithi",
-    "name_mr": "",
+    "name_mr": "पिंडकेपार (रिठी)",
     "code": "538082",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Maramjob",
-    "name_mr": "",
+    "name_mr": "मरामजोब(रिठी)",
     "code": "538117",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Ghoti",
-    "name_mr": "",
+    "name_mr": "घोटी",
     "code": "538081",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Purkabadi",
-    "name_mr": "",
+    "name_mr": "पुरकाबोडी(रिठी)",
     "code": "538078",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Temani",
-    "name_mr": "",
+    "name_mr": "टेमनी",
     "code": "538077",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Thadezari",
-    "name_mr": "",
+    "name_mr": "थाडेझरी(रिठी)",
     "code": "538080",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Heti Girola",
-    "name_mr": "",
+    "name_mr": "हेटी",
     "code": "538079",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Chirchadi",
-    "name_mr": "",
+    "name_mr": "चीरचाडी",
     "code": "538118",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Girola",
-    "name_mr": "",
+    "name_mr": "गीरोला",
     "code": "538084",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Katalwahi",
-    "name_mr": "",
+    "name_mr": "कातलवाही(रिठी)",
     "code": "538134",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khodshivani",
-    "name_mr": "",
+    "name_mr": "खोडशिवनी",
     "code": "538086",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khajari",
-    "name_mr": "",
+    "name_mr": "खजरी",
     "code": "538120",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mhaswani",
-    "name_mr": "",
+    "name_mr": "म्हसवानी",
     "code": "538122",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khari Hamesh  Rithi",
-    "name_mr": "",
+    "name_mr": "खैरी हमेशा",
     "code": "538083",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khairi",
-    "name_mr": "",
+    "name_mr": "खैरी",
     "code": "538085",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kohalitola",
-    "name_mr": "",
+    "name_mr": "कोहळीटोला( आदर्श)",
     "code": "538119",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Pandharwani",
-    "name_mr": "",
+    "name_mr": "पांढरवानी",
     "code": "538135",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bothali",
-    "name_mr": "",
+    "name_mr": "बोथली",
     "code": "538121",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kanharpayli",
-    "name_mr": "",
+    "name_mr": "कन्हारपायली",
     "code": "538133",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mundipar",
-    "name_mr": "",
+    "name_mr": "मुंडीपार (सिंदीपार)",
     "code": "538087",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kohalipar",
-    "name_mr": "",
+    "name_mr": "कोहळीपार",
     "code": "538136",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dongargaon",
-    "name_mr": "",
+    "name_mr": "डोंगरगाव (खजरी)",
     "code": "538126",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mahuli",
-    "name_mr": "",
+    "name_mr": "माहुली",
     "code": "538089",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Rengepar",
-    "name_mr": "",
+    "name_mr": "रेंगेपार (दल्ली)",
     "code": "538132",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Ghatbori K",
-    "name_mr": "",
+    "name_mr": "घाटबोरी (कोहळी)",
     "code": "538091",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Shenda",
-    "name_mr": "",
+    "name_mr": "शेंडा",
     "code": "538137",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Ghatbori Teli",
-    "name_mr": "",
+    "name_mr": "घाटबोरी (तेली)",
     "code": "538124",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bauddha Nagar",
-    "name_mr": "",
+    "name_mr": "बौद्धनगर",
     "code": "538123",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Usikheda",
-    "name_mr": "",
+    "name_mr": "उशिखेडा",
     "code": "538139",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Birhi",
-    "name_mr": "",
+    "name_mr": "बिर्री",
     "code": "538088",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Sindipar",
-    "name_mr": "",
+    "name_mr": "सिंदीपार",
     "code": "538090",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Koylari",
-    "name_mr": "",
+    "name_mr": "कोयलारी",
     "code": "538145",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mohgata",
-    "name_mr": "",
+    "name_mr": "मोहघाटा",
     "code": "538138",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Parsodi",
-    "name_mr": "",
+    "name_mr": "परसोडी",
     "code": "538125",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dalli",
-    "name_mr": "",
+    "name_mr": "दल्ली",
     "code": "538144",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Wadegaon",
-    "name_mr": "",
+    "name_mr": "वडेगाव",
     "code": "538127",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kodameli",
-    "name_mr": "",
+    "name_mr": "कोदामेडी",
     "code": "538128",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Pradhantola",
-    "name_mr": "",
+    "name_mr": "प्रधानटोला",
     "code": "538146",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kesalwada",
-    "name_mr": "",
+    "name_mr": "केसलवाडा",
     "code": "538131",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Saledharani",
-    "name_mr": "",
+    "name_mr": "सालेधारणी",
     "code": "538148",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Pandharwani",
-    "name_mr": "",
+    "name_mr": "पांढरवाणी (शेंडा)",
     "code": "538140",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "PHUTALA RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "फुटला राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Putli",
-    "name_mr": "",
+    "name_mr": "पुतळी",
     "code": "538147",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Sadakarjuni (NP)",
-    "name_mr": "",
+    "name_mr": "सडाकार्जुनी",
     "code": "276368",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Tidka",
-    "name_mr": "",
+    "name_mr": "तिडका",
     "code": "538129",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Duggipar",
-    "name_mr": "",
+    "name_mr": "डुग्गीपार",
     "code": "538142",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Sahakepar",
-    "name_mr": "",
+    "name_mr": "सहाकेपार",
     "code": "538159",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Sawangi",
-    "name_mr": "",
+    "name_mr": "सावंगी",
     "code": "538094",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bamhani",
-    "name_mr": "",
+    "name_mr": "बाम्हणी (सावंगी)",
     "code": "538095",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Futala",
-    "name_mr": "",
+    "name_mr": "फुटाळा",
     "code": "538093",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kohmara",
-    "name_mr": "",
+    "name_mr": "कोहमारा",
     "code": "538141",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dewapayli",
-    "name_mr": "",
+    "name_mr": "देवपायली",
     "code": "538149",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Nainpur",
-    "name_mr": "",
+    "name_mr": "नैनपुर",
     "code": "538143",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Dongargaon",
-    "name_mr": "",
+    "name_mr": "डोंगरगाव",
     "code": "538157",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kohalitola",
-    "name_mr": "",
+    "name_mr": "कोहळीटोला",
     "code": "538152",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bhadutola",
-    "name_mr": "",
+    "name_mr": "भदुटोला",
     "code": "538097",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kolargaon",
-    "name_mr": "",
+    "name_mr": "कोलारगाव",
     "code": "538151",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bamhani",
-    "name_mr": "",
+    "name_mr": "बाम्हणी",
     "code": "538156",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khurshipar",
-    "name_mr": "",
+    "name_mr": "खुर्शीपार",
     "code": "538158",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Palasgaon",
-    "name_mr": "",
+    "name_mr": "पळसगाव (राका)",
     "code": "538096",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Chikhali",
-    "name_mr": "",
+    "name_mr": "चिखली",
     "code": "538153",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mogarra",
-    "name_mr": "",
+    "name_mr": "मोगर्रा",
     "code": "538155",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kosabi",
-    "name_mr": "",
+    "name_mr": "कोसबी",
     "code": "538150",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Manditola",
-    "name_mr": "",
+    "name_mr": "मंदीटोला",
     "code": "538161",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Baki",
-    "name_mr": "",
+    "name_mr": "बकी",
     "code": "538154",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Raka",
-    "name_mr": "",
+    "name_mr": "राका",
     "code": "538099",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "BAKIMENDKI RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "बाकीमेंडकी राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khadki",
-    "name_mr": "",
+    "name_mr": "खडकी",
     "code": "538160",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Rajguda",
-    "name_mr": "",
+    "name_mr": "राजगुडा",
     "code": "538162",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Mendki",
-    "name_mr": "",
+    "name_mr": "मेंडकी",
     "code": "538163",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Maneri",
-    "name_mr": "",
+    "name_mr": "मणेरी",
     "code": "538165",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Pipri",
-    "name_mr": "",
+    "name_mr": "पिपरी",
     "code": "538100",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kosamghat",
-    "name_mr": "",
+    "name_mr": "कोसमघाट",
     "code": "538164",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kaneri Ram",
-    "name_mr": "",
+    "name_mr": "कणेरी",
     "code": "538166",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Zankar Gondi",
-    "name_mr": "",
+    "name_mr": "झंकारगोंदी",
     "code": "538172",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kawalewada",
-    "name_mr": "",
+    "name_mr": "कवलेवाडा",
     "code": "538171",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kokana J",
-    "name_mr": "",
+    "name_mr": "कोकण ज.",
     "code": "538167",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Nishani (Rithi)",
-    "name_mr": "",
+    "name_mr": "निशानी(रिठी)",
     "code": "538173",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Khoba",
-    "name_mr": "",
+    "name_mr": "खोबा",
     "code": "538168",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Chingi",
-    "name_mr": "",
+    "name_mr": "चिंगी",
     "code": "538169",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Kokana Gosai",
-    "name_mr": "",
+    "name_mr": "कोकण गोसाई",
     "code": "538170",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Bopabodi",
-    "name_mr": "",
+    "name_mr": "बोपाबोडी",
     "code": "538092",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Sriramnagar",
-    "name_mr": "",
+    "name_mr": "श्रीरामनगर",
     "code": "651901",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "gondia",
     "taluka_id": "sadak-arjuni",
     "name_en": "Saundal",
-    "name_mr": "",
+    "name_mr": "सौंदड",
     "code": "538098",
     "boundary_file": "/data/boundaries/villages/gondia/sadak-arjuni.geojson"
   }

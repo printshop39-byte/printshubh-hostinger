@@ -4,7 +4,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wadgaon",
-    "name_mr": "",
+    "name_mr": "वडगाव",
     "code": "536260",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -13,7 +13,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Godhani",
-    "name_mr": "",
+    "name_mr": "गोधनी",
     "code": "536291",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -22,7 +22,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khursapar",
-    "name_mr": "",
+    "name_mr": "खुर्सापार (बेला)",
     "code": "536259",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -31,7 +31,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dhurkheda",
-    "name_mr": "",
+    "name_mr": "धुरखेडा",
     "code": "536221",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -40,7 +40,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Nishanghat",
-    "name_mr": "",
+    "name_mr": "निशानघाट",
     "code": "536257",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -49,7 +49,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "MUNIYA RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "मुनिया राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -58,7 +58,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Alagondi",
-    "name_mr": "",
+    "name_mr": "आलागोंदी (जंगल गाव)",
     "code": "536295",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -67,7 +67,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kinhala",
-    "name_mr": "",
+    "name_mr": "किन्हाळा (व)",
     "code": "536261",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -76,7 +76,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Fattepur",
-    "name_mr": "",
+    "name_mr": "फत्तेपूर(रिठी)",
     "code": "536220",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -85,7 +85,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bela",
-    "name_mr": "",
+    "name_mr": "बेला",
     "code": "536262",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -94,7 +94,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sukli",
-    "name_mr": "",
+    "name_mr": "सुकळी (दि)(रिठी)",
     "code": "536296",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -103,7 +103,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dongargaon",
-    "name_mr": "",
+    "name_mr": "डोंगरगाव",
     "code": "536294",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -112,7 +112,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kohla",
-    "name_mr": "",
+    "name_mr": "कोहळा",
     "code": "536264",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -121,7 +121,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Metmangrud (Ri)",
-    "name_mr": "",
+    "name_mr": "मेटमांगरूड (रिठी)",
     "code": "536298",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -130,7 +130,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Borgaon",
-    "name_mr": "",
+    "name_mr": "बोरगाव (लां)",
     "code": "536263",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -139,7 +139,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Mhasala",
-    "name_mr": "",
+    "name_mr": "म्हसाळा (गो)",
     "code": "536297",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -148,7 +148,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bidmohna (Ri)",
-    "name_mr": "",
+    "name_mr": "बीडमोहना(री)",
     "code": "536300",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -157,7 +157,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dighori",
-    "name_mr": "",
+    "name_mr": "दिघोरी",
     "code": "536299",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -166,7 +166,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Rakhi",
-    "name_mr": "",
+    "name_mr": "राखी(रिठी)",
     "code": "536265",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -175,7 +175,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bori Majara",
-    "name_mr": "",
+    "name_mr": "बोरीमजरा",
     "code": "536302",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -184,7 +184,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Chikhaldhokda",
-    "name_mr": "",
+    "name_mr": "चिखलधोकडा",
     "code": "536301",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -193,7 +193,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Menkhat (Ri)",
-    "name_mr": "",
+    "name_mr": "मेनखात (रिठी)",
     "code": "536279",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -202,7 +202,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sawangi (Bk)",
-    "name_mr": "",
+    "name_mr": "सावंगी (बुद्रुक)",
     "code": "536270",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -211,7 +211,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Amghat",
-    "name_mr": "",
+    "name_mr": "आमघाट",
     "code": "536303",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -220,7 +220,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pendkapur",
-    "name_mr": "",
+    "name_mr": "पेंडकापार",
     "code": "536271",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -229,7 +229,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pethmahmadpur (Ri)",
-    "name_mr": "",
+    "name_mr": "पेठमहम्मदपूर (री)",
     "code": "536280",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -238,7 +238,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Gowari",
-    "name_mr": "",
+    "name_mr": "गोवरी(रिठी)",
     "code": "536274",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -247,7 +247,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Nandra",
-    "name_mr": "",
+    "name_mr": "नांदरा",
     "code": "536305",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -256,7 +256,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Borgaon",
-    "name_mr": "",
+    "name_mr": "बोरगाव",
     "code": "536266",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -265,7 +265,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Ganeshpur",
-    "name_mr": "",
+    "name_mr": "गणेशपूर(रिठी)",
     "code": "536273",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -274,7 +274,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Masala",
-    "name_mr": "",
+    "name_mr": "मसाळा (च)",
     "code": "536304",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -283,7 +283,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Belpeth",
-    "name_mr": "",
+    "name_mr": "बेलपेठ",
     "code": "536267",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -292,7 +292,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Jaitapur",
-    "name_mr": "",
+    "name_mr": "जैतापूर",
     "code": "536281",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -301,7 +301,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Shedeshwar",
-    "name_mr": "",
+    "name_mr": "शेडेश्वर",
     "code": "536313",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -310,7 +310,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Undari",
-    "name_mr": "",
+    "name_mr": "उंदरी",
     "code": "536134",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -319,7 +319,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Chimanazari",
-    "name_mr": "",
+    "name_mr": "चिमणाझरी",
     "code": "536154",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -328,7 +328,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wadadh",
-    "name_mr": "",
+    "name_mr": "वडध",
     "code": "536155",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -337,7 +337,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Mangli",
-    "name_mr": "",
+    "name_mr": "मांगली",
     "code": "536137",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -346,7 +346,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sukli",
-    "name_mr": "",
+    "name_mr": "सुकळी (पें)",
     "code": "536153",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -355,7 +355,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Majri",
-    "name_mr": "",
+    "name_mr": "माजरी (रिठी)",
     "code": "536136",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -364,7 +364,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khapri (Ku)",
-    "name_mr": "",
+    "name_mr": "खापरी (कु)",
     "code": "536138",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -373,7 +373,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dawalimet",
-    "name_mr": "",
+    "name_mr": "डवलीमेट (रिठी)",
     "code": "536135",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -382,7 +382,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kalandri",
-    "name_mr": "",
+    "name_mr": "कलांद्री",
     "code": "536139",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -391,7 +391,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Champa",
-    "name_mr": "",
+    "name_mr": "चांपा",
     "code": "536152",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -400,7 +400,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Matkazari",
-    "name_mr": "",
+    "name_mr": "मटकाझरी",
     "code": "536156",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -409,7 +409,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khairi",
-    "name_mr": "",
+    "name_mr": "खैरी (ना)",
     "code": "536140",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -418,7 +418,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pendhari",
-    "name_mr": "",
+    "name_mr": "पेंढरी",
     "code": "536158",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -427,7 +427,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kolarmet",
-    "name_mr": "",
+    "name_mr": "कोलारमेठ",
     "code": "536149",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -436,7 +436,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Borgaon",
-    "name_mr": "",
+    "name_mr": "बोरगांव (रिठी)",
     "code": "536222",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -445,7 +445,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Nawegaon (S)",
-    "name_mr": "",
+    "name_mr": "नवेगाव (साधू)",
     "code": "536226",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -454,7 +454,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Salairani",
-    "name_mr": "",
+    "name_mr": "सालईराणी",
     "code": "536253",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -463,7 +463,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pandhartal",
-    "name_mr": "",
+    "name_mr": "पांढरतळ (रिठी)",
     "code": "536285",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -472,7 +472,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Salaimahalgaon",
-    "name_mr": "",
+    "name_mr": "सालईमहालगांव (रिठी)",
     "code": "536289",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -481,7 +481,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Thana",
-    "name_mr": "",
+    "name_mr": "ठाणा",
     "code": "536227",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -490,7 +490,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Muradpur",
-    "name_mr": "",
+    "name_mr": "मुरादपूर",
     "code": "536254",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -499,7 +499,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Lohara",
-    "name_mr": "",
+    "name_mr": "लोहारा",
     "code": "536228",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -508,7 +508,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pandharabodi",
-    "name_mr": "",
+    "name_mr": "पांढराबोडी (रिठी)",
     "code": "536290",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -517,7 +517,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wadandra",
-    "name_mr": "",
+    "name_mr": "वडांद्रा(रिठी)",
     "code": "536223",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -526,7 +526,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Panjrepar",
-    "name_mr": "",
+    "name_mr": "पांजरेपार (रिठी)",
     "code": "536224",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -535,7 +535,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Mendhepathar",
-    "name_mr": "",
+    "name_mr": "मेंढेपठार",
     "code": "536256",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -544,7 +544,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kumbhari",
-    "name_mr": "",
+    "name_mr": "कुंभारी",
     "code": "536218",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -553,7 +553,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "MUNIYA RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "मुनिया राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -562,7 +562,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Chicholi",
-    "name_mr": "",
+    "name_mr": "चिचोली(रिठी)",
     "code": "536225",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -571,7 +571,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Panjrepar (Ri)",
-    "name_mr": "",
+    "name_mr": "पांजरेपार (देवळी) (रिठी)",
     "code": "536282",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -580,7 +580,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pachgaon",
-    "name_mr": "",
+    "name_mr": "पाचगाव",
     "code": "536131",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -589,7 +589,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Surgaon",
-    "name_mr": "",
+    "name_mr": "सुरगाव",
     "code": "536133",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -598,7 +598,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khapri Raja",
-    "name_mr": "",
+    "name_mr": "खापरी राजा",
     "code": "536132",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -607,7 +607,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Salaimendha",
-    "name_mr": "",
+    "name_mr": "सालईमेंढा",
     "code": "536130",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -616,7 +616,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Borgaon",
-    "name_mr": "",
+    "name_mr": "बोरगाव (क)",
     "code": "536141",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -625,7 +625,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kachhimet",
-    "name_mr": "",
+    "name_mr": "कच्छीमेट",
     "code": "536157",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -634,7 +634,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bhiwapur",
-    "name_mr": "",
+    "name_mr": "भिवापूर",
     "code": "536150",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -643,7 +643,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Haladgaon",
-    "name_mr": "",
+    "name_mr": "हळदगाव",
     "code": "536159",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -652,7 +652,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Uti",
-    "name_mr": "",
+    "name_mr": "उटी",
     "code": "536151",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -661,7 +661,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Nirwa",
-    "name_mr": "",
+    "name_mr": "निरव्हा",
     "code": "536142",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -670,7 +670,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Salai",
-    "name_mr": "",
+    "name_mr": "सालई",
     "code": "536185",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -679,7 +679,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sonpuri",
-    "name_mr": "",
+    "name_mr": "सोनपुरी",
     "code": "536186",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -688,7 +688,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Barvha",
-    "name_mr": "",
+    "name_mr": "बारव्हा",
     "code": "536143",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -697,7 +697,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Umra",
-    "name_mr": "",
+    "name_mr": "उमरा",
     "code": "536161",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -706,7 +706,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Tikhadi",
-    "name_mr": "",
+    "name_mr": "तिखाडी",
     "code": "536160",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -715,7 +715,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "BHIVAPUR RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "भिवापूर राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -724,7 +724,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pusagondi",
-    "name_mr": "",
+    "name_mr": "पुसागोंदी (रिठी)",
     "code": "536148",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -733,7 +733,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wadegaon",
-    "name_mr": "",
+    "name_mr": "वडेगाव",
     "code": "536145",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -742,7 +742,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pipla",
-    "name_mr": "",
+    "name_mr": "पिपळा",
     "code": "536144",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -751,7 +751,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Aptur",
-    "name_mr": "",
+    "name_mr": "आपतूर",
     "code": "536184",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -760,7 +760,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Parsodi",
-    "name_mr": "",
+    "name_mr": "परसोडी (उटी)",
     "code": "536164",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -769,7 +769,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dudha",
-    "name_mr": "",
+    "name_mr": "दुधा",
     "code": "536163",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -778,7 +778,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Mhasepathar (R)",
-    "name_mr": "",
+    "name_mr": "म्हसेपठार (री)",
     "code": "536162",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -787,7 +787,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Thara",
-    "name_mr": "",
+    "name_mr": "थारा",
     "code": "536170",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -796,7 +796,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bramhi (ri)",
-    "name_mr": "",
+    "name_mr": "ब्रम्ही(री)",
     "code": "536187",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -805,7 +805,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Masalkund",
-    "name_mr": "",
+    "name_mr": "मासलकुंड",
     "code": "536165",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -814,7 +814,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Virli",
-    "name_mr": "",
+    "name_mr": "विरली",
     "code": "536147",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -823,7 +823,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Fukeshwar",
-    "name_mr": "",
+    "name_mr": "फुकेश्वर",
     "code": "536169",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -832,7 +832,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Ukadwadi",
-    "name_mr": "",
+    "name_mr": "उकडवाही",
     "code": "536177",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -841,7 +841,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Akola",
-    "name_mr": "",
+    "name_mr": "अकोला",
     "code": "536146",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -850,7 +850,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kumbhapur (Ri)",
-    "name_mr": "",
+    "name_mr": "कुंभापूर (रिठी)",
     "code": "536188",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -859,7 +859,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Paradgaon",
-    "name_mr": "",
+    "name_mr": "पारडगाव",
     "code": "536166",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -868,7 +868,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bramhni",
-    "name_mr": "",
+    "name_mr": "ब्राम्हणी",
     "code": "536189",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -877,7 +877,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Gaosut",
-    "name_mr": "",
+    "name_mr": "गावसुत",
     "code": "536183",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -886,7 +886,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Saiki",
-    "name_mr": "",
+    "name_mr": "सायकी",
     "code": "536167",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -895,7 +895,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Thana",
-    "name_mr": "",
+    "name_mr": "ठाणा (पाद्री)",
     "code": "536233",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -904,7 +904,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wagholi (Ri)",
-    "name_mr": "",
+    "name_mr": "वाघोली (डव्‍हा) (रिठी)",
     "code": "536168",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -913,7 +913,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bendoli",
-    "name_mr": "",
+    "name_mr": "बेंदोली",
     "code": "536232",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -922,7 +922,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Marajghat (Ri)",
-    "name_mr": "",
+    "name_mr": "मरजघाट (रिठी)",
     "code": "536230",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -931,7 +931,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Udasa",
-    "name_mr": "",
+    "name_mr": "उदासा",
     "code": "536180",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -940,7 +940,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Welsakra",
-    "name_mr": "",
+    "name_mr": "वेलसाखरा",
     "code": "536178",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -949,7 +949,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Rajulwadi",
-    "name_mr": "",
+    "name_mr": "राजुरवाडी",
     "code": "536181",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -958,7 +958,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Thombra",
-    "name_mr": "",
+    "name_mr": "ठोंबरा",
     "code": "536182",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -967,7 +967,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khairi (Ka)",
-    "name_mr": "",
+    "name_mr": "खैरी (कलार)",
     "code": "536231",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -976,7 +976,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khapri",
-    "name_mr": "",
+    "name_mr": "खापरी",
     "code": "536171",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -985,7 +985,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Davha",
-    "name_mr": "",
+    "name_mr": "डव्हा",
     "code": "536172",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -994,7 +994,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bothali",
-    "name_mr": "",
+    "name_mr": "बोथली (ठाणा)",
     "code": "536234",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1003,7 +1003,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sukli (Ri)",
-    "name_mr": "",
+    "name_mr": "सुकळी (री)",
     "code": "536174",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1012,7 +1012,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Heoti",
-    "name_mr": "",
+    "name_mr": "हेवती",
     "code": "536179",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1021,7 +1021,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dahegaon",
-    "name_mr": "",
+    "name_mr": "दहेगाव",
     "code": "536173",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1030,7 +1030,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kotgaon",
-    "name_mr": "",
+    "name_mr": "कोट्गाव",
     "code": "536192",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1039,7 +1039,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Jamgad",
-    "name_mr": "",
+    "name_mr": "जामगड",
     "code": "536238",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1048,7 +1048,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Piti Chuwha",
-    "name_mr": "",
+    "name_mr": "पिटीचुवा",
     "code": "536237",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1057,7 +1057,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Amboli",
-    "name_mr": "",
+    "name_mr": "आंबोली",
     "code": "536190",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1066,7 +1066,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sindi Vihari",
-    "name_mr": "",
+    "name_mr": "सिंदीविहरी",
     "code": "536239",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1075,7 +1075,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Ghoturli",
-    "name_mr": "",
+    "name_mr": "घोटूर्ली",
     "code": "536195",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1084,7 +1084,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Makardhokada",
-    "name_mr": "",
+    "name_mr": "मकरधोकडा",
     "code": "536175",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1093,7 +1093,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Hatkawada (Ri)",
-    "name_mr": "",
+    "name_mr": "हातकवडा (री)",
     "code": "536194",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1102,7 +1102,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Piraya",
-    "name_mr": "",
+    "name_mr": "पिराया",
     "code": "536191",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1111,7 +1111,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Jamhalapani",
-    "name_mr": "",
+    "name_mr": "जांभळापाणी",
     "code": "536240",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1120,7 +1120,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "MAKARDHOKRA  RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "मकरढोकर राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1129,7 +1129,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khapri (Ri)",
-    "name_mr": "",
+    "name_mr": "खापरी (री)",
     "code": "536193",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1138,7 +1138,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bopeshwar (ri)",
-    "name_mr": "",
+    "name_mr": "बोपेश्वर(री)",
     "code": "536176",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1147,7 +1147,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kinhala (De)",
-    "name_mr": "",
+    "name_mr": "किन्हाळा (दे) (रिठी)",
     "code": "536235",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1156,7 +1156,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pavni",
-    "name_mr": "",
+    "name_mr": "पौणी (रिठी)",
     "code": "536208",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1165,7 +1165,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wanoda",
-    "name_mr": "",
+    "name_mr": "वानोडा",
     "code": "536210",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1174,7 +1174,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wayagaon (Rt)",
-    "name_mr": "",
+    "name_mr": "वायगाव (रिठी)",
     "code": "536196",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1183,7 +1183,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Ganpawli (Ri)",
-    "name_mr": "",
+    "name_mr": "गणपावली(री)",
     "code": "536197",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1192,7 +1192,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Deni",
-    "name_mr": "",
+    "name_mr": "देणी",
     "code": "536209",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1201,7 +1201,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Garamsur (Ri)",
-    "name_mr": "",
+    "name_mr": "गरमसूर(री)",
     "code": "536241",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1210,7 +1210,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Maramzari (Ri)",
-    "name_mr": "",
+    "name_mr": "मरमझरी (रिठी)",
     "code": "536236",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1219,7 +1219,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Umred (Rural)",
-    "name_mr": "",
+    "name_mr": "उमरेड",
     "code": "536205",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1228,7 +1228,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pimpalkhut (Ri)",
-    "name_mr": "",
+    "name_mr": "पिंपळखुट (री)",
     "code": "536207",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1237,7 +1237,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Chargaon",
-    "name_mr": "",
+    "name_mr": "चारगाव",
     "code": "536249",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1246,7 +1246,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Gangapur",
-    "name_mr": "",
+    "name_mr": "गांगापूर",
     "code": "536203",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1255,7 +1255,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Katara",
-    "name_mr": "",
+    "name_mr": "कटारा(रिठी)",
     "code": "536198",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1264,7 +1264,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kanwha",
-    "name_mr": "",
+    "name_mr": "कानव्हा",
     "code": "536200",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1273,7 +1273,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khairi Bk",
-    "name_mr": "",
+    "name_mr": "खैरी (बुटी)",
     "code": "536248",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1282,7 +1282,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sonegaon",
-    "name_mr": "",
+    "name_mr": "सोनेगांव (रिठी)",
     "code": "536202",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1291,7 +1291,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Seo",
-    "name_mr": "",
+    "name_mr": "सेव",
     "code": "536206",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1300,7 +1300,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Umri (Ri)",
-    "name_mr": "",
+    "name_mr": "उमरी (री)",
     "code": "536242",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1309,7 +1309,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Tambekhani (Ri)",
-    "name_mr": "",
+    "name_mr": "तांबेखणी (री)",
     "code": "536243",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1318,7 +1318,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Tirkhura",
-    "name_mr": "",
+    "name_mr": "तिरखुरा",
     "code": "536212",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1327,7 +1327,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Ridhora",
-    "name_mr": "",
+    "name_mr": "रिधोरा(रिठी)",
     "code": "536250",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1336,7 +1336,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bareja (Ri)",
-    "name_mr": "",
+    "name_mr": "बरेजा(री)",
     "code": "536204",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1345,7 +1345,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Narsala (Ri)",
-    "name_mr": "",
+    "name_mr": "नरसाळा (री)",
     "code": "536201",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1354,7 +1354,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Shirpur",
-    "name_mr": "",
+    "name_mr": "शिरपूर",
     "code": "536199",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1363,7 +1363,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Karandla",
-    "name_mr": "",
+    "name_mr": "कऱ्हांडला",
     "code": "536211",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1372,7 +1372,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khedi (Ri)",
-    "name_mr": "",
+    "name_mr": "खेडी(रिठी)",
     "code": "536214",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1381,7 +1381,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Surajpur (Ri)",
-    "name_mr": "",
+    "name_mr": "सुरजपूर(रिठी)",
     "code": "536244",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1390,7 +1390,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Murzadi",
-    "name_mr": "",
+    "name_mr": "मुरझडी",
     "code": "536247",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1399,7 +1399,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Tambekhani (M)",
-    "name_mr": "",
+    "name_mr": "तांबेखणी (मा)",
     "code": "536245",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1408,7 +1408,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bhapsi",
-    "name_mr": "",
+    "name_mr": "भापसी",
     "code": "536213",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1417,7 +1417,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Borgaon (kari)",
-    "name_mr": "",
+    "name_mr": "बोरगाव (काझी) (रिठी)",
     "code": "536251",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1426,7 +1426,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kalamana",
-    "name_mr": "",
+    "name_mr": "कळमना (गो)",
     "code": "536288",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1435,7 +1435,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Belgaon",
-    "name_mr": "",
+    "name_mr": "बेलगाव",
     "code": "536216",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1444,7 +1444,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Boribhatari (ri)",
-    "name_mr": "",
+    "name_mr": "बोरीभटारी(री)",
     "code": "536217",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1453,7 +1453,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Surabardi",
-    "name_mr": "",
+    "name_mr": "सुराबर्डी",
     "code": "536252",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1462,7 +1462,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dhamangaon (Ri)",
-    "name_mr": "",
+    "name_mr": "धामणगाव(री)",
     "code": "536287",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1471,7 +1471,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bhivgad",
-    "name_mr": "",
+    "name_mr": "भिवगड",
     "code": "536255",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1480,7 +1480,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Amgaon",
-    "name_mr": "",
+    "name_mr": "आमगाव (दे)",
     "code": "536246",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1489,7 +1489,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Khursapar",
-    "name_mr": "",
+    "name_mr": "खुर्सापार",
     "code": "536286",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1498,7 +1498,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Parsodi",
-    "name_mr": "",
+    "name_mr": "परसोडी (उम)",
     "code": "536215",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1507,7 +1507,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pipardol",
-    "name_mr": "",
+    "name_mr": "पिपरडोल",
     "code": "536283",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1516,7 +1516,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Dewli",
-    "name_mr": "",
+    "name_mr": "देवळी",
     "code": "536229",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1525,7 +1525,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Wagholi",
-    "name_mr": "",
+    "name_mr": "वाघोली (रिठी)",
     "code": "536284",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1534,7 +1534,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Junoni",
-    "name_mr": "",
+    "name_mr": "जुनोनी",
     "code": "536293",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1543,7 +1543,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Telkawadsi",
-    "name_mr": "",
+    "name_mr": "तेलकवडसी",
     "code": "536292",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1552,7 +1552,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kawadapur",
-    "name_mr": "",
+    "name_mr": "कवडापूर",
     "code": "536258",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1561,7 +1561,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Mohpa",
-    "name_mr": "",
+    "name_mr": "मोहपा",
     "code": "536219",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1570,7 +1570,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "MUNIYA RESERVED FOREST",
-    "name_mr": "",
+    "name_mr": "मुनिया राखीव वन",
     "code": null,
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1579,7 +1579,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sawangi (Kh)",
-    "name_mr": "",
+    "name_mr": "सावंगी (खुर्द)",
     "code": "536269",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1588,7 +1588,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Salai Kh",
-    "name_mr": "",
+    "name_mr": "सालई (खुर्द)",
     "code": "536277",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1597,7 +1597,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Paoni",
-    "name_mr": "",
+    "name_mr": "पवनी",
     "code": "536278",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1606,7 +1606,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Singapur (Ri)",
-    "name_mr": "",
+    "name_mr": "सिंगापूर (री)",
     "code": "536272",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1615,7 +1615,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kalamana",
-    "name_mr": "",
+    "name_mr": "कळमना (बेला)",
     "code": "536275",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1624,7 +1624,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Pipra",
-    "name_mr": "",
+    "name_mr": "पिपरा",
     "code": "536315",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1633,7 +1633,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sayeshwar",
-    "name_mr": "",
+    "name_mr": "सायेश्वर",
     "code": "536268",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1642,7 +1642,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Singori",
-    "name_mr": "",
+    "name_mr": "सिंगोरी",
     "code": "536314",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1651,7 +1651,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sukali Junoni",
-    "name_mr": "",
+    "name_mr": "सुकळीजुनोनी",
     "code": "536306",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1660,7 +1660,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Salai Bk (Ri)",
-    "name_mr": "",
+    "name_mr": "सलाई बुद्रुक (री)",
     "code": "536276",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1669,7 +1669,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sandigondi",
-    "name_mr": "",
+    "name_mr": "सांडीगोंडी",
     "code": "536311",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1678,7 +1678,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Ibrahimpur (Ri)",
-    "name_mr": "",
+    "name_mr": "इब्राहम्पूर (री)",
     "code": "536310",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1687,7 +1687,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kachalkuhi",
-    "name_mr": "",
+    "name_mr": "काचलकुही(रिठी)",
     "code": "536312",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1696,7 +1696,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Chanoda",
-    "name_mr": "",
+    "name_mr": "चनोडा",
     "code": "536309",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1705,7 +1705,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Hiwara",
-    "name_mr": "",
+    "name_mr": "हिवरा",
     "code": "536308",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1714,7 +1714,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Kinhala",
-    "name_mr": "",
+    "name_mr": "किन्हाळा (बो)",
     "code": "536318",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1723,7 +1723,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Seloti",
-    "name_mr": "",
+    "name_mr": "सेलोटी (रिठी)",
     "code": "536307",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1732,7 +1732,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Sirsi (R)",
-    "name_mr": "",
+    "name_mr": "सिर्सी",
     "code": "536321",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1741,7 +1741,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Manori",
-    "name_mr": "",
+    "name_mr": "मानोरी",
     "code": "536316",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1750,7 +1750,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Keslapur",
-    "name_mr": "",
+    "name_mr": "केसलापुर",
     "code": "536317",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1759,7 +1759,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Bothali",
-    "name_mr": "",
+    "name_mr": "बोथली (कि)",
     "code": "536319",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1768,7 +1768,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Gulalpur (Ri)",
-    "name_mr": "",
+    "name_mr": "गुलालपूर(रिठी)",
     "code": "536320",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   },
@@ -1777,7 +1777,7 @@
     "district_id": "nagpur",
     "taluka_id": "umred",
     "name_en": "Umred (M Cl)",
-    "name_mr": "",
+    "name_mr": "उमरेड",
     "code": "251366",
     "boundary_file": "/data/boundaries/villages/nagpur/umred.geojson"
   }
