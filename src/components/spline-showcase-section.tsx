@@ -6,6 +6,7 @@ import { Card } from "@/components/ui/card";
 import { Spotlight } from "@/components/ui/spotlight";
 import { SplineScene } from "@/components/ui/splite";
 import { useLang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 /* ──────────────────────────────────────────────────────────────────────────────
    SplineShowcaseSection
@@ -94,7 +95,7 @@ export function SplineShowcaseSection() {
     return () => io.disconnect();
   }, []);
 
-  const waHref = `https://wa.me/918625801907?text=${encodeURIComponent(t.waMsg)}`;
+  const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "spline-showcase" });
 
   return (
     <section

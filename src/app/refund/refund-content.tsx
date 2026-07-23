@@ -8,6 +8,7 @@ import {
 } from "@/components/legal-page-shell";
 import { type Lang } from "@/components/language-context";
 import { SITE_CONTACT } from "@/components/site-footer";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 export function RefundContent() {
   return (
@@ -31,9 +32,7 @@ function RefundBody({ lang }: { lang: Lang }) {
     lang === "mr"
       ? "नमस्कार PrintShubh, मला परतावा / पेमेंट संदर्भात मदत हवी आहे."
       : "Hello PrintShubh, I need help with a refund / payment issue.";
-  const waHref = `https://wa.me/${SITE_CONTACT.whatsapp}?text=${encodeURIComponent(
-    waMsg,
-  )}`;
+  const waHref = buildWhatsAppUrl({ message: waMsg, campaign: "refund" });
 
   const ContactCta = (
     <div className="my-6 grid gap-3 rounded-xl border border-green-200 bg-green-50 p-4 sm:grid-cols-2">

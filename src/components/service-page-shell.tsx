@@ -17,6 +17,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { ServiceAreaDisclaimer } from "@/components/service-area-disclaimer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 import { PricingSection } from "@/components/pricing-section";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 const homeLabel: Record<Lang, string> = { mr: "मुख्यपृष्ठ", en: "Home" };
 const servicesLabel: Record<Lang, string> = { mr: "सेवा", en: "Services" };
@@ -68,13 +69,12 @@ export function ServicePageShell({
     (lang === "mr"
       ? `नमस्कार, मला ${title.mr} सेवेसाठी सहाय्य हवे आहे.`
       : `Hello, I need assistance for the ${title.en} service.`);
-  const utm = `utm_source=printshubh&utm_medium=whatsapp&utm_campaign=${encodeURIComponent(slug)}`;
-  const waHrefAsk = `https://wa.me/918625801907?text=${encodeURIComponent(msg)}&${utm}`;
+  const waHrefAsk = buildWhatsAppUrl({ message: msg, campaign: slug });
   const pdfMsg =
     lang === "mr"
       ? `नमस्कार, ${title.mr} ची PDF साठी माहिती पाठवत आहे: जिल्हा / तालुका / गाव / गट किंवा CTS नंबर. कृपया मार्गदर्शन करा.`
       : `Hello, sharing details for ${title.en} PDF: district / taluka / village / Gut or CTS number. Please guide further.`;
-  const waHrefPdf = `https://wa.me/918625801907?text=${encodeURIComponent(pdfMsg)}&${utm}&utm_content=pdf-cta`;
+  const waHrefPdf = buildWhatsAppUrl({ message: pdfMsg, campaign: slug, content: "pdf-cta" });
 
   return (
     <>

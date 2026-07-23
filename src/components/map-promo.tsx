@@ -14,6 +14,7 @@ import Link from "next/link";
 import { ArrowRight, Globe2, LayoutGrid, MapPinned, MessageCircle } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 
 const WHATSAPP_MESSAGE: Record<Lang, string> = {
@@ -71,9 +72,7 @@ export function MapPromo() {
   const { lang } = useLang();
   const tx = t[lang];
 
-  const waHref = `https://wa.me/918625801907?text=${encodeURIComponent(
-    WHATSAPP_MESSAGE[lang],
-  )}&utm_source=printshubh&utm_medium=whatsapp&utm_campaign=map-promo`;
+  const waHref = buildWhatsAppUrl({ message: WHATSAPP_MESSAGE[lang], campaign: "map-promo" });
 
   return (
     <section className="px-5 py-12 sm:px-8 lg:py-16">

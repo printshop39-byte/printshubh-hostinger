@@ -14,6 +14,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { OPEN_INQUIRY_EVENT } from "@/lib/inquiry-form-bus";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import {
   Check,
   Eraser,
@@ -2386,7 +2387,7 @@ export function MapReferenceSection() {
       plotCentroid: drawMode === "done" ? plotCentroid : null,
       plotAreaSqm,
     });
-    return `https://wa.me/918625801907?text=${encodeURIComponent(msg)}`;
+    return buildWhatsAppUrl({ message: msg, campaign: "nakasha-shodh" });
   }, [lang, activeService, form, villageCentroid, drawnCoords, drawMode, plotCentroid, plotAreaSqm]);
 
   /* Persist the inquiry as an admin lead (fire-and-forget) the moment the user

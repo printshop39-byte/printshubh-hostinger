@@ -21,6 +21,7 @@ import { useEffect, useMemo, useState } from "react";
 import { FileText, Map as MapIcon, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { PRICING_GROUPS, type PriceRow } from "@/lib/pricing-data";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import {
   DISTRICT_ID_FALLBACK_EN,
   DISTRICT_MR_MAP,
@@ -40,8 +41,6 @@ interface Row {
   name_en?: string;
   name_mr?: string;
 }
-
-const WA_NUMBER = "918625801907";
 
 const ui: Record<
   Lang,
@@ -282,8 +281,7 @@ export function UnifiedRecordForm() {
             `Mobile: ${mobile}`,
             `Please share price and time.`,
           ];
-    const msg = encodeURIComponent(lines.join("\n"));
-    return `https://wa.me/${WA_NUMBER}?text=${msg}&utm_source=printshubh&utm_medium=whatsapp&utm_campaign=unified-form`;
+    return buildWhatsAppUrl({ message: lines.join("\n"), campaign: "unified-form" });
   }, [service, talukaId, villageId, survey, mobile, villages, selectedDistrictRow, selectedTalukaRow, lang]);
 
   const selectClass =

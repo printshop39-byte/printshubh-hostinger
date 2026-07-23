@@ -8,6 +8,7 @@ import {
   ShieldCheck,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 /* ── Translations ── */
 const t: Record<Lang, {
@@ -68,10 +69,11 @@ export function HeroContent() {
   const { lang } = useLang();
   const tx = t[lang];
 
-  /* WhatsApp CTA (logic preserved — only message text + UTM are tweaked). */
-  const whatsappCta2Href = `https://wa.me/918625801907?text=${encodeURIComponent(
-    tx.whatsappMessage,
-  )}&utm_source=printshubh&utm_medium=whatsapp&utm_campaign=hero`;
+  /* WhatsApp CTA — canonical helper keeps the number + UTM consistent. */
+  const whatsappCta2Href = buildWhatsAppUrl({
+    message: tx.whatsappMessage,
+    campaign: "hero",
+  });
 
   return (
     <section className="relative isolate min-h-[100svh] overflow-hidden border-b border-slate-200 bg-[#f8fbff]">

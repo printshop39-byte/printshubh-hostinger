@@ -16,6 +16,7 @@ import { usePathname } from "next/navigation";
 import { Calculator, FileText, Home, MessageCircle } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 
 const WA_MESSAGE: Record<Lang, string> = {
@@ -41,9 +42,7 @@ export function MobileBottomNav() {
   const { lang } = useLang();
   const pathname = usePathname();
 
-  const waHref = `https://wa.me/918625801907?text=${encodeURIComponent(
-    WA_MESSAGE[lang],
-  )}&utm_source=printshubh&utm_medium=whatsapp&utm_campaign=bottom-nav`;
+  const waHref = buildWhatsAppUrl({ message: WA_MESSAGE[lang], campaign: "bottom-nav" });
 
   return (
     <nav

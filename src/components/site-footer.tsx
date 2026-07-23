@@ -20,16 +20,18 @@ import {
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
+import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
 
 /* ── Official PrintShubh contact details ──────────────────────────────────
- * Single source of truth — every component that needs the phone / WhatsApp
- * number imports SITE_CONTACT from this file. Update here, the whole site
- * updates. */
+ * Single source of truth for the *display* forms — every component that needs
+ * the phone / WhatsApp number imports SITE_CONTACT from this file. The digits
+ * themselves come from the canonical WhatsApp helper so the number literal
+ * lives in exactly one place. */
 export const SITE_CONTACT = {
-  phone: "+91 86258 01907",            // shown to the user
-  phoneTel: "+918625801907",            // used in tel: links
+  phone: WHATSAPP_DISPLAY,               // display form — shown to the user
+  phoneTel: `+${WHATSAPP_NUMBER}`,       // E.164 form — used in tel: links
   email: "support@printshubh.shop",
-  whatsapp: "918625801907",             // used in wa.me/ links
+  whatsapp: WHATSAPP_NUMBER,             // used in wa.me/ links
   // No physical address shown publicly. The site advertises a service
   // area instead — see SiteFooter and /contact for the rendered string.
   serviceArea_mr: "महाराष्ट्रभर ऑनलाइन / WhatsApp सहाय्य",
@@ -132,9 +134,7 @@ export function SiteFooter() {
   const { lang } = useLang();
   const t = tx[lang];
   const year = new Date().getFullYear();
-  const waHref = `https://wa.me/${SITE_CONTACT.whatsapp}?text=${encodeURIComponent(
-    t.waMsg,
-  )}`;
+  const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "footer" });
   const serviceArea =
     lang === "mr"
       ? "महाराष्ट्रभर ऑनलाइन / WhatsApp सहाय्य"
