@@ -37,7 +37,7 @@ const t: Record<
 > = {
   mr: {
     eyebrow: "नकाशा सेवा",
-    heading: "महाराष्ट्रातील सर्व प्रकारचे अधिकृत नकाशे",
+    heading: "महाराष्ट्रातील DP, TP आणि प्रादेशिक योजना नकाशे",
     priceLead: "फक्त",
     price: "₹200 पासून",
     items: [
@@ -47,12 +47,12 @@ const t: Record<
     ],
     metaLine: "अधिकृत संदर्भ नकाशे • PDF स्वरूपात • WhatsApp वर सेवा",
     cta: "WhatsApp वर नकाशा मागवा",
-    subCta: "तुमच्या गाव, शहर किंवा जमिनीचा नकाशा आजच मागवा.",
+    subCta: "गाव नकाशा ₹300 पासून उपलब्ध. तुमच्या गाव, शहर किंवा जमिनीचा नकाशा आजच मागवा.",
     moreLink: "DP / TP नकाशाबद्दल अधिक वाचा",
   },
   en: {
     eyebrow: "Map Services",
-    heading: "Every kind of official map for Maharashtra",
+    heading: "DP, TP and Regional Plan maps for Maharashtra",
     priceLead: "From just",
     price: "₹200",
     items: [
@@ -62,7 +62,7 @@ const t: Record<
     ],
     metaLine: "Official reference maps • PDF format • served on WhatsApp",
     cta: "Request a map on WhatsApp",
-    subCta: "Get the map for your village, city or land today.",
+    subCta: "Village Maps available from ₹300. Get the map for your village, city or land today.",
     moreLink: "Read more about DP / TP maps",
   },
 };
