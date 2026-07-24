@@ -22,7 +22,7 @@ const t: Record<Lang, {
 }> = {
   mr: {
     badge: "महाराष्ट्रासाठी जमीन कागदपत्र — डिजिटल सहाय्य सेवा",
-    h1: "7/12, 8A, गाव नकाशा व जमीन कागदपत्रे — WhatsApp वर",
+    h1: "7/12, 8A व गाव नकाशा — WhatsApp वर",
     subheadline:
       "जिल्हा, तालुका व गाव निवडा आणि कागदपत्राची PDF WhatsApp वर मागवा. किंमत आधी कळेल.",
     cta1: "सेवा निवडा",
@@ -34,7 +34,7 @@ const t: Record<Lang, {
   },
   en: {
     badge: "Maharashtra Land Documents — Digital Assistance Service",
-    h1: "7/12, 8A, village maps & land records — on WhatsApp",
+    h1: "7/12, 8A & village maps — on WhatsApp",
     subheadline:
       "Pick district, taluka and village, and request the document PDF on WhatsApp. Know the price first.",
     cta1: "Choose Service",
@@ -60,7 +60,7 @@ export function HeroContent() {
     <section className="relative isolate overflow-hidden border-b border-slate-200 bg-[#f8fbff]">
       <div
         id="top"
-        className="relative z-10 mx-auto w-full max-w-7xl px-5 pb-10 pt-6 sm:px-8 lg:pb-14 lg:pt-10"
+        className="relative z-10 mx-auto w-full max-w-7xl px-5 pb-6 pt-6 sm:px-8 lg:pb-8 lg:pt-10"
       >
         {/* Hero text: no data-reveal so the LCP element renders immediately */}
         <div className="max-w-3xl">
@@ -68,7 +68,7 @@ export function HeroContent() {
             <MapPinned className="size-4" />
             {tx.badge}
           </p>
-          <h1 className="text-3xl font-black leading-[1.15] tracking-normal text-slate-950 sm:text-5xl lg:text-6xl">
+          <h1 className="text-3xl font-black leading-[1.1] tracking-tight text-slate-950 sm:text-4xl lg:text-5xl">
             {tx.h1}
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-700 sm:text-xl">
