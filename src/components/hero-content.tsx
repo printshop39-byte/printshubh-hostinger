@@ -8,6 +8,8 @@ import {
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
+import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { trackFunnelEvent } from "@/lib/analytics";
 
 /* ── Translations ── */
 const t: Record<Lang, {
@@ -77,6 +79,9 @@ export function HeroContent() {
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
             <a
               href={tx.cta1Href}
+              onClick={() =>
+                trackFunnelEvent("hero_primary_cta_click", { lang, surface: "hero" })
+              }
               className="pointer-events-auto inline-flex h-[52px] items-center justify-center gap-2 rounded-md bg-blue-700 px-5 text-base font-bold text-white shadow-sm transition hover:bg-blue-800"
             >
               {tx.cta1}
@@ -84,6 +89,12 @@ export function HeroContent() {
             </a>
             <a
               href={whatsappCta2Href}
+              onClick={() => {
+                // Meta "Contact" — matches every other direct WhatsApp CTA
+                // (map-promo, bottom-nav, floating support); closes the hero gap.
+                trackWhatsAppLead();
+                trackFunnelEvent("hero_whatsapp_click", { lang, surface: "hero" });
+              }}
               className="pointer-events-auto inline-flex h-[52px] items-center justify-center gap-2 rounded-md bg-green-600 px-5 text-base font-bold text-white shadow-sm transition hover:bg-green-700"
             >
               <MessageCircle className="size-4" />

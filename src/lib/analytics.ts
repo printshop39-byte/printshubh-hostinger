@@ -22,6 +22,7 @@
  */
 
 import { track } from "@vercel/analytics";
+import { useEffect, useRef, type RefObject } from "react";
 
 /* Single source of truth for the fixed event taxonomy (drives the type + a
  * runtime allowlist so a caller bypassing TypeScript can't send a stray name). */
@@ -136,4 +137,51 @@ export function createOnceGuard(): (key: string) => boolean {
     seen.add(key);
     return true;
   };
+}
+
+/* Module-level guard so each view event fires at most once per page session
+ * (survives re-renders, language switches, and scroll-away-and-back). */
+const viewOnce = createOnceGuard();
+
+/**
+ * Fire a view funnel event once, the first time `ref` is >= ~50% visible.
+ *
+ * Client-only (the effect never runs during SSR), disconnects the observer as
+ * soon as it fires, and is deduplicated once per page session via `viewOnce` —
+ * so it never refires on re-render, language switch, or scrolling away and
+ * back. Produces no layout change and sends no PII (only the allowlisted
+ * `properties` reach `trackFunnelEvent`, which itself is prod-only).
+ */
+export function useFunnelViewEvent<T extends Element>(
+  ref: RefObject<T | null>,
+  event: FunnelEventName,
+  properties?: SafeAnalyticsProperties,
+): void {
+  // Keep the latest props without re-subscribing the observer on each render.
+  // Written in an effect (never during render) so the value is current by the
+  // time the observer fires, whichever language is active then.
+  const propertiesRef = useRef(properties);
+  useEffect(() => {
+    propertiesRef.current = properties;
+  });
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el || typeof IntersectionObserver === "undefined") return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const entry = entries[0];
+        if (entry && entry.isIntersecting && entry.intersectionRatio >= 0.5) {
+          if (viewOnce(event)) {
+            trackFunnelEvent(event, propertiesRef.current);
+          }
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.5 },
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [ref, event]);
 }

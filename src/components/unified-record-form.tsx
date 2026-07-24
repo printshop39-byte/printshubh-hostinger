@@ -17,7 +17,7 @@
  * Single-color rule: blue accent + green WhatsApp; everything else neutral.
  */
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { FileText, Map as MapIcon, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { PRICING_GROUPS, type PriceRow } from "@/lib/pricing-data";
@@ -33,6 +33,7 @@ import {
   getVillageDisplayNameRow,
 } from "@/lib/maharashtra-local-names";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { useFunnelViewEvent } from "@/lib/analytics";
 
 interface Row {
   district_id?: string;
@@ -126,6 +127,10 @@ function dedupeById<T extends { district_id?: string }>(rows: T[]): T[] {
 export function UnifiedRecordForm() {
   const { lang } = useLang();
   const tx = ui[lang];
+
+  // Fire "enquiry_form_view" once when the form scrolls ~50% into view.
+  const sectionRef = useRef<HTMLElement>(null);
+  useFunnelViewEvent(sectionRef, "enquiry_form_view", { lang, surface: "unified-form" });
 
   const [category, setCategory] = useState<"doc" | "map">("doc");
   const group = PRICING_GROUPS.find((g) => g.key === category) ?? PRICING_GROUPS[0];
@@ -288,7 +293,7 @@ export function UnifiedRecordForm() {
     "h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm text-slate-800 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:cursor-not-allowed disabled:bg-slate-50 disabled:text-slate-400";
 
   return (
-    <section id="unified-form" className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
+    <section ref={sectionRef} id="unified-form" className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
       <div className="mx-auto max-w-3xl">
         <h2 className="text-2xl font-black leading-tight text-slate-950 sm:text-3xl">{tx.heading}</h2>
         <p className="mt-2 text-[15px] leading-7 text-slate-600">{tx.sub}</p>
