@@ -17,7 +17,7 @@
  * Single-color rule: blue accent + green WhatsApp; everything else neutral.
  */
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { FileText, Map as MapIcon, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { PRICING_GROUPS, type PriceRow } from "@/lib/pricing-data";
@@ -33,6 +33,7 @@ import {
   getVillageDisplayNameRow,
 } from "@/lib/maharashtra-local-names";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { trackFunnelEvent, useFunnelViewEvent } from "@/lib/analytics";
 
 interface Row {
   district_id?: string;
@@ -123,9 +124,62 @@ function dedupeById<T extends { district_id?: string }>(rows: T[]): T[] {
   });
 }
 
+/* Analytics service_key — a FIXED allowlist keyed on the stable internal
+ * English service name (`name.en`, which is the <select> value and never
+ * changes with language). We never send a translated label or dynamically
+ * normalise display text: each value is a curated lowercase slug matching the
+ * analytics validator (^[a-z0-9_-]+$) and stays constant across mr/en. An
+ * unmapped row simply omits service_key (the sanitizer drops undefined).
+ *
+ *   UI service (mr / en)                     name.en (internal)                  service_key
+ *   ───────────────────────────────────────────────────────────────────────────────────────
+ *   7/12 उतारा / 7/12 Extract                "7/12 Extract"                      satbara
+ *   8A उतारा / 8A Extract                    "8A Extract"                        8a
+ *   फेरफार / Mutation / Ferfar               "Mutation / Ferfar"                 ferfar
+ *   मिळकत पत्रिका / Property Card              "Property Card"                     property-card
+ *   मिळकत पत्रिका फेरफार / Property Card Mut.   "Property Card Mutation"            property-card-mutation
+ *   मुंबई प्रॉपर्टी कार्ड / Mumbai Property Card "Mumbai Property Card"              mumbai-property-card
+ *   Index II                                 "Index II"                          index-2
+ *   गाव नकाशा / Village Map                   "Village Map"                       village-map
+ *   स्वामित्व नकाशा / Swamitva Map             "Swamitva Map"                      swamitva-map
+ *   लोकेशन नकाशा / Location Map                "Location Map"                      location-map
+ *   नकाशा ओव्हरले / Map Overlay                "Map Overlay"                       map-overlay
+ *   नगर रचना नकाशा / Town Planning Map         "Town Planning Map"                 town-planning-map
+ *   विकास आराखडा / Development Plan            "Development Plan"                  development-plan
+ *   प्रादेशिक आराखडा / Regional Plan           "Regional Plan"                     regional-plan
+ *   …Zone-wise Land Report                   "Google Map Zone-wise Land Report"  zone-land-report
+ *   संपूर्ण नकाशा विकास अहवाल / Full Map Report  "Full Map Development Report"       full-map-report
+ */
+const SERVICE_KEY_BY_EN: Record<string, string> = {
+  "7/12 Extract": "satbara",
+  "8A Extract": "8a",
+  "Mutation / Ferfar": "ferfar",
+  "Property Card": "property-card",
+  "Property Card Mutation": "property-card-mutation",
+  "Mumbai Property Card": "mumbai-property-card",
+  "Index II": "index-2",
+  "Village Map": "village-map",
+  "Swamitva Map": "swamitva-map",
+  "Location Map": "location-map",
+  "Map Overlay": "map-overlay",
+  "Town Planning Map": "town-planning-map",
+  "Development Plan": "development-plan",
+  "Regional Plan": "regional-plan",
+  "Google Map Zone-wise Land Report": "zone-land-report",
+  "Full Map Development Report": "full-map-report",
+};
+
+function serviceKeyOf(row: PriceRow): string | undefined {
+  return SERVICE_KEY_BY_EN[row.name.en];
+}
+
 export function UnifiedRecordForm() {
   const { lang } = useLang();
   const tx = ui[lang];
+
+  // Fire "enquiry_form_view" once when the form scrolls ~50% into view.
+  const sectionRef = useRef<HTMLElement>(null);
+  useFunnelViewEvent(sectionRef, "enquiry_form_view", { lang, surface: "unified-form" });
 
   const [category, setCategory] = useState<"doc" | "map">("doc");
   const group = PRICING_GROUPS.find((g) => g.key === category) ?? PRICING_GROUPS[0];
@@ -213,11 +267,40 @@ export function UnifiedRecordForm() {
     setVillages([]);
     setVillageId("");
     setDistrictId(id);
+    // Only a real, non-empty selection counts; the taluka/village resets above
+    // are state writes (not their user handlers) so they raise no false events.
+    if (id) {
+      trackFunnelEvent("enquiry_district_selected", {
+        lang,
+        surface: "unified-form",
+        has_value: true,
+        step: 2,
+      });
+    }
   }
   function handleTalukaChange(id: string) {
     setVillages([]);
     setVillageId("");
     setTalukaId(id);
+    if (id) {
+      trackFunnelEvent("enquiry_taluka_selected", {
+        lang,
+        surface: "unified-form",
+        has_value: true,
+        step: 3,
+      });
+    }
+  }
+  function handleVillageChange(id: string) {
+    setVillageId(id);
+    if (id) {
+      trackFunnelEvent("enquiry_village_selected", {
+        lang,
+        surface: "unified-form",
+        has_value: true,
+        step: 4,
+      });
+    }
   }
 
   const sortedDistricts = useMemo(
@@ -288,7 +371,7 @@ export function UnifiedRecordForm() {
     "h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm text-slate-800 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:cursor-not-allowed disabled:bg-slate-50 disabled:text-slate-400";
 
   return (
-    <section id="unified-form" className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
+    <section ref={sectionRef} id="unified-form" className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
       <div className="mx-auto max-w-3xl">
         <h2 className="text-2xl font-black leading-tight text-slate-950 sm:text-3xl">{tx.heading}</h2>
         <p className="mt-2 text-[15px] leading-7 text-slate-600">{tx.sub}</p>
@@ -334,7 +417,16 @@ export function UnifiedRecordForm() {
               value={service.name.en}
               onChange={(e) => {
                 const next = group.rows.find((r) => r.name.en === e.target.value);
-                if (next) setService(next);
+                if (next) {
+                  setService(next);
+                  trackFunnelEvent("enquiry_service_selected", {
+                    lang,
+                    service_key: serviceKeyOf(next),
+                    surface: "unified-form",
+                    has_value: true,
+                    step: 1,
+                  });
+                }
               }}
             >
               {group.rows.map((r) => (
@@ -371,7 +463,7 @@ export function UnifiedRecordForm() {
             <select
               className={selectClass}
               value={villageId}
-              onChange={(e) => setVillageId(e.target.value)}
+              onChange={(e) => handleVillageChange(e.target.value)}
               disabled={!talukaId}
             >
               <option value="">{tx.village}</option>
@@ -406,7 +498,18 @@ export function UnifiedRecordForm() {
               href={waHref}
               target="_blank"
               rel="noopener noreferrer"
-              onClick={() => trackWhatsAppLead()}
+              onClick={() => {
+                // Preserve the existing Meta "Contact"; funnel event carries no
+                // message/URL/number — just the stable service_key + step.
+                trackWhatsAppLead();
+                trackFunnelEvent("enquiry_whatsapp_generated", {
+                  lang,
+                  service_key: serviceKeyOf(service),
+                  surface: "unified-form",
+                  has_value: true,
+                  step: 5,
+                });
+              }}
               className="inline-flex h-12 shrink-0 items-center justify-center gap-2 rounded-lg bg-green-600 px-5 text-sm font-bold text-white shadow-sm transition hover:bg-green-700"
             >
               <MessageCircle className="size-4" />

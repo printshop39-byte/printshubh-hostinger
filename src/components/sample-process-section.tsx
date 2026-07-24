@@ -18,9 +18,11 @@
  *   colour alone). No downloadable asset, no modal, no new route.
  */
 
+import { useRef } from "react";
 import { Check, FileText, Info, Map as MapIcon } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { useFunnelViewEvent } from "@/lib/analytics";
 
 const t: Record<
   Lang,
@@ -162,8 +164,13 @@ export function SampleProcessSection() {
   const { lang } = useLang();
   const tx = t[lang];
 
+  // Fire "sample_section_view" once when this trust block scrolls ~50% into view.
+  const sectionRef = useRef<HTMLElement>(null);
+  useFunnelViewEvent(sectionRef, "sample_section_view", { lang, surface: "sample-process" });
+
   return (
     <section
+      ref={sectionRef}
       aria-labelledby="sample-process-heading"
       className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16"
     >

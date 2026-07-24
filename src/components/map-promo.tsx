@@ -16,6 +16,7 @@ import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { trackFunnelEvent } from "@/lib/analytics";
 
 const WHATSAPP_MESSAGE: Record<Lang, string> = {
   mr: "नमस्कार PrintShubh, मला नकाशा हवा आहे (DP / TPS / Regional Plan). गाव/शहर: ",
@@ -98,7 +99,10 @@ export function MapPromo() {
                 href={waHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                onClick={() => trackWhatsAppLead()}
+                onClick={() => {
+                  trackWhatsAppLead();
+                  trackFunnelEvent("map_promo_whatsapp_click", { lang, surface: "map-promo" });
+                }}
                 className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-green-500 px-5 text-sm font-black text-white shadow-sm transition hover:bg-green-600"
               >
                 <MessageCircle className="size-4" />
