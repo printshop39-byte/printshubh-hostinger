@@ -15,7 +15,7 @@
 
 import { AlertTriangle, BadgeCheck, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
-import { whatsappHref } from "@/lib/whatsapp";
+import { buildWhatsAppUrl, WHATSAPP_DEFAULT_MESSAGE } from "@/lib/whatsapp";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { PRICING_GROUPS } from "@/lib/pricing-data";
 
@@ -52,7 +52,10 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
       ? `नमस्कार PrintShubh, मला ${serviceName.mr} हवी आहे.\nजिल्हा: \nतालुका: \nगाव: \nगट/सर्वे नंबर: \nकृपया किंमत आणि वेळ सांगा.`
       : `Hello PrintShubh, I need ${serviceName.en}.\nDistrict: \nTaluka: \nVillage: \nGut/Survey no.: \nPlease share price and time.`
     : undefined;
-  const waHref = whatsappHref(message);
+  const waHref = buildWhatsAppUrl({
+    message: message ?? WHATSAPP_DEFAULT_MESSAGE,
+    campaign: "pricing",
+  });
 
   return (
     <section

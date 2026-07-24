@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import { TopographicMapVisual, type TopoDistrictKey } from "@/components/topographic-map-visual";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 type DistrictKey = TopoDistrictKey;
 
@@ -439,8 +440,10 @@ function ServiceInfoCard({ district, service, taluka, village, lang }: {
   const distLabel = lang === "en" ? districtLabelsEn[district] : districtLabels[district];
   const serviceTitle = service.title[lang];
 
-  const whatsappText = encodeURIComponent(tx.buildMsg(distLabel, taluka, village, serviceTitle));
-  const whatsappHref = "https://wa.me/918625801907?text=" + whatsappText;
+  const whatsappHref = buildWhatsAppUrl({
+    message: tx.buildMsg(distLabel, taluka, village, serviceTitle),
+    campaign: "storytelling",
+  });
 
   return (
     <div className="rounded-lg border border-blue-200 bg-blue-50/70 p-4 sm:p-5">
@@ -537,8 +540,10 @@ export function StorytellingSection() {
   const distLabel = lang === "en" ? districtLabelsEn[district] : districtLabels[district];
   const serviceTitle = selectedService.title[lang];
 
-  const whatsappText = encodeURIComponent(tx.buildMsg(distLabel, taluka, village, serviceTitle));
-  const whatsappHref = "https://wa.me/918625801907?text=" + whatsappText;
+  const whatsappHref = buildWhatsAppUrl({
+    message: tx.buildMsg(distLabel, taluka, village, serviceTitle),
+    campaign: "storytelling",
+  });
 
   return (
     <section id="story" className="relative overflow-hidden bg-white px-5 py-20 sm:px-8 lg:py-24">

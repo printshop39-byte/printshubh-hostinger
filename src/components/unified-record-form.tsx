@@ -21,6 +21,7 @@ import { useEffect, useMemo, useState } from "react";
 import { FileText, Map as MapIcon, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { PRICING_GROUPS, type PriceRow } from "@/lib/pricing-data";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import {
   DISTRICT_ID_FALLBACK_EN,
   DISTRICT_MR_MAP,
@@ -40,8 +41,6 @@ interface Row {
   name_en?: string;
   name_mr?: string;
 }
-
-const WA_NUMBER = "918625801907";
 
 const ui: Record<
   Lang,
@@ -140,9 +139,6 @@ export function UnifiedRecordForm() {
   const [villageId, setVillageId] = useState("");
   const [survey, setSurvey] = useState("");
   const [mobile, setMobile] = useState("");
-  // Bumped once the lazy Marathi village-name file resolves, to re-render
-  // the village options + WhatsApp message with their Marathi labels.
-  const [namesTick, setNamesTick] = useState(0);
 
   const selectedDistrictRow = districts.find((d) => d.district_id === districtId);
   const selectedTalukaRow = talukas.find((t) => t.taluka_id === talukaId);
@@ -159,12 +155,11 @@ export function UnifiedRecordForm() {
     };
   }, []);
 
-  // Load talukas when district changes.
+  // Load talukas when the district changes. The dependent taluka/village state
+  // is cleared synchronously in handleDistrictChange (a user action), so this
+  // effect only fetches. The `alive` flag drops a stale response if the
+  // district changes again before this one resolves.
   useEffect(() => {
-    setTalukas([]);
-    setTalukaId("");
-    setVillages([]);
-    setVillageId("");
     if (!districtId) return;
     let alive = true;
     fetch(`/data/dropdowns/talukas/${encodeURIComponent(districtId)}.json`)
@@ -176,10 +171,11 @@ export function UnifiedRecordForm() {
     };
   }, [districtId]);
 
-  // Load villages when taluka changes.
+  // Load villages when the taluka changes. The old village options/selection
+  // are cleared synchronously in handleTalukaChange / handleDistrictChange, so
+  // this effect only fetches. The `alive` flag drops a stale response — or a
+  // late Marathi-name refresh — if the taluka changes again first.
   useEffect(() => {
-    setVillages([]);
-    setVillageId("");
     if (!districtId || !talukaId) return;
     let alive = true;
     fetch(`/data/dropdowns/villages/${encodeURIComponent(districtId)}/${encodeURIComponent(talukaId)}.json`)
@@ -188,9 +184,12 @@ export function UnifiedRecordForm() {
       .catch(() => alive && setVillages([]));
     // Lazy-load the Marathi village-name file (MAHA, ~1.3 MB, cached) only now
     // — i.e. only once the user has drilled down to a taluka. We deliberately
-    // do NOT load the 7 MB LGD file; MAHA covers the village names here.
+    // do NOT load the 7 MB LGD file; MAHA covers the village names here. When it
+    // resolves, bump the villages array reference so the option labels + the
+    // WhatsApp message re-derive with their Marathi names — this reuses the real
+    // `villages` dependency instead of a separate re-render counter.
     ensureVillageNames()
-      .then(() => alive && setNamesTick((t) => t + 1))
+      .then(() => alive && setVillages((prev) => [...prev]))
       .catch(() => {});
     return () => {
       alive = false;
@@ -202,6 +201,23 @@ export function UnifiedRecordForm() {
     setCategory(key);
     const g = PRICING_GROUPS.find((x) => x.key === key);
     if (g) setService(g.rows[0]);
+  }
+
+  // Dependent resets live in the change handlers (user actions), not in the
+  // load effects. Clearing the old options + selections synchronously here
+  // makes the cascade update immediately and keeps the effects focused on
+  // fetching the new options.
+  function handleDistrictChange(id: string) {
+    setTalukas([]);
+    setTalukaId("");
+    setVillages([]);
+    setVillageId("");
+    setDistrictId(id);
+  }
+  function handleTalukaChange(id: string) {
+    setVillages([]);
+    setVillageId("");
+    setTalukaId(id);
   }
 
   const sortedDistricts = useMemo(
@@ -227,8 +243,9 @@ export function UnifiedRecordForm() {
           getVillageDisplayNameRow(b, selectedTalukaRow, selectedDistrictRow, lang),
         ),
       ),
-    // namesTick: re-sort once Marathi names finish loading.
-    [villages, selectedTalukaRow, selectedDistrictRow, lang, namesTick],
+    // Re-sorts once the lazy Marathi names land: that resolution bumps the
+    // `villages` reference (see the village effect), which is already listed here.
+    [villages, selectedTalukaRow, selectedDistrictRow, lang],
   );
 
   const waHref = useMemo(() => {
@@ -264,9 +281,8 @@ export function UnifiedRecordForm() {
             `Mobile: ${mobile}`,
             `Please share price and time.`,
           ];
-    const msg = encodeURIComponent(lines.join("\n"));
-    return `https://wa.me/${WA_NUMBER}?text=${msg}&utm_source=printshubh&utm_medium=whatsapp&utm_campaign=unified-form`;
-  }, [service, talukaId, villageId, survey, mobile, villages, selectedDistrictRow, selectedTalukaRow, lang, namesTick]);
+    return buildWhatsAppUrl({ message: lines.join("\n"), campaign: "unified-form" });
+  }, [service, talukaId, villageId, survey, mobile, villages, selectedDistrictRow, selectedTalukaRow, lang]);
 
   const selectClass =
     "h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm text-slate-800 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:cursor-not-allowed disabled:bg-slate-50 disabled:text-slate-400";
@@ -331,7 +347,7 @@ export function UnifiedRecordForm() {
 
           {/* Cascading location selects — stacked on mobile, row on desktop */}
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
-            <select className={selectClass} value={districtId} onChange={(e) => setDistrictId(e.target.value)}>
+            <select className={selectClass} value={districtId} onChange={(e) => handleDistrictChange(e.target.value)}>
               <option value="">{tx.district}</option>
               {sortedDistricts.map((d) => (
                 <option key={d.district_id} value={d.district_id}>
@@ -342,7 +358,7 @@ export function UnifiedRecordForm() {
             <select
               className={selectClass}
               value={talukaId}
-              onChange={(e) => setTalukaId(e.target.value)}
+              onChange={(e) => handleTalukaChange(e.target.value)}
               disabled={!districtId}
             >
               <option value="">{tx.taluka}</option>

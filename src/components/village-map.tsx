@@ -26,6 +26,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { AlertTriangle, Info, MapPin, MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl, WHATSAPP_NUMBER } from "@/lib/whatsapp";
 
 interface DistrictRow {
   district_id: string;
@@ -413,7 +414,7 @@ export function VillageMap() {
     districtId && talukaId && villageId && district && taluka && village,
   );
   const waHref = useMemo(() => {
-    if (!waEnabled) return "https://wa.me/918625801907";
+    if (!waEnabled) return `https://wa.me/${WHATSAPP_NUMBER}`;
     const coordStr = centroid
       ? `${centroid[1].toFixed(5)}, ${centroid[0].toFixed(5)}`
       : "—";
@@ -423,7 +424,7 @@ export function VillageMap() {
       nameOf(village, lang),
       coordStr,
     );
-    return `https://wa.me/918625801907?text=${encodeURIComponent(msg)}`;
+    return buildWhatsAppUrl({ message: msg, campaign: "village-map" });
   }, [waEnabled, district, taluka, village, centroid, lang, tx]);
 
   /* ── Handler-driven resets ───────────────────────────────────────────

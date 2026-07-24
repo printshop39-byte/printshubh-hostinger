@@ -14,6 +14,7 @@ import Link from "next/link";
 import { ArrowRight, Globe2, LayoutGrid, MapPinned, MessageCircle } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 
 const WHATSAPP_MESSAGE: Record<Lang, string> = {
@@ -37,7 +38,7 @@ const t: Record<
 > = {
   mr: {
     eyebrow: "नकाशा सेवा",
-    heading: "महाराष्ट्रातील सर्व प्रकारचे अधिकृत नकाशे",
+    heading: "महाराष्ट्रातील DP, TP आणि प्रादेशिक योजना नकाशे",
     priceLead: "फक्त",
     price: "₹200 पासून",
     items: [
@@ -47,12 +48,12 @@ const t: Record<
     ],
     metaLine: "अधिकृत संदर्भ नकाशे • PDF स्वरूपात • WhatsApp वर सेवा",
     cta: "WhatsApp वर नकाशा मागवा",
-    subCta: "तुमच्या गाव, शहर किंवा जमिनीचा नकाशा आजच मागवा.",
+    subCta: "गाव नकाशा ₹300 पासून उपलब्ध. तुमच्या गाव, शहर किंवा जमिनीचा नकाशा आजच मागवा.",
     moreLink: "DP / TP नकाशाबद्दल अधिक वाचा",
   },
   en: {
     eyebrow: "Map Services",
-    heading: "Every kind of official map for Maharashtra",
+    heading: "DP, TP and Regional Plan maps for Maharashtra",
     priceLead: "From just",
     price: "₹200",
     items: [
@@ -62,7 +63,7 @@ const t: Record<
     ],
     metaLine: "Official reference maps • PDF format • served on WhatsApp",
     cta: "Request a map on WhatsApp",
-    subCta: "Get the map for your village, city or land today.",
+    subCta: "Village Maps available from ₹300. Get the map for your village, city or land today.",
     moreLink: "Read more about DP / TP maps",
   },
 };
@@ -71,9 +72,7 @@ export function MapPromo() {
   const { lang } = useLang();
   const tx = t[lang];
 
-  const waHref = `https://wa.me/918625801907?text=${encodeURIComponent(
-    WHATSAPP_MESSAGE[lang],
-  )}&utm_source=printshubh&utm_medium=whatsapp&utm_campaign=map-promo`;
+  const waHref = buildWhatsAppUrl({ message: WHATSAPP_MESSAGE[lang], campaign: "map-promo" });
 
   return (
     <section className="px-5 py-12 sm:px-8 lg:py-16">

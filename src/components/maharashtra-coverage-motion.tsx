@@ -10,6 +10,7 @@ import {
   Sparkles,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 /* ── District key type ── */
 type DistrictKey = "Mumbai" | "Pune" | "Nashik" | "Nagpur" | "Kolhapur";
@@ -221,10 +222,10 @@ export function MaharashtraCoverageMotion() {
   const activeServicesList = active.services
     .map((s) => (lang === "en" ? s.en : s.mr))
     .join(", ");
-  const whatsappText = encodeURIComponent(
-    tx.buildWhatsappMsg(activeName, activeServicesList),
-  );
-  const whatsappHref = `https://wa.me/918625801907?text=${whatsappText}`;
+  const whatsappHref = buildWhatsAppUrl({
+    message: tx.buildWhatsappMsg(activeName, activeServicesList),
+    campaign: "coverage-map",
+  });
 
   /* Auto-cycle */
   useEffect(() => {

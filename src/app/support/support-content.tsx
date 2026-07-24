@@ -15,6 +15,7 @@ import {
   LegalSection,
 } from "@/components/legal-page-shell";
 import { SITE_CONTACT } from "@/components/site-footer";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { useLang, type Lang } from "@/components/language-context";
 
 interface Topic {
@@ -164,7 +165,7 @@ export function SupportContent() {
 function SupportBody({ lang }: { lang: Lang }) {
   const t = tx[lang];
   const list = topics(lang);
-  const genericWa = `https://wa.me/${SITE_CONTACT.whatsapp}?text=${encodeURIComponent(t.whatsappGenericMsg)}`;
+  const genericWa = buildWhatsAppUrl({ message: t.whatsappGenericMsg, campaign: "support" });
 
   return (
     <>
@@ -208,7 +209,7 @@ function SupportBody({ lang }: { lang: Lang }) {
       <LegalSection heading={t.topicsHeading}>
         <div className="-mx-1 grid gap-3 sm:grid-cols-2">
           {list.map((tp) => {
-            const href = `https://wa.me/${SITE_CONTACT.whatsapp}?text=${encodeURIComponent(tp.waMsg)}`;
+            const href = buildWhatsAppUrl({ message: tp.waMsg, campaign: "support" });
             return (
               <a
                 key={tp.title}

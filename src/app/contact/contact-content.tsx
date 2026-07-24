@@ -6,6 +6,7 @@ import {
   LegalSection,
 } from "@/components/legal-page-shell";
 import { SITE_CONTACT } from "@/components/site-footer";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { useLang, type Lang } from "@/components/language-context";
 
 const tx: Record<Lang, {
@@ -81,7 +82,7 @@ const tx: Record<Lang, {
 export function ContactContent() {
   const { lang } = useLang();
   const t = tx[lang];
-  const waHref = `https://wa.me/${SITE_CONTACT.whatsapp}?text=${encodeURIComponent(t.waMsg)}`;
+  const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "contact" });
 
   return (
     <LegalPageShell

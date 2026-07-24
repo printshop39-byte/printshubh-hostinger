@@ -3,12 +3,12 @@
 /**
  * WhatsAppSupportButton
  * Floating round button on the bottom-right of legal/support pages.
- * Uses the shared SITE_CONTACT.whatsapp number from site-footer.
+ * Builds its link via the canonical buildWhatsAppUrl helper.
  */
 
 import { MessageCircle } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
-import { SITE_CONTACT } from "@/components/site-footer";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 
 const msg: Record<Lang, string> = {
@@ -23,9 +23,7 @@ const label: Record<Lang, string> = {
 
 export function WhatsAppSupportButton() {
   const { lang } = useLang();
-  const href = `https://wa.me/${SITE_CONTACT.whatsapp}?text=${encodeURIComponent(
-    msg[lang],
-  )}`;
+  const href = buildWhatsAppUrl({ message: msg[lang], campaign: "floating-support" });
 
   return (
     <a

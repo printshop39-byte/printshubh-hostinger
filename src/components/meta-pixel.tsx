@@ -38,6 +38,15 @@ export function MetaPixel() {
         `}
       </Script>
       <noscript>
+        {/*
+          Meta Pixel's official no-JavaScript fallback: a raw 1x1 tracking
+          beacon that must load without JS and hit facebook.com/tr directly.
+          next/image is deliberately NOT used here — it needs client JS to
+          render (useless inside <noscript>) and its optimizer would rewrite
+          this exact tracking URL, breaking the no-JS PageView. The raw <img>
+          is required, so suppress no-img-element for this one element only.
+        */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           height="1"
           width="1"
