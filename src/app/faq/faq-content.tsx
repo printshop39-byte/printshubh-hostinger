@@ -45,7 +45,7 @@ function FaqList({
               type="button"
               onClick={() => setOpenIdx(open ? null : i)}
               aria-expanded={open}
-              className="flex w-full items-start justify-between gap-3 text-left"
+              className="flex min-h-[44px] w-full items-start justify-between gap-3 text-left md:min-h-0"
             >
               <span className="text-[15px] font-black leading-7 text-slate-950">
                 {it.q}

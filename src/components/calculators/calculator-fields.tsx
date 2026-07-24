@@ -30,7 +30,7 @@ export function NumberField({
   return (
     <label className="block">
       <span className="mb-1.5 block text-[13px] font-bold text-slate-700">{label}</span>
-      <div className="flex items-center rounded-md border border-slate-300 bg-white focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-100">
+      <div className="flex min-h-[44px] items-center rounded-md border border-slate-300 bg-white focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-100">
         {prefix && <span className="pl-3 text-sm font-bold text-slate-500">{prefix}</span>}
         <input
           type="number"
@@ -101,7 +101,7 @@ export function SelectField({
       <select
         value={value}
         onChange={(e) => onChange(e.target.value)}
-        className="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 text-[15px] font-semibold text-slate-900 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
+        className="min-h-[44px] w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 text-[15px] font-semibold text-slate-900 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
       >
         {options.map((o) => (
           <option key={o.value} value={o.value}>

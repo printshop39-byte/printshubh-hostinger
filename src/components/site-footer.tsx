@@ -173,7 +173,7 @@ export function SiteFooter() {
               target="_blank"
               rel="noopener noreferrer"
               onClick={inquiryCtaClick}
-              className="mt-4 inline-flex h-10 items-center justify-center gap-2 rounded-md bg-green-600 px-4 text-sm font-bold text-white shadow-sm transition hover:bg-green-700"
+              className="mt-4 inline-flex h-11 items-center justify-center gap-2 rounded-md bg-green-600 px-4 text-sm font-bold text-white shadow-sm transition hover:bg-green-700"
             >
               <MessageCircle className="size-4" />
               {t.waCta}
@@ -190,7 +190,7 @@ export function SiteFooter() {
                 <li key={l.label}>
                   <Link
                     href={l.href}
-                    className="text-sm font-semibold text-slate-700 transition hover:text-blue-700"
+                    className="flex min-h-[44px] items-center text-sm font-semibold text-slate-700 transition hover:text-blue-700 md:inline md:min-h-0"
                   >
                     {l.label}
                   </Link>
@@ -209,7 +209,7 @@ export function SiteFooter() {
                 <li key={l.href}>
                   <Link
                     href={l.href}
-                    className="text-sm font-semibold text-slate-700 transition hover:text-blue-700"
+                    className="flex min-h-[44px] items-center text-sm font-semibold text-slate-700 transition hover:text-blue-700 md:inline md:min-h-0"
                   >
                     {l.label}
                   </Link>
@@ -228,7 +228,7 @@ export function SiteFooter() {
                 <Phone className="mt-0.5 size-4 shrink-0 text-blue-700" />
                 <a
                   href={`tel:${SITE_CONTACT.phoneTel}`}
-                  className="font-semibold hover:text-blue-700"
+                  className="inline-flex min-h-[44px] items-start font-semibold hover:text-blue-700 md:min-h-0"
                 >
                   {SITE_CONTACT.phone}
                 </a>
@@ -237,7 +237,7 @@ export function SiteFooter() {
                 <Mail className="mt-0.5 size-4 shrink-0 text-blue-700" />
                 <a
                   href={`mailto:${SITE_CONTACT.email}`}
-                  className="font-semibold hover:text-blue-700"
+                  className="inline-flex min-h-[44px] items-start font-semibold hover:text-blue-700 md:min-h-0"
                 >
                   {SITE_CONTACT.email}
                 </a>
