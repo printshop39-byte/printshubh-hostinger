@@ -35,7 +35,7 @@ export function QuickChips() {
           <Link
             key={chip.href}
             href={chip.href}
-            className="inline-flex shrink-0 items-center gap-1.5 rounded-full border border-blue-100 bg-blue-50 px-4 py-2 text-sm font-bold text-blue-800 transition active:bg-blue-100"
+            className="inline-flex min-h-[44px] shrink-0 items-center gap-1.5 rounded-full border border-blue-100 bg-blue-50 px-4 py-2 text-sm font-bold text-blue-800 transition active:bg-blue-100"
           >
             <span aria-hidden="true">{chip.emoji}</span>
             {chip.label[lang]}

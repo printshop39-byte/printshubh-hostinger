@@ -39,13 +39,13 @@ export function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur-md">
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-5 sm:px-8">
+      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-2 px-5 sm:gap-4 sm:px-8">
         {/* Brand */}
-        <Link href="/" className="flex items-center gap-2">
-          <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-blue-600 text-base font-black text-white shadow-sm">
+        <Link href="/" className="flex min-h-[44px] min-w-0 items-center gap-2">
+          <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-blue-600 text-base font-black text-white shadow-sm">
             P
           </span>
-          <span className="text-lg font-black tracking-tight text-slate-900">
+          <span className="truncate text-lg font-black tracking-tight text-slate-900">
             PrintShubh<span className="text-blue-600">.shop</span>
           </span>
         </Link>
@@ -64,14 +64,14 @@ export function SiteHeader() {
         </nav>
 
         {/* Lang toggle */}
-        <div className="flex items-center gap-2">
+        <div className="flex shrink-0 items-center gap-2">
           <div className="inline-flex overflow-hidden rounded-md border border-slate-300 text-xs font-bold">
             <button
               type="button"
               onClick={() => setLang("mr")}
               aria-pressed={lang === "mr"}
               aria-label="मराठी"
-              className={`inline-flex min-h-[44px] items-center px-3 py-2 transition ${
+              className={`inline-flex min-h-[44px] min-w-[44px] items-center justify-center px-3 py-2 transition ${
                 lang === "mr"
                   ? "bg-blue-600 text-white"
                   : "bg-white text-slate-700 hover:bg-slate-50"
@@ -84,7 +84,7 @@ export function SiteHeader() {
               onClick={() => setLang("en")}
               aria-pressed={lang === "en"}
               aria-label="English"
-              className={`inline-flex min-h-[44px] items-center px-3 py-2 transition ${
+              className={`inline-flex min-h-[44px] min-w-[44px] items-center justify-center px-3 py-2 transition ${
                 lang === "en"
                   ? "bg-blue-600 text-white"
                   : "bg-white text-slate-700 hover:bg-slate-50"
