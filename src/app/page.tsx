@@ -61,14 +61,14 @@ export default function Home() {
         {/* Simple hero — headline, trust strip + WhatsApp / "choose service" CTAs */}
         <HeroContent />
 
-        {/* Mobile-only quick shortcuts to the most-requested services */}
-        <QuickChips />
+        {/* Trust signals — experience, coverage, delivery, payment */}
+        <TrustBar />
 
         {/* Unified record picker — type → district/taluka/village → WhatsApp */}
         <UnifiedRecordForm />
 
-        {/* Trust signals — experience, coverage, delivery, payment */}
-        <TrustBar />
+        {/* Mobile-only quick shortcuts to the most-requested services */}
+        <QuickChips />
 
         {/* Map-services promo — DP / TPS / Regional Plan, from ₹200 */}
         <MapPromo />
