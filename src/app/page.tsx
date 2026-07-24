@@ -5,6 +5,7 @@ import { LandingAnimations } from "@/components/landing-animations";
 import { HeroContent } from "@/components/hero-content";
 import { QuickChips } from "@/components/quick-chips";
 import { UnifiedRecordForm } from "@/components/unified-record-form";
+import { SampleProcessSection } from "@/components/sample-process-section";
 import { MapPromo } from "@/components/map-promo";
 import { TrustBar } from "@/components/trust-bar";
 import { Testimonials } from "@/components/testimonials";
@@ -66,6 +67,9 @@ export default function Home() {
 
         {/* Unified record picker — type → district/taluka/village → WhatsApp */}
         <UnifiedRecordForm />
+
+        {/* Trust proof — labelled sample previews, 3-step process, assurances */}
+        <SampleProcessSection />
 
         {/* Mobile-only quick shortcuts to the most-requested services */}
         <QuickChips />
