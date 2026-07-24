@@ -21,6 +21,8 @@
  *   the caller or break the UI. No event call sites exist yet.
  */
 
+import { track } from "@vercel/analytics";
+
 /* Single source of truth for the fixed event taxonomy (drives the type + a
  * runtime allowlist so a caller bypassing TypeScript can't send a stray name). */
 const FUNNEL_EVENTS = [
@@ -98,14 +100,13 @@ function sanitizeProperties(input?: SafeAnalyticsProperties): CleanProperties {
   return out;
 }
 
-type VercelAnalytics = (name: "event", payload: CleanProperties & { name: string }) => void;
-
 /**
- * Send a privacy-safe funnel event to Vercel Web Analytics.
+ * Send a privacy-safe funnel event to Vercel Web Analytics via the official
+ * `track()` API.
  *
- * No-op during SSR, outside production, for unknown event names, or when the
- * provider is not loaded. Only allowlisted categorical properties are sent;
- * everything else is discarded. Never throws; never blocks navigation.
+ * No-op during SSR, outside production, and for unknown event names. Only
+ * allowlisted categorical properties are sent; everything else is discarded.
+ * Never throws; never blocks navigation.
  */
 export function trackFunnelEvent(
   event: FunnelEventName,
@@ -116,9 +117,7 @@ export function trackFunnelEvent(
   if (!KNOWN_EVENTS.has(event)) return; // stray name (bypassed TS)
 
   try {
-    const va = (window as unknown as { va?: VercelAnalytics }).va;
-    if (typeof va !== "function") return; // provider not mounted yet → no-op
-    va("event", { name: event, ...sanitizeProperties(properties) });
+    track(event, sanitizeProperties(properties));
   } catch {
     // Analytics must never affect the UI — swallow any provider error.
   }

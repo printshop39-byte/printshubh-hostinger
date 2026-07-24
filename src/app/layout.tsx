@@ -6,6 +6,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { LanguageProvider } from "@/components/language-context";
 import { MetaPixel } from "@/components/meta-pixel";
 import { MobileBottomNav } from "@/components/mobile-bottom-nav";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -186,6 +187,8 @@ export default function RootLayout({
           <MobileBottomNav />
         </LanguageProvider>
         <Script src="/price-assistant.js" strategy="afterInteractive" />
+        {/* Vercel Web Analytics — cookieless; powers trackFunnelEvent() in prod */}
+        <Analytics />
       </body>
     </html>
   );
