@@ -19,10 +19,13 @@
  */
 
 import { useRef } from "react";
-import { Check, FileText, Info, Map as MapIcon } from "lucide-react";
+import Image from "next/image";
+import { Check, FileText, Info, Map as MapIcon, MessageCircle } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { useFunnelViewEvent } from "@/lib/analytics";
+import { WORK_SAMPLES, hasWorkSamples } from "@/lib/shop-profile";
+import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 const t: Record<
   Lang,
@@ -31,7 +34,7 @@ const t: Record<
     sub: string;
     watermark: string;
     ribbon: string;
-    status: string;
+    askSample: string;
     cards: { title: string; desc: string }[];
     steps: string[];
     assurances: string[];
@@ -42,7 +45,7 @@ const t: Record<
     sub: "नमुना कागदपत्रे आणि सोपी ३-पायरी प्रक्रिया — पारदर्शक आणि सुरक्षित.",
     watermark: "नमुना",
     ribbon: "नमुना — प्रत्यक्ष सरकारी नोंद नाही",
-    status: "नमुना लवकरच",
+    askSample: "WhatsApp वर नमुना मागवा",
     cards: [
       {
         title: "7/12 उतारा — नमुना",
@@ -70,7 +73,7 @@ const t: Record<
     sub: "Sample documents and a simple 3-step process — transparent and secure.",
     watermark: "SAMPLE",
     ribbon: "Sample — not an actual government record",
-    status: "Sample coming soon",
+    askSample: "Ask for a sample on WhatsApp",
     cards: [
       {
         title: "7/12 Extract — sample",
@@ -168,6 +171,15 @@ export function SampleProcessSection() {
   const sectionRef = useRef<HTMLElement>(null);
   useFunnelViewEvent(sectionRef, "sample_section_view", { lang, surface: "sample-process" });
 
+  const sampleWaHref = buildWhatsAppUrl({
+    message:
+      lang === "mr"
+        ? "नमस्कार PrintShubh, कृपया कागदपत्राचा नमुना पाठवाल का?"
+        : "Hello PrintShubh, could you share a sample of the document?",
+    campaign: "sample-process",
+    content: "ask-sample",
+  });
+
   return (
     <section
       ref={sectionRef}
@@ -183,37 +195,87 @@ export function SampleProcessSection() {
         </h2>
         <p className="mt-2 max-w-2xl text-base leading-7 text-slate-600">{tx.sub}</p>
 
-        {/* Sample cards — 1 column on mobile, 2 side-by-side on desktop */}
-        <div className="mt-6 grid gap-4 sm:grid-cols-2">
-          {tx.cards.map((card, i) => {
-            const { icon: Icon, variant } = cardMeta[i];
-            return (
-              <article
-                key={card.title}
+        {/* Sample previews.
+         *
+         * Two modes, and neither of them is a "coming soon" placeholder —
+         * that used to be the weakest thing on this page, because it
+         * promised proof and then withheld it.
+         *
+         *   WORK_SAMPLES filled in → the real, redacted previews render.
+         *   WORK_SAMPLES empty     → the abstract labelled illustration
+         *                            renders, and the card ends in a live
+         *                            WhatsApp CTA instead of a dead status
+         *                            chip, so the visitor can always ask.
+         *
+         * Every entry in WORK_SAMPLES is typed `redacted: true`, which is a
+         * deliberate speed bump: you cannot add a sample without stating
+         * that a human checked it carries no owner name, survey number or
+         * document ID. */}
+        {hasWorkSamples() ? (
+          <ul className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {WORK_SAMPLES.map((sample) => (
+              <li
+                key={sample.src}
                 className="flex flex-col rounded-2xl border border-blue-200 bg-white p-4 shadow-sm"
               >
-                <SamplePlaceholder variant={variant} watermark={tx.watermark} />
-
-                {/* Text label — not colour alone; readable by screen readers */}
+                <div className="overflow-hidden rounded-lg border border-slate-200 bg-slate-50">
+                  <Image
+                    src={sample.src}
+                    alt={sample.alt[lang]}
+                    width={sample.width}
+                    height={sample.height}
+                    loading="lazy"
+                    sizes="(max-width: 640px) 90vw, (max-width: 1024px) 45vw, 30vw"
+                    className="h-auto w-full object-cover"
+                  />
+                </div>
                 <p className="mt-3 inline-flex items-start gap-1.5 rounded-md border border-amber-300 bg-amber-50 px-2.5 py-1.5 text-[12px] font-bold leading-5 text-amber-900">
                   <Info className="mt-0.5 size-3.5 shrink-0 text-amber-700" aria-hidden="true" />
                   {tx.ribbon}
                 </p>
-
-                <h3 className="mt-3 flex items-center gap-2 text-base font-black text-slate-900">
-                  <Icon className="size-4 shrink-0 text-blue-700" aria-hidden="true" />
-                  {card.title}
+                <h3 className="mt-3 text-base font-black text-slate-900">
+                  {sample.label[lang]}
                 </h3>
-                <p className="mt-1 text-sm leading-6 text-slate-600">{card.desc}</p>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            {tx.cards.map((card, i) => {
+              const { icon: Icon, variant } = cardMeta[i];
+              return (
+                <article
+                  key={card.title}
+                  className="flex flex-col rounded-2xl border border-blue-200 bg-white p-4 shadow-sm"
+                >
+                  <SamplePlaceholder variant={variant} watermark={tx.watermark} />
 
-                {/* Non-interactive status label (not a fake/disabled button) */}
-                <span className="mt-3 inline-flex w-fit items-center rounded-md bg-slate-100 px-3 py-1.5 text-xs font-bold text-slate-500">
-                  {tx.status}
-                </span>
-              </article>
-            );
-          })}
-        </div>
+                  {/* Text label — not colour alone; readable by screen readers */}
+                  <p className="mt-3 inline-flex items-start gap-1.5 rounded-md border border-amber-300 bg-amber-50 px-2.5 py-1.5 text-[12px] font-bold leading-5 text-amber-900">
+                    <Info className="mt-0.5 size-3.5 shrink-0 text-amber-700" aria-hidden="true" />
+                    {tx.ribbon}
+                  </p>
+
+                  <h3 className="mt-3 flex items-center gap-2 text-base font-black text-slate-900">
+                    <Icon className="size-4 shrink-0 text-blue-700" aria-hidden="true" />
+                    {card.title}
+                  </h3>
+                  <p className="mt-1 text-sm leading-6 text-slate-600">{card.desc}</p>
+
+                  <a
+                    href={sampleWaHref}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-3 inline-flex min-h-[44px] w-fit items-center gap-1.5 rounded-md bg-green-600 px-4 py-2 text-xs font-black text-white transition hover:bg-green-700"
+                  >
+                    <MessageCircle className="size-3.5" aria-hidden="true" />
+                    {tx.askSample}
+                  </a>
+                </article>
+              );
+            })}
+          </div>
+        )}
 
         {/* Three-step process — vertical on mobile, one row on desktop */}
         <ol className="mt-8 grid gap-3 sm:grid-cols-3">

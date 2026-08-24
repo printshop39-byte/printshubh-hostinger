@@ -564,3 +564,178 @@ body {
     animation: none;
   }
 }
+
+/* ══════════════════════════════════════════════════════════════════════
+   PRINTSHUBH shop redesign — motion + layout utilities
+   ══════════════════════════════════════════════════════════════════════
+
+   Everything below is CSS-driven on purpose. The hero entrance in
+   particular must NOT wait for React to hydrate: the <h1> is the LCP
+   element, and a JS-driven fade would leave it invisible until the
+   bundle lands. A CSS keyframe starts at first paint instead.
+
+   Framer Motion still handles the scroll-reveals, parallax and hover
+   choreography further down the page, where hydration timing is
+   irrelevant. See src/components/shop/motion.tsx. */
+
+/* ── Entrance: fade + short lift, starts at first paint ── */
+@keyframes ps-enter {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 14px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.ps-enter {
+  /* `both` holds the from-state before the delay elapses, so a staggered
+     element never flashes in at full opacity and then re-animates. */
+  animation: ps-enter 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: var(--ps-delay, 0ms);
+}
+
+/* ── Hero document cards: very slow vertical drift ──
+   Amplitude is deliberately tiny (6-9px over 7-9s). Big enough to read as
+   "alive", small enough that it never competes with the headline. */
+@keyframes ps-float {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, calc(-1 * var(--ps-float-y, 8px)), 0);
+  }
+}
+
+.ps-float {
+  animation: ps-float var(--ps-float-dur, 8s) ease-in-out infinite;
+  animation-delay: var(--ps-float-delay, 0ms);
+  will-change: transform;
+}
+
+/* ── Quick-service strip: seamless horizontal marquee (desktop) ──
+   Same duplicate-track / -50% technique as .ps-marquee-track above. The
+   track is only animated from `md` up; on phones the strip becomes a
+   plain touch-scrollable chip row (see .ps-scroll-x). */
+@keyframes ps-strip {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@media (min-width: 768px) {
+  .ps-strip-track {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    will-change: transform;
+    animation: ps-strip 44s linear infinite;
+  }
+
+  .ps-strip:hover .ps-strip-track,
+  .ps-strip:focus-within .ps-strip-track {
+    animation-play-state: paused;
+  }
+}
+
+/* ── Touch-scrollable rows (chips, photo gallery) ──
+   Hides the scrollbar without hiding the overflow, and snaps so a swipe
+   always lands on a whole card rather than halfway through one. */
+.ps-scroll-x {
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  overscroll-behavior-x: contain;
+}
+
+.ps-scroll-x::-webkit-scrollbar {
+  display: none;
+}
+
+.ps-snap {
+  scroll-snap-align: start;
+}
+
+/* ── Soft brand wash behind the hero ──
+   Two low-opacity radial tints. Kept in CSS (not an image) so it costs no
+   bytes and scales to any viewport without a second asset. */
+.ps-hero-wash {
+  background:
+    radial-gradient(60% 55% at 82% 12%, rgba(37, 99, 235, 0.1), transparent 70%),
+    radial-gradient(50% 50% at 8% 88%, rgba(14, 165, 233, 0.08), transparent 70%),
+    linear-gradient(180deg, #ffffff 0%, #f6faff 100%);
+}
+
+/* Faint paper grid — the "printing desk" texture under the hero visual. */
+.ps-paper-grid {
+  background-image:
+    linear-gradient(rgba(37, 99, 235, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(37, 99, 235, 0.06) 1px, transparent 1px);
+  background-size: 26px 26px;
+}
+
+/* ── Glass card (hero document tiles, stat tiles) ── */
+.ps-glass {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  box-shadow:
+    0 1px 2px rgba(15, 23, 42, 0.04),
+    0 12px 32px -12px rgba(15, 23, 42, 0.18);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ps-enter,
+  .ps-float,
+  .ps-strip-track {
+    animation: none;
+  }
+
+  /* The entrance keyframe is what makes .ps-enter visible, so with the
+     animation off the element must be given its end-state explicitly. */
+  .ps-enter {
+    opacity: 1;
+    transform: none;
+  }
+
+  .ps-scroll-x {
+    scroll-snap-type: none;
+  }
+}
+
+/* ── Reduced motion, md and up: keep the service strip reachable ──
+ *
+ * From md up the strip normally works by transforming an inline-flex track
+ * that is deliberately WIDER than its clipped parent (.ps-strip has
+ * overflow-hidden), with a duplicate copy of the chips completing the loop.
+ *
+ * Turning the animation off alone is not enough: the track stays wider than
+ * the parent, nothing scrolls it any more, and the trailing chips
+ * (लॅमिनेशन / स्कॅनिंग / जमीन कागदपत्रे at 768-1150px) end up permanently
+ * off-screen — still focusable by keyboard, but invisible. That is content
+ * loss, not just a missing animation.
+ *
+ * So under reduced motion the track stops being a marquee and becomes an
+ * ordinary horizontal scroller: `display:flex; width:100%` gives it a
+ * definite size, which lets the `overflow-x:auto` it already carries from
+ * .ps-scroll-x actually engage, and focusing a clipped chip scrolls it into
+ * view. The duplicate copy is removed so the content is never doubled. */
+@media (prefers-reduced-motion: reduce) and (min-width: 768px) {
+  .ps-strip-track {
+    display: flex;
+    width: 100%;
+  }
+
+  .ps-strip-dupe {
+    display: none;
+  }
+}

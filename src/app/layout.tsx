@@ -6,7 +6,8 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { LanguageProvider } from "@/components/language-context";
 import { MetaPixel } from "@/components/meta-pixel";
 import { MobileBottomNav } from "@/components/mobile-bottom-nav";
-import { Analytics } from "@vercel/analytics/next";
+import { HydrationFlag } from "@/components/hydration-flag";
+import { LocalBusinessJsonLd } from "@/components/shop/local-business-jsonld";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -81,59 +82,54 @@ export const metadata: Metadata = {
   },
 };
 
-/* ── JSON-LD: ProfessionalService + WebSite ──────────────────────────
+/* ── JSON-LD: one business entity, three linked nodes ────────────────
  *
- * Two structured-data blocks injected once at the root layout so every
- * page inherits them. ProfessionalService is the entity card Google may
- * use for the knowledge panel; WebSite enables the sitelinks search box
- * if Google deems the domain authoritative.
+ * The business is described ONCE, by the PrintShop node in
+ * src/components/shop/local-business-jsonld.tsx, which is rendered from
+ * this layout so every route carries it.
  *
- * Both blocks deliberately repeat the "not a government website"
- * disclaimer inside the `description` field — Google reads JSON-LD as
- * structured truth, so the disclaimer reaches search snippets too. */
-const professionalServiceLd = {
-  "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  name: "PrintShubh",
-  url: SITE_URL + "/",
-  telephone: "+91 86258 01907",
-  email: "support@printshubh.shop",
-  areaServed: {
-    "@type": "State",
-    name: "Maharashtra",
-  },
-  serviceType: [
-    "7/12 Utara Assistance",
-    "8A Utara Assistance",
-    "Gav Nakasha Assistance",
-    "DP Map Assistance",
-    "Property Card Assistance",
-    "E-Ferfar Assistance",
-    "Land Report Assistance",
-  ],
-  description:
-    "PrintShubh provides private WhatsApp assistance for Maharashtra land documents such as 7/12, 8A, Gav Nakasha, DP Map, Property Card and land reports based on official sources. PrintShubh is not a government website.",
-};
+ * Previously this file also emitted a ProfessionalService node for the same
+ * business. Two un-linked local-business nodes at one URL invite Google to
+ * read them as two different companies and split the entity signals — the
+ * opposite of what local SEO needs. That node is gone; PrintShop supersedes
+ * it and carries the same telephone / email / areaServed.
+ *
+ * What is left is a small graph joined by stable @ids:
+ *
+ *   #organization  — the brand      (this file)
+ *   #printshop     — the business   (local-business-jsonld.tsx),
+ *                    parentOrganization → #organization
+ *   #website       — the site       (this file), publisher → #organization
+ *
+ * The @id values are permanent. Service pages reference #printshop as their
+ * provider instead of restating the business inline, so the description
+ * lives in exactly one place. */
 
 const websiteLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
+  "@id": SITE_URL + "/#website",
   name: "PrintShubh",
   url: SITE_URL + "/",
   inLanguage: "mr-IN",
+  publisher: { "@id": SITE_URL + "/#organization" },
 };
 
 /* ── JSON-LD: Organization ───────────────────────────────────────────
  *
- * The brand entity behind the service. ProfessionalService (above)
- * already carries the local-business signals (telephone, areaServed);
- * Organization adds the logo + contactPoint Google uses for the brand
- * knowledge panel. areaServed is the whole state — this is a
- * service-area business with no walk-in address, so none is asserted. */
+ * The brand entity. The PrintShop node carries the local-business signals
+ * and points back here via parentOrganization; Organization adds the logo +
+ * contactPoint Google uses for the brand knowledge panel.
+ *
+ * No address is asserted here. Once SHOP_ADDRESS is filled in
+ * (src/lib/shop-profile.ts) the address appears on the PrintShop node only,
+ * so there is one place to keep in sync with the Google Business Profile. */
 const organizationLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": SITE_URL + "/#organization",
   name: "PrintShubh",
+  alternateName: "PRINTSHUBH JUMBO XEROX",
   url: SITE_URL + "/",
   logo: SITE_URL + "/favicon.png",
   email: "support@printshubh.shop",
@@ -157,15 +153,9 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} ${notoDevanagari.variable} h-full`}
     >
       <head>
-        {/* Structured data — kept in a single Script-free <script> tag so
-            it's emitted server-side with no JS-evaluation cost. Two
-            entities, two tags — easier to validate in Rich Results Test. */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(professionalServiceLd),
-          }}
-        />
+        {/* Structured data — plain <script> tags, emitted server-side with
+            no JS-evaluation cost, one node per tag so each is easy to read
+            in the Rich Results Test. */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -178,8 +168,60 @@ export default function RootLayout({
             __html: JSON.stringify(organizationLd),
           }}
         />
+        {/* The single business entity, on every route. */}
+        <LocalBusinessJsonLd />
+        {/* ── Failure-safe for JS-driven scroll reveals ──────────────────
+         *
+         * Framer Motion serialises its `initial` state into the server HTML,
+         * so every <Reveal> / <Stagger> section ships as
+         * style="opacity:0;transform:translateY(…)" and only becomes visible
+         * once React hydrates and the IntersectionObserver fires.
+         *
+         * If the bundle never arrives — a failed chunk, a blocked CDN, an
+         * old browser — that content stays invisible forever, while the
+         * header, hero and footer render fine. The page would look broken
+         * rather than degraded.
+         *
+         * <noscript> covers the scripting-disabled case declaratively. It
+         * does NOT cover "JS enabled but the bundle failed", so the small
+         * inline script below is the real backstop: it schedules a check and,
+         * if hydration has not cleared the inline opacity within a few
+         * seconds, reveals everything. On a healthy page load Framer has
+         * long since taken over and the check is a no-op. */}
+        <noscript>
+          <style
+            dangerouslySetInnerHTML={{
+              __html:
+                '[style*="opacity:0"]{opacity:1!important;transform:none!important}',
+            }}
+          />
+        </noscript>
+        {/* Two distinct failure modes, two rules:
+         *
+         *   no `data-hydrated`  → React never mounted. Reveal everything.
+         *   `data-hydrated` set → React mounted, so Framer owns these
+         *                         elements. Reveal only what is INSIDE the
+         *                         viewport and still computed-invisible: on a
+         *                         healthy page Framer clears in-view elements
+         *                         immediately, so anything still hidden there
+         *                         means the IntersectionObserver is not
+         *                         firing. Below-fold elements are left alone
+         *                         so the reveal animation survives.
+         *
+         * The in-view sweep repeats on scroll (throttled) because a broken
+         * observer stays broken as the visitor moves down the page.
+         *
+         * Opacity is read from getComputedStyle, not from the attribute
+         * substring: "opacity:0.5" contains "opacity:0", and matching on text
+         * alone would snap mid-animation elements to their end state. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var S='[style*="opacity:0"]',t=0;function inView(el){var r=el.getBoundingClientRect();return r.bottom>0&&r.top<(window.innerHeight||0)}function sweep(all){var n=document.querySelectorAll(S);for(var i=0;i<n.length;i++){var el=n[i];if(getComputedStyle(el).opacity!=="0")continue;if(all||inView(el)){el.style.opacity="1";el.style.transform="none"}}}window.addEventListener("load",function(){setTimeout(function(){if(!document.documentElement.hasAttribute("data-hydrated")){sweep(true);return}sweep(false);window.addEventListener("scroll",function(){if(t)return;t=setTimeout(function(){t=0;sweep(false)},400)},{passive:true})},4000)})})();`,
+          }}
+        />
       </head>
       <body className="flex min-h-full flex-col antialiased pb-16 md:pb-0">
+        <HydrationFlag />
         <MetaPixel />
         <LanguageProvider>
           {children}
@@ -187,8 +229,14 @@ export default function RootLayout({
           <MobileBottomNav />
         </LanguageProvider>
         <Script src="/price-assistant.js" strategy="afterInteractive" />
-        {/* Vercel Web Analytics — cookieless; powers trackFunnelEvent() in prod */}
-        <Analytics />
+        {/* No web-analytics provider is mounted. This site is hosted on
+            Hostinger, and @vercel/analytics only works behind Vercel's edge —
+            elsewhere it 404s on /_vercel/insights/script.js and logs a console
+            error on every page view.
+
+            Funnel events still flow: src/lib/analytics.ts dispatches them on
+            the `printshubh:funnel` DOM channel, where a self-hosted analytics
+            snippet or tag manager can subscribe. See FUNNEL_CHANNEL there. */}
       </body>
     </html>
   );
