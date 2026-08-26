@@ -30,6 +30,7 @@ import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { BRAND_LINE, BRAND_NAME, SHOP_PHOTOS, YEARS_EXPERIENCE } from "@/lib/shop-profile";
 import { PrintDeskVisual } from "@/components/shop/print-desk-visual";
+import { SERVICE_ICONS, type ServiceIconKey } from "@/components/shop/service-icons";
 import {
   Magnetic,
   useCalmMotion,
@@ -95,6 +96,7 @@ const t: Record<
 const tiles: {
   label: string;
   sub: Record<Lang, string>;
+  icon: ServiceIconKey;
   top: string;
   left: string;
   depth: number;
@@ -105,6 +107,7 @@ const tiles: {
   {
     label: "7/12",
     sub: { mr: "उतारा", en: "Extract" },
+    icon: "land",
     top: "4%",
     left: "-3%",
     depth: 18,
@@ -115,6 +118,7 @@ const tiles: {
   {
     label: "A3 PRINT",
     sub: { mr: "रंगीत / B&W", en: "Colour / B&W" },
+    icon: "printer",
     top: "18%",
     left: "66%",
     depth: 26,
@@ -125,6 +129,7 @@ const tiles: {
   {
     label: "PHOTO",
     sub: { mr: "पासपोर्ट / ID", en: "Passport / ID" },
+    icon: "photo",
     top: "62%",
     left: "-4%",
     depth: 12,
@@ -135,6 +140,7 @@ const tiles: {
   {
     label: "JUMBO XEROX",
     sub: { mr: "मोठ्या आकाराचे", en: "Large format" },
+    icon: "printer",
     top: "78%",
     left: "52%",
     depth: 22,
@@ -159,6 +165,7 @@ function HeroTile({
 }) {
   const x = useParallaxOffset(px, tile.depth);
   const y = useParallaxOffset(py, tile.depth * 0.6);
+  const TileIcon = SERVICE_ICONS[tile.icon];
 
   return (
     <motion.div
@@ -166,7 +173,7 @@ function HeroTile({
       style={{ top: tile.top, left: tile.left, x: animate ? x : 0, y: animate ? y : 0 }}
     >
       <div
-        className="ps-float ps-glass rounded-xl px-3.5 py-2.5"
+        className="ps-float ps-glass flex items-center gap-2.5 rounded-xl px-3.5 py-2.5"
         style={
           {
             "--ps-float-y": tile.floatY,
@@ -175,12 +182,15 @@ function HeroTile({
           } as React.CSSProperties
         }
       >
-        <p className="text-[13px] font-black leading-none tracking-tight text-slate-900">
-          {tile.label}
-        </p>
-        <p className="mt-1 text-[11px] font-semibold leading-none text-slate-500">
-          {tile.sub[lang]}
-        </p>
+        <TileIcon className="h-7 w-7 shrink-0" />
+        <div>
+          <p className="text-[13px] font-black leading-none tracking-tight text-slate-900">
+            {tile.label}
+          </p>
+          <p className="mt-1 text-[11px] font-semibold leading-none text-slate-500">
+            {tile.sub[lang]}
+          </p>
+        </div>
       </div>
     </motion.div>
   );
