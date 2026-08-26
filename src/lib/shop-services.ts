@@ -12,6 +12,7 @@
  */
 
 import type { Lang } from "@/components/language-context";
+import type { ServiceIconKey } from "@/components/shop/service-icons";
 
 export type ServiceGroupKey = "printing" | "photo" | "land" | "digital";
 
@@ -26,6 +27,8 @@ export interface ServiceGroup {
   /** Landing route for the whole group. */
   href: string;
   emoji: string;
+  /** Illustrated icon shown on the homepage pillar card. */
+  iconKey: ServiceIconKey;
   title: Record<Lang, string>;
   /** One-line promise shown under the card title. */
   blurb: Record<Lang, string>;
@@ -40,6 +43,7 @@ export const SERVICE_GROUPS: ServiceGroup[] = [
     key: "printing",
     href: "/printing-xerox",
     emoji: "🖨️",
+    iconKey: "printer",
     title: { mr: "प्रिंटिंग व झेरॉक्स", en: "Printing & Xerox" },
     blurb: {
       mr: "जंबो झेरॉक्सपासून A3 रंगीत प्रिंटपर्यंत — दुकानातच, त्याच वेळी.",
@@ -65,6 +69,7 @@ export const SERVICE_GROUPS: ServiceGroup[] = [
     key: "photo",
     href: "/photo-services",
     emoji: "📸",
+    iconKey: "photo",
     title: { mr: "फोटो सेवा", en: "Photo Services" },
     blurb: {
       mr: "पासपोर्ट, ID व मिनी फोटो — काढून, संपादित करून, प्रिंट करून.",
@@ -87,6 +92,7 @@ export const SERVICE_GROUPS: ServiceGroup[] = [
     key: "land",
     href: "/#land-documents",
     emoji: "🗺️",
+    iconKey: "land",
     title: { mr: "जमीन कागदपत्रे", en: "Land Documents" },
     blurb: {
       mr: "7/12, 8अ, फेरफार, गाव नकाशा व मिळकत पत्रिका — अधिकृत स्रोतांवर आधारित.",
@@ -110,6 +116,7 @@ export const SERVICE_GROUPS: ServiceGroup[] = [
     key: "digital",
     href: "/digital-services",
     emoji: "💻",
+    iconKey: "digital",
     title: { mr: "डिजिटल सेवा", en: "Digital Services" },
     blurb: {
       mr: "ऑनलाइन फॉर्म, PDF काम आणि WhatsApp वरून प्रिंट — बसल्या जागी.",

@@ -22,6 +22,7 @@ import { SERVICE_GROUPS } from "@/lib/shop-services";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
+import { SERVICE_ICONS } from "@/components/shop/service-icons";
 
 const t: Record<Lang, { heading: string; sub: string; ask: string }> = {
   mr: {
@@ -57,16 +58,14 @@ export function ServicePillars() {
               campaign: "service-pillars",
               content: group.key,
             });
+            const Icon = SERVICE_ICONS[group.iconKey];
 
             return (
               <StaggerItem as="li" key={group.key}>
                 <article className="group flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-blue-300 hover:shadow-[0_24px_50px_-24px_rgba(29,78,216,0.45)] motion-reduce:transform-none motion-reduce:transition-none">
                   <div className="flex items-start justify-between">
-                    <span
-                      aria-hidden="true"
-                      className="grid size-12 place-items-center rounded-xl bg-blue-50 text-2xl transition duration-300 group-hover:-translate-y-1 motion-reduce:transform-none"
-                    >
-                      {group.emoji}
+                    <span className="grid size-12 place-items-center rounded-xl bg-blue-50 p-1.5 transition duration-300 group-hover:-translate-y-1 motion-reduce:transform-none">
+                      <Icon className="h-full w-full" />
                     </span>
                     <span className="text-[11px] font-black tracking-[0.2em] text-slate-300">
                       {String(index + 1).padStart(2, "0")}
