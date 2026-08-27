@@ -41,6 +41,41 @@ const securityHeaders = [
 const nextConfig: NextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
 
+  /* ── Apex → www, 308 Permanent ───────────────────────────────────────
+   *
+   * The canonical domain is https://www.printshubh.shop — every canonical
+   * tag, the sitemap, robots.txt and the JSON-LD already say so. This makes
+   * the apex agree, at the application layer.
+   *
+   * WHY IN CODE AND NOT AT THE HOST: this redirect is currently performed by
+   * Vercel's domain settings, which only apply to traffic that reaches
+   * Vercel. The moment DNS is pointed at Hostinger, that redirect stops
+   * existing and the apex would serve the site as a second address. Putting
+   * it here means it travels with the application to any host.
+   *
+   * The `has` host condition is what prevents an infinite loop: the rule
+   * fires ONLY when the request arrives on the bare apex. A request already
+   * on www.printshubh.shop does not match and is served normally.
+   *
+   * `permanent: true` emits 308 (not 301) so the request method is preserved
+   * — see the Next.js redirects docs. Query strings are carried across
+   * automatically; `:path*` carries the rest of the pathname.
+   *
+   * Note: this does not fire on localhost (the host is `localhost:PORT`), so
+   * local development and `next start` are unaffected. To exercise it
+   * locally, send the header explicitly:
+   *   curl -I -H "Host: printshubh.shop" http://localhost:3000/about */
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "printshubh.shop" }],
+        destination: "https://www.printshubh.shop/:path*",
+        permanent: true,
+      },
+    ];
+  },
+
   async headers() {
     return [
       {

@@ -1,10 +1,26 @@
 /**
  * Conversion-funnel analytics foundation — privacy-safe by construction.
  *
- * This module is the ONLY place funnel events are shaped and sent. It targets
- * Vercel Web Analytics (cookieless) via the browser global `window.va`; the
- * `@vercel/analytics` provider itself is mounted in a separate commit. It does
- * NOT touch the Meta Pixel — `trackWhatsAppLead()` (Contact) stays separate.
+ * This module is the ONLY place funnel events are shaped and sent, and it is
+ * deliberately provider-agnostic: the site is hosted on Hostinger, so it can
+ * carry no dependency on a host-injected endpoint.
+ *
+ * Events are dispatched as a DOM CustomEvent on `window` (see FUNNEL_CHANNEL).
+ * That costs nothing, makes no network request, and gives a tag manager or a
+ * self-hosted analytics snippet a single place to subscribe:
+ *
+ *   window.addEventListener("printshubh:funnel", (e) => {
+ *     // e.detail = { event, properties }  ← already sanitised, see below
+ *   });
+ *
+ * With no listener attached this is a safe no-op, which is the current state.
+ * It does NOT touch the Meta Pixel — `trackWhatsAppLead()` (Contact) stays
+ * separate.
+ *
+ * HISTORY: this previously called `track()` from `@vercel/analytics`. On
+ * Hostinger that endpoint (/_vercel/insights/script.js) 404s, so every event
+ * was silently dropped and each page view logged a console error. Do not
+ * reintroduce a host-specific provider here.
  *
  * PRIVACY GUARANTEE:
  *   `trackFunnelEvent` reads ONLY a fixed allowlist of low-risk, categorical
@@ -16,13 +32,15 @@
  *   Rejected values are never logged.
  *
  * SAFETY:
- *   No-op during SSR, no-op outside production, no-op if the provider global is
- *   absent, and every provider call is wrapped so analytics can never throw to
- *   the caller or break the UI. No event call sites exist yet.
+ *   No-op during SSR and outside production, and the dispatch is wrapped so a
+ *   throwing subscriber can never break the UI or block a navigation.
  */
 
-import { track } from "@vercel/analytics";
 import { useEffect, useRef, type RefObject } from "react";
+
+/** DOM event name every funnel event is dispatched under. Public API —
+ * anything subscribing to funnel events keys off this string. */
+export const FUNNEL_CHANNEL = "printshubh:funnel";
 
 /* Single source of truth for the fixed event taxonomy (drives the type + a
  * runtime allowlist so a caller bypassing TypeScript can't send a stray name). */
@@ -102,12 +120,12 @@ function sanitizeProperties(input?: SafeAnalyticsProperties): CleanProperties {
 }
 
 /**
- * Send a privacy-safe funnel event to Vercel Web Analytics via the official
- * `track()` API.
+ * Emit a privacy-safe funnel event on the FUNNEL_CHANNEL DOM channel.
  *
  * No-op during SSR, outside production, and for unknown event names. Only
- * allowlisted categorical properties are sent; everything else is discarded.
- * Never throws; never blocks navigation.
+ * allowlisted categorical properties are included; everything else is
+ * discarded. Never throws; never blocks navigation; makes no network request
+ * of its own — delivery is entirely up to whatever subscribes.
  */
 export function trackFunnelEvent(
   event: FunnelEventName,
@@ -118,17 +136,20 @@ export function trackFunnelEvent(
   if (!KNOWN_EVENTS.has(event)) return; // stray name (bypassed TS)
 
   try {
-    track(event, sanitizeProperties(properties));
+    window.dispatchEvent(
+      new CustomEvent(FUNNEL_CHANNEL, {
+        detail: { event, properties: sanitizeProperties(properties) },
+      }),
+    );
   } catch {
-    // Analytics must never affect the UI — swallow any provider error.
+    // Analytics must never affect the UI — swallow any subscriber error.
   }
 }
 
 /**
- * Fire-once guard for future view-tracking (e.g. enquiry_form_view,
- * sample_section_view). Returns a function that yields `true` only the first
- * time it sees a given key. Exported for the upcoming IntersectionObserver
- * commit — intentionally NOT wired to any event yet.
+ * Fire-once guard for view-tracking (enquiry_form_view, sample_section_view).
+ * Returns a function that yields `true` only the first time it sees a given
+ * key. Used by useFunnelViewEvent below.
  */
 export function createOnceGuard(): (key: string) => boolean {
   const seen = new Set<string>();

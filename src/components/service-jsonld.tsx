@@ -18,15 +18,6 @@
  * ships in the initial HTML response (which is what crawlers see).
  */
 
-/* Inlined contact strings — kept in sync with SITE_CONTACT in
- * src/components/site-footer.tsx. We don't import from there because
- * site-footer.tsx is a "use client" module; this is a server component
- * and importing across the boundary can confuse the bundler. */
-const SITE_CONTACT = {
-  phone: "+91 86258 01907",
-  email: "support@printshubh.shop",
-} as const;
-
 const SITE_URL = "https://www.printshubh.shop";
 
 export interface ServiceJsonLdProps {
@@ -64,13 +55,11 @@ export function ServiceJsonLd({
     alternateName: serviceNameEn,
     serviceType: serviceNameEn,
     url,
-    provider: {
-      "@type": "ProfessionalService",
-      name: "PrintShubh",
-      url: `${SITE_URL}/`,
-      telephone: SITE_CONTACT.phone,
-      email: SITE_CONTACT.email,
-    },
+    // Reference, not a copy. The business is described once by the
+    // PrintShop node in src/components/shop/local-business-jsonld.tsx
+    // (rendered site-wide from the root layout); restating its name, phone
+    // and email here would create a second, competing entity.
+    provider: { "@id": `${SITE_URL}/#printshop` },
     areaServed: {
       "@type": "State",
       name: "Maharashtra",

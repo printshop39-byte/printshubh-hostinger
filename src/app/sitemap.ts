@@ -27,6 +27,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     /* Homepage */
     { url: `${SITE_URL}/`, lastModified, changeFrequency: "weekly", priority: 1.0 },
 
+    /* Shop-counter service pages (printing / photo / digital).
+     * Added alongside the land-document routes below — none of those URLs
+     * changed when the shop pages were introduced. */
+    { url: `${SITE_URL}/printing-xerox`,              lastModified, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${SITE_URL}/photo-services`,              lastModified, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${SITE_URL}/digital-services`,            lastModified, changeFrequency: "monthly", priority: 0.8 },
+
     /* Service SEO pages (Stage D) */
     { url: `${SITE_URL}/satbara-utara-maharashtra/`,   lastModified, changeFrequency: "monthly", priority: 0.8 },
     { url: `${SITE_URL}/8a-utara-maharashtra/`,        lastModified, changeFrequency: "monthly", priority: 0.8 },
