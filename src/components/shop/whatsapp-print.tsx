@@ -100,7 +100,7 @@ export function WhatsAppPrint() {
 
           <Stagger
             as="ol"
-            className="mt-12 grid gap-3 sm:grid-cols-2 lg:grid-cols-4 lg:gap-4"
+            className="mt-10 grid grid-cols-2 gap-2.5 lg:mt-12 lg:grid-cols-4 lg:gap-4"
           >
             {tx.steps.map((step, i) => {
               const Icon = stepIcons[i];
@@ -108,26 +108,30 @@ export function WhatsAppPrint() {
 
               return (
                 <StaggerItem as="li" key={step.title}>
-                  <div className="relative h-full rounded-2xl bg-white/[0.07] p-5 ring-1 ring-inset ring-white/10 backdrop-blur-sm">
+                  <div className="relative h-full rounded-2xl bg-white/[0.07] p-3.5 ring-1 ring-inset ring-white/10 backdrop-blur-sm lg:p-5">
                     <span
                       aria-hidden="true"
-                      className={`grid size-11 place-items-center rounded-xl ${
+                      className={`grid size-9 place-items-center rounded-xl lg:size-11 ${
                         isLast ? "bg-green-500/20 text-green-300" : "bg-blue-500/20 text-blue-200"
                       }`}
                     >
-                      <Icon className="size-5" />
+                      <Icon className="size-4 lg:size-5" />
                     </span>
-                    <p className="mt-4 text-lg font-black leading-tight">{step.title}</p>
-                    <p className="mt-1 text-[13.5px] font-semibold text-slate-400">
+                    <p className="mt-3 text-base font-black leading-tight lg:mt-4 lg:text-lg">
+                      {step.title}
+                    </p>
+                    <p className="mt-1 text-[12px] font-semibold text-slate-400 lg:text-[13.5px]">
                       {step.note}
                     </p>
 
-                    {/* Connector: down between stacked cards, right between
-                        cards in a row. Decorative — the <ol> carries order. */}
+                    {/* Connector — only meaningful once the steps sit in a
+                        single row (lg: 4-across); a 2-col mobile grid has no
+                        one "next" direction so it stays hidden below lg.
+                        Decorative — the <ol> already carries the order. */}
                     {!isLast && (
                       <ArrowRight
                         aria-hidden="true"
-                        className="absolute -bottom-[26px] left-1/2 size-5 -translate-x-1/2 rotate-90 text-white/25 sm:hidden lg:-right-[26px] lg:bottom-auto lg:left-auto lg:top-1/2 lg:block lg:-translate-y-1/2 lg:translate-x-0 lg:rotate-0"
+                        className="absolute -right-[26px] top-1/2 hidden size-5 -translate-y-1/2 text-white/25 lg:block"
                       />
                     )}
                   </div>

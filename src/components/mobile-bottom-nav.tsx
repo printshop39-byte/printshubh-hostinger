@@ -3,25 +3,28 @@
 /**
  * MobileBottomNav — app-style sticky bottom bar, mobile only (md:hidden).
  *
- * The three actions a walk-in customer actually wants are WhatsApp, Call and
- * Directions, so those own the bar; Home keeps navigation one tap away.
+ * Content-discovery taxonomy: Home, Documents (#land-documents), Maps
+ * (#maps), Call and WhatsApp. Directions was deliberately dropped — it's
+ * already reachable via VisitShop, the footer and the Google Business
+ * Profile, and a "नकाशे" (Maps, documents) tab next to a "दिशा" (Directions)
+ * tab reads as the same word twice in Marathi. Call stays: it's the lowest-
+ * friction path for the shop's older, land-document-anxious walk-in
+ * customers, and unlike Documents/Maps/Tools it has no other persistent
+ * mobile surface (WhatsAppSupportButton is desktop-only).
  *
- * Directions appears only once SHOP_ADDRESS is filled in
- * (src/lib/shop-profile.ts). Until then its slot is taken by Services, so
- * the bar is never a dead button and never points at an address nobody has
- * confirmed.
+ * Hrefs are root-relative (/#id) because this bar is mounted in the root
+ * layout and renders on every route, not just "/".
  *
  * Layout adds pb-16 on mobile so this bar never covers footer content.
  */
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { FileText, Home, MessageCircle, Navigation, Phone } from "lucide-react";
+import { FileText, Home, Map, MessageCircle, Phone } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
-import { SHOP_ADDRESS } from "@/lib/shop-profile";
 import { SITE_CONTACT } from "@/components/site-footer";
 
 const WA_MESSAGE: Record<Lang, string> = {
@@ -31,19 +34,19 @@ const WA_MESSAGE: Record<Lang, string> = {
 
 const label = {
   home: { mr: "होम", en: "Home" },
-  services: { mr: "सेवा", en: "Services" },
+  documents: { mr: "कागदपत्रे", en: "Docs" },
+  maps: { mr: "नकाशे", en: "Maps" },
   call: { mr: "कॉल", en: "Call" },
-  directions: { mr: "दिशा", en: "Directions" },
 } satisfies Record<string, Record<Lang, string>>;
 
 const tabClass =
-  "flex flex-1 flex-col items-center justify-center gap-0.5 py-2.5 transition active:scale-95 motion-reduce:active:scale-100";
+  "flex min-w-0 flex-1 flex-col items-center justify-center gap-0.5 px-0.5 py-2.5 transition active:scale-95 motion-reduce:active:scale-100";
 
 function TabLabel({ icon: Icon, text }: { icon: LucideIcon; text: string }) {
   return (
     <>
-      <Icon size={21} strokeWidth={2} aria-hidden="true" />
-      <span className="text-[11px] font-bold">{text}</span>
+      <Icon size={20} strokeWidth={2} aria-hidden="true" />
+      <span className="w-full truncate text-center text-[10px] font-bold">{text}</span>
     </>
   );
 }
@@ -62,25 +65,19 @@ export function MobileBottomNav() {
     >
       <Link
         href="/"
+        aria-current={atHome ? "page" : undefined}
         className={`${tabClass} ${atHome ? "text-blue-700" : "text-slate-600"}`}
       >
         <TabLabel icon={Home} text={label.home[lang]} />
       </Link>
 
-      {SHOP_ADDRESS ? (
-        <a
-          href={SHOP_ADDRESS.directionsUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={`${tabClass} text-slate-600`}
-        >
-          <TabLabel icon={Navigation} text={label.directions[lang]} />
-        </a>
-      ) : (
-        <Link href="/#services" className={`${tabClass} text-slate-600`}>
-          <TabLabel icon={FileText} text={label.services[lang]} />
-        </Link>
-      )}
+      <Link href="/#land-documents" className={`${tabClass} text-slate-600`}>
+        <TabLabel icon={FileText} text={label.documents[lang]} />
+      </Link>
+
+      <Link href="/#maps" className={`${tabClass} text-slate-600`}>
+        <TabLabel icon={Map} text={label.maps[lang]} />
+      </Link>
 
       <a href={`tel:${SITE_CONTACT.phoneTel}`} className={`${tabClass} text-slate-600`}>
         <TabLabel icon={Phone} text={label.call[lang]} />

@@ -57,6 +57,7 @@ const ui: Record<
     mobile: string;
     note: string;
     cta: string;
+    ctaHint: string;
     heading: string;
     sub: string;
     catDoc: string;
@@ -75,6 +76,7 @@ const ui: Record<
     mobile: "मोबाईल नंबर",
     note: "अंतिम किंमत निवडलेल्या गाव / गट नंबरनुसार WhatsApp वर आधी सांगितली जाईल.",
     cta: "WhatsApp वर मागवा",
+    ctaHint: "गाव आणि १० अंकी मोबाईल नंबर आवश्यक",
     heading: "तुमचा रेकॉर्ड निवडा — WhatsApp वर मागवा",
     sub: "रेकॉर्ड प्रकार निवडा, जिल्हा-तालुका-गाव भरा आणि एका क्लिकवर WhatsApp वर पाठवा.",
     catDoc: "डिजिटल दस्तऐवज",
@@ -92,6 +94,7 @@ const ui: Record<
     mobile: "Mobile number",
     note: "The final price (based on the chosen village / gat number) is shared on WhatsApp first.",
     cta: "Request on WhatsApp",
+    ctaHint: "Village and a 10-digit mobile number are required",
     heading: "Pick your record — request on WhatsApp",
     sub: "Choose a record type, fill district-taluka-village, and send on WhatsApp in one click.",
     catDoc: "Digital Documents",
@@ -183,7 +186,10 @@ export function UnifiedRecordForm() {
 
   const [category, setCategory] = useState<"doc" | "map">("doc");
   const group = PRICING_GROUPS.find((g) => g.key === category) ?? PRICING_GROUPS[0];
-  const [service, setService] = useState<PriceRow>(PRICING_GROUPS[0].rows[0]);
+  // Starts unselected so the form is genuinely "service-first": the select
+  // shows the placeholder, not a pre-filled default, and every field below
+  // stays hidden until the visitor actually picks something.
+  const [service, setService] = useState<PriceRow | null>(null);
 
   const [districts, setDistricts] = useState<Row[]>([]);
   const [talukas, setTalukas] = useState<Row[]>([]);
@@ -250,11 +256,11 @@ export function UnifiedRecordForm() {
     };
   }, [districtId, talukaId]);
 
-  // Switching category resets the selected service to that group's first item.
+  // Switching category re-asks for a service (the two groups' lists differ),
+  // which also collapses every step below back to "not started".
   function pickCategory(key: "doc" | "map") {
     setCategory(key);
-    const g = PRICING_GROUPS.find((x) => x.key === key);
-    if (g) setService(g.rows[0]);
+    setService(null);
   }
 
   // Dependent resets live in the change handlers (user actions), not in the
@@ -332,6 +338,7 @@ export function UnifiedRecordForm() {
   );
 
   const waHref = useMemo(() => {
+    if (!service) return "";
     const dName = districtName(selectedDistrictRow, lang);
     const tName = talukaId
       ? getTalukaDisplayNameRow(selectedTalukaRow, selectedDistrictRow, lang)
@@ -367,17 +374,31 @@ export function UnifiedRecordForm() {
     return buildWhatsAppUrl({ message: lines.join("\n"), campaign: "unified-form" });
   }, [service, talukaId, villageId, survey, mobile, villages, selectedDistrictRow, selectedTalukaRow, lang]);
 
-  const selectClass =
-    "h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm text-slate-800 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:cursor-not-allowed disabled:bg-slate-50 disabled:text-slate-400";
+  // Strict gate: a village and a plausible 10-digit mobile number are both
+  // required before the WhatsApp CTA activates — the shop wants complete
+  // leads over never dead-ending an edge-case visitor.
+  const canSubmit = villageId !== "" && /^\d{10}$/.test(mobile);
+
+  // No font-size here: <select>s add text-sm at each usage, but the two
+  // free-text <input>s below need text-base (16px) on mobile — a focused
+  // input under 16px triggers an unwanted auto-zoom in iOS Safari.
+  const fieldClass =
+    "h-12 w-full rounded-lg border border-slate-300 bg-white px-3 text-slate-800 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-100 disabled:cursor-not-allowed disabled:bg-slate-50 disabled:text-slate-400";
+  const selectClass = `${fieldClass} text-sm`;
+  const inputClass = `${fieldClass} text-base sm:text-sm`;
 
   return (
-    <section ref={sectionRef} id="unified-form" className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16">
+    <section
+      ref={sectionRef}
+      id="unified-form"
+      className="scroll-mt-20 bg-[#f8fbff] px-4 py-9 sm:px-8 sm:py-12 lg:py-16"
+    >
       <div className="mx-auto max-w-3xl">
         <h2 className="text-2xl font-black leading-tight text-slate-950 sm:text-3xl">{tx.heading}</h2>
-        <p className="mt-2 text-[15px] leading-7 text-slate-600">{tx.sub}</p>
+        <p className="mt-2 text-sm leading-6 text-slate-600 sm:text-[15px] sm:leading-7">{tx.sub}</p>
 
         {/* Step 1 — category + service */}
-        <p className="mt-7 text-xs font-bold uppercase tracking-[0.14em] text-slate-400">{tx.step1}</p>
+        <p className="mt-6 text-xs font-bold uppercase tracking-[0.14em] text-slate-400">{tx.step1}</p>
         <div className="mt-3 grid grid-cols-2 gap-2">
           {(["doc", "map"] as const).map((key) => {
             const active = category === key;
@@ -401,24 +422,29 @@ export function UnifiedRecordForm() {
           })}
         </div>
 
-        {/* Step 2 — details card */}
-        <div className="mt-4 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm sm:p-6">
+        {/* Step 2 — details card. Each field group below only renders once the
+            one before it is filled in — "service-first" progressive disclosure.
+            Editing an earlier <select> re-collapses everything after it, so
+            there's no separate "back" control: changing a choice IS going back. */}
+        <div className="mt-4 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-6">
           <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
             <p className="text-xs font-bold uppercase tracking-[0.14em] text-slate-400">{tx.step2}</p>
-            <span className="rounded-md bg-green-50 px-3 py-1.5 text-sm font-black text-green-700">
-              {service.price[lang]}
-            </span>
+            {service && (
+              <span className="rounded-md bg-green-50 px-3 py-1.5 text-sm font-black text-green-700">
+                {service.price[lang]}
+              </span>
+            )}
           </div>
 
           <label className="mb-3 block">
             <span className="mb-1 block text-[12px] font-bold text-slate-600">{tx.category}</span>
             <select
               className={selectClass}
-              value={service.name.en}
+              value={service?.name.en ?? ""}
               onChange={(e) => {
-                const next = group.rows.find((r) => r.name.en === e.target.value);
+                const next = group.rows.find((r) => r.name.en === e.target.value) ?? null;
+                setService(next);
                 if (next) {
-                  setService(next);
                   trackFunnelEvent("enquiry_service_selected", {
                     lang,
                     service_key: serviceKeyOf(next),
@@ -429,6 +455,7 @@ export function UnifiedRecordForm() {
                 }
               }}
             >
+              <option value="">{tx.chooseService}</option>
               {group.rows.map((r) => (
                 <option key={r.name.en} value={r.name.en}>
                   {r.name[lang]} · {r.price[lang]}
@@ -437,85 +464,116 @@ export function UnifiedRecordForm() {
             </select>
           </label>
 
-          {/* Cascading location selects — stacked on mobile, row on desktop */}
-          <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
-            <select className={selectClass} value={districtId} onChange={(e) => handleDistrictChange(e.target.value)}>
-              <option value="">{tx.district}</option>
-              {sortedDistricts.map((d) => (
-                <option key={d.district_id} value={d.district_id}>
-                  {districtName(d, lang)}
-                </option>
-              ))}
-            </select>
-            <select
-              className={selectClass}
-              value={talukaId}
-              onChange={(e) => handleTalukaChange(e.target.value)}
-              disabled={!districtId}
-            >
-              <option value="">{tx.taluka}</option>
-              {sortedTalukas.map((t) => (
-                <option key={t.taluka_id} value={t.taluka_id}>
-                  {getTalukaDisplayNameRow(t, selectedDistrictRow, lang)}
-                </option>
-              ))}
-            </select>
-            <select
-              className={selectClass}
-              value={villageId}
-              onChange={(e) => handleVillageChange(e.target.value)}
-              disabled={!talukaId}
-            >
-              <option value="">{tx.village}</option>
-              {sortedVillages.map((v) => (
-                <option key={v.village_id} value={v.village_id}>
-                  {getVillageDisplayNameRow(v, selectedTalukaRow, selectedDistrictRow, lang)}
-                </option>
-              ))}
-            </select>
-          </div>
+          {service && (
+            <div className="ps-enter grid grid-cols-1 gap-2.5 sm:grid-cols-3">
+              <select
+                className={selectClass}
+                value={districtId}
+                onChange={(e) => handleDistrictChange(e.target.value)}
+              >
+                <option value="">{tx.district}</option>
+                {sortedDistricts.map((d) => (
+                  <option key={d.district_id} value={d.district_id}>
+                    {districtName(d, lang)}
+                  </option>
+                ))}
+              </select>
 
-          <div className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-2">
-            <input
-              className={selectClass}
-              placeholder={tx.survey}
-              value={survey}
-              onChange={(e) => setSurvey(e.target.value)}
-            />
-            <input
-              type="tel"
-              inputMode="numeric"
-              className={selectClass}
-              placeholder={tx.mobile}
-              value={mobile}
-              onChange={(e) => setMobile(e.target.value)}
-            />
-          </div>
+              {districtId && (
+                <select
+                  className={`${selectClass} ps-enter`}
+                  value={talukaId}
+                  onChange={(e) => handleTalukaChange(e.target.value)}
+                  // Redundant now that the select is only rendered once
+                  // districtId is set — kept as a zero-cost safety net.
+                  disabled={!districtId}
+                >
+                  <option value="">{tx.taluka}</option>
+                  {sortedTalukas.map((t) => (
+                    <option key={t.taluka_id} value={t.taluka_id}>
+                      {getTalukaDisplayNameRow(t, selectedDistrictRow, lang)}
+                    </option>
+                  ))}
+                </select>
+              )}
 
-          <div className="mt-4 flex flex-col items-stretch justify-between gap-3 border-t border-slate-200 pt-4 sm:flex-row sm:items-center">
-            <p className="max-w-sm text-xs leading-6 text-slate-500">{tx.note}</p>
-            <a
-              href={waHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => {
-                // Preserve the existing Meta "Contact"; funnel event carries no
-                // message/URL/number — just the stable service_key + step.
-                trackWhatsAppLead();
-                trackFunnelEvent("enquiry_whatsapp_generated", {
-                  lang,
-                  service_key: serviceKeyOf(service),
-                  surface: "unified-form",
-                  has_value: true,
-                  step: 5,
-                });
-              }}
-              className="inline-flex h-12 shrink-0 items-center justify-center gap-2 rounded-lg bg-green-600 px-5 text-sm font-bold text-white shadow-sm transition hover:bg-green-700"
-            >
-              <MessageCircle className="size-4" />
-              {tx.cta}
-            </a>
-          </div>
+              {talukaId && (
+                <select
+                  className={`${selectClass} ps-enter`}
+                  value={villageId}
+                  onChange={(e) => handleVillageChange(e.target.value)}
+                  disabled={!talukaId}
+                >
+                  <option value="">{tx.village}</option>
+                  {sortedVillages.map((v) => (
+                    <option key={v.village_id} value={v.village_id}>
+                      {getVillageDisplayNameRow(v, selectedTalukaRow, selectedDistrictRow, lang)}
+                    </option>
+                  ))}
+                </select>
+              )}
+            </div>
+          )}
+
+          {service && villageId && (
+            <>
+              <div className="ps-enter mt-3 grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+                <input
+                  className={inputClass}
+                  placeholder={tx.survey}
+                  value={survey}
+                  onChange={(e) => setSurvey(e.target.value)}
+                />
+                <input
+                  type="tel"
+                  inputMode="numeric"
+                  maxLength={10}
+                  autoComplete="tel"
+                  className={inputClass}
+                  placeholder={tx.mobile}
+                  value={mobile}
+                  onChange={(e) => setMobile(e.target.value.replace(/\D/g, ""))}
+                />
+              </div>
+
+              <div className="ps-enter mt-4 flex flex-col items-stretch gap-3 border-t border-slate-200 pt-4 sm:flex-row sm:items-center sm:justify-between">
+                {canSubmit ? (
+                  <a
+                    href={waHref}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onClick={() => {
+                      // Preserve the existing Meta "Contact"; funnel event carries no
+                      // message/URL/number — just the stable service_key + step.
+                      trackWhatsAppLead();
+                      trackFunnelEvent("enquiry_whatsapp_generated", {
+                        lang,
+                        service_key: serviceKeyOf(service),
+                        surface: "unified-form",
+                        has_value: true,
+                        step: 5,
+                      });
+                    }}
+                    className="order-1 inline-flex h-12 w-full shrink-0 items-center justify-center gap-2 rounded-lg bg-green-600 px-5 text-sm font-bold text-white shadow-sm transition hover:bg-green-700 sm:order-2 sm:w-auto"
+                  >
+                    <MessageCircle className="size-4" />
+                    {tx.cta}
+                  </a>
+                ) : (
+                  <span
+                    aria-disabled="true"
+                    className="order-1 inline-flex h-12 w-full shrink-0 cursor-not-allowed items-center justify-center gap-2 rounded-lg bg-green-600 px-5 text-sm font-bold text-white opacity-60 shadow-sm sm:order-2 sm:w-auto"
+                  >
+                    <MessageCircle className="size-4" />
+                    {tx.cta}
+                  </span>
+                )}
+                <p className="order-2 max-w-sm text-xs leading-6 text-slate-500 sm:order-1">
+                  {canSubmit ? tx.note : tx.ctaHint}
+                </p>
+              </div>
+            </>
+          )}
         </div>
       </div>
     </section>
