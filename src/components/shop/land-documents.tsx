@@ -18,6 +18,7 @@ import Link from "next/link";
 import { ArrowRight, Info, ScrollText } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
+import { ASK_PRICE, priceFor } from "@/lib/pricing-data";
 
 const t: Record<Lang, { eyebrow: string; heading: string; sub: string; note: string }> = {
   mr: {
@@ -39,6 +40,8 @@ interface DocCard {
   title: Record<Lang, string>;
   desc: Record<Lang, string>;
   href: string;
+  /** Exact `name.en` of the matching row in src/lib/pricing-data.ts. */
+  priceNameEn: string;
 }
 
 const cards: DocCard[] = [
@@ -50,6 +53,7 @@ const cards: DocCard[] = [
       en: "Survey number, area, crop and rights entries for a plot.",
     },
     href: "/satbara-utara-maharashtra/",
+    priceNameEn: "7/12 Extract",
   },
   {
     code: "8A",
@@ -59,6 +63,7 @@ const cards: DocCard[] = [
       en: "All holdings of one account-holder in a village, on one extract.",
     },
     href: "/8a-utara-maharashtra/",
+    priceNameEn: "8A Extract",
   },
   {
     code: "फेरफार",
@@ -68,6 +73,7 @@ const cards: DocCard[] = [
       en: "Records of ownership changes and the mutation entry number.",
     },
     href: "/e-ferfar-maharashtra/",
+    priceNameEn: "Mutation / Ferfar",
   },
   {
     code: "नकाशा",
@@ -77,6 +83,7 @@ const cards: DocCard[] = [
       en: "Village boundary and plot boundary lines on one map.",
     },
     href: "/gav-nakasha-maharashtra/",
+    priceNameEn: "Village Map",
   },
   {
     code: "PC",
@@ -86,6 +93,7 @@ const cards: DocCard[] = [
       en: "Ownership and rights records for an urban property.",
     },
     href: "/milkat-patrika-maharashtra/",
+    priceNameEn: "Property Card",
   },
   {
     code: "DP / TP",
@@ -95,6 +103,7 @@ const cards: DocCard[] = [
       en: "Development Plan, Town Planning and Regional Plan maps.",
     },
     href: "/dp-map-maharashtra/",
+    priceNameEn: "Development Plan",
   },
   {
     code: "अहवाल",
@@ -104,6 +113,7 @@ const cards: DocCard[] = [
       en: "Zone, map and record details compiled into one report.",
     },
     href: "/jameen-report-maharashtra/",
+    priceNameEn: "Google Map Zone-wise Land Report",
   },
   {
     code: "Index II",
@@ -113,6 +123,7 @@ const cards: DocCard[] = [
       en: "Summary of a registered document — ask us on WhatsApp.",
     },
     href: "/#unified-form",
+    priceNameEn: "Index II",
   },
 ];
 
@@ -124,7 +135,7 @@ export function LandDocuments() {
     <section
       id="land-documents"
       aria-labelledby="land-documents-heading"
-      className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24"
+      className="scroll-mt-24 bg-white px-4 py-12 sm:px-8 sm:py-16 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
@@ -138,35 +149,50 @@ export function LandDocuments() {
           >
             {tx.heading}
           </h2>
-          <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">{tx.sub}</p>
+          <p className="mt-4 max-w-2xl text-[15px] leading-7 text-slate-600 sm:text-lg sm:leading-8">{tx.sub}</p>
         </Reveal>
 
-        <Stagger as="ul" className="mt-11 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {cards.map((card) => (
-            <StaggerItem as="li" key={card.code}>
-              <Link
-                href={card.href}
-                className="group flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-blue-300 hover:shadow-[0_22px_46px_-24px_rgba(29,78,216,0.45)] motion-reduce:transform-none motion-reduce:transition-none"
-              >
-                <span className="inline-flex w-fit items-center rounded-lg bg-slate-100 px-2.5 py-1 text-[11.5px] font-black tracking-wide text-slate-600 transition group-hover:bg-blue-50 group-hover:text-blue-700">
-                  {card.code}
-                </span>
-                <h3 className="mt-4 text-lg font-black leading-tight text-slate-950">
-                  {card.title[lang]}
-                </h3>
-                <p className="mt-2 flex-1 text-[14px] leading-6 text-slate-600">
-                  {card.desc[lang]}
-                </p>
-                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-black text-blue-700">
-                  {lang === "mr" ? "पहा" : "Open"}
-                  <ArrowRight
-                    className="size-4 transition duration-300 group-hover:translate-x-1 motion-reduce:transform-none"
-                    aria-hidden="true"
-                  />
-                </span>
-              </Link>
-            </StaggerItem>
-          ))}
+        <Stagger as="ul" className="mt-7 grid gap-3 sm:mt-11 sm:grid-cols-2 sm:gap-4 lg:grid-cols-4">
+          {cards.map((card) => {
+            const priceRecord = priceFor(card.priceNameEn);
+            const isAsk = priceRecord === ASK_PRICE;
+            return (
+              <StaggerItem as="li" key={card.code}>
+                <Link
+                  href={card.href}
+                  className="group flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-blue-300 hover:shadow-[0_22px_46px_-24px_rgba(29,78,216,0.45)] motion-reduce:transform-none motion-reduce:transition-none sm:p-5"
+                >
+                  <div className="flex items-center justify-between gap-2">
+                    <span className="inline-flex w-fit items-center rounded-lg bg-slate-100 px-2.5 py-1 text-[11.5px] font-black tracking-wide text-slate-600 transition group-hover:bg-blue-50 group-hover:text-blue-700">
+                      {card.code}
+                    </span>
+                    <span
+                      className={
+                        isAsk
+                          ? "shrink-0 rounded-md bg-slate-100 px-1.5 py-0.5 text-right text-[10.5px] font-semibold leading-tight text-slate-600"
+                          : "shrink-0 rounded-md bg-green-50 px-2 py-1 text-[12px] font-black text-green-700"
+                      }
+                    >
+                      {priceRecord[lang]}
+                    </span>
+                  </div>
+                  <h3 className="mt-3 text-lg font-black leading-tight text-slate-950 sm:mt-4">
+                    {card.title[lang]}
+                  </h3>
+                  <p className="mt-2 line-clamp-2 flex-1 text-[14px] leading-6 text-slate-600 sm:line-clamp-none">
+                    {card.desc[lang]}
+                  </p>
+                  <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-black text-blue-700">
+                    {lang === "mr" ? "पहा" : "Open"}
+                    <ArrowRight
+                      className="size-4 transition duration-300 group-hover:translate-x-1 motion-reduce:transform-none"
+                      aria-hidden="true"
+                    />
+                  </span>
+                </Link>
+              </StaggerItem>
+            );
+          })}
         </Stagger>
 
         <Reveal delay={0.05}>

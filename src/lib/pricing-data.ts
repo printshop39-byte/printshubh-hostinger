@@ -46,3 +46,13 @@ export const PRICING_GROUPS: PriceGroup[] = [
     ],
   },
 ];
+
+/** Lookup by the English row name — e.g. for a card elsewhere that only knows its own English label. */
+export const PRICE_ROW_BY_EN: ReadonlyMap<string, PriceRow> = new Map(
+  PRICING_GROUPS.flatMap((group) => group.rows.map((row) => [row.name.en, row] as const)),
+);
+
+/** Price for a service by its English row name, falling back to ASK_PRICE if the name isn't found. */
+export function priceFor(nameEn: string): Record<Lang, string> {
+  return PRICE_ROW_BY_EN.get(nameEn)?.price ?? ASK_PRICE;
+}

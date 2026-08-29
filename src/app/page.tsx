@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
-import { QuickChips } from "@/components/quick-chips";
+import { MobileServiceShortcuts } from "@/components/mobile-service-shortcuts";
 import { UnifiedRecordForm } from "@/components/unified-record-form";
 import { SampleProcessSection } from "@/components/sample-process-section";
 import { MapPromo } from "@/components/map-promo";
@@ -55,8 +55,9 @@ export const metadata: Metadata = {
 
 /* ── Scroll order ───────────────────────────────────────────────────────
  *
- *   hero → services → whatsapp print → shop & work → 30+ years →
- *   land documents → enquiry form → maps → reviews → location → tools
+ *   hero → services → mobile shortcuts → whatsapp print → shop & work →
+ *   30+ years → land documents → enquiry form → maps → reviews →
+ *   location → tools
  *
  * The shape of that sequence is the argument the page makes: this is a real
  * shop (hero, services), here is the easiest way to use it (WhatsApp print),
@@ -85,6 +86,9 @@ export default function Home() {
         <ShopHero />
         <ServiceStrip />
 
+        {/* Mobile-only priced document/map shortcuts + free-tools row */}
+        <MobileServiceShortcuts />
+
         {/* The four things the shop does, given equal weight */}
         <ServicePillars />
 
@@ -105,9 +109,6 @@ export default function Home() {
 
         {/* Trust proof — sample previews, 3-step process, assurances */}
         <SampleProcessSection />
-
-        {/* Mobile-only quick shortcuts to the most-requested services */}
-        <QuickChips />
 
         {/* Map-services promo — DP / TPS / Regional Plan, from ₹200 */}
         <MapPromo />

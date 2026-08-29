@@ -76,7 +76,7 @@ export function MapPromo() {
   const waHref = buildWhatsAppUrl({ message: WHATSAPP_MESSAGE[lang], campaign: "map-promo" });
 
   return (
-    <section className="px-5 py-12 sm:px-8 lg:py-16">
+    <section id="maps" className="scroll-mt-20 px-5 py-12 sm:px-8 lg:py-16">
       <div className="mx-auto max-w-7xl overflow-hidden rounded-3xl border border-blue-200 bg-gradient-to-br from-blue-700 via-blue-700 to-blue-800 px-6 py-10 text-white shadow-sm sm:px-10 lg:py-12">
         <div className="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
           {/* Left — copy + CTA */}
