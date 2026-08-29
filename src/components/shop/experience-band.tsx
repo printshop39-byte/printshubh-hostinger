@@ -80,10 +80,14 @@ export function ExperienceBand() {
           <p className="mt-3 max-w-md text-lg leading-8 text-slate-600">{tx.sub}</p>
         </Reveal>
 
-        {/* Right — capability tiles, plus a customer count only if it is real */}
-        <Stagger as="ul" className="grid gap-3.5">
+        {/* Right — capability tiles, plus a customer count only if it is real.
+            Compact 2-up tiles on mobile (icon over label) so the band doesn't
+            cost five full-width screens of scroll; back to the original
+            single-column, icon-beside-label list from lg up, where this list
+            already sits in a narrower half-page column next to the figure. */}
+        <Stagger as="ul" className="grid grid-cols-2 gap-2.5 lg:grid-cols-1 lg:gap-3.5">
           {CUSTOMERS_SERVED !== null && (
-            <StaggerItem as="li">
+            <StaggerItem as="li" className="col-span-2 lg:col-span-1">
               <div className="ps-glass flex items-center gap-4 rounded-2xl px-5 py-5">
                 <span
                   aria-hidden="true"
@@ -103,14 +107,14 @@ export function ExperienceBand() {
 
           {capabilities.map(({ icon: Icon, label }) => (
             <StaggerItem as="li" key={label.en}>
-              <div className="ps-glass flex items-center gap-4 rounded-2xl px-5 py-5">
+              <div className="ps-glass flex h-full flex-col items-start gap-2 rounded-2xl px-3.5 py-3.5 lg:flex-row lg:items-center lg:gap-4 lg:px-5 lg:py-5">
                 <span
                   aria-hidden="true"
-                  className="grid size-12 shrink-0 place-items-center rounded-xl bg-blue-50 text-blue-700"
+                  className="grid size-9 shrink-0 place-items-center rounded-xl bg-blue-50 text-blue-700 lg:size-12"
                 >
-                  <Icon className="size-5" />
+                  <Icon className="size-4 lg:size-5" />
                 </span>
-                <p className="text-[15.5px] font-bold leading-6 text-slate-800">
+                <p className="text-[12.5px] font-bold leading-5 text-slate-800 lg:text-[15.5px] lg:leading-6">
                   {label[lang]}
                 </p>
               </div>
