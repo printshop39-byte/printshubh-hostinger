@@ -38,6 +38,8 @@ const securityHeaders = [
   },
 ];
 
+const RETIRED_HOSTS = ["printshubh.com", "www.printshubh.com"];
+
 const nextConfig: NextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
 
@@ -65,6 +67,8 @@ const nextConfig: NextConfig = {
    * local development and `next start` are unaffected. To exercise it
    * locally, send the header explicitly:
    *   curl -I -H "Host: printshubh.shop" http://localhost:3000/about */
+  /* Both forms of the retired domain. Listed once so a rule cannot be added
+   * for the apex and quietly forgotten for www. */
   async redirects() {
     return [
       {
@@ -74,38 +78,65 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       /*
-       * printshubh.com is being retired.
+       * printshubh.com is being retired, and its pages are moved here one by
+       * one rather than swept onto the homepage.
        *
-       * The WordPress site there is what Google shows first for "printshubh"
-       * today. Switching it off would throw that away — a dead domain passes
-       * nothing on. A 308 hands it to this site instead, which is the right
-       * destination because .com sold printing and gifts: someone searching
-       * the brand wants the shop, not the free tools.
+       * Why the explicit list: the old site is WordPress, and its slugs are
+       * not this site's slugs. A single per-path rule looked right and was
+       * mostly wrong — /about-us, /contact-us, /terms-conditions,
+       * /privacy-policy-2 and /return-refund-policy would each have landed on
+       * a 404 here. The list below is not guesswork: it is every page the old
+       * site has, read from its own API (12 pages, no posts, no products).
        *
-       * Per-path, not to the homepage: a redirect that dumps every old URL on
-       * "/" is treated as a soft 404 and passes far less than a page-to-page
-       * move. Old WordPress paths that have no equivalent here will land on
-       * this site's own 404, which is honest and still better than nothing.
+       * The commerce pages have no equivalent. /shop already redirects to the
+       * homepage on the old site and sells nothing; /cart, /checkout and
+       * /my-account are session pages with no content and no search value.
+       * Those go to the homepage, which is the honest destination.
        *
-       * A WordPress URL usually ends in a slash, and those take two hops:
-       * Next strips the trailing slash on the original host first, then this
-       * rule fires. Both are 308 and the destination is right, but it is a
-       * chain. Vercel's own per-domain "Redirect to" runs at the edge before
-       * the application and avoids it — prefer that if the domain is set up
-       * that way; this rule is the version-controlled fallback and does no
-       * harm alongside it.
+       * Anything not listed never existed, so it falls through to the general
+       * rule and reaches this site's own 404 — the right answer for a URL
+       * that was never real.
        *
-       * This rule does nothing until printshubh.com actually points at Vercel
-       * and is added to this project. Until then the request never reaches
-       * the application. Keep the domain registered — a redirect only works
-       * while it is yours.
+       * A WordPress URL usually ends in a slash and those take two hops: Next
+       * strips the trailing slash on the original host first, then these fire.
+       * Both are 308 and the destination is right, but it is a chain.
+       * Vercel's per-domain "Redirect to" runs at the edge and avoids it —
+       * prefer that if the domain is set up that way; these rules are the
+       * version-controlled fallback and do no harm alongside it.
+       *
+       * None of this does anything until printshubh.com actually points at
+       * Vercel and is added to this project. Keep the domain registered — a
+       * redirect only works while it is yours.
        */
-      {
+      ...Object.entries({
+        "/about-us": "/about",
+        "/contact-us": "/contact",
+        "/terms-conditions": "/terms",
+        "/privacy-policy-2": "/privacy",
+        "/return-refund-policy": "/refund",
+        // No shipping on this site; the policies that do apply live here.
+        "/shipping-policy": "/terms",
+        "/shop": "/",
+        "/cart": "/",
+        "/checkout": "/",
+        "/my-account": "/",
+      }).flatMap(([from, to]) =>
+        RETIRED_HOSTS.map((host) => ({
+          source: from,
+          has: [{ type: "host" as const, value: host }],
+          destination: `https://www.printshubh.shop${to}`,
+          permanent: true,
+        })),
+      ),
+
+      /* Everything else keeps its path: / and /faq already match, and a URL
+       * that never existed deserves a 404 rather than a soft landing. */
+      ...RETIRED_HOSTS.map((host) => ({
         source: "/:path*",
-        has: [{ type: "host", value: "(www\\.)?printshubh\\.com" }],
+        has: [{ type: "host" as const, value: host }],
         destination: "https://www.printshubh.shop/:path*",
         permanent: true,
-      },
+      })),
     ];
   },
 
