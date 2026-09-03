@@ -62,6 +62,9 @@ const tx: Record<
     builtFor: string;
     directions: string;
     hours: string;
+    toolsTitle: string;
+    toolsBody: string;
+    toolsCta: string;
   }
 > = {
   mr: {
@@ -107,6 +110,10 @@ const tx: Record<
     builtFor: "महाराष्ट्रासाठी.",
     directions: "दिशा दाखवा",
     hours: "वेळ",
+    toolsTitle: "मोफत साधने — PrintShubh.in",
+    toolsBody:
+      "फोटो Compress, PDF, आधार एका पानावर, Resume, सरकारी अर्ज नमुने आणि जमीन युनिट कन्व्हर्टर — मोफत, तुमच्याच ब्राउझरमध्ये.",
+    toolsCta: "साधने पहा",
   },
   en: {
     tagline:
@@ -149,6 +156,10 @@ const tx: Record<
     waCta: "Chat on WhatsApp",
     rights: "All rights reserved.",
     builtFor: "For Maharashtra.",
+    toolsTitle: "Free tools — PrintShubh.in",
+    toolsBody:
+      "Photo compressor, PDF tools, Aadhaar on one page, resume builder, government application templates and a land unit converter — free, in your own browser.",
+    toolsCta: "Open the tools",
     directions: "Directions",
     hours: "Hours",
   },
@@ -312,6 +323,28 @@ export function SiteFooter() {
               )}
             </ul>
           </div>
+        </div>
+
+        {/*
+          The free-tools site, linked from every page here.
+          The two sites are the same business but were strangers to each
+          other: nothing on .shop pointed at .in, which is one reason the
+          newer site does not show up in search at all. A plain, followed
+          link in a site-wide footer is the cheapest way to fix that, and
+          it is useful to a reader too — someone who came for a 7/12 often
+          also needs a photo compressed to 50KB.
+        */}
+        <div className="mt-12 rounded-xl bg-white/5 p-5 ring-1 ring-inset ring-white/10 sm:flex sm:items-center sm:justify-between sm:gap-6">
+          <div>
+            <p className="text-[14px] font-black text-slate-100">{t.toolsTitle}</p>
+            <p className="mt-1 max-w-2xl text-[13.5px] leading-6 text-slate-400">{t.toolsBody}</p>
+          </div>
+          <a
+            href="https://www.printshubh.in"
+            className="mt-4 inline-flex h-11 shrink-0 items-center justify-center rounded-md bg-white/10 px-5 text-[13.5px] font-bold text-white ring-1 ring-inset ring-white/15 transition hover:bg-white/15 sm:mt-0"
+          >
+            {t.toolsCta}
+          </a>
         </div>
 
         <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 text-[12px] font-semibold text-slate-500 sm:flex-row sm:items-center">
