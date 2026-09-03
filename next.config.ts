@@ -73,6 +73,39 @@ const nextConfig: NextConfig = {
         destination: "https://www.printshubh.shop/:path*",
         permanent: true,
       },
+      /*
+       * printshubh.com is being retired.
+       *
+       * The WordPress site there is what Google shows first for "printshubh"
+       * today. Switching it off would throw that away — a dead domain passes
+       * nothing on. A 308 hands it to this site instead, which is the right
+       * destination because .com sold printing and gifts: someone searching
+       * the brand wants the shop, not the free tools.
+       *
+       * Per-path, not to the homepage: a redirect that dumps every old URL on
+       * "/" is treated as a soft 404 and passes far less than a page-to-page
+       * move. Old WordPress paths that have no equivalent here will land on
+       * this site's own 404, which is honest and still better than nothing.
+       *
+       * A WordPress URL usually ends in a slash, and those take two hops:
+       * Next strips the trailing slash on the original host first, then this
+       * rule fires. Both are 308 and the destination is right, but it is a
+       * chain. Vercel's own per-domain "Redirect to" runs at the edge before
+       * the application and avoids it — prefer that if the domain is set up
+       * that way; this rule is the version-controlled fallback and does no
+       * harm alongside it.
+       *
+       * This rule does nothing until printshubh.com actually points at Vercel
+       * and is added to this project. Until then the request never reaches
+       * the application. Keep the domain registered — a redirect only works
+       * while it is yours.
+       */
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "(www\\.)?printshubh\\.com" }],
+        destination: "https://www.printshubh.shop/:path*",
+        permanent: true,
+      },
     ];
   },
 
