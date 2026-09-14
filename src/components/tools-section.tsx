@@ -7,7 +7,7 @@
  */
 
 import Link from "next/link";
-import { ArrowRight, Calculator, FileText, Landmark } from "lucide-react";
+import { ArrowRight, Calculator, FileText, Landmark, Ruler } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 
 interface Tool {
@@ -43,6 +43,15 @@ const TOOLS: Tool[] = [
     desc: {
       mr: "तालुका व झोननिहाय सरकारी जमीन-मूल्य दर.",
       en: "Government land-value rates by taluka and zone.",
+    },
+  },
+  {
+    href: "/land-unit-converter/",
+    icon: Ruler,
+    title: { mr: "जमीन क्षेत्र रूपांतरक", en: "Land Unit Converter" },
+    desc: {
+      mr: "गुंठा, एकर, हेक्टर व चौ. फूट यांच्यातील रूपांतरण.",
+      en: "Convert between guntha, acre, hectare and sq.ft.",
     },
   },
 ];

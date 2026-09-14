@@ -27,6 +27,7 @@ import {
   X,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
+import { formatAcreGuntha } from "@/lib/calculators/land-unit";
 import {
   DISTRICT_ID_FALLBACK_EN,
   DISTRICT_MR_MAP,
@@ -237,15 +238,6 @@ function approxAreaSqMeters(coords: LngLat[]): number {
     sum += x1 * y2 - x2 * y1;
   }
   return Math.abs(sum) / 2;
-}
-
-function formatAreaPair(sqm: number, lang: Lang): string {
-  const acre = sqm / 4046.8564224;
-  const guntha = sqm / 101.171;
-  if (lang === "mr") {
-    return `${sqm.toFixed(0)} वर्ग मीटर · ${acre.toFixed(3)} एकर · ${guntha.toFixed(2)} गुंठा`;
-  }
-  return `${sqm.toFixed(0)} sq.m · ${acre.toFixed(3)} acre · ${guntha.toFixed(2)} guntha`;
 }
 
 /* ── Geodesic edge helpers (boundary dimensions) ──────────────────────────────
@@ -2548,7 +2540,7 @@ export function MapReferenceSection() {
                   <div className="sm:col-span-2">
                     <span className="text-slate-500">{tx.area}: </span>
                     <span className="font-black text-orange-900">
-                      {formatAreaPair(plotAreaSqm, lang)}
+                      {formatAcreGuntha(plotAreaSqm, lang)}
                     </span>
                   </div>
                   <div className="sm:col-span-2">
