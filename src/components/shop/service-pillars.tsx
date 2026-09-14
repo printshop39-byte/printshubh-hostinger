@@ -45,10 +45,13 @@ export function ServicePillars() {
   return (
     <section
       id="services"
-      className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24"
+      className="relative scroll-mt-24 overflow-hidden bg-gradient-to-b from-white via-slate-50/70 to-white px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
+          <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-blue-700">
+            {lang === "mr" ? "एका ठिकाणी सर्व सेवा" : "Everything in one place"}
+          </p>
           <h2 className="max-w-3xl text-3xl font-black leading-[1.12] tracking-tight text-slate-950 sm:text-4xl lg:text-[2.75rem]">
             {tx.heading}
           </h2>
@@ -71,9 +74,9 @@ export function ServicePillars() {
 
             return (
               <StaggerItem as="li" key={group.key}>
-                <article className="group flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-blue-300 hover:shadow-[0_24px_50px_-24px_rgba(29,78,216,0.45)] motion-reduce:transform-none motion-reduce:transition-none">
+                <article className="group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-blue-600 before:via-cyan-400 before:to-amber-300 hover:-translate-y-1.5 hover:border-blue-300 hover:shadow-[0_28px_60px_-28px_rgba(29,78,216,.5)] motion-reduce:transform-none motion-reduce:transition-none">
                   <div className="flex items-start justify-between">
-                    <span className="grid size-12 place-items-center rounded-xl bg-blue-50 p-1.5 transition duration-300 group-hover:-translate-y-1 motion-reduce:transform-none">
+                    <span className="grid size-16 place-items-center rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 to-white p-2 shadow-[0_12px_25px_-18px_rgba(37,99,235,.7)] transition duration-300 group-hover:-translate-y-1 group-hover:scale-105 motion-reduce:transform-none">
                       <Icon className="h-full w-full" />
                     </span>
                     <span className="text-[11px] font-black tracking-[0.2em] text-slate-300">
@@ -115,7 +118,7 @@ export function ServicePillars() {
                   <div className="mt-6 flex flex-col gap-2 border-t border-slate-100 pt-4">
                     <Link
                       href={group.href}
-                      className="inline-flex min-h-[44px] items-center gap-1.5 text-sm font-black text-blue-700"
+                      className="inline-flex min-h-[44px] items-center justify-center gap-1.5 rounded-xl bg-slate-950 px-4 text-sm font-black text-white shadow-sm transition hover:bg-blue-700"
                     >
                       {group.cta[lang]}
                       <ArrowRight
@@ -135,7 +138,7 @@ export function ServicePillars() {
                           service_key: group.key,
                         });
                       }}
-                      className="inline-flex min-h-[44px] items-center gap-1.5 text-sm font-bold text-slate-500 transition hover:text-green-700"
+                      className="inline-flex min-h-[44px] items-center justify-center gap-1.5 rounded-xl border border-green-200 bg-green-50 px-4 text-sm font-bold text-green-800 transition hover:border-green-300 hover:bg-green-100"
                     >
                       <MessageCircle className="size-3.5" aria-hidden="true" />
                       {tx.ask}
