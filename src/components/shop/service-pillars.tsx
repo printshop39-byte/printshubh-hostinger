@@ -21,6 +21,7 @@ import { useLang, type Lang } from "@/components/language-context";
 import { SERVICE_GROUPS } from "@/lib/shop-services";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { trackFunnelEvent } from "@/lib/analytics";
 import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 import { SERVICE_ICONS } from "@/components/shop/service-icons";
 
@@ -42,16 +43,24 @@ export function ServicePillars() {
   const tx = t[lang];
 
   return (
-    <section id="services" className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24">
+    <section
+      id="services"
+      className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24"
+    >
       <div className="mx-auto max-w-7xl">
         <Reveal>
           <h2 className="max-w-3xl text-3xl font-black leading-[1.12] tracking-tight text-slate-950 sm:text-4xl lg:text-[2.75rem]">
             {tx.heading}
           </h2>
-          <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">{tx.sub}</p>
+          <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">
+            {tx.sub}
+          </p>
         </Reveal>
 
-        <Stagger as="ul" className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        <Stagger
+          as="ul"
+          className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4"
+        >
           {SERVICE_GROUPS.map((group, index) => {
             const waHref = buildWhatsAppUrl({
               message: group.whatsapp[lang],
@@ -118,7 +127,14 @@ export function ServicePillars() {
                       href={waHref}
                       target="_blank"
                       rel="noopener noreferrer"
-                      onClick={() => trackWhatsAppLead()}
+                      onClick={() => {
+                        trackWhatsAppLead();
+                        trackFunnelEvent("service_whatsapp_click", {
+                          lang,
+                          surface: "service-pillars",
+                          service_key: group.key,
+                        });
+                      }}
                       className="inline-flex min-h-[44px] items-center gap-1.5 text-sm font-bold text-slate-500 transition hover:text-green-700"
                     >
                       <MessageCircle className="size-3.5" aria-hidden="true" />
