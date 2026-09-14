@@ -25,6 +25,7 @@ import { Menu, MessageCircle, X } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { SiteSearch } from "@/components/site-search";
 
 interface NavItem {
   label: Record<Lang, string>;
@@ -201,6 +202,8 @@ export function SiteHeader() {
 
         {/* Right cluster */}
         <div className="flex shrink-0 items-center gap-2">
+          <SiteSearch />
+
           <div className="inline-flex overflow-hidden rounded-lg border border-slate-300 text-[11px] font-black">
             {(["mr", "en"] as Lang[]).map((code) => (
               <button
