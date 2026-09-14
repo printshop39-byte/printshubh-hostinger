@@ -13,9 +13,10 @@
  *     // e.detail = { event, properties }  ← already sanitised, see below
  *   });
  *
- * With no listener attached this is a safe no-op, which is the current state.
- * It does NOT touch the Meta Pixel — `trackWhatsAppLead()` (Contact) stays
- * separate.
+ * With no listener attached this is a safe no-op. `src/components/ga4-analytics.tsx`
+ * subscribes and forwards each event to GA4 once NEXT_PUBLIC_GA_MEASUREMENT_ID
+ * is set — until then it's still a no-op. This does NOT touch the Meta Pixel —
+ * `trackWhatsAppLead()` (Contact) stays separate.
  *
  * HISTORY: this previously called `track()` from `@vercel/analytics`. On
  * Hostinger that endpoint (/_vercel/insights/script.js) 404s, so every event
@@ -56,6 +57,7 @@ const FUNNEL_EVENTS = [
   "sample_section_view",
   "map_promo_whatsapp_click",
   "pricing_whatsapp_click",
+  "search_used",
 ] as const;
 
 export type FunnelEventName = (typeof FUNNEL_EVENTS)[number];
