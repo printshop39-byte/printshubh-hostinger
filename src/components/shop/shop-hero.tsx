@@ -23,14 +23,22 @@
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { ArrowRight, Info, MessageCircle, Sparkles } from "lucide-react";
+import { ArrowRight, FileText, Info, Printer, Sparkles } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
-import { BRAND_LINE, BRAND_NAME, SHOP_PHOTOS, YEARS_EXPERIENCE } from "@/lib/shop-profile";
+import {
+  BRAND_LINE,
+  BRAND_NAME,
+  SHOP_PHOTOS,
+  YEARS_EXPERIENCE,
+} from "@/lib/shop-profile";
 import { PrintDeskVisual } from "@/components/shop/print-desk-visual";
-import { SERVICE_ICONS, type ServiceIconKey } from "@/components/shop/service-icons";
+import {
+  SERVICE_ICONS,
+  type ServiceIconKey,
+} from "@/components/shop/service-icons";
 import {
   Magnetic,
   useCalmMotion,
@@ -43,10 +51,15 @@ const t: Record<
   Lang,
   {
     badge: string;
-    services: string;
+    eyebrow: string;
+    headline: string;
     support: string;
-    ctaPrimary: string;
-    ctaSecondary: string;
+    printingTitle: string;
+    printingBody: string;
+    printingCta: string;
+    landTitle: string;
+    landBody: string;
+    landCta: string;
     trust: string[];
     whatsappMessage: string;
     disclaimer: string;
@@ -54,11 +67,16 @@ const t: Record<
 > = {
   mr: {
     badge: "स्थानिक दुकान • डिजिटल सेवा",
-    services: "Xerox • Printing • Photo • Online Services",
+    eyebrow: `${BRAND_NAME} ${BRAND_LINE}`,
+    headline: "प्रिंटिंग असो किंवा जमीन कागदपत्रे — काम WhatsApp वरून सुरू करा",
     support:
-      "दैनंदिन प्रिंटिंगपासून जमीन कागदपत्रांपर्यंत — सर्व डिजिटल व प्रिंट सेवा एकाच ठिकाणी.",
-    ctaPrimary: "WhatsApp वर PDF पाठवा",
-    ctaSecondary: "आमच्या सेवा पहा",
+      "PDF, फोटो किंवा जमिनीची माहिती पाठवा. किंमत आणि उपलब्धता आधी कळवूनच काम सुरू केले जाईल.",
+    printingTitle: "प्रिंटिंग व फोटो",
+    printingBody: "PDF / फोटो पाठवा • किंमत व तयार होण्याची वेळ विचारा",
+    printingCta: "फाइल पाठवा",
+    landTitle: "जमीन कागदपत्रे",
+    landBody: "7/12, 8A, गाव नकाशा, मिळकत पत्रिका व DP / TP",
+    landCta: "रेकॉर्ड निवडा",
     trust: [
       `${YEARS_EXPERIENCE}+ वर्षांचा अनुभव`,
       "अधिकृत स्रोतांवर आधारित",
@@ -71,11 +89,16 @@ const t: Record<
   },
   en: {
     badge: "Local shop • Digital services",
-    services: "Xerox • Printing • Photo • Online Services",
+    eyebrow: `${BRAND_NAME} ${BRAND_LINE}`,
+    headline: "Printing or land documents — start your job on WhatsApp",
     support:
-      "From everyday printing to land documents — every print and digital service in one place.",
-    ctaPrimary: "Send a PDF on WhatsApp",
-    ctaSecondary: "See our services",
+      "Send a PDF, photo or land details. We confirm price and availability before starting.",
+    printingTitle: "Printing & photos",
+    printingBody: "Send a PDF / photo • ask for price and turnaround",
+    printingCta: "Send a file",
+    landTitle: "Land documents",
+    landBody: "7/12, 8A, village map, property card and DP / TP",
+    landCta: "Choose a record",
     trust: [
       `${YEARS_EXPERIENCE}+ years of experience`,
       "Based on official sources",
@@ -170,7 +193,12 @@ function HeroTile({
   return (
     <motion.div
       className="absolute"
-      style={{ top: tile.top, left: tile.left, x: animate ? x : 0, y: animate ? y : 0 }}
+      style={{
+        top: tile.top,
+        left: tile.left,
+        x: animate ? x : 0,
+        y: animate ? y : 0,
+      }}
     >
       <div
         className="ps-float ps-glass flex items-center gap-2.5 rounded-xl px-3.5 py-2.5"
@@ -206,10 +234,10 @@ export function ShopHero() {
   const parallaxOn = fine && !calm;
   const { px, py, onMouseMove, onMouseLeave } = usePointerParallax(parallaxOn);
 
-  const waHref = buildWhatsAppUrl({
+  const printWaHref = buildWhatsAppUrl({
     message: tx.whatsappMessage,
     campaign: "hero",
-    content: "send-pdf",
+    content: "printing-intent",
   });
 
   // Once real shop photography exists, the hero leads with it instead of
@@ -229,65 +257,88 @@ export function ShopHero() {
             {tx.badge}
           </p>
 
-          {/* The brand name IS the headline. Two lines, both part of the
-              same <h1> so search engines read one continuous title. */}
-          <h1
-            className="ps-enter mt-5 text-[2.6rem] font-black leading-[0.98] tracking-[-0.02em] text-slate-950 sm:text-6xl lg:text-[4.2rem]"
+          <p
+            className="ps-enter mt-5 text-sm font-black uppercase tracking-[0.12em] text-blue-700"
             style={{ "--ps-delay": "70ms" } as React.CSSProperties}
           >
-            {BRAND_NAME}
-            <span className="mt-1 block bg-gradient-to-r from-blue-700 to-sky-600 bg-clip-text text-transparent">
-              {BRAND_LINE}
-            </span>
+            {tx.eyebrow}
+          </p>
+
+          <h1
+            className="ps-enter mt-3 max-w-2xl text-[2.35rem] font-black leading-[1.05] tracking-[-0.025em] text-slate-950 sm:text-5xl lg:text-[3.5rem]"
+            style={{ "--ps-delay": "120ms" } as React.CSSProperties}
+          >
+            {tx.headline}
           </h1>
 
           <p
-            className="ps-enter mt-4 text-base font-bold uppercase tracking-[0.06em] text-slate-500 sm:text-lg"
-            style={{ "--ps-delay": "140ms" } as React.CSSProperties}
-          >
-            {tx.services}
-          </p>
-
-          <p
             className="ps-enter mt-4 max-w-xl text-lg leading-8 text-slate-700"
-            style={{ "--ps-delay": "200ms" } as React.CSSProperties}
+            style={{ "--ps-delay": "180ms" } as React.CSSProperties}
           >
             {tx.support}
           </p>
 
           <div
-            className="ps-enter mt-7 flex flex-col gap-3 sm:flex-row"
-            style={{ "--ps-delay": "260ms" } as React.CSSProperties}
+            className="ps-enter mt-7 grid gap-3 sm:grid-cols-2"
+            style={{ "--ps-delay": "240ms" } as React.CSSProperties}
           >
-            <Magnetic>
+            <Magnetic className="h-full">
               <a
-                href={waHref}
+                href={printWaHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => {
                   trackWhatsAppLead();
-                  trackFunnelEvent("hero_whatsapp_click", { lang, surface: "hero" });
+                  trackFunnelEvent("hero_intent_click", {
+                    lang,
+                    surface: "hero",
+                    service_key: "printing",
+                  });
                 }}
-                className="inline-flex h-[54px] w-full items-center justify-center gap-2.5 rounded-xl bg-green-600 px-6 text-base font-black text-white shadow-lg shadow-green-600/25 transition hover:bg-green-700 sm:w-auto"
+                className="group flex h-full min-h-[132px] w-full flex-col items-start rounded-2xl bg-green-600 p-5 text-left text-white shadow-lg shadow-green-600/20 transition hover:-translate-y-0.5 hover:bg-green-700 motion-reduce:transform-none"
               >
-                <MessageCircle className="size-5" aria-hidden="true" />
-                {tx.ctaPrimary}
+                <span className="flex items-center gap-2 text-lg font-black">
+                  <Printer className="size-5" aria-hidden="true" />
+                  {tx.printingTitle}
+                </span>
+                <span className="mt-2 text-sm font-semibold leading-5 text-green-50">
+                  {tx.printingBody}
+                </span>
+                <span className="mt-auto flex items-center gap-1 pt-3 text-sm font-black">
+                  {tx.printingCta}
+                  <ArrowRight
+                    className="size-4 transition group-hover:translate-x-1"
+                    aria-hidden="true"
+                  />
+                </span>
               </a>
             </Magnetic>
-
-            <a
-              href="#services"
+            <Link
+              href="#unified-form"
               onClick={() =>
-                trackFunnelEvent("hero_primary_cta_click", { lang, surface: "hero" })
+                trackFunnelEvent("hero_intent_click", {
+                  lang,
+                  surface: "hero",
+                  service_key: "land",
+                })
               }
-              className="group inline-flex h-[54px] items-center justify-center gap-2 rounded-xl border border-slate-300 bg-white px-6 text-base font-black text-slate-800 shadow-sm transition hover:border-blue-300 hover:text-blue-800"
+              className="group flex min-h-[132px] flex-col items-start rounded-2xl border border-blue-200 bg-white p-5 text-left shadow-sm transition hover:-translate-y-0.5 hover:border-blue-400 hover:shadow-lg motion-reduce:transform-none"
             >
-              {tx.ctaSecondary}
-              <ArrowRight
-                className="size-4 transition group-hover:translate-x-1"
-                aria-hidden="true"
-              />
-            </a>
+              <span className="flex items-center gap-2 text-lg font-black text-slate-950">
+                <FileText className="size-5 text-blue-700" aria-hidden="true" />
+                {tx.landTitle}
+              </span>
+              <span className="mt-2 text-sm font-semibold leading-5 text-slate-600">
+                {tx.landBody}
+              </span>
+              <span className="mt-auto flex items-center gap-1 pt-3 text-sm font-black text-blue-700">
+                {tx.landCta}
+                <ArrowRight
+                  className="size-4 transition group-hover:translate-x-1"
+                  aria-hidden="true"
+                />
+              </span>
+            </Link>
           </div>
 
           {/* Trust micro-line — every item is a claim the site already makes
@@ -319,7 +370,10 @@ export function ShopHero() {
             className="ps-enter mt-5 flex max-w-xl items-start gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-[12.5px] font-semibold leading-6 text-amber-900"
             style={{ "--ps-delay": "380ms" } as React.CSSProperties}
           >
-            <Info className="mt-1 size-3.5 shrink-0 text-amber-700" aria-hidden="true" />
+            <Info
+              className="mt-1 size-3.5 shrink-0 text-amber-700"
+              aria-hidden="true"
+            />
             <span>{tx.disclaimer}</span>
           </p>
         </div>
@@ -361,20 +415,6 @@ export function ShopHero() {
             ))}
           </div>
         </div>
-      </div>
-
-      {/* Quiet link out to the land-document half for visitors who arrived
-          from a 7/12 search and need it to still be one click away. */}
-      <div className="mx-auto max-w-7xl px-5 pb-6 sm:px-8">
-        <Link
-          href="#land-documents"
-          className="inline-flex min-h-[44px] items-center gap-1.5 text-sm font-bold text-blue-700 underline-offset-4 transition hover:underline"
-        >
-          {lang === "mr"
-            ? "जमीन कागदपत्रांसाठी आलात? इथे पहा"
-            : "Here for land documents? Jump straight there"}
-          <ArrowRight className="size-3.5" aria-hidden="true" />
-        </Link>
       </div>
     </section>
   );
