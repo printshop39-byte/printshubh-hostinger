@@ -5,6 +5,8 @@ import "./globals.css";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { LanguageProvider } from "@/components/language-context";
 import { MetaPixel } from "@/components/meta-pixel";
+import { GA4Analytics } from "@/components/ga4-analytics";
+import { ClarityAnalytics } from "@/components/clarity-analytics";
 import { MobileBottomNav } from "@/components/mobile-bottom-nav";
 import { HydrationFlag } from "@/components/hydration-flag";
 import { LocalBusinessJsonLd } from "@/components/shop/local-business-jsonld";
@@ -223,20 +225,19 @@ export default function RootLayout({
       <body className="flex min-h-full flex-col antialiased pb-16 md:pb-0">
         <HydrationFlag />
         <MetaPixel />
+        {/* GA4 + Clarity are the funnel channel's first real subscribers.
+            @vercel/analytics stays excluded — it only works behind Vercel's
+            edge and 404s on Hostinger (see the history note in
+            src/lib/analytics.ts). Both components below are OFF by default
+            and render nothing until their env var is set. */}
+        <GA4Analytics />
+        <ClarityAnalytics />
         <LanguageProvider>
           {children}
           {/* App-style sticky bottom nav — mobile only */}
           <MobileBottomNav />
         </LanguageProvider>
         <Script src="/price-assistant.js" strategy="afterInteractive" />
-        {/* No web-analytics provider is mounted. This site is hosted on
-            Hostinger, and @vercel/analytics only works behind Vercel's edge —
-            elsewhere it 404s on /_vercel/insights/script.js and logs a console
-            error on every page view.
-
-            Funnel events still flow: src/lib/analytics.ts dispatches them on
-            the `printshubh:funnel` DOM channel, where a self-hosted analytics
-            snippet or tag manager can subscribe. See FUNNEL_CHANNEL there. */}
       </body>
     </html>
   );

@@ -47,6 +47,7 @@ const tools: Tool[] = [
   { emoji: "🧮", label: { mr: "EMI कॅल्क", en: "EMI" }, href: "/home-loan-emi/" },
   { emoji: "💰", label: { mr: "स्टॅम्प ड्युटी", en: "Stamp Duty" }, href: "/stamp-duty/" },
   { emoji: "📊", label: { mr: "रेडी रेकनर", en: "Ready Reckoner" }, href: "/ready-reckoner/" },
+  { emoji: "📐", label: { mr: "क्षेत्र रूपांतरक", en: "Unit Converter" }, href: "/land-unit-converter/" },
 ];
 
 const toolsHeading: Record<Lang, string> = { mr: "मोफत साधने", en: "Free Tools" };
