@@ -3,12 +3,8 @@
 import Link from "next/link";
 import {
   ArrowRight,
-  Camera,
   CheckCircle2,
-  FileText,
-  MapPinned,
   MessageCircle,
-  Printer,
   Sparkles,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
@@ -16,6 +12,10 @@ import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { BRAND_LINE, BRAND_NAME, YEARS_EXPERIENCE } from "@/lib/shop-profile";
+import {
+  SERVICE_ICONS,
+  type ServiceIconKey,
+} from "@/components/shop/service-icons";
 
 const copy = {
   mr: {
@@ -70,7 +70,7 @@ const copy = {
 
 type Intent = {
   key: "printing" | "photo" | "land" | "maps";
-  icon: typeof Printer;
+  iconKey: ServiceIconKey;
   titleKey: "printTitle" | "photoTitle" | "landTitle" | "mapTitle";
   bodyKey: "printBody" | "photoBody" | "landBody" | "mapBody";
   href: string;
@@ -80,7 +80,7 @@ type Intent = {
 const intents: Intent[] = [
   {
     key: "printing",
-    icon: Printer,
+    iconKey: "printer",
     titleKey: "printTitle",
     bodyKey: "printBody",
     href: "whatsapp",
@@ -88,21 +88,21 @@ const intents: Intent[] = [
   },
   {
     key: "photo",
-    icon: Camera,
+    iconKey: "photo",
     titleKey: "photoTitle",
     bodyKey: "photoBody",
     href: "/photo-services",
   },
   {
     key: "land",
-    icon: FileText,
+    iconKey: "land",
     titleKey: "landTitle",
     bodyKey: "landBody",
     href: "/#unified-form",
   },
   {
     key: "maps",
-    icon: MapPinned,
+    iconKey: "digital",
     titleKey: "mapTitle",
     bodyKey: "mapBody",
     href: "/#maps",
@@ -205,12 +205,12 @@ export function ShopHero() {
           </h2>
           <div className="mt-5 grid gap-3 sm:grid-cols-2">
             {intents.map((intent) => {
-              const Icon = intent.icon;
+              const Icon = SERVICE_ICONS[intent.iconKey];
               const href = intent.href === "whatsapp" ? printHref : intent.href;
               const card = (
                 <>
-                  <span className="grid size-11 place-items-center rounded-xl bg-blue-500/15 text-blue-200 transition group-hover:bg-blue-500 group-hover:text-white">
-                    <Icon className="size-5" aria-hidden="true" />
+                  <span className="grid size-14 place-items-center rounded-2xl border border-white/10 bg-gradient-to-br from-white/15 to-white/[.04] p-1.5 shadow-inner transition group-hover:scale-105 group-hover:border-amber-300/40">
+                    <Icon className="h-full w-full drop-shadow-lg" />
                   </span>
                   <span className="mt-4 text-base font-black text-white">
                     {tx[intent.titleKey] as string}
@@ -218,14 +218,17 @@ export function ShopHero() {
                   <span className="mt-1 text-sm leading-5 text-slate-400">
                     {tx[intent.bodyKey] as string}
                   </span>
-                  <ArrowRight
-                    className="mt-4 size-4 text-amber-300 transition group-hover:translate-x-1"
-                    aria-hidden="true"
-                  />
+                  <span className="mt-4 inline-flex items-center gap-1 text-xs font-black uppercase tracking-wide text-amber-300">
+                    {lang === "mr" ? "उघडा" : "Open"}
+                    <ArrowRight
+                      className="size-4 transition group-hover:translate-x-1"
+                      aria-hidden="true"
+                    />
+                  </span>
                 </>
               );
               const classes =
-                "group flex min-h-[168px] flex-col rounded-2xl border border-white/10 bg-slate-900/80 p-4 text-left transition hover:-translate-y-1 hover:border-blue-400/60 hover:bg-slate-900 motion-reduce:transform-none";
+                "group relative flex min-h-[184px] flex-col overflow-hidden rounded-2xl border border-white/10 bg-gradient-to-br from-slate-800/95 to-slate-950 p-4 text-left shadow-[0_14px_35px_-24px_rgba(59,130,246,.9)] transition hover:-translate-y-1 hover:border-amber-300/40 hover:shadow-[0_22px_50px_-24px_rgba(251,191,36,.48)] motion-reduce:transform-none";
               return intent.external ? (
                 <a
                   key={intent.key}
