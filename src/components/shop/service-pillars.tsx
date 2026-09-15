@@ -21,8 +21,10 @@ import { useLang, type Lang } from "@/components/language-context";
 import { SERVICE_GROUPS } from "@/lib/shop-services";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
+import { trackFunnelEvent } from "@/lib/analytics";
 import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 import { SERVICE_ICONS } from "@/components/shop/service-icons";
+import { ServiceMotionVisual } from "@/components/shop/service-motion-visual";
 
 const t: Record<Lang, { heading: string; sub: string; ask: string }> = {
   mr: {
@@ -37,21 +39,58 @@ const t: Record<Lang, { heading: string; sub: string; ask: string }> = {
   },
 };
 
+const CARD_THEME: Record<
+  (typeof SERVICE_GROUPS)[number]["key"],
+  { card: string; badge: string; icon: string }
+> = {
+  printing: {
+    card: "hover:border-cyan-300 hover:shadow-[0_28px_60px_-28px_rgba(6,182,212,.5)]",
+    badge: "border-cyan-200/80 bg-cyan-50/85 text-cyan-700",
+    icon: "from-cyan-50 to-sky-100",
+  },
+  photo: {
+    card: "hover:border-amber-300 hover:shadow-[0_28px_60px_-28px_rgba(245,158,11,.5)]",
+    badge: "border-amber-200/80 bg-amber-50/85 text-amber-700",
+    icon: "from-orange-50 to-rose-100",
+  },
+  land: {
+    card: "hover:border-blue-300 hover:shadow-[0_28px_60px_-28px_rgba(37,99,235,.5)]",
+    badge: "border-blue-200/80 bg-blue-50/85 text-blue-700",
+    icon: "from-blue-50 to-indigo-100",
+  },
+  digital: {
+    card: "hover:border-violet-300 hover:shadow-[0_28px_60px_-28px_rgba(124,58,237,.5)]",
+    badge: "border-violet-200/80 bg-violet-50/85 text-violet-700",
+    icon: "from-indigo-50 to-violet-100",
+  },
+};
+
 export function ServicePillars() {
   const { lang } = useLang();
   const tx = t[lang];
 
   return (
-    <section id="services" className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24">
+    <section
+      id="services"
+      className="relative scroll-mt-24 overflow-hidden bg-gradient-to-b from-white via-slate-50/70 to-white px-5 py-16 sm:px-8 lg:py-24"
+    >
       <div className="mx-auto max-w-7xl">
         <Reveal>
+          <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-blue-700">
+            {lang === "mr" ? "एका ठिकाणी सर्व सेवा" : "Everything in one place"}
+          </p>
           <h2 className="max-w-3xl text-3xl font-black leading-[1.12] tracking-tight text-slate-950 sm:text-4xl lg:text-[2.75rem]">
             {tx.heading}
           </h2>
-          <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">{tx.sub}</p>
+          <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">
+            {tx.sub}
+          </p>
         </Reveal>
 
-        <Stagger as="ul" className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        <Stagger
+          as="ul"
+          className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4"
+        >
           {SERVICE_GROUPS.map((group, index) => {
             const waHref = buildWhatsAppUrl({
               message: group.whatsapp[lang],
@@ -59,15 +98,23 @@ export function ServicePillars() {
               content: group.key,
             });
             const Icon = SERVICE_ICONS[group.iconKey];
+            const theme = CARD_THEME[group.key];
 
             return (
               <StaggerItem as="li" key={group.key}>
-                <article className="group flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-blue-300 hover:shadow-[0_24px_50px_-24px_rgba(29,78,216,0.45)] motion-reduce:transform-none motion-reduce:transition-none">
+                <article
+                  className={`group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-blue-600 before:via-cyan-400 before:to-amber-300 hover:-translate-y-1.5 motion-reduce:transform-none motion-reduce:transition-none ${theme.card}`}
+                >
+                  <ServiceMotionVisual service={group.key} />
                   <div className="flex items-start justify-between">
-                    <span className="grid size-12 place-items-center rounded-xl bg-blue-50 p-1.5 transition duration-300 group-hover:-translate-y-1 motion-reduce:transform-none">
+                    <span
+                      className={`-mt-5 ml-3 grid size-14 place-items-center rounded-2xl border-4 border-white bg-gradient-to-br p-1.5 shadow-lg transition duration-300 group-hover:-translate-y-1 group-hover:scale-105 motion-reduce:transform-none ${theme.icon}`}
+                    >
                       <Icon className="h-full w-full" />
                     </span>
-                    <span className="text-[11px] font-black tracking-[0.2em] text-slate-300">
+                    <span
+                      className={`mt-3 rounded-full border px-2.5 py-1 text-[10px] font-black tracking-[0.18em] shadow-sm backdrop-blur-sm ${theme.badge}`}
+                    >
                       {String(index + 1).padStart(2, "0")}
                     </span>
                   </div>
@@ -106,7 +153,7 @@ export function ServicePillars() {
                   <div className="mt-6 flex flex-col gap-2 border-t border-slate-100 pt-4">
                     <Link
                       href={group.href}
-                      className="inline-flex min-h-[44px] items-center gap-1.5 text-sm font-black text-blue-700"
+                      className="inline-flex min-h-[44px] items-center justify-center gap-1.5 rounded-xl bg-slate-950 px-4 text-sm font-black text-white shadow-sm transition hover:bg-blue-700"
                     >
                       {group.cta[lang]}
                       <ArrowRight
@@ -118,8 +165,15 @@ export function ServicePillars() {
                       href={waHref}
                       target="_blank"
                       rel="noopener noreferrer"
-                      onClick={() => trackWhatsAppLead()}
-                      className="inline-flex min-h-[44px] items-center gap-1.5 text-sm font-bold text-slate-500 transition hover:text-green-700"
+                      onClick={() => {
+                        trackWhatsAppLead();
+                        trackFunnelEvent("service_whatsapp_click", {
+                          lang,
+                          surface: "service-pillars",
+                          service_key: group.key,
+                        });
+                      }}
+                      className="inline-flex min-h-[44px] items-center justify-center gap-1.5 rounded-xl border border-green-200 bg-green-50 px-4 text-sm font-bold text-green-800 transition hover:border-green-300 hover:bg-green-100"
                     >
                       <MessageCircle className="size-3.5" aria-hidden="true" />
                       {tx.ask}

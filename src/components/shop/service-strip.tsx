@@ -33,7 +33,11 @@ function Chips({ lang, ariaHidden }: { lang: Lang; ariaHidden?: boolean }) {
       {QUICK_SERVICES.map((service, i) => {
         const text = service.label[lang];
         const chip = (
-          <span className="inline-flex min-h-[44px] items-center gap-2 rounded-full border border-slate-200 bg-white px-4 text-[13.5px] font-bold text-slate-800 shadow-sm transition group-hover:border-blue-300 group-hover:text-blue-800">
+          <span className="inline-flex min-h-[44px] items-center gap-2 rounded-xl border border-slate-200/80 bg-white px-4 text-[13.5px] font-extrabold text-slate-800 shadow-[0_6px_18px_-12px_rgba(15,23,42,.35)] transition group-hover:-translate-y-0.5 group-hover:border-blue-300 group-hover:bg-blue-50 group-hover:text-blue-800 motion-reduce:transform-none">
+            <span
+              className="size-1.5 rounded-full bg-gradient-to-br from-blue-500 to-cyan-400 shadow-[0_0_0_3px_rgba(59,130,246,.1)]"
+              aria-hidden="true"
+            />
             {text}
             <ArrowRight
               className="size-3.5 text-slate-400 transition group-hover:translate-x-0.5 group-hover:text-blue-600"
@@ -43,7 +47,10 @@ function Chips({ lang, ariaHidden }: { lang: Lang; ariaHidden?: boolean }) {
         );
 
         return (
-          <li key={`${text}-${i}`} className="ps-snap flex shrink-0 items-center gap-2.5">
+          <li
+            key={`${text}-${i}`}
+            className="ps-snap flex shrink-0 items-center gap-2.5"
+          >
             {service.href ? (
               <Link
                 href={service.href}
@@ -71,7 +78,7 @@ export function ServiceStrip() {
   return (
     <section
       aria-label={label[lang]}
-      className="ps-strip border-b border-slate-200 bg-slate-50/80 py-3.5 md:overflow-hidden"
+      className="ps-strip border-b border-slate-200 bg-gradient-to-r from-slate-50 via-blue-50/60 to-slate-50 py-3.5 md:overflow-hidden"
     >
       {/* Three behaviours from one markup:
             phones            → plain swipeable chip row (this element scrolls)

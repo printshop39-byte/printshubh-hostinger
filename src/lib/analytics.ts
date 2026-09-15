@@ -48,6 +48,8 @@ export const FUNNEL_CHANNEL = "printshubh:funnel";
 const FUNNEL_EVENTS = [
   "hero_primary_cta_click",
   "hero_whatsapp_click",
+  "hero_intent_click",
+  "service_whatsapp_click",
   "enquiry_form_view",
   "enquiry_service_selected",
   "enquiry_district_selected",
