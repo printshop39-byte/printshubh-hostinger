@@ -39,6 +39,32 @@ const t: Record<Lang, { heading: string; sub: string; ask: string }> = {
   },
 };
 
+const CARD_THEME: Record<
+  (typeof SERVICE_GROUPS)[number]["key"],
+  { card: string; badge: string; icon: string }
+> = {
+  printing: {
+    card: "hover:border-cyan-300 hover:shadow-[0_28px_60px_-28px_rgba(6,182,212,.5)]",
+    badge: "border-cyan-200/80 bg-cyan-50/85 text-cyan-700",
+    icon: "from-cyan-50 to-sky-100",
+  },
+  photo: {
+    card: "hover:border-amber-300 hover:shadow-[0_28px_60px_-28px_rgba(245,158,11,.5)]",
+    badge: "border-amber-200/80 bg-amber-50/85 text-amber-700",
+    icon: "from-orange-50 to-rose-100",
+  },
+  land: {
+    card: "hover:border-blue-300 hover:shadow-[0_28px_60px_-28px_rgba(37,99,235,.5)]",
+    badge: "border-blue-200/80 bg-blue-50/85 text-blue-700",
+    icon: "from-blue-50 to-indigo-100",
+  },
+  digital: {
+    card: "hover:border-violet-300 hover:shadow-[0_28px_60px_-28px_rgba(124,58,237,.5)]",
+    badge: "border-violet-200/80 bg-violet-50/85 text-violet-700",
+    icon: "from-indigo-50 to-violet-100",
+  },
+};
+
 export function ServicePillars() {
   const { lang } = useLang();
   const tx = t[lang];
@@ -72,16 +98,23 @@ export function ServicePillars() {
               content: group.key,
             });
             const Icon = SERVICE_ICONS[group.iconKey];
+            const theme = CARD_THEME[group.key];
 
             return (
               <StaggerItem as="li" key={group.key}>
-                <article className="group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-blue-600 before:via-cyan-400 before:to-amber-300 hover:-translate-y-1.5 hover:border-blue-300 hover:shadow-[0_28px_60px_-28px_rgba(29,78,216,.5)] motion-reduce:transform-none motion-reduce:transition-none">
+                <article
+                  className={`group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-blue-600 before:via-cyan-400 before:to-amber-300 hover:-translate-y-1.5 motion-reduce:transform-none motion-reduce:transition-none ${theme.card}`}
+                >
                   <ServiceMotionVisual service={group.key} />
                   <div className="flex items-start justify-between">
-                    <span className="-mt-5 ml-3 grid size-14 place-items-center rounded-2xl border-4 border-white bg-gradient-to-br from-blue-50 to-white p-1.5 shadow-lg transition duration-300 group-hover:-translate-y-1 group-hover:scale-105 motion-reduce:transform-none">
+                    <span
+                      className={`-mt-5 ml-3 grid size-14 place-items-center rounded-2xl border-4 border-white bg-gradient-to-br p-1.5 shadow-lg transition duration-300 group-hover:-translate-y-1 group-hover:scale-105 motion-reduce:transform-none ${theme.icon}`}
+                    >
                       <Icon className="h-full w-full" />
                     </span>
-                    <span className="mt-3 text-[11px] font-black tracking-[0.2em] text-slate-300">
+                    <span
+                      className={`mt-3 rounded-full border px-2.5 py-1 text-[10px] font-black tracking-[0.18em] shadow-sm backdrop-blur-sm ${theme.badge}`}
+                    >
                       {String(index + 1).padStart(2, "0")}
                     </span>
                   </div>
