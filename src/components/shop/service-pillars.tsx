@@ -24,6 +24,7 @@ import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 import { SERVICE_ICONS } from "@/components/shop/service-icons";
+import { ServiceMotionVisual } from "@/components/shop/service-motion-visual";
 
 const t: Record<Lang, { heading: string; sub: string; ask: string }> = {
   mr: {
@@ -75,11 +76,12 @@ export function ServicePillars() {
             return (
               <StaggerItem as="li" key={group.key}>
                 <article className="group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-blue-600 before:via-cyan-400 before:to-amber-300 hover:-translate-y-1.5 hover:border-blue-300 hover:shadow-[0_28px_60px_-28px_rgba(29,78,216,.5)] motion-reduce:transform-none motion-reduce:transition-none">
+                  <ServiceMotionVisual service={group.key} />
                   <div className="flex items-start justify-between">
-                    <span className="grid size-16 place-items-center rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 to-white p-2 shadow-[0_12px_25px_-18px_rgba(37,99,235,.7)] transition duration-300 group-hover:-translate-y-1 group-hover:scale-105 motion-reduce:transform-none">
+                    <span className="-mt-5 ml-3 grid size-14 place-items-center rounded-2xl border-4 border-white bg-gradient-to-br from-blue-50 to-white p-1.5 shadow-lg transition duration-300 group-hover:-translate-y-1 group-hover:scale-105 motion-reduce:transform-none">
                       <Icon className="h-full w-full" />
                     </span>
-                    <span className="text-[11px] font-black tracking-[0.2em] text-slate-300">
+                    <span className="mt-3 text-[11px] font-black tracking-[0.2em] text-slate-300">
                       {String(index + 1).padStart(2, "0")}
                     </span>
                   </div>
