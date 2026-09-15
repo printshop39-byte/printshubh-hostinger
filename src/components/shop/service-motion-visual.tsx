@@ -23,7 +23,7 @@ export function ServiceMotionVisual({ service }: { service: ServiceGroupKey }) {
             stroke="#bfe2f6"
             strokeWidth="3"
           />
-          <g className="motion-safe:animate-[pulse_2.6s_ease-in-out_infinite]">
+          <g className="transition-transform duration-500 ease-out group-hover:translate-y-2 motion-safe:animate-[pulse_2.6s_ease-in-out_infinite] motion-reduce:transform-none">
             <rect x="83" y="76" width="94" height="43" rx="6" fill="#fff" />
             <rect x="96" y="87" width="67" height="5" rx="2.5" fill="#70b9e2" />
             <rect x="96" y="98" width="46" height="5" rx="2.5" fill="#c6dfed" />
@@ -34,6 +34,16 @@ export function ServiceMotionVisual({ service }: { service: ServiceGroupKey }) {
             r="5"
             fill="#42d392"
             className="motion-safe:animate-pulse"
+          />
+          <rect
+            x="72"
+            y="50"
+            width="116"
+            height="3"
+            rx="1.5"
+            fill="#22d3ee"
+            opacity=".5"
+            className="transition-transform duration-700 group-hover:translate-y-9 motion-reduce:transform-none"
           />
         </svg>
       </div>
@@ -48,7 +58,7 @@ export function ServiceMotionVisual({ service }: { service: ServiceGroupKey }) {
       >
         <div className="absolute left-1/2 top-1/2 size-24 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber-300/35 blur-2xl motion-safe:animate-pulse" />
         <svg viewBox="0 0 260 128" className="h-full w-full">
-          <g className="origin-center transition duration-500 group-hover:scale-105">
+          <g className="origin-center transition duration-500 ease-out group-hover:-rotate-2 group-hover:scale-105 motion-reduce:transform-none">
             <rect
               x="85"
               y="12"
@@ -80,6 +90,11 @@ export function ServiceMotionVisual({ service }: { service: ServiceGroupKey }) {
             opacity=".55"
           />
           <circle cx="188" cy="29" r="4" fill="#f59e0b" />
+          <path
+            d="m190 15 3 8 8 3-8 3-3 8-3-8-8-3 8-3z"
+            fill="white"
+            className="origin-center scale-0 transition-transform duration-300 group-hover:scale-100 motion-reduce:transform-none"
+          />
         </svg>
       </div>
     );
@@ -112,7 +127,22 @@ export function ServiceMotionVisual({ service }: { service: ServiceGroupKey }) {
             opacity=".75"
             className="motion-safe:animate-[bounce_2.4s_ease-in-out_infinite]"
           />
-          <circle cx="184" cy="93" r="18" fill="#2563eb" />
+          <circle
+            cx="184"
+            cy="93"
+            r="18"
+            fill="#2563eb"
+            className="origin-center transition-transform duration-300 group-hover:scale-110 motion-safe:animate-[pulse_2.5s_ease-in-out_infinite] motion-reduce:transform-none"
+          />
+          <circle
+            cx="184"
+            cy="93"
+            r="22"
+            fill="none"
+            stroke="#f59e0b"
+            strokeWidth="2"
+            opacity=".55"
+          />
           <path
             d="m176 93 6 6 11-13"
             fill="none"
@@ -145,6 +175,24 @@ export function ServiceMotionVisual({ service }: { service: ServiceGroupKey }) {
           rx="3.5"
           fill="#93c5fd"
           className="motion-safe:animate-pulse"
+        />
+        <g className="transition-transform duration-500 group-hover:-translate-y-1 motion-safe:animate-[bounce_2.8s_ease-in-out_infinite] motion-reduce:transform-none">
+          <rect x="172" y="8" width="43" height="28" rx="12" fill="#22c55e" />
+          <path d="M183 36l-2 8 9-8" fill="#22c55e" />
+          <circle cx="186" cy="22" r="3" fill="white" />
+          <circle cx="194" cy="22" r="3" fill="white" />
+          <circle cx="202" cy="22" r="3" fill="white" />
+        </g>
+        <circle
+          cx="184"
+          cy="70"
+          r="31"
+          fill="none"
+          stroke="#8b5cf6"
+          strokeWidth="2"
+          strokeDasharray="8 8"
+          opacity=".45"
+          className="origin-center transition-transform duration-700 group-hover:rotate-90 motion-reduce:transform-none"
         />
         <rect x="69" y="75" width="48" height="7" rx="3.5" fill="#ddd6fe" />
         <rect
