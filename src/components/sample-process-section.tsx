@@ -8,14 +8,9 @@
  * key trust assurances. All copy is aligned with the FAQ / pricing / privacy /
  * disclaimer already on the site — no new claims.
  *
- * PRIVACY & IMPERSONATION SAFETY (important):
- *   The sample cards use an ABSTRACT, clearly-labelled placeholder built only
- *   from neutral blocks / generic map-like geometry plus a "नमुना / SAMPLE"
- *   watermark. There is NO real document, government emblem, seal, QR code,
- *   signature, real survey number, owner name, document ID, or official
- *   formatting. The placeholder visual is decorative (aria-hidden); the visible
- *   "नमुना — प्रत्यक्ष सरकारी नोंद नाही" ribbon conveys the same in text (not
- *   colour alone). No downloadable asset, no modal, no new route.
+ * The two sample cards show the shop's own real sample images from
+ * /public/samples. The visible "नमुना — प्रत्यक्ष सरकारी नोंद नाही" ribbon
+ * states in text that they are samples, not an actual government record.
  */
 
 import { useRef } from "react";
@@ -32,7 +27,6 @@ const t: Record<
   {
     heading: string;
     sub: string;
-    watermark: string;
     ribbon: string;
     askSample: string;
     cards: { title: string; desc: string }[];
@@ -43,7 +37,6 @@ const t: Record<
   mr: {
     heading: "काम सुरू करण्यापूर्वी काय मिळेल ते पाहा",
     sub: "नमुना कागदपत्रे आणि सोपी ३-पायरी प्रक्रिया — पारदर्शक आणि सुरक्षित.",
-    watermark: "नमुना",
     ribbon: "नमुना — प्रत्यक्ष सरकारी नोंद नाही",
     askSample: "WhatsApp वर नमुना मागवा",
     cards: [
@@ -71,7 +64,6 @@ const t: Record<
   en: {
     heading: "See what you'll get before you start",
     sub: "Sample documents and a simple 3-step process — transparent and secure.",
-    watermark: "SAMPLE",
     ribbon: "Sample — not an actual government record",
     askSample: "Ask for a sample on WhatsApp",
     cards: [
@@ -98,70 +90,29 @@ const t: Record<
   },
 };
 
-/* Language-neutral per-card metadata (icon + placeholder variant). */
-const cardMeta: { icon: LucideIcon; variant: "doc" | "map" }[] = [
-  { icon: FileText, variant: "doc" },
-  { icon: MapIcon, variant: "map" },
+/* Language-neutral per-card metadata (icon + sample image). */
+const cardMeta: {
+  icon: LucideIcon;
+  src: string;
+  width: number;
+  height: number;
+  alt: Record<Lang, string>;
+}[] = [
+  {
+    icon: FileText,
+    src: "/samples/sample-7-12.webp",
+    width: 1554,
+    height: 2000,
+    alt: { mr: "7/12 उताऱ्याचा नमुना", en: "Sample 7/12 extract" },
+  },
+  {
+    icon: MapIcon,
+    src: "/samples/sample-village-map.jpg",
+    width: 1463,
+    height: 2000,
+    alt: { mr: "गाव नकाशाचा नमुना", en: "Sample village map" },
+  },
 ];
-
-/* Fixed Tailwind widths for the abstract "text rows" (no inline styles). */
-const rowWidths = ["w-11/12", "w-3/4", "w-5/6", "w-2/3", "w-4/5", "w-1/2"];
-
-/**
- * Purely decorative, abstract document/map placeholder with a SAMPLE / नमुना
- * watermark. Never resembles a real government form. aria-hidden — the visible
- * "नमुना …" ribbon carries the meaning for assistive tech.
- */
-function SamplePlaceholder({
-  variant,
-  watermark,
-}: {
-  variant: "doc" | "map";
-  watermark: string;
-}) {
-  return (
-    <div
-      aria-hidden="true"
-      className="relative h-44 w-full overflow-hidden rounded-lg border border-slate-200 bg-slate-50 sm:h-52"
-    >
-      {variant === "doc" ? (
-        <div className="flex h-full flex-col gap-2 p-3">
-          <div className="flex items-center gap-2">
-            <div className="size-7 shrink-0 rounded bg-slate-200" />
-            <div className="flex flex-1 flex-col gap-1">
-              <div className="h-2 w-3/4 rounded bg-slate-200" />
-              <div className="h-2 w-1/2 rounded bg-slate-200" />
-            </div>
-          </div>
-          <div className="mt-1 flex flex-1 flex-col justify-center gap-1.5">
-            {rowWidths.map((w, i) => (
-              <div key={i} className={`h-2 rounded bg-slate-200 ${w}`} />
-            ))}
-          </div>
-        </div>
-      ) : (
-        <svg
-          viewBox="0 0 160 120"
-          preserveAspectRatio="xMidYMid slice"
-          className="h-full w-full"
-        >
-          <rect x="0" y="0" width="160" height="120" fill="#f1f5f9" />
-          <path d="M18 24 L70 14 L82 52 L28 62 Z" fill="#e2e8f0" stroke="#94a3b8" strokeWidth="1" />
-          <path d="M82 52 L70 14 L128 24 L134 66 Z" fill="#eef2f7" stroke="#94a3b8" strokeWidth="1" />
-          <path d="M28 62 L82 52 L92 100 L38 108 Z" fill="#eef2f7" stroke="#94a3b8" strokeWidth="1" />
-          <path d="M92 100 L82 52 L134 66 L142 108 Z" fill="#e2e8f0" stroke="#94a3b8" strokeWidth="1" />
-          <path d="M8 74 Q80 66 152 82" fill="none" stroke="#cbd5e1" strokeWidth="2" />
-        </svg>
-      )}
-
-      <div className="pointer-events-none absolute inset-0 flex items-center justify-center">
-        <span className="-rotate-12 select-none rounded-md border-2 border-blue-300/70 bg-white/40 px-4 py-1 text-lg font-black uppercase tracking-[0.2em] text-blue-500/70 backdrop-blur-[1px]">
-          {watermark}
-        </span>
-      </div>
-    </div>
-  );
-}
 
 export function SampleProcessSection() {
   const { lang } = useLang();
@@ -242,13 +193,23 @@ export function SampleProcessSection() {
         ) : (
           <div className="mt-6 grid gap-4 sm:grid-cols-2">
             {tx.cards.map((card, i) => {
-              const { icon: Icon, variant } = cardMeta[i];
+              const { icon: Icon, src, width, height, alt } = cardMeta[i];
               return (
                 <article
                   key={card.title}
                   className="flex flex-col rounded-2xl border border-blue-200 bg-white p-4 shadow-sm"
                 >
-                  <SamplePlaceholder variant={variant} watermark={tx.watermark} />
+                  <div className="overflow-hidden rounded-lg border border-slate-200 bg-slate-50">
+                    <Image
+                      src={src}
+                      alt={alt[lang]}
+                      width={width}
+                      height={height}
+                      loading="lazy"
+                      sizes="(max-width: 640px) 90vw, 45vw"
+                      className="h-80 w-full object-contain sm:h-96"
+                    />
+                  </div>
 
                   {/* Text label — not colour alone; readable by screen readers */}
                   <p className="mt-3 inline-flex items-start gap-1.5 rounded-md border border-amber-300 bg-amber-50 px-2.5 py-1.5 text-[12px] font-bold leading-5 text-amber-900">
