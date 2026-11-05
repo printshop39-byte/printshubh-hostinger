@@ -27,7 +27,8 @@ import {
 import { useLang, type Lang } from "@/components/language-context";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
-import { OPENING_HOURS, SHOP_ADDRESS, YEARS_EXPERIENCE } from "@/lib/shop-profile";
+import { BRAND_LINE, OPENING_HOURS, SHOP_ADDRESS, YEARS_EXPERIENCE } from "@/lib/shop-profile";
+import { COLLECTIONS } from "@/lib/collections";
 
 /* ── Official PrintShubh contact details ──────────────────────────────────
  * Single source of truth for the *display* forms — every component that needs
@@ -50,6 +51,7 @@ const tx: Record<
   Lang,
   {
     tagline: string;
+    collectionsTitle: string;
     servicesTitle: string;
     usefulTitle: string;
     contactTitle: string;
@@ -69,7 +71,8 @@ const tx: Record<
 > = {
   mr: {
     tagline:
-      "Jumbo Xerox • Printing • Photo • Digital Services. रोजच्या प्रिंटिंगपासून जमीन कागदपत्रांपर्यंत — मराठी-प्रथम सेवा.",
+      "Premium Print & Visual Studio — प्रिंटिंग, फोटो आणि डिजिटल सेवा, मराठी-प्रथम.",
+    collectionsTitle: "Collections",
     servicesTitle: "सेवा",
     usefulTitle: "उपयुक्त",
     contactTitle: "संपर्क",
@@ -84,18 +87,11 @@ const tx: Record<
       { label: "प्रिंटिंग व झेरॉक्स", href: "/printing-xerox" },
       { label: "फोटो सेवा", href: "/photo-services" },
       { label: "डिजिटल सेवा", href: "/digital-services" },
-      { label: "7/12 उतारा", href: "/satbara-utara-maharashtra/" },
-      { label: "8A उतारा", href: "/8a-utara-maharashtra/" },
-      { label: "गाव नकाशा", href: "/gav-nakasha-maharashtra/" },
-      { label: "TP / DP नकाशा", href: "/dp-map-maharashtra/" },
-      { label: "मिळकत पत्रिका", href: "/milkat-patrika-maharashtra/" },
-      { label: "ई-फेरफार", href: "/e-ferfar-maharashtra/" },
     ],
     useful: [
       { label: "आमच्याबद्दल", href: "/about" },
       { label: "किंमत", href: "/pricing" },
       { label: "मोफत साधने", href: "/#tools" },
-      { label: "नकाशा शोध", href: "/nakasha-shodh" },
       { label: "FAQ", href: "/faq" },
       { label: "मदत केंद्र", href: "/support" },
       { label: "संपर्क", href: "/contact" },
@@ -117,7 +113,8 @@ const tx: Record<
   },
   en: {
     tagline:
-      "Jumbo Xerox • Printing • Photo • Digital Services. From an everyday photocopy to a land document — Marathi-first.",
+      "Premium Print & Visual Studio — printing, photo and digital services, Marathi-first.",
+    collectionsTitle: "Collections",
     servicesTitle: "Services",
     usefulTitle: "Useful",
     contactTitle: "Contact",
@@ -132,18 +129,11 @@ const tx: Record<
       { label: "Printing & Xerox", href: "/printing-xerox" },
       { label: "Photo Services", href: "/photo-services" },
       { label: "Digital Services", href: "/digital-services" },
-      { label: "7/12 Extract", href: "/satbara-utara-maharashtra/" },
-      { label: "8A Extract", href: "/8a-utara-maharashtra/" },
-      { label: "Village Map", href: "/gav-nakasha-maharashtra/" },
-      { label: "TP / DP Map", href: "/dp-map-maharashtra/" },
-      { label: "Property Card", href: "/milkat-patrika-maharashtra/" },
-      { label: "eFerfar / Mutation", href: "/e-ferfar-maharashtra/" },
     ],
     useful: [
       { label: "About Us", href: "/about" },
       { label: "Pricing", href: "/pricing" },
       { label: "Free Tools", href: "/#tools" },
-      { label: "Map Search", href: "/nakasha-shodh" },
       { label: "FAQ", href: "/faq" },
       { label: "Support", href: "/support" },
       { label: "Contact", href: "/contact" },
@@ -187,7 +177,7 @@ export function SiteFooter() {
           ))}
         </ul>
 
-        <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.3fr_1fr_1fr_1.1fr]">
+        <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.2fr_0.9fr_0.9fr_0.9fr_1fr]">
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2.5">
@@ -199,7 +189,7 @@ export function SiteFooter() {
                   PRINTSHUBH
                 </span>
                 <span className="mt-1 block text-[10px] font-black uppercase tracking-[0.18em] text-blue-400">
-                  Jumbo Xerox
+                  {BRAND_LINE}
                 </span>
               </span>
             </div>
@@ -214,6 +204,27 @@ export function SiteFooter() {
               <MessageCircle className="size-4" aria-hidden="true" />
               {t.waCta}
             </a>
+          </div>
+
+          {/* Collections — generated from lib/collections.ts, the single
+              source of truth for the 7 premium-print routes, so this list
+              can never drift from the pages it links to. */}
+          <div>
+            <h4 className="mb-4 text-[11px] font-black uppercase tracking-[0.18em] text-slate-500">
+              {t.collectionsTitle}
+            </h4>
+            <ul className="space-y-1">
+              {COLLECTIONS.map((c) => (
+                <li key={c.key}>
+                  <Link
+                    href={`/collections/${c.slug}/`}
+                    className="flex min-h-[44px] items-center text-[14px] font-semibold text-slate-400 transition hover:text-white"
+                  >
+                    {c.shortTitle[lang]}
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
 
           {/* Services */}

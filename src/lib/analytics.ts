@@ -60,6 +60,11 @@ const FUNNEL_EVENTS = [
   "map_promo_whatsapp_click",
   "pricing_whatsapp_click",
   "search_used",
+  "printing_tech_view",
+  "printing_tech_whatsapp_click",
+  "collections_grid_view",
+  "collection_page_view",
+  "collection_whatsapp_click",
 ] as const;
 
 export type FunnelEventName = (typeof FUNNEL_EVENTS)[number];

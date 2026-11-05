@@ -88,30 +88,14 @@ export const SERVICE_GROUPS: ServiceGroup[] = [
       en: "Hello PrintShubh, I need a photo service. Details: ",
     },
   },
-  {
-    key: "land",
-    href: "/#land-documents",
-    emoji: "🗺️",
-    iconKey: "land",
-    title: { mr: "जमीन कागदपत्रे", en: "Land Documents" },
-    blurb: {
-      mr: "7/12, 8अ, फेरफार, गाव नकाशा व मिळकत पत्रिका — अधिकृत स्रोतांवर आधारित.",
-      en: "7/12, 8A, mutation, village map and property card — from official sources.",
-    },
-    items: [
-      { label: { mr: "7/12 उतारा", en: "7/12 Extract" }, href: "/satbara-utara-maharashtra/" },
-      { label: { mr: "8अ उतारा", en: "8A Extract" }, href: "/8a-utara-maharashtra/" },
-      { label: { mr: "फेरफार", en: "Mutation / Ferfar" }, href: "/e-ferfar-maharashtra/" },
-      { label: { mr: "गाव नकाशा", en: "Village Map" }, href: "/gav-nakasha-maharashtra/" },
-      { label: { mr: "मिळकत पत्रिका", en: "Property Card" }, href: "/milkat-patrika-maharashtra/" },
-      { label: { mr: "DP / TP नकाशा", en: "DP / TP Map" }, href: "/dp-map-maharashtra/" },
-    ],
-    cta: { mr: "कागदपत्र सेवा पहा", en: "See document services" },
-    whatsapp: {
-      mr: "नमस्कार PrintShubh, मला जमीन कागदपत्र सेवेसाठी मदत हवी आहे. ",
-      en: "Hello PrintShubh, I need help with a land-document service. ",
-    },
-  },
+  /* The "land" service group (7/12, 8A, Mutation, Village Map, Property
+   * Card, DP/TP Map) used to sit here as the third of four homepage
+   * pillars. Removed from this catalogue as part of the shop/print-studio
+   * repositioning (owner decision) — ServiceGroupKey still includes "land"
+   * and CARD_THEME/SERVICE_ICONS still have a "land" entry, deliberately
+   * left in place (harmless, unused) rather than touched across files that
+   * don't need to change. The pages themselves, sitemap.ts and
+   * /nakasha-shodh's enquiry flow are untouched. */
   {
     key: "digital",
     href: "/digital-services",
@@ -154,5 +138,4 @@ export const QUICK_SERVICES: { label: Record<Lang, string>; href?: string }[] = 
   { label: { mr: "पोस्टर प्रिंट", en: "Poster Print" }, href: "/printing-xerox" },
   { label: { mr: "लॅमिनेशन", en: "Lamination" }, href: "/printing-xerox" },
   { label: { mr: "स्कॅनिंग", en: "Scanning" }, href: "/printing-xerox" },
-  { label: { mr: "जमीन कागदपत्रे", en: "Land Documents" }, href: "/#land-documents" },
 ];

@@ -23,15 +23,15 @@ const copy = {
     headlineStart: "प्रिंट आणि डॉक्युमेंट",
     headlineAccent: "सोल्यूशन्स.",
     support:
-      "फाइल पाठवा, सेवा निवडा आणि काम सोपं करा. प्रिंटिंग, फोटो व जमीन कागदपत्रांसाठी विश्वासार्ह सहाय्य — किंमत आणि उपलब्धता आधीच स्पष्ट.",
+      "फाइल पाठवा, सेवा निवडा आणि काम सोपं करा. प्रिंटिंग, फोटो व डिजिटल सेवांसाठी विश्वासार्ह सहाय्य — किंमत आणि उपलब्धता आधीच स्पष्ट.",
     panelKicker: "आज कोणते काम आहे?",
     panelTitle: "तुमच्या कामासाठी योग्य सेवा निवडा",
     printTitle: "प्रिंटिंग / झेरॉक्स",
     printBody: "PDF पाठवा आणि किंमत विचारा",
     photoTitle: "फोटो सेवा",
     photoBody: "पासपोर्ट, ID आणि फोटो प्रिंट",
-    landTitle: "जमीन कागदपत्रे",
-    landBody: "7/12, 8A, मिळकत पत्रिका",
+    digitalTitle: "डिजिटल सेवा",
+    digitalBody: "ऑनलाइन फॉर्म, PDF व WhatsApp प्रिंटिंग",
     mapTitle: "नकाशे / प्लॅन",
     mapBody: "गाव नकाशा, DP, TP, Regional Plan",
     primary: "WhatsApp वर फाइल पाठवा",
@@ -47,15 +47,15 @@ const copy = {
     headlineStart: "Send the file.",
     headlineAccent: "Get the job ready.",
     support:
-      "One dependable place for printing, photos and land documents. Price and availability are confirmed before work starts.",
+      "One dependable place for printing, photos and digital services. Price and availability are confirmed before work starts.",
     panelKicker: "What do you need today?",
     panelTitle: "Choose a service and go straight ahead",
     printTitle: "Printing / Xerox",
     printBody: "Send a PDF and ask for a quote",
     photoTitle: "Photo services",
     photoBody: "Passport, ID and photo prints",
-    landTitle: "Land documents",
-    landBody: "7/12, 8A and property card",
+    digitalTitle: "Digital services",
+    digitalBody: "Online forms, PDF work and WhatsApp printing",
     mapTitle: "Maps / plans",
     mapBody: "Village map, DP, TP and Regional Plan",
     primary: "Send a file on WhatsApp",
@@ -68,11 +68,15 @@ const copy = {
   },
 } satisfies Record<Lang, Record<string, string | string[]>>;
 
+/* The fourth hero card used to be "land" (7/12, 8A, Property Card, href
+ * "/#unified-form"). Removed/replaced with "digital" as part of the
+ * shop/print-studio repositioning (owner decision) — its target
+ * (UnifiedRecordForm) no longer renders on this page. */
 type Intent = {
-  key: "printing" | "photo" | "land" | "maps";
+  key: "printing" | "photo" | "digital" | "maps";
   iconKey: ServiceIconKey;
-  titleKey: "printTitle" | "photoTitle" | "landTitle" | "mapTitle";
-  bodyKey: "printBody" | "photoBody" | "landBody" | "mapBody";
+  titleKey: "printTitle" | "photoTitle" | "digitalTitle" | "mapTitle";
+  bodyKey: "printBody" | "photoBody" | "digitalBody" | "mapBody";
   href: string;
   external?: boolean;
 };
@@ -94,11 +98,11 @@ const intents: Intent[] = [
     href: "/photo-services",
   },
   {
-    key: "land",
-    iconKey: "land",
-    titleKey: "landTitle",
-    bodyKey: "landBody",
-    href: "/#unified-form",
+    key: "digital",
+    iconKey: "digital",
+    titleKey: "digitalTitle",
+    bodyKey: "digitalBody",
+    href: "/digital-services",
   },
   {
     key: "maps",

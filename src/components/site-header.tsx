@@ -26,6 +26,7 @@ import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { SiteSearch } from "@/components/site-search";
+import { BRAND_LINE } from "@/lib/shop-profile";
 
 interface NavItem {
   label: Record<Lang, string>;
@@ -35,9 +36,9 @@ interface NavItem {
 /* Shown in the desktop bar AND at the top of the mobile sheet. */
 const primary: NavItem[] = [
   { label: { mr: "मुख्यपृष्ठ", en: "Home" }, href: "/" },
+  { label: { mr: "Collections", en: "Collections" }, href: "/#collections" },
   { label: { mr: "प्रिंटिंग व झेरॉक्स", en: "Printing & Xerox" }, href: "/printing-xerox" },
   { label: { mr: "फोटो", en: "Photo" }, href: "/photo-services" },
-  { label: { mr: "जमीन कागदपत्रे", en: "Land Documents" }, href: "/#land-documents" },
   { label: { mr: "ऑनलाइन सेवा", en: "Online Services" }, href: "/digital-services" },
   { label: { mr: "आमच्याबद्दल", en: "About" }, href: "/about" },
   { label: { mr: "संपर्क", en: "Contact" }, href: "/contact" },
@@ -47,7 +48,6 @@ const primary: NavItem[] = [
  * must stay one tap away. Also linked from the footer on every page. */
 const more: NavItem[] = [
   { label: { mr: "मोफत साधने", en: "Free Tools" }, href: "/#tools" },
-  { label: { mr: "नकाशा शोध", en: "Map Search" }, href: "/nakasha-shodh" },
   { label: { mr: "किंमत", en: "Pricing" }, href: "/pricing" },
   { label: { mr: "FAQ", en: "FAQ" }, href: "/faq" },
   { label: { mr: "मदत", en: "Support" }, href: "/support" },
@@ -182,7 +182,7 @@ export function SiteHeader() {
               PRINTSHUBH
             </span>
             <span className="mt-0.5 hidden text-[10px] font-black uppercase tracking-[0.18em] text-blue-700 sm:block">
-              Jumbo Xerox
+              {BRAND_LINE}
             </span>
           </span>
         </Link>

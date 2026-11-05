@@ -12,6 +12,7 @@
  */
 
 import { SERVICE_GROUPS } from "@/lib/shop-services";
+import { COLLECTIONS } from "@/lib/collections";
 
 export interface SearchIndexEntry {
   href: string;
@@ -20,7 +21,7 @@ export interface SearchIndexEntry {
 }
 
 const servicesCategory = { mr: "सेवा", en: "Services" };
-const landDocsCategory = { mr: "जमीन कागदपत्रे", en: "Land Documents" };
+const collectionsCategory = { mr: "Collections", en: "Collections" };
 const toolsCategory = { mr: "मोफत साधने", en: "Free Tools" };
 const infoCategory = { mr: "माहिती", en: "Info" };
 
@@ -30,16 +31,23 @@ const serviceEntries: SearchIndexEntry[] = SERVICE_GROUPS.map((group) => ({
   category: servicesCategory,
 }));
 
-const landDocEntries: SearchIndexEntry[] = [
-  { href: "/satbara-utara-maharashtra/", title: { mr: "सातबारा उतारा (7/12)", en: "7/12 Extract" }, category: landDocsCategory },
-  { href: "/8a-utara-maharashtra/", title: { mr: "८अ उतारा", en: "8A Extract" }, category: landDocsCategory },
-  { href: "/e-ferfar-maharashtra/", title: { mr: "ई-फेरफार", en: "Mutation / eFerfar" }, category: landDocsCategory },
-  { href: "/gav-nakasha-maharashtra/", title: { mr: "गाव नकाशा", en: "Village Map" }, category: landDocsCategory },
-  { href: "/milkat-patrika-maharashtra/", title: { mr: "मिळकत पत्रिका", en: "Property Card" }, category: landDocsCategory },
-  { href: "/dp-map-maharashtra/", title: { mr: "विकास व नगर रचना नकाशा (DP/TP)", en: "DP / TP Map" }, category: landDocsCategory },
-  { href: "/jameen-report-maharashtra/", title: { mr: "जमीन अहवाल", en: "Land Report" }, category: landDocsCategory },
-  { href: "/nakasha-shodh", title: { mr: "नकाशा शोध (जिल्हा/तालुका/गाव)", en: "Map Search" }, category: landDocsCategory },
-];
+/* Generated from lib/collections.ts (the single source of truth for the 7
+ * premium-print routes) so these entries can never list a slug/title that
+ * doesn't match the actual page. */
+const collectionEntries: SearchIndexEntry[] = COLLECTIONS.map((c) => ({
+  href: `/collections/${c.slug}/`,
+  title: c.title,
+  category: collectionsCategory,
+}));
+
+/* The 8 land-document/map pages (7/12, 8A, eFerfar, Village Map, Property
+ * Card, DP/TP Map, Land Report, Map Search) were removed from this search
+ * index as part of the shop/print-studio repositioning (owner decision) —
+ * they are no longer promoted from search, header, footer or the homepage.
+ * The pages themselves, their sitemap.ts entries and /nakasha-shodh's
+ * Supabase-backed enquiry flow are untouched; see the land-records audit
+ * report for the full list and a traffic/redirect plan before any of them
+ * are deleted. */
 
 const toolEntries: SearchIndexEntry[] = [
   { href: "/home-loan-emi/", title: { mr: "गृहकर्ज EMI कॅल्क्युलेटर", en: "Home-loan EMI Calculator" }, category: toolsCategory },
@@ -57,7 +65,7 @@ const infoEntries: SearchIndexEntry[] = [
 ];
 
 export const SITE_SEARCH_INDEX: SearchIndexEntry[] = [
-  ...landDocEntries,
+  ...collectionEntries,
   ...toolEntries,
   ...serviceEntries,
   ...infoEntries,

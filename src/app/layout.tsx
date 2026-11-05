@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Geist, Geist_Mono, Noto_Sans_Devanagari } from "next/font/google";
+import { GeistSans } from "geist/font/sans";
+import { GeistMono } from "geist/font/mono";
+import localFont from "next/font/local";
 import "./globals.css";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { LanguageProvider } from "@/components/language-context";
@@ -11,22 +13,41 @@ import { MobileBottomNav } from "@/components/mobile-bottom-nav";
 import { HydrationFlag } from "@/components/hydration-flag";
 import { LocalBusinessJsonLd } from "@/components/shop/local-business-jsonld";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-  display: "swap",
-});
+/* GeistSans / GeistMono come from the "geist" npm package (official Vercel
+ * package) rather than next/font/google. The package itself wraps
+ * next/font/local around font files it ships in node_modules, already using
+ * the same --font-geist-sans / --font-geist-mono variable names this file
+ * used before — so every consumer of those CSS variables (globals.css,
+ * Tailwind config) needed no change. See the Noto Sans Devanagari block
+ * below for why this swap happened. */
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-  display: "swap",
-});
-
-const notoDevanagari = Noto_Sans_Devanagari({
+/* Noto Sans Devanagari, self-hosted via next/font/local instead of
+ * next/font/google.
+ *
+ * WHY: next/font/google fetches font files from Google Fonts' CDN at BUILD
+ * time (not runtime) — Next.js has no offline fallback for it. On a machine
+ * without reachable access to fonts.googleapis.com / fonts.gstatic.com
+ * (true on this dev box; unverified on the actual Hostinger/Vercel build
+ * host, but a build must not depend on that reachability either way),
+ * `next build` failed outright (`next/font/google` loader TypeError,
+ * "Empty dependency"). Geist was already free of this because the "geist"
+ * package self-hosts; Devanagari was not.
+ *
+ * The four .woff2 files in ./fonts/noto-sans-devanagari/ are the same Noto
+ * Sans Devanagari weights (400/600/700/900) this site always used — pulled
+ * from the @fontsource/noto-sans-devanagari npm package (SIL Open Font
+ * License, see ./fonts/noto-sans-devanagari/LICENSE.txt) and checked into
+ * the repo as static assets, not fetched at build or request time. Nothing
+ * about the rendered typography changes: same family, same four weights,
+ * same variable name, same `display: "swap"`. */
+const notoDevanagari = localFont({
+  src: [
+    { path: "./fonts/noto-sans-devanagari/NotoSansDevanagari-400.woff2", weight: "400", style: "normal" },
+    { path: "./fonts/noto-sans-devanagari/NotoSansDevanagari-600.woff2", weight: "600", style: "normal" },
+    { path: "./fonts/noto-sans-devanagari/NotoSansDevanagari-700.woff2", weight: "700", style: "normal" },
+    { path: "./fonts/noto-sans-devanagari/NotoSansDevanagari-900.woff2", weight: "900", style: "normal" },
+  ],
   variable: "--font-noto-devanagari",
-  subsets: ["devanagari"],
-  weight: ["400", "600", "700", "900"],
   display: "swap",
 });
 
@@ -43,11 +64,11 @@ const SITE_URL = "https://www.printshubh.shop";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "PrintShubh.shop | महाराष्ट्रासाठी जमीन सेवा",
-    template: "%s | PrintShubh",
+    default: "PRINTSHUBH — Premium Print & Visual Studio",
+    template: "%s | PRINTSHUBH",
   },
   description:
-    "७/१२ उतारा, ८अ, गाव नकाशा, DP/TP Map, Property Card, Mutation/Ferfar आणि Land Report साठी WhatsApp सहाय्य.",
+    "Premium wallpaper, canvas, wall art, rexine, satin fabric and vinyl printing — plus everyday Jumbo Xerox, photo and digital services. WhatsApp first.",
   applicationName: "PrintShubh",
   alternates: {
     canonical: "/",
@@ -57,15 +78,15 @@ export const metadata: Metadata = {
     locale: "mr_IN",
     url: SITE_URL + "/",
     siteName: "PrintShubh",
-    title: "PrintShubh.shop | महाराष्ट्रासाठी जमीन सेवा",
+    title: "PRINTSHUBH — Premium Print & Visual Studio",
     description:
-      "महाराष्ट्रातील जमीन कागदपत्रांसाठी WhatsApp सहाय्य — 7/12, 8A, गाव नकाशा, DP Map, मिळकत पत्रिका.",
+      "Premium wallpaper, canvas, wall art, rexine, satin fabric and vinyl printing — plus everyday Jumbo Xerox, photo and digital services.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "PrintShubh.shop | महाराष्ट्रासाठी जमीन सेवा",
+    title: "PRINTSHUBH — Premium Print & Visual Studio",
     description:
-      "महाराष्ट्रातील जमीन कागदपत्रांसाठी WhatsApp सहाय्य.",
+      "Premium print and visual studio — wallpaper, canvas, wall art and more.",
   },
   robots: {
     index: true,
@@ -152,7 +173,7 @@ export default function RootLayout({
   return (
     <html
       lang="mr-IN"
-      className={`${geistSans.variable} ${geistMono.variable} ${notoDevanagari.variable} h-full`}
+      className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} h-full`}
     >
       <head>
         {/* Structured data — plain <script> tags, emitted server-side with

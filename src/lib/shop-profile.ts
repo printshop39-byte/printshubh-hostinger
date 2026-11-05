@@ -23,20 +23,27 @@ import type { Lang } from "@/components/language-context";
  * Two names, on purpose:
  *
  *   BRAND_NAME / BRAND_LINE — the wordmark, as it appears in the hero and
- *     the header. "XEROX" is the correct English spelling.
+ *     the header. Updated to the "Premium Print & Visual Studio"
+ *     positioning (owner decision) — this is website copy only.
  *
  *   GBP_NAME — the business name EXACTLY as registered on the Google
  *     Business Profile, spelling included. This is the string that goes into
  *     structured data, because NAP consistency is matched literally: schema
  *     that says "XEROX" while the profile says "ZEROX" is a mismatched
- *     citation.
+ *     citation. DELIBERATELY NOT changed with the rebrand above — the
+ *     Google Business Profile itself still reads "PRINTSHUBH JUMBO ZEROX".
+ *     Changing this constant without first renaming the actual GBP listing
+ *     would break NAP consistency (the #1 local-SEO ranking signal) between
+ *     this site's structured data and the real citation. If the business is
+ *     being renamed everywhere (GBP, signage, business card), update GBP_NAME
+ *     to match AFTER that rename, not before.
  *
  * NOTE FOR THE OWNER: the profile reads "ZEROX", the printed business card
  * reads "PRINTSHUB" (no H), and the domain is printshubh.shop. Three
  * spellings of one business weakens every citation. Pick one and make the
  * profile, the card and this file agree — then update GBP_NAME here. */
 export const BRAND_NAME = "PRINTSHUBH";
-export const BRAND_LINE = "JUMBO XEROX";
+export const BRAND_LINE = "Premium Print & Visual Studio";
 export const GBP_NAME = "PRINTSHUBH JUMBO ZEROX";
 
 /** Google Business Profile "Opening date". Used for schema `foundingDate`
@@ -258,6 +265,55 @@ export interface WorkSample {
 
 export const WORK_SAMPLES: WorkSample[] = [];
 
+/* ── Printing technology photos ──────────────────────────────────────────
+ * The 11-colour printing section (components/shop/printing-technology.tsx)
+ * is typography-only today — stock photography of someone else's printer
+ * is not allowed, and no in-house photo of the Epson SureColor SC-S9130
+ * or a finished print exists in this repo yet.
+ *
+ * Shoot the machine and a close-up of a finished wallpaper/canvas/vinyl
+ * print, drop the files in /public/printing/, list them here with real
+ * intrinsic width/height, and the section's photo strip appears —
+ * nothing else needs to change. */
+export interface PrintingTechPhoto {
+  src: string;
+  width: number;
+  height: number;
+  alt: Record<Lang, string>;
+  caption: Record<Lang, string>;
+}
+
+export const PRINTING_TECH_PHOTOS: PrintingTechPhoto[] = [];
+
+/* ── Certifications ───────────────────────────────────────────────────────
+ * Scaffold only — NOT wired to any visible badge/logo yet, and must not be
+ * filled in from a claim, a brochure, or what the equipment "should" carry.
+ *
+ * A certification only belongs here once a human has the actual certificate
+ * in hand (issuer, certificate number, exactly which product/material it
+ * covers, and a validity/verification link) and has confirmed the scope —
+ * e.g. a GREENGUARD Gold certificate for one ink or substrate does NOT mean
+ * "PrintShubh is GREENGUARD Gold certified" site-wide. Displaying a
+ * certification logo without a verified certificate behind it is exactly
+ * the fabricated-accreditation problem this list exists to prevent.
+ *
+ * `logoSrc` must be the certifying body's own issued mark (e.g. saved from
+ * the certificate/verification page) — never a logo recreated from memory
+ * or generated to "look like" GREENGUARD/an accreditation body. */
+export interface Certification {
+  name: Record<Lang, string>;
+  issuer: string;
+  certificateNumber: string;
+  /** Exactly what the certificate covers — e.g. "SC-S9130 UltraChrome GS3 ink", never "all products". */
+  scope: Record<Lang, string>;
+  verificationUrl: string;
+  logoSrc: string;
+  logoWidth: number;
+  logoHeight: number;
+}
+
+export const CERTIFICATIONS: Certification[] = [];
+
 /* ── Derived helpers ───────────────────────────────────────────────────
  * Sections call these instead of testing the raw exports, so the "should
  * I render?" rule lives in exactly one place. */
@@ -265,6 +321,8 @@ export const hasAddress = (): boolean => SHOP_ADDRESS !== null;
 export const hasHours = (): boolean => OPENING_HOURS !== null;
 export const hasShopPhotos = (): boolean => SHOP_PHOTOS.length > 0;
 export const hasWorkSamples = (): boolean => WORK_SAMPLES.length > 0;
+export const hasPrintingTechPhotos = (): boolean => PRINTING_TECH_PHOTOS.length > 0;
+export const hasCertifications = (): boolean => CERTIFICATIONS.length > 0;
 export const hasReviews = (): boolean => GOOGLE_REVIEWS.length > 0;
 export const hasAggregateRating = (): boolean =>
   GOOGLE_RATING !== null && GOOGLE_REVIEW_COUNT !== null;

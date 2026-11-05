@@ -18,21 +18,17 @@
 
 import { useLang, type Lang } from "@/components/language-context";
 
+/* The land-document promo lines (7/12, 8A, Village Map, Maps/Plans) that
+ * used to run here were removed as part of the shop/print-studio
+ * repositioning (owner decision) — see src/app/page.tsx. Those pages are
+ * still live; they're just no longer advertised sitewide. */
 const messages: Record<Lang, string[]> = {
   mr: [
-    "7/12 उतारा ₹30 पासून",
-    "8A उतारा ₹30 पासून",
-    "गाव नकाशा ₹300 पासून",
-    "नकाशे / प्लॅन सेवा उपलब्ध",
     "किंमत आधी कळेल — छुपी फी नाही",
     "WhatsApp वर PDF सहाय्य",
     "PrintShubh ही सरकारी वेबसाइट नाही",
   ],
   en: [
-    "7/12 Extract from ₹30",
-    "8A Extract from ₹30",
-    "Village Map from ₹300",
-    "Maps / Plans services available",
     "Know the price first — no hidden fees",
     "PDF assistance on WhatsApp",
     "PrintShubh is not a government website",

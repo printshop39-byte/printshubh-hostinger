@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { COLLECTIONS } from "@/lib/collections";
 
 /**
  * Sitemap for printshubh.shop.
@@ -33,6 +34,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/printing-xerox`,              lastModified, changeFrequency: "monthly", priority: 0.9 },
     { url: `${SITE_URL}/photo-services`,              lastModified, changeFrequency: "monthly", priority: 0.9 },
     { url: `${SITE_URL}/digital-services`,            lastModified, changeFrequency: "monthly", priority: 0.8 },
+
+    /* The 7 Premium Print & Visual Studio collections (owner rebrand) —
+     * generated from lib/collections.ts so a new/renamed collection can't
+     * be added to the site without also landing here. */
+    ...COLLECTIONS.map((c) => ({
+      url: `${SITE_URL}/collections/${c.slug}/`,
+      lastModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    })),
 
     /* Service SEO pages (Stage D) */
     { url: `${SITE_URL}/satbara-utara-maharashtra/`,   lastModified, changeFrequency: "monthly", priority: 0.8 },
