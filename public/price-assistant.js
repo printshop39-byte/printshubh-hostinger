@@ -170,7 +170,7 @@
     // On mobile the launcher collapses to an icon-only circle (hide the text
     // span; aria-label keeps it labelled) and lifts above the sticky bottom
     // nav + safe-area, so the wide pill no longer overlaps content/disclaimers.
-    '@media (max-width:480px){.psb-panel{right:0;bottom:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;border-radius:0}.psb-launcher{right:16px;bottom:calc(76px + env(safe-area-inset-bottom));padding:12px;gap:0}.psb-launcher>span:last-child{display:none}}';
+    '@media (max-width:480px){.psb-panel{right:0;bottom:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;border-radius:0}.psb-launcher{right:16px;bottom:calc(96px + env(safe-area-inset-bottom));padding:12px;gap:0}.psb-launcher>span:last-child{display:none}}';
 
   var style = el("style");
   style.textContent = css;
