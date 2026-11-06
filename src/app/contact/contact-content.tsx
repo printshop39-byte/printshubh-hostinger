@@ -48,7 +48,7 @@ const tx: Record<Lang, {
     waMsg: "नमस्कार, मला PrintShubh सेवेबद्दल माहिती हवी आहे.",
     whenToCallTitle: "कधी संपर्क करावा",
     whenToCallBody:
-      "7/12 / 8A / गाव नकाशा / DP / TP / मिळकत पत्रिका / फेरफार यापैकी कोणत्याही दस्तऐवजासाठी, सेवा शुल्क विचारणा करण्यासाठी, किंवा वेबसाइट वापरताना अडचण आल्यास.",
+      "7/12 / 8A / गाव नकाशा / DP / TP / मिळकत पत्रिका / फेरफार यापैकी कोणत्याही दस्तऐवजासाठी, वॉलपेपर / कॅनव्हास / वॉल आर्ट / रेक्झिन / साटीन फॅब्रिक / फ्रेम्ड प्रिंट्स / व्हिनाइल यापैकी कोणत्याही Print Collection साठी, सेवा शुल्क विचारणा करण्यासाठी, किंवा वेबसाइट वापरताना अडचण आल्यास.",
     responseTitle: "उत्तराचा वेळ",
     responseBody:
       "WhatsApp वर साधारणतः 30 मिनिटांत प्रतिसाद. कधी अधिक वेळ लागल्यास सहन करा — आम्ही प्रत्येक चौकशीला नक्की उत्तर देतो.",
@@ -72,7 +72,7 @@ const tx: Record<Lang, {
     waMsg: "Hello, I would like to know about PrintShubh services.",
     whenToCallTitle: "When to contact",
     whenToCallBody:
-      "For any 7/12, 8A, village map, DP/TP, Property Card or Mutation request, to ask about service fees, or if you face trouble using the website.",
+      "For any 7/12, 8A, village map, DP/TP, Property Card or Mutation request, for any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, or if you face trouble using the website.",
     responseTitle: "Response time",
     responseBody:
       "Typical WhatsApp reply within 30 minutes. If we take longer, please bear with us — every query is answered.",

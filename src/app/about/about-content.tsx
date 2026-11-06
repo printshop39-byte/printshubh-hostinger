@@ -109,6 +109,25 @@ function AboutBody({ lang }: { lang: Lang }) {
           />
         </LegalSection>
 
+        <LegalSection heading="आम्ही आता काय करतो — Premium Print & Visual Studio">
+          <p>
+            जमीन कागदपत्र सहाय्यासोबतच, PrintShubh आता वॉलपेपर, कॅनव्हास, वॉल
+            आर्ट, रेक्झिन/PU लेदरेट, साटीन फॅब्रिक, फ्रेम्ड प्रिंट्स आणि व्हिनाइल
+            अशा सात Premium Print Collections साठी सानुकूल प्रिंटिंग सेवा देखील
+            पुरवतो. प्रत्येक ऑर्डर तुमच्या मापानुसार आणि डिझाइननुसार तयार केली
+            जाते.
+          </p>
+        </LegalSection>
+
+        <LegalSection heading="आमची उत्पादन क्षमता">
+          <p>
+            प्रिंटिंगसाठी Epson SureColor SC-S9130 हे 11-रंगी तंत्रज्ञान वापरले
+            जाते — बारीक तपशील आणि सौम्य रंगसंक्रमणासह दर्जेदार प्रिंट. किंमत
+            प्रत्येक ऑर्डरनुसार (माप, मटेरियल, डिझाइन) ठरते आणि कामाला सुरुवात
+            करण्यापूर्वी WhatsApp वर स्पष्ट सांगितली जाते.
+          </p>
+        </LegalSection>
+
         <LegalSection heading="आमची मर्यादा — कृपया लक्षात ठेवा">
           <p>
             PrintShubh ही सरकारी संस्था नाही आणि आम्ही कोणतीही सरकारी नोंद
@@ -194,6 +213,25 @@ function AboutBody({ lang }: { lang: Lang }) {
             "Accountability — honest refund and correction policy.",
           ]}
         />
+      </LegalSection>
+
+      <LegalSection heading="What we do now — Premium Print & Visual Studio">
+        <p>
+          Alongside land-document assistance, PrintShubh now offers custom
+          printing across seven Premium Print Collections — wallpaper,
+          canvas, wall art, rexine/PU leatherette, satin fabric, framed
+          prints and vinyl. Every order is produced to your exact size and
+          design.
+        </p>
+      </LegalSection>
+
+      <LegalSection heading="Our production capability">
+        <p>
+          Printing is done on the Epson SureColor SC-S9130's 11-colour
+          technology, for fine detail and smooth tonal transitions. Pricing
+          depends on each order (size, material, design) and is confirmed
+          clearly on WhatsApp before work begins.
+        </p>
       </LegalSection>
 
       <LegalSection heading="What we are not — please remember">

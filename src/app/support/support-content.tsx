@@ -3,6 +3,7 @@
 import Link from "next/link";
 import {
   FileText,
+  Frame,
   Landmark,
   MapPinned,
   MessageCircle,
@@ -53,6 +54,12 @@ const topics = (lang: Lang): Topic[] => {
         waMsg: "नमस्कार, मला जमीन कागदपत्र सेवेबद्दल माहिती हवी आहे.",
       },
       {
+        icon: <Frame className="size-5" />,
+        title: "Print Collections चौकशी",
+        desc: "वॉलपेपर, कॅनव्हास, वॉल आर्ट, रेक्झिन, साटीन फॅब्रिक, फ्रेम्ड प्रिंट्स, व्हिनाइल — कोणत्याही collection बद्दल माहिती किंवा सानुकूल मापाचे कोट.",
+        waMsg: "नमस्कार, मला Print Collections पैकी एकाबद्दल माहिती हवी आहे.",
+      },
+      {
         icon: <Receipt className="size-5" />,
         title: "पेमेंट / रिफंड",
         desc: "पेमेंट UPI / QR ने. अहवाल मिळाला नाही तर परतावा शक्य.",
@@ -84,6 +91,12 @@ const topics = (lang: Lang): Topic[] => {
       title: "Land Documents",
       desc: "8A, Property Card, Mutation, Svamitva maps and other documents.",
       waMsg: "Hello, I need help with land document services.",
+    },
+    {
+      icon: <Frame className="size-5" />,
+      title: "Print Collections enquiry",
+      desc: "Wallpaper, canvas, wall art, rexine, satin fabric, framed prints, vinyl — info or a custom-size quote for any collection.",
+      waMsg: "Hello, I'd like to know about one of the Print Collections.",
     },
     {
       icon: <Receipt className="size-5" />,
