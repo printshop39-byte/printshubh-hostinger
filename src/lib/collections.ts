@@ -56,6 +56,10 @@ export interface Collection {
   applications: Record<Lang, string>[];
   /** "What it's printed on / how it's finished" — factual material notes only. */
   materialInfo: Record<Lang, string>[];
+  /** Material / Finish dropdown choices for the Stage-3 inline enquiry form —
+   * owner-confirmed list per collection (see collections page spec). Do not
+   * add or rename an option here without the same confirmation. */
+  materialOptions: Record<Lang, string>[];
   photos: CollectionPhoto[];
   /** Pre-filled WhatsApp enquiry message for the main CTA. */
   whatsappMessage: Record<Lang, string>;
@@ -86,6 +90,10 @@ export const COLLECTIONS: Collection[] = [
     materialInfo: [
       { mr: "मापानुसार सानुकूल प्रिंट", en: "Custom print to your exact wall size" },
       { mr: "तुमची डिझाइन/फोटो अपलोड करा, किंवा आमच्याकडून सहाय्य घ्या", en: "Upload your own design/photo, or get help designing one" },
+    ],
+    materialOptions: [
+      { mr: "टेक्स्चर्ड", en: "Textured" },
+      { mr: "ग्लॉसी", en: "Glossy" },
     ],
     photos: [],
     whatsappMessage: {
@@ -120,6 +128,10 @@ export const COLLECTIONS: Collection[] = [
       { mr: "कॅनव्हास फॅब्रिकवर प्रिंट", en: "Printed on canvas fabric" },
       { mr: "स्ट्रेचर फ्रेम माउंटिंग उपलब्ध (विनंतीनुसार)", en: "Stretcher-frame mounting available on request" },
     ],
+    materialOptions: [
+      { mr: "ग्लॉसी", en: "Glossy" },
+      { mr: "मॅट", en: "Matte" },
+    ],
     photos: [],
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला कॅनव्हास प्रिंटिंगबद्दल माहिती हवी आहे.",
@@ -153,6 +165,10 @@ export const COLLECTIONS: Collection[] = [
       { mr: "सिंगल किंवा मल्टी-पॅनल पर्याय", en: "Single-panel or multi-panel options" },
       { mr: "आकार व फिनिश तुमच्या जागेनुसार", en: "Size and finish matched to your space" },
     ],
+    materialOptions: [
+      { mr: "सिंगल पॅनल", en: "Single Panel" },
+      { mr: "मल्टी पॅनल", en: "Multi Panel" },
+    ],
     photos: [],
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला वॉल आर्ट प्रिंटिंगबद्दल माहिती हवी आहे.",
@@ -184,6 +200,10 @@ export const COLLECTIONS: Collection[] = [
     materialInfo: [
       { mr: "रेक्झिन / PU लेदरेट पृष्ठभाग", en: "Rexine / PU leatherette surface" },
       { mr: "मापानुसार सानुकूल प्रिंट", en: "Custom print to your size" },
+    ],
+    materialOptions: [
+      { mr: "टेक्स्चर्ड", en: "Textured" },
+      { mr: "प्लेन", en: "Plain" },
     ],
     photos: [],
     whatsappMessage: {
@@ -217,6 +237,9 @@ export const COLLECTIONS: Collection[] = [
       { mr: "साटीन फॅब्रिक पृष्ठभाग", en: "Satin fabric surface" },
       { mr: "मापानुसार सानुकूल प्रिंट", en: "Custom print to your size" },
     ],
+    materialOptions: [
+      { mr: "प्लेन साटीन", en: "Plain Satin" },
+    ],
     photos: [],
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला साटीन फॅब्रिक प्रिंटिंगबद्दल माहिती हवी आहे.",
@@ -248,6 +271,10 @@ export const COLLECTIONS: Collection[] = [
     materialInfo: [
       { mr: "फ्रेम स्टाइल व आकार तुमच्या निवडीनुसार", en: "Frame style and size as per your choice" },
       { mr: "भिंतीवर लावण्यासाठी तयार", en: "Ready to hang" },
+    ],
+    materialOptions: [
+      { mr: "ब्लॅक फ्रेम", en: "Black Frame" },
+      { mr: "व्हाइट फ्रेम", en: "White Frame" },
     ],
     photos: [],
     whatsappMessage: {
@@ -281,6 +308,9 @@ export const COLLECTIONS: Collection[] = [
     materialInfo: [
       { mr: "व्हिनाइल मटेरियल — इनडोअर/आउटडोअर", en: "Vinyl material — indoor / outdoor" },
       { mr: "मापानुसार सानुकूल प्रिंट", en: "Custom print to your size" },
+    ],
+    materialOptions: [
+      { mr: "इनडोअर", en: "Indoor" },
     ],
     photos: [],
     whatsappMessage: {
