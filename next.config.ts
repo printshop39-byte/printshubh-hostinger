@@ -43,6 +43,15 @@ const RETIRED_HOSTS = ["printshubh.com", "www.printshubh.com"];
 const nextConfig: NextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
 
+  /* Without this, Next 16 silently ignores src/app/global-not-found.tsx and
+   * falls back to its own built-in 404 (confirmed by audit: both the live
+   * site and a fresh local build rendered the generic Next.js "404 / This
+   * page could not be found" page, not our Marathi/WhatsApp-CTA one).
+   * Verified fix, tested on a separate local copy before this change. */
+  experimental: {
+    globalNotFound: true,
+  },
+
   /* ── Apex → www, 308 Permanent ───────────────────────────────────────
    *
    * The canonical domain is https://www.printshubh.shop — every canonical
