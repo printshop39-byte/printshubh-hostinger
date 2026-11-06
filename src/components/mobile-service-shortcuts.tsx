@@ -3,14 +3,16 @@
 /**
  * MobileServiceShortcuts — mobile-only (md:hidden) quick-access block shown
  * right under the hero/ServiceStrip. A slim pill row for the free
- * calculators (home-loan EMI, stamp duty, ready reckoner, land-unit
- * converter) — top-of-funnel tools, not a priced service.
+ * calculators (home-loan EMI, stamp duty, ready reckoner) — top-of-funnel
+ * tools, not a priced service.
  *
  * The priced document/map card grid (7/12, 8A, eFerfar, Village Map) that
  * used to sit above this row was removed when LandDocuments and
  * UnifiedRecordForm came off the homepage (owner repositioning decision) —
- * see src/app/page.tsx. The pages themselves are untouched; they are just
- * no longer promoted from here.
+ * see src/app/page.tsx. The land-unit-converter chip was dropped from this
+ * row too, in the same repositioning. The pages themselves (including
+ * /land-unit-converter/) are untouched; they are just no longer promoted
+ * from here.
  */
 
 import Link from "next/link";
@@ -26,7 +28,6 @@ const tools: Tool[] = [
   { emoji: "🧮", label: { mr: "EMI कॅल्क", en: "EMI" }, href: "/home-loan-emi/" },
   { emoji: "💰", label: { mr: "स्टॅम्प ड्युटी", en: "Stamp Duty" }, href: "/stamp-duty/" },
   { emoji: "📊", label: { mr: "रेडी रेकनर", en: "Ready Reckoner" }, href: "/ready-reckoner/" },
-  { emoji: "📐", label: { mr: "क्षेत्र रूपांतरक", en: "Unit Converter" }, href: "/land-unit-converter/" },
 ];
 
 const toolsHeading: Record<Lang, string> = { mr: "मोफत साधने", en: "Free Tools" };

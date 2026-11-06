@@ -13,6 +13,7 @@
 
 import type { Lang } from "@/components/language-context";
 import type { ServiceIconKey } from "@/components/shop/service-icons";
+import { COLLECTIONS } from "@/lib/collections";
 
 export type ServiceGroupKey = "printing" | "photo" | "land" | "digital";
 
@@ -129,13 +130,16 @@ export function serviceGroup(key: ServiceGroupKey): ServiceGroup {
 
 /* ── Quick-service strip (below the hero) ────────────────────────────────
  * Short labels only — this is a scan-in-two-seconds strip, not a catalogue.
- * `href` is optional; a chip without one is a label, not a dead link. */
-export const QUICK_SERVICES: { label: Record<Lang, string>; href?: string }[] = [
-  { label: { mr: "जंबो झेरॉक्स", en: "Jumbo Xerox" }, href: "/printing-xerox" },
-  { label: { mr: "रंगीत झेरॉक्स", en: "Colour Xerox" }, href: "/printing-xerox" },
-  { label: { mr: "फोटो प्रिंट", en: "Photo Print" }, href: "/photo-services" },
-  { label: { mr: "पासपोर्ट फोटो", en: "Passport Photo" }, href: "/photo-services" },
-  { label: { mr: "पोस्टर प्रिंट", en: "Poster Print" }, href: "/printing-xerox" },
-  { label: { mr: "लॅमिनेशन", en: "Lamination" }, href: "/printing-xerox" },
-  { label: { mr: "स्कॅनिंग", en: "Scanning" }, href: "/printing-xerox" },
-];
+ * `href` is optional; a chip without one is a label, not a dead link.
+ *
+ * Now the 7 Premium Collections (owner rebrand decision) — generated from
+ * lib/collections.ts, the single source of truth, so a chip here can never
+ * point at a slug/title that doesn't match the actual /collections/<slug>/
+ * page. The old everyday-counter chips (Jumbo Xerox, Colour Xerox, Photo
+ * Print, …) moved out of this strip; those services are still covered by
+ * ServicePillars and their own pages (printing-xerox, photo-services). */
+export const QUICK_SERVICES: { label: Record<Lang, string>; href?: string }[] =
+  COLLECTIONS.map((c) => ({
+    label: c.shortTitle,
+    href: `/collections/${c.slug}/`,
+  }));

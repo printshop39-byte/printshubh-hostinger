@@ -19,16 +19,20 @@
 import { useLang, type Lang } from "@/components/language-context";
 
 /* The land-document promo lines (7/12, 8A, Village Map, Maps/Plans) that
- * used to run here were removed as part of the shop/print-studio
- * repositioning (owner decision) — see src/app/page.tsx. Those pages are
- * still live; they're just no longer advertised sitewide. */
+ * used to run here were removed as part of the shop/print-studio ->
+ * Premium Print & Visual Studio repositioning (owner decision) — see
+ * src/app/page.tsx. Those pages are still live; they're just no longer
+ * advertised sitewide. First line now promotes the 7 Premium Collections
+ * instead. */
 const messages: Record<Lang, string[]> = {
   mr: [
+    "वॉलपेपर, कॅनव्हास, वॉल आर्ट व अधिक — Premium Collections",
     "किंमत आधी कळेल — छुपी फी नाही",
     "WhatsApp वर PDF सहाय्य",
     "PrintShubh ही सरकारी वेबसाइट नाही",
   ],
   en: [
+    "Wallpaper, canvas, wall art & more — Premium Collections",
     "Know the price first — no hidden fees",
     "PDF assistance on WhatsApp",
     "PrintShubh is not a government website",

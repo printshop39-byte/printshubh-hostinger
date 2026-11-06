@@ -3,7 +3,6 @@ import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { Disclaimer } from "@/components/disclaimer";
 import { MobileServiceShortcuts } from "@/components/mobile-service-shortcuts";
 import { SampleProcessSection } from "@/components/sample-process-section";
-import { MapPromo } from "@/components/map-promo";
 import { ToolsSection } from "@/components/tools-section";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
@@ -60,12 +59,13 @@ export const metadata: Metadata = {
 /* ── Scroll order ───────────────────────────────────────────────────────
  *
  *   hero → services → mobile shortcuts → whatsapp print → shop & work →
- *   30+ years → samples → maps → printing tech → collections → reviews →
+ *   30+ years → samples → printing tech → collections → reviews →
  *   location → tools
  *
- * LandDocuments and UnifiedRecordForm were removed from this homepage flow
- * as part of the shop/print-studio repositioning (owner decision). This is
- * a HOMEPAGE/NAVIGATION change only:
+ * LandDocuments, UnifiedRecordForm and (later) MapPromo were removed from
+ * this homepage flow as part of the shop/print-studio -> Premium Print &
+ * Visual Studio repositioning (owner decision). This is a
+ * HOMEPAGE/NAVIGATION change only:
  *   - The 9 land-document SEO pages they linked to (satbara-utara-maharashtra,
  *     8a-utara-maharashtra, gav-nakasha-maharashtra, dp-map-maharashtra,
  *     milkat-patrika-maharashtra, e-ferfar-maharashtra,
@@ -75,9 +75,10 @@ export const metadata: Metadata = {
  *   - /nakasha-shodh's enquiry form, /api/inquiries, the Supabase lead store,
  *     Resend notifications and /admin/land-reports(-gis) are UNTOUCHED —
  *     real customer data and the owner's only way to read it.
- *   - Both components still exist (components/shop/land-documents.tsx,
- *     components/unified-record-form.tsx) — unused by this page but not
- *     deleted, in case this decision is revisited.
+ *   - All three components still exist (components/shop/land-documents.tsx,
+ *     components/unified-record-form.tsx, components/map-promo.tsx) —
+ *     unused by this page but not deleted, in case this decision is
+ *     revisited.
  *
  * ShopGallery, GoogleReviews and VisitShop each render NOTHING until the
  * business data behind them is filled in (src/lib/shop-profile.ts), so the
@@ -117,9 +118,6 @@ export default function Home() {
 
         {/* Trust proof — sample previews, 3-step process, assurances */}
         <SampleProcessSection />
-
-        {/* Map-services promo — DP / TPS / Regional Plan, from ₹200 */}
-        <MapPromo />
 
         {/* The 11-colour Epson SureColor SC-S9130 — typography-only until
             real photos/certificates exist (see shop-profile.ts) */}

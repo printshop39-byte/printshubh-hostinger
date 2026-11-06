@@ -3,18 +3,19 @@
 /**
  * MobileBottomNav — app-style sticky bottom bar, mobile only (md:hidden).
  *
- * Content-discovery taxonomy: Home, Collections (#collections), Maps
- * (#maps), Call and WhatsApp.
+ * Content-discovery taxonomy: Home, Collections (#collections), Call and
+ * WhatsApp.
  * Directions was deliberately dropped — it's already reachable via
- * VisitShop, the footer and the Google Business Profile, and a "नकाशे"
- * (Maps) tab next to a "दिशा" (Directions) tab reads as the same word twice
- * in Marathi. Call stays: it's the lowest-friction path for the shop's
- * older, less web-savvy walk-in customers, and unlike Maps/Tools it has no
- * other persistent mobile surface (WhatsAppSupportButton is desktop-only).
+ * VisitShop, the footer and the Google Business Profile. Call stays: it's
+ * the lowest-friction path for the shop's older, less web-savvy walk-in
+ * customers, and unlike Collections/Tools it has no other persistent
+ * mobile surface (WhatsAppSupportButton is desktop-only).
  *
  * The Documents tab (→ /#land-documents) was removed when LandDocuments and
  * UnifiedRecordForm came off the homepage (owner repositioning decision) —
- * its target anchor no longer exists on this page.
+ * its target anchor no longer exists on this page. The Maps tab (→ /#maps)
+ * was removed the same way when MapPromo came off the homepage too (same
+ * repositioning, Premium Print & Visual Studio) — that anchor is also gone.
  *
  * Hrefs are root-relative (/#id) because this bar is mounted in the root
  * layout and renders on every route, not just "/".
@@ -24,7 +25,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Home, LayoutGrid, Map, MessageCircle, Phone } from "lucide-react";
+import { Home, LayoutGrid, MessageCircle, Phone } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
@@ -39,7 +40,6 @@ const WA_MESSAGE: Record<Lang, string> = {
 const label = {
   home: { mr: "होम", en: "Home" },
   collections: { mr: "Collections", en: "Collections" },
-  maps: { mr: "नकाशे", en: "Maps" },
   call: { mr: "कॉल", en: "Call" },
 } satisfies Record<string, Record<Lang, string>>;
 
@@ -77,10 +77,6 @@ export function MobileBottomNav() {
 
       <Link href="/#collections" className={`${tabClass} text-slate-600`}>
         <TabLabel icon={LayoutGrid} text={label.collections[lang]} />
-      </Link>
-
-      <Link href="/#maps" className={`${tabClass} text-slate-600`}>
-        <TabLabel icon={Map} text={label.maps[lang]} />
       </Link>
 
       <a href={`tel:${SITE_CONTACT.phoneTel}`} className={`${tabClass} text-slate-600`}>

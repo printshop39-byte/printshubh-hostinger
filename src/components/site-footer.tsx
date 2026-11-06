@@ -108,7 +108,7 @@ const tx: Record<
     hours: "वेळ",
     toolsTitle: "मोफत साधने — PrintShubh.in",
     toolsBody:
-      "फोटो Compress, PDF, आधार एका पानावर, Resume, सरकारी अर्ज नमुने आणि जमीन युनिट कन्व्हर्टर — मोफत, तुमच्याच ब्राउझरमध्ये.",
+      "फोटो Compress, PDF, आधार एका पानावर, Resume आणि सरकारी अर्ज नमुने — मोफत, तुमच्याच ब्राउझरमध्ये.",
     toolsCta: "साधने पहा",
   },
   en: {
@@ -148,7 +148,7 @@ const tx: Record<
     builtFor: "For Maharashtra.",
     toolsTitle: "Free tools — PrintShubh.in",
     toolsBody:
-      "Photo compressor, PDF tools, Aadhaar on one page, resume builder, government application templates and a land unit converter — free, in your own browser.",
+      "Photo compressor, PDF tools, Aadhaar on one page, resume builder and government application templates — free, in your own browser.",
     toolsCta: "Open the tools",
     directions: "Directions",
     hours: "Hours",

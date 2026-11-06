@@ -6,6 +6,7 @@ import {
   CheckCircle2,
   MessageCircle,
   Sparkles,
+  Sparkle,
 } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
@@ -19,11 +20,11 @@ import {
 
 const copy = {
   mr: {
-    badge: "कोल्हापूरचे प्रिंटिंग सेंटर • महाराष्ट्रासाठी डिजिटल सेवा",
-    headlineStart: "प्रिंट आणि डॉक्युमेंट",
-    headlineAccent: "सोल्यूशन्स.",
+    badge: "कोल्हापूरचे Premium Print & Visual Studio",
+    headlineStart: "प्रीमियम प्रिंट",
+    headlineAccent: "व्हिज्युअल स्टुडिओ.",
     support:
-      "फाइल पाठवा, सेवा निवडा आणि काम सोपं करा. प्रिंटिंग, फोटो व डिजिटल सेवांसाठी विश्वासार्ह सहाय्य — किंमत आणि उपलब्धता आधीच स्पष्ट.",
+      "वॉलपेपर, कॅनव्हास, वॉल आर्ट, रेक्झिन, साटीन फॅब्रिक, फ्रेम्ड प्रिंट्स व व्हिनाइल — तसेच रोजची झेरॉक्स, फोटो व डिजिटल सेवा. किंमत WhatsApp वर, आधीच स्पष्ट.",
     panelKicker: "आज कोणते काम आहे?",
     panelTitle: "तुमच्या कामासाठी योग्य सेवा निवडा",
     printTitle: "प्रिंटिंग / झेरॉक्स",
@@ -32,8 +33,8 @@ const copy = {
     photoBody: "पासपोर्ट, ID आणि फोटो प्रिंट",
     digitalTitle: "डिजिटल सेवा",
     digitalBody: "ऑनलाइन फॉर्म, PDF व WhatsApp प्रिंटिंग",
-    mapTitle: "नकाशे / प्लॅन",
-    mapBody: "गाव नकाशा, DP, TP, Regional Plan",
+    collectionsTitle: "Premium Collections",
+    collectionsBody: "वॉलपेपर, कॅनव्हास, वॉल आर्ट व बरेच काही",
     primary: "WhatsApp वर फाइल पाठवा",
     trust: [
       `${YEARS_EXPERIENCE}+ वर्षांचा अनुभव`,
@@ -43,11 +44,11 @@ const copy = {
     note: "अधिकृत सार्वजनिक स्रोतांवर आधारित खाजगी सहाय्य सेवा.",
   },
   en: {
-    badge: "Kolhapur print centre • Digital services across Maharashtra",
-    headlineStart: "Send the file.",
-    headlineAccent: "Get the job ready.",
+    badge: "Kolhapur's Premium Print & Visual Studio",
+    headlineStart: "Premium Print",
+    headlineAccent: "& Visual Studio.",
     support:
-      "One dependable place for printing, photos and digital services. Price and availability are confirmed before work starts.",
+      "Wallpaper, canvas, wall art, rexine, satin fabric, framed prints and vinyl — plus everyday xerox, photo and digital services. Price on WhatsApp, upfront.",
     panelKicker: "What do you need today?",
     panelTitle: "Choose a service and go straight ahead",
     printTitle: "Printing / Xerox",
@@ -56,8 +57,8 @@ const copy = {
     photoBody: "Passport, ID and photo prints",
     digitalTitle: "Digital services",
     digitalBody: "Online forms, PDF work and WhatsApp printing",
-    mapTitle: "Maps / plans",
-    mapBody: "Village map, DP, TP and Regional Plan",
+    collectionsTitle: "Premium Collections",
+    collectionsBody: "Wallpaper, canvas, wall art and more",
     primary: "Send a file on WhatsApp",
     trust: [
       `${YEARS_EXPERIENCE}+ years of experience`,
@@ -68,15 +69,20 @@ const copy = {
   },
 } satisfies Record<Lang, Record<string, string | string[]>>;
 
-/* The fourth hero card used to be "land" (7/12, 8A, Property Card, href
- * "/#unified-form"). Removed/replaced with "digital" as part of the
- * shop/print-studio repositioning (owner decision) — its target
- * (UnifiedRecordForm) no longer renders on this page. */
+/* This panel's 4 cards: printing, photo, digital, Premium Collections.
+ *
+ * History, for anyone diffing: card 3 used to be "land" (7/12, 8A,
+ * Property Card, href "/#unified-form"), then briefly "maps" (Village
+ * map / DP / TP / Regional Plan, href "/#maps" -> MapPromo). Both were
+ * land-document-adjacent government services; MapPromo itself has been
+ * removed from the homepage (owner repositioning decision, see
+ * src/app/page.tsx) and its hero card replaced with one that actually
+ * promotes the new Premium Collections. */
 type Intent = {
-  key: "printing" | "photo" | "digital" | "maps";
+  key: "printing" | "photo" | "digital" | "collections";
   iconKey: ServiceIconKey;
-  titleKey: "printTitle" | "photoTitle" | "digitalTitle" | "mapTitle";
-  bodyKey: "printBody" | "photoBody" | "digitalBody" | "mapBody";
+  titleKey: "printTitle" | "photoTitle" | "digitalTitle" | "collectionsTitle";
+  bodyKey: "printBody" | "photoBody" | "digitalBody" | "collectionsBody";
   href: string;
   external?: boolean;
 };
@@ -105,11 +111,11 @@ const intents: Intent[] = [
     href: "/digital-services",
   },
   {
-    key: "maps",
+    key: "collections",
     iconKey: "digital",
-    titleKey: "mapTitle",
-    bodyKey: "mapBody",
-    href: "/#maps",
+    titleKey: "collectionsTitle",
+    bodyKey: "collectionsBody",
+    href: "/#collections",
   },
 ];
 
@@ -209,12 +215,18 @@ export function ShopHero() {
           </h2>
           <div className="mt-5 grid gap-3 sm:grid-cols-2">
             {intents.map((intent) => {
-              const Icon = SERVICE_ICONS[intent.iconKey];
               const href = intent.href === "whatsapp" ? printHref : intent.href;
               const card = (
                 <>
                   <span className="grid size-14 place-items-center rounded-2xl border border-white/10 bg-gradient-to-br from-white/15 to-white/[.04] p-1.5 shadow-inner transition group-hover:scale-105 group-hover:border-amber-300/40">
-                    <Icon className="h-full w-full drop-shadow-lg" />
+                    {intent.key === "collections" ? (
+                      <Sparkle className="size-7 text-amber-300 drop-shadow-lg" aria-hidden="true" />
+                    ) : (
+                      (() => {
+                        const Icon = SERVICE_ICONS[intent.iconKey];
+                        return <Icon className="h-full w-full drop-shadow-lg" />;
+                      })()
+                    )}
                   </span>
                   <span className="mt-4 text-base font-black text-white">
                     {tx[intent.titleKey] as string}

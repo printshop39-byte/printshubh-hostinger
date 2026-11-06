@@ -49,11 +49,12 @@ const collectionEntries: SearchIndexEntry[] = COLLECTIONS.map((c) => ({
  * report for the full list and a traffic/redirect plan before any of them
  * are deleted. */
 
+/* /land-unit-converter/ removed from this index too (owner rebrand
+ * decision) — the route itself, and its sitemap.ts entry, are untouched. */
 const toolEntries: SearchIndexEntry[] = [
   { href: "/home-loan-emi/", title: { mr: "गृहकर्ज EMI कॅल्क्युलेटर", en: "Home-loan EMI Calculator" }, category: toolsCategory },
   { href: "/stamp-duty/", title: { mr: "मुद्रांक शुल्क कॅल्क्युलेटर", en: "Stamp Duty Calculator" }, category: toolsCategory },
   { href: "/ready-reckoner/", title: { mr: "रेडी रेकनर दर शोध", en: "Ready Reckoner Rate Lookup" }, category: toolsCategory },
-  { href: "/land-unit-converter/", title: { mr: "जमीन क्षेत्र रूपांतरक", en: "Land Unit Converter" }, category: toolsCategory },
 ];
 
 const infoEntries: SearchIndexEntry[] = [
