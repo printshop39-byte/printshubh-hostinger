@@ -10,7 +10,7 @@ interface LangCtx {
 }
 
 export const LanguageContext = createContext<LangCtx>({
-  lang: "mr",
+  lang: "en",
   setLang: () => {},
 });
 
@@ -22,7 +22,7 @@ function bcp47(l: Lang): string {
 }
 
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLang] = useState<Lang>("mr");
+  const [lang, setLang] = useState<Lang>("en");
 
   /* Keep the <html lang="…"> attribute in sync with the active language.
    * SSR ships "mr-IN" (see layout.tsx); on the client we update it when

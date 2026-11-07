@@ -33,26 +33,26 @@ import { VisitShop } from "@/components/shop/visit-shop";
  * https://www.printshubh.shop/ — the bare root stays the single indexable
  * address for this content, exactly as before. */
 export const metadata: Metadata = {
-  title: "PRINTSHUBH – Premium Print & Visual Studio | झेरॉक्स, प्रिंटिंग, फोटो",
+  title: "PRINTSHUBH – Premium Print & Visual Studio | Wallpaper, Canvas, Wall Art",
   description:
-    "प्रीमियम वॉलपेपर, कॅनव्हास, वॉल आर्ट, रेक्झिन, साटीन फॅब्रिक व व्हिनाइल प्रिंटिंग — तसेच जंबो झेरॉक्स, फोटो, डिजिटल सेवा आणि 7/12, 8A, गाव नकाशा, DP Map यांसारखी जमीन कागदपत्र सेवा. WhatsApp वर PDF पाठवा.",
+    "Premium wallpaper, canvas, wall art, rexine, satin fabric and vinyl printing — plus Jumbo Xerox, photo and digital services, and 7/12, 8A, village map, DP Map land-document assistance. Send a PDF on WhatsApp.",
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: "https://www.printshubh.shop/",
     siteName: "PrintShubh",
     title: "PRINTSHUBH – Premium Print & Visual Studio",
     description:
-      "प्रीमियम प्रिंटिंग (वॉलपेपर, कॅनव्हास, वॉल आर्ट, व्हिनाइल) आणि झेरॉक्स, फोटो, डिजिटल सेवा — तसेच 7/12, 8A, गाव नकाशा व DP Map साठी WhatsApp सहाय्य.",
+      "Premium printing (wallpaper, canvas, wall art, vinyl) plus Xerox, photo and digital services — and WhatsApp assistance for 7/12, 8A, village map and DP Map.",
   },
   twitter: {
     card: "summary_large_image",
     title: "PRINTSHUBH – Premium Print & Visual Studio",
     description:
-      "प्रीमियम प्रिंटिंग, झेरॉक्स, फोटो व जमीन कागदपत्र सेवा — WhatsApp वर PDF पाठवा.",
+      "Premium printing, Xerox, photo and land-document services — send a PDF on WhatsApp.",
   },
 };
 
@@ -101,11 +101,14 @@ export default function Home() {
         <ShopHero />
         <ServiceStrip />
 
+        {/* The seven premium print collections — wallpaper, canvas, wall
+            art, rexine, satin fabric, framed prints, vinyl. Stage-4
+            rebrand: moved up so Collections is the first thing a visitor
+            sees after the hero, ahead of the counter-service pillars. */}
+        <CollectionsGrid />
+
         {/* Mobile-only priced document/map shortcuts + free-tools row */}
         <MobileServiceShortcuts />
-
-        {/* The four things the shop does, given equal weight */}
-        <ServicePillars />
 
         {/* Send a file, collect the print — the headline conversion */}
         <WhatsAppPrint />
@@ -123,9 +126,11 @@ export default function Home() {
             real photos/certificates exist (see shop-profile.ts) */}
         <PrintingTechnology />
 
-        {/* The seven premium print collections — wallpaper, canvas, wall
-            art, rexine, satin fabric, framed prints, vinyl */}
-        <CollectionsGrid />
+        {/* The other things the shop does — printing/xerox, photo, digital.
+            Stage-4 rebrand: moved below Collections (was directly under the
+            hero) so Premium Collections reads as the primary identity;
+            still fully present and linked, not removed. */}
+        <ServicePillars />
 
         {/* Google reviews (hidden until real reviews are configured) */}
         <GoogleReviews />

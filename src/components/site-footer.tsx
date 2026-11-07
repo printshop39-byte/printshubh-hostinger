@@ -71,7 +71,7 @@ const tx: Record<
 > = {
   mr: {
     tagline:
-      "Premium Print & Visual Studio — प्रिंटिंग, फोटो आणि डिजिटल सेवा, मराठी-प्रथम.",
+      "Premium Print & Visual Studio — वॉलपेपर, कॅनव्हास, वॉल आर्ट आणि बरेच काही.",
     collectionsTitle: "Collections",
     servicesTitle: "सेवा",
     usefulTitle: "उपयुक्त",
@@ -113,7 +113,7 @@ const tx: Record<
   },
   en: {
     tagline:
-      "Premium Print & Visual Studio — printing, photo and digital services, Marathi-first.",
+      "Premium Print & Visual Studio — wallpaper, canvas, wall art and more.",
     collectionsTitle: "Collections",
     servicesTitle: "Services",
     usefulTitle: "Useful",

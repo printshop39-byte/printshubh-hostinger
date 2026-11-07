@@ -87,7 +87,17 @@ type Intent = {
   external?: boolean;
 };
 
+/* Stage-4 rebrand: Collections leads this panel (was last of four) so the
+ * Premium Studio identity is the first card a visitor sees, not the
+ * fourth. Printing/photo/digital stay in the panel, just demoted. */
 const intents: Intent[] = [
+  {
+    key: "collections",
+    iconKey: "digital",
+    titleKey: "collectionsTitle",
+    bodyKey: "collectionsBody",
+    href: "/#collections",
+  },
   {
     key: "printing",
     iconKey: "printer",
@@ -109,13 +119,6 @@ const intents: Intent[] = [
     titleKey: "digitalTitle",
     bodyKey: "digitalBody",
     href: "/digital-services",
-  },
-  {
-    key: "collections",
-    iconKey: "digital",
-    titleKey: "collectionsTitle",
-    bodyKey: "collectionsBody",
-    href: "/#collections",
   },
 ];
 

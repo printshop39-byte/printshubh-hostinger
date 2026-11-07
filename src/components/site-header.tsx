@@ -33,13 +33,17 @@ interface NavItem {
   href: string;
 }
 
-/* Shown in the desktop bar AND at the top of the mobile sheet. */
+/* Shown in the desktop bar AND at the top of the mobile sheet.
+ *
+ * Stage-4 rebrand (owner decision): the desktop bar now reads Home,
+ * Collections, About, Contact only — the Premium Studio identity, not a
+ * service-centre list. Printing & Xerox / Photo / Digital Services moved
+ * into `more` below: still one tap away in the mobile sheet and still
+ * linked from the footer on every page, so nothing stopped being
+ * reachable — this is a navigation-prominence change only. */
 const primary: NavItem[] = [
   { label: { mr: "मुख्यपृष्ठ", en: "Home" }, href: "/" },
   { label: { mr: "Collections", en: "Collections" }, href: "/#collections" },
-  { label: { mr: "प्रिंटिंग व झेरॉक्स", en: "Printing & Xerox" }, href: "/printing-xerox" },
-  { label: { mr: "फोटो", en: "Photo" }, href: "/photo-services" },
-  { label: { mr: "ऑनलाइन सेवा", en: "Online Services" }, href: "/digital-services" },
   { label: { mr: "आमच्याबद्दल", en: "About" }, href: "/about" },
   { label: { mr: "संपर्क", en: "Contact" }, href: "/contact" },
 ];
@@ -47,6 +51,9 @@ const primary: NavItem[] = [
 /* Mobile sheet only — the pages that used to sit in the desktop bar and
  * must stay one tap away. Also linked from the footer on every page. */
 const more: NavItem[] = [
+  { label: { mr: "प्रिंटिंग व झेरॉक्स", en: "Printing & Xerox" }, href: "/printing-xerox" },
+  { label: { mr: "फोटो", en: "Photo" }, href: "/photo-services" },
+  { label: { mr: "ऑनलाइन सेवा", en: "Online Services" }, href: "/digital-services" },
   { label: { mr: "मोफत साधने", en: "Free Tools" }, href: "/#tools" },
   { label: { mr: "किंमत", en: "Pricing" }, href: "/pricing" },
   { label: { mr: "FAQ", en: "FAQ" }, href: "/faq" },

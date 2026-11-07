@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: SITE_URL + "/",
     siteName: "PrintShubh",
     title: "PRINTSHUBH — Premium Print & Visual Studio",
@@ -134,7 +134,7 @@ const websiteLd = {
   "@id": SITE_URL + "/#website",
   name: "PrintShubh",
   url: SITE_URL + "/",
-  inLanguage: "mr-IN",
+  inLanguage: "en-IN",
   publisher: { "@id": SITE_URL + "/#organization" },
 };
 
@@ -172,7 +172,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="mr-IN"
+      lang="en-IN"
       className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} h-full`}
     >
       <head>
