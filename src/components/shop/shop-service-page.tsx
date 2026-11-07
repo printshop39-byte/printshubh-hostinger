@@ -90,20 +90,20 @@ export function ShopServicePage({
             >
               <Link
                 href="/"
-                className="inline-flex items-center gap-1 transition hover:text-blue-700"
+                className="inline-flex items-center gap-1 transition hover:text-brand-navy"
               >
                 <Home className="size-3.5" aria-hidden="true" />
                 {c.home}
               </Link>
               <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />
-              <Link href="/#services" className="transition hover:text-blue-700">
+              <Link href="/#services" className="transition hover:text-brand-navy">
                 {c.services}
               </Link>
               <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />
               <span className="text-slate-700">{group.title[lang]}</span>
             </nav>
 
-            <p className="ps-enter mt-6 inline-flex items-center gap-2 rounded-full border border-blue-200 bg-white/80 px-3.5 py-1.5 text-[12.5px] font-black text-blue-800 shadow-sm">
+            <p className="ps-enter mt-6 inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-white/80 px-3.5 py-1.5 text-[12.5px] font-black text-brand-navy shadow-sm">
               <span aria-hidden="true">{group.emoji}</span>
               {group.title[lang]}
             </p>
@@ -154,11 +154,11 @@ export function ShopServicePage({
             <Stagger as="ul" className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
               {group.items.map((item) => (
                 <StaggerItem as="li" key={item.label.en}>
-                  <div className="h-full rounded-xl border border-slate-200 bg-white px-5 py-4 shadow-sm transition hover:border-blue-300">
+                  <div className="h-full rounded-xl border border-slate-200 bg-white px-5 py-4 shadow-sm transition hover:border-brand-gold">
                     {item.href ? (
                       <Link
                         href={item.href}
-                        className="text-[15.5px] font-black text-slate-900 underline-offset-4 transition hover:text-blue-700 hover:underline"
+                        className="text-[15.5px] font-black text-slate-900 underline-offset-4 transition hover:text-brand-navy hover:underline"
                       >
                         {item.label[lang]}
                       </Link>
@@ -175,7 +175,7 @@ export function ShopServicePage({
         </section>
 
         {/* ── How it works ── */}
-        <section className="border-y border-slate-200 bg-[#f6faff] px-5 py-16 sm:px-8 lg:py-20">
+        <section className="border-y border-slate-200 bg-brand-cream px-5 py-16 sm:px-8 lg:py-20">
           <div className="mx-auto max-w-5xl">
             <Stagger as="ol" className="grid gap-3 sm:grid-cols-3">
               {steps[lang].map((step, i) => (
@@ -183,7 +183,7 @@ export function ShopServicePage({
                   <div className="flex h-full items-start gap-3.5 rounded-2xl border border-slate-200 bg-white px-5 py-5">
                     <span
                       aria-hidden="true"
-                      className="grid size-9 shrink-0 place-items-center rounded-full bg-blue-600 text-sm font-black text-white"
+                      className="grid size-9 shrink-0 place-items-center rounded-full bg-brand-navy text-sm font-black text-white"
                     >
                       {i + 1}
                     </span>
