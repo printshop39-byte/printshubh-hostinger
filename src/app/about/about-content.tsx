@@ -32,8 +32,8 @@ export function AboutContent() {
 function AboutBody({ lang }: { lang: Lang }) {
   /* Top trust banner — same blue style used on Home + Contact for consistency. */
   const TrustBanner = (
-    <div className="mb-6 flex items-start gap-3 rounded-lg border border-blue-200 bg-blue-50 p-4 text-[14px] font-semibold leading-7 text-blue-900">
-      <ShieldCheck className="mt-0.5 size-5 shrink-0 text-blue-700" />
+    <div className="mb-6 flex items-start gap-3 rounded-lg border border-brand-gold-light bg-brand-cream p-4 text-[14px] font-semibold leading-7 text-brand-navy">
+      <ShieldCheck className="mt-0.5 size-5 shrink-0 text-brand-navy" />
       <p>{trustLine[lang]}</p>
     </div>
   );

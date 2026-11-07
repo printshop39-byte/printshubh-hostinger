@@ -106,8 +106,8 @@ function ContactBody({
   return (
     <>
       {/* Trust line — 30 years experience */}
-      <div className="mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4 text-[14px] font-semibold leading-7 text-blue-900">
-        <ShieldCheck className="mr-1.5 inline size-4 text-blue-700" />
+      <div className="mb-6 rounded-lg border border-brand-gold-light bg-brand-cream p-4 text-[14px] font-semibold leading-7 text-brand-navy">
+        <ShieldCheck className="mr-1.5 inline size-4 text-brand-navy" />
         {t.trustLine}
       </div>
 
@@ -186,13 +186,13 @@ function ContactCard({
     accent === "green"
       ? "border-green-200 bg-green-50 text-green-900"
       : accent === "blue"
-        ? "border-blue-200 bg-blue-50 text-blue-900"
+        ? "border-brand-gold-light bg-brand-cream text-brand-navy"
         : "border-slate-200 bg-slate-50 text-slate-800";
   const iconBg =
     accent === "green"
       ? "bg-green-600 text-white"
       : accent === "blue"
-        ? "bg-blue-600 text-white"
+        ? "bg-brand-navy text-white"
         : "bg-slate-200 text-slate-700";
 
   const content = (

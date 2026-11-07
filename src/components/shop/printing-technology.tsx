@@ -166,11 +166,11 @@ export function PrintingTechnology() {
     <section
       ref={sectionRef}
       aria-labelledby="printing-technology-heading"
-      className="bg-[#f8fbff] px-5 py-16 sm:px-8 lg:py-24"
+      className="bg-brand-cream px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
-          <p className="inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-50 px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-blue-800">
+          <p className="inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
             <Printer className="size-3.5" aria-hidden="true" />
             {tx.eyebrow}
           </p>
@@ -185,7 +185,7 @@ export function PrintingTechnology() {
 
         <Reveal delay={0.1}>
           <div className="ps-glass mt-8 max-w-xl rounded-2xl px-5 py-4">
-            <p className="text-[11.5px] font-black uppercase tracking-[0.14em] text-blue-700">
+            <p className="text-[11.5px] font-black uppercase tracking-[0.14em] text-brand-navy">
               {tx.machineLabel}
             </p>
             <p className="mt-1 text-lg font-black text-slate-950">{tx.machineName}</p>
@@ -208,7 +208,7 @@ export function PrintingTechnology() {
                   <div className="ps-glass flex items-center gap-4 rounded-2xl px-4 py-3.5">
                     <span
                       aria-hidden="true"
-                      className="grid size-10 shrink-0 place-items-center rounded-xl bg-blue-50 text-blue-700"
+                      className="grid size-10 shrink-0 place-items-center rounded-xl bg-brand-cream text-brand-navy"
                     >
                       <Icon className="size-4.5" />
                     </span>
@@ -298,7 +298,7 @@ export function PrintingTechnology() {
                       href={cert.verificationUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="mt-1 inline-block text-[12px] font-bold text-blue-700 underline-offset-2 hover:underline"
+                      className="mt-1 inline-block text-[12px] font-bold text-brand-navy underline-offset-2 hover:underline"
                     >
                       {cert.certificateNumber}
                     </a>

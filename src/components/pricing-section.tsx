@@ -77,7 +77,7 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
       <div className="mt-6 space-y-6">
         {groups.map((g) => (
           <div key={g.title.en}>
-            <h3 className="mb-2 text-sm font-black uppercase tracking-[0.14em] text-blue-700">
+            <h3 className="mb-2 text-sm font-black uppercase tracking-[0.14em] text-brand-navy">
               {g.title[lang]}
             </h3>
             <dl className="divide-y divide-slate-200 overflow-hidden rounded-xl border border-slate-200">

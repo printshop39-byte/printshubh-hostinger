@@ -9,7 +9,7 @@
  * a shop.
  *
  * Hover choreography (desktop only, and only when motion is welcome):
- * the card lifts, its shadow deepens, the border picks up the brand blue,
+ * the card lifts, its shadow deepens, the border picks up its accent colour,
  * the icon nudges up and the arrow slides right. No rotation, no spin —
  * the brief explicitly rules those out, and they make a service list
  * harder to read, not easier.
@@ -54,9 +54,9 @@ const CARD_THEME: Record<
     icon: "from-orange-50 to-rose-100",
   },
   land: {
-    card: "hover:border-blue-300 hover:shadow-[0_28px_60px_-28px_rgba(37,99,235,.5)]",
-    badge: "border-blue-200/80 bg-blue-50/85 text-blue-700",
-    icon: "from-blue-50 to-indigo-100",
+    card: "hover:border-brand-gold hover:shadow-[0_28px_60px_-28px_rgba(184,144,82,.5)]",
+    badge: "border-brand-gold-light/80 bg-brand-cream/85 text-brand-navy",
+    icon: "from-brand-cream to-indigo-100",
   },
   digital: {
     card: "hover:border-violet-300 hover:shadow-[0_28px_60px_-28px_rgba(124,58,237,.5)]",
@@ -72,11 +72,11 @@ export function ServicePillars() {
   return (
     <section
       id="services"
-      className="relative scroll-mt-24 overflow-hidden bg-gradient-to-b from-white via-slate-50/70 to-white px-5 py-16 sm:px-8 lg:py-24"
+      className="relative scroll-mt-24 overflow-hidden bg-gradient-to-b from-brand-cream via-white to-brand-cream px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
-          <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-blue-700">
+          <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-brand-navy">
             {lang === "mr" ? "एका ठिकाणी सर्व सेवा" : "Everything in one place"}
           </p>
           <h2 className="max-w-3xl text-3xl font-black leading-[1.12] tracking-tight text-slate-950 sm:text-4xl lg:text-[2.75rem]">
@@ -103,7 +103,7 @@ export function ServicePillars() {
             return (
               <StaggerItem as="li" key={group.key}>
                 <article
-                  className={`group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-blue-600 before:via-cyan-400 before:to-amber-300 hover:-translate-y-1.5 motion-reduce:transform-none motion-reduce:transition-none ${theme.card}`}
+                  className={`group relative flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200/80 bg-white p-6 shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 before:absolute before:inset-x-0 before:top-0 before:h-1 before:bg-gradient-to-r before:from-brand-navy before:via-brand-gold before:to-brand-navy hover:-translate-y-1.5 motion-reduce:transform-none motion-reduce:transition-none ${theme.card}`}
                 >
                   <ServiceMotionVisual service={group.key} />
                   <div className="flex items-start justify-between">
@@ -139,7 +139,7 @@ export function ServicePillars() {
                         {item.href ? (
                           <Link
                             href={item.href}
-                            className="inline-block py-1 underline-offset-4 transition hover:text-blue-700 hover:underline"
+                            className="inline-block py-1 underline-offset-4 transition hover:text-brand-navy hover:underline"
                           >
                             {item.label[lang]}
                           </Link>
@@ -153,7 +153,7 @@ export function ServicePillars() {
                   <div className="mt-6 flex flex-col gap-2 border-t border-slate-100 pt-4">
                     <Link
                       href={group.href}
-                      className="inline-flex min-h-[44px] items-center justify-center gap-1.5 rounded-xl bg-slate-950 px-4 text-sm font-black text-white shadow-sm transition hover:bg-blue-700"
+                      className="inline-flex min-h-[44px] items-center justify-center gap-1.5 rounded-xl bg-brand-navy px-4 text-sm font-black text-white shadow-sm transition hover:bg-brand-navy-dark"
                     >
                       {group.cta[lang]}
                       <ArrowRight

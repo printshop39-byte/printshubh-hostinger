@@ -79,16 +79,16 @@ export function WhatsAppPrint() {
 
   return (
     <section className="px-5 py-16 sm:px-8 lg:py-24">
-      <div className="relative mx-auto max-w-7xl overflow-hidden rounded-[28px] bg-slate-950 px-6 py-14 text-white shadow-2xl sm:px-10 lg:px-14 lg:py-20">
+      <div className="relative mx-auto max-w-7xl overflow-hidden rounded-[28px] bg-brand-navy px-6 py-14 text-white shadow-2xl sm:px-10 lg:px-14 lg:py-20">
         {/* Brand wash — pure CSS, no image payload. */}
         <div
           aria-hidden="true"
-          className="pointer-events-none absolute inset-0 bg-[radial-gradient(60%_60%_at_15%_0%,rgba(37,99,235,0.35),transparent_65%),radial-gradient(50%_60%_at_92%_100%,rgba(22,163,74,0.22),transparent_65%)]"
+          className="pointer-events-none absolute inset-0 bg-[radial-gradient(60%_60%_at_15%_0%,rgba(184,144,82,0.3),transparent_65%),radial-gradient(50%_60%_at_92%_100%,rgba(22,163,74,0.22),transparent_65%)]"
         />
 
         <div className="relative">
           <Reveal>
-            <p className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-blue-100 ring-1 ring-inset ring-white/15">
+            <p className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-gold-light ring-1 ring-inset ring-white/15">
               <MessageCircle className="size-3.5" aria-hidden="true" />
               {tx.eyebrow}
             </p>
@@ -112,7 +112,7 @@ export function WhatsAppPrint() {
                     <span
                       aria-hidden="true"
                       className={`grid size-9 place-items-center rounded-xl lg:size-11 ${
-                        isLast ? "bg-green-500/20 text-green-300" : "bg-blue-500/20 text-blue-200"
+                        isLast ? "bg-green-500/20 text-green-300" : "bg-brand-gold/20 text-brand-gold-light"
                       }`}
                     >
                       <Icon className="size-4 lg:size-5" />

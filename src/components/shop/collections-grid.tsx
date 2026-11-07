@@ -48,11 +48,11 @@ export function CollectionsGrid() {
       id="collections"
       ref={sectionRef}
       aria-labelledby="collections-grid-heading"
-      className="scroll-mt-20 bg-white px-5 py-16 sm:px-8 lg:py-24"
+      className="scroll-mt-20 bg-brand-cream px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
-          <p className="inline-flex items-center rounded-full border border-blue-200 bg-blue-50 px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-blue-800">
+          <p className="inline-flex items-center rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
             {tx.eyebrow}
           </p>
           <h2
@@ -69,7 +69,7 @@ export function CollectionsGrid() {
             <StaggerItem as="li" key={collection.key}>
               <Link
                 href={`/collections/${collection.slug}/`}
-                className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 hover:-translate-y-1 hover:border-blue-300 hover:shadow-[0_22px_50px_-24px_rgba(37,99,235,.3)] motion-reduce:transform-none motion-reduce:transition-none"
+                className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 hover:-translate-y-1 hover:border-brand-gold hover:shadow-[0_22px_50px_-24px_rgba(184,144,82,.3)] motion-reduce:transform-none motion-reduce:transition-none"
               >
                 <div className="aspect-[4/3]">
                   <CollectionVisual
@@ -85,7 +85,7 @@ export function CollectionsGrid() {
                   <p className="mt-1.5 flex-1 text-[13px] leading-5 text-slate-600">
                     {collection.tagline[lang]}
                   </p>
-                  <span className="mt-3 inline-flex items-center gap-1 text-xs font-black uppercase tracking-wide text-blue-700">
+                  <span className="mt-3 inline-flex items-center gap-1 text-xs font-black uppercase tracking-wide text-brand-navy">
                     {tx.viewLabel}
                     <ArrowRight
                       className="size-3.5 transition duration-300 group-hover:translate-x-1 motion-reduce:transform-none"

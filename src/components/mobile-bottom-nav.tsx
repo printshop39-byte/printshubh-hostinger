@@ -70,7 +70,7 @@ export function MobileBottomNav() {
       <Link
         href="/"
         aria-current={atHome ? "page" : undefined}
-        className={`${tabClass} ${atHome ? "text-blue-700" : "text-slate-600"}`}
+        className={`${tabClass} ${atHome ? "text-brand-navy" : "text-slate-600"}`}
       >
         <TabLabel icon={Home} text={label.home[lang]} />
       </Link>

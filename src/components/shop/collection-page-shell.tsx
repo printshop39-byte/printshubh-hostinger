@@ -206,16 +206,16 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
   return (
     <>
       <SiteHeader />
-      <main className="min-h-screen overflow-x-hidden bg-white text-slate-900">
-        <section ref={sectionRef} className="border-b border-slate-200 bg-[#f8fbff] px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
+      <main className="min-h-screen overflow-x-hidden bg-brand-cream text-slate-900">
+        <section ref={sectionRef} className="border-b border-slate-200 bg-brand-cream px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-6xl">
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
-              <Link href="/" className="inline-flex items-center gap-1 transition hover:text-blue-700">
+              <Link href="/" className="inline-flex items-center gap-1 transition hover:text-brand-navy">
                 <Home className="size-3.5" />
                 {tx.home}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
-              <Link href="/#collections" className="transition hover:text-blue-700">
+              <Link href="/#collections" className="transition hover:text-brand-navy">
                 {tx.collections}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
@@ -224,7 +224,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
 
             <div className="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
               <Reveal>
-                <p className="text-xs font-black uppercase tracking-[0.18em] text-blue-700">
+                <p className="text-xs font-black uppercase tracking-[0.18em] text-brand-navy">
                   {tx.eyebrow}
                 </p>
                 <h1 className="mt-2 text-3xl font-black leading-tight text-slate-950 sm:text-4xl">
@@ -297,7 +297,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                 {collection.materialInfo.map((info) => (
                   <StaggerItem as="li" key={info.en}>
                     <div className="ps-glass flex items-center gap-3 rounded-2xl px-4 py-3 text-[14px] font-semibold leading-5 text-slate-700">
-                      <Ruler className="size-4 shrink-0 text-blue-700" aria-hidden="true" />
+                      <Ruler className="size-4 shrink-0 text-brand-navy" aria-hidden="true" />
                       {info[lang]}
                     </div>
                   </StaggerItem>
@@ -339,7 +339,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
           )}
 
           <Reveal delay={0.1}>
-            <div className="mx-auto mt-10 max-w-6xl rounded-3xl border border-blue-100 bg-[#f8fbff] p-6 sm:p-8">
+            <div className="mx-auto mt-10 max-w-6xl rounded-3xl border border-brand-gold-light bg-white p-6 sm:p-8">
               <h2 className="text-lg font-black text-slate-950">{tx.customSizeHeading}</h2>
               <p className="mt-1.5 max-w-xl text-[14.5px] leading-6 text-slate-600">{tx.customSizeBody}</p>
               <a
@@ -375,7 +375,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     value={formName}
                     onChange={(e) => setFormName(e.target.value)}
                     placeholder={tx.namePlaceholder}
-                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                   />
                 </label>
 
@@ -387,7 +387,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     onChange={(e) => setFormMobile(e.target.value.replace(/[^\d+ ]/g, ""))}
                     placeholder={tx.mobilePlaceholder}
                     maxLength={15}
-                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                   />
                 </label>
 
@@ -408,7 +408,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     min={1}
                     value={formQty}
                     onChange={(e) => setFormQty(e.target.value)}
-                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                   />
                 </label>
 
@@ -419,7 +419,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     inputMode="decimal"
                     value={formWidth}
                     onChange={(e) => setFormWidth(e.target.value.replace(/[^\d.]/g, ""))}
-                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                   />
                 </label>
 
@@ -430,7 +430,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     inputMode="decimal"
                     value={formHeight}
                     onChange={(e) => setFormHeight(e.target.value.replace(/[^\d.]/g, ""))}
-                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                   />
                 </label>
 
@@ -440,7 +440,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     <select
                       value={formUnit}
                       onChange={(e) => setFormUnit(e.target.value as "feet" | "inch" | "cm")}
-                      className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                      className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                     >
                       <option value="feet">{tx.unitFeet}</option>
                       <option value="inch">{tx.unitInch}</option>
@@ -455,7 +455,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     <select
                       value={formMaterial}
                       onChange={(e) => setFormMaterial(e.target.value)}
-                      className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                      className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                     >
                       <option value="">{tx.materialPlaceholder}</option>
                       {collection.materialOptions.map((opt) => (
@@ -474,7 +474,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     onChange={(e) => setFormNotes(e.target.value)}
                     placeholder={tx.notesPlaceholder}
                     rows={3}
-                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-blue-500"
+                    className="w-full rounded-lg border border-slate-300 px-3 py-2.5 text-[15px] outline-none focus:border-brand-gold"
                   />
                 </label>
               </div>
@@ -531,9 +531,9 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                 <StaggerItem as="li" key={rc.key}>
                   <Link
                     href={`/collections/${rc.slug}/`}
-                    className="ps-glass flex h-full flex-col gap-1 rounded-2xl px-4 py-4 transition hover:border-blue-300"
+                    className="ps-glass flex h-full flex-col gap-1 rounded-2xl px-4 py-4 transition hover:border-brand-gold"
                   >
-                    <span className="text-[13px] font-black uppercase tracking-[0.08em] text-blue-700">
+                    <span className="text-[13px] font-black uppercase tracking-[0.08em] text-brand-navy">
                       {tx.eyebrow}
                     </span>
                     <span className="text-[15px] font-black text-slate-950">{rc.shortTitle[lang]}</span>

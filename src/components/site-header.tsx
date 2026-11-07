@@ -181,14 +181,14 @@ export function SiteHeader() {
           className="flex min-h-[44px] min-w-0 items-center gap-2.5"
           onClick={() => setOpen(false)}
         >
-          <span className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-blue-600 to-blue-800 text-base font-black text-white shadow-sm">
+          <span className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-navy to-brand-navy text-base font-black text-white shadow-sm">
             P
           </span>
           <span className="min-w-0 leading-none">
             <span className="block truncate text-[17px] font-black tracking-tight text-slate-950">
               PRINTSHUBH
             </span>
-            <span className="mt-0.5 hidden text-[10px] font-black uppercase tracking-[0.18em] text-blue-700 sm:block">
+            <span className="mt-0.5 hidden text-[10px] font-black uppercase tracking-[0.18em] text-brand-navy sm:block">
               {BRAND_LINE}
             </span>
           </span>
@@ -200,7 +200,7 @@ export function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              className="relative text-[13.5px] font-bold text-slate-700 transition after:absolute after:-bottom-1.5 after:left-0 after:h-[2px] after:w-0 after:bg-blue-600 after:transition-all after:duration-300 hover:text-blue-800 hover:after:w-full motion-reduce:after:transition-none"
+              className="relative text-[13.5px] font-bold text-slate-700 transition after:absolute after:-bottom-1.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-navy after:transition-all after:duration-300 hover:text-brand-navy hover:after:w-full motion-reduce:after:transition-none"
             >
               {item.label[lang]}
             </Link>
@@ -221,7 +221,7 @@ export function SiteHeader() {
                 aria-label={code === "mr" ? "मराठी" : "English"}
                 className={`inline-flex min-h-[44px] min-w-[44px] items-center justify-center px-2.5 transition ${
                   lang === code
-                    ? "bg-blue-700 text-white"
+                    ? "bg-brand-navy text-white"
                     : "bg-white text-slate-700 hover:bg-slate-50"
                 }`}
               >
@@ -248,7 +248,7 @@ export function SiteHeader() {
             aria-label={menuLabel[lang]}
             aria-expanded={open}
             aria-controls="mobile-nav"
-            className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-800 transition hover:border-blue-300 xl:hidden"
+            className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-800 transition hover:border-brand-gold xl:hidden"
           >
             {open ? <X className="size-5" /> : <Menu className="size-5" />}
           </button>
@@ -278,7 +278,7 @@ export function SiteHeader() {
                 <Link
                   href={item.href}
                   onClick={() => setOpen(false)}
-                  className="flex min-h-[56px] items-center border-b border-slate-100 text-[17px] font-black text-slate-900 transition active:text-blue-700"
+                  className="flex min-h-[56px] items-center border-b border-slate-100 text-[17px] font-black text-slate-900 transition active:text-brand-navy"
                 >
                   {item.label[lang]}
                 </Link>
@@ -295,7 +295,7 @@ export function SiteHeader() {
                 <Link
                   href={item.href}
                   onClick={() => setOpen(false)}
-                  className="inline-flex min-h-[44px] items-center rounded-full border border-slate-200 bg-slate-50 px-4 text-[13.5px] font-bold text-slate-700 transition active:border-blue-300"
+                  className="inline-flex min-h-[44px] items-center rounded-full border border-slate-200 bg-slate-50 px-4 text-[13.5px] font-bold text-slate-700 transition active:border-brand-gold"
                 >
                   {item.label[lang]}
                 </Link>

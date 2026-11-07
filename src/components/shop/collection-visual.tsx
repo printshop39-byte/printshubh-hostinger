@@ -56,15 +56,15 @@ export function CollectionVisual({
   return (
     <div
       aria-hidden="true"
-      className={`relative flex h-full w-full flex-col items-center justify-center overflow-hidden rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 via-white to-slate-50 ${className}`}
+      className={`relative flex h-full w-full flex-col items-center justify-center overflow-hidden rounded-2xl border border-brand-gold-light bg-gradient-to-br from-brand-cream via-white to-brand-cream ${className}`}
     >
       <div
-        className="absolute inset-0 opacity-[0.06] [background-image:linear-gradient(#1d4ed8_1px,transparent_1px),linear-gradient(90deg,#1d4ed8_1px,transparent_1px)] [background-size:22px_22px]"
+        className="absolute inset-0 opacity-[0.06] [background-image:linear-gradient(#183153_1px,transparent_1px),linear-gradient(90deg,#183153_1px,transparent_1px)] [background-size:22px_22px]"
       />
-      <span className="relative grid size-16 place-items-center rounded-2xl bg-white text-blue-700 shadow-sm ring-1 ring-blue-100">
+      <span className="relative grid size-16 place-items-center rounded-2xl bg-white text-brand-navy shadow-sm ring-1 ring-brand-gold-light">
         <Icon className="size-8" strokeWidth={1.75} />
       </span>
-      <span className="relative mt-4 max-w-[80%] text-center text-sm font-black uppercase tracking-[0.1em] text-blue-900/70">
+      <span className="relative mt-4 max-w-[80%] text-center text-sm font-black uppercase tracking-[0.1em] text-brand-navy/70">
         {shortTitle}
       </span>
     </div>

@@ -146,11 +146,11 @@ export function ShopHero() {
   return (
     <section
       id="top"
-      className="relative isolate overflow-hidden bg-slate-950 text-white"
+      className="relative isolate overflow-hidden bg-brand-navy text-white"
     >
       <div
         aria-hidden="true"
-        className="absolute inset-0 opacity-70 [background:radial-gradient(circle_at_15%_10%,rgba(37,99,235,0.42),transparent_36%),radial-gradient(circle_at_88%_80%,rgba(16,185,129,0.22),transparent_34%)]"
+        className="absolute inset-0 opacity-70 [background:radial-gradient(circle_at_15%_10%,rgba(184,144,82,0.38),transparent_36%),radial-gradient(circle_at_88%_80%,rgba(184,144,82,0.16),transparent_34%)]"
       />
       <div
         aria-hidden="true"
@@ -159,12 +159,12 @@ export function ShopHero() {
 
       <div className="relative mx-auto grid max-w-7xl gap-8 px-5 pb-10 pt-8 sm:px-8 sm:pb-14 sm:pt-12 lg:grid-cols-[1.05fr_.95fr] lg:items-center lg:gap-14 lg:py-20">
         <div>
-          <p className="ps-enter inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3.5 py-2 text-xs font-bold text-blue-100 backdrop-blur">
+          <p className="ps-enter inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3.5 py-2 text-xs font-bold text-brand-gold-light backdrop-blur">
             <Sparkles className="size-3.5 text-amber-300" aria-hidden="true" />
             {tx.badge as string}
           </p>
           <p
-            className="ps-enter mt-6 text-sm font-black uppercase tracking-[0.16em] text-blue-300"
+            className="ps-enter mt-6 text-sm font-black uppercase tracking-[0.16em] text-brand-gold"
             style={{ "--ps-delay": "60ms" } as React.CSSProperties}
           >
             {BRAND_NAME} · {BRAND_LINE}
@@ -247,7 +247,7 @@ export function ShopHero() {
                 </>
               );
               const classes =
-                "group relative flex min-h-[184px] flex-col overflow-hidden rounded-2xl border border-white/10 bg-gradient-to-br from-slate-800/95 to-slate-950 p-4 text-left shadow-[0_14px_35px_-24px_rgba(59,130,246,.9)] transition hover:-translate-y-1 hover:border-amber-300/40 hover:shadow-[0_22px_50px_-24px_rgba(251,191,36,.48)] motion-reduce:transform-none";
+                "group relative flex min-h-[184px] flex-col overflow-hidden rounded-2xl border border-white/10 bg-gradient-to-br from-brand-navy-dark to-brand-navy p-4 text-left shadow-[0_14px_35px_-24px_rgba(184,144,82,.6)] transition hover:-translate-y-1 hover:border-brand-gold/40 hover:shadow-[0_22px_50px_-24px_rgba(251,191,36,.48)] motion-reduce:transform-none";
               return intent.external ? (
                 <a
                   key={intent.key}

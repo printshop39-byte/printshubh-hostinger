@@ -115,7 +115,7 @@ export function SiteSearch() {
         type="button"
         onClick={() => setOpen(true)}
         aria-label={searchLabel[lang]}
-        className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-700 transition hover:border-blue-300 hover:text-blue-700"
+        className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-700 transition hover:border-brand-gold hover:text-brand-navy"
       >
         <Search className="size-[18px]" aria-hidden="true" />
       </button>
@@ -182,7 +182,7 @@ export function SiteSearch() {
                         href={entry.href}
                         onClick={close}
                         className={`flex items-center justify-between gap-3 rounded-lg px-3 py-2.5 transition ${
-                          i === activeIndex ? "bg-blue-50" : "hover:bg-slate-50"
+                          i === activeIndex ? "bg-brand-cream" : "hover:bg-slate-50"
                         }`}
                       >
                         <span className="text-[14.5px] font-bold text-slate-900">

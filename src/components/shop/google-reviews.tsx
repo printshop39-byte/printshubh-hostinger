@@ -124,7 +124,7 @@ export function GoogleReviews() {
             {GOOGLE_REVIEWS.map((review, i) => (
               <StaggerItem as="li" key={`${review.author}-${i}`}>
                 <figure className="flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                  <Quote className="size-7 text-blue-200" aria-hidden="true" />
+                  <Quote className="size-7 text-brand-gold-light" aria-hidden="true" />
                   <Stars rating={review.rating} label={tx.ratingLabel(review.rating)} />
                   <blockquote className="mt-3 flex-1 text-[15px] leading-7 text-slate-700">
                     {review.text}
@@ -144,7 +144,7 @@ export function GoogleReviews() {
               href={GOOGLE_PROFILE_URL}
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-9 inline-flex h-12 items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 text-sm font-black text-slate-800 shadow-sm transition hover:border-blue-300 hover:text-blue-800"
+              className="mt-9 inline-flex h-12 items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 text-sm font-black text-slate-800 shadow-sm transition hover:border-brand-gold hover:text-brand-navy"
             >
               {tx.cta}
               <ExternalLink className="size-4" aria-hidden="true" />

@@ -79,14 +79,14 @@ export function ToolsSection() {
               <Link
                 key={tool.href}
                 href={tool.href}
-                className="group flex flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:border-blue-200 hover:shadow-md"
+                className="group flex flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:border-brand-gold-light hover:shadow-md"
               >
-                <span className="inline-flex size-11 items-center justify-center rounded-xl bg-blue-50 text-blue-700">
+                <span className="inline-flex size-11 items-center justify-center rounded-xl bg-brand-cream text-brand-navy">
                   <Icon className="size-5" />
                 </span>
                 <h3 className="mt-4 text-lg font-black text-slate-900">{tool.title[t]}</h3>
                 <p className="mt-1.5 flex-1 text-[14.5px] leading-6 text-slate-600">{tool.desc[t]}</p>
-                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-bold text-blue-700">
+                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-bold text-brand-navy">
                   {t === "mr" ? "उघडा" : "Open"}
                   <ArrowRight className="size-4 transition group-hover:translate-x-0.5" />
                 </span>

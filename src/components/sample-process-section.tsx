@@ -135,7 +135,7 @@ export function SampleProcessSection() {
     <section
       ref={sectionRef}
       aria-labelledby="sample-process-heading"
-      className="scroll-mt-20 bg-[#f8fbff] px-5 py-12 sm:px-8 lg:py-16"
+      className="scroll-mt-20 bg-brand-cream px-5 py-12 sm:px-8 lg:py-16"
     >
       <div className="mx-auto max-w-5xl">
         <h2
@@ -167,7 +167,7 @@ export function SampleProcessSection() {
             {WORK_SAMPLES.map((sample) => (
               <li
                 key={sample.src}
-                className="flex flex-col rounded-2xl border border-blue-200 bg-white p-4 shadow-sm"
+                className="flex flex-col rounded-2xl border border-brand-gold-light bg-white p-4 shadow-sm"
               >
                 <div className="overflow-hidden rounded-lg border border-slate-200 bg-slate-50">
                   <Image
@@ -197,7 +197,7 @@ export function SampleProcessSection() {
               return (
                 <article
                   key={card.title}
-                  className="flex flex-col rounded-2xl border border-blue-200 bg-white p-4 shadow-sm"
+                  className="flex flex-col rounded-2xl border border-brand-gold-light bg-white p-4 shadow-sm"
                 >
                   <div className="overflow-hidden rounded-lg border border-slate-200 bg-slate-50">
                     <Image
@@ -218,7 +218,7 @@ export function SampleProcessSection() {
                   </p>
 
                   <h3 className="mt-3 flex items-center gap-2 text-base font-black text-slate-900">
-                    <Icon className="size-4 shrink-0 text-blue-700" aria-hidden="true" />
+                    <Icon className="size-4 shrink-0 text-brand-navy" aria-hidden="true" />
                     {card.title}
                   </h3>
                   <p className="mt-1 text-sm leading-6 text-slate-600">{card.desc}</p>
@@ -247,7 +247,7 @@ export function SampleProcessSection() {
             >
               <span
                 aria-hidden="true"
-                className="grid size-8 shrink-0 place-items-center rounded-full bg-blue-600 text-sm font-black text-white"
+                className="grid size-8 shrink-0 place-items-center rounded-full bg-brand-navy text-sm font-black text-white"
               >
                 {i + 1}
               </span>
@@ -263,7 +263,7 @@ export function SampleProcessSection() {
           {tx.assurances.map((a) => (
             <li
               key={a}
-              className="flex items-start gap-2 rounded-lg border border-blue-100 bg-blue-50/60 px-3 py-2.5"
+              className="flex items-start gap-2 rounded-lg border border-brand-gold-light bg-brand-cream/60 px-3 py-2.5"
             >
               <Check className="mt-0.5 size-4 shrink-0 text-green-600" aria-hidden="true" />
               <span className="text-[13px] font-semibold leading-5 text-slate-700">{a}</span>

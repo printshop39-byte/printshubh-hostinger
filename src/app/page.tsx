@@ -89,7 +89,7 @@ export default function Home() {
       <SiteHeader />
       {/* Scrolling updates / announcement bar — below header, above hero */}
       <AnnouncementMarquee />
-      <main className="min-h-screen overflow-x-hidden bg-white text-slate-900">
+      <main className="min-h-screen overflow-x-hidden bg-brand-cream text-slate-900">
         {/* No <LandingAnimations /> here on purpose.
             That component drives GSAP + ScrollTrigger over [data-reveal]
             nodes, and the redesigned homepage has none left — every section

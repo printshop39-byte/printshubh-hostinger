@@ -68,7 +68,7 @@ export function ExperienceBand() {
         {/* Left — the headline figure */}
         <Reveal>
           <div className="flex items-end gap-4">
-            <Award className="mb-3 size-9 shrink-0 text-blue-600" aria-hidden="true" />
+            <Award className="mb-3 size-9 shrink-0 text-brand-navy" aria-hidden="true" />
             <p className="text-[5.5rem] font-black leading-[0.85] tracking-[-0.04em] text-slate-950 sm:text-[7rem]">
               <CountUp to={YEARS_EXPERIENCE} suffix="+" />
             </p>
@@ -91,7 +91,7 @@ export function ExperienceBand() {
               <div className="ps-glass flex items-center gap-4 rounded-2xl px-5 py-5">
                 <span
                   aria-hidden="true"
-                  className="grid size-12 shrink-0 place-items-center rounded-xl bg-blue-50 text-blue-700"
+                  className="grid size-12 shrink-0 place-items-center rounded-xl bg-brand-cream text-brand-navy"
                 >
                   <Users className="size-5" />
                 </span>
@@ -110,7 +110,7 @@ export function ExperienceBand() {
               <div className="ps-glass flex h-full flex-col items-start gap-2 rounded-2xl px-3.5 py-3.5 lg:flex-row lg:items-center lg:gap-4 lg:px-5 lg:py-5">
                 <span
                   aria-hidden="true"
-                  className="grid size-9 shrink-0 place-items-center rounded-xl bg-blue-50 text-blue-700 lg:size-12"
+                  className="grid size-9 shrink-0 place-items-center rounded-xl bg-brand-cream text-brand-navy lg:size-12"
                 >
                   <Icon className="size-4 lg:size-5" />
                 </span>

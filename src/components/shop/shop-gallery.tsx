@@ -47,7 +47,7 @@ export function ShopGallery() {
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
-          <p className="inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-50 px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-blue-800">
+          <p className="inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
             <MapPin className="size-3.5" aria-hidden="true" />
             {tx.eyebrow}
           </p>

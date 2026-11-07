@@ -53,7 +53,7 @@ function MessageRow({ items, ariaHidden }: { items: string[]; ariaHidden?: boole
       {items.map((m, i) => (
         <li key={`${m}-${i}`} className="flex items-center gap-8">
           <span className="text-[11.5px] font-semibold leading-none">{m}</span>
-          <span aria-hidden="true" className="text-blue-300/80">
+          <span aria-hidden="true" className="text-brand-gold/80">
             •
           </span>
         </li>
@@ -68,7 +68,7 @@ export function AnnouncementMarquee() {
 
   return (
     <div
-      className="ps-marquee group overflow-hidden border-b border-blue-800/40 bg-blue-700 text-white"
+      className="ps-marquee group overflow-hidden border-b border-brand-gold/30 bg-brand-navy text-white"
       role="region"
       aria-label={ariaLabel[lang]}
       tabIndex={0}

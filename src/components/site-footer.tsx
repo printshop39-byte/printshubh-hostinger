@@ -162,7 +162,7 @@ export function SiteFooter() {
   const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "footer" });
 
   return (
-    <footer className="bg-slate-950 px-5 pb-10 pt-16 text-slate-300 sm:px-8">
+    <footer className="bg-brand-navy px-5 pb-10 pt-16 text-slate-300 sm:px-8">
       <div className="mx-auto max-w-7xl">
         {/* Trust badges */}
         <ul className="mb-12 flex flex-wrap gap-2">
@@ -171,7 +171,7 @@ export function SiteFooter() {
               key={b}
               className="inline-flex items-center gap-1.5 rounded-full bg-white/5 px-3 py-1.5 text-[11.5px] font-bold text-slate-300 ring-1 ring-inset ring-white/10"
             >
-              <ShieldCheck className="size-3.5 text-blue-400" aria-hidden="true" />
+              <ShieldCheck className="size-3.5 text-brand-gold" aria-hidden="true" />
               {b}
             </li>
           ))}
@@ -181,14 +181,14 @@ export function SiteFooter() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2.5">
-              <span className="flex size-10 items-center justify-center rounded-lg bg-gradient-to-br from-blue-500 to-blue-700 text-lg font-black text-white">
+              <span className="flex size-10 items-center justify-center rounded-lg bg-gradient-to-br from-brand-gold to-brand-navy text-lg font-black text-white">
                 P
               </span>
               <span className="leading-none">
                 <span className="block text-lg font-black tracking-tight text-white">
                   PRINTSHUBH
                 </span>
-                <span className="mt-1 block text-[10px] font-black uppercase tracking-[0.18em] text-blue-400">
+                <span className="mt-1 block text-[10px] font-black uppercase tracking-[0.18em] text-brand-gold">
                   {BRAND_LINE}
                 </span>
               </span>
@@ -272,7 +272,7 @@ export function SiteFooter() {
             </h4>
             <ul className="space-y-3.5 text-[14px]">
               <li className="flex items-start gap-2.5">
-                <Phone className="mt-1 size-4 shrink-0 text-blue-400" aria-hidden="true" />
+                <Phone className="mt-1 size-4 shrink-0 text-brand-gold" aria-hidden="true" />
                 <a
                   href={`tel:${SITE_CONTACT.phoneTel}`}
                   className="inline-flex min-h-[44px] items-center font-bold text-slate-300 transition hover:text-white"
@@ -281,7 +281,7 @@ export function SiteFooter() {
                 </a>
               </li>
               <li className="flex items-start gap-2.5">
-                <Mail className="mt-1 size-4 shrink-0 text-blue-400" aria-hidden="true" />
+                <Mail className="mt-1 size-4 shrink-0 text-brand-gold" aria-hidden="true" />
                 <a
                   href={`mailto:${SITE_CONTACT.email}`}
                   className="inline-flex min-h-[44px] items-center font-bold text-slate-300 transition hover:text-white"
@@ -290,7 +290,7 @@ export function SiteFooter() {
                 </a>
               </li>
               <li className="flex items-start gap-2.5">
-                <MapPin className="mt-1 size-4 shrink-0 text-blue-400" aria-hidden="true" />
+                <MapPin className="mt-1 size-4 shrink-0 text-brand-gold" aria-hidden="true" />
                 {SHOP_ADDRESS ? (
                   <address className="not-italic font-semibold leading-6 text-slate-400">
                     {SHOP_ADDRESS.lines[lang].map((line) => (
@@ -302,7 +302,7 @@ export function SiteFooter() {
                       href={SHOP_ADDRESS.directionsUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="mt-2 inline-flex items-center gap-1.5 font-black text-blue-400 transition hover:text-blue-300"
+                      className="mt-2 inline-flex items-center gap-1.5 font-black text-brand-gold transition hover:text-brand-gold"
                     >
                       <Navigation className="size-3.5" aria-hidden="true" />
                       {t.directions}
@@ -318,7 +318,7 @@ export function SiteFooter() {
               </li>
               {OPENING_HOURS && (
                 <li className="flex items-start gap-2.5">
-                  <Clock className="mt-1 size-4 shrink-0 text-blue-400" aria-hidden="true" />
+                  <Clock className="mt-1 size-4 shrink-0 text-brand-gold" aria-hidden="true" />
                   <div>
                     <p className="font-black text-slate-300">{t.hours}</p>
                     <dl className="mt-1 space-y-0.5 text-[13.5px] text-slate-400">

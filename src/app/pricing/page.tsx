@@ -29,7 +29,7 @@ export default function PricingPage() {
     <>
       <SiteHeader />
       <AnnouncementMarquee />
-      <main className="min-h-screen bg-[#f7fbff] px-5 py-12 text-slate-900 sm:px-8 sm:py-16">
+      <main className="min-h-screen bg-brand-cream px-5 py-12 text-slate-900 sm:px-8 sm:py-16">
         <div className="mx-auto max-w-4xl">
           <PricingPageBody />
         </div>

@@ -204,9 +204,9 @@ function SupportBody({ lang }: { lang: Lang }) {
 
         <a
           href={`tel:${SITE_CONTACT.phoneTel}`}
-          className="flex items-start gap-3 rounded-xl border border-blue-200 bg-blue-50 p-5 text-blue-900 shadow-sm transition hover:bg-blue-100"
+          className="flex items-start gap-3 rounded-xl border border-brand-gold-light bg-brand-cream p-5 text-brand-navy shadow-sm transition hover:bg-brand-gold-light"
         >
-          <span className="flex size-12 shrink-0 items-center justify-center rounded-lg bg-blue-600 text-white">
+          <span className="flex size-12 shrink-0 items-center justify-center rounded-lg bg-brand-navy text-white">
             <Phone className="size-6" />
           </span>
           <div className="min-w-0">
@@ -229,9 +229,9 @@ function SupportBody({ lang }: { lang: Lang }) {
                 href={href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-start gap-3 rounded-lg border border-slate-200 bg-white p-4 shadow-sm transition hover:border-blue-300 hover:bg-blue-50"
+                className="flex items-start gap-3 rounded-lg border border-slate-200 bg-white p-4 shadow-sm transition hover:border-brand-gold hover:bg-brand-cream"
               >
-                <span className="flex size-10 shrink-0 items-center justify-center rounded-md bg-blue-100 text-blue-700">
+                <span className="flex size-10 shrink-0 items-center justify-center rounded-md bg-brand-gold-light text-brand-navy">
                   {tp.icon}
                 </span>
                 <div className="min-w-0">
@@ -254,7 +254,7 @@ function SupportBody({ lang }: { lang: Lang }) {
       <LegalSection heading={t.policyTitle}>
         <p>{t.policyBody}</p>
         <p className="text-[13px] text-slate-500">
-          <Link href="/disclaimer" className="font-bold text-blue-700 hover:underline">
+          <Link href="/disclaimer" className="font-bold text-brand-navy hover:underline">
             {lang === "mr" ? "पूर्ण अस्वीकरण वाचा →" : "Read full disclaimer →"}
           </Link>
         </p>

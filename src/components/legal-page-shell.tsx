@@ -53,15 +53,15 @@ export function LegalPageShell({
   return (
     <>
       <SiteHeader />
-      <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] pb-24 text-slate-900">
+      <main className="min-h-screen overflow-x-hidden bg-brand-cream pb-24 text-slate-900">
         {/* Hero band */}
-        <section className="border-b border-slate-200 bg-white px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
+        <section className="border-b border-slate-200 bg-brand-cream px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-4xl">
             {/* Breadcrumb */}
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
               <Link
                 href="/"
-                className="inline-flex items-center gap-1 transition hover:text-blue-700"
+                className="inline-flex items-center gap-1 transition hover:text-brand-navy"
               >
                 <Home className="size-3.5" />
                 {homeLabel[t]}
@@ -127,7 +127,7 @@ export function LegalSection({
 
 export function LegalList({ items }: { items: ReactNode[] }) {
   return (
-    <ul className="ml-5 list-disc space-y-1.5 text-[15px] leading-7 text-slate-700 marker:text-blue-500">
+    <ul className="ml-5 list-disc space-y-1.5 text-[15px] leading-7 text-slate-700 marker:text-brand-gold">
       {items.map((it, i) => (
         <li key={i}>{it}</li>
       ))}

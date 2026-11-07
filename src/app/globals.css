@@ -3,11 +3,27 @@
 :root {
   --background: #f7fbff;
   --foreground: #0f172a;
+
+  /* Stage-5 Premium Studio brand palette (owner-confirmed: Cream, Gold,
+   * Deep Navy). Scoped to the Premium Studio-facing UI only — header,
+   * footer, homepage, collection pages, legal-page shell, pricing. Admin
+   * tools and the land-document map/calculator UI keep their existing
+   * blue, unchanged, per the Stage-4 "untouched" decision. */
+  --color-brand-cream: #f6f1ea;
+  --color-brand-gold: #b89052;
+  --color-brand-gold-light: #f3e8d6;
+  --color-brand-navy: #183153;
+  --color-brand-navy-dark: #0f2140;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-brand-cream: var(--color-brand-cream);
+  --color-brand-gold: var(--color-brand-gold);
+  --color-brand-gold-light: var(--color-brand-gold-light);
+  --color-brand-navy: var(--color-brand-navy);
+  --color-brand-navy-dark: var(--color-brand-navy-dark);
   --font-sans: "Geist", "Geist Fallback", "Noto Sans Devanagari", "Mangal", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
 }

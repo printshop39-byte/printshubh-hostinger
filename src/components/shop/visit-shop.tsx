@@ -82,7 +82,7 @@ export function VisitShop() {
     >
       <div className="mx-auto max-w-7xl">
         <Reveal>
-          <p className="inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-50 px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-blue-800">
+          <p className="inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
             <MapPin className="size-3.5" aria-hidden="true" />
             {tx.eyebrow}
           </p>
@@ -130,7 +130,7 @@ export function VisitShop() {
               <div className="mt-8 flex flex-wrap gap-2.5">
                 <a
                   href={`tel:${SITE_CONTACT.phoneTel}`}
-                  className="inline-flex h-12 items-center gap-2 rounded-xl bg-slate-900 px-5 text-sm font-black text-white transition hover:bg-slate-800"
+                  className="inline-flex h-12 items-center gap-2 rounded-xl bg-brand-navy px-5 text-sm font-black text-white transition hover:bg-brand-navy-dark"
                 >
                   <Phone className="size-4" aria-hidden="true" />
                   {tx.call}
@@ -149,7 +149,7 @@ export function VisitShop() {
                   href={address.directionsUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex h-12 items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 text-sm font-black text-slate-800 transition hover:border-blue-300 hover:text-blue-800"
+                  className="inline-flex h-12 items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 text-sm font-black text-slate-800 transition hover:border-brand-gold hover:text-brand-navy"
                 >
                   <Navigation className="size-4" aria-hidden="true" />
                   {tx.directions}
