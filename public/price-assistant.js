@@ -95,8 +95,9 @@
   window.__psbPriceAssistantLoaded = true;
 
   function getLang() {
-    var l = (document.documentElement.lang || "mr").toLowerCase();
-    return l.indexOf("en") === 0 ? "en" : "mr";
+    // English-only public site: anything that is not explicitly Marathi is English.
+    var l = (document.documentElement.lang || "en").toLowerCase();
+    return l.indexOf("mr") === 0 ? "mr" : "en";
   }
   function t() {
     return T[getLang()];

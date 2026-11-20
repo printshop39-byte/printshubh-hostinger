@@ -1,6 +1,7 @@
 "use client";
 
-import { createContext, useContext, useEffect, useState } from "react";
+import { createContext, useContext, useEffect, useMemo, useState } from "react";
+import { usePathname } from "next/navigation";
 
 export type Lang = "mr" | "en";
 
@@ -21,24 +22,40 @@ function bcp47(l: Lang): string {
   return l === "mr" ? "mr-IN" : "en-IN";
 }
 
-export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLang] = useState<Lang>("en");
+const NOOP = () => {};
 
-  /* Keep the <html lang="…"> attribute in sync with the active language.
-   * SSR ships "mr-IN" (see layout.tsx); on the client we update it when
-   * the user toggles. This is mainly an a11y + SEO signal — assistive
-   * tech reads the attribute, and Google uses it as a soft language hint
-   * alongside hreflang. */
+/**
+ * ENGLISH-ONLY PUBLIC SITE (S1-A)
+ *
+ * Every public route is locked to English: `lang` is always "en" and
+ * `setLang` does nothing, so no visitor can switch the interface to Marathi.
+ * The Marathi branches inside the components are left in place for now (they
+ * are removed route group by route group in S1-B); they simply never render.
+ *
+ * The ONE exception is the admin area (`/admin/*`): its tools keep their own
+ * working language switch, so there the provider behaves exactly as it did
+ * before (state-driven, starting in English).
+ */
+export function LanguageProvider({ children }: { children: React.ReactNode }) {
+  const pathname = usePathname();
+  const isAdmin = pathname === "/admin" || (pathname?.startsWith("/admin/") ?? false);
+  const [adminLang, setAdminLang] = useState<Lang>("en");
+
+  const lang: Lang = isAdmin ? adminLang : "en";
+  const setLang = isAdmin ? setAdminLang : NOOP;
+
+  /* Keep the <html lang="…"> attribute in sync with the active language:
+   * always "en-IN" on public pages. Mainly an a11y + SEO signal. */
   useEffect(() => {
     if (typeof document !== "undefined") {
       document.documentElement.lang = bcp47(lang);
     }
   }, [lang]);
 
+  const value = useMemo(() => ({ lang, setLang }), [lang, setLang]);
+
   return (
-    <LanguageContext.Provider value={{ lang, setLang }}>
-      {children}
-    </LanguageContext.Provider>
+    <LanguageContext.Provider value={value}>{children}</LanguageContext.Provider>
   );
 }
 

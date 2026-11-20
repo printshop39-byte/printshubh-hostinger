@@ -10,12 +10,12 @@ export const WHATSAPP_NUMBER = "918625801907";
 /** Display form for tel:/print contexts. */
 export const WHATSAPP_DISPLAY = "+91 86258 01907";
 
-/** Standard primary CTA label (Marathi-first). */
-export const WHATSAPP_CTA = "WhatsApp वर मोफत विचारा — किंमत आधी कळेल";
+/** Standard primary CTA label. */
+export const WHATSAPP_CTA = "Ask on WhatsApp — know the price first";
 
 /** Default pre-filled message for generic WhatsApp links. */
 export const WHATSAPP_DEFAULT_MESSAGE =
-  "नमस्कार PrintShubh, मला जमीन कागदपत्र सेवेसाठी मदत हवी आहे. कृपया किंमत आणि वेळ सांगा.";
+  "Hello PrintShubh, I need help with a land document service. Please share the price and timeline.";
 
 export type WhatsAppLinkOptions = {
   /** Pre-filled (decoded) message. Encoded exactly once by this helper. */

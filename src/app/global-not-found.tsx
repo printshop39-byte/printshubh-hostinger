@@ -16,9 +16,8 @@
  *   inheriting them from the root layout.
  *
  * WHY NO useLang() / LanguageProvider
- *   LanguageProvider is mounted inside layout.tsx, which this route bypasses,
- *   so the mr/en toggle used elsewhere on the site isn't available here.
- *   Both languages are shown at once instead of guessing one.
+ *   LanguageProvider is mounted inside layout.tsx, which this route bypasses.
+ *   The public site is English-only, so this page is simply written in English.
  */
 
 import Link from "next/link";
@@ -44,23 +43,20 @@ export default function GlobalNotFound() {
   const waHref = buildWhatsAppUrl({ campaign: "404", content: "ask-help" });
 
   return (
-    <html lang="mr">
+    <html lang="en">
       <body
         className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} flex min-h-screen flex-col items-center justify-center bg-[#f8fbff] px-5 text-center`}
       >
         <p className="text-6xl font-black text-blue-700">404</p>
         <h1 className="mt-4 text-2xl font-black text-slate-950">
-          हे पान सापडले नाही.
-        </h1>
-        <p className="mt-1 text-base font-semibold text-slate-600">
           This page could not be found.
-        </p>
+        </h1>
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
           <Link
             href="/"
             className="inline-flex min-h-[44px] items-center justify-center rounded-xl bg-blue-700 px-5 py-3 text-sm font-black text-white transition hover:bg-blue-800"
           >
-            मुख्यपानावर जा · Go to homepage
+            Go to homepage
           </Link>
           <a
             href={waHref}

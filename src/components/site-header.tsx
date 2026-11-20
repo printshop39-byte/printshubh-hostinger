@@ -4,7 +4,8 @@
  * SiteHeader — sticky top bar used on every route (homepage, service page
  * shells, legal page shell).
  *
- * Structure: brand wordmark · primary nav · language toggle · WhatsApp CTA.
+ * Structure: brand wordmark · primary nav · search · WhatsApp CTA. (There is no
+ * language toggle: the public site is English-only.)
  *
  * The nav is split into `primary` and `more`:
  *   - primary  — the four service categories plus About/Contact. These are
@@ -69,7 +70,7 @@ const menuLabel: Record<Lang, string> = { mr: "मेनू", en: "Menu" };
 const moreLabel: Record<Lang, string> = { mr: "आणखी", en: "More" };
 
 export function SiteHeader() {
-  const { lang, setLang } = useLang();
+  const { lang } = useLang();
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -210,25 +211,6 @@ export function SiteHeader() {
         {/* Right cluster */}
         <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
           <SiteSearch />
-
-          <div className="inline-flex overflow-hidden rounded-lg border border-slate-300 text-[11px] font-black">
-            {(["mr", "en"] as Lang[]).map((code) => (
-              <button
-                key={code}
-                type="button"
-                onClick={() => setLang(code)}
-                aria-pressed={lang === code}
-                aria-label={code === "mr" ? "मराठी" : "English"}
-                className={`inline-flex min-h-[44px] min-w-[44px] items-center justify-center px-2 transition sm:px-2.5 ${
-                  lang === code
-                    ? "bg-brand-navy text-white"
-                    : "bg-white text-slate-700 hover:bg-slate-50"
-                }`}
-              >
-                {code === "mr" ? "मराठी" : "EN"}
-              </button>
-            ))}
-          </div>
 
           <a
             href={waHref}
