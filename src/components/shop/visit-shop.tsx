@@ -10,6 +10,12 @@
  * that. Until then the site keeps describing itself as a service-area
  * business, which is what it has always accurately claimed.
  *
+ * NOTHING WAITS FOR AN ANIMATION
+ *   The heading, the details card, the hours, the call / WhatsApp / directions
+ *   buttons and the map used to sit at opacity 0 in the server HTML until a
+ *   scroll-in animation (Reveal) ran. They are plain markup now, visible from
+ *   the first paint and under prefers-reduced-motion alike.
+ *
  * The map is an iframe but it is framed as part of the layout — rounded,
  * bordered, sharing the card's grid — rather than dropped on the page raw.
  * `loading="lazy"` keeps Google Maps entirely out of the initial page cost;
@@ -22,7 +28,6 @@ import { OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { SITE_CONTACT } from "@/components/site-footer";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
-import { Reveal } from "@/components/shop/motion";
 
 const t: Record<
   Lang,
@@ -81,7 +86,7 @@ export function VisitShop() {
       className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
-        <Reveal>
+        <div>
           <p className="inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
             <MapPin className="size-3.5" aria-hidden="true" />
             {tx.eyebrow}
@@ -93,9 +98,9 @@ export function VisitShop() {
             {tx.heading}
           </h2>
           <p className="mt-3 max-w-xl text-lg leading-8 text-slate-600">{tx.sub}</p>
-        </Reveal>
+        </div>
 
-        <Reveal delay={0.08}>
+        <div>
           <div className="mt-10 grid overflow-hidden rounded-3xl border border-slate-200 shadow-sm lg:grid-cols-[0.9fr_1.1fr]">
             {/* Details column */}
             <div className="bg-[#f6faff] p-7 sm:p-9">
@@ -168,7 +173,7 @@ export function VisitShop() {
               />
             </div>
           </div>
-        </Reveal>
+        </div>
       </div>
     </section>
   );

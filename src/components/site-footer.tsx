@@ -9,13 +9,21 @@
  * policy pages) is listed here, on every route. Nothing became unreachable
  * when the header was slimmed down.
  *
+ * On the homepage ("/") only, the footer is the premium-storefront version: the
+ * land-document badges and the PrintShubh.in tools block are left out, and the
+ * collections and services links (already on the page above) fold into one
+ * native <details> on phones. Every other route renders the footer exactly as
+ * before.
+ *
  * The address block shows a real address only once SHOP_ADDRESS is filled in
  * (src/lib/shop-profile.ts); until then it states the service area, which is
  * what the site has always accurately claimed.
  */
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import {
+  ChevronDown,
   Clock,
   Mail,
   MapPin,
@@ -27,7 +35,7 @@ import {
 import { useLang, type Lang } from "@/components/language-context";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
-import { BRAND_LINE, OPENING_HOURS, SHOP_ADDRESS, YEARS_EXPERIENCE } from "@/lib/shop-profile";
+import { BRAND_LINE, ESTABLISHED, OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { COLLECTIONS } from "@/lib/collections";
 
 /* ── Official PrintShubh contact details ──────────────────────────────────
@@ -56,6 +64,8 @@ const tx: Record<
     usefulTitle: string;
     contactTitle: string;
     badges: string[];
+    /** Shown only on the legacy land-document pages (see LAND_DOCUMENT_PATHS). */
+    notGovernment: string;
     services: { label: string; href: string }[];
     useful: { label: string; href: string }[];
     waMsg: string;
@@ -67,6 +77,9 @@ const tx: Record<
     toolsTitle: string;
     toolsBody: string;
     toolsCta: string;
+    browse: string;
+    /** Homepage only: label before the printshubh.in link. */
+    crossSite: string;
   }
 > = {
   mr: {
@@ -78,11 +91,11 @@ const tx: Record<
     contactTitle: "संपर्क",
     badges: [
       "अधिकृत स्रोतांवर आधारित",
-      "सरकारी संस्था नाही",
       "WhatsApp वर PDF",
       "पेमेंटपूर्वी माहिती तपासणी",
-      `${YEARS_EXPERIENCE}+ वर्षांचा अनुभव`,
+      `${ESTABLISHED.slice(0, 4)} पासून`,
     ],
+    notGovernment: "सरकारी संस्था नाही",
     services: [
       { label: "प्रिंटिंग व झेरॉक्स", href: "/printing-xerox" },
       { label: "फोटो सेवा", href: "/photo-services" },
@@ -110,6 +123,8 @@ const tx: Record<
     toolsBody:
       "फोटो Compress, PDF, आधार एका पानावर, Resume आणि सरकारी अर्ज नमुने — मोफत, तुमच्याच ब्राउझरमध्ये.",
     toolsCta: "साधने पहा",
+    browse: "Collections व सेवा",
+    crossSite: "मोफत ऑनलाइन साधने:",
   },
   en: {
     tagline:
@@ -120,11 +135,11 @@ const tx: Record<
     contactTitle: "Contact",
     badges: [
       "Based on official sources",
-      "Not a government body",
       "PDF on WhatsApp",
       "Details verified before payment",
-      `${YEARS_EXPERIENCE}+ years of experience`,
+      `Since ${ESTABLISHED.slice(0, 4)}`,
     ],
+    notGovernment: "Not a government body",
     services: [
       { label: "Printing & Xerox", href: "/printing-xerox" },
       { label: "Photo Services", href: "/photo-services" },
@@ -150,23 +165,88 @@ const tx: Record<
     toolsBody:
       "Photo compressor, PDF tools, Aadhaar on one page, resume builder and government application templates — free, in your own browser.",
     toolsCta: "Open the tools",
+    browse: "Collections & services",
+    crossSite: "Free online tools:",
     directions: "Directions",
     hours: "Hours",
   },
 };
 
+/* The "not a government body" badge belongs to the land-document pages, where
+ * the site helps with government records. On the premium print pages it is
+ * noise, so it is shown only on these routes. This is the same list as
+ * LAND_DOCUMENT_PATHS in legacy-price-assistant.tsx: keep the two in step. */
+const LAND_DOCUMENT_PATHS: readonly string[] = [
+  "/satbara-utara-maharashtra",
+  "/8a-utara-maharashtra",
+  "/gav-nakasha-maharashtra",
+  "/dp-map-maharashtra",
+  "/milkat-patrika-maharashtra",
+  "/e-ferfar-maharashtra",
+  "/jameen-report-maharashtra",
+  "/nakasha-shodh",
+  "/land-unit-converter",
+];
+
+function isLandDocumentPath(pathname: string | null): boolean {
+  if (!pathname) return false;
+  const clean = pathname.replace(/\/+$/, "") || "/";
+  return LAND_DOCUMENT_PATHS.includes(clean);
+}
+
 export function SiteFooter() {
   const { lang } = useLang();
   const t = tx[lang];
+  const pathname = usePathname();
+  const isHome = pathname === "/";
+  // On a land-document page the badge keeps its original place, second in the row.
+  // On the homepage only "Since 1996" is kept (the last badge).
+  const badges = isHome
+    ? t.badges.slice(-1)
+    : isLandDocumentPath(pathname)
+      ? [t.badges[0], t.notGovernment, ...t.badges.slice(1)]
+      : t.badges;
   const year = new Date().getFullYear();
   const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "footer" });
+
+  // The two link lists are built once: the homepage shows them in the grid
+  // columns from `md` up and inside the phone <details>; other routes only
+  // in the columns.
+  const collectionLinks = (
+    <ul className="space-y-1">
+      {COLLECTIONS.map((c) => (
+        <li key={c.key}>
+          <Link
+            href={`/collections/${c.slug}/`}
+            className="flex min-h-[44px] items-center text-[14px] font-semibold text-slate-400 transition hover:text-white"
+          >
+            {c.shortTitle[lang]}
+          </Link>
+        </li>
+      ))}
+    </ul>
+  );
+  const serviceLinks = (
+    <ul className="space-y-1">
+      {t.services.map((l) => (
+        <li key={l.href + l.label}>
+          <Link
+            href={l.href}
+            className="flex min-h-[44px] items-center text-[14px] font-semibold text-slate-400 transition hover:text-white"
+          >
+            {l.label}
+          </Link>
+        </li>
+      ))}
+    </ul>
+  );
 
   return (
     <footer className="bg-brand-navy px-5 pb-10 pt-16 text-slate-300 sm:px-8">
       <div className="mx-auto max-w-7xl">
         {/* Trust badges */}
-        <ul className="mb-12 flex flex-wrap gap-2">
-          {t.badges.map((b) => (
+        <ul className={`${isHome ? "mb-8" : "mb-12"} flex flex-wrap gap-2`}>
+          {badges.map((b) => (
             <li
               key={b}
               className="inline-flex items-center gap-1.5 rounded-full bg-white/5 px-3 py-1.5 text-[11.5px] font-bold text-slate-300 ring-1 ring-inset ring-white/10"
@@ -206,44 +286,50 @@ export function SiteFooter() {
             </a>
           </div>
 
+          {/* Homepage, phones only: collections and services in one fold. The
+              same links are in the columns below from `md` up. */}
+          {isHome && (
+            <details className="group border-y border-white/10 md:hidden">
+              <summary className="flex min-h-[44px] cursor-pointer list-none items-center justify-between text-[11px] font-black uppercase tracking-[0.18em] text-slate-300 [&::-webkit-details-marker]:hidden">
+                {t.browse}
+                <ChevronDown
+                  className="size-4 transition group-open:rotate-180 motion-reduce:transition-none"
+                  aria-hidden="true"
+                />
+              </summary>
+              <div className="grid gap-6 pb-4 pt-2">
+                <div>
+                  <h4 className="mb-2 text-[11px] font-black uppercase tracking-[0.18em] text-slate-500">
+                    {t.collectionsTitle}
+                  </h4>
+                  {collectionLinks}
+                </div>
+                <div>
+                  <h4 className="mb-2 text-[11px] font-black uppercase tracking-[0.18em] text-slate-500">
+                    {t.servicesTitle}
+                  </h4>
+                  {serviceLinks}
+                </div>
+              </div>
+            </details>
+          )}
+
           {/* Collections — generated from lib/collections.ts, the single
               source of truth for the 7 premium-print routes, so this list
               can never drift from the pages it links to. */}
-          <div>
+          <div className={isHome ? "hidden md:block" : undefined}>
             <h4 className="mb-4 text-[11px] font-black uppercase tracking-[0.18em] text-slate-500">
               {t.collectionsTitle}
             </h4>
-            <ul className="space-y-1">
-              {COLLECTIONS.map((c) => (
-                <li key={c.key}>
-                  <Link
-                    href={`/collections/${c.slug}/`}
-                    className="flex min-h-[44px] items-center text-[14px] font-semibold text-slate-400 transition hover:text-white"
-                  >
-                    {c.shortTitle[lang]}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            {collectionLinks}
           </div>
 
           {/* Services */}
-          <div>
+          <div className={isHome ? "hidden md:block" : undefined}>
             <h4 className="mb-4 text-[11px] font-black uppercase tracking-[0.18em] text-slate-500">
               {t.servicesTitle}
             </h4>
-            <ul className="space-y-1">
-              {t.services.map((l) => (
-                <li key={l.href + l.label}>
-                  <Link
-                    href={l.href}
-                    className="flex min-h-[44px] items-center text-[14px] font-semibold text-slate-400 transition hover:text-white"
-                  >
-                    {l.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            {serviceLinks}
           </div>
 
           {/* Useful */}
@@ -345,6 +431,7 @@ export function SiteFooter() {
           it is useful to a reader too — someone who came for a 7/12 often
           also needs a photo compressed to 50KB.
         */}
+        {!isHome && (
         <div className="mt-12 rounded-xl bg-white/5 p-5 ring-1 ring-inset ring-white/10 sm:flex sm:items-center sm:justify-between sm:gap-6">
           <div>
             <p className="text-[14px] font-black text-slate-100">{t.toolsTitle}</p>
@@ -357,11 +444,25 @@ export function SiteFooter() {
             {t.toolsCta}
           </a>
         </div>
+        )}
 
         <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-white/10 pt-6 text-[12px] font-semibold text-slate-500 sm:flex-row sm:items-center">
           <p>
             © {year} PRINTSHUBH · {t.rights}
           </p>
+          {/* Homepage only: the one plain, followed link to the free-tools site
+              (the larger block above is kept for every other route). */}
+          {isHome && (
+            <p className="flex flex-wrap items-center gap-x-1.5">
+              {t.crossSite}
+              <a
+                href="https://www.printshubh.in"
+                className="inline-flex min-h-[44px] items-center font-bold text-slate-300 underline decoration-white/30 underline-offset-4 transition hover:text-white"
+              >
+                printshubh.in
+              </a>
+            </p>
+          )}
           <p>{t.builtFor}</p>
         </div>
       </div>

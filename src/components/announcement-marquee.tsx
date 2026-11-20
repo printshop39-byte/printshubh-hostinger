@@ -16,6 +16,7 @@
  * PDF) are kept as-is in both languages.
  */
 
+import { usePathname } from "next/navigation";
 import { useLang, type Lang } from "@/components/language-context";
 
 /* The land-document promo lines (7/12, 8A, Village Map, Maps/Plans) that
@@ -37,6 +38,14 @@ const messages: Record<Lang, string[]> = {
     "Know the price first — no hidden fees",
     "PDF assistance on WhatsApp",
   ],
+};
+
+/* The homepage is the print studio, so its third line asks for the print file.
+ * "PDF assistance on WhatsApp" is the land-document wording and stays on every
+ * other route exactly as it was. */
+const homeLastLine: Record<Lang, string> = {
+  mr: "प्रिंट फाइल WhatsApp वर पाठवा",
+  en: "Send your print file on WhatsApp",
 };
 
 const ariaLabel: Record<Lang, string> = {
@@ -64,7 +73,8 @@ function MessageRow({ items, ariaHidden }: { items: string[]; ariaHidden?: boole
 
 export function AnnouncementMarquee() {
   const { lang } = useLang();
-  const items = messages[lang];
+  const isHome = usePathname() === "/";
+  const items = isHome ? [...messages[lang].slice(0, -1), homeLastLine[lang]] : messages[lang];
 
   return (
     <div

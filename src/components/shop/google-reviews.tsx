@@ -15,6 +15,12 @@
  * is a paraphrase, and a paraphrased review is no longer the customer's
  * words. Only the surrounding chrome switches language.
  *
+ * NOTHING WAITS FOR AN ANIMATION
+ *   The section used to fade in on scroll (Reveal / Stagger), which left every
+ *   heading, card and link at opacity 0 in the server HTML until the scripts
+ *   ran. It is now plain markup, visible from the first paint and under
+ *   prefers-reduced-motion alike.
+ *
  * The star row is labelled for assistive tech; the stars themselves are
  * decorative so a screen reader hears "4 out of 5", not five icons.
  */
@@ -29,7 +35,6 @@ import {
   hasAggregateRating,
   hasReviews,
 } from "@/lib/shop-profile";
-import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 
 const t: Record<
   Lang,
@@ -83,7 +88,7 @@ export function GoogleReviews() {
       className="bg-[#f6faff] px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
-        <Reveal>
+        <div>
           <div className="flex flex-wrap items-end justify-between gap-6">
             <div>
               <h2
@@ -117,12 +122,12 @@ export function GoogleReviews() {
               </div>
             )}
           </div>
-        </Reveal>
+        </div>
 
         {showReviews && (
-          <Stagger as="ul" className="mt-11 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <ul className="mt-11 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {GOOGLE_REVIEWS.map((review, i) => (
-              <StaggerItem as="li" key={`${review.author}-${i}`}>
+              <li key={`${review.author}-${i}`}>
                 <figure className="flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
                   <Quote className="size-7 text-brand-gold-light" aria-hidden="true" />
                   <Stars rating={review.rating} label={tx.ratingLabel(review.rating)} />
@@ -133,13 +138,13 @@ export function GoogleReviews() {
                     {review.author}
                   </figcaption>
                 </figure>
-              </StaggerItem>
+              </li>
             ))}
-          </Stagger>
+          </ul>
         )}
 
         {GOOGLE_PROFILE_URL && (
-          <Reveal delay={0.08}>
+          <div>
             <a
               href={GOOGLE_PROFILE_URL}
               target="_blank"
@@ -149,7 +154,7 @@ export function GoogleReviews() {
               {tx.cta}
               <ExternalLink className="size-4" aria-hidden="true" />
             </a>
-          </Reveal>
+          </div>
         )}
       </div>
     </section>

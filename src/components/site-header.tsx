@@ -200,7 +200,7 @@ export function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              className="relative text-[13.5px] font-bold text-slate-700 transition after:absolute after:-bottom-1.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-navy after:transition-all after:duration-300 hover:text-brand-navy hover:after:w-full motion-reduce:after:transition-none"
+              className="relative inline-flex min-h-[44px] items-center text-[13.5px] font-bold text-slate-700 transition after:absolute after:bottom-2.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-navy after:transition-all after:duration-300 hover:text-brand-navy hover:after:w-full motion-reduce:after:transition-none"
             >
               {item.label[lang]}
             </Link>
@@ -235,7 +235,7 @@ export function SiteHeader() {
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => trackWhatsAppLead()}
-            className="hidden h-10 items-center gap-2 rounded-lg bg-green-600 px-4 text-[13px] font-black text-white shadow-sm transition hover:bg-green-700 lg:inline-flex"
+            className="hidden h-11 items-center gap-2 rounded-lg bg-green-600 px-4 text-[13px] font-black text-white shadow-sm transition hover:bg-green-700 lg:inline-flex"
           >
             <MessageCircle className="size-4" aria-hidden="true" />
             {waCta[lang]}

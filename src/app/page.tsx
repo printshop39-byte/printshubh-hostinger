@@ -1,22 +1,18 @@
 import type { Metadata } from "next";
 import { AnnouncementMarquee } from "@/components/announcement-marquee";
-import { Disclaimer } from "@/components/disclaimer";
-import { MobileServiceShortcuts } from "@/components/mobile-service-shortcuts";
-import { SampleProcessSection } from "@/components/sample-process-section";
-import { ToolsSection } from "@/components/tools-section";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 import { ShopHero } from "@/components/shop/shop-hero";
-import { ServiceStrip } from "@/components/shop/service-strip";
-import { ServicePillars } from "@/components/shop/service-pillars";
-import { WhatsAppPrint } from "@/components/shop/whatsapp-print";
 import { ShopGallery } from "@/components/shop/shop-gallery";
-import { ExperienceBand } from "@/components/shop/experience-band";
-import { PrintingTechnology } from "@/components/shop/printing-technology";
 import { CollectionsGrid } from "@/components/shop/collections-grid";
+import { CadPrintsSection } from "@/components/shop/cad-prints-section";
+import { StudioCapabilities } from "@/components/shop/studio-capabilities";
+import { HowItWorks } from "@/components/shop/how-it-works";
+import { HomeEnquiry } from "@/components/shop/home-enquiry";
 import { GoogleReviews } from "@/components/shop/google-reviews";
 import { VisitShop } from "@/components/shop/visit-shop";
+import { CounterServicesRow } from "@/components/shop/counter-services-row";
 
 /* ── Homepage metadata ──────────────────────────────────────────────────
  *
@@ -58,27 +54,32 @@ export const metadata: Metadata = {
 
 /* ── Scroll order ───────────────────────────────────────────────────────
  *
- *   hero → services → mobile shortcuts → whatsapp print → shop & work →
- *   30+ years → samples → printing tech → collections → reviews →
- *   location → tools
+ *   hero → collections → CAD prints → studio → how it works → enquiry →
+ *   (shop photos, once they exist) → Google reviews → visit the shop →
+ *   "also at the counter"
  *
- * LandDocuments, UnifiedRecordForm and (later) MapPromo were removed from
- * this homepage flow as part of the shop/print-studio -> Premium Print &
- * Visual Studio repositioning (owner decision). This is a
- * HOMEPAGE/NAVIGATION change only:
- *   - The 9 land-document SEO pages they linked to (satbara-utara-maharashtra,
- *     8a-utara-maharashtra, gav-nakasha-maharashtra, dp-map-maharashtra,
- *     milkat-patrika-maharashtra, e-ferfar-maharashtra,
- *     jameen-report-maharashtra, nakasha-shodh, land-unit-converter) are
- *     UNTOUCHED — still live, still in sitemap.ts, pending a separate
- *     traffic/backlink/redirect audit before any of them are touched.
- *   - /nakasha-shodh's enquiry form, /api/inquiries, the Supabase lead store,
- *     Resend notifications and /admin/land-reports(-gis) are UNTOUCHED —
- *     real customer data and the owner's only way to read it.
- *   - All three components still exist (components/shop/land-documents.tsx,
- *     components/unified-record-form.tsx, components/map-promo.tsx) —
- *     unused by this page but not deleted, in case this decision is
- *     revisited.
+ * S1 (premium homepage) is built in checkpoints: C1 the composition, hero and
+ * counter-services row; C2 the editorial collections index; C3 the CAD prints
+ * section; C4 the studio, process and enquiry sections.
+ *
+ * What the homepage no longer shows, and where it still lives. This is a
+ * homepage-visibility change ONLY: every page, route, tool, API, data table
+ * and admin screen below is untouched.
+ *   - hero service cards (printing / photo / digital) .. header, footer and
+ *     the "also at the counter" row link to /printing-xerox, /photo-services
+ *     and /digital-services
+ *   - ServiceStrip, ServicePillars ..................... same three pages
+ *   - MobileServiceShortcuts, ToolsSection ............. /home-loan-emi,
+ *     /stamp-duty, /ready-reckoner, /land-unit-converter (the "also at the
+ *     counter" row keeps the #services and #tools anchors that the header,
+ *     the footer and the service pages link to)
+ *   - ExperienceBand, SampleProcessSection ............. land-document pages
+ *     (/satbara-utara-maharashtra and the rest, still live and in the sitemap)
+ *   - WhatsAppPrint, PrintingTechnology ................ replaced by
+ *     HowItWorks / HomeEnquiry and StudioCapabilities (C4)
+ *   - Disclaimer ("not a government website") ......... stays on the
+ *     land-document pages, the legal pages and in the footer
+ * The component files themselves are kept, unused, for now.
  *
  * ShopGallery, GoogleReviews and VisitShop each render NOTHING until the
  * business data behind them is filled in (src/lib/shop-profile.ts), so the
@@ -90,47 +91,27 @@ export default function Home() {
       {/* Scrolling updates / announcement bar — below header, above hero */}
       <AnnouncementMarquee />
       <main className="min-h-screen overflow-x-hidden bg-brand-cream text-slate-900">
-        {/* No <LandingAnimations /> here on purpose.
-            That component drives GSAP + ScrollTrigger over [data-reveal]
-            nodes, and the redesigned homepage has none left — every section
-            now reveals through Framer Motion (src/components/shop/motion.tsx).
-            Mounting it cost ~43 KB gzip of JS to animate nothing.
-            It is still used by /nakasha-shodh, where map-reference-section
-            does render [data-reveal] nodes — do not delete the component. */}
-
         <ShopHero />
-        <ServiceStrip />
 
-        {/* The seven premium print collections — wallpaper, canvas, wall
-            art, rexine, satin fabric, framed prints, vinyl. Stage-4
-            rebrand: moved up so Collections is the first thing a visitor
-            sees after the hero, ahead of the counter-service pillars. */}
+        {/* The seven premium print collections. */}
         <CollectionsGrid />
 
-        {/* Mobile-only priced document/map shortcuts + free-tools row */}
-        <MobileServiceShortcuts />
+        {/* CAD / architectural plan printing: the second pillar of the studio.
+            The call to action is WhatsApp; there is no /cad-prints page yet. */}
+        <CadPrintsSection />
 
-        {/* Send a file, collect the print — the headline conversion */}
-        <WhatsAppPrint />
+        {/* What the interior prints are made on (the Epson SC-S9130). */}
+        <StudioCapabilities />
+
+        {/* Five steps, from choosing to collecting at the studio. */}
+        <HowItWorks />
+
+        {/* Closing call to action: WhatsApp (files go there) and a phone call.
+            No upload form. */}
+        <HomeEnquiry />
 
         {/* Proof: the real counter (hidden until photos exist) */}
         <ShopGallery />
-
-        {/* Proof: 30+ years, plus what that experience covers */}
-        <ExperienceBand />
-
-        {/* Trust proof — sample previews, 3-step process, assurances */}
-        <SampleProcessSection />
-
-        {/* The 11-colour Epson SureColor SC-S9130 — typography-only until
-            real photos/certificates exist (see shop-profile.ts) */}
-        <PrintingTechnology />
-
-        {/* The other things the shop does — printing/xerox, photo, digital.
-            Stage-4 rebrand: moved below Collections (was directly under the
-            hero) so Premium Collections reads as the primary identity;
-            still fully present and linked, not removed. */}
-        <ServicePillars />
 
         {/* Google reviews (hidden until real reviews are configured) */}
         <GoogleReviews />
@@ -138,12 +119,13 @@ export default function Home() {
         {/* Address, hours and map (hidden until the address is confirmed) */}
         <VisitShop />
 
-        {/* Free calculators — customer-facing tools, also linked from the nav */}
-        <ToolsSection />
-
-        <Disclaimer />
+        {/* Quiet links to the counter services and the free tools; keeps the
+            #services and #tools anchors alive. */}
+        <CounterServicesRow />
       </main>
-      <WhatsAppSupportButton />
+      {/* Hidden while a section with its own WhatsApp call to action or
+          controls it would cover is on screen. */}
+      <WhatsAppSupportButton hideNear={["#collections", "#cad", "#enquiry", "#visit", "footer"]} />
       <SiteFooter />
     </>
   );

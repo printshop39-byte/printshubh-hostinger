@@ -1,38 +1,53 @@
 "use client";
 
 /**
- * CollectionsGrid — homepage showcase of the 7 premium print collections.
+ * CollectionsGrid — the homepage's index of the seven premium collections.
  *
- * Sits right after PrintingTechnology on purpose: that section explains the
- * "how" (11-colour Epson SureColor SC-S9130), this one shows the "what"
- * (the seven things printed on it) — one cohesive premium-studio story,
- * not two unrelated sections.
+ * An editorial index, not a card grid: a numbered list set in type, one hairline
+ * between rows, each row one link to its collection page. On a phone it is a
+ * single column of tall rows (every one a comfortable tap target); from the
+ * `lg` breakpoint the heading stays in view on the left while the list runs
+ * down the right.
  *
- * Cards are typography-first (CollectionVisual) — no stock photos, no
- * fabricated samples. See collections.ts for the full rationale.
+ * WHY THERE ARE NO PICTURES
+ *   No photograph of the studio's own work exists yet (see collections.ts and
+ *   shop-profile.ts: no stock photos, no fabricated samples), and an icon in a
+ *   box says nothing about a wallpaper or a canvas. So the page is typography
+ *   and space. The names and one-line descriptions are read from
+ *   collections.ts unchanged, so a collection's name or route cannot drift
+ *   between surfaces.
+ *
+ *   When real photos are added to a collection (Collection.photos), the row
+ *   shows the first one as a small thumbnail; nothing here needs to change.
+ *
+ * NOTHING WAITS FOR AN ANIMATION
+ *   There is no Reveal / Stagger here. The list is ordinary server-rendered
+ *   markup with no opacity-zero first state, so it is readable even if the
+ *   scripts never arrive. The only motion is a hover/focus transition on the
+ *   row and its arrow, switched off under prefers-reduced-motion.
+ *
+ * `id="collections"` is load-bearing: the header, the bottom nav, the hero and
+ * every collection page's breadcrumb link to `/#collections`.
  */
 
+import Image from "next/image";
 import Link from "next/link";
 import { useRef } from "react";
 import { ArrowRight } from "lucide-react";
 import { useLang, type Lang } from "@/components/language-context";
 import { useFunnelViewEvent } from "@/lib/analytics";
-import { COLLECTIONS } from "@/lib/collections";
-import { CollectionVisual } from "@/components/shop/collection-visual";
-import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
+import { COLLECTIONS, hasCollectionPhotos } from "@/lib/collections";
 
-const t: Record<Lang, { eyebrow: string; heading: string; sub: string; viewLabel: string }> = {
+const t: Record<Lang, { eyebrow: string; heading: string; sub: string }> = {
   mr: {
-    eyebrow: "Premium Collections",
-    heading: "सात प्रीमियम प्रिंट कलेक्शन्स.",
-    sub: "वॉलपेपर, कॅनव्हास, वॉल आर्ट आणि बरेच काही — Epson SureColor SC-S9130 च्या 11-रंगी तंत्रज्ञानाने प्रिंट केलेले.",
-    viewLabel: "पहा",
+    eyebrow: "Collections",
+    heading: "आम्ही काय प्रिंट करतो.",
+    sub: "सात कलेक्शन्स, तुमच्या मापात.",
   },
   en: {
-    eyebrow: "Premium Collections",
-    heading: "Seven premium print collections.",
-    sub: "Wallpaper, canvas, wall art and more — printed on the Epson SureColor SC-S9130's 11-colour technology.",
-    viewLabel: "View",
+    eyebrow: "Collections",
+    heading: "What we print.",
+    sub: "Seven collections, each available in your size.",
   },
 };
 
@@ -48,55 +63,71 @@ export function CollectionsGrid() {
       id="collections"
       ref={sectionRef}
       aria-labelledby="collections-grid-heading"
-      className="scroll-mt-20 bg-brand-cream px-5 py-16 sm:px-8 lg:py-24"
+      className="scroll-mt-20 bg-brand-cream px-5 py-14 sm:px-8 lg:py-24"
     >
-      <div className="mx-auto max-w-7xl">
-        <Reveal>
-          <p className="inline-flex items-center rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
+      <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[.8fr_1.2fr] lg:gap-20">
+        <div className="lg:sticky lg:top-28 lg:self-start">
+          <p className="flex items-center gap-3 text-[12px] font-black uppercase tracking-[0.2em] text-brand-navy">
+            <span aria-hidden="true" className="h-px w-8 bg-brand-gold" />
             {tx.eyebrow}
           </p>
           <h2
             id="collections-grid-heading"
-            className="mt-5 max-w-3xl text-3xl font-black leading-[1.12] tracking-tight text-slate-950 sm:text-4xl"
+            className="mt-4 max-w-md text-balance text-[2.2rem] font-black leading-[1.1] tracking-tight text-brand-navy sm:text-5xl"
           >
             {tx.heading}
           </h2>
-          <p className="mt-3 max-w-2xl text-lg leading-8 text-slate-600">{tx.sub}</p>
-        </Reveal>
+          <p className="mt-4 max-w-md text-balance text-lg leading-8 text-slate-600">{tx.sub}</p>
+        </div>
 
-        <Stagger as="ul" className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {COLLECTIONS.map((collection) => (
-            <StaggerItem as="li" key={collection.key}>
-              <Link
-                href={`/collections/${collection.slug}/`}
-                className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-[0_18px_45px_-30px_rgba(15,23,42,.4)] transition duration-300 hover:-translate-y-1 hover:border-brand-gold hover:shadow-[0_22px_50px_-24px_rgba(184,144,82,.3)] motion-reduce:transform-none motion-reduce:transition-none"
-              >
-                <div className="aspect-[4/3]">
-                  <CollectionVisual
-                    collectionKey={collection.key}
-                    shortTitle={collection.shortTitle[lang]}
-                    className="rounded-none border-0 border-b border-slate-200"
-                  />
-                </div>
-                <div className="flex flex-1 flex-col p-4">
-                  <h3 className="text-base font-black leading-tight text-slate-950">
-                    {collection.shortTitle[lang]}
-                  </h3>
-                  <p className="mt-1.5 flex-1 text-[13px] leading-5 text-slate-600">
-                    {collection.tagline[lang]}
-                  </p>
-                  <span className="mt-3 inline-flex items-center gap-1 text-xs font-black uppercase tracking-wide text-brand-navy">
-                    {tx.viewLabel}
-                    <ArrowRight
-                      className="size-3.5 transition duration-300 group-hover:translate-x-1 motion-reduce:transform-none"
-                      aria-hidden="true"
-                    />
+        <ol className="border-b border-brand-gold/40">
+          {COLLECTIONS.map((collection, i) => {
+            const photo = hasCollectionPhotos(collection) ? collection.photos[0] : null;
+            return (
+              <li key={collection.key} className="border-t border-brand-gold/40">
+                <Link
+                  href={`/collections/${collection.slug}/`}
+                  className="group -mx-3 grid min-h-[88px] grid-cols-[auto_1fr_auto] items-center gap-4 rounded-lg px-3 py-5 transition-colors hover:bg-white/70 focus-visible:bg-white/70 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-navy motion-reduce:transition-none sm:gap-6 sm:py-6 lg:py-8"
+                >
+                  <span
+                    aria-hidden="true"
+                    className="w-9 text-xl font-black tabular-nums text-brand-gold sm:w-14 sm:text-3xl lg:text-4xl"
+                  >
+                    {String(i + 1).padStart(2, "0")}
                   </span>
-                </div>
-              </Link>
-            </StaggerItem>
-          ))}
-        </Stagger>
+
+                  <span className="min-w-0">
+                    <span className="block text-xl font-black leading-tight tracking-tight text-brand-navy sm:text-2xl lg:text-3xl">
+                      {collection.title[lang]}
+                    </span>
+                    <span className="mt-1.5 block text-[14px] leading-6 text-slate-600 sm:text-base">
+                      {collection.tagline[lang]}
+                    </span>
+                  </span>
+
+                  <span className="flex items-center gap-4">
+                    {photo ? (
+                      <Image
+                        src={photo.src}
+                        width={photo.width}
+                        height={photo.height}
+                        alt={photo.alt[lang]}
+                        sizes="112px"
+                        className="hidden h-20 w-28 rounded-lg object-cover sm:block"
+                      />
+                    ) : null}
+                    <span
+                      aria-hidden="true"
+                      className="grid size-11 shrink-0 place-items-center rounded-full border border-brand-navy/25 text-brand-navy transition group-hover:border-brand-navy group-hover:bg-brand-navy group-hover:text-white motion-reduce:transition-none"
+                    >
+                      <ArrowRight className="size-4 transition group-hover:translate-x-0.5 motion-reduce:transform-none" />
+                    </span>
+                  </span>
+                </Link>
+              </li>
+            );
+          })}
+        </ol>
       </div>
     </section>
   );
