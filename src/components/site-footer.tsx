@@ -32,7 +32,6 @@ import {
   Phone,
   ShieldCheck,
 } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
 import { BRAND_LINE, ESTABLISHED, OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
@@ -51,125 +50,75 @@ export const SITE_CONTACT = {
   // Street address is NOT hard-coded here. It comes from SHOP_ADDRESS in
   // src/lib/shop-profile.ts, and while that is null the site advertises a
   // service area instead — see the address block below and /contact.
-  serviceArea_mr: "महाराष्ट्रभर ऑनलाइन / WhatsApp सहाय्य",
   serviceArea_en: "Online / WhatsApp assistance across Maharashtra",
 };
 
-const tx: Record<
-  Lang,
-  {
-    tagline: string;
-    collectionsTitle: string;
-    servicesTitle: string;
-    usefulTitle: string;
-    contactTitle: string;
-    badges: string[];
-    /** Shown only on the legacy land-document pages (see LAND_DOCUMENT_PATHS). */
-    notGovernment: string;
-    services: { label: string; href: string }[];
-    useful: { label: string; href: string }[];
-    waMsg: string;
-    waCta: string;
-    rights: string;
-    builtFor: string;
-    directions: string;
-    hours: string;
-    toolsTitle: string;
-    toolsBody: string;
-    toolsCta: string;
-    browse: string;
-    /** Homepage only: label before the printshubh.in link. */
-    crossSite: string;
-  }
-> = {
-  mr: {
-    tagline:
-      "Premium Print & Visual Studio — वॉलपेपर, कॅनव्हास, वॉल आर्ट आणि बरेच काही.",
-    collectionsTitle: "Collections",
-    servicesTitle: "सेवा",
-    usefulTitle: "उपयुक्त",
-    contactTitle: "संपर्क",
-    badges: [
-      "अधिकृत स्रोतांवर आधारित",
-      "WhatsApp वर PDF",
-      "पेमेंटपूर्वी माहिती तपासणी",
-      `${ESTABLISHED.slice(0, 4)} पासून`,
-    ],
-    notGovernment: "सरकारी संस्था नाही",
-    services: [
-      { label: "प्रिंटिंग व झेरॉक्स", href: "/printing-xerox" },
-      { label: "फोटो सेवा", href: "/photo-services" },
-      { label: "डिजिटल सेवा", href: "/digital-services" },
-    ],
-    useful: [
-      { label: "आमच्याबद्दल", href: "/about" },
-      { label: "किंमत", href: "/pricing" },
-      { label: "मोफत साधने", href: "/#tools" },
-      { label: "FAQ", href: "/faq" },
-      { label: "मदत केंद्र", href: "/support" },
-      { label: "संपर्क", href: "/contact" },
-      { label: "अटी व शर्ती", href: "/terms" },
-      { label: "गोपनीयता धोरण", href: "/privacy" },
-      { label: "परतावा धोरण", href: "/refund" },
-      { label: "अस्वीकरण", href: "/disclaimer" },
-    ],
-    waMsg: "नमस्कार, मला PrintShubh सेवेबद्दल माहिती हवी आहे.",
-    waCta: "WhatsApp वर बोला",
-    rights: "सर्व हक्क राखीव.",
-    builtFor: "महाराष्ट्रासाठी.",
-    directions: "दिशा दाखवा",
-    hours: "वेळ",
-    toolsTitle: "मोफत साधने — PrintShubh.in",
-    toolsBody:
-      "फोटो Compress, PDF साधने आणि Resume बिल्डर — मोफत, तुमच्याच ब्राउझरमध्ये.",
-    toolsCta: "साधने पहा",
-    browse: "Collections व सेवा",
-    crossSite: "मोफत ऑनलाइन साधने:",
-  },
-  en: {
-    tagline:
-      "Premium Print & Visual Studio — wallpaper, canvas, wall art and more.",
-    collectionsTitle: "Collections",
-    servicesTitle: "Services",
-    usefulTitle: "Useful",
-    contactTitle: "Contact",
-    badges: [
-      "Based on official sources",
-      "PDF on WhatsApp",
-      "Details verified before payment",
-      `Since ${ESTABLISHED.slice(0, 4)}`,
-    ],
-    notGovernment: "Not a government body",
-    services: [
-      { label: "Printing & Xerox", href: "/printing-xerox" },
-      { label: "Photo Services", href: "/photo-services" },
-      { label: "Digital Services", href: "/digital-services" },
-    ],
-    useful: [
-      { label: "About Us", href: "/about" },
-      { label: "Pricing", href: "/pricing" },
-      { label: "Free Tools", href: "/#tools" },
-      { label: "FAQ", href: "/faq" },
-      { label: "Support", href: "/support" },
-      { label: "Contact", href: "/contact" },
-      { label: "Terms & Conditions", href: "/terms" },
-      { label: "Privacy Policy", href: "/privacy" },
-      { label: "Refund Policy", href: "/refund" },
-      { label: "Disclaimer", href: "/disclaimer" },
-    ],
-    waMsg: "Hello, I would like to know about PrintShubh services.",
-    waCta: "Chat on WhatsApp",
-    rights: "All rights reserved.",
-    builtFor: "For Maharashtra.",
-    toolsTitle: "Free tools — PrintShubh.in",
-    toolsBody:
-      "Photo compressor, PDF tools and a resume builder — free, in your own browser.",
-    toolsCta: "Open the tools",
-    browse: "Collections & services",
-    crossSite: "Free online tools:",
-    directions: "Directions",
-    hours: "Hours",
-  },
+const tx: {
+  tagline: string;
+  collectionsTitle: string;
+  servicesTitle: string;
+  usefulTitle: string;
+  contactTitle: string;
+  badges: string[];
+  /** Shown only on the legacy land-document pages (see LAND_DOCUMENT_PATHS). */
+  notGovernment: string;
+  services: { label: string; href: string }[];
+  useful: { label: string; href: string }[];
+  waMsg: string;
+  waCta: string;
+  rights: string;
+  builtFor: string;
+  directions: string;
+  hours: string;
+  toolsTitle: string;
+  toolsBody: string;
+  toolsCta: string;
+  browse: string;
+  /** Homepage only: label before the printshubh.in link. */
+  crossSite: string;
+} = {
+  tagline:
+    "Premium Print & Visual Studio — wallpaper, canvas, wall art and more.",
+  collectionsTitle: "Collections",
+  servicesTitle: "Services",
+  usefulTitle: "Useful",
+  contactTitle: "Contact",
+  badges: [
+    "Based on official sources",
+    "PDF on WhatsApp",
+    "Details verified before payment",
+    `Since ${ESTABLISHED.slice(0, 4)}`,
+  ],
+  notGovernment: "Not a government body",
+  services: [
+    { label: "Printing & Xerox", href: "/printing-xerox" },
+    { label: "Photo Services", href: "/photo-services" },
+    { label: "Digital Services", href: "/digital-services" },
+  ],
+  useful: [
+    { label: "About Us", href: "/about" },
+    { label: "Pricing", href: "/pricing" },
+    { label: "Free Tools", href: "/#tools" },
+    { label: "FAQ", href: "/faq" },
+    { label: "Support", href: "/support" },
+    { label: "Contact", href: "/contact" },
+    { label: "Terms & Conditions", href: "/terms" },
+    { label: "Privacy Policy", href: "/privacy" },
+    { label: "Refund Policy", href: "/refund" },
+    { label: "Disclaimer", href: "/disclaimer" },
+  ],
+  waMsg: "Hello, I would like to know about PrintShubh services.",
+  waCta: "Chat on WhatsApp",
+  rights: "All rights reserved.",
+  builtFor: "For Maharashtra.",
+  toolsTitle: "Free tools — PrintShubh.in",
+  toolsBody:
+    "Photo compressor, PDF tools and a resume builder — free, in your own browser.",
+  toolsCta: "Open the tools",
+  browse: "Collections & services",
+  crossSite: "Free online tools:",
+  directions: "Directions",
+  hours: "Hours",
 };
 
 /* The "not a government body" badge belongs to the land-document pages, where
@@ -195,8 +144,7 @@ function isLandDocumentPath(pathname: string | null): boolean {
 }
 
 export function SiteFooter() {
-  const { lang } = useLang();
-  const t = tx[lang];
+  const t = tx;
   const pathname = usePathname();
   const isHome = pathname === "/";
   // On a land-document page the badge keeps its original place, second in the row.
@@ -225,7 +173,7 @@ export function SiteFooter() {
             href={`/collections/${c.slug}/`}
             className="flex min-h-[44px] items-center text-[14px] font-semibold text-slate-400 transition hover:text-white"
           >
-            {c.shortTitle[lang]}
+            {c.shortTitle.en}
           </Link>
         </li>
       ))}
@@ -384,7 +332,7 @@ export function SiteFooter() {
                 <MapPin className="mt-1 size-4 shrink-0 text-brand-gold" aria-hidden="true" />
                 {SHOP_ADDRESS ? (
                   <address className="not-italic font-semibold leading-6 text-slate-400">
-                    {SHOP_ADDRESS.lines[lang].map((line) => (
+                    {SHOP_ADDRESS.lines.en.map((line) => (
                       <span key={line} className="block">
                         {line}
                       </span>
@@ -401,9 +349,7 @@ export function SiteFooter() {
                   </address>
                 ) : (
                   <span className="font-semibold leading-6 text-slate-400">
-                    {lang === "mr"
-                      ? SITE_CONTACT.serviceArea_mr
-                      : SITE_CONTACT.serviceArea_en}
+                    {SITE_CONTACT.serviceArea_en}
                   </span>
                 )}
               </li>
@@ -415,8 +361,8 @@ export function SiteFooter() {
                     <dl className="mt-1 space-y-0.5 text-[13.5px] text-slate-400">
                       {OPENING_HOURS.rows.map((row) => (
                         <div key={row.days.en} className="flex gap-2">
-                          <dt className="font-bold">{row.days[lang]}</dt>
-                          <dd className="font-semibold">{row.time[lang]}</dd>
+                          <dt className="font-bold">{row.days.en}</dt>
+                          <dd className="font-semibold">{row.time.en}</dd>
                         </div>
                       ))}
                     </dl>

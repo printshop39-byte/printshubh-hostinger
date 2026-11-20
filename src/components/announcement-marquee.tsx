@@ -11,13 +11,10 @@
  *   - respects prefers-reduced-motion (animation disabled — the first copy
  *     stays statically readable).
  *
- * SSR note: default lang is "mr" (LanguageProvider), so the Marathi messages
- * ship in the server HTML for SEO. Brand/standard terms (PrintShubh, WhatsApp,
- * PDF) are kept as-is in both languages.
+ * The public site is English-only.
  */
 
 import { usePathname } from "next/navigation";
-import { useLang, type Lang } from "@/components/language-context";
 
 /* The land-document promo lines (7/12, 8A, Village Map, Maps/Plans) that
  * used to run here were removed as part of the shop/print-studio ->
@@ -27,31 +24,18 @@ import { useLang, type Lang } from "@/components/language-context";
  * instead. The "not a government website" line was dropped from this
  * premium-facing bar too; the disclaimer stays on the land-document pages and
  * in the footer, where it applies. */
-const messages: Record<Lang, string[]> = {
-  mr: [
-    "वॉलपेपर, कॅनव्हास, वॉल आर्ट व अधिक — Premium Collections",
-    "किंमत आधी कळेल — छुपी फी नाही",
-    "WhatsApp वर PDF सहाय्य",
-  ],
-  en: [
+const messages: string[] = [
     "Wallpaper, canvas, wall art & more — Premium Collections",
     "Know the price first — no hidden fees",
     "PDF assistance on WhatsApp",
-  ],
-};
+  ];
 
 /* The homepage is the print studio, so its third line asks for the print file.
  * "PDF assistance on WhatsApp" is the land-document wording and stays on every
  * other route exactly as it was. */
-const homeLastLine: Record<Lang, string> = {
-  mr: "प्रिंट फाइल WhatsApp वर पाठवा",
-  en: "Send your print file on WhatsApp",
-};
+const homeLastLine: string = "Send your print file on WhatsApp";
 
-const ariaLabel: Record<Lang, string> = {
-  mr: "ताज्या घडामोडी",
-  en: "Latest updates",
-};
+const ariaLabel: string = "Latest updates";
 
 function MessageRow({ items, ariaHidden }: { items: string[]; ariaHidden?: boolean }) {
   return (
@@ -72,15 +56,14 @@ function MessageRow({ items, ariaHidden }: { items: string[]; ariaHidden?: boole
 }
 
 export function AnnouncementMarquee() {
-  const { lang } = useLang();
   const isHome = usePathname() === "/";
-  const items = isHome ? [...messages[lang].slice(0, -1), homeLastLine[lang]] : messages[lang];
+  const items = isHome ? [...messages.slice(0, -1), homeLastLine] : messages;
 
   return (
     <div
       className="ps-marquee group overflow-hidden border-b border-brand-gold/30 bg-brand-navy text-white"
       role="region"
-      aria-label={ariaLabel[lang]}
+      aria-label={ariaLabel}
       tabIndex={0}
     >
       <div className="ps-marquee-track py-1.5">

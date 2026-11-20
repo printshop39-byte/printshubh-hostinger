@@ -31,46 +31,29 @@
  */
 
 import { MessageCircle } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
-const copy: Record<
-  Lang,
-  {
-    eyebrow: string;
-    heading: string;
-    body: string;
-    cta: string;
-    note: string;
-    listLabel: string;
-    items: string[];
-    enquiry: string;
-  }
-> = {
-  mr: {
-    eyebrow: "CAD प्रिंट",
-    heading: "आर्किटेक्चरल व स्ट्रक्चरल प्लॅन, मोठ्या आकारात.",
-    body: "आर्किटेक्ट, इंजिनिअर आणि बिल्डरसाठी AutoCAD ड्रॉइंग. फाइल, आकार आणि प्रती WhatsApp वर कळवा; काय जमेल ते आम्ही कळवतो.",
-    cta: "CAD प्रिंटची चौकशी",
-    note: "काम सुरू करण्यापूर्वी किंमत कळवली जाते.",
-    listLabel: "आम्ही काय प्रिंट करतो",
-    items: ["आर्किटेक्चरल प्लॅन", "स्ट्रक्चरल प्लॅन", "इंजिनिअरिंग ड्रॉइंग", "CAD प्लॉटिंग"],
-    enquiry:
-      "नमस्कार PrintShubh, मला CAD प्लॅन प्रिंट हवे आहेत. ड्रॉइंगचा प्रकार / आकार / प्रती: ",
-  },
-  en: {
-    eyebrow: "CAD Prints",
-    heading: "Architectural & structural plans, printed large.",
-    body: "AutoCAD drawings for architects, engineers and builders. Send your file on WhatsApp with the size and number of copies, and we confirm what works.",
-    cta: "Enquire about CAD prints",
-    note: "The price is confirmed before work starts.",
-    listLabel: "What we print",
-    items: ["Architectural plans", "Structural plans", "Engineering drawings", "CAD plotting"],
-    enquiry:
-      "Hello PrintShubh, I need CAD plan prints. Drawing type / size / copies: ",
-  },
+const copy: {
+  eyebrow: string;
+  heading: string;
+  body: string;
+  cta: string;
+  note: string;
+  listLabel: string;
+  items: string[];
+  enquiry: string;
+} = {
+  eyebrow: "CAD Prints",
+  heading: "Architectural & structural plans, printed large.",
+  body: "AutoCAD drawings for architects, engineers and builders. Send your file on WhatsApp with the size and number of copies, and we confirm what works.",
+  cta: "Enquire about CAD prints",
+  note: "The price is confirmed before work starts.",
+  listLabel: "What we print",
+  items: ["Architectural plans", "Structural plans", "Engineering drawings", "CAD plotting"],
+  enquiry:
+    "Hello PrintShubh, I need CAD plan prints. Drawing type / size / copies: ",
 };
 
 /* A fine 24px grid with a stronger 120px grid over it, in cream at low
@@ -81,8 +64,7 @@ const GRID =
 const MARK = "absolute size-3 border-brand-gold";
 
 export function CadPrintsSection() {
-  const { lang } = useLang();
-  const tx = copy[lang];
+  const tx = copy;
 
   const href = buildWhatsAppUrl({
     message: tx.enquiry,
@@ -127,7 +109,7 @@ export function CadPrintsSection() {
             onClick={() => {
               trackWhatsAppLead();
               trackFunnelEvent("service_whatsapp_click", {
-                lang,
+                lang: "en",
                 surface: "cad-section",
                 service_key: "cad",
               });

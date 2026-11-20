@@ -34,29 +34,20 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRef } from "react";
 import { ArrowRight } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { useFunnelViewEvent } from "@/lib/analytics";
 import { COLLECTIONS, hasCollectionPhotos } from "@/lib/collections";
 
-const t: Record<Lang, { eyebrow: string; heading: string; sub: string }> = {
-  mr: {
-    eyebrow: "Collections",
-    heading: "आम्ही काय प्रिंट करतो.",
-    sub: "सात कलेक्शन्स, तुमच्या मापात.",
-  },
-  en: {
-    eyebrow: "Collections",
-    heading: "What we print.",
-    sub: "Seven collections, each available in your size.",
-  },
+const t: { eyebrow: string; heading: string; sub: string } = {
+  eyebrow: "Collections",
+  heading: "What we print.",
+  sub: "Seven collections, each available in your size.",
 };
 
 export function CollectionsGrid() {
-  const { lang } = useLang();
-  const tx = t[lang];
+  const tx = t;
 
   const sectionRef = useRef<HTMLElement>(null);
-  useFunnelViewEvent(sectionRef, "collections_grid_view", { lang, surface: "collections-grid" });
+  useFunnelViewEvent(sectionRef, "collections_grid_view", { lang: "en", surface: "collections-grid" });
 
   return (
     <section
@@ -98,10 +89,10 @@ export function CollectionsGrid() {
 
                   <span className="min-w-0">
                     <span className="block text-xl font-black leading-tight tracking-tight text-brand-navy sm:text-2xl lg:text-3xl">
-                      {collection.title[lang]}
+                      {collection.title.en}
                     </span>
                     <span className="mt-1.5 block text-[14px] leading-6 text-slate-600 sm:text-base">
-                      {collection.tagline[lang]}
+                      {collection.tagline.en}
                     </span>
                   </span>
 
@@ -111,7 +102,7 @@ export function CollectionsGrid() {
                         src={photo.src}
                         width={photo.width}
                         height={photo.height}
-                        alt={photo.alt[lang]}
+                        alt={photo.alt.en}
                         sizes="112px"
                         className="hidden h-20 w-28 rounded-lg object-cover sm:block"
                       />

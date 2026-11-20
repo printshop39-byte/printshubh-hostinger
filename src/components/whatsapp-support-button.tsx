@@ -15,22 +15,14 @@
 
 import { useEffect, useState } from "react";
 import { MessageCircle } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 
-const msg: Record<Lang, string> = {
-  mr: "नमस्कार, मला PrintShubh सेवेबद्दल मदत हवी आहे.",
-  en: "Hello, I need help with PrintShubh services.",
-};
+const msg: string = "Hello, I need help with PrintShubh services.";
 
-const label: Record<Lang, string> = {
-  mr: "WhatsApp वर मदत",
-  en: "WhatsApp Support",
-};
+const label: string = "WhatsApp Support";
 
 export function WhatsAppSupportButton({ hideNear }: { hideNear?: string[] }) {
-  const { lang } = useLang();
   const [covering, setCovering] = useState(false);
   const selectorKey = hideNear?.join(",") ?? "";
 
@@ -59,7 +51,7 @@ export function WhatsAppSupportButton({ hideNear }: { hideNear?: string[] }) {
     els.forEach((el) => observer.observe(el));
     return () => observer.disconnect();
   }, [selectorKey]);
-  const href = buildWhatsAppUrl({ message: msg[lang], campaign: "floating-support" });
+  const href = buildWhatsAppUrl({ message: msg, campaign: "floating-support" });
 
   return (
     <a
@@ -67,13 +59,13 @@ export function WhatsAppSupportButton({ hideNear }: { hideNear?: string[] }) {
       target="_blank"
       rel="noopener noreferrer"
       onClick={() => trackWhatsAppLead()}
-      aria-label={label[lang]}
+      aria-label={label}
       className={`fixed bottom-5 right-5 z-50 hidden h-14 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-lg shadow-green-600/30 transition hover:bg-green-700 md:inline-flex md:bottom-7 md:right-7 motion-reduce:transition-none ${
         covering ? "pointer-events-none md:invisible md:opacity-0" : ""
       }`}
     >
       <MessageCircle className="size-5" />
-      <span className="hidden sm:inline">{label[lang]}</span>
+      <span className="hidden sm:inline">{label}</span>
     </a>
   );
 }

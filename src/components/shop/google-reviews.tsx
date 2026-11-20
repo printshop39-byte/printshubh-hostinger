@@ -26,7 +26,6 @@
  */
 
 import { ExternalLink, Quote, Star } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import {
   GOOGLE_PROFILE_URL,
   GOOGLE_RATING,
@@ -36,24 +35,12 @@ import {
   hasReviews,
 } from "@/lib/shop-profile";
 
-const t: Record<
-  Lang,
-  { heading: string; sub: string; cta: string; empty: string; ratingLabel: (r: number) => string }
-> = {
-  mr: {
-    heading: "आमच्या ग्राहकांचा विश्वास",
-    sub: "Google वर ग्राहकांनी दिलेल्या प्रतिक्रिया — जशाच्या तशा.",
-    cta: "Google वर सर्व Reviews पहा",
-    empty: "आमच्या दुकानाबद्दलच्या प्रतिक्रिया Google Business Profile वर वाचा.",
-    ratingLabel: (r) => `${r} पैकी ५ तारे`,
-  },
-  en: {
-    heading: "What our customers say",
-    sub: "Reviews left on Google, quoted exactly as written.",
-    cta: "Read all reviews on Google",
-    empty: "Read what customers say about the shop on our Google Business Profile.",
-    ratingLabel: (r) => `${r} out of 5 stars`,
-  },
+const t: { heading: string; sub: string; cta: string; empty: string; ratingLabel: (r: number) => string } = {
+  heading: "What our customers say",
+  sub: "Reviews left on Google, quoted exactly as written.",
+  cta: "Read all reviews on Google",
+  empty: "Read what customers say about the shop on our Google Business Profile.",
+  ratingLabel: (r) => `${r} out of 5 stars`,
 };
 
 function Stars({ rating, label }: { rating: number; label: string }) {
@@ -73,8 +60,7 @@ function Stars({ rating, label }: { rating: number; label: string }) {
 }
 
 export function GoogleReviews() {
-  const { lang } = useLang();
-  const tx = t[lang];
+  const tx = t;
 
   const showReviews = hasReviews();
   const showLinkOnly = !showReviews && GOOGLE_PROFILE_URL !== null;

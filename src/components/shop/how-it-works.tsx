@@ -17,44 +17,26 @@
  * Nothing waits for an animation: plain server-rendered markup.
  */
 
-import { useLang, type Lang } from "@/components/language-context";
 
 type Step = { title: string; text: string };
 
-const copy: Record<Lang, { eyebrow: string; heading: string; steps: Step[] }> = {
-  mr: {
-    eyebrow: "कसं चालतं",
-    heading: "तुमच्या फाइलपासून प्रिंटपर्यंत.",
-    steps: [
-      { title: "निवडा", text: "कलेक्शन निवडा, किंवा काय हवं ते सांगा." },
-      { title: "फाइल पाठवा", text: "फाइल, आकार आणि प्रती WhatsApp वर पाठवा." },
-      {
-        title: "आम्ही कळवतो",
-        text: "काम सुरू करण्यापूर्वी आकार, मटेरियल आणि किंमत निश्चित केली जाते.",
-      },
-      { title: "प्रिंट", text: "तुमची ऑर्डर स्टुडिओमध्ये प्रिंट होते." },
-      { title: "प्रिंट तयार", text: "कोल्हापूर स्टुडिओमधून घ्या." },
-    ],
-  },
-  en: {
-    eyebrow: "How it works",
-    heading: "From your file to your print.",
-    steps: [
-      { title: "Choose", text: "Pick a collection, or tell us what you need." },
-      { title: "Send your file", text: "Send the file, size and copies on WhatsApp." },
-      {
-        title: "We confirm",
-        text: "Size, material and price are confirmed before work starts.",
-      },
-      { title: "We print", text: "Your order is printed at the studio." },
-      { title: "Print ready", text: "Collect it from the studio in Kolhapur." },
-    ],
-  },
+const copy: { eyebrow: string; heading: string; steps: Step[] } = {
+  eyebrow: "How it works",
+  heading: "From your file to your print.",
+  steps: [
+    { title: "Choose", text: "Pick a collection, or tell us what you need." },
+    { title: "Send your file", text: "Send the file, size and copies on WhatsApp." },
+    {
+      title: "We confirm",
+      text: "Size, material and price are confirmed before work starts.",
+    },
+    { title: "We print", text: "Your order is printed at the studio." },
+    { title: "Print ready", text: "Collect it from the studio in Kolhapur." },
+  ],
 };
 
 export function HowItWorks() {
-  const { lang } = useLang();
-  const tx = copy[lang];
+  const tx = copy;
 
   return (
     <section

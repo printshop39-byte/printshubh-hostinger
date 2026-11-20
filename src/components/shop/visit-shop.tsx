@@ -23,56 +23,37 @@
  */
 
 import { Clock, MapPin, MessageCircle, Navigation, Phone } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { SITE_CONTACT } from "@/components/site-footer";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 
-const t: Record<
-  Lang,
-  {
-    eyebrow: string;
-    heading: string;
-    sub: string;
-    addressLabel: string;
-    hoursLabel: string;
-    call: string;
-    whatsapp: string;
-    directions: string;
-    mapTitle: string;
-    waMessage: string;
-  }
-> = {
-  mr: {
-    eyebrow: "पत्ता",
-    heading: "आमच्या दुकानाला भेट द्या",
-    sub: "काम मोठे असो वा छोटे — काउंटरवर या, किंवा आधी WhatsApp वर विचारा.",
-    addressLabel: "पत्ता",
-    hoursLabel: "वेळ",
-    call: "कॉल करा",
-    whatsapp: "WhatsApp",
-    directions: "दिशा दाखवा",
-    mapTitle: "PrintShubh दुकानाचे Google नकाशावरील स्थान",
-    waMessage: "नमस्कार PrintShubh, मला दुकानाबद्दल विचारायचे आहे.",
-  },
-  en: {
-    eyebrow: "Find us",
-    heading: "Visit the shop",
-    sub: "Big job or small — come to the counter, or ask on WhatsApp first.",
-    addressLabel: "Address",
-    hoursLabel: "Hours",
-    call: "Call",
-    whatsapp: "WhatsApp",
-    directions: "Directions",
-    mapTitle: "PrintShubh shop location on Google Maps",
-    waMessage: "Hello PrintShubh, I would like to ask about the shop.",
-  },
+const t: {
+  eyebrow: string;
+  heading: string;
+  sub: string;
+  addressLabel: string;
+  hoursLabel: string;
+  call: string;
+  whatsapp: string;
+  directions: string;
+  mapTitle: string;
+  waMessage: string;
+} = {
+  eyebrow: "Find us",
+  heading: "Visit the shop",
+  sub: "Big job or small — come to the counter, or ask on WhatsApp first.",
+  addressLabel: "Address",
+  hoursLabel: "Hours",
+  call: "Call",
+  whatsapp: "WhatsApp",
+  directions: "Directions",
+  mapTitle: "PrintShubh shop location on Google Maps",
+  waMessage: "Hello PrintShubh, I would like to ask about the shop.",
 };
 
 export function VisitShop() {
-  const { lang } = useLang();
-  const tx = t[lang];
+  const tx = t;
 
   const address = SHOP_ADDRESS;
   if (!address) return null;
@@ -108,7 +89,7 @@ export function VisitShop() {
                 {tx.addressLabel}
               </h3>
               <address className="mt-3 not-italic text-[16px] font-bold leading-7 text-slate-900">
-                {address.lines[lang].map((line) => (
+                {address.lines.en.map((line) => (
                   <span key={line} className="block">
                     {line}
                   </span>
@@ -124,8 +105,8 @@ export function VisitShop() {
                   <dl className="mt-3 space-y-1.5">
                     {OPENING_HOURS.rows.map((row) => (
                       <div key={row.days.en} className="flex justify-between gap-4 text-[14.5px]">
-                        <dt className="font-bold text-slate-700">{row.days[lang]}</dt>
-                        <dd className="font-semibold text-slate-600">{row.time[lang]}</dd>
+                        <dt className="font-bold text-slate-700">{row.days.en}</dt>
+                        <dd className="font-semibold text-slate-600">{row.time.en}</dd>
                       </div>
                     ))}
                   </dl>

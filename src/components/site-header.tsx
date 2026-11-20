@@ -23,14 +23,13 @@
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { Menu, MessageCircle, X } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { SiteSearch } from "@/components/site-search";
 import { BRAND_LINE } from "@/lib/shop-profile";
 
 interface NavItem {
-  label: Record<Lang, string>;
+  label: string;
   href: string;
 }
 
@@ -43,34 +42,30 @@ interface NavItem {
  * linked from the footer on every page, so nothing stopped being
  * reachable — this is a navigation-prominence change only. */
 const primary: NavItem[] = [
-  { label: { mr: "मुख्यपृष्ठ", en: "Home" }, href: "/" },
-  { label: { mr: "Collections", en: "Collections" }, href: "/#collections" },
-  { label: { mr: "आमच्याबद्दल", en: "About" }, href: "/about" },
-  { label: { mr: "संपर्क", en: "Contact" }, href: "/contact" },
+  { label: "Home", href: "/" },
+  { label: "Collections", href: "/#collections" },
+  { label: "About", href: "/about" },
+  { label: "Contact", href: "/contact" },
 ];
 
 /* Mobile sheet only — the pages that used to sit in the desktop bar and
  * must stay one tap away. Also linked from the footer on every page. */
 const more: NavItem[] = [
-  { label: { mr: "प्रिंटिंग व झेरॉक्स", en: "Printing & Xerox" }, href: "/printing-xerox" },
-  { label: { mr: "फोटो", en: "Photo" }, href: "/photo-services" },
-  { label: { mr: "ऑनलाइन सेवा", en: "Online Services" }, href: "/digital-services" },
-  { label: { mr: "मोफत साधने", en: "Free Tools" }, href: "/#tools" },
-  { label: { mr: "किंमत", en: "Pricing" }, href: "/pricing" },
-  { label: { mr: "FAQ", en: "FAQ" }, href: "/faq" },
-  { label: { mr: "मदत", en: "Support" }, href: "/support" },
+  { label: "Printing & Xerox", href: "/printing-xerox" },
+  { label: "Photo", href: "/photo-services" },
+  { label: "Online Services", href: "/digital-services" },
+  { label: "Free Tools", href: "/#tools" },
+  { label: "Pricing", href: "/pricing" },
+  { label: "FAQ", href: "/faq" },
+  { label: "Support", href: "/support" },
 ];
 
-const waCta: Record<Lang, string> = { mr: "WhatsApp करा", en: "WhatsApp us" };
-const waMessage: Record<Lang, string> = {
-  mr: "नमस्कार PrintShubh, मला सेवेबद्दल विचारायचे आहे.",
-  en: "Hello PrintShubh, I would like to ask about a service.",
-};
-const menuLabel: Record<Lang, string> = { mr: "मेनू", en: "Menu" };
-const moreLabel: Record<Lang, string> = { mr: "आणखी", en: "More" };
+const waCta: string = "WhatsApp us";
+const waMessage: string = "Hello PrintShubh, I would like to ask about a service.";
+const menuLabel: string = "Menu";
+const moreLabel: string = "More";
 
 export function SiteHeader() {
-  const { lang } = useLang();
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -110,9 +105,8 @@ export function SiteHeader() {
     // may already point elsewhere (or nowhere).
     const trigger = toggleRef.current;
 
-    /* Queried fresh on each Tab rather than cached: the sheet's contents
-     * change with the language toggle, and a stale list would trap focus on
-     * elements that no longer exist. */
+    /* Queried fresh on each Tab rather than cached: a stale list would trap
+     * focus on elements that no longer exist. */
     const focusables = (): HTMLElement[] =>
       sheet
         ? Array.from(
@@ -161,7 +155,7 @@ export function SiteHeader() {
     };
   }, [open]);
 
-  const waHref = buildWhatsAppUrl({ message: waMessage[lang], campaign: "header" });
+  const waHref = buildWhatsAppUrl({ message: waMessage, campaign: "header" });
 
   return (
     <header
@@ -203,7 +197,7 @@ export function SiteHeader() {
               href={item.href}
               className="relative inline-flex min-h-[44px] items-center text-[13.5px] font-bold text-slate-700 transition after:absolute after:bottom-2.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-navy after:transition-all after:duration-300 hover:text-brand-navy hover:after:w-full motion-reduce:after:transition-none"
             >
-              {item.label[lang]}
+              {item.label}
             </Link>
           ))}
         </nav>
@@ -220,14 +214,14 @@ export function SiteHeader() {
             className="hidden h-11 items-center gap-2 rounded-lg bg-green-600 px-4 text-[13px] font-black text-white shadow-sm transition hover:bg-green-700 lg:inline-flex"
           >
             <MessageCircle className="size-4" aria-hidden="true" />
-            {waCta[lang]}
+            {waCta}
           </a>
 
           <button
             ref={toggleRef}
             type="button"
             onClick={() => setOpen((o) => !o)}
-            aria-label={menuLabel[lang]}
+            aria-label={menuLabel}
             aria-expanded={open}
             aria-controls="mobile-nav"
             className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-800 transition hover:border-brand-gold xl:hidden"
@@ -247,13 +241,13 @@ export function SiteHeader() {
           id="mobile-nav"
           role="dialog"
           aria-modal="true"
-          aria-label={menuLabel[lang]}
+          aria-label={menuLabel}
           className={`fixed inset-x-0 bottom-0 z-40 overflow-y-auto border-t border-slate-200 bg-white px-5 pb-28 pt-5 sm:px-8 xl:hidden ${
             // Starts flush under the bar, whichever height the bar is at.
             scrolled ? "top-14" : "top-[68px]"
           }`}
         >
-        <nav aria-label={menuLabel[lang]}>
+        <nav aria-label={menuLabel}>
           <ul className="flex flex-col">
             {primary.map((item) => (
               <li key={item.href}>
@@ -262,14 +256,14 @@ export function SiteHeader() {
                   onClick={() => setOpen(false)}
                   className="flex min-h-[56px] items-center border-b border-slate-100 text-[17px] font-black text-slate-900 transition active:text-brand-navy"
                 >
-                  {item.label[lang]}
+                  {item.label}
                 </Link>
               </li>
             ))}
           </ul>
 
           <p className="mt-7 text-[11px] font-black uppercase tracking-[0.18em] text-slate-400">
-            {moreLabel[lang]}
+            {moreLabel}
           </p>
           <ul className="mt-2 flex flex-wrap gap-2">
             {more.map((item) => (
@@ -279,7 +273,7 @@ export function SiteHeader() {
                   onClick={() => setOpen(false)}
                   className="inline-flex min-h-[44px] items-center rounded-full border border-slate-200 bg-slate-50 px-4 text-[13.5px] font-bold text-slate-700 transition active:border-brand-gold"
                 >
-                  {item.label[lang]}
+                  {item.label}
                 </Link>
               </li>
             ))}
@@ -296,7 +290,7 @@ export function SiteHeader() {
             className="mt-8 inline-flex h-[52px] w-full items-center justify-center gap-2 rounded-xl bg-green-600 text-base font-black text-white shadow-sm transition hover:bg-green-700"
           >
             <MessageCircle className="size-5" aria-hidden="true" />
-            {waCta[lang]}
+            {waCta}
           </a>
         </nav>
         </div>

@@ -25,55 +25,36 @@
  */
 
 import { MessageCircle, Phone } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { OPENING_HOURS } from "@/lib/shop-profile";
 import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
 
-const copy: Record<
-  Lang,
-  {
-    eyebrow: string;
-    heading: string;
-    body: string;
-    listLabel: string;
-    items: string[];
-    whatsapp: string;
-    call: string;
-    filesNote: string;
-    message: string;
-  }
-> = {
-  mr: {
-    eyebrow: "चौकशी",
-    heading: "फाइल पाठवा. बाकी आम्ही कळवतो.",
-    body: "फाइल, आकार आणि प्रती WhatsApp वर पाठवा. काम सुरू करण्यापूर्वी मटेरियल आणि किंमत कळवली जाते.",
-    listLabel: "काय पाठवायचं",
-    items: ["तुमची फाइल किंवा डिझाइन", "हवा तो आकार", "किती प्रती"],
-    whatsapp: "WhatsApp वर संदेश पाठवा",
-    call: "कॉल करा",
-    filesNote: "फाइल्स WhatsApp वरच पाठवायच्या आहेत.",
-    message:
-      "नमस्कार PrintShubh, मला प्रिंटसाठी फाइल पाठवायची आहे. काय हवं आहे / आकार / प्रती: ",
-  },
-  en: {
-    eyebrow: "Enquiry",
-    heading: "Send your file. We confirm the rest.",
-    body: "Send the file, size and number of copies on WhatsApp. The material and the price are confirmed before work starts.",
-    listLabel: "What to send",
-    items: ["Your file or design", "The size you need", "Number of copies"],
-    whatsapp: "Message us on WhatsApp",
-    call: "Call",
-    filesNote: "Files are sent on WhatsApp.",
-    message:
-      "Hello PrintShubh, I would like to send a file for printing. What I need / size / copies: ",
-  },
+const copy: {
+  eyebrow: string;
+  heading: string;
+  body: string;
+  listLabel: string;
+  items: string[];
+  whatsapp: string;
+  call: string;
+  filesNote: string;
+  message: string;
+} = {
+  eyebrow: "Enquiry",
+  heading: "Send your file. We confirm the rest.",
+  body: "Send the file, size and number of copies on WhatsApp. The material and the price are confirmed before work starts.",
+  listLabel: "What to send",
+  items: ["Your file or design", "The size you need", "Number of copies"],
+  whatsapp: "Message us on WhatsApp",
+  call: "Call",
+  filesNote: "Files are sent on WhatsApp.",
+  message:
+    "Hello PrintShubh, I would like to send a file for printing. What I need / size / copies: ",
 };
 
 export function HomeEnquiry() {
-  const { lang } = useLang();
-  const tx = copy[lang];
+  const tx = copy;
 
   const href = buildWhatsAppUrl({
     message: tx.message,
@@ -113,7 +94,7 @@ export function HomeEnquiry() {
               onClick={() => {
                 trackWhatsAppLead();
                 trackFunnelEvent("service_whatsapp_click", {
-                  lang,
+                  lang: "en",
                   surface: "home-enquiry",
                   service_key: "enquiry",
                 });
@@ -133,7 +114,7 @@ export function HomeEnquiry() {
           </div>
           {hours ? (
             <p className="mt-3 text-sm font-semibold text-slate-400">
-              {hours.days[lang]}, {hours.time[lang]}
+              {hours.days.en}, {hours.time.en}
             </p>
           ) : null}
         </div>

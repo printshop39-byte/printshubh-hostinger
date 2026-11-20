@@ -28,40 +28,25 @@
  * Nothing waits for an animation: no Reveal, no opacity-zero first state.
  */
 
-import { useLang, type Lang } from "@/components/language-context";
 
-const copy: Record<
-  Lang,
-  {
-    eyebrow: string;
-    heading: string;
-    body: string;
-    big: string;
-    bigLabel: string;
-    rows: { label: string; value: string }[];
-  }
-> = {
-  mr: {
-    eyebrow: "स्टुडिओ",
-    heading: "प्रिंटमागचं मशीन.",
-    body: "आमचे इंटिरियर प्रिंट 11-रंगी लार्ज-फॉरमॅट प्रिंटिंग प्रणालीवर केले जातात. प्रिंट सुरू करण्यापूर्वी आकार, मटेरियल आणि किंमत तुमच्याशी निश्चित केली जाते.",
-    big: "11",
-    bigLabel: "रंगी प्रिंटिंग प्रणाली",
-    rows: [{ label: "क्षमता", value: "लार्ज-फॉरमॅट प्रिंटिंग" }],
-  },
-  en: {
-    eyebrow: "The studio",
-    heading: "The machine behind the prints.",
-    body: "Our interior prints are made on an 11-colour, large-format printing system. Size, material and price are confirmed with you before printing begins.",
-    big: "11",
-    bigLabel: "colour printing system",
-    rows: [{ label: "Capability", value: "Large-format printing" }],
-  },
+const copy: {
+  eyebrow: string;
+  heading: string;
+  body: string;
+  big: string;
+  bigLabel: string;
+  rows: { label: string; value: string }[];
+} = {
+  eyebrow: "The studio",
+  heading: "The machine behind the prints.",
+  body: "Our interior prints are made on an 11-colour, large-format printing system. Size, material and price are confirmed with you before printing begins.",
+  big: "11",
+  bigLabel: "colour printing system",
+  rows: [{ label: "Capability", value: "Large-format printing" }],
 };
 
 export function StudioCapabilities() {
-  const { lang } = useLang();
-  const tx = copy[lang];
+  const tx = copy;
 
   return (
     <section

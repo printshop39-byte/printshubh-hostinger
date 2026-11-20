@@ -17,26 +17,17 @@
 
 import Image from "next/image";
 import { Camera, MapPin } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { SHOP_PHOTOS, hasShopPhotos } from "@/lib/shop-profile";
 import { Reveal } from "@/components/shop/motion";
 
-const t: Record<Lang, { eyebrow: string; heading: string; sub: string }> = {
-  mr: {
-    eyebrow: "आमचे दुकान",
-    heading: "फक्त Online नाही — आमचे प्रत्यक्ष दुकान आहे.",
-    sub: "काउंटर, मशीन आणि तयार झालेले काम — जसे आहे तसे.",
-  },
-  en: {
-    eyebrow: "Our shop",
-    heading: "Not just online — there is a real counter.",
-    sub: "The counter, the machines and finished work — exactly as they are.",
-  },
+const t: { eyebrow: string; heading: string; sub: string } = {
+  eyebrow: "Our shop",
+  heading: "Not just online — there is a real counter.",
+  sub: "The counter, the machines and finished work — exactly as they are.",
 };
 
 export function ShopGallery() {
-  const { lang } = useLang();
-  const tx = t[lang];
+  const tx = t;
 
   if (!hasShopPhotos()) return null;
 
@@ -73,7 +64,7 @@ export function ShopGallery() {
               <div className="aspect-[4/3] overflow-hidden">
                 <Image
                   src={photo.src}
-                  alt={photo.alt[lang]}
+                  alt={photo.alt.en}
                   width={photo.width}
                   height={photo.height}
                   loading="lazy"
@@ -86,7 +77,7 @@ export function ShopGallery() {
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-950/85 via-slate-950/45 to-transparent px-4 pb-4 pt-10">
                 <p className="flex items-center gap-2 text-[13.5px] font-bold text-white">
                   <Camera className="size-3.5 shrink-0 opacity-70" aria-hidden="true" />
-                  {photo.caption[lang]}
+                  {photo.caption.en}
                 </p>
               </div>
             </li>

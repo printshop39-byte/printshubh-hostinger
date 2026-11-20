@@ -24,7 +24,6 @@
 
 import Link from "next/link";
 import { ArrowRight, MessageCircle } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { COLLECTIONS } from "@/lib/collections";
@@ -33,54 +32,32 @@ import { ESTABLISHED } from "@/lib/shop-profile";
 
 type Fact = { kicker: string; value: string; note: string };
 
-const copy: Record<
-  Lang,
-  {
-    eyebrow: string;
-    headlineStart: string;
-    headlineAccent: string;
-    tagline: string;
-    support: string;
-    primary: string;
-    secondary: string;
-    enquiry: string;
-    facts: Fact[];
-  }
-> = {
-  mr: {
-    eyebrow: "PRINTSHUBH · कोल्हापूर",
-    headlineStart: "प्रीमियम प्रिंट",
-    headlineAccent: "व्हिज्युअल स्टुडिओ.",
-    tagline: "तुमच्या भिंती. तुमचे प्लॅन. मोठ्या आकारात.",
-    support:
-      "इंटिरियरसाठी वॉलपेपर, कॅनव्हास, वॉल आर्ट, विनाइल आणि बरंच काही — तसेच AutoCAD चे आर्किटेक्चरल व स्ट्रक्चरल प्लॅन मोठ्या आकारात. फाइल WhatsApp वर पाठवा; काम सुरू करण्यापूर्वी किंमत कळवली जाते.",
-    primary: "Collections पहा",
-    secondary: "WhatsApp वर चौकशी",
-    enquiry:
-      "नमस्कार PrintShubh, मला कस्टम प्रिंटबद्दल चौकशी करायची आहे. काय हवं आहे / आकार: ",
-    facts: [
-      { kicker: "सुरू", value: ESTABLISHED.slice(0, 4), note: "शाहूपुरी, कोल्हापूर" },
-      { kicker: "कलेक्शन्स", value: String(COLLECTIONS.length).padStart(2, "0"), note: "तुमच्या मापात" },
-      { kicker: "CAD प्रिंट", value: "CAD", note: "AutoCAD प्लॅन" },
-    ],
-  },
-  en: {
-    eyebrow: "PRINTSHUBH · Kolhapur",
-    headlineStart: "Premium Print",
-    headlineAccent: "& Visual Studio.",
-    tagline: "Your walls. Your plans. Printed large.",
-    support:
-      "Wallpaper, canvas, wall art, vinyl and more for interiors — and AutoCAD architectural and structural plans, printed large. Send your file on WhatsApp; the price is confirmed before work starts.",
-    primary: "Explore Collections",
-    secondary: "Custom print enquiry",
-    enquiry:
-      "Hello PrintShubh, I would like to enquire about a custom print. What I need / size: ",
-    facts: [
-      { kicker: "Since", value: ESTABLISHED.slice(0, 4), note: "Shahupuri, Kolhapur" },
-      { kicker: "Collections", value: String(COLLECTIONS.length).padStart(2, "0"), note: "each in your size" },
-      { kicker: "CAD prints", value: "CAD", note: "AutoCAD plans" },
-    ],
-  },
+const copy: {
+  eyebrow: string;
+  headlineStart: string;
+  headlineAccent: string;
+  tagline: string;
+  support: string;
+  primary: string;
+  secondary: string;
+  enquiry: string;
+  facts: Fact[];
+} = {
+  eyebrow: "PRINTSHUBH · Kolhapur",
+  headlineStart: "Premium Print",
+  headlineAccent: "& Visual Studio.",
+  tagline: "Your walls. Your plans. Printed large.",
+  support:
+    "Wallpaper, canvas, wall art, vinyl and more for interiors — and AutoCAD architectural and structural plans, printed large. Send your file on WhatsApp; the price is confirmed before work starts.",
+  primary: "Explore Collections",
+  secondary: "Custom print enquiry",
+  enquiry:
+    "Hello PrintShubh, I would like to enquire about a custom print. What I need / size: ",
+  facts: [
+    { kicker: "Since", value: ESTABLISHED.slice(0, 4), note: "Shahupuri, Kolhapur" },
+    { kicker: "Collections", value: String(COLLECTIONS.length).padStart(2, "0"), note: "each in your size" },
+    { kicker: "CAD prints", value: "CAD", note: "AutoCAD plans" },
+  ],
 };
 
 const PRIMARY =
@@ -89,8 +66,7 @@ const SECONDARY =
   "ps-enter inline-flex min-h-[52px] w-full items-center justify-center gap-2 rounded-xl border border-white/30 px-6 text-base font-black text-white transition hover:bg-white/10 sm:w-auto motion-reduce:transform-none";
 
 export function ShopHero() {
-  const { lang } = useLang();
-  const tx = copy[lang];
+  const tx = copy;
 
   const enquiryHref = buildWhatsAppUrl({
     message: tx.enquiry,
@@ -101,7 +77,7 @@ export function ShopHero() {
   const track = (key: "collections" | "enquiry", whatsapp = false) => {
     if (whatsapp) trackWhatsAppLead();
     trackFunnelEvent("hero_intent_click", {
-      lang,
+      lang: "en",
       surface: "hero-s1",
       service_key: key,
     });

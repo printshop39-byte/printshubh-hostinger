@@ -20,23 +20,15 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Search, X } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { trackFunnelEvent } from "@/lib/analytics";
 import { SITE_SEARCH_INDEX } from "@/lib/site-search-index";
 
-const placeholder: Record<Lang, string> = {
-  mr: "कलेक्शन्स, CAD प्रिंट, सेवा शोधा…",
-  en: "Search collections, CAD prints, services…",
-};
-const noResults: Record<Lang, string> = {
-  mr: "काहीही सापडले नाही. WhatsApp वर विचारा.",
-  en: "No results found. Ask us on WhatsApp.",
-};
-const searchLabel: Record<Lang, string> = { mr: "शोध", en: "Search" };
-const closeLabel: Record<Lang, string> = { mr: "बंद करा", en: "Close" };
+const placeholder: string = "Search collections, CAD prints, services…";
+const noResults: string = "No results found. Ask us on WhatsApp.";
+const searchLabel: string = "Search";
+const closeLabel: string = "Close";
 
 export function SiteSearch() {
-  const { lang } = useLang();
   const router = useRouter();
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
@@ -100,7 +92,7 @@ export function SiteSearch() {
   function trackSearchOnce() {
     if (trackedRef.current) return;
     trackedRef.current = true;
-    trackFunnelEvent("search_used", { lang, surface: "header-search" });
+    trackFunnelEvent("search_used", { lang: "en", surface: "header-search" });
   }
 
   function goTo(href: string) {
@@ -114,7 +106,7 @@ export function SiteSearch() {
         ref={triggerRef}
         type="button"
         onClick={() => setOpen(true)}
-        aria-label={searchLabel[lang]}
+        aria-label={searchLabel}
         className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-700 transition hover:border-brand-gold hover:text-brand-navy"
       >
         <Search className="size-[18px]" aria-hidden="true" />
@@ -124,7 +116,7 @@ export function SiteSearch() {
         <div
           role="dialog"
           aria-modal="true"
-          aria-label={searchLabel[lang]}
+          aria-label={searchLabel}
           className="fixed inset-0 z-[60] flex items-start justify-center bg-slate-950/40 px-4 pt-[12vh] backdrop-blur-sm"
           onClick={close}
         >
@@ -156,13 +148,13 @@ export function SiteSearch() {
                     if (entry) goTo(entry.href);
                   }
                 }}
-                placeholder={placeholder[lang]}
+                placeholder={placeholder}
                 className="min-h-[48px] w-full bg-transparent text-[15px] font-medium text-slate-900 outline-none placeholder:text-slate-400"
               />
               <button
                 type="button"
                 onClick={close}
-                aria-label={closeLabel[lang]}
+                aria-label={closeLabel}
                 className="inline-flex size-8 shrink-0 items-center justify-center rounded-full text-slate-400 transition hover:bg-slate-100 hover:text-slate-700"
               >
                 <X className="size-4" aria-hidden="true" />
@@ -173,7 +165,7 @@ export function SiteSearch() {
               <ul className="mt-2 max-h-[60vh] overflow-y-auto">
                 {results.length === 0 ? (
                   <li className="px-3 py-4 text-center text-[13.5px] text-slate-500">
-                    {noResults[lang]}
+                    {noResults}
                   </li>
                 ) : (
                   results.map((entry, i) => (
@@ -186,10 +178,10 @@ export function SiteSearch() {
                         }`}
                       >
                         <span className="text-[14.5px] font-bold text-slate-900">
-                          {entry.title[lang]}
+                          {entry.title.en}
                         </span>
                         <span className="shrink-0 text-[11px] font-semibold uppercase tracking-wide text-slate-400">
-                          {entry.category[lang]}
+                          {entry.category.en}
                         </span>
                       </Link>
                     </li>
