@@ -121,7 +121,7 @@ const tx: Record<
     hours: "वेळ",
     toolsTitle: "मोफत साधने — PrintShubh.in",
     toolsBody:
-      "फोटो Compress, PDF, आधार एका पानावर, Resume आणि सरकारी अर्ज नमुने — मोफत, तुमच्याच ब्राउझरमध्ये.",
+      "फोटो Compress, PDF साधने आणि Resume बिल्डर — मोफत, तुमच्याच ब्राउझरमध्ये.",
     toolsCta: "साधने पहा",
     browse: "Collections व सेवा",
     crossSite: "मोफत ऑनलाइन साधने:",
@@ -163,7 +163,7 @@ const tx: Record<
     builtFor: "For Maharashtra.",
     toolsTitle: "Free tools — PrintShubh.in",
     toolsBody:
-      "Photo compressor, PDF tools, Aadhaar on one page, resume builder and government application templates — free, in your own browser.",
+      "Photo compressor, PDF tools and a resume builder — free, in your own browser.",
     toolsCta: "Open the tools",
     browse: "Collections & services",
     crossSite: "Free online tools:",
@@ -200,12 +200,17 @@ export function SiteFooter() {
   const pathname = usePathname();
   const isHome = pathname === "/";
   // On a land-document page the badge keeps its original place, second in the row.
-  // On the homepage only "Since 1996" is kept (the last badge).
-  const badges = isHome
-    ? t.badges.slice(-1)
-    : isLandDocumentPath(pathname)
-      ? [t.badges[0], t.notGovernment, ...t.badges.slice(1)]
-      : t.badges;
+  // The land-document trust badges ("Based on official sources", "PDF on
+  // WhatsApp", "Details verified before payment") belong to the land-document
+  // routes and /pricing. Every other page (the homepage, collections, the
+  // printing / photo / digital pages, about, contact, the tools and the legal
+  // pages) shows only "Since 1996", the last badge.
+  const cleanPath = (pathname ?? "").replace(/\/+$/, "") || "/";
+  const badges = isLandDocumentPath(pathname)
+    ? [t.badges[0], t.notGovernment, ...t.badges.slice(1)]
+    : cleanPath === "/pricing"
+      ? t.badges
+      : t.badges.slice(-1);
   const year = new Date().getFullYear();
   const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "footer" });
 
@@ -245,7 +250,7 @@ export function SiteFooter() {
     <footer className="bg-brand-navy px-5 pb-10 pt-16 text-slate-300 sm:px-8">
       <div className="mx-auto max-w-7xl">
         {/* Trust badges */}
-        <ul className={`${isHome ? "mb-8" : "mb-12"} flex flex-wrap gap-2`}>
+        <ul className={`${badges.length === 1 ? "mb-8" : "mb-12"} flex flex-wrap gap-2`}>
           {badges.map((b) => (
             <li
               key={b}

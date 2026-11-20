@@ -7,6 +7,7 @@
  *   - SiteHeader (with lang toggle)
  *   - Hero band with Marathi-first heading
  *   - ServiceAreaDisclaimer (compact) banner at the top of the page
+ *     (on by default; /about and /contact switch it off)
  *   - Marathi or English content slot (controlled by useLang)
  *   - Floating WhatsApp Support button
  *   - SiteFooter
@@ -31,6 +32,8 @@ interface LegalPageShellProps {
   contentEn: ReactNode;
   /** Last-updated date string (already localized or just ISO). */
   updatedAt?: string;
+  /** Show the "not a government body" banner. Defaults to true. */
+  showServiceDisclaimer?: boolean;
 }
 
 const homeLabel: Record<Lang, string> = { mr: "मुख्यपृष्ठ", en: "Home" };
@@ -46,6 +49,7 @@ export function LegalPageShell({
   contentMr,
   contentEn,
   updatedAt,
+  showServiceDisclaimer = true,
 }: LegalPageShellProps) {
   const { lang } = useLang();
   const t = lang === "mr" ? "mr" : "en";
@@ -91,7 +95,7 @@ export function LegalPageShell({
         {/* Body */}
         <section className="px-5 pt-10 sm:px-8">
           <div className="mx-auto max-w-4xl space-y-6">
-            <ServiceAreaDisclaimer variant="compact" />
+            {showServiceDisclaimer && <ServiceAreaDisclaimer variant="compact" />}
             <article className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9">
               {lang === "mr" ? contentMr : contentEn}
             </article>

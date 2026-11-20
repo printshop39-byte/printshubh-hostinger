@@ -25,8 +25,8 @@ import { trackFunnelEvent } from "@/lib/analytics";
 import { SITE_SEARCH_INDEX } from "@/lib/site-search-index";
 
 const placeholder: Record<Lang, string> = {
-  mr: "शोधा: 7/12, गाव नकाशा, EMI...",
-  en: "Search: 7/12, village map, EMI...",
+  mr: "कलेक्शन्स, CAD प्रिंट, सेवा शोधा…",
+  en: "Search collections, CAD prints, services…",
 };
 const noResults: Record<Lang, string> = {
   mr: "काहीही सापडले नाही. WhatsApp वर विचारा.",

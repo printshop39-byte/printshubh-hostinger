@@ -42,13 +42,13 @@ const tx: Record<Lang, {
     cardServiceAreaTitle: "सेवा क्षेत्र",
     cardServiceAreaBody: "महाराष्ट्रभर ऑनलाइन / WhatsApp सहाय्य",
     trustLine:
-      "महाराष्ट्रासाठी विश्वासार्ह सहाय्य. PRINTSHUBH १९९६ पासून कोल्हापुरात ग्राहकांना सेवा देत आहे.",
+      "महाराष्ट्रासाठी प्रीमियम प्रिंटिंग. PRINTSHUBH १९९६ पासून कोल्हापुरात ग्राहकांना सेवा देत आहे.",
     hoursTitle: "कामकाजाचे तास",
     hours: "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00 · रविवारी बंद",
     waMsg: "नमस्कार, मला PrintShubh सेवेबद्दल माहिती हवी आहे.",
     whenToCallTitle: "कधी संपर्क करावा",
     whenToCallBody:
-      "7/12 / 8A / गाव नकाशा / DP / TP / मिळकत पत्रिका / फेरफार यापैकी कोणत्याही दस्तऐवजासाठी, वॉलपेपर / कॅनव्हास / वॉल आर्ट / रेक्झिन / साटीन फॅब्रिक / फ्रेम्ड प्रिंट्स / व्हिनाइल यापैकी कोणत्याही Print Collection साठी, सेवा शुल्क विचारणा करण्यासाठी, किंवा वेबसाइट वापरताना अडचण आल्यास.",
+      "वॉलपेपर / कॅनव्हास / वॉल आर्ट / रेक्झिन / साटीन फॅब्रिक / फ्रेम्ड प्रिंट्स / व्हिनाइल यापैकी कोणत्याही Print Collection साठी, सेवा शुल्क विचारणा करण्यासाठी, वेबसाइट वापरताना अडचण आल्यास, किंवा 7/12 / 8A / गाव नकाशा / DP / TP / मिळकत पत्रिका / फेरफार यापैकी कोणत्याही दस्तऐवजासाठी.",
     responseTitle: "उत्तराचा वेळ",
     responseBody:
       "WhatsApp वर साधारणतः 30 मिनिटांत प्रतिसाद. कधी अधिक वेळ लागल्यास सहन करा — आम्ही प्रत्येक चौकशीला नक्की उत्तर देतो.",
@@ -66,13 +66,13 @@ const tx: Record<Lang, {
     cardServiceAreaTitle: "Service Area",
     cardServiceAreaBody: "Online / WhatsApp assistance across Maharashtra",
     trustLine:
-      "Trusted assistance for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
+      "Premium printing for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
     hoursTitle: "Working hours",
     hours: "Monday to Saturday · 9:00 AM to 9:00 PM · Closed on Sundays",
     waMsg: "Hello, I would like to know about PrintShubh services.",
     whenToCallTitle: "When to contact",
     whenToCallBody:
-      "For any 7/12, 8A, village map, DP/TP, Property Card or Mutation request, for any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, or if you face trouble using the website.",
+      "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, if you face trouble using the website, or for any 7/12, 8A, village map, DP/TP, Property Card or Mutation request.",
     responseTitle: "Response time",
     responseBody:
       "Typical WhatsApp reply within 30 minutes. If we take longer, please bear with us — every query is answered.",
@@ -90,6 +90,7 @@ export function ContactContent() {
       breadcrumb={{ mr: "संपर्क", en: "Contact" }}
       intro={{ mr: t.intro, en: tx.en.intro }}
       updatedAt="May 2026"
+      showServiceDisclaimer={false}
       contentMr={<ContactBody t={t} waHref={waHref} />}
       contentEn={<ContactBody t={tx.en} waHref={waHref} />}
     />

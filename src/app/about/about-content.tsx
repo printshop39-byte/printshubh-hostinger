@@ -1,28 +1,157 @@
 "use client";
 
+/**
+ * About PRINTSHUBH — Premium Print & Visual Studio.
+ *
+ * A printing-first company introduction. Everything stated here is something
+ * the site already states elsewhere or the owner has confirmed: in business
+ * since 1996 (the Google Business Profile opening date), the Shahupuri
+ * counter, the seven print collections plus wall murals and custom visual
+ * products, CAD / AutoCAD plan printing, an 11-colour large-format printing
+ * system, print consultation, and the order process shown on the homepage.
+ *
+ * Deliberately NOT said here: any government-sector identity, land-record
+ * service list, "private assistance service" statement, official-source
+ * branding, printer make or model, prices, turnaround times, delivery, or
+ * certifications. The legal notices about the land-document services live on
+ * those service pages, /disclaimer, /terms and the footer.
+ *
+ * Address and hours come from shop-profile.ts (the single source of truth).
+ * English and Marathi are both kept until the English-only phase.
+ */
+
+import Link from "next/link";
 import { ShieldCheck } from "lucide-react";
 import {
   LegalList,
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
+import { SITE_CONTACT } from "@/components/site-footer";
 import { type Lang } from "@/components/language-context";
+import { OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
 
-const trustLine: Record<Lang, string> = {
-  mr: "महाराष्ट्रासाठी विश्वासार्ह सहाय्य. PRINTSHUBH १९९६ पासून कोल्हापुरात ग्राहकांना सेवा देत आहे.",
-  en: "Trusted assistance for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
+type Copy = {
+  intro: string;
+  trustLine: string;
+  whoHeading: string;
+  whoBody: string;
+  printHeading: string;
+  printItems: string[];
+  cadHeading: string;
+  cadBody: string;
+  orderHeading: string;
+  orderItems: string[];
+  studioHeading: string;
+  studioBody: string;
+  counterHeading: string;
+  counterLead: string;
+  counterLinks: { href: string; label: string }[];
+  visitHeading: string;
+  visitLead: string;
+  contactLabel: string;
+};
+
+const copy: Record<Lang, Copy> = {
+  mr: {
+    intro:
+      "PRINTSHUBH — Premium Print & Visual Studio. कोल्हापूरमधील शाहूपुरी येथील प्रिंट स्टुडिओ, १९९६ पासून ग्राहकांच्या सेवेत.",
+    trustLine:
+      "घर, ऑफिस आणि दुकानांसाठी प्रीमियम लार्ज-फॉरमॅट प्रिंटिंग. १९९६ पासून कोल्हापुरात सेवेत.",
+    whoHeading: "आम्ही कोण आहोत",
+    whoBody:
+      "PRINTSHUBH हा कोल्हापूरमधील शाहूपुरी येथील प्रिंट आणि व्हिज्युअल स्टुडिओ आहे. आम्ही १९९६ पासून ग्राहकांना सेवा देत आहोत, आणि आज इंटिरियरसाठी प्रीमियम लार्ज-फॉरमॅट प्रिंटिंग तसेच आर्किटेक्ट, इंजिनिअर आणि बिल्डरसाठी CAD प्लॅन प्रिंटिंगवर आमचा भर आहे.",
+    printHeading: "आम्ही काय प्रिंट करतो",
+    printItems: [
+      "वॉलपेपर आणि वॉल म्युरल्स",
+      "कॅनव्हास प्रिंट आणि वॉल आर्ट",
+      "PU लेदरेट / रेक्झिन प्रिंटिंग",
+      "साटीन फॅब्रिक प्रिंटिंग",
+      "फ्रेम्ड प्रिंट्स",
+      "व्हिनाइल प्रिंटिंग",
+      "तुमच्या मापानुसार आणि डिझाइननुसार सानुकूल व्हिज्युअल उत्पादने",
+    ],
+    cadHeading: "CAD आणि टेक्निकल प्लॉटिंग",
+    cadBody:
+      "AutoCAD चे आर्किटेक्चरल व स्ट्रक्चरल प्लॅन मोठ्या आकारात प्रिंट. फाइल, आकार आणि प्रती WhatsApp वर पाठवा; काम सुरू करण्यापूर्वी काय जमेल ते आम्ही कळवतो.",
+    orderHeading: "ऑर्डर कशी चालते",
+    orderItems: [
+      "कलेक्शन निवडा, किंवा काय हवं ते सांगा.",
+      "फाइल, आकार आणि प्रती WhatsApp वर पाठवा.",
+      "काम सुरू करण्यापूर्वी आकार, मटेरियल आणि किंमत निश्चित केली जाते.",
+      "तुमची ऑर्डर स्टुडिओमध्ये प्रिंट होते.",
+      "प्रिंट तयार झाल्यावर कोल्हापूर स्टुडिओमधून घ्या.",
+    ],
+    studioHeading: "आमचा स्टुडिओ",
+    studioBody:
+      "आमचे इंटिरियर प्रिंट 11-रंगी लार्ज-फॉरमॅट प्रिंटिंग प्रणालीवर केले जातात. प्रिंट सल्ला उपलब्ध आहे: तुमच्या जागेला साजेसा आकार आणि मटेरियल निवडायला आम्ही मदत करतो.",
+    counterHeading: "काउंटरवर आणखी",
+    counterLead:
+      "जंबो झेरॉक्स, फोटो सेवा आणि ऑनलाइन सेवा काउंटरवर अजूनही उपलब्ध आहेत.",
+    counterLinks: [
+      { href: "/printing-xerox", label: "प्रिंटिंग व झेरॉक्स" },
+      { href: "/photo-services", label: "फोटो सेवा" },
+      { href: "/digital-services", label: "ऑनलाइन सेवा" },
+    ],
+    visitHeading: "भेट द्या किंवा संदेश पाठवा",
+    visitLead:
+      "किंमत जाणून घेण्यासाठी फाइल WhatsApp वर पाठवा, किंवा स्टुडिओला भेट द्या:",
+    contactLabel: "संपर्क करा",
+  },
+  en: {
+    intro:
+      "PRINTSHUBH — Premium Print & Visual Studio. A print studio in Shahupuri, Kolhapur, serving customers since 1996.",
+    trustLine:
+      "Premium large-format printing for homes, offices and shops. Serving Kolhapur since 1996.",
+    whoHeading: "Who we are",
+    whoBody:
+      "PRINTSHUBH is a print and visual studio in Shahupuri, Kolhapur. We have served customers since 1996, and today we focus on premium large-format printing for interiors and on CAD plan printing for architects, engineers and builders.",
+    printHeading: "What we print",
+    printItems: [
+      "Wallpaper and wall murals",
+      "Canvas prints and wall art",
+      "PU leatherette / rexine printing",
+      "Satin fabric printing",
+      "Framed prints",
+      "Vinyl printing",
+      "Custom visual products, made to your size and design",
+    ],
+    cadHeading: "CAD and technical plotting",
+    cadBody:
+      "AutoCAD architectural and structural plans, printed large. Send your file, the size and the number of copies on WhatsApp, and we confirm what works before any work starts.",
+    orderHeading: "How an order works",
+    orderItems: [
+      "Choose a collection, or tell us what you need.",
+      "Send your file, size and copies on WhatsApp.",
+      "Size, material and price are confirmed before work starts.",
+      "Your order is printed at the studio.",
+      "When it is ready, collect it from the studio in Kolhapur.",
+    ],
+    studioHeading: "Our studio",
+    studioBody:
+      "Our interior prints are made on an 11-colour, large-format printing system. Print consultation is available: we help you choose the size and material that suit your space.",
+    counterHeading: "Also at the counter",
+    counterLead:
+      "Jumbo xerox, photo services and online services are still available at the counter.",
+    counterLinks: [
+      { href: "/printing-xerox", label: "Printing & Xerox" },
+      { href: "/photo-services", label: "Photo services" },
+      { href: "/digital-services", label: "Online services" },
+    ],
+    visitHeading: "Visit or message us",
+    visitLead: "Send your file on WhatsApp for a quote, or visit the studio:",
+    contactLabel: "Contact us",
+  },
 };
 
 export function AboutContent() {
   return (
     <LegalPageShell
-      title={{ mr: "आमच्याबद्दल", en: "About PrintShubh" }}
+      title={{ mr: "आमच्याबद्दल", en: "About PRINTSHUBH" }}
       breadcrumb={{ mr: "आमच्याबद्दल", en: "About Us" }}
-      intro={{
-        mr: "PrintShubh ही महाराष्ट्रासाठी मराठी-प्रथम खाजगी सहाय्य सेवा आहे — जमीन कागदपत्र, नकाशे आणि महसूल नोंदी सोप्या भाषेत मिळवून देणारी टीम.",
-        en: "PrintShubh is a Marathi-first private assistance service for Maharashtra — a team that helps users navigate land records, maps and revenue documents in plain language.",
-      }}
-      updatedAt="May 2026"
+      intro={{ mr: copy.mr.intro, en: copy.en.intro }}
+      updatedAt="November 2026"
+      showServiceDisclaimer={false}
       contentMr={<AboutBody lang="mr" />}
       contentEn={<AboutBody lang="en" />}
     />
@@ -30,217 +159,85 @@ export function AboutContent() {
 }
 
 function AboutBody({ lang }: { lang: Lang }) {
-  /* Top trust banner — same blue style used on Home + Contact for consistency. */
-  const TrustBanner = (
-    <div className="mb-6 flex items-start gap-3 rounded-lg border border-brand-gold-light bg-brand-cream p-4 text-[14px] font-semibold leading-7 text-brand-navy">
-      <ShieldCheck className="mt-0.5 size-5 shrink-0 text-brand-navy" />
-      <p>{trustLine[lang]}</p>
-    </div>
-  );
+  const c = copy[lang];
 
-  if (lang === "mr") {
-    return (
-      <>
-        {TrustBanner}
-
-        <LegalSection heading="आम्ही कोण आहोत">
-          <p>
-            PrintShubh ही एक खाजगी सहाय्य सेवा आहे — सरकारी संस्था नाही, सरकारी
-            संकेतस्थळ नाही. आम्ही जमीन कागदपत्र, नकाशे, मालकी नोंद आणि शहर
-            सर्वेक्षण माहितीबाबत मराठीतून मदत पुरवतो. आमचा उद्देश सोपा आहे —
-            अधिकृत सार्वजनिक स्रोतांवर असलेली माहिती सामान्य नागरिकाला सहज आणि
-            समजेल अशा स्वरूपात उपलब्ध करून देणे.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="आम्ही काय करतो">
-          <LegalList
-            items={[
-              "7/12 (सातबारा) उतारा शोधणे आणि व्यवस्थित स्वरूपात PDF देणे.",
-              "8A उतारा आणि होल्डिंग माहिती तपासणी.",
-              "ई-फेरफार / Mutation नोंदी आणि त्यांचा अर्थ सोप्या भाषेत समजावून देणे.",
-              "गाव नकाशा, गट नकाशा आणि सर्वे नंबर संदर्भ.",
-              "DP / TP नकाशा संदर्भ — झोन, आरक्षण, रस्ता रुंदी इत्यादी समजावून देणे.",
-              "मिळकत पत्रिका (Property Card) आणि CTS नंबर संदर्भ.",
-              "जमीन अहवाल आणि कागदपत्र संदर्भासाठी मार्गदर्शन.",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="आमचे काम कसे चालते">
-          <LegalList
-            items={[
-              "तुम्ही WhatsApp किंवा वेबसाइटवरून जिल्हा, तालुका, गाव आणि गट / सर्वे / CTS नंबर शेअर करता.",
-              "आम्ही अधिकृत सार्वजनिक स्रोतांवर माहिती तपासतो आणि उपलब्धता तुम्हाला कळवतो.",
-              "तुमच्या मंजुरीनंतर UPI द्वारे पेमेंट घेतले जाते.",
-              "अहवाल / PDF शक्य तेथे WhatsApp वर पाठवला जातो.",
-              "जर माहिती मिळू शकत नसेल, तर परतावा धोरणानुसार रक्कम परत केली जाते.",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="आमच्या टीमचा अनुभव">
-          <p>
-            PRINTSHUBH <strong>१९९६ पासून</strong> कोल्हापुरात ग्राहकांना सेवा देत
-            आहे. टीमला नकाशे, जमीन अभिलेख आणि कागदपत्र सेवांची प्रत्यक्ष ओळख आहे.
-            महसूल नोंदी, सर्वे नंबर, DP / TP योजना, मिळकत पत्रिका आणि फेरफार प्रक्रिया यांचे
-            व्यवहारिक ज्ञान आमच्या प्रत्येक सेवेच्या मागे आहे — त्यामुळेच आमचे
-            उत्तर केवळ कागदी नसून प्रत्यक्ष कामासाठी उपयुक्त असते.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="आम्ही कोणत्या स्रोतांवर अवलंबून आहोत">
-          <p>
-            आमच्या सहाय्याचा आधार म्हणजे Mahabhumi, Bhulekh, Bhuvan, अधिकृत TP /
-            DP प्रकाशने आणि इतर सार्वजनिक सरकारी स्रोत. आम्ही नोंदी “तयार” करत
-            नाही — आम्ही अधिकृत स्रोतांवर असलेली माहिती शोधून, व्यवस्थित स्वरूपात
-            सादर करून, तुमच्यापर्यंत पोहोचवतो.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="आमचे मूल्य">
-          <LegalList
-            items={[
-              "पारदर्शकता — सेवा घेण्याआधी सर्व माहिती तपासली जाते, शुल्क आधी सांगितले जाते.",
-              "स्थानिक भाषा — मराठी प्रथम, इंग्रजी पर्याय उपलब्ध.",
-              "खाजगीपणा — तुमची माहिती फक्त सेवेपुरतीच वापरली जाते.",
-              "जबाबदारी — चुकीसाठी प्रामाणिक परतावा / दुरुस्ती धोरण.",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="आम्ही आता काय करतो — Premium Print & Visual Studio">
-          <p>
-            जमीन कागदपत्र सहाय्यासोबतच, PrintShubh आता वॉलपेपर, कॅनव्हास, वॉल
-            आर्ट, रेक्झिन/PU लेदरेट, साटीन फॅब्रिक, फ्रेम्ड प्रिंट्स आणि व्हिनाइल
-            अशा सात Premium Print Collections साठी सानुकूल प्रिंटिंग सेवा देखील
-            पुरवतो. प्रत्येक ऑर्डर तुमच्या मापानुसार आणि डिझाइननुसार तयार केली
-            जाते.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="आमची उत्पादन क्षमता">
-          <p>
-            प्रिंटिंगसाठी Epson SureColor SC-S9130 हे 11-रंगी तंत्रज्ञान वापरले
-            जाते — बारीक तपशील आणि सौम्य रंगसंक्रमणासह दर्जेदार प्रिंट. किंमत
-            प्रत्येक ऑर्डरनुसार (माप, मटेरियल, डिझाइन) ठरते आणि कामाला सुरुवात
-            करण्यापूर्वी WhatsApp वर स्पष्ट सांगितली जाते.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="आमची मर्यादा — कृपया लक्षात ठेवा">
-          <p>
-            PrintShubh ही सरकारी संस्था नाही आणि आम्ही कोणतीही सरकारी नोंद
-            “मंजूर” किंवा “तयार” करत नाही. आम्ही फक्त अधिकृत सार्वजनिक स्रोतांवर
-            उपलब्ध माहितीचा संदर्भ देतो. अंतिम मालकी, क्षेत्रफळ, सीमा किंवा
-            कायदेशीर वापरासाठी संबंधित तहसील कार्यालय / अधिकृत सरकारी पोर्टलवर
-            पडताळणी करणे आवश्यक आहे.
-          </p>
-        </LegalSection>
-      </>
-    );
-  }
-
-  /* English */
   return (
     <>
-      {TrustBanner}
+      <div className="mb-6 flex items-start gap-3 rounded-lg border border-brand-gold-light bg-brand-cream p-4 text-[14px] font-semibold leading-7 text-brand-navy">
+        <ShieldCheck className="mt-0.5 size-5 shrink-0 text-brand-navy" />
+        <p>{c.trustLine}</p>
+      </div>
 
-      <LegalSection heading="Who we are">
+      <LegalSection heading={c.whoHeading}>
+        <p>{c.whoBody}</p>
+      </LegalSection>
+
+      <LegalSection heading={c.printHeading}>
+        <LegalList items={c.printItems} />
+      </LegalSection>
+
+      <LegalSection heading={c.cadHeading}>
+        <p>{c.cadBody}</p>
+      </LegalSection>
+
+      <LegalSection heading={c.orderHeading}>
+        <LegalList items={c.orderItems} />
+      </LegalSection>
+
+      <LegalSection heading={c.studioHeading}>
+        <p>{c.studioBody}</p>
+      </LegalSection>
+
+      <LegalSection heading={c.counterHeading}>
+        <p>{c.counterLead}</p>
+        <ul className="flex flex-wrap gap-x-5">
+          {c.counterLinks.map((link) => (
+            <li key={link.href}>
+              <Link
+                href={link.href}
+                className="inline-flex min-h-[44px] items-center font-bold text-brand-navy underline decoration-brand-gold underline-offset-4 hover:text-brand-navy-dark"
+              >
+                {link.label}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </LegalSection>
+
+      <LegalSection heading={c.visitHeading}>
+        <p>{c.visitLead}</p>
+        {SHOP_ADDRESS ? (
+          <p>
+            {SHOP_ADDRESS.lines[lang].map((line) => (
+              <span key={line} className="block">
+                {line}
+              </span>
+            ))}
+          </p>
+        ) : null}
+        {OPENING_HOURS ? (
+          <p>
+            {OPENING_HOURS.rows.map((row) => (
+              <span key={row.days.en} className="block">
+                {row.days[lang]}: {row.time[lang]}
+              </span>
+            ))}
+          </p>
+        ) : null}
         <p>
-          PrintShubh is a private assistance service — not a government body
-          and not a government website. We help users with land records, maps,
-          ownership entries and city-survey information in plain Marathi (and
-          English). Our purpose is simple: take publicly available information
-          from official sources and present it in a clear, usable form for
-          ordinary citizens.
-        </p>
-      </LegalSection>
-
-      <LegalSection heading="What we do">
-        <LegalList
-          items={[
-            "Look up 7/12 (Satbara) extracts and deliver clean PDFs.",
-            "Verify 8A extracts and holding details.",
-            "Explain eFerfar / Mutation entries in plain language.",
-            "Provide Village Map, Gut Map and Survey-number references.",
-            "Reference DP / TP zoning, reservations and road widths.",
-            "Help with Property Card and CTS number lookups.",
-            "Guide you through land report and document workflows.",
-          ]}
-        />
-      </LegalSection>
-
-      <LegalSection heading="How we work">
-        <LegalList
-          items={[
-            "Share district, taluka, village and Gut / Survey / CTS number via WhatsApp or our website.",
-            "We check availability on official public sources and confirm with you.",
-            "Once you approve, payment is accepted via UPI.",
-            "Reports / PDFs are delivered on WhatsApp wherever possible.",
-            "If a record cannot be retrieved, a refund is issued per our refund policy.",
-          ]}
-        />
-      </LegalSection>
-
-      <LegalSection heading="Our team's experience">
-        <p>
-          PRINTSHUBH has served customers in Kolhapur <strong>since 1996</strong>.
-          The team brings practical familiarity with maps, land records and
-          document services — revenue entries, survey
-          numbers, DP / TP plans, property cards, and mutation procedures. That
-          practical familiarity is behind every service we offer, which is why
-          our answers tend to be useful in real-world office and field
-          situations, not just on paper.
-        </p>
-      </LegalSection>
-
-      <LegalSection heading="Sources we rely on">
-        <p>
-          Our assistance is grounded in Mahabhumi, Bhulekh, Bhuvan, official
-          TP / DP publications and other public government sources. We do not
-          create records — we locate publicly available information on official
-          portals, organise it clearly, and deliver it to you.
-        </p>
-      </LegalSection>
-
-      <LegalSection heading="Our values">
-        <LegalList
-          items={[
-            "Transparency — every request is verified before payment; fees are confirmed up-front.",
-            "Local language — Marathi-first, English available.",
-            "Privacy — your information is used only for the service requested.",
-            "Accountability — honest refund and correction policy.",
-          ]}
-        />
-      </LegalSection>
-
-      <LegalSection heading="What we do now — Premium Print & Visual Studio">
-        <p>
-          Alongside land-document assistance, PrintShubh now offers custom
-          printing across seven Premium Print Collections — wallpaper,
-          canvas, wall art, rexine/PU leatherette, satin fabric, framed
-          prints and vinyl. Every order is produced to your exact size and
-          design.
-        </p>
-      </LegalSection>
-
-      <LegalSection heading="Our production capability">
-        <p>
-          Printing is done on the Epson SureColor SC-S9130's 11-colour
-          technology, for fine detail and smooth tonal transitions. Pricing
-          depends on each order (size, material, design) and is confirmed
-          clearly on WhatsApp before work begins.
-        </p>
-      </LegalSection>
-
-      <LegalSection heading="What we are not — please remember">
-        <p>
-          PrintShubh is not a government body and we do not issue or approve
-          any government record. We only reference data already published on
-          official portals. For final ownership, area, boundary or any legal
-          use, verification at the relevant Tehsil office or official
-          government portal is mandatory.
+          <a
+            href={`tel:${SITE_CONTACT.phoneTel}`}
+            className="inline-flex min-h-[44px] items-center font-bold text-brand-navy underline decoration-brand-gold underline-offset-4 hover:text-brand-navy-dark"
+          >
+            {SITE_CONTACT.phone}
+          </a>
+          {" · "}
+          <Link
+            href="/contact"
+            className="inline-flex min-h-[44px] items-center font-bold text-brand-navy underline decoration-brand-gold underline-offset-4 hover:text-brand-navy-dark"
+          >
+            {c.contactLabel}
+          </Link>
         </p>
       </LegalSection>
     </>
