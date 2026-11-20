@@ -4,11 +4,11 @@
  * LegalPageShell
  * Consistent wrapper for /about /contact /terms /privacy /refund /disclaimer
  * /faq /support. Renders:
- *   - SiteHeader (with lang toggle)
- *   - Hero band with Marathi-first heading
+ *   - SiteHeader
+ *   - Hero band with the page heading
  *   - ServiceAreaDisclaimer (compact) banner at the top of the page
  *     (on by default; /about and /contact switch it off)
- *   - Marathi or English content slot (controlled by useLang)
+ *   - English content slot (the public site is English-only)
  *   - Floating WhatsApp Support button
  *   - SiteFooter
  */
@@ -16,19 +16,25 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { ChevronRight, Home } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { ServiceAreaDisclaimer } from "@/components/service-area-disclaimer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 
+/** Plain English text. The `{ mr, en }` form is still accepted (and only `en`
+ * is shown) until the legal pages are migrated in S1-B6. */
+type Text = string | { mr: string; en: string };
+
+const text = (t: Text): string => (typeof t === "string" ? t : t.en);
+
 interface LegalPageShellProps {
-  title: { mr: string; en: string };
-  intro?: { mr: string; en: string };
-  breadcrumb?: { mr: string; en: string };
-  /** Marathi content. Use plain React nodes for full layout control. */
-  contentMr: ReactNode;
-  /** English content. */
+  title: Text;
+  intro?: Text;
+  breadcrumb?: Text;
+  /** Legacy Marathi content - no longer rendered (English-only site). Removed
+   * once the legal pages drop it in S1-B6. */
+  contentMr?: ReactNode;
+  /** Page content. Use plain React nodes for full layout control. */
   contentEn: ReactNode;
   /** Last-updated date string (already localized or just ISO). */
   updatedAt?: string;
@@ -36,24 +42,17 @@ interface LegalPageShellProps {
   showServiceDisclaimer?: boolean;
 }
 
-const homeLabel: Record<Lang, string> = { mr: "मुख्यपृष्ठ", en: "Home" };
-const updatedLabel: Record<Lang, string> = {
-  mr: "शेवटचा बदल",
-  en: "Last updated",
-};
+const homeLabel = "Home";
+const updatedLabel = "Last updated";
 
 export function LegalPageShell({
   title,
   intro,
   breadcrumb,
-  contentMr,
   contentEn,
   updatedAt,
   showServiceDisclaimer = true,
 }: LegalPageShellProps) {
-  const { lang } = useLang();
-  const t = lang === "mr" ? "mr" : "en";
-
   return (
     <>
       <SiteHeader />
@@ -68,25 +67,25 @@ export function LegalPageShell({
                 className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-brand-navy"
               >
                 <Home className="size-3.5" />
-                {homeLabel[t]}
+                {homeLabel}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
               <span className="text-slate-700">
-                {(breadcrumb ?? title)[t]}
+                {text(breadcrumb ?? title)}
               </span>
             </nav>
 
             <h1 className="text-3xl font-black leading-tight text-slate-950 sm:text-4xl">
-              {title[t]}
+              {text(title)}
             </h1>
             {intro && (
               <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">
-                {intro[t]}
+                {text(intro)}
               </p>
             )}
             {updatedAt && (
               <p className="mt-4 text-xs font-bold uppercase tracking-[0.16em] text-slate-500">
-                {updatedLabel[t]}: {updatedAt}
+                {updatedLabel}: {updatedAt}
               </p>
             )}
           </div>
@@ -97,7 +96,7 @@ export function LegalPageShell({
           <div className="mx-auto max-w-4xl space-y-6">
             {showServiceDisclaimer && <ServiceAreaDisclaimer variant="compact" />}
             <article className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9">
-              {lang === "mr" ? contentMr : contentEn}
+              {contentEn}
             </article>
           </div>
         </section>

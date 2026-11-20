@@ -17,7 +17,6 @@ import {
 } from "@/components/legal-page-shell";
 import { SITE_CONTACT } from "@/components/site-footer";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
-import { useLang, type Lang } from "@/components/language-context";
 
 interface Topic {
   icon: React.ReactNode;
@@ -26,88 +25,46 @@ interface Topic {
   waMsg: string;
 }
 
-const topics = (lang: Lang): Topic[] => {
-  if (lang === "mr") {
-    return [
-      {
-        icon: <FileText className="size-5" />,
-        title: "7/12 उतारा",
-        desc: "जिल्हा, तालुका, गाव, गट / सर्वे नंबर सांगा — आम्ही PDF WhatsApp वर पाठवू.",
-        waMsg: "नमस्कार, मला 7/12 उतारा हवा आहे.",
-      },
-      {
-        icon: <MapPinned className="size-5" />,
-        title: "गाव नकाशा",
-        desc: "गाव नकाशा, गट नकाशा, सर्वे नकाशा — संदर्भासाठी हवा असल्यास.",
-        waMsg: "नमस्कार, मला गाव नकाशा / गट नकाशा हवा आहे.",
-      },
-      {
-        icon: <Landmark className="size-5" />,
-        title: "DP / TP Map",
-        desc: "झोन, आरक्षण, रस्ता रुंदी इत्यादी DP / TP माहिती हवी असल्यास.",
-        waMsg: "नमस्कार, माझ्या प्लॉटची DP / TP माहिती हवी आहे.",
-      },
-      {
-        icon: <Scroll className="size-5" />,
-        title: "जमीन कागदपत्र",
-        desc: "8A, मिळकत पत्रिका, फेरफार, स्वामित्व नकाशे आणि इतर कागदपत्रे.",
-        waMsg: "नमस्कार, मला जमीन कागदपत्र सेवेबद्दल माहिती हवी आहे.",
-      },
-      {
-        icon: <Frame className="size-5" />,
-        title: "Print Collections चौकशी",
-        desc: "वॉलपेपर, कॅनव्हास, वॉल आर्ट, रेक्झिन, साटीन फॅब्रिक, फ्रेम्ड प्रिंट्स, व्हिनाइल — कोणत्याही collection बद्दल माहिती किंवा सानुकूल मापाचे कोट.",
-        waMsg: "नमस्कार, मला Print Collections पैकी एकाबद्दल माहिती हवी आहे.",
-      },
-      {
-        icon: <Receipt className="size-5" />,
-        title: "पेमेंट / रिफंड",
-        desc: "पेमेंट UPI / QR ने. अहवाल मिळाला नाही तर परतावा शक्य.",
-        waMsg: "नमस्कार, मला पेमेंट / रिफंडसंदर्भात मदत हवी आहे.",
-      },
-    ];
-  }
-  return [
-    {
-      icon: <FileText className="size-5" />,
-      title: "7/12 Extract",
-      desc: "Share district, taluka, village and Gut / Survey number — we'll deliver the PDF on WhatsApp.",
-      waMsg: "Hello, I need a 7/12 extract.",
-    },
-    {
-      icon: <MapPinned className="size-5" />,
-      title: "Village Map",
-      desc: "Village map, gut map, survey map — for reference and planning.",
-      waMsg: "Hello, I need a village / gut map.",
-    },
-    {
-      icon: <Landmark className="size-5" />,
-      title: "DP / TP Map",
-      desc: "Zoning, reservations, road widths — DP / TP information for your plot.",
-      waMsg: "Hello, I need DP / TP information for my plot.",
-    },
-    {
-      icon: <Scroll className="size-5" />,
-      title: "Land Documents",
-      desc: "8A, Property Card, Mutation, Svamitva maps and other documents.",
-      waMsg: "Hello, I need help with land document services.",
-    },
-    {
-      icon: <Frame className="size-5" />,
-      title: "Print Collections enquiry",
-      desc: "Wallpaper, canvas, wall art, rexine, satin fabric, framed prints, vinyl — info or a custom-size quote for any collection.",
-      waMsg: "Hello, I'd like to know about one of the Print Collections.",
-    },
-    {
-      icon: <Receipt className="size-5" />,
-      title: "Payment / Refund",
-      desc: "Payment via UPI / QR. Refunds are possible if the report cannot be retrieved.",
-      waMsg: "Hello, I need help with payment / refund.",
-    },
-  ];
-};
+const topics: Topic[] = [
+  {
+    icon: <FileText className="size-5" />,
+    title: "7/12 Extract",
+    desc: "Share district, taluka, village and Gut / Survey number — we'll deliver the PDF on WhatsApp.",
+    waMsg: "Hello, I need a 7/12 extract.",
+  },
+  {
+    icon: <MapPinned className="size-5" />,
+    title: "Village Map",
+    desc: "Village map, gut map, survey map — for reference and planning.",
+    waMsg: "Hello, I need a village / gut map.",
+  },
+  {
+    icon: <Landmark className="size-5" />,
+    title: "DP / TP Map",
+    desc: "Zoning, reservations, road widths — DP / TP information for your plot.",
+    waMsg: "Hello, I need DP / TP information for my plot.",
+  },
+  {
+    icon: <Scroll className="size-5" />,
+    title: "Land Documents",
+    desc: "8A, Property Card, Mutation, Svamitva maps and other documents.",
+    waMsg: "Hello, I need help with land document services.",
+  },
+  {
+    icon: <Frame className="size-5" />,
+    title: "Print Collections enquiry",
+    desc: "Wallpaper, canvas, wall art, rexine, satin fabric, framed prints, vinyl — info or a custom-size quote for any collection.",
+    waMsg: "Hello, I'd like to know about one of the Print Collections.",
+  },
+  {
+    icon: <Receipt className="size-5" />,
+    title: "Payment / Refund",
+    desc: "Payment via UPI / QR. Refunds are possible if the report cannot be retrieved.",
+    waMsg: "Hello, I need help with payment / refund.",
+  },
+];
 
-const tx: Record<Lang, {
+const tx: {
   intro: string;
   fastestTitle: string;
   fastestBody: string;
@@ -120,64 +77,40 @@ const tx: Record<Lang, {
   policyTitle: string;
   policyBody: string;
   whatsappGenericMsg: string;
-}> = {
-  mr: {
-    intro:
-      "तुमच्या अडचणीनुसार खालील विषय निवडा. WhatsApp वर बोलल्यास सर्वात जलद उत्तर मिळेल.",
-    fastestTitle: "सर्वात जलद मार्ग — WhatsApp",
-    fastestBody:
-      "तुमचा प्रश्न WhatsApp वर पाठवा. आम्ही साधारणतः 30 मिनिटांत प्रतिसाद देतो.",
-    fastestCta: "WhatsApp वर बोला",
-    phoneLabel: "थेट फोन",
-    topicsHeading: "मदत विषय",
-    topicCta: "WhatsApp वर सुरू करा",
-    hoursTitle: "उपलब्धता",
-    hoursBody:
-      "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00. रविवारी बंद.",
-    policyTitle: "सेवा संदर्भ धोरण",
-    policyBody:
-      "PrintShubh ही सरकारी संस्था नाही. आम्ही अधिकृत सार्वजनिक स्रोतांवर आधारित खाजगी सहाय्य सेवा देतो. अंतिम पडताळणी संबंधित सरकारी पोर्टलवर करावी.",
-    whatsappGenericMsg: "नमस्कार, मला PrintShubh सेवेबद्दल मदत हवी आहे.",
-  },
-  en: {
-    intro:
-      "Pick a topic below based on what you need. WhatsApp is the fastest way to reach us.",
-    fastestTitle: "Fastest way — WhatsApp",
-    fastestBody:
-      "Send your question on WhatsApp. We typically reply within 30 minutes.",
-    fastestCta: "Chat on WhatsApp",
-    phoneLabel: "Direct phone",
-    topicsHeading: "Help topics",
-    topicCta: "Start on WhatsApp",
-    hoursTitle: "Availability",
-    hoursBody:
-      "Monday to Saturday · 9:00 AM to 9:00 PM. Closed on Sundays.",
-    policyTitle: "Service policy",
-    policyBody:
-      "PrintShubh is not a government body. We provide private assistance based on official public sources. Final verification must be done on the relevant government portal.",
-    whatsappGenericMsg: "Hello, I need help with PrintShubh services.",
-  },
+} = {
+  intro:
+    "Pick a topic below based on what you need. WhatsApp is the fastest way to reach us.",
+  fastestTitle: "Fastest way — WhatsApp",
+  fastestBody:
+    "Send your question on WhatsApp. We typically reply within 30 minutes.",
+  fastestCta: "Chat on WhatsApp",
+  phoneLabel: "Direct phone",
+  topicsHeading: "Help topics",
+  topicCta: "Start on WhatsApp",
+  hoursTitle: "Availability",
+  hoursBody:
+    "Monday to Saturday · 9:00 AM to 9:00 PM. Closed on Sundays.",
+  policyTitle: "Service policy",
+  policyBody:
+    "PrintShubh is not a government body. We provide private assistance based on official public sources. Final verification must be done on the relevant government portal.",
+  whatsappGenericMsg: "Hello, I need help with PrintShubh services.",
 };
 
 export function SupportContent() {
-  const { lang } = useLang();
-  const t = tx[lang];
-
   return (
     <LegalPageShell
-      title={{ mr: "मदत केंद्र", en: "Support Centre" }}
-      breadcrumb={{ mr: "मदत", en: "Support" }}
-      intro={{ mr: t.intro, en: tx.en.intro }}
+      title="Support Centre"
+      breadcrumb="Support"
+      intro={tx.intro}
       updatedAt="May 2026"
-      contentMr={<SupportBody lang="mr" />}
-      contentEn={<SupportBody lang="en" />}
+      contentEn={<SupportBody />}
     />
   );
 }
 
-function SupportBody({ lang }: { lang: Lang }) {
-  const t = tx[lang];
-  const list = topics(lang);
+function SupportBody() {
+  const t = tx;
+  const list = topics;
   const genericWa = buildWhatsAppUrl({ message: t.whatsappGenericMsg, campaign: "support" });
 
   return (
@@ -255,7 +188,7 @@ function SupportBody({ lang }: { lang: Lang }) {
         <p>{t.policyBody}</p>
         <p className="text-[13px] text-slate-500">
           <Link href="/disclaimer" className="font-bold text-brand-navy hover:underline">
-            {lang === "mr" ? "पूर्ण अस्वीकरण वाचा →" : "Read full disclaimer →"}
+            Read full disclaimer →
           </Link>
         </p>
       </LegalSection>

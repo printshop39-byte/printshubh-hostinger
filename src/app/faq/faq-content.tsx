@@ -3,24 +3,18 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 import { LegalPageShell } from "@/components/legal-page-shell";
-import { useLang } from "@/components/language-context";
 import { faqs, type Qa } from "./faq-data";
 
 export function FaqContent() {
-  const { lang } = useLang();
-  const items = faqs[lang];
+  const items = faqs.en;
   const [openIdx, setOpenIdx] = useState<number | null>(0);
 
   return (
     <LegalPageShell
-      title={{ mr: "वारंवार विचारले जाणारे प्रश्न", en: "Frequently Asked Questions" }}
-      breadcrumb={{ mr: "FAQ", en: "FAQ" }}
-      intro={{
-        mr: "7/12, 8A, फेरफार, गाव नकाशा, DP/TP, पेमेंट आणि परताव्यासंदर्भात सर्व सामान्य प्रश्नांची उत्तरे एका ठिकाणी.",
-        en: "Common questions about 7/12, 8A, mutation, village maps, DP/TP, payment and refund — all in one place.",
-      }}
+      title="Frequently Asked Questions"
+      breadcrumb="FAQ"
+      intro="Common questions about 7/12, 8A, mutation, village maps, DP/TP, payment and refund — all in one place."
       updatedAt="May 2026"
-      contentMr={<FaqList items={items} openIdx={openIdx} setOpenIdx={setOpenIdx} />}
       contentEn={<FaqList items={items} openIdx={openIdx} setOpenIdx={setOpenIdx} />}
     />
   );

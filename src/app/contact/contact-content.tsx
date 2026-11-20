@@ -7,9 +7,8 @@ import {
 } from "@/components/legal-page-shell";
 import { SITE_CONTACT } from "@/components/site-footer";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
-import { useLang, type Lang } from "@/components/language-context";
 
-const tx: Record<Lang, {
+const tx: {
   intro: string;
   cardPhoneTitle: string;
   cardPhoneSub: string;
@@ -28,71 +27,43 @@ const tx: Record<Lang, {
   whenToCallBody: string;
   responseTitle: string;
   responseBody: string;
-}> = {
-  mr: {
-    intro:
-      "WhatsApp हा सर्वात जलद मार्ग आहे. फोन किंवा ईमेलवरही संपर्क करता येतो — आम्ही मराठीतून उत्तर देऊ.",
-    cardPhoneTitle: "फोन",
-    cardPhoneSub: "थेट कॉल करा",
-    cardWaTitle: "WhatsApp",
-    cardWaSub: "तत्काळ उत्तर",
-    cardWaCta: "WhatsApp उघडा",
-    cardEmailTitle: "ईमेल",
-    cardEmailSub: "दीर्घ चौकशीसाठी",
-    cardServiceAreaTitle: "सेवा क्षेत्र",
-    cardServiceAreaBody: "महाराष्ट्रभर ऑनलाइन / WhatsApp सहाय्य",
-    trustLine:
-      "महाराष्ट्रासाठी प्रीमियम प्रिंटिंग. PRINTSHUBH १९९६ पासून कोल्हापुरात ग्राहकांना सेवा देत आहे.",
-    hoursTitle: "कामकाजाचे तास",
-    hours: "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00 · रविवारी बंद",
-    waMsg: "नमस्कार, मला PrintShubh सेवेबद्दल माहिती हवी आहे.",
-    whenToCallTitle: "कधी संपर्क करावा",
-    whenToCallBody:
-      "वॉलपेपर / कॅनव्हास / वॉल आर्ट / रेक्झिन / साटीन फॅब्रिक / फ्रेम्ड प्रिंट्स / व्हिनाइल यापैकी कोणत्याही Print Collection साठी, सेवा शुल्क विचारणा करण्यासाठी, वेबसाइट वापरताना अडचण आल्यास, किंवा 7/12 / 8A / गाव नकाशा / DP / TP / मिळकत पत्रिका / फेरफार यापैकी कोणत्याही दस्तऐवजासाठी.",
-    responseTitle: "उत्तराचा वेळ",
-    responseBody:
-      "WhatsApp वर साधारणतः 30 मिनिटांत प्रतिसाद. कधी अधिक वेळ लागल्यास सहन करा — आम्ही प्रत्येक चौकशीला नक्की उत्तर देतो.",
-  },
-  en: {
-    intro:
-      "WhatsApp is the fastest way. You can also reach us by phone or email — we reply in Marathi or English.",
-    cardPhoneTitle: "Phone",
-    cardPhoneSub: "Direct call",
-    cardWaTitle: "WhatsApp",
-    cardWaSub: "Instant reply",
-    cardWaCta: "Open WhatsApp",
-    cardEmailTitle: "Email",
-    cardEmailSub: "For longer queries",
-    cardServiceAreaTitle: "Service Area",
-    cardServiceAreaBody: "Online / WhatsApp assistance across Maharashtra",
-    trustLine:
-      "Premium printing for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
-    hoursTitle: "Working hours",
-    hours: "Monday to Saturday · 9:00 AM to 9:00 PM · Closed on Sundays",
-    waMsg: "Hello, I would like to know about PrintShubh services.",
-    whenToCallTitle: "When to contact",
-    whenToCallBody:
-      "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, if you face trouble using the website, or for any 7/12, 8A, village map, DP/TP, Property Card or Mutation request.",
-    responseTitle: "Response time",
-    responseBody:
-      "Typical WhatsApp reply within 30 minutes. If we take longer, please bear with us — every query is answered.",
-  },
+} = {
+  intro:
+    "WhatsApp is the fastest way. You can also reach us by phone or email — we reply in Marathi or English.",
+  cardPhoneTitle: "Phone",
+  cardPhoneSub: "Direct call",
+  cardWaTitle: "WhatsApp",
+  cardWaSub: "Instant reply",
+  cardWaCta: "Open WhatsApp",
+  cardEmailTitle: "Email",
+  cardEmailSub: "For longer queries",
+  cardServiceAreaTitle: "Service Area",
+  cardServiceAreaBody: "Online / WhatsApp assistance across Maharashtra",
+  trustLine:
+    "Premium printing for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
+  hoursTitle: "Working hours",
+  hours: "Monday to Saturday · 9:00 AM to 9:00 PM · Closed on Sundays",
+  waMsg: "Hello, I would like to know about PrintShubh services.",
+  whenToCallTitle: "When to contact",
+  whenToCallBody:
+    "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, if you face trouble using the website, or for any 7/12, 8A, village map, DP/TP, Property Card or Mutation request.",
+  responseTitle: "Response time",
+  responseBody:
+    "Typical WhatsApp reply within 30 minutes. If we take longer, please bear with us — every query is answered.",
 };
 
 export function ContactContent() {
-  const { lang } = useLang();
-  const t = tx[lang];
+  const t = tx;
   const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "contact" });
 
   return (
     <LegalPageShell
-      title={{ mr: "संपर्क करा", en: "Contact PrintShubh" }}
-      breadcrumb={{ mr: "संपर्क", en: "Contact" }}
-      intro={{ mr: t.intro, en: tx.en.intro }}
+      title="Contact PrintShubh"
+      breadcrumb="Contact"
+      intro={t.intro}
       updatedAt="May 2026"
       showServiceDisclaimer={false}
-      contentMr={<ContactBody t={t} waHref={waHref} />}
-      contentEn={<ContactBody t={tx.en} waHref={waHref} />}
+      contentEn={<ContactBody t={t} waHref={waHref} />}
     />
   );
 }
@@ -101,7 +72,7 @@ function ContactBody({
   t,
   waHref,
 }: {
-  t: (typeof tx)["mr"];
+  t: typeof tx;
   waHref: string;
 }) {
   return (
