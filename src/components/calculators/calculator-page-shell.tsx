@@ -13,28 +13,26 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { ChevronRight, Home, Calculator } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { IndicativeDisclaimer } from "@/components/calculators/indicative-disclaimer";
 
-const homeLabel: Record<Lang, string> = { mr: "मुख्यपृष्ठ", en: "Home" };
-const toolsLabel: Record<Lang, string> = { mr: "साधने", en: "Tools" };
-const updatedLabel: Record<Lang, string> = { mr: "शेवटचा बदल", en: "Last updated" };
+const homeLabel = "Home";
+const toolsLabel = "Tools";
+const updatedLabel = "Last updated";
 
 export interface CalculatorPageShellProps {
-  eyebrow: { mr: string; en: string };
-  title: { mr: string; en: string };
-  breadcrumb: { mr: string; en: string };
-  intro: { mr: string; en: string };
-  updatedAt?: { mr: string; en: string };
+  eyebrow: string;
+  title: string;
+  breadcrumb: string;
+  intro: string;
+  updatedAt?: string;
   /** The interactive calculator widget — rendered first, inside its own card. */
   calculator: ReactNode;
-  /** Language-specific SEO prose rendered below the calculator. */
-  contentMr: ReactNode;
-  contentEn: ReactNode;
+  /** SEO prose rendered below the calculator. */
+  content: ReactNode;
   /** Optional extra line appended to the standard indicative disclaimer. */
-  disclaimerExtra?: { mr: string; en: string };
+  disclaimerExtra?: string;
 }
 
 export function CalculatorPageShell({
@@ -44,13 +42,9 @@ export function CalculatorPageShell({
   intro,
   updatedAt,
   calculator,
-  contentMr,
-  contentEn,
+  content,
   disclaimerExtra,
 }: CalculatorPageShellProps) {
-  const { lang } = useLang();
-  const t: Lang = lang === "mr" ? "mr" : "en";
-
   return (
     <>
       <SiteHeader />
@@ -60,25 +54,25 @@ export function CalculatorPageShell({
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
               <Link href="/" className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-blue-700">
                 <Home className="size-3.5" />
-                {homeLabel[t]}
+                {homeLabel}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
-              <span>{toolsLabel[t]}</span>
+              <span>{toolsLabel}</span>
               <ChevronRight className="size-3 text-slate-400" />
-              <span className="text-slate-700">{breadcrumb[t]}</span>
+              <span className="text-slate-700">{breadcrumb}</span>
             </nav>
 
             <p className="mb-2 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-[0.18em] text-blue-700">
               <Calculator className="size-3.5" />
-              {eyebrow[t]}
+              {eyebrow}
             </p>
             <h1 className="text-3xl font-black leading-tight text-slate-950 sm:text-4xl">
-              {title[t]}
+              {title}
             </h1>
-            <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">{intro[t]}</p>
+            <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">{intro}</p>
             {updatedAt && (
               <p className="mt-4 text-xs font-bold uppercase tracking-[0.16em] text-slate-500">
-                {updatedLabel[t]}: {updatedAt[t]}
+                {updatedLabel}: {updatedAt}
               </p>
             )}
           </div>
@@ -94,7 +88,7 @@ export function CalculatorPageShell({
             <IndicativeDisclaimer extra={disclaimerExtra} />
 
             <article className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9">
-              {t === "mr" ? contentMr : contentEn}
+              {content}
             </article>
           </div>
         </section>

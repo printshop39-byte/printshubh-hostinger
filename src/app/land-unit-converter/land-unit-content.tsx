@@ -4,7 +4,6 @@ import { useMemo, useState } from "react";
 import { CalculatorPageShell } from "@/components/calculators/calculator-page-shell";
 import { NumberField, SelectField, ResultStat } from "@/components/calculators/calculator-fields";
 import { ServiceSection, ServiceList, ServiceFaq } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 import {
   allUnitsFor,
   LAND_AREA_UNITS,
@@ -52,22 +51,19 @@ const landUnitFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 function LandUnitCalculator() {
-  const { lang } = useLang();
-  const mr = lang === "mr";
-
   const [value, setValue] = useState(1);
   const [unit, setUnit] = useState<LandAreaUnit>("guntha");
 
   const results = useMemo(() => allUnitsFor(value, unit), [value, unit]);
 
-  const label = (u: LandAreaUnit) => (mr ? UNIT_LABEL[u].mr : UNIT_LABEL[u].en);
+  const label = (u: LandAreaUnit) => UNIT_LABEL[u].en;
 
   const formatValue = (n: number): string => {
     if (!Number.isFinite(n)) return "—";
     // Small units (sq.m/sq.ft) read better with fewer decimals than
     // guntha/acre/hectare, which are usually small fractional numbers.
     const decimals = n >= 100 ? 0 : n >= 1 ? 2 : 4;
-    return n.toLocaleString(mr ? "mr-IN" : "en-IN", {
+    return n.toLocaleString("en-IN", {
       maximumFractionDigits: decimals,
     });
   };
@@ -76,14 +72,14 @@ function LandUnitCalculator() {
     <div className="space-y-6">
       <div className="grid gap-5 sm:grid-cols-2">
         <NumberField
-          label={mr ? "क्षेत्रफळ" : "Area"}
+          label="Area"
           value={value}
           onChange={setValue}
           min={0}
           step={0.01}
         />
         <SelectField
-          label={mr ? "एकक" : "Unit"}
+          label="Unit"
           value={unit}
           onChange={(v) => setUnit(v as LandAreaUnit)}
           options={LAND_AREA_UNITS.map((u) => ({ value: u, label: label(u) }))}
@@ -107,61 +103,18 @@ function LandUnitCalculator() {
 export function LandUnitContent() {
   return (
     <CalculatorPageShell
-      eyebrow={{ mr: "जमीन क्षेत्र साधन", en: "Land-area tool" }}
-      title={{
-        mr: "जमीन क्षेत्र रूपांतरक — गुंठा, एकर, हेक्टर, चौ. फूट",
-        en: "Land Unit Converter — Guntha, Acre, Hectare, Sq.ft",
-      }}
-      breadcrumb={{ mr: "जमीन क्षेत्र रूपांतरक", en: "Land Unit Converter" }}
-      intro={{
-        mr: "कोणतेही एकक टाका — गुंठा, एकर, हेक्टर, चौ. मीटर किंवा चौ. फूट — आणि इतर सर्व एककांतील समान क्षेत्रफळ लगेच पाहा.",
-        en: "Enter any unit — guntha, acre, hectare, sq.m or sq.ft — and instantly see the equivalent area in every other unit.",
-      }}
-      updatedAt={{ mr: "सप्टेंबर २०२६", en: "September 2026" }}
+      eyebrow="Land-area tool"
+      title="Land Unit Converter — Guntha, Acre, Hectare, Sq.ft"
+      breadcrumb="Land Unit Converter"
+      intro="Enter any unit — guntha, acre, hectare, sq.m or sq.ft — and instantly see the equivalent area in every other unit."
+      updatedAt="September 2026"
       calculator={<LandUnitCalculator />}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn />}
+      content={<Body />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="गुंठा, एकर, हेक्टर म्हणजे काय?">
-        <p>
-          महाराष्ट्रातील 7/12 उतारा व मिळकत पत्रिकांवर जमिनीचे क्षेत्रफळ बहुधा{" "}
-          <strong>गुंठा</strong>, <strong>हेक्टर-आर</strong> किंवा <strong>एकर</strong>{" "}
-          मध्ये नोंदलेले असते, तर प्लॉट/बांधकामाचे क्षेत्र सहसा{" "}
-          <strong>चौरस फूट</strong> मध्ये सांगितले जाते. हे साधन या सर्व
-          एककांमध्ये झटपट रूपांतर करते.
-        </p>
-      </ServiceSection>
-      <ServiceSection heading="हे साधन कसे वापरावे?">
-        <ServiceList
-          items={[
-            "क्षेत्रफळाचा आकडा टाका (उदा. 2.5).",
-            "तो आकडा कोणत्या एककात आहे ते निवडा (उदा. गुंठा).",
-            "इतर सर्व एककांतील समान क्षेत्रफळ लगेच खाली दिसते.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="महत्त्वाची सूचना">
-        <ServiceList
-          items={[
-            "हे रूपांतरण गणिती आहे — तुमच्या जमिनीचे प्रत्यक्ष क्षेत्र नेहमी अधिकृत 7/12 उतारा किंवा मोजणी नकाशावरून तपासा.",
-            "7/12 उतारा किंवा गाव नकाशासाठी PrintShubh वर WhatsApp सहाय्य उपलब्ध आहे.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={landUnitFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn() {
+function Body() {
   return (
     <>
       <ServiceSection heading="What are guntha, acre and hectare?">

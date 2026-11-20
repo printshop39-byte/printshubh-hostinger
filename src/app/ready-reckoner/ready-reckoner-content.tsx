@@ -6,7 +6,6 @@ import { AlertTriangle } from "lucide-react";
 import { CalculatorPageShell } from "@/components/calculators/calculator-page-shell";
 import { SelectField, NumberField, ResultStat } from "@/components/calculators/calculator-fields";
 import { ServiceSection, ServiceList, ServiceFaq } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 import { formatINR } from "@/lib/calculators/format";
 
 interface Category {
@@ -73,12 +72,12 @@ const readyReckonerFaqEn: Array<{ q: string; a: string }> = [
   },
 ];
 
-function SampleBanner({ mr, note }: { mr: boolean; note: string }) {
+function SampleBanner({ note }: { note: string }) {
   return (
     <div className="flex gap-3 rounded-lg border border-red-200 bg-red-50 p-4 text-[13.5px] leading-6 text-red-900">
       <AlertTriangle className="mt-0.5 size-4 shrink-0 text-red-600" />
       <p>
-        <strong>{mr ? "नमुना आकडेवारी — अधिकृत नाही. " : "Sample data — not official. "}</strong>
+        <strong>{"Sample data — not official. "}</strong>
         {note}
       </p>
     </div>
@@ -86,8 +85,6 @@ function SampleBanner({ mr, note }: { mr: boolean; note: string }) {
 }
 
 function ReadyReckonerLookup() {
-  const { lang } = useLang();
-  const mr = lang === "mr";
   const [data, setData] = useState<ReadyReckonerFile | null>(null);
   const [talukaIdx, setTalukaIdx] = useState(0);
   const [zoneIdx, setZoneIdx] = useState(0);
@@ -114,40 +111,40 @@ function ReadyReckonerLookup() {
   const value = useMemo(() => rate * (area > 0 ? area : 0), [rate, area]);
 
   if (!data) {
-    return <p className="text-sm text-slate-500">{mr ? "लोड होत आहे…" : "Loading…"}</p>;
+    return <p className="text-sm text-slate-500">Loading…</p>;
   }
 
   return (
     <div className="space-y-6">
-      {data.sample && <SampleBanner mr={mr} note={mr ? data.noteMr : data.note} />}
+      {data.sample && <SampleBanner note={data.note} />}
 
       <div className="grid gap-5 sm:grid-cols-3">
         <SelectField
-          label={mr ? `तालुका (जिल्हा: ${data.district.mr})` : `Taluka (District: ${data.district.en})`}
+          label={`Taluka (District: ${data.district.en})`}
           value={String(talukaIdx)}
           onChange={(v) => {
             setTalukaIdx(Number(v));
             setZoneIdx(0);
           }}
-          options={data.talukas.map((t, i) => ({ value: String(i), label: mr ? t.mr : t.en }))}
+          options={data.talukas.map((t, i) => ({ value: String(i), label: t.en }))}
         />
         <SelectField
-          label={mr ? "गाव / झोन" : "Village / zone"}
+          label="Village / zone"
           value={String(safeZoneIdx)}
           onChange={(v) => setZoneIdx(Number(v))}
-          options={(taluka?.zones ?? []).map((z, i) => ({ value: String(i), label: mr ? z.mr : z.en }))}
+          options={(taluka?.zones ?? []).map((z, i) => ({ value: String(i), label: z.en }))}
         />
         <SelectField
-          label={mr ? "वर्ग" : "Category"}
+          label="Category"
           value={category}
           onChange={setCategory}
-          options={data.categories.map((c) => ({ value: c.key, label: mr ? c.labelMr : c.labelEn }))}
+          options={data.categories.map((c) => ({ value: c.key, label: c.labelEn }))}
         />
       </div>
 
       {zone?.survey && (
         <p className="-mt-2 text-[12px] text-slate-500">
-          {mr ? "झोन संदर्भ: " : "Zone reference: "}
+          {"Zone reference: "}
           {zone.survey}
         </p>
       )}
@@ -157,7 +154,7 @@ function ReadyReckonerLookup() {
         {data.categories.map((c) => (
           <ResultStat
             key={c.key}
-            label={mr ? c.labelMr : c.labelEn}
+            label={c.labelEn}
             value={`${formatINR(zone?.rates[c.key] ?? 0)}/m²`}
             emphasis={c.key === category}
           />
@@ -166,7 +163,7 @@ function ReadyReckonerLookup() {
 
       <div className="grid items-end gap-5 sm:grid-cols-2">
         <NumberField
-          label={mr ? "क्षेत्रफळ" : "Area"}
+          label="Area"
           value={area}
           onChange={setArea}
           min={0}
@@ -174,18 +171,16 @@ function ReadyReckonerLookup() {
           suffix="m²"
         />
         <ResultStat
-          label={mr ? "अंदाजे रेडी रेकनर मूल्य" : "Estimated Ready Reckoner value"}
+          label="Estimated Ready Reckoner value"
           value={formatINR(value)}
           emphasis
         />
       </div>
 
       <p className="text-[13px] leading-6 text-slate-600">
-        {mr
-          ? "मुद्रांक शुल्क हे करारनामा मूल्य किंवा या रेडी रेकनर मूल्यापैकी जास्त रकमेवर लागते. "
-          : "Stamp duty applies on the higher of the agreement value and this Ready Reckoner value. "}
+        {"Stamp duty applies on the higher of the agreement value and this Ready Reckoner value. "}
         <Link href="/stamp-duty/" className="font-bold text-blue-700 underline">
-          {mr ? "मुद्रांक शुल्क मोजा →" : "Calculate stamp duty →"}
+          Calculate stamp duty →
         </Link>
       </p>
     </div>
@@ -195,58 +190,19 @@ function ReadyReckonerLookup() {
 export function ReadyReckonerContent() {
   return (
     <CalculatorPageShell
-      eyebrow={{ mr: "जमीन-मूल्य साधन", en: "Land-value tool" }}
-      title={{
-        mr: "रेडी रेकनर दर — कोल्हापूर (नमुना)",
-        en: "Ready Reckoner Rates — Kolhapur (Sample)",
-      }}
-      breadcrumb={{ mr: "रेडी रेकनर", en: "Ready Reckoner" }}
-      intro={{
-        mr: "तालुका व वर्ग निवडा — प्रति चौरस मीटर सरकारी दर आणि क्षेत्रफळावरून अंदाजे मूल्य पाहा. (सध्या नमुना दर.)",
-        en: "Pick a taluka and category — see the government rate per square metre and an estimated value from the area. (Currently sample rates.)",
-      }}
-      updatedAt={{ mr: "जून २०२६", en: "June 2026" }}
+      eyebrow="Land-value tool"
+      title="Ready Reckoner Rates — Kolhapur (Sample)"
+      breadcrumb="Ready Reckoner"
+      intro="Pick a taluka and category — see the government rate per square metre and an estimated value from the area. (Currently sample rates.)"
+      updatedAt="June 2026"
       calculator={<ReadyReckonerLookup />}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn />}
-      disclaimerExtra={{
-        mr: "या पानावरील दर नमुना आहेत; खरे ASR दर भरेपर्यंत व्यवहारासाठी वापरू नका.",
-        en: "Rates on this page are sample values; do not use for a transaction until real ASR rates are filled in.",
-      }}
+      content={<Body />}
+      disclaimerExtra="Rates on this page are sample values; do not use for a transaction until real ASR rates are filled in."
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="रेडी रेकनर म्हणजे काय?">
-        <p>
-          <strong>रेडी रेकनर दर</strong> (वार्षिक दर विवरणपत्र / ASR) हे IGR
-          महाराष्ट्रने दरवर्षी जाहीर केलेले किमान सरकारी जमीन-मूल्य आहेत. कोणत्याही
-          मालमत्तेच्या नोंदणीवेळी मुद्रांक शुल्क हे <em>करारनामा मूल्य</em> किंवा{" "}
-          <em>रेडी रेकनर मूल्य</em>, यापैकी जे जास्त असेल त्यावर आकारले जाते.
-        </p>
-      </ServiceSection>
-      <ServiceSection heading="हे साधन कसे वापरावे?">
-        <ServiceList
-          items={[
-            "तालुका निवडा (सध्या कोल्हापूर जिल्हा नमुना म्हणून).",
-            "गाव / झोन निवडा — खऱ्या ASR प्रमाणे दर झोननिहाय बदलतो.",
-            "वर्ग निवडा — शेतजमीन, निवासी भूखंड, निवासी बांधकाम किंवा व्यापारी बांधकाम.",
-            "क्षेत्रफळ (चौरस मीटर) टाका — अंदाजे मूल्य लगेच दिसते.",
-            "हेच मूल्य मुद्रांक शुल्क कॅल्क्युलेटरमध्ये वापरा.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={readyReckonerFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn() {
+function Body() {
   return (
     <>
       <ServiceSection heading="What is the Ready Reckoner?">

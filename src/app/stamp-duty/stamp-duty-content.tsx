@@ -6,7 +6,6 @@ import { AlertTriangle, RefreshCw } from "lucide-react";
 import { CalculatorPageShell } from "@/components/calculators/calculator-page-shell";
 import { NumberField, SelectField, Toggle, ResultStat } from "@/components/calculators/calculator-fields";
 import { ServiceSection, ServiceList, ServiceFaq } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 import { computeStampDuty } from "@/lib/calculators/stamp-duty";
 import { formatINR } from "@/lib/calculators/format";
 
@@ -94,8 +93,6 @@ const stampDutyFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 function StampDutyCalculator() {
-  const { lang } = useLang();
-  const mr = lang === "mr";
   const [cfg, setCfg] = useState<StampDutyFile | null>(null);
   const [status, setStatus] = useState<"loading" | "loaded" | "error">("loading");
   const [value, setValue] = useState(5_000_000);
@@ -177,7 +174,7 @@ function StampDutyCalculator() {
   if (status === "loading") {
     return (
       <p className="text-sm text-slate-500" role="status" aria-live="polite">
-        {mr ? "लोड होत आहे…" : "Loading…"}
+        Loading…
       </p>
     );
   }
@@ -195,14 +192,10 @@ function StampDutyCalculator() {
           <AlertTriangle className="mt-0.5 size-4 shrink-0 text-red-600" aria-hidden="true" />
           <div>
             <p className="font-bold">
-              {mr
-                ? "स्टॅम्प ड्युटीचे दर लोड करता आले नाहीत."
-                : "Stamp duty rates could not be loaded."}
+              Stamp duty rates could not be loaded.
             </p>
             <p className="mt-1">
-              {mr
-                ? "कृपया तुमचे इंटरनेट कनेक्शन तपासा आणि पुन्हा प्रयत्न करा."
-                : "Please check your internet connection and try again."}
+              Please check your internet connection and try again.
             </p>
             <button
               type="button"
@@ -210,7 +203,7 @@ function StampDutyCalculator() {
               className="mt-3 inline-flex h-11 items-center justify-center gap-2 rounded-md bg-red-600 px-4 text-sm font-bold text-white shadow-sm transition hover:bg-red-700 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 focus-visible:ring-offset-2"
             >
               <RefreshCw className="size-4" aria-hidden="true" />
-              {mr ? "पुन्हा प्रयत्न करा" : "Try again"}
+              Try again
             </button>
           </div>
         </div>
@@ -222,7 +215,7 @@ function StampDutyCalculator() {
     <div className="space-y-6">
       <div className="grid gap-5 sm:grid-cols-2">
         <NumberField
-          label={mr ? "मालमत्ता मूल्य (करारनामा / रेडी रेकनरपैकी जास्त)" : "Property value (higher of agreement / ready reckoner)"}
+          label="Property value (higher of agreement / ready reckoner)"
           value={value}
           onChange={setValue}
           min={0}
@@ -230,48 +223,48 @@ function StampDutyCalculator() {
           prefix="₹"
         />
         <SelectField
-          label={mr ? "स्थानिक स्वराज्य संस्था" : "Local body type"}
+          label="Local body type"
           value={areaKey}
           onChange={setAreaKey}
           options={cfg.areaTypes.map((a) => ({
             value: a.key,
-            label: `${mr ? a.labelMr : a.labelEn} (${a.stampPct}%)`,
+            label: `${a.labelEn} (${a.stampPct}%)`,
           }))}
         />
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2">
         <Toggle
-          label={mr ? "मेट्रो सेस लागू (+1%)" : "Apply metro cess (+1%)"}
+          label="Apply metro cess (+1%)"
           checked={metro}
           onChange={setMetro}
-          hint={(mr ? cfg.metroCitiesMr : cfg.metroCities).join(", ")}
+          hint={cfg.metroCities.join(", ")}
         />
         <Toggle
-          label={mr ? `महिला खरेदीदार (−${cfg.femaleRebatePct}%)` : `Female buyer (−${cfg.femaleRebatePct}%)`}
+          label={`Female buyer (−${cfg.femaleRebatePct}%)`}
           checked={female}
           onChange={setFemale}
-          hint={mr ? "निवासी मालमत्तेसाठी सवलत (अटी लागू)" : "Concession for residential property (conditions apply)"}
+          hint="Concession for residential property (conditions apply)"
         />
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         <ResultStat
-          label={mr ? `मुद्रांक शुल्क (${result.effectiveStampPct}%)` : `Stamp duty (${result.effectiveStampPct}%)`}
+          label={`Stamp duty (${result.effectiveStampPct}%)`}
           value={formatINR(result.stampDuty)}
         />
-        <ResultStat label={mr ? "मेट्रो सेस" : "Metro cess"} value={formatINR(result.metroCess)} />
+        <ResultStat label="Metro cess" value={formatINR(result.metroCess)} />
         <ResultStat
-          label={mr ? "नोंदणी शुल्क" : "Registration"}
+          label="Registration"
           value={formatINR(result.registration)}
         />
-        <ResultStat label={mr ? "एकूण" : "Total"} value={formatINR(result.total)} emphasis />
+        <ResultStat label="Total" value={formatINR(result.total)} emphasis />
       </div>
 
       <p className="text-[13px] leading-6 text-slate-600">
-        {mr ? "मूल्य माहीत नाही? " : "Don't know the value? "}
+        {"Don't know the value? "}
         <Link href="/ready-reckoner/" className="font-bold text-blue-700 underline">
-          {mr ? "रेडी रेकनर दराने मोजा →" : "Estimate it from Ready Reckoner rates →"}
+          Estimate it from Ready Reckoner rates →
         </Link>
       </p>
     </div>
@@ -281,65 +274,18 @@ function StampDutyCalculator() {
 export function StampDutyContent() {
   return (
     <CalculatorPageShell
-      eyebrow={{ mr: "नोंदणी साधन", en: "Registration tool" }}
-      title={{
-        mr: "मुद्रांक शुल्क कॅल्क्युलेटर — महाराष्ट्र",
-        en: "Stamp Duty Calculator — Maharashtra",
-      }}
-      breadcrumb={{ mr: "मुद्रांक शुल्क", en: "Stamp Duty" }}
-      intro={{
-        mr: "मालमत्ता मूल्य, स्थानिक स्वराज्य संस्था व पर्याय निवडा — मुद्रांक शुल्क, मेट्रो सेस, नोंदणी शुल्क व एकूण रक्कम लगेच पाहा.",
-        en: "Enter property value, local body type and options — see stamp duty, metro cess, registration fee and the total instantly.",
-      }}
-      updatedAt={{ mr: "जून २०२६", en: "June 2026" }}
+      eyebrow="Registration tool"
+      title="Stamp Duty Calculator — Maharashtra"
+      breadcrumb="Stamp Duty"
+      intro="Enter property value, local body type and options — see stamp duty, metro cess, registration fee and the total instantly."
+      updatedAt="June 2026"
       calculator={<StampDutyCalculator />}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn />}
+      content={<Body />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="मुद्रांक शुल्क कसे ठरते?">
-        <p>
-          मालमत्ता नोंदणीवेळी भरावे लागणारे <strong>मुद्रांक शुल्क</strong> हे{" "}
-          <em>करारनामा मूल्य</em> किंवा <em>रेडी रेकनर मूल्य</em>, यापैकी जे जास्त असेल
-          त्यावर आकारले जाते. दर हा मालमत्ता महानगरपालिका, नगरपालिका की ग्रामपंचायत
-          हद्दीत आहे यावर अवलंबून असतो. काही शहरांत 1% मेट्रो सेस अधिक लागतो, आणि
-          महिलेच्या नावावर निवासी मालमत्तेस 1% सवलत मिळते.
-        </p>
-      </ServiceSection>
-      <ServiceSection heading="हे साधन कसे वापरावे?">
-        <ServiceList
-          items={[
-            "मालमत्ता मूल्य टाका — करारनामा व रेडी रेकनर पैकी जास्त रक्कम.",
-            "स्थानिक स्वराज्य संस्था निवडा (महानगरपालिका / नगरपालिका / ग्रामपंचायत).",
-            "मालमत्ता मेट्रो शहरात असल्यास 'मेट्रो सेस' निवडा.",
-            "खरेदीदार महिला असल्यास 'महिला खरेदीदार' निवडा.",
-            "मुद्रांक शुल्क, सेस, नोंदणी व एकूण रक्कम लगेच दिसते.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "दर राज्याच्या अर्थसंकल्पात बदलू शकतात — व्यवहारापूर्वी IGR कार्यालयाकडून पडताळा.",
-            "नोंदणी शुल्क 1% पण कमाल ₹30,000 पर्यंत मर्यादित.",
-            "गिफ्ट डीड, भाडेकरार, गहाणखत यांचे दर वेगळे असतात — हे साधन विक्री व्यवहारासाठी आहे.",
-            "रेडी रेकनर मूल्यासाठी आमचे रेडी रेकनर साधन वापरा.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={stampDutyFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn() {
+function Body() {
   return (
     <>
       <ServiceSection heading="How is stamp duty decided?">

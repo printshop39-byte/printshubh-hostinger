@@ -4,7 +4,6 @@ import { useEffect, useMemo, useState } from "react";
 import { CalculatorPageShell } from "@/components/calculators/calculator-page-shell";
 import { NumberField, SliderField, ResultStat } from "@/components/calculators/calculator-fields";
 import { ServiceSection, ServiceList, ServiceFaq } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 import { computeEmi, formatINR } from "@/lib/calculators/emi";
 
 interface BankRate {
@@ -60,9 +59,6 @@ const emiFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 function EmiCalculator() {
-  const { lang } = useLang();
-  const mr = lang === "mr";
-
   const [amount, setAmount] = useState(2_500_000);
   const [rate, setRate] = useState(8.5);
   const [years, setYears] = useState(20);
@@ -98,7 +94,7 @@ function EmiCalculator() {
     <div className="space-y-6">
       <div className="grid gap-5 sm:grid-cols-3">
         <NumberField
-          label={mr ? "कर्जरक्कम" : "Loan amount"}
+          label="Loan amount"
           value={amount}
           onChange={setAmount}
           min={0}
@@ -106,7 +102,7 @@ function EmiCalculator() {
           prefix="₹"
         />
         <NumberField
-          label={mr ? "व्याजदर (वार्षिक)" : "Interest rate (p.a.)"}
+          label="Interest rate (p.a.)"
           value={rate}
           onChange={setRate}
           min={0}
@@ -115,40 +111,40 @@ function EmiCalculator() {
           suffix="%"
         />
         <SliderField
-          label={mr ? "मुदत" : "Tenure"}
+          label="Tenure"
           value={years}
           onChange={setYears}
           min={1}
           max={30}
           step={1}
-          display={mr ? `${years} वर्षे` : `${years} yr`}
+          display={`${years} yr`}
         />
       </div>
 
       <div className="grid gap-3 sm:grid-cols-3">
-        <ResultStat label={mr ? "मासिक EMI" : "Monthly EMI"} value={formatINR(result.emi)} emphasis />
-        <ResultStat label={mr ? "एकूण व्याज" : "Total interest"} value={formatINR(result.totalInterest)} />
-        <ResultStat label={mr ? "एकूण परतफेड" : "Total payment"} value={formatINR(result.totalPayment)} />
+        <ResultStat label="Monthly EMI" value={formatINR(result.emi)} emphasis />
+        <ResultStat label="Total interest" value={formatINR(result.totalInterest)} />
+        <ResultStat label="Total payment" value={formatINR(result.totalPayment)} />
       </div>
 
       {bankRows.length > 0 && (
         <div>
           <h3 className="mb-2 text-[15px] font-black text-slate-900">
-            {mr ? "बँकनिहाय EMI तुलना" : "Bank-wise EMI comparison"}
+            Bank-wise EMI comparison
           </h3>
           <div className="overflow-x-auto rounded-lg border border-slate-200">
             <table className="w-full text-left text-[14px]">
               <thead className="bg-slate-50 text-[12px] font-bold uppercase tracking-wide text-slate-500">
                 <tr>
-                  <th className="px-3 py-2.5">{mr ? "बँक" : "Bank"}</th>
-                  <th className="px-3 py-2.5 text-right">{mr ? "दर पासून" : "Rate from"}</th>
-                  <th className="px-3 py-2.5 text-right">{mr ? "मासिक EMI" : "Monthly EMI"}</th>
+                  <th className="px-3 py-2.5">Bank</th>
+                  <th className="px-3 py-2.5 text-right">Rate from</th>
+                  <th className="px-3 py-2.5 text-right">Monthly EMI</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-slate-100">
                 {bankRows.map((b) => (
                   <tr key={b.name} className="hover:bg-blue-50/40">
-                    <td className="px-3 py-2.5 font-semibold text-slate-800">{mr ? b.nameMr : b.name}</td>
+                    <td className="px-3 py-2.5 font-semibold text-slate-800">{b.name}</td>
                     <td className="px-3 py-2.5 text-right font-semibold text-slate-600">{b.roiFrom}%</td>
                     <td className="px-3 py-2.5 text-right font-black text-blue-800">{formatINR(b.emi)}</td>
                   </tr>
@@ -158,7 +154,7 @@ function EmiCalculator() {
           </div>
           {banks && (
             <p className="mt-2 text-[12px] leading-5 text-slate-500">
-              {mr ? banks.noteMr : banks.note}
+              {banks.note}
             </p>
           )}
         </div>
@@ -170,64 +166,18 @@ function EmiCalculator() {
 export function EmiContent() {
   return (
     <CalculatorPageShell
-      eyebrow={{ mr: "गृहकर्ज साधन", en: "Home-loan tool" }}
-      title={{
-        mr: "गृहकर्ज EMI कॅल्क्युलेटर — बँक तुलना",
-        en: "Home-loan EMI Calculator — Bank Comparison",
-      }}
-      breadcrumb={{ mr: "गृहकर्ज EMI", en: "Home-loan EMI" }}
-      intro={{
-        mr: "कर्जरक्कम, व्याजदर आणि मुदत टाका — मासिक EMI, एकूण व्याज आणि बँकनिहाय तुलना लगेच पाहा.",
-        en: "Enter loan amount, interest rate and tenure — see your monthly EMI, total interest and a bank-wise comparison instantly.",
-      }}
-      updatedAt={{ mr: "जून २०२६", en: "June 2026" }}
+      eyebrow="Home-loan tool"
+      title="Home-loan EMI Calculator — Bank Comparison"
+      breadcrumb="Home-loan EMI"
+      intro="Enter loan amount, interest rate and tenure — see your monthly EMI, total interest and a bank-wise comparison instantly."
+      updatedAt="June 2026"
       calculator={<EmiCalculator />}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn />}
+      content={<Body />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="EMI म्हणजे काय?">
-        <p>
-          <strong>EMI (Equated Monthly Instalment)</strong> म्हणजे कर्ज फेडण्यासाठी
-          दर महिन्याला भरावी लागणारी ठरलेली रक्कम. यात मुद्दल आणि व्याज दोन्ही समाविष्ट
-          असतात. सुरुवातीला व्याजाचा भाग जास्त असतो आणि मुदतीच्या शेवटी मुद्दलाचा भाग
-          वाढत जातो — याला <em>रिड्युसिंग बॅलन्स</em> पद्धत म्हणतात.
-        </p>
-      </ServiceSection>
-      <ServiceSection heading="हे साधन कसे वापरावे?">
-        <ServiceList
-          items={[
-            "कर्जरक्कम टाका (उदा. ₹25,00,000).",
-            "बँकेचा वार्षिक व्याजदर टाका (उदा. 8.5%).",
-            "मुदत स्लायडरने निवडा (1 ते 30 वर्षे).",
-            "मासिक EMI, एकूण व्याज आणि एकूण परतफेड लगेच दिसते.",
-            "खालील तक्त्यात प्रत्येक बँकेच्या सुरुवातीच्या दरावर EMI ची तुलना करा.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "दाखवलेले बँक दर अंदाजे आहेत — प्रत्यक्ष दर CIBIL स्कोअर व उत्पन्नावर अवलंबून.",
-            "प्रोसेसिंग फी, विमा आणि इतर शुल्क EMI मध्ये धरलेले नाहीत.",
-            "फ्लोटिंग दरात रेपो दर बदलल्यास EMI किंवा मुदत बदलू शकते.",
-            "स्टॅम्प ड्युटी व नोंदणी शुल्कासाठी आमचे स्टॅम्प ड्युटी कॅल्क्युलेटर वापरा.",
-          ]}
-        />
-      </ServiceSection>
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={emiFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn() {
+function Body() {
   return (
     <>
       <ServiceSection heading="What is an EMI?">
