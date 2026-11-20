@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { GeistSans } from "geist/font/sans";
 import { GeistMono } from "geist/font/mono";
 import localFont from "next/font/local";
@@ -12,6 +11,7 @@ import { ClarityAnalytics } from "@/components/clarity-analytics";
 import { MobileBottomNav } from "@/components/mobile-bottom-nav";
 import { HydrationFlag } from "@/components/hydration-flag";
 import { LocalBusinessJsonLd } from "@/components/shop/local-business-jsonld";
+import { LegacyPriceAssistant } from "@/components/legacy-price-assistant";
 
 /* GeistSans / GeistMono come from the "geist" npm package (official Vercel
  * package) rather than next/font/google. The package itself wraps
@@ -258,7 +258,7 @@ export default function RootLayout({
           {/* App-style sticky bottom nav — mobile only */}
           <MobileBottomNav />
         </LanguageProvider>
-        <Script src="/price-assistant.js" strategy="afterInteractive" />
+        <LegacyPriceAssistant />
       </body>
     </html>
   );

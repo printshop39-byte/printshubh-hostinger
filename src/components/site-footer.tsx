@@ -302,7 +302,7 @@ export function SiteFooter() {
                       href={SHOP_ADDRESS.directionsUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="mt-2 inline-flex items-center gap-1.5 font-black text-brand-gold transition hover:text-brand-gold"
+                      className="mt-2 inline-flex min-h-[44px] items-center gap-1.5 font-black text-brand-gold transition hover:text-brand-gold"
                     >
                       <Navigation className="size-3.5" aria-hidden="true" />
                       {t.directions}

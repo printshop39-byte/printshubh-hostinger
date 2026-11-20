@@ -45,7 +45,7 @@ export function MobileServiceShortcuts() {
           <Link
             key={tool.href}
             href={tool.href}
-            className="inline-flex min-h-[40px] shrink-0 items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3.5 py-2 text-[13px] font-bold text-slate-700 transition active:bg-slate-50"
+            className="inline-flex min-h-[44px] shrink-0 items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3.5 py-2 text-[13px] font-bold text-slate-700 transition active:bg-slate-50"
           >
             <span aria-hidden="true">{tool.emoji}</span>
             {tool.label[lang]}

@@ -171,21 +171,21 @@ export function SiteHeader() {
       }`}
     >
       <div
-        className={`relative z-10 mx-auto flex max-w-7xl items-center justify-between gap-3 bg-inherit px-5 transition-all duration-300 sm:px-8 ${
+        className={`relative z-10 mx-auto flex max-w-7xl items-center justify-between gap-2 bg-inherit px-4 transition-all duration-300 sm:gap-3 sm:px-8 ${
           scrolled ? "h-14" : "h-[68px]"
         }`}
       >
         {/* Brand */}
         <Link
           href="/"
-          className="flex min-h-[44px] min-w-0 items-center gap-2.5"
+          className="flex min-h-[44px] min-w-0 items-center gap-2 sm:gap-2.5"
           onClick={() => setOpen(false)}
         >
-          <span className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-brand-navy to-brand-navy text-base font-black text-white shadow-sm">
+          <span className="flex size-9 shrink-0 items-center justify-center rounded-lg max-[370px]:size-8 bg-gradient-to-br from-brand-navy to-brand-navy text-base font-black text-white shadow-sm">
             P
           </span>
           <span className="min-w-0 leading-none">
-            <span className="block truncate text-[17px] font-black tracking-tight text-slate-950">
+            <span className="block truncate text-[16px] font-black tracking-tight text-slate-950 max-[370px]:text-[14px] sm:text-[17px]">
               PRINTSHUBH
             </span>
             <span className="mt-0.5 hidden text-[10px] font-black uppercase tracking-[0.18em] text-brand-navy sm:block">
@@ -208,7 +208,7 @@ export function SiteHeader() {
         </nav>
 
         {/* Right cluster */}
-        <div className="flex shrink-0 items-center gap-2">
+        <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
           <SiteSearch />
 
           <div className="inline-flex overflow-hidden rounded-lg border border-slate-300 text-[11px] font-black">
@@ -219,7 +219,7 @@ export function SiteHeader() {
                 onClick={() => setLang(code)}
                 aria-pressed={lang === code}
                 aria-label={code === "mr" ? "मराठी" : "English"}
-                className={`inline-flex min-h-[44px] min-w-[44px] items-center justify-center px-2.5 transition ${
+                className={`inline-flex min-h-[44px] min-w-[44px] items-center justify-center px-2 transition sm:px-2.5 ${
                   lang === code
                     ? "bg-brand-navy text-white"
                     : "bg-white text-slate-700 hover:bg-slate-50"

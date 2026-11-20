@@ -594,14 +594,16 @@ body {
    choreography further down the page, where hydration timing is
    irrelevant. See src/components/shop/motion.tsx. */
 
-/* ── Entrance: fade + short lift, starts at first paint ── */
+/* ── Entrance: short lift, starts at first paint ──
+   There is deliberately NO opacity in this keyframe. A fade starts from
+   opacity 0, so anything that stalls the animation clock (a tab opened in the
+   background, an in-app browser, a slow first paint) left the headline and the
+   WhatsApp button invisible. A lift alone leaves the text readable at once. */
 @keyframes ps-enter {
   from {
-    opacity: 0;
     transform: translate3d(0, 14px, 0);
   }
   to {
-    opacity: 1;
     transform: none;
   }
 }
