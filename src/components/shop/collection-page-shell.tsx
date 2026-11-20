@@ -16,7 +16,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { useMemo, useRef, useState } from "react";
 import { ChevronRight, Home, MessageCircle, Ruler } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
@@ -27,134 +26,93 @@ import { COLLECTIONS, hasCollectionPhotos, type Collection } from "@/lib/collect
 import { CollectionVisual } from "@/components/shop/collection-visual";
 import { Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 
-const t: Record<
-  Lang,
-  {
-    home: string;
-    collections: string;
-    eyebrow: string;
-    appsHeading: string;
-    materialHeading: string;
-    galleryHeading: string;
-    customSizeHeading: string;
-    customSizeBody: string;
-    ctaAsk: string;
-    ctaCustomSize: string;
-    relatedHeading: string;
-    note: string;
-    formHeading: string;
-    formBody: string;
-    nameLabel: string;
-    namePlaceholder: string;
-    mobileLabel: string;
-    mobilePlaceholder: string;
-    collectionLabel: string;
-    widthLabel: string;
-    heightLabel: string;
-    unitLabel: string;
-    unitFeet: string;
-    unitInch: string;
-    unitCm: string;
-    qtyLabel: string;
-    materialLabel: string;
-    materialPlaceholder: string;
-    notesLabel: string;
-    notesPlaceholder: string;
-    previewLabel: string;
-    nameRequiredNote: string;
-    sendCta: string;
-  }
-> = {
-  mr: {
-    home: "मुख्यपृष्ठ",
-    collections: "Collections",
-    eyebrow: "Premium Collection",
-    appsHeading: "कुठे वापरले जाते",
-    materialHeading: "मटेरियल माहिती",
-    galleryHeading: "नमुने",
-    customSizeHeading: "सानुकूल आकार हवा आहे?",
-    customSizeBody: "तुमचे माप WhatsApp वर पाठवा — किंमत आणि उपलब्धता कळवली जाईल.",
-    ctaAsk: "Get Quote / WhatsApp Enquiry",
-    ctaCustomSize: "सानुकूल आकारासाठी विचारा",
-    relatedHeading: "इतर Collections",
-    note: "किंमत मागणीनुसार कळवली जाते — इथे कोणतीही किंमत अंदाजाने दाखवलेली नाही.",
-    formHeading: "Quick Enquiry Form",
-    formBody: "खालील माहिती भरा — WhatsApp वर पाठवण्यापूर्वी मजकूर इथे दिसेल. नाव वगळता सर्व माहिती ऐच्छिक आहे.",
-    nameLabel: "नाव",
-    namePlaceholder: "तुमचे नाव",
-    mobileLabel: "मोबाईल नंबर (ऐच्छिक)",
-    mobilePlaceholder: "10-अंकी मोबाईल नंबर",
-    collectionLabel: "Collection",
-    widthLabel: "रुंदी (ऐच्छिक)",
-    heightLabel: "उंची (ऐच्छिक)",
-    unitLabel: "एकक",
-    unitFeet: "फूट",
-    unitInch: "इंच",
-    unitCm: "सेमी",
-    qtyLabel: "प्रमाण",
-    materialLabel: "Material / Finish (ऐच्छिक)",
-    materialPlaceholder: "निवडा",
-    notesLabel: "अतिरिक्त सूचना (ऐच्छिक)",
-    notesPlaceholder: "डिझाइन, रंग किंवा इतर तपशील",
-    previewLabel: "WhatsApp Message Preview",
-    nameRequiredNote: "WhatsApp वर पाठवण्यासाठी नाव भरणे आवश्यक आहे.",
-    sendCta: "WhatsApp वर पाठवा",
-  },
-  en: {
-    home: "Home",
-    collections: "Collections",
-    eyebrow: "Premium Collection",
-    appsHeading: "Where it's used",
-    materialHeading: "Material information",
-    galleryHeading: "Samples",
-    customSizeHeading: "Need a custom size?",
-    customSizeBody: "Send your measurements on WhatsApp — price and availability will be confirmed.",
-    ctaAsk: "Get Quote / WhatsApp Enquiry",
-    ctaCustomSize: "Ask about a custom size",
-    relatedHeading: "Other collections",
-    note: "Pricing is shared on request — no figure on this page is an estimate.",
-    formHeading: "Quick Enquiry Form",
-    formBody: "Fill in what you can — the WhatsApp message is shown below before you send it. Only your name is required.",
-    nameLabel: "Name",
-    namePlaceholder: "Your name",
-    mobileLabel: "Mobile number (optional)",
-    mobilePlaceholder: "10-digit mobile number",
-    collectionLabel: "Collection",
-    widthLabel: "Width (optional)",
-    heightLabel: "Height (optional)",
-    unitLabel: "Unit",
-    unitFeet: "Feet",
-    unitInch: "Inch",
-    unitCm: "CM",
-    qtyLabel: "Quantity",
-    materialLabel: "Material / Finish (optional)",
-    materialPlaceholder: "Select",
-    notesLabel: "Additional instructions (optional)",
-    notesPlaceholder: "Design, colour or other details",
-    previewLabel: "WhatsApp Message Preview",
-    nameRequiredNote: "Name is required before sending on WhatsApp.",
-    sendCta: "Send on WhatsApp",
-  },
+const t: {
+  home: string;
+  collections: string;
+  eyebrow: string;
+  appsHeading: string;
+  materialHeading: string;
+  galleryHeading: string;
+  customSizeHeading: string;
+  customSizeBody: string;
+  ctaAsk: string;
+  ctaCustomSize: string;
+  relatedHeading: string;
+  note: string;
+  formHeading: string;
+  formBody: string;
+  nameLabel: string;
+  namePlaceholder: string;
+  mobileLabel: string;
+  mobilePlaceholder: string;
+  collectionLabel: string;
+  widthLabel: string;
+  heightLabel: string;
+  unitLabel: string;
+  unitFeet: string;
+  unitInch: string;
+  unitCm: string;
+  qtyLabel: string;
+  materialLabel: string;
+  materialPlaceholder: string;
+  notesLabel: string;
+  notesPlaceholder: string;
+  previewLabel: string;
+  nameRequiredNote: string;
+  sendCta: string;
+} = {
+  home: "Home",
+  collections: "Collections",
+  eyebrow: "Premium Collection",
+  appsHeading: "Where it's used",
+  materialHeading: "Material information",
+  galleryHeading: "Samples",
+  customSizeHeading: "Need a custom size?",
+  customSizeBody: "Send your measurements on WhatsApp — price and availability will be confirmed.",
+  ctaAsk: "Get Quote / WhatsApp Enquiry",
+  ctaCustomSize: "Ask about a custom size",
+  relatedHeading: "Other collections",
+  note: "Pricing is shared on request — no figure on this page is an estimate.",
+  formHeading: "Quick Enquiry Form",
+  formBody: "Fill in what you can — the WhatsApp message is shown below before you send it. Only your name is required.",
+  nameLabel: "Name",
+  namePlaceholder: "Your name",
+  mobileLabel: "Mobile number (optional)",
+  mobilePlaceholder: "10-digit mobile number",
+  collectionLabel: "Collection",
+  widthLabel: "Width (optional)",
+  heightLabel: "Height (optional)",
+  unitLabel: "Unit",
+  unitFeet: "Feet",
+  unitInch: "Inch",
+  unitCm: "CM",
+  qtyLabel: "Quantity",
+  materialLabel: "Material / Finish (optional)",
+  materialPlaceholder: "Select",
+  notesLabel: "Additional instructions (optional)",
+  notesPlaceholder: "Design, colour or other details",
+  previewLabel: "WhatsApp Message Preview",
+  nameRequiredNote: "Name is required before sending on WhatsApp.",
+  sendCta: "Send on WhatsApp",
 };
 
 export function CollectionPageShell({ collection }: { collection: Collection }) {
-  const { lang } = useLang();
-  const tx = t[lang];
+  const tx = t;
 
   const sectionRef = useRef<HTMLElement>(null);
   useFunnelViewEvent(sectionRef, "collection_page_view", {
-    lang,
+    lang: "en",
     surface: "collection-page",
     service_key: collection.key,
   });
 
   const waHref = buildWhatsAppUrl({
-    message: collection.whatsappMessage[lang],
+    message: collection.whatsappMessage.en,
     campaign: collection.slug,
     content: "enquiry",
   });
   const waHrefCustomSize = buildWhatsAppUrl({
-    message: collection.customSizeMessage[lang],
+    message: collection.customSizeMessage.en,
     campaign: collection.slug,
     content: "custom-size",
   });
@@ -178,8 +136,8 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
 
   const formPreview = useMemo(() => {
     const lines: string[] = [
-      lang === "mr" ? "नमस्कार PrintShubh, मला खालील Quick Enquiry साठी किंमत हवी आहे." : "Hello PrintShubh, I'd like a quote for this quick enquiry.",
-      `${tx.collectionLabel}: ${collection.title[lang]}`,
+      "Hello PrintShubh, I'd like a quote for this quick enquiry.",
+      `${tx.collectionLabel}: ${collection.title.en}`,
     ];
     if (formName.trim()) lines.push(`${tx.nameLabel}: ${formName.trim()}`);
     if (formMobile.trim()) lines.push(`${tx.mobileLabel.replace(/\s*\(.*?\)\s*/, "")}: ${formMobile.trim()}`);
@@ -187,13 +145,13 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
       const w = formWidth.trim();
       const h = formHeight.trim();
       const size = w && h ? `${w} x ${h}` : w || h;
-      lines.push(`${lang === "mr" ? "माप" : "Size"}: ${size} ${unitLabelFor(formUnit)}`);
+      lines.push(`Size: ${size} ${unitLabelFor(formUnit)}`);
     }
     lines.push(`${tx.qtyLabel}: ${formQty.trim() || "1"}`);
     if (formMaterial.trim()) lines.push(`${tx.materialLabel.replace(/\s*\(.*?\)\s*/, "")}: ${formMaterial.trim()}`);
     if (formNotes.trim()) lines.push(`${tx.notesLabel.replace(/\s*\(.*?\)\s*/, "")}: ${formNotes.trim()}`);
     return lines.join("\n");
-  }, [lang, tx, collection, formName, formMobile, formWidth, formHeight, formUnit, formQty, formMaterial, formNotes]);
+  }, [tx, collection, formName, formMobile, formWidth, formHeight, formUnit, formQty, formMaterial, formNotes]);
 
   const formSendHref = buildWhatsAppUrl({
     message: formPreview,
@@ -219,7 +177,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                 {tx.collections}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
-              <span className="text-slate-700">{collection.shortTitle[lang]}</span>
+              <span className="text-slate-700">{collection.shortTitle.en}</span>
             </nav>
 
             <div className="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
@@ -228,13 +186,13 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                   {tx.eyebrow}
                 </p>
                 <h1 className="mt-2 text-3xl font-black leading-tight text-slate-950 sm:text-4xl">
-                  {collection.title[lang]}
+                  {collection.title.en}
                 </h1>
                 <p className="mt-3 max-w-xl text-base leading-7 text-slate-600">
-                  {collection.tagline[lang]}
+                  {collection.tagline.en}
                 </p>
                 <p className="mt-4 max-w-xl text-[15px] leading-7 text-slate-600">
-                  {collection.description[lang]}
+                  {collection.description.en}
                 </p>
 
                 <div className="mt-6 flex flex-col gap-3 sm:flex-row">
@@ -245,7 +203,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     onClick={() => {
                       trackWhatsAppLead();
                       trackFunnelEvent("collection_whatsapp_click", {
-                        lang,
+                        lang: "en",
                         surface: "collection-page",
                         service_key: collection.key,
                       });
@@ -261,7 +219,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
 
               <Reveal delay={0.1}>
                 <div className="aspect-[4/3] w-full">
-                  <CollectionVisual collectionKey={collection.key} shortTitle={collection.shortTitle[lang]} />
+                  <CollectionVisual collectionKey={collection.key} shortTitle={collection.shortTitle.en} />
                 </div>
               </Reveal>
             </div>
@@ -280,7 +238,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                 {collection.applications.map((app) => (
                   <StaggerItem as="li" key={app.en}>
                     <div className="ps-glass flex h-full items-center rounded-2xl px-3.5 py-3 text-[13.5px] font-bold leading-5 text-slate-800">
-                      {app[lang]}
+                      {app.en}
                     </div>
                   </StaggerItem>
                 ))}
@@ -298,7 +256,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                   <StaggerItem as="li" key={info.en}>
                     <div className="ps-glass flex items-center gap-3 rounded-2xl px-4 py-3 text-[14px] font-semibold leading-5 text-slate-700">
                       <Ruler className="size-4 shrink-0 text-brand-navy" aria-hidden="true" />
-                      {info[lang]}
+                      {info.en}
                     </div>
                   </StaggerItem>
                 ))}
@@ -323,7 +281,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                       <div className="aspect-[4/3] overflow-hidden">
                         <Image
                           src={photo.src}
-                          alt={photo.alt[lang]}
+                          alt={photo.alt.en}
                           width={photo.width}
                           height={photo.height}
                           loading="lazy"
@@ -349,7 +307,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                 onClick={() => {
                   trackWhatsAppLead();
                   trackFunnelEvent("collection_whatsapp_click", {
-                    lang,
+                    lang: "en",
                     surface: "collection-page",
                     service_key: collection.key,
                   });
@@ -395,7 +353,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                   <span className="mb-1.5 block font-semibold text-slate-700">{tx.collectionLabel}</span>
                   <input
                     type="text"
-                    value={collection.title[lang]}
+                    value={collection.title.en}
                     readOnly
                     className="w-full rounded-lg border border-slate-200 bg-slate-50 px-3 py-2.5 text-[15px] text-slate-600"
                   />
@@ -459,8 +417,8 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     >
                       <option value="">{tx.materialPlaceholder}</option>
                       {collection.materialOptions.map((opt) => (
-                        <option key={opt[lang]} value={opt[lang]}>
-                          {opt[lang]}
+                        <option key={opt.en} value={opt.en}>
+                          {opt.en}
                         </option>
                       ))}
                     </select>
@@ -496,7 +454,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                   onClick={() => {
                     trackWhatsAppLead();
                     trackFunnelEvent("collection_whatsapp_click", {
-                      lang,
+                      lang: "en",
                       surface: "collection-page",
                       service_key: collection.key,
                     });
@@ -536,7 +494,7 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     <span className="text-[13px] font-black uppercase tracking-[0.08em] text-brand-navy">
                       {tx.eyebrow}
                     </span>
-                    <span className="text-[15px] font-black text-slate-950">{rc.shortTitle[lang]}</span>
+                    <span className="text-[15px] font-black text-slate-950">{rc.shortTitle.en}</span>
                   </Link>
                 </StaggerItem>
               ))}

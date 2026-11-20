@@ -17,7 +17,7 @@
 
 import Link from "next/link";
 import { ChevronRight, Home, MessageCircle } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
+import type { Lang } from "@/components/language-context";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
@@ -28,24 +28,12 @@ import { ShopGallery } from "@/components/shop/shop-gallery";
 import { VisitShop } from "@/components/shop/visit-shop";
 import { Magnetic, Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 
-const chrome: Record<
-  Lang,
-  { home: string; services: string; whatIs: string; askPrice: string; faqHeading: string }
-> = {
-  mr: {
-    home: "मुख्यपृष्ठ",
-    services: "सेवा",
-    whatIs: "काय काय मिळेल",
-    askPrice: "WhatsApp वर किंमत विचारा",
-    faqHeading: "नेहमी विचारले जाणारे प्रश्न",
-  },
-  en: {
-    home: "Home",
-    services: "Services",
-    whatIs: "What you can get",
-    askPrice: "Ask the price on WhatsApp",
-    faqHeading: "Frequently asked questions",
-  },
+const chrome: { home: string; services: string; whatIs: string; askPrice: string; faqHeading: string } = {
+  home: "Home",
+  services: "Services",
+  whatIs: "What you can get",
+  askPrice: "Ask the price on WhatsApp",
+  faqHeading: "Frequently asked questions",
 };
 
 export interface ShopServicePageProps {
@@ -68,12 +56,11 @@ export function ShopServicePage({
   steps,
   faq,
 }: ShopServicePageProps) {
-  const { lang } = useLang();
-  const c = chrome[lang];
+  const c = chrome;
   const group = serviceGroup(groupKey);
 
   const waHref = buildWhatsAppUrl({
-    message: group.whatsapp[lang],
+    message: group.whatsapp.en,
     campaign: groupKey,
   });
 
@@ -100,26 +87,26 @@ export function ShopServicePage({
                 {c.services}
               </Link>
               <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />
-              <span className="text-slate-700">{group.title[lang]}</span>
+              <span className="text-slate-700">{group.title.en}</span>
             </nav>
 
             <p className="ps-enter mt-6 inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-white/80 px-3.5 py-1.5 text-[12.5px] font-black text-brand-navy shadow-sm">
               <span aria-hidden="true">{group.emoji}</span>
-              {group.title[lang]}
+              {group.title.en}
             </p>
 
             <h1
               className="ps-enter mt-5 max-w-3xl text-4xl font-black leading-[1.06] tracking-[-0.02em] text-slate-950 sm:text-5xl"
               style={{ "--ps-delay": "70ms" } as React.CSSProperties}
             >
-              {title[lang]}
+              {title.en}
             </h1>
 
             <p
               className="ps-enter mt-5 max-w-2xl text-lg leading-8 text-slate-700"
               style={{ "--ps-delay": "140ms" } as React.CSSProperties}
             >
-              {intro[lang]}
+              {intro.en}
             </p>
 
             <div
@@ -160,11 +147,11 @@ export function ShopServicePage({
                         href={item.href}
                         className="text-[15.5px] font-black text-slate-900 underline-offset-4 transition hover:text-brand-navy hover:underline"
                       >
-                        {item.label[lang]}
+                        {item.label.en}
                       </Link>
                     ) : (
                       <p className="text-[15.5px] font-black text-slate-900">
-                        {item.label[lang]}
+                        {item.label.en}
                       </p>
                     )}
                   </div>
@@ -178,7 +165,7 @@ export function ShopServicePage({
         <section className="border-y border-slate-200 bg-brand-cream px-5 py-16 sm:px-8 lg:py-20">
           <div className="mx-auto max-w-5xl">
             <Stagger as="ol" className="grid gap-3 sm:grid-cols-3">
-              {steps[lang].map((step, i) => (
+              {steps.en.map((step, i) => (
                 <StaggerItem as="li" key={step}>
                   <div className="flex h-full items-start gap-3.5 rounded-2xl border border-slate-200 bg-white px-5 py-5">
                     <span
@@ -206,7 +193,7 @@ export function ShopServicePage({
               </h2>
             </Reveal>
             <dl className="mt-8 divide-y divide-slate-200 border-y border-slate-200">
-              {faq[lang].map((pair) => (
+              {faq.en.map((pair) => (
                 <div key={pair.q} className="py-5">
                   <dt className="text-[16.5px] font-black text-slate-950">{pair.q}</dt>
                   <dd className="mt-2 text-[15px] leading-7 text-slate-600">{pair.a}</dd>
