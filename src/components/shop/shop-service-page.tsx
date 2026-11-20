@@ -90,13 +90,13 @@ export function ShopServicePage({
             >
               <Link
                 href="/"
-                className="inline-flex items-center gap-1 transition hover:text-brand-navy"
+                className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-brand-navy"
               >
                 <Home className="size-3.5" aria-hidden="true" />
                 {c.home}
               </Link>
               <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />
-              <Link href="/#services" className="transition hover:text-brand-navy">
+              <Link href="/#services" className="py-3.5 -my-3.5 transition hover:text-brand-navy">
                 {c.services}
               </Link>
               <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />

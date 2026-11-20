@@ -42,9 +42,9 @@ const tx: Record<Lang, {
     cardServiceAreaTitle: "सेवा क्षेत्र",
     cardServiceAreaBody: "महाराष्ट्रभर ऑनलाइन / WhatsApp सहाय्य",
     trustLine:
-      "मागील ३० वर्षांपासून नकाशे, जमीन अभिलेख आणि सरकारी कागदपत्र प्रक्रियेचा अनुभव असलेल्या टीमकडून महाराष्ट्रासाठी विश्वासार्ह सहाय्य.",
+      "महाराष्ट्रासाठी विश्वासार्ह सहाय्य. PRINTSHUBH १९९६ पासून कोल्हापुरात ग्राहकांना सेवा देत आहे.",
     hoursTitle: "कामकाजाचे तास",
-    hours: "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00 · रविवारी मर्यादित सेवा",
+    hours: "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00 · रविवारी बंद",
     waMsg: "नमस्कार, मला PrintShubh सेवेबद्दल माहिती हवी आहे.",
     whenToCallTitle: "कधी संपर्क करावा",
     whenToCallBody:
@@ -66,9 +66,9 @@ const tx: Record<Lang, {
     cardServiceAreaTitle: "Service Area",
     cardServiceAreaBody: "Online / WhatsApp assistance across Maharashtra",
     trustLine:
-      "Trusted assistance for Maharashtra, backed by 30 years of experience in maps, land records, and government document workflows.",
+      "Trusted assistance for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
     hoursTitle: "Working hours",
-    hours: "Monday to Saturday · 9:00 AM to 9:00 PM · Limited service on Sundays",
+    hours: "Monday to Saturday · 9:00 AM to 9:00 PM · Closed on Sundays",
     waMsg: "Hello, I would like to know about PrintShubh services.",
     whenToCallTitle: "When to contact",
     whenToCallBody:
@@ -105,7 +105,7 @@ function ContactBody({
 }) {
   return (
     <>
-      {/* Trust line — 30 years experience */}
+      {/* Trust line — in business since 1996 */}
       <div className="mb-6 rounded-lg border border-brand-gold-light bg-brand-cream p-4 text-[14px] font-semibold leading-7 text-brand-navy">
         <ShieldCheck className="mr-1.5 inline size-4 text-brand-navy" />
         {t.trustLine}

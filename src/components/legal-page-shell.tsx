@@ -61,7 +61,7 @@ export function LegalPageShell({
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
               <Link
                 href="/"
-                className="inline-flex items-center gap-1 transition hover:text-brand-navy"
+                className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-brand-navy"
               >
                 <Home className="size-3.5" />
                 {homeLabel[t]}

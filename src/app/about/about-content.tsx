@@ -9,8 +9,8 @@ import {
 import { type Lang } from "@/components/language-context";
 
 const trustLine: Record<Lang, string> = {
-  mr: "मागील ३० वर्षांपासून नकाशे, जमीन अभिलेख आणि सरकारी कागदपत्र प्रक्रियेचा अनुभव असलेल्या टीमकडून महाराष्ट्रासाठी विश्वासार्ह सहाय्य.",
-  en: "Trusted assistance for Maharashtra, backed by 30 years of experience in maps, land records, and government document workflows.",
+  mr: "महाराष्ट्रासाठी विश्वासार्ह सहाय्य. PRINTSHUBH १९९६ पासून कोल्हापुरात ग्राहकांना सेवा देत आहे.",
+  en: "Trusted assistance for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
 };
 
 export function AboutContent() {
@@ -81,9 +81,9 @@ function AboutBody({ lang }: { lang: Lang }) {
 
         <LegalSection heading="आमच्या टीमचा अनुभव">
           <p>
-            PrintShubh टीमकडे नकाशे, जमीन अभिलेख आणि सरकारी कागदपत्र प्रक्रियेचा
-            <strong> मागील ३० वर्षांचा अनुभव </strong>आहे. महसूल नोंदी, सर्वे
-            नंबर, DP / TP योजना, मिळकत पत्रिका आणि फेरफार प्रक्रिया यांचे
+            PRINTSHUBH <strong>१९९६ पासून</strong> कोल्हापुरात ग्राहकांना सेवा देत
+            आहे. टीमला नकाशे, जमीन अभिलेख आणि कागदपत्र सेवांची प्रत्यक्ष ओळख आहे.
+            महसूल नोंदी, सर्वे नंबर, DP / TP योजना, मिळकत पत्रिका आणि फेरफार प्रक्रिया यांचे
             व्यवहारिक ज्ञान आमच्या प्रत्येक सेवेच्या मागे आहे — त्यामुळेच आमचे
             उत्तर केवळ कागदी नसून प्रत्यक्ष कामासाठी उपयुक्त असते.
           </p>
@@ -185,9 +185,9 @@ function AboutBody({ lang }: { lang: Lang }) {
 
       <LegalSection heading="Our team's experience">
         <p>
-          The PrintShubh team brings
-          <strong> 30 years of experience </strong>working with maps, land
-          records and government document workflows — revenue entries, survey
+          PRINTSHUBH has served customers in Kolhapur <strong>since 1996</strong>.
+          The team brings practical familiarity with maps, land records and
+          document services — revenue entries, survey
           numbers, DP / TP plans, property cards, and mutation procedures. That
           practical familiarity is behind every service we offer, which is why
           our answers tend to be useful in real-world office and field

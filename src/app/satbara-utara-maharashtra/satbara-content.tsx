@@ -6,6 +6,7 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
+import Link from "next/link";
 import { useLang } from "@/components/language-context";
 
 /** FAQ pairs as plain strings — exported so the server `page.tsx` can hand
@@ -140,9 +141,11 @@ function BodyMr() {
           ]}
         />
         <p>
-          तुमच्याकडे गट किंवा सर्वे नंबर नसेल तरी हरकत नाही — आमच्या होमपेजवरील
-          नकाशा-शोधक वापरून जिल्हा → तालुका → गाव निवडता येते, आणि आम्ही
-          तेथून पुढे मदत करतो.
+          तुमच्याकडे गट किंवा सर्वे नंबर नसेल तरी हरकत नाही — आमच्या{" "}
+          <Link href="/nakasha-shodh" className="font-bold text-brand-navy underline decoration-brand-gold underline-offset-4 hover:text-brand-navy-dark">
+            नकाशा-शोधक
+          </Link>{" "}
+          वापरून जिल्हा → तालुका → गाव निवडता येते, आणि आम्ही तेथून पुढे मदत करतो.
         </p>
       </ServiceSection>
 
@@ -258,9 +261,11 @@ function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
           ]}
         />
         <p>
-          Don&apos;t have a Gut or Survey number? Use the map finder on the
-          homepage — pick district → taluka → village and we&apos;ll take it from
-          there.
+          Don&apos;t have a Gut or Survey number? Use our{" "}
+          <Link href="/nakasha-shodh" className="font-bold text-brand-navy underline decoration-brand-gold underline-offset-4 hover:text-brand-navy-dark">
+            map finder
+          </Link>{" "}
+          — pick district → taluka → village and we&apos;ll take it from there.
         </p>
       </ServiceSection>
 

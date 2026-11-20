@@ -83,7 +83,7 @@ export function ServicePageShell({
         <section className="border-b border-slate-200 bg-white px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-4xl">
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
-              <Link href="/" className="inline-flex items-center gap-1 transition hover:text-blue-700">
+              <Link href="/" className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-blue-700">
                 <Home className="size-3.5" />
                 {homeLabel[t]}
               </Link>
@@ -226,7 +226,7 @@ function RelatedServices({ slug, lang, title }: { slug: string; lang: Lang; titl
           <li key={r.href}>
             <Link
               href={r.href}
-              className="group inline-flex w-full items-center justify-between gap-2 rounded-md border border-slate-200 bg-slate-50 px-3 py-2.5 text-sm font-bold text-slate-800 transition hover:border-blue-200 hover:bg-blue-50 hover:text-blue-800"
+              className="group inline-flex w-full items-center justify-between gap-2 min-h-[44px] rounded-md border border-slate-200 bg-slate-50 px-3 py-2.5 text-sm font-bold text-slate-800 transition hover:border-blue-200 hover:bg-blue-50 hover:text-blue-800"
             >
               <span>{r[lang]}</span>
               <ArrowRight className="size-4 shrink-0 opacity-60 transition group-hover:translate-x-0.5 group-hover:opacity-100" />

@@ -210,12 +210,12 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
         <section ref={sectionRef} className="border-b border-slate-200 bg-brand-cream px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-6xl">
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
-              <Link href="/" className="inline-flex items-center gap-1 transition hover:text-brand-navy">
+              <Link href="/" className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-brand-navy">
                 <Home className="size-3.5" />
                 {tx.home}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
-              <Link href="/#collections" className="transition hover:text-brand-navy">
+              <Link href="/#collections" className="py-3.5 -my-3.5 transition hover:text-brand-navy">
                 {tx.collections}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />

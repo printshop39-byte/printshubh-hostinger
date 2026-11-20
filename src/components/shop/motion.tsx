@@ -56,8 +56,14 @@ export function useCalmMotion(): boolean {
 }
 
 /* ── Reveal ───────────────────────────────────────────────────────────────
- * Scroll-in fade + small lift, fired once. `delay` staggers siblings that
- * are not inside a <Stagger>. */
+ * Scroll-in small lift, fired once. `delay` staggers siblings that are not
+ * inside a <Stagger>.
+ *
+ * NO OPACITY: the hidden state is an offset only, never `opacity: 0`. Framer
+ * serialises `initial` into the server HTML, so an opacity-zero start meant
+ * every revealed section was invisible until hydration and the observer ran
+ * (and stayed invisible if either was late or failed). With a lift-only start
+ * the content is readable from the first paint; the offset just settles. */
 export function Reveal({
   children,
   delay = 0,
@@ -82,8 +88,8 @@ export function Reveal({
   return (
     <Tag
       className={className}
-      initial={{ opacity: 0, y }}
-      whileInView={{ opacity: 1, y: 0 }}
+      initial={{ y }}
+      whileInView={{ y: 0 }}
       viewport={{ once: true, amount: 0.25 }}
       transition={{ duration: 0.55, delay, ease: [0.22, 1, 0.36, 1] }}
     >
@@ -101,8 +107,8 @@ const containerVariants: Variants = {
 };
 
 const itemVariants: Variants = {
-  hidden: { opacity: 0, y: 22 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: [0.22, 1, 0.36, 1] } },
+  hidden: { y: 22 },
+  show: { y: 0, transition: { duration: 0.5, ease: [0.22, 1, 0.36, 1] } },
 };
 
 export function Stagger({

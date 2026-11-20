@@ -133,7 +133,7 @@ const tx: Record<Lang, {
     topicCta: "WhatsApp वर सुरू करा",
     hoursTitle: "उपलब्धता",
     hoursBody:
-      "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00. रविवारी आणि सुट्टीच्या दिवशी मर्यादित सेवा.",
+      "सोमवार ते शनिवार · सकाळी 9:00 ते रात्री 9:00. रविवारी बंद.",
     policyTitle: "सेवा संदर्भ धोरण",
     policyBody:
       "PrintShubh ही सरकारी संस्था नाही. आम्ही अधिकृत सार्वजनिक स्रोतांवर आधारित खाजगी सहाय्य सेवा देतो. अंतिम पडताळणी संबंधित सरकारी पोर्टलवर करावी.",
@@ -151,7 +151,7 @@ const tx: Record<Lang, {
     topicCta: "Start on WhatsApp",
     hoursTitle: "Availability",
     hoursBody:
-      "Monday to Saturday · 9:00 AM to 9:00 PM. Limited service on Sundays and holidays.",
+      "Monday to Saturday · 9:00 AM to 9:00 PM. Closed on Sundays.",
     policyTitle: "Service policy",
     policyBody:
       "PrintShubh is not a government body. We provide private assistance based on official public sources. Final verification must be done on the relevant government portal.",
