@@ -100,7 +100,7 @@ export default function Home() {
             The call to action is WhatsApp; there is no /cad-prints page yet. */}
         <CadPrintsSection />
 
-        {/* What the interior prints are made on (the Epson SC-S9130). */}
+        {/* The 11-colour, large-format printing capability (no printer model is named here). */}
         <StudioCapabilities />
 
         {/* Five steps, from choosing to collecting at the studio. */}

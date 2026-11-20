@@ -1,26 +1,23 @@
 "use client";
 
 /**
- * StudioCapabilities — the homepage's "what it is printed on" section.
+ * StudioCapabilities — the homepage's "how it is printed" section.
  *
  * The collections say WHAT is printed and the CAD section says WHO the plans
- * are for. This section answers one different question: on what equipment.
- * Its visual job is the "spec sheet": a large 11, then three plain rows.
+ * are for. This section answers one different question: with what capability.
+ * Its visual job is the "spec sheet": a large 11 and one plain row.
  *
  * WHAT IS STATED, AND WHERE IT COMES FROM
- *   - Epson SureColor SC-S9130, 11-colour, large-format: the same facts the
- *     About page, collections.ts and the older PrintingTechnology section
- *     already state, supplied by the owner.
- *   - The six materials: the list PrintingTechnology gives for what the
- *     SC-S9130 is used to print. Framed prints are not in that list, so they
- *     are not claimed here. Nor is CAD: whether plans go through this machine
- *     has not been confirmed, so the two are not connected on this page.
+ *   - An 11-colour printing system and large-format printing: facts supplied
+ *     by the owner and already stated on the About page.
  *   - Size, material and price confirmed before printing: the process the
  *     owner described (and the price statement the hero already makes).
- *   Nothing else. No resolution, speed, colour gamut, ink durability,
- *   warranty, certification, print width or "best / highest quality". The old
- *   section's quality adjectives ("fine detail", "smooth tonal transitions")
- *   are deliberately left behind: they cannot be proven from this repo.
+ *   Nothing else. The printer's make and model are deliberately NOT named on
+ *   the homepage (owner decision), and there is no list of materials here (the
+ *   collections section already carries it), no resolution, speed, colour
+ *   gamut, ink durability, warranty, certification, print width or "best /
+ *   highest quality". CAD is not connected to this equipment either: whether
+ *   plans go through it has not been confirmed.
  *
  * NO PICTURES, NO RENDERS
  *   There is no photo of the machine (PRINTING_TECH_PHOTOS in shop-profile.ts
@@ -47,32 +44,18 @@ const copy: Record<
   mr: {
     eyebrow: "स्टुडिओ",
     heading: "प्रिंटमागचं मशीन.",
-    body: "इंटिरियर प्रिंटसाठी आम्ही Epson SureColor SC-S9130 हे लार्ज-फॉरमॅट प्रिंटर वापरतो. प्रिंट सुरू करण्यापूर्वी आकार, मटेरियल आणि किंमत तुमच्याशी निश्चित केली जाते.",
+    body: "आमचे इंटिरियर प्रिंट 11-रंगी लार्ज-फॉरमॅट प्रिंटिंग प्रणालीवर केले जातात. प्रिंट सुरू करण्यापूर्वी आकार, मटेरियल आणि किंमत तुमच्याशी निश्चित केली जाते.",
     big: "11",
     bigLabel: "रंगी प्रिंटिंग प्रणाली",
-    rows: [
-      { label: "प्रिंटर", value: "Epson SureColor SC-S9130" },
-      { label: "प्रकार", value: "लार्ज-फॉरमॅट" },
-      {
-        label: "यावर प्रिंट",
-        value: "वॉलपेपर · कॅनव्हास · वॉल आर्ट · रेक्झिन · साटीन फॅब्रिक · विनाइल",
-      },
-    ],
+    rows: [{ label: "क्षमता", value: "लार्ज-फॉरमॅट प्रिंटिंग" }],
   },
   en: {
     eyebrow: "The studio",
     heading: "The machine behind the prints.",
-    body: "For interior prints we use the Epson SureColor SC-S9130, a large-format printer. Size, material and price are confirmed with you before printing begins.",
+    body: "Our interior prints are made on an 11-colour, large-format printing system. Size, material and price are confirmed with you before printing begins.",
     big: "11",
     bigLabel: "colour printing system",
-    rows: [
-      { label: "Printer", value: "Epson SureColor SC-S9130" },
-      { label: "Format", value: "Large-format" },
-      {
-        label: "Printed on it",
-        value: "Wallpaper · Canvas · Wall art · Rexine · Satin fabric · Vinyl",
-      },
-    ],
+    rows: [{ label: "Capability", value: "Large-format printing" }],
   },
 };
 
