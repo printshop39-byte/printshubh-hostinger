@@ -1,14 +1,18 @@
 /**
  * Wallpaper catalogue — the ONLY module pages use to read the catalogue.
  *
- * Every function is async and returns plain objects so that, in Phase D, the
- * body can move from ./data.ts to the database without any caller changing.
+ * Source: the Supabase database when it is configured and reachable (Phase D),
+ * otherwise the built-in sample in ./data.ts — so the public site never goes
+ * blank if the database is not set up yet or is briefly unavailable.
  *
  * Privacy rule: drafts, inactive categories and designs without a preview are
  * filtered out HERE, once, so no page can leak them by forgetting a check.
  */
+import { cache } from "react";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { CATEGORIES, DESIGNS } from "./data";
+import { loadPublicFromDb } from "./store";
+import { wallpaperDbConfigured } from "./supabase";
 import type {
   DesignPage,
   DesignQuery,
@@ -23,9 +27,18 @@ export const DEFAULT_PAGE_SIZE = 24;
 const isPublic = (d: WallpaperDesign): d is PublicDesign =>
   d.status === "published" && d.image !== null;
 
+/** One read per request (React cache), from the database or the sample. */
+const load = cache(async (): Promise<{ categories: WallpaperCategory[]; designs: WallpaperDesign[] }> => {
+  if (wallpaperDbConfigured()) {
+    const live = await loadPublicFromDb();
+    if (live) return live;
+  }
+  return { categories: CATEGORIES, designs: DESIGNS };
+});
+
 /** Active categories, in display order. */
 export async function getCategories(): Promise<WallpaperCategory[]> {
-  return CATEGORIES.filter((c) => c.active).sort((a, b) => a.sortOrder - b.sortOrder);
+  return (await load()).categories.filter((c) => c.active).sort((a, b) => a.sortOrder - b.sortOrder);
 }
 
 export async function getCategory(slug: string): Promise<WallpaperCategory | undefined> {
@@ -45,7 +58,7 @@ export async function getDesigns(query: DesignQuery = {}): Promise<DesignPage> {
     .filter(Boolean);
   const tag = query.tag?.toLowerCase();
 
-  const matches = DESIGNS.filter(isPublic)
+  const matches = (await load()).designs.filter(isPublic)
     .filter((d) => activeSlugs.has(d.categorySlug))
     .filter((d) => !query.categorySlug || d.categorySlug === query.categorySlug)
     .filter((d) => !query.featuredOnly || d.featured)
@@ -74,7 +87,7 @@ export async function getDesigns(query: DesignQuery = {}): Promise<DesignPage> {
 /** Design IDs are case-insensitive in URLs ("wp-001" or "WP-001"). */
 export async function getDesign(id: string): Promise<PublicDesign | undefined> {
   const wanted = id.trim().toLowerCase();
-  const found = DESIGNS.filter(isPublic).find((d) => d.id.toLowerCase() === wanted);
+  const found = (await load()).designs.filter(isPublic).find((d) => d.id.toLowerCase() === wanted);
   if (!found) return undefined;
   // A design in an inactive category is not public either.
   return (await getCategory(found.categorySlug)) ? found : undefined;
@@ -112,7 +125,7 @@ export async function getCategoryCards(): Promise<
 /** Tags that exist on published designs, most used first (for filter chips). */
 export async function getPopularTags(limit = 8): Promise<string[]> {
   const counts = new Map<string, number>();
-  for (const d of DESIGNS.filter(isPublic)) {
+  for (const d of (await load()).designs.filter(isPublic)) {
     for (const t of d.tags) counts.set(t, (counts.get(t) ?? 0) + 1);
   }
   return [...counts.entries()]

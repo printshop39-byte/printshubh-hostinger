@@ -60,3 +60,5 @@ Village Boundary Database_SHAPEFILE*.zip
 
 printshubh_favicon_assets/
 printshubh_favicon_assets.zip
+# Wallpaper bulk-ingest bookkeeping (local only)
+.catalogue-ingest/
