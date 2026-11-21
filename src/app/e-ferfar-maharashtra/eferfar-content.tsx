@@ -6,7 +6,6 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 
 export const eFerfarFaqMr: Array<{ q: string; a: string }> = [
   {
@@ -63,127 +62,21 @@ const eFerfarFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function EFerfarContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="e-ferfar-maharashtra"
-      eyebrow={{ mr: "महसूल नोंद सेवा", en: "Revenue Record Service" }}
-      title={{
-        mr: "ई-फेरफार महाराष्ट्र — Mutation नोंद सहाय्य",
-        en: "E-Ferfar Maharashtra — Mutation Entry Assistance",
-      }}
-      breadcrumb={{ mr: "ई-फेरफार", en: "E-Ferfar" }}
-      intro={{
-        mr: "जमिनीच्या मालकी / हक्कांतील बदलाची ई-फेरफार नोंद तपासायची आहे? जिल्हा, तालुका, गाव आणि गट नंबर शेअर करा — आम्ही Mahabhumi वर शोधून PDF WhatsApp वर पाठवतो.",
-        en: "Need to check the mutation (E-Ferfar) record of an ownership change? Share district, taluka, village and Gut number — we look it up on Mahabhumi and send the PDF on WhatsApp.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला ई-फेरफार नोंद तपासायची आहे.\nजिल्हा:\nतालुका:\nगाव:\nगट / सर्वे नंबर:\nफेरफार क्रमांक (असल्यास):",
-        en: "Hello, I need to check the E-Ferfar (mutation) record.\nDistrict:\nTaluka:\nVillage:\nGut / Survey number:\nFerfar number (if known):",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={eFerfarFaqEn} />}
+      eyebrow="Revenue Record Service"
+      title="E-Ferfar Maharashtra — Mutation Entry Assistance"
+      breadcrumb="E-Ferfar"
+      intro="Need to check the mutation (E-Ferfar) record of an ownership change? Share district, taluka, village and Gut number — we look it up on Mahabhumi and send the PDF on WhatsApp."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need to check the E-Ferfar (mutation) record.\nDistrict:\nTaluka:\nVillage:\nGut / Survey number:\nFerfar number (if known):"}
+      content={<Body faqPairs={eFerfarFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>ई-फेरफार (Mutation)</strong> ही जमिनीच्या मालकी / हक्कांत
-          झालेल्या बदलाची शासकीय नोंद आहे. खरेदी–विक्री, वारस, गहाण,
-          हस्तांतरण, बक्षीसपत्र — कोणताही बदल झाल्यावर तलाठी कार्यालयात
-          फेरफार नोंद होते. मंजुरीनंतर ती 7/12 च्या हक्क रकान्यात प्रतिबिंबित
-          होते आणि नवीन 7/12 वर दिसते.
-        </p>
-        <p>
-          PrintShubh टीम <strong>Mahabhumi व Bhulekh</strong> या{" "}
-          <strong>अधिकृत सार्वजनिक स्रोतांवर</strong> उपलब्ध फेरफार नोंद
-          शोधते, मंजुरीची स्थिती तपासते आणि PDF स्वरूपात WhatsApp वर पाठवते.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "जमीन खरेदी करण्यापूर्वी ownership history तपासणारे.",
-            "वारसा / हिस्सा / कौटुंबिक वाटप पुढे जाण्यापूर्वी नोंद पडताळणी.",
-            "बँक कर्ज / होम लोन साठी मालकी पुरावा गोळा करणारे.",
-            "कोर्ट केस, मध्यस्थी, किंवा कायदेशीर विवादात असणारे.",
-            "7/12 वर जुने नाव दिसते आहे म्हणून त्रास होणारे.",
-            "Society conveyance / NA / बांधकाम परवाना प्रक्रिया करणारे.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <ServiceList
-          items={[
-            "जिल्हा, तालुका, गाव.",
-            "गट नंबर किंवा सर्वे नंबर.",
-            "फेरफार क्रमांक — असल्यास सर्वोत्तम.",
-            "(पर्यायी) मालकाचे नाव.",
-            "(पर्यायी) तारीख-कालावधी — विशिष्ट फेरफार शोधण्यास उपयोगी.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "WhatsApp वर जिल्हा, तालुका, गाव, गट नंबर शेअर करा.",
-            "PrintShubh टीम Mahabhumi वर फेरफार नोंदी तपासते — मंजूर, अद्ययावत किंवा प्रलंबित अशी स्थिती कळवते.",
-            "शुल्क सांगून तुमच्या मंजुरीनंतर UPI पेमेंट.",
-            "फेरफार PDF WhatsApp वर पाठवली जाते.",
-            "नोंद अद्ययावत नसल्यास तलाठी कार्यालयात पुढच्या पावलांचे मार्गदर्शन.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          फेरफार PDF मध्ये फेरफार क्रमांक, तारीख, बदलाचे स्वरूप (खरेदी / वारस
-          / गहाण), जुना मालक, नवीन मालक, आणि मंजुरीची स्थिती दाखवली जाते.
-          आवश्यकता असल्यास आम्ही ती <strong>7/12 आणि 8A सोबत एकत्र</strong>{" "}
-          पाठवतो — संपूर्ण नोंद-चित्र एकाच ठिकाणी मिळते.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "फेरफार प्रलंबित असल्यास 7/12 वर जुने नाव दिसते — खरेदी आधी हे तपासणे आवश्यक.",
-            "वारस फेरफार करण्यासाठी मृत्यू दाखला, वारस यादी, NOC आणि नोंदणी कागदपत्रे लागतात.",
-            "गहाण फेरफार बँकेच्या NOC नंतरच मंजूर होते.",
-            "Society conveyance नंतर अनेक फेरफार एकाच वेळी होतात — सर्व क्रमांक तपासावे.",
-            "विवादित फेरफार रद्द होऊ शकते — कोर्ट निकालावर अवलंबून.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          फेरफार अर्ज मंजुरी / आक्षेप / अंतिम निर्णय हे संबंधित तलाठी / तहसील
-          कार्यालयाचेच अधिकार आहेत.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={eFerfarFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">

@@ -11,7 +11,6 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { ChevronRight, Home, MessageCircle, FileText, ArrowRight } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { ServiceAreaDisclaimer } from "@/components/service-area-disclaimer";
@@ -19,35 +18,22 @@ import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 import { PricingSection } from "@/components/pricing-section";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
-const homeLabel: Record<Lang, string> = { mr: "मुख्यपृष्ठ", en: "Home" };
-const servicesLabel: Record<Lang, string> = { mr: "सेवा", en: "Services" };
-const updatedLabel: Record<Lang, string> = {
-  mr: "शेवटचा बदल",
-  en: "Last updated",
-};
-const ctaAsk: Record<Lang, string> = {
-  mr: "WhatsApp वर विचारा",
-  en: "Ask on WhatsApp",
-};
-const ctaPdf: Record<Lang, string> = {
-  mr: "PDF साठी माहिती पाठवा",
-  en: "Send details for PDF",
-};
-const relatedHeading: Record<Lang, string> = {
-  mr: "संबंधित सेवा",
-  en: "Related services",
-};
+const homeLabel = "Home";
+const servicesLabel = "Services";
+const updatedLabel = "Last updated";
+const ctaAsk = "Ask on WhatsApp";
+const ctaPdf = "Send details for PDF";
+const relatedHeading = "Related services";
 
 export interface ServicePageShellProps {
   slug: string;
-  eyebrow: { mr: string; en: string };
-  title: { mr: string; en: string };
-  breadcrumb?: { mr: string; en: string };
-  intro: { mr: string; en: string };
+  eyebrow: string;
+  title: string;
+  breadcrumb?: string;
+  intro: string;
   updatedAt?: string;
-  whatsappMessage?: { mr: string; en: string };
-  contentMr: ReactNode;
-  contentEn: ReactNode;
+  whatsappMessage?: string;
+  content: ReactNode;
 }
 
 export function ServicePageShell({
@@ -58,22 +44,12 @@ export function ServicePageShell({
   intro,
   updatedAt,
   whatsappMessage,
-  contentMr,
-  contentEn,
+  content,
 }: ServicePageShellProps) {
-  const { lang } = useLang();
-  const t = lang === "mr" ? "mr" : "en";
-
   const msg =
-    whatsappMessage?.[t] ??
-    (lang === "mr"
-      ? `नमस्कार, मला ${title.mr} सेवेसाठी सहाय्य हवे आहे.`
-      : `Hello, I need assistance for the ${title.en} service.`);
+    whatsappMessage ?? `Hello, I need assistance for the ${title} service.`;
   const waHrefAsk = buildWhatsAppUrl({ message: msg, campaign: slug });
-  const pdfMsg =
-    lang === "mr"
-      ? `नमस्कार, ${title.mr} ची PDF साठी माहिती पाठवत आहे: जिल्हा / तालुका / गाव / गट किंवा CTS नंबर. कृपया मार्गदर्शन करा.`
-      : `Hello, sharing details for ${title.en} PDF: district / taluka / village / Gut or CTS number. Please guide further.`;
+  const pdfMsg = `Hello, sharing details for ${title} PDF: district / taluka / village / Gut or CTS number. Please guide further.`;
   const waHrefPdf = buildWhatsAppUrl({ message: pdfMsg, campaign: slug, content: "pdf-cta" });
 
   return (
@@ -85,26 +61,26 @@ export function ServicePageShell({
             <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
               <Link href="/" className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-blue-700">
                 <Home className="size-3.5" />
-                {homeLabel[t]}
+                {homeLabel}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
-              <span>{servicesLabel[t]}</span>
+              <span>{servicesLabel}</span>
               <ChevronRight className="size-3 text-slate-400" />
-              <span className="text-slate-700">{(breadcrumb ?? title)[t]}</span>
+              <span className="text-slate-700">{breadcrumb ?? title}</span>
             </nav>
 
             <p className="mb-2 text-xs font-bold uppercase tracking-[0.18em] text-blue-700">
-              {eyebrow[t]}
+              {eyebrow}
             </p>
             <h1 className="text-3xl font-black leading-tight text-slate-950 sm:text-4xl">
-              {title[t]}
+              {title}
             </h1>
             <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">
-              {intro[t]}
+              {intro}
             </p>
             {updatedAt && (
               <p className="mt-4 text-xs font-bold uppercase tracking-[0.16em] text-slate-500">
-                {updatedLabel[t]}: {updatedAt}
+                {updatedLabel}: {updatedAt}
               </p>
             )}
 
@@ -116,7 +92,7 @@ export function ServicePageShell({
                 className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-green-600 px-5 text-sm font-bold text-white shadow-sm transition hover:bg-green-700"
               >
                 <MessageCircle className="size-4" />
-                {ctaAsk[t]}
+                {ctaAsk}
               </a>
               <a
                 href={waHrefPdf}
@@ -125,7 +101,7 @@ export function ServicePageShell({
                 className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-blue-700 px-5 text-sm font-bold text-white shadow-sm transition hover:bg-blue-800"
               >
                 <FileText className="size-4" />
-                {ctaPdf[t]}
+                {ctaPdf}
               </a>
             </div>
           </div>
@@ -135,10 +111,10 @@ export function ServicePageShell({
           <div className="mx-auto max-w-4xl space-y-6">
             <ServiceAreaDisclaimer variant="compact" />
             <article className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9">
-              {lang === "mr" ? contentMr : contentEn}
+              {content}
             </article>
             <PricingSection serviceName={title} />
-            <RelatedServices slug={slug} lang={t} title={relatedHeading[t]} />
+            <RelatedServices slug={slug} title={relatedHeading} />
           </div>
         </section>
       </main>
@@ -194,14 +170,14 @@ export function ServiceFaq({
   );
 }
 
-const SERVICE_DIR: Record<string, { mr: string; en: string; href: string }> = {
-  "satbara-utara-maharashtra": { mr: "7/12 उतारा", en: "7/12 Extract", href: "/satbara-utara-maharashtra/" },
-  "8a-utara-maharashtra":      { mr: "8A उतारा", en: "8A Extract", href: "/8a-utara-maharashtra/" },
-  "gav-nakasha-maharashtra":   { mr: "गाव नकाशा", en: "Village Map", href: "/gav-nakasha-maharashtra/" },
-  "dp-map-maharashtra":        { mr: "DP Map / TP Map", en: "DP Map / TP Map", href: "/dp-map-maharashtra/" },
-  "milkat-patrika-maharashtra":{ mr: "मिळकत पत्रिका", en: "Property Card", href: "/milkat-patrika-maharashtra/" },
-  "e-ferfar-maharashtra":      { mr: "ई-फेरफार", en: "E-Ferfar (Mutation)", href: "/e-ferfar-maharashtra/" },
-  "jameen-report-maharashtra": { mr: "जमीन अहवाल", en: "Land Report", href: "/jameen-report-maharashtra/" },
+const SERVICE_DIR: Record<string, { label: string; href: string }> = {
+  "satbara-utara-maharashtra": { label: "7/12 Extract", href: "/satbara-utara-maharashtra/" },
+  "8a-utara-maharashtra":      { label: "8A Extract", href: "/8a-utara-maharashtra/" },
+  "gav-nakasha-maharashtra":   { label: "Village Map", href: "/gav-nakasha-maharashtra/" },
+  "dp-map-maharashtra":        { label: "DP Map / TP Map", href: "/dp-map-maharashtra/" },
+  "milkat-patrika-maharashtra":{ label: "Property Card", href: "/milkat-patrika-maharashtra/" },
+  "e-ferfar-maharashtra":      { label: "E-Ferfar (Mutation)", href: "/e-ferfar-maharashtra/" },
+  "jameen-report-maharashtra": { label: "Land Report", href: "/jameen-report-maharashtra/" },
 };
 
 const SERVICE_INTERNAL_LINKS: Record<string, string[]> = {
@@ -214,7 +190,7 @@ const SERVICE_INTERNAL_LINKS: Record<string, string[]> = {
   "jameen-report-maharashtra":  ["satbara-utara-maharashtra", "milkat-patrika-maharashtra", "gav-nakasha-maharashtra"],
 };
 
-function RelatedServices({ slug, lang, title }: { slug: string; lang: Lang; title: string }) {
+function RelatedServices({ slug, title }: { slug: string; title: string }) {
   const related = (SERVICE_INTERNAL_LINKS[slug] ?? []).map((s) => SERVICE_DIR[s]).filter(Boolean);
   if (related.length === 0) return null;
 
@@ -228,7 +204,7 @@ function RelatedServices({ slug, lang, title }: { slug: string; lang: Lang; titl
               href={r.href}
               className="group inline-flex w-full items-center justify-between gap-2 min-h-[44px] rounded-md border border-slate-200 bg-slate-50 px-3 py-2.5 text-sm font-bold text-slate-800 transition hover:border-blue-200 hover:bg-blue-50 hover:text-blue-800"
             >
-              <span>{r[lang]}</span>
+              <span>{r.label}</span>
               <ArrowRight className="size-4 shrink-0 opacity-60 transition group-hover:translate-x-0.5 group-hover:opacity-100" />
             </Link>
           </li>

@@ -6,7 +6,6 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 
 export const gavNakashaFaqMr: Array<{ q: string; a: string }> = [
   {
@@ -63,130 +62,21 @@ const gavNakashaFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function GavNakashaContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="gav-nakasha-maharashtra"
-      eyebrow={{ mr: "महाराष्ट्र नकाशा सेवा", en: "Maharashtra Map Service" }}
-      title={{
-        mr: "गाव नकाशा महाराष्ट्र — Village Map PDF सहाय्य",
-        en: "Village Map Maharashtra — Gav Nakasha PDF Assistance",
-      }}
-      breadcrumb={{ mr: "गाव नकाशा", en: "Village Map" }}
-      intro={{
-        mr: "गाव नकाशा, गट नकाशा आणि सर्वे नंबर संदर्भासाठी WhatsApp सहाय्य. जिल्हा, तालुका, गाव शेअर करा — PDF त्याच WhatsApp वर मिळवा.",
-        en: "Get village maps, Gut maps and Survey-number reference maps over WhatsApp. Share district, taluka, village — receive the PDF on the same chat.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला गाव नकाशा / Gav Nakasha हवा आहे.\nजिल्हा:\nतालुका:\nगाव:\n(पर्यायी) गट / सर्वे नंबर:",
-        en: "Hello, I need a village map (Gav Nakasha).\nDistrict:\nTaluka:\nVillage:\n(Optional) Gut / Survey number:",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={gavNakashaFaqEn} />}
+      eyebrow="Maharashtra Map Service"
+      title="Village Map Maharashtra — Gav Nakasha PDF Assistance"
+      breadcrumb="Village Map"
+      intro="Get village maps, Gut maps and Survey-number reference maps over WhatsApp. Share district, taluka, village — receive the PDF on the same chat."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need a village map (Gav Nakasha).\nDistrict:\nTaluka:\nVillage:\n(Optional) Gut / Survey number:"}
+      content={<Body faqPairs={gavNakashaFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>गाव नकाशा</strong> हा महाराष्ट्र शासनाच्या भूमी अभिलेख
-          विभागाने तयार केलेला अधिकृत नकाशा — गावाची एकूण सीमा, प्रत्येक गट /
-          सर्वे नंबरची मांडणी, अंतर्गत रस्ते, नाले, सार्वजनिक मालमत्ता आणि
-          शेजार-संबंध दाखवतो. जमीन कागदपत्र, खरेदी–विक्री, बांधकाम परवाना
-          आणि कोर्ट प्रकरणांत हा नकाशा अनेक वेळा संदर्भ म्हणून मागितला जातो.
-        </p>
-        <p>
-          PrintShubh टीम <strong>Mahabhumi, Bhuvan</strong> आणि इतर{" "}
-          <strong>अधिकृत सार्वजनिक स्रोतांवर</strong> उपलब्ध नकाशा शोधून
-          स्वच्छ, वाचनीय PDF स्वरूपात WhatsApp वर पाठवते. आम्ही नकाशे “तयार”
-          करत नाही — आम्ही <em>शोधून</em> देतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "जमिनीची सीमा, शेजारी आणि गट-मांडणी समजून घेऊ इच्छिणारे शेतकरी.",
-            "जमीन खरेदीपूर्वी spatial reference हवा असलेले गुंतवणूकदार.",
-            "बांधकाम परवाना, NA अर्ज, झोनिंग पडताळणी करणारे.",
-            "जमीन वाद, कोर्ट केस, मध्यस्थी प्रकरणात पुरावा हवा असलेले.",
-            "वारसा-वाटप / पारंपरिक जमीन-हिस्सा प्रकरणे.",
-            "Agri-tech, surveying किंवा site-planning टीम.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <ServiceList
-          items={[
-            "जिल्हा, तालुका, गाव — मूलभूत संदर्भ.",
-            "(पर्यायी) गट नंबर किंवा सर्वे नंबर — विशिष्ट गटाचा zoom हवा असल्यास.",
-            "(पर्यायी) कोणत्या वर्षाचा नकाशा हवा — अद्ययावत किंवा पुनर्मोजणी-पूर्व.",
-            "(पर्यायी) hardcopy printout हवी की digital PDF.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "तुम्ही WhatsApp वर जिल्हा, तालुका, गाव (आणि असल्यास गट नंबर) पाठवता.",
-            "PrintShubh टीम Mahabhumi व Bhuvan वर उपलब्ध नकाशा शोधते.",
-            "शुल्क आधी सांगितले जाते; तुमच्या मंजुरीनंतरच पुढे जाते.",
-            "UPI द्वारे पेमेंट — Google Pay, PhonePe किंवा Paytm.",
-            "नकाशा PDF WhatsApp वर पाठवली जाते.",
-            "नकाशा उपलब्ध नसल्यास परतावा.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          गाव नकाशाची PDF print-ready स्वरूपात पाठवली जाते — A4 किंवा A3 आकारात
-          प्रिंट करता येते. आवश्यकता असल्यास आम्ही नकाशावर तुमच्या जमिनीचा
-          highlight (वर्तुळ / arrow) टाकून देऊ शकतो — सीमा तपासणी सोपी होते.
-        </p>
-        <p>
-          नकाशावरील क्षेत्रफळ <em>indicative</em> आहे — अंतिम कायदेशीर
-          क्षेत्रफळासाठी भूमी मोजणी अधिकाऱ्याची मोजणी आवश्यक.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "नकाशाचे scale वेगवेगळे असू शकते — A4 print मध्ये पूर्ण गाव दिसले तरी प्रत्येक गटाचे scale ¼”=10' प्रमाणे नसेल.",
-            "पुनर्मोजणी (Resurvey) झालेल्या गावांचे जुने नकाशे आणि नवीन नकाशे वेगळे असतात.",
-            "नकाशावरील सीमा प्रत्यक्ष जमिनीच्या सीमेशी 100% जुळतेच असे नाही — मोजणीच अंतिम पुरावा.",
-            "नदी / नाले / रस्ते बदलले असल्यास नवीन रेकॉर्ड तपासावा.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          नकाशा कायदेशीर वादात पुरावा म्हणून वापरण्यापूर्वी तहसील कार्यालयाची
-          सही-शिक्का असलेली प्रत मिळवा.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={gavNakashaFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">

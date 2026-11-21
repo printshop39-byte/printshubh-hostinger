@@ -7,7 +7,6 @@ import {
   ServiceFaq,
 } from "@/components/service-page-shell";
 import Link from "next/link";
-import { useLang } from "@/components/language-context";
 
 /** FAQ pairs as plain strings — exported so the server `page.tsx` can hand
  * them to the FAQPage JSON-LD emitter. Keep the answers crawler-friendly:
@@ -67,151 +66,21 @@ const satbaraFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function SatbaraContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="satbara-utara-maharashtra"
-      eyebrow={{ mr: "महाराष्ट्र जमीन सेवा", en: "Maharashtra Land Service" }}
-      title={{
-        mr: "7/12 उतारा महाराष्ट्र — Satbara PDF सहाय्य",
-        en: "7/12 Extract Maharashtra — Satbara PDF Assistance",
-      }}
-      breadcrumb={{ mr: "7/12 उतारा", en: "7/12 Extract" }}
-      intro={{
-        mr: "जिल्हा, तालुका, गाव आणि गट नंबर शेअर करा — PrintShubh टीम Mahabhumi व Bhulekh यासारख्या अधिकृत सार्वजनिक स्रोतांवर तपास करून 7/12 (सातबारा) उताऱ्याची PDF WhatsApp वर पाठवते.",
-        en: "Share district, taluka, village and Gut number — the PrintShubh team checks Mahabhumi and Bhulekh, then delivers the 7/12 (Satbara) extract PDF on WhatsApp.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला 7/12 उताऱ्यासाठी मदत हवी आहे. माझ्या जमिनीची माहिती:\nजिल्हा:\nतालुका:\nगाव:\nगट / सर्वे नंबर:",
-        en: "Hello, I need help with a 7/12 extract. My land details:\nDistrict:\nTaluka:\nVillage:\nGut / Survey number:",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={satbaraFaqEn} />}
+      eyebrow="Maharashtra Land Service"
+      title="7/12 Extract Maharashtra — Satbara PDF Assistance"
+      breadcrumb="7/12 Extract"
+      intro="Share district, taluka, village and Gut number — the PrintShubh team checks Mahabhumi and Bhulekh, then delivers the 7/12 (Satbara) extract PDF on WhatsApp."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need help with a 7/12 extract. My land details:\nDistrict:\nTaluka:\nVillage:\nGut / Survey number:"}
+      content={<Body faqPairs={satbaraFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>7/12 उतारा</strong> (मराठीत <em>सातबारा</em>) हा महाराष्ट्र
-          महसूल विभागाचा सर्वात महत्त्वाचा जमीन दस्तऐवज आहे. यात गट नंबर किंवा
-          सर्वे नंबर, क्षेत्रफळ, मालकाचे नाव, पीक नोंदी, बोजे आणि वारस नोंदी
-          एका कागदावर दिसतात. जमिनीच्या कोणत्याही व्यवहारात (खरेदी–विक्री, बँक
-          कर्ज, NA परवानगी, वारसा, सरकारी योजना) 7/12 उतारा आवश्यक असतो.
-        </p>
-        <p>
-          PrintShubh ही <strong>खाजगी सहाय्य सेवा</strong> आहे — Mahabhumi आणि
-          Bhulekh यांसारख्या <strong>अधिकृत सार्वजनिक स्रोतांवर</strong>
-          उपलब्ध असलेली नोंद शोधून, स्वच्छ PDF स्वरूपात WhatsApp वर तुमच्यापर्यंत
-          पोहोचवते. आम्ही 7/12 “तयार” करत नाही — आम्ही <em>शोधून</em> देतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "जमीन खरेदी–विक्री करणारे शेतकरी आणि गुंतवणूकदार.",
-            "बँक कर्ज, गहाण, किंवा कृषी कर्जासाठी अर्ज करणारे.",
-            "NA परवानगी, बांधकाम परवाना, किंवा डेव्हलपमेंट योजनेसाठी प्रस्ताव सादर करणारे.",
-            "वारस नोंदी, हक्क पडताळणी, किंवा कोर्ट केसचे पुरावे जमवणारे.",
-            "सरकारी योजना (PM Kisan, पीक विमा, सबसिडी) यांसाठी आधार दस्तऐवज लागणारे.",
-            "अनिवासी भारतीय (NRI) ज्यांना मूळ गावात जाणे शक्य नाही.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <p>
-          7/12 उतारा शोधण्यासाठी आम्हाला <strong>लोकेशन तपशील</strong> आणि{" "}
-          <strong>संदर्भ नंबर</strong> आवश्यक आहे:
-        </p>
-        <ServiceList
-          items={[
-            "जिल्हा (उदा. कोल्हापूर, पुणे, नाशिक).",
-            "तालुका (उदा. करवीर, हवेली, इगतपूरी).",
-            "गाव (उदा. कनेरीवाडी, वडगाव शेरी).",
-            "गट नंबर किंवा सर्वे नंबर — हा मुख्य संदर्भ आहे.",
-            "(पर्यायी) मालकाचे नाव — पडताळणीसाठी उपयोगी.",
-            "(पर्यायी) भूमापन नंबर — काही जुन्या नोंदींसाठी लागतो.",
-          ]}
-        />
-        <p>
-          तुमच्याकडे गट किंवा सर्वे नंबर नसेल तरी हरकत नाही — आमच्या{" "}
-          <Link href="/nakasha-shodh" className="font-bold text-brand-navy underline decoration-brand-gold underline-offset-4 hover:text-brand-navy-dark">
-            नकाशा-शोधक
-          </Link>{" "}
-          वापरून जिल्हा → तालुका → गाव निवडता येते, आणि आम्ही तेथून पुढे मदत करतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "तुम्ही WhatsApp वर जिल्हा, तालुका, गाव आणि गट / सर्वे नंबर शेअर करता.",
-            "PrintShubh टीम Mahabhumi व Bhulekh वर माहिती तपासते आणि उपलब्धता कळवते.",
-            "शुल्क आधी सांगितले जाते — तुम्ही मंजूर केल्यावरच पुढे जाते.",
-            "UPI द्वारे पेमेंट घेतले जाते (Google Pay, PhonePe, Paytm).",
-            "7/12 ची PDF WhatsApp वर पाठवली जाते — सहसा त्याच दिवशी.",
-            "नोंद उपलब्ध नसल्यास परतावा धोरणानुसार रक्कम परत केली जाते.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          आम्ही पाठवलेली PDF ही Mahabhumi किंवा Bhulekh पोर्टलवरून मिळवलेली
-          स्वच्छ प्रत असते. आवश्यकता असल्यास आम्ही ती <strong>वाचनीय स्वरूपात
-          व्यवस्थित</strong> करून देतो — फॉन्ट सुस्पष्ट, मार्जिन योग्य, आणि
-          प्रिंट-स्नेही. कागदी स्वरूपात लागल्यास तुम्ही ती कोणत्याही प्रिंटवर
-          A4 आकारात प्रिंट करू शकता.
-        </p>
-        <p>
-          PDF मध्ये दिसणारी माहिती ही{" "}
-          <strong>“अंतिम कायदेशीर पडताळणी” नसून संदर्भ</strong> आहे. कोर्ट /
-          नोंदणी / बँक कागदपत्रांसाठी संबंधित तहसील कार्यालयाची <em>सही व शिक्का</em>{" "}
-          असलेली प्रत आवश्यक असू शकते — त्या प्रसंगात आम्ही पुढील पाऊल कसे
-          टाकायचे याबाबत मार्गदर्शन करतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "गावात पुनर्मोजणी झाली असेल तर जुना सर्वे नंबर आणि नवीन गट नंबर दोन्ही तपासावे लागतात.",
-            "नावे जुळत नसल्यास नामांतर / फेरफार प्रक्रिया अपूर्ण असू शकते — त्यासाठी ई-फेरफार सेवा पहा.",
-            "क्षेत्रफळ चौ. मीटर, हेक्टर किंवा एकर — विविध युनिटमध्ये दिसू शकते. PDF वर मूळ युनिट दिलेले असते.",
-            "बोजे / गहाण असल्यास 7/12 च्या इतर हक्क रकान्यात दिसते — पूर्ण उतारा वाचणे आवश्यक.",
-            "जमिनीची सीमा / नकाशा हवा असल्यास गाव नकाशा सेवा वापरा.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          आम्ही कोणताही 7/12 “मंजूर” किंवा “तयार” करत नाही, कोणतीही नोंद बदलत
-          नाही. आमची भूमिका म्हणजे — सार्वजनिक पोर्टलवरील माहिती तुमच्यापर्यंत
-          सोप्या स्वरूपात पोहोचवणे. अंतिम कायदेशीर वापरासाठी संबंधित तहसील
-          कार्यालय / Mahabhumi पोर्टलवर स्वतः पडताळणी करा.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={satbaraFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">

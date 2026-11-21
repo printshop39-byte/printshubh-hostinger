@@ -6,7 +6,6 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 
 export const milkatFaqMr: Array<{ q: string; a: string }> = [
   {
@@ -63,134 +62,21 @@ const milkatFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function MilkatContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="milkat-patrika-maharashtra"
-      eyebrow={{ mr: "शहरी मालमत्ता सेवा", en: "Urban Property Service" }}
-      title={{
-        mr: "मिळकत पत्रिका महाराष्ट्र — Property Card PDF सहाय्य",
-        en: "Milkat Patrika Maharashtra — Property Card PDF Assistance",
-      }}
-      breadcrumb={{ mr: "मिळकत पत्रिका", en: "Property Card" }}
-      intro={{
-        mr: "महाराष्ट्रातील शहरी मालमत्तेसाठी मिळकत पत्रिका (Property Card) मिळवण्यासाठी WhatsApp सहाय्य. CTS नंबर, City Survey Office आणि सहायक माहिती शेअर करा.",
-        en: "Get the Property Card / Milkat Patrika for urban properties in Maharashtra over WhatsApp. Share CTS number, City Survey Office and supporting details.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला मिळकत पत्रिका / Property Card हवी आहे.\nजिल्हा / शहर:\nCity Survey Office:\nCTS नंबर:\nमालकाचे नाव (पडताळणीसाठी):",
-        en: "Hello, I need a Property Card.\nDistrict / City:\nCity Survey Office:\nCTS number:\nOwner name (for verification):",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={milkatFaqEn} />}
+      eyebrow="Urban Property Service"
+      title="Milkat Patrika Maharashtra — Property Card PDF Assistance"
+      breadcrumb="Property Card"
+      intro="Get the Property Card / Milkat Patrika for urban properties in Maharashtra over WhatsApp. Share CTS number, City Survey Office and supporting details."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need a Property Card.\nDistrict / City:\nCity Survey Office:\nCTS number:\nOwner name (for verification):"}
+      content={<Body faqPairs={milkatFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>मिळकत पत्रिका (Property Card)</strong> ही महाराष्ट्र भूमी
-          अभिलेख विभागाकडून <em>शहरी</em> मालमत्तेसाठी जारी केली जाते. यात
-          CTS नंबर, क्षेत्रफळ, मालकाचे नाव, बोजे, हस्तांतरण इतिहास आणि
-          नोंदणी क्रमांक एका दस्तऐवजात मिळतो — फ्लॅट, बंगला, कार्यालय किंवा
-          शहरी प्लॉटसाठी हीच अधिकृत मालकी नोंद आहे.
-        </p>
-        <p>
-          PrintShubh टीम City Survey कार्यालयांच्या <strong>ऑनलाइन
-          सार्वजनिक स्रोतांवर</strong> उपलब्ध डिजिटल Property Card शोधते आणि
-          PDF स्वरूपात WhatsApp वर पाठवते. अधिकृत stamped प्रत आवश्यक असल्यास
-          पुढील पाऊल कसे टाकायचे ते मार्गदर्शन करतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "फ्लॅट, बंगला, कार्यालय खरेदी–विक्री करणारे.",
-            "बँक होम लोन, mortgage किंवा LAP अर्ज करणारे.",
-            "शहरी जमिनीचे वारस / सह-मालक.",
-            "Redevelopment, society conveyance प्रकरणे.",
-            "मुंबई SRA, MHADA संबंधित प्रकरणे.",
-            "Builder / developer due diligence टीम.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <ServiceList
-          items={[
-            "जिल्हा / शहर (e.g. मुंबई, पुणे, ठाणे, नागपूर).",
-            "तालुका किंवा City Survey Office नाव.",
-            "CTS नंबर — मुख्य संदर्भ.",
-            "(पर्यायी) मालकाचे नाव.",
-            "(मुंबईसाठी) Ward नंबर / sub-CTS नंबर.",
-            "(पर्यायी) Building Name / Society Name.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "तुम्ही WhatsApp वर City Survey Office आणि CTS नंबर शेअर करता.",
-            "PrintShubh टीम ऑनलाइन उपलब्धता तपासते.",
-            "शुल्क सांगून, तुमच्या मंजुरीनंतर UPI पेमेंट.",
-            "डिजिटल Property Card PDF WhatsApp वर पाठवली जाते.",
-            "Stamped प्रत हवी असल्यास पुढची प्रक्रिया कळवली जाते.",
-            "नोंद उपलब्ध नसल्यास परतावा.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          डिजिटल Property Card PDF print-ready स्वरूपात पाठवली जाते. यात
-          मालक-यादी, क्षेत्रफळ, बोजे, transfer history सर्व एका कागदावर.
-          आवश्यकता असल्यास आम्ही formatting tidy करून पाठवू.
-        </p>
-        <p>
-          <strong>मुंबईसाठी विशेष नोंद:</strong> ऑनलाइन प्रत संदर्भासाठी, पण
-          conveyance / SRA / नोंदणी कामासाठी BCS Office चा stamped print
-          आवश्यक. ती प्रक्रिया आम्ही टप्प्या-टप्प्याने सांगतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "CTS नंबर शहरांनुसार वेगवेगळ्या format मध्ये असू शकतो — 1234/5/A सारखे संयुक्त नंबर.",
-            "एका CTS वर अनेक sub-CTS असू शकतात — फ्लॅटसाठी sub-CTS तपासावा.",
-            "Society conveyance नंतर सह-मालक यादी अद्ययावत होते — जुनी आणि नवीन प्रत वेगवेगळी असू शकते.",
-            "Property Card वर दिसणारे क्षेत्रफळ super-built-up नसून carpet / measured area असते.",
-            "Co-op society मालमत्तेसाठी share certificate देखील वेगळा वैध दस्तऐवज.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          अंतिम कायदेशीर वापरासाठी City Survey Office ची stamped Property
-          Card अनिवार्य.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={milkatFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">

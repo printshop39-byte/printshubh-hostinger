@@ -6,7 +6,6 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 
 export const eightAFaqMr: Array<{ q: string; a: string }> = [
   {
@@ -63,125 +62,21 @@ const eightAFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function EightAContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="8a-utara-maharashtra"
-      eyebrow={{ mr: "महाराष्ट्र जमीन सेवा", en: "Maharashtra Land Service" }}
-      title={{
-        mr: "8A उतारा महाराष्ट्र — खातेदार-निहाय जमीन नोंद",
-        en: "8A Extract Maharashtra — Account-Holder Land Record",
-      }}
-      breadcrumb={{ mr: "8A उतारा", en: "8A Extract" }}
-      intro={{
-        mr: "एका खातेदाराच्या नावावर गावात असलेल्या सर्व जमिनींची एकत्रित यादी — 8A. जिल्हा, तालुका, गाव आणि खाते नंबर पाठवा, PDF WhatsApp वर मिळवा.",
-        en: "A consolidated list of every land parcel under one account holder's name in a village — that's 8A. Share district, taluka, village and account number; receive the PDF on WhatsApp.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला 8A उताऱ्यासाठी मदत हवी आहे.\nजिल्हा:\nतालुका:\nगाव:\nखातेदाराचे नाव / खाते नंबर:",
-        en: "Hello, I need help with an 8A extract.\nDistrict:\nTaluka:\nVillage:\nAccount holder name / number:",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={eightAFaqEn} />}
+      eyebrow="Maharashtra Land Service"
+      title="8A Extract Maharashtra — Account-Holder Land Record"
+      breadcrumb="8A Extract"
+      intro="A consolidated list of every land parcel under one account holder's name in a village — that's 8A. Share district, taluka, village and account number; receive the PDF on WhatsApp."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need help with an 8A extract.\nDistrict:\nTaluka:\nVillage:\nAccount holder name / number:"}
+      content={<Body faqPairs={eightAFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>8A उतारा</strong> हा महाराष्ट्र महसूल विभागाचा{" "}
-          <em>खातेदार-निहाय</em> जमीन दस्तऐवज आहे. एका मालकाच्या नावावर गावात
-          असलेल्या <strong>सर्व गटांची एकत्रित यादी</strong> या एका कागदावर
-          मिळते — गट नंबर, क्षेत्रफळ, खाते नंबर आणि एकूण होल्डिंग.
-        </p>
-        <p>
-          PrintShubh ही खाजगी सहाय्य सेवा आहे — आम्ही{" "}
-          <strong>Mahabhumi व अधिकृत सार्वजनिक स्रोतांवर</strong> उपलब्ध 8A
-          नोंद शोधून PDF स्वरूपात WhatsApp वर पाठवतो. कोणतीही नोंद आम्ही
-          “तयार” किंवा “मंजूर” करत नाही.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "एकूण जमीन होल्डिंग तपासायचे असलेले शेतकरी आणि वारसदार.",
-            "जमीन सीलिंग कायद्याअंतर्गत पात्रता तपासणारे मालक.",
-            "बँक कर्ज, गहाण किंवा कृषी कर्ज प्रकरणासाठी सर्व जमिनींची एकत्र नोंद हवी असणारे.",
-            "वारसा / हिस्सा / कौटुंबिक वाटप प्रक्रियेत असणारे.",
-            "उत्तराधिकारी प्रमाणपत्र, सक्सेशन सर्टिफिकेट किंवा कोर्ट प्रकरण असणारे.",
-            "करयोग्य जमीन तपासणारे CA / सल्लागार.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <ServiceList
-          items={[
-            "जिल्हा, तालुका आणि गाव.",
-            "खातेदाराचे संपूर्ण नाव (शक्यतो वडिलांच्या नावासह).",
-            "खाते नंबर — माहीत असल्यास सर्वोत्तम; नसल्यास नावाने शोध शक्य.",
-            "(पर्यायी) एखाद्या ज्ञात गट नंबरचा संदर्भ — पडताळणीसाठी उपयोगी.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "तुम्ही WhatsApp वर जिल्हा, तालुका, गाव आणि खाते नंबर / खातेदाराचे नाव शेअर करता.",
-            "PrintShubh टीम Mahabhumi वर उपलब्धता तपासते आणि शुल्क सांगते.",
-            "तुमच्या मंजुरीनंतर UPI द्वारे पेमेंट घेतले जाते.",
-            "8A ची PDF WhatsApp वर पाठवली जाते — सहसा त्याच दिवशी.",
-            "नोंद उपलब्ध नसल्यास परतावा धोरणानुसार रक्कम परत.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          8A च्या PDF मध्ये खातेदाराच्या नावावर असलेल्या सर्व जमिनींची यादी,
-          प्रत्येक गटाचे क्षेत्रफळ, आणि एकूण होल्डिंग दिसते. कागदी प्रिंटसाठी
-          A4 आकारात योग्य. आम्ही आवश्यकता असल्यास printer-friendly स्वरूपात
-          देऊ शकतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "8A गावनिहाय असतो — एका खातेदाराच्या वेगवेगळ्या गावांतील जमिनींसाठी प्रत्येक गावाचा वेगळा 8A लागतो.",
-            "खातेदाराचे नाव चुकीचे स्पेलिंग असल्यास नोंद सापडत नाही — स्थानिक उच्चार लक्षात ठेवा.",
-            "वारस नोंद अपूर्ण असल्यास 8A वर मूळ मालकाचेच नाव दिसू शकते — फेरफार प्रक्रिया तपासा.",
-            "एका गटावर अनेक खातेदार असल्यास, प्रत्येक मालकाच्या 8A वर हिस्सा-नोंद वेगळी दिसते.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          अंतिम पडताळणी संबंधित तहसील कार्यालय किंवा Mahabhumi पोर्टलवरून
-          करावी.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={eightAFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">

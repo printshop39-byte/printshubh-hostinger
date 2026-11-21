@@ -5,16 +5,10 @@
  *
  * Renders as a self-contained card (matching the service-page article /
  * related-services cards) so it drops cleanly into both the homepage and
- * ServicePageShell. Bilingual via useLang(); SSR default lang is "mr", so
- * the Marathi price text ships in the server HTML (Google-readable).
- *
- * Language rule: in Marathi view show Marathi labels only; in English view
- * show English labels only. Brand/standard terms ("PrintShubh", "Google Map",
- * "Index II") may appear in both. Price numbers are identical across languages.
+ * ServicePageShell. English only (the public site has no language switch).
  */
 
 import { AlertTriangle, BadgeCheck, MessageCircle } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { buildWhatsAppUrl, WHATSAPP_DEFAULT_MESSAGE } from "@/lib/whatsapp";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { trackFunnelEvent } from "@/lib/analytics";
@@ -23,36 +17,17 @@ import { PRICING_GROUPS } from "@/lib/pricing-data";
 
 const groups = PRICING_GROUPS;
 
-const badge: Record<Lang, string> = { mr: "पारदर्शक किंमत", en: "Transparent pricing" };
-const heading: Record<Lang, string> = {
-  mr: "किंमत आधी कळेल — छुपी फी नाही",
-  en: "Know the price first — no hidden fees",
-};
-const sub: Record<Lang, string> = {
-  mr: "सेवा सुरू होण्यापूर्वी किंमत WhatsApp वर स्पष्ट सांगितली जाते. तुमची संमती मिळाल्यानंतरच काम सुरू केले जाते.",
-  en: "Before starting the service, the price is clearly shared on WhatsApp. Work starts only after your confirmation.",
-};
-const noteLabel: Record<Lang, string> = { mr: "टीप:", en: "Note:" };
-const note: Record<Lang, string> = {
-  mr: "ही सुरुवातीची किंमत आहे. अंतिम किंमत जिल्हा, तालुका, गाव, गट नंबर आणि report type नुसार WhatsApp वर आधी सांगितली जाईल. तुमची संमती मिळाल्यानंतरच काम सुरू होईल.",
-  en: "These are starting prices. The final price depends on district, taluka, village, survey/gat number, and report type. The final price will be shared on WhatsApp before starting the work.",
-};
-const cta: Record<Lang, string> = {
-  mr: "WhatsApp वर मोफत विचारा — किंमत आधी कळेल",
-  en: "Ask free on WhatsApp — know the price first",
-};
-const disclaimer: Record<Lang, string> = {
-  mr: "PrintShubh ही सरकारी वेबसाइट नाही. आम्ही जमीन कागदपत्र शोध व PDF सहाय्य सेवा देतो. अंतिम कायदेशीर पडताळणी अधिकृत सरकारी पोर्टलवर करावी.",
-  en: "PrintShubh is not a government website. We provide land document search and PDF assistance services. Please verify final legal information on the official government portal.",
-};
+const badge: string = "Transparent pricing";
+const heading: string = "Know the price first — no hidden fees";
+const sub: string = "Before starting the service, the price is clearly shared on WhatsApp. Work starts only after your confirmation.";
+const noteLabel: string = "Note:";
+const note: string = "These are starting prices. The final price depends on district, taluka, village, survey/gat number, and report type. The final price will be shared on WhatsApp before starting the work.";
+const cta: string = "Ask free on WhatsApp — know the price first";
+const disclaimer: string = "PrintShubh is not a government website. We provide land document search and PDF assistance services. Please verify final legal information on the official government portal.";
 
-export function PricingSection({ serviceName }: { serviceName?: Record<Lang, string> }) {
-  const { lang } = useLang();
-
+export function PricingSection({ serviceName }: { serviceName?: string }) {
   const message = serviceName
-    ? lang === "mr"
-      ? `नमस्कार PrintShubh, मला ${serviceName.mr} हवी आहे.\nजिल्हा: \nतालुका: \nगाव: \nगट/सर्वे नंबर: \nकृपया किंमत आणि वेळ सांगा.`
-      : `Hello PrintShubh, I need ${serviceName.en}.\nDistrict: \nTaluka: \nVillage: \nGut/Survey no.: \nPlease share price and time.`
+    ? `Hello PrintShubh, I need ${serviceName}.\nDistrict: \nTaluka: \nVillage: \nGut/Survey no.: \nPlease share price and time.`
     : undefined;
   const waHref = buildWhatsAppUrl({
     message: message ?? WHATSAPP_DEFAULT_MESSAGE,
@@ -62,29 +37,29 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
   return (
     <section
       id="pricing"
-      aria-label={heading[lang]}
+      aria-label={heading}
       className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9"
     >
       <p className="inline-flex items-center gap-2 rounded-md border border-green-200 bg-green-50 px-3 py-1.5 text-xs font-bold text-green-800">
         <BadgeCheck className="size-4" />
-        {badge[lang]}
+        {badge}
       </p>
       <h2 className="mt-4 text-2xl font-black leading-tight text-slate-950 sm:text-3xl">
-        {heading[lang]}
+        {heading}
       </h2>
-      <p className="mt-2 max-w-2xl text-[15px] leading-7 text-slate-600">{sub[lang]}</p>
+      <p className="mt-2 max-w-2xl text-[15px] leading-7 text-slate-600">{sub}</p>
 
       <div className="mt-6 space-y-6">
         {groups.map((g) => (
           <div key={g.title.en}>
             <h3 className="mb-2 text-sm font-black uppercase tracking-[0.14em] text-brand-navy">
-              {g.title[lang]}
+              {g.title.en}
             </h3>
             <dl className="divide-y divide-slate-200 overflow-hidden rounded-xl border border-slate-200">
               {g.rows.map((r) => (
                 <div key={r.name.en} className="flex items-center justify-between gap-4 px-4 py-3.5">
-                  <dt className="text-[15px] font-semibold text-slate-800">{r.name[lang]}</dt>
-                  <dd className="shrink-0 text-right text-[14px] font-black text-green-700">{r.price[lang]}</dd>
+                  <dt className="text-[15px] font-semibold text-slate-800">{r.name.en}</dt>
+                  <dd className="shrink-0 text-right text-[14px] font-black text-green-700">{r.price.en}</dd>
                 </div>
               ))}
             </dl>
@@ -95,7 +70,7 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
       <div className="mt-5 flex items-start gap-3 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3.5">
         <AlertTriangle className="mt-0.5 size-5 shrink-0 text-amber-600" />
         <p className="text-[13.5px] leading-7 text-amber-900">
-          <strong className="font-bold">{noteLabel[lang]}</strong> {note[lang]}
+          <strong className="font-bold">{noteLabel}</strong> {note}
         </p>
       </div>
 
@@ -107,16 +82,16 @@ export function PricingSection({ serviceName }: { serviceName?: Record<Lang, str
           // Preserve the form-funnel behaviour (may preventDefault on the
           // homepage); analytics never blocks navigation.
           inquiryCtaClick(e);
-          trackFunnelEvent("pricing_whatsapp_click", { lang, surface: "pricing" });
+          trackFunnelEvent("pricing_whatsapp_click", { lang: "en", surface: "pricing" });
           trackWhatsAppLead();
         }}
         className="mt-6 inline-flex h-[52px] w-full items-center justify-center gap-2 rounded-md bg-green-600 px-5 text-[15px] font-bold text-white shadow-sm transition hover:bg-green-700 sm:w-auto"
       >
         <MessageCircle className="size-5" />
-        {cta[lang]}
+        {cta}
       </a>
 
-      <p className="mt-5 text-xs leading-6 text-slate-500">{disclaimer[lang]}</p>
+      <p className="mt-5 text-xs leading-6 text-slate-500">{disclaimer}</p>
     </section>
   );
 }

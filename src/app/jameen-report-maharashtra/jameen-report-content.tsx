@@ -6,7 +6,6 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 
 export const jameenReportFaqMr: Array<{ q: string; a: string }> = [
   {
@@ -63,139 +62,21 @@ const jameenReportFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function JameenReportContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="jameen-report-maharashtra"
-      eyebrow={{ mr: "जमीन Due Diligence", en: "Land Due Diligence" }}
-      title={{
-        mr: "जमीन अहवाल महाराष्ट्र — Land Report सहाय्य",
-        en: "Land Report Maharashtra — Compiled Document Bundle",
-      }}
-      breadcrumb={{ mr: "जमीन अहवाल", en: "Land Report" }}
-      intro={{
-        mr: "7/12, 8A, फेरफार इतिहास, गाव / गट नकाशा आणि DP/TP संदर्भ — एका जमीन-अहवालात एकत्र. खरेदी, कर्ज किंवा कोर्ट कामासाठी संपूर्ण चित्र WhatsApp वर मिळवा.",
-        en: "7/12, 8A, mutation history, village / Gut map and DP/TP references — bundled into one land report. The full picture for purchase, loan or court matters, delivered on WhatsApp.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला संपूर्ण जमीन अहवाल हवा आहे.\nजिल्हा:\nतालुका:\nगाव:\nगट / सर्वे / CTS नंबर:\nप्रकरणाचा उद्देश (खरेदी / लोन / कोर्ट):",
-        en: "Hello, I need a complete land report.\nDistrict:\nTaluka:\nVillage:\nGut / Survey / CTS number:\nPurpose (purchase / loan / court):",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={jameenReportFaqEn} />}
+      eyebrow="Land Due Diligence"
+      title="Land Report Maharashtra — Compiled Document Bundle"
+      breadcrumb="Land Report"
+      intro="7/12, 8A, mutation history, village / Gut map and DP/TP references — bundled into one land report. The full picture for purchase, loan or court matters, delivered on WhatsApp."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need a complete land report.\nDistrict:\nTaluka:\nVillage:\nGut / Survey / CTS number:\nPurpose (purchase / loan / court):"}
+      content={<Body faqPairs={jameenReportFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>जमीन अहवाल (Land Report)</strong> हा एका जमिनीसाठी सर्व
-          महत्त्वाच्या नोंदी आणि कागदपत्रांचे एकत्रित संकलन आहे — 7/12 उतारा,
-          8A उतारा, ई-फेरफार इतिहास, गाव / गट नकाशा, बोजे, ownership chain
-          आणि DP/TP / झोन माहिती. खरेदी, कर्ज, कोर्ट प्रकरण किंवा कौटुंबिक
-          वाटप — कोणत्याही महत्त्वाच्या निर्णयाआधी संपूर्ण चित्र एका कागदात
-          मिळतो.
-        </p>
-        <p>
-          PrintShubh टीम सर्व डेटा <strong>Mahabhumi, Bhulekh, Bhuvan,
-          sanctioned DP प्रकाशने</strong> आणि इतर{" "}
-          <strong>अधिकृत सार्वजनिक स्रोतांवरून</strong> शोधते, एका
-          वाचनीय PDF अहवालात संकलित करते आणि WhatsApp वर पाठवते.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "जमीन खरेदी due diligence करणारे — मालकी, बोजे, आरक्षण सर्व एका कागदात.",
-            "बँक होम लोन, कृषी कर्ज, LAP अर्जदार.",
-            "कोर्ट केस / मध्यस्थी / लवादात पुरावा गोळा करणारे.",
-            "वारसा / कौटुंबिक वाटप / सक्सेशन प्रकरणे.",
-            "Real-estate developer, builder, investor due diligence.",
-            "अनिवासी भारतीय (NRI) मूळ गावाची संपूर्ण माहिती गोळा करणारे.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <ServiceList
-          items={[
-            "जिल्हा, तालुका, गाव.",
-            "गट / सर्वे नंबर (ग्रामीण) किंवा CTS नंबर (शहरी).",
-            "मालकाचे नाव — पडताळणीसाठी.",
-            "प्रकरणाचा उद्देश — खरेदी / लोन / कोर्ट / वारसा.",
-            "(पर्यायी) ज्ञात मागील नोंद, फेरफार क्रमांक किंवा date range.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "तुम्ही WhatsApp वर सर्व माहिती + प्रकरणाचा उद्देश शेअर करता.",
-            "PrintShubh टीम अहवालाची व्याप्ती ठरवते आणि shulk सांगते.",
-            "मंजुरीनंतर UPI द्वारे पेमेंट.",
-            "24–72 तासांत PDF अहवाल WhatsApp वर पाठवला जातो.",
-            "अहवालावर प्रश्न असल्यास टीम स्पष्टीकरण देते.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          अहवालात साधारणपणे खालील विभाग असतात — आवश्यकतेनुसार समायोजन शक्य:
-        </p>
-        <ServiceList
-          items={[
-            "मालकी सारांश (Ownership summary).",
-            "7/12 उतारा — सद्य प्रत.",
-            "8A उतारा — खातेदार-निहाय एकत्रित नोंद.",
-            "फेरफार इतिहास — मालकी बदलाची ओळ.",
-            "गाव नकाशा / गट नकाशा — सीमा आणि शेजार.",
-            "बोजे / गहाण नोंदी (असल्यास).",
-            "(शहरी जमिनीसाठी) Property Card, CTS तपशील.",
-            "(पर्यायी) DP / TP / झोन indicative नोंद.",
-            "टीप-टिप्पणी आणि शिफारस केलेले पुढील पाऊल.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "अहवाल हा संकलन-अहवाल आहे, टायटल सर्टिफिकेट नाही. कायदेशीर title opinion साठी वकील आवश्यक.",
-            "खूप जुन्या नोंदी आणि पुनर्मोजणीनंतरचे फरक स्पष्टपणे नमूद होतात.",
-            "एकाहून अधिक गावांत जमीन असल्यास प्रत्येक गावाची माहिती स्वतंत्र विभागात येते.",
-            "अहवालाचे शुल्क प्रकरणाच्या जटिलतेवर अवलंबून असते — पहिल्या प्रश्नालाच quote दिले जाते.",
-            "अहवाल खाजगी आणि गोपनीय आहे — परवानगीशिवाय शेअर केला जात नाही.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          हा अहवाल कायदेशीर title opinion किंवा सरकारी प्रमाणपत्र नाही —
-          कोर्ट / नोंदणी / बँक यांच्या स्तरावर अधिकृत stamped प्रत आवश्यक.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={jameenReportFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">

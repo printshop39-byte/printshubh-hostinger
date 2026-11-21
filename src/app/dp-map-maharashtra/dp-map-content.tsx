@@ -6,7 +6,6 @@ import {
   ServiceList,
   ServiceFaq,
 } from "@/components/service-page-shell";
-import { useLang } from "@/components/language-context";
 
 export const dpMapFaqMr: Array<{ q: string; a: string }> = [
   {
@@ -63,137 +62,21 @@ const dpMapFaqEn: Array<{ q: string; a: string }> = [
 ];
 
 export function DpMapContent() {
-  const { lang } = useLang();
-
   return (
     <ServicePageShell
       slug="dp-map-maharashtra"
-      eyebrow={{ mr: "नगर रचना सेवा", en: "Town Planning Service" }}
-      title={{
-        mr: "DP Map / TP Map Maharashtra — Development Plan सहाय्य",
-        en: "DP Map / TP Map Maharashtra — Development Plan Assistance",
-      }}
-      breadcrumb={{ mr: "DP / TP Map", en: "DP / TP Map" }}
-      intro={{
-        mr: "महाराष्ट्रातील Development Plan, TP Scheme आणि Regional Plan संदर्भासाठी WhatsApp वर खाजगी सहाय्य. झोन, आरक्षण, रस्ता रुंदी आणि FSI तपासण्याचा सोपा मार्ग.",
-        en: "Private WhatsApp assistance for Maharashtra Development Plan, TP Scheme and Regional Plan references — zoning, reservations, road widths and FSI checks made simple.",
-      }}
-      updatedAt={lang === "mr" ? "मे २०२६" : "May 2026"}
-      whatsappMessage={{
-        mr: "नमस्कार, मला DP Map / TP Map तपासायचा आहे.\nजिल्हा / शहर:\nतालुका / Ward:\nCTS किंवा गट नंबर:\nप्रश्न (झोन / आरक्षण / FSI / रस्ता):",
-        en: "Hello, I need to check the DP / TP Map.\nDistrict / City:\nTaluka / Ward:\nCTS or Gut number:\nQuestion (zone / reservation / FSI / road):",
-      }}
-      contentMr={<BodyMr />}
-      contentEn={<BodyEn faqPairs={dpMapFaqEn} />}
+      eyebrow="Town Planning Service"
+      title="DP Map / TP Map Maharashtra — Development Plan Assistance"
+      breadcrumb="DP / TP Map"
+      intro="Private WhatsApp assistance for Maharashtra Development Plan, TP Scheme and Regional Plan references — zoning, reservations, road widths and FSI checks made simple."
+      updatedAt="May 2026"
+      whatsappMessage={"Hello, I need to check the DP / TP Map.\nDistrict / City:\nTaluka / Ward:\nCTS or Gut number:\nQuestion (zone / reservation / FSI / road):"}
+      content={<Body faqPairs={dpMapFaqEn} />}
     />
   );
 }
 
-function BodyMr() {
-  return (
-    <>
-      <ServiceSection heading="सेवा म्हणजे काय?">
-        <p>
-          <strong>Development Plan (DP)</strong> आणि{" "}
-          <strong>Town Planning Scheme (TP)</strong> हे महाराष्ट्र प्रादेशिक
-          आणि नगर रचना अधिनियमांतर्गत मंजूर केलेले वैधानिक नकाशे आहेत. ते
-          झोन-वर्गीकरण (निवासी, व्यावसायिक, औद्योगिक), रस्ता रुंदी, सार्वजनिक
-          आरक्षण (बाग, शाळा, हॉस्पिटल), आणि भविष्यातील विकास दिशा यांची नोंद
-          ठेवतात.
-        </p>
-        <p>
-          PrintShubh टीम <strong>UDCPR 2020</strong>, मंजूर sanctioned DP
-          प्रकाशने आणि संबंधित नगर रचना विभागांच्या{" "}
-          <strong>अधिकृत सार्वजनिक स्रोतांवर</strong> तपास करून तुमच्या
-          जमिनीवर लागू असलेल्या DP तरतुदी WhatsApp वर पाठवते — सोप्या भाषेत
-          स्पष्ट करून.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="कोणाला उपयोगी?">
-        <ServiceList
-          items={[
-            "जमीन खरेदीपूर्वी आरक्षण / झोन तपासू इच्छिणारे.",
-            "बांधकाम परवाना, NA अर्ज, FSI consumption planning करणारे.",
-            "Real-estate developer, architect, structural consultant.",
-            "Project finance आणि land due-diligence टीम.",
-            "रस्ता रुंदीकरण / TP योजना अंतर्गत प्रभावित होणारे मालक.",
-            "TDR (Transferable Development Rights) पडताळणी करणारे.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="कोणती माहिती लागते?">
-        <ServiceList
-          items={[
-            "जिल्हा / शहर (e.g. कोल्हापूर, पुणे, मुंबई, ठाणे).",
-            "तालुका किंवा महानगरपालिका ward.",
-            "CTS नंबर (शहरी जमिनी) किंवा गट नंबर (ग्रामीण).",
-            "(पर्यायी) survey number, plot number, building name.",
-            "तुमचा प्रश्न — झोन तपासणी, आरक्षण, FSI, किंवा रस्ता रुंदी.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="WhatsApp वर प्रक्रिया कशी होते?">
-        <ServiceList
-          items={[
-            "तुम्ही WhatsApp वर स्थान + CTS / गट नंबर + विशिष्ट प्रश्न शेअर करता.",
-            "PrintShubh टीम संबंधित DP / TP नकाशा शोधते आणि तुमची जमीन कोणत्या भागात आहे ते निश्चित करते.",
-            "लागू झोन, आरक्षण, रस्ता रुंदी आणि indicative FSI कळवले जाते.",
-            "PDF excerpt + लघु लेखी अहवाल WhatsApp वर पाठवला जातो.",
-            "शुल्क आधी सांगितले जाते; UPI पेमेंट.",
-            "विशिष्ट प्लॉटसाठी DP तपशील नसल्यास परतावा.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PDF / दस्तऐवज सहाय्य">
-        <p>
-          आमचा अहवाल DP नकाशा excerpt, झोन-वर्ग, लागू आरक्षणे आणि रस्ता
-          रुंदीसह तयार केला जातो. <strong>UDCPR 2020 अंतर्गत indicative
-          FSI</strong> देखील नमूद होते — पण अंतिम परवानगी आर्किटेक्ट /
-          महानगरपालिका विभागावर अवलंबून.
-        </p>
-        <p>
-          आरक्षणाचा अर्थ <em>तुमची जमीन ताबडतोब बंद होणार</em> असा नाही — बहुतेक
-          आरक्षणे सरकारी अधिग्रहण / TDR / accommodation reservation पद्धतीने
-          सोडवली जातात. आम्ही या पुढच्या पावलांची दिशा देखील सांगतो.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="महत्त्वाच्या सूचना">
-        <ServiceList
-          items={[
-            "DP प्रकाशनांचे विविध revision असू शकतात — नवीनतम sanctioned आवृत्ती तपासावी.",
-            "TP Scheme अंतर्गत final plots मूळ plots पेक्षा वेगळ्या असू शकतात.",
-            "रस्ता रुंदीकरण proposed असू शकते — DP वर proposed आणि existing वेगवेगळ्या रंगात दिसते.",
-            "एका CTS वर एकापेक्षा अधिक आरक्षणे असू शकतात — पूर्ण नकाशा तपासणे आवश्यक.",
-            "औद्योगिक / SEZ / Eco-sensitive झोन असल्यास अतिरिक्त मंजुरी लागते.",
-          ]}
-        />
-      </ServiceSection>
-
-      <ServiceSection heading="PrintShubh सरकारी वेबसाइट नाही">
-        <p>
-          <strong>
-            PrintShubh हे सरकारी संकेतस्थळ नाही. आम्ही अधिकृत स्रोतांवर आधारित
-            खाजगी सहाय्य सेवा प्रदान करतो.
-          </strong>{" "}
-          बांधकाम परवाना, NA, किंवा कायदेशीर निर्णयासाठी संबंधित नगर रचना
-          विभाग / महानगरपालिकेच्या अधिकृत प्रत व सही-शिक्का असलेल्या
-          प्रकाशनांवरच अवलंबून रहावे.
-        </p>
-      </ServiceSection>
-
-      <ServiceSection heading="वारंवार विचारले जाणारे प्रश्न">
-        <ServiceFaq pairs={dpMapFaqMr} />
-      </ServiceSection>
-    </>
-  );
-}
-
-function BodyEn({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
+function Body({ faqPairs }: { faqPairs: Array<{ q: string; a: string }> }) {
   return (
     <>
       <ServiceSection heading="What is this service?">
