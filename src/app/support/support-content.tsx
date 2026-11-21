@@ -103,7 +103,7 @@ export function SupportContent() {
       breadcrumb="Support"
       intro={tx.intro}
       updatedAt="May 2026"
-      contentEn={<SupportBody />}
+      content={<SupportBody />}
     />
   );
 }

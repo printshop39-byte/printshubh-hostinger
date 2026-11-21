@@ -15,7 +15,7 @@ export function FaqContent() {
       breadcrumb="FAQ"
       intro="Common questions about 7/12, 8A, mutation, village maps, DP/TP, payment and refund — all in one place."
       updatedAt="May 2026"
-      contentEn={<FaqList items={items} openIdx={openIdx} setOpenIdx={setOpenIdx} />}
+      content={<FaqList items={items} openIdx={openIdx} setOpenIdx={setOpenIdx} />}
     />
   );
 }

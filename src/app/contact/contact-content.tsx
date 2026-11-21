@@ -63,7 +63,7 @@ export function ContactContent() {
       intro={t.intro}
       updatedAt="May 2026"
       showServiceDisclaimer={false}
-      contentEn={<ContactBody t={t} waHref={waHref} />}
+      content={<ContactBody t={t} waHref={waHref} />}
     />
   );
 }

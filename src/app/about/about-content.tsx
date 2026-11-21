@@ -104,7 +104,7 @@ export function AboutContent() {
       intro={copy.intro}
       updatedAt="November 2026"
       showServiceDisclaimer={false}
-      contentEn={<AboutBody />}
+      content={<AboutBody />}
     />
   );
 }

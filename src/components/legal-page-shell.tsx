@@ -21,21 +21,12 @@ import { SiteFooter } from "@/components/site-footer";
 import { ServiceAreaDisclaimer } from "@/components/service-area-disclaimer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 
-/** Plain English text. The `{ mr, en }` form is still accepted (and only `en`
- * is shown) until the legal pages are migrated in S1-B6. */
-type Text = string | { mr: string; en: string };
-
-const text = (t: Text): string => (typeof t === "string" ? t : t.en);
-
 interface LegalPageShellProps {
-  title: Text;
-  intro?: Text;
-  breadcrumb?: Text;
-  /** Legacy Marathi content - no longer rendered (English-only site). Removed
-   * once the legal pages drop it in S1-B6. */
-  contentMr?: ReactNode;
+  title: string;
+  intro?: string;
+  breadcrumb?: string;
   /** Page content. Use plain React nodes for full layout control. */
-  contentEn: ReactNode;
+  content: ReactNode;
   /** Last-updated date string (already localized or just ISO). */
   updatedAt?: string;
   /** Show the "not a government body" banner. Defaults to true. */
@@ -49,7 +40,7 @@ export function LegalPageShell({
   title,
   intro,
   breadcrumb,
-  contentEn,
+  content,
   updatedAt,
   showServiceDisclaimer = true,
 }: LegalPageShellProps) {
@@ -71,16 +62,16 @@ export function LegalPageShell({
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
               <span className="text-slate-700">
-                {text(breadcrumb ?? title)}
+                {breadcrumb ?? title}
               </span>
             </nav>
 
             <h1 className="text-3xl font-black leading-tight text-slate-950 sm:text-4xl">
-              {text(title)}
+              {title}
             </h1>
             {intro && (
               <p className="mt-3 max-w-2xl text-base leading-7 text-slate-600">
-                {text(intro)}
+                {intro}
               </p>
             )}
             {updatedAt && (
@@ -96,7 +87,7 @@ export function LegalPageShell({
           <div className="mx-auto max-w-4xl space-y-6">
             {showServiceDisclaimer && <ServiceAreaDisclaimer variant="compact" />}
             <article className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-9">
-              {contentEn}
+              {content}
             </article>
           </div>
         </section>

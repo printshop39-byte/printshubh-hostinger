@@ -6,32 +6,24 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { type Lang } from "@/components/language-context";
 import { SITE_CONTACT } from "@/components/site-footer";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 export function RefundContent() {
   return (
     <LegalPageShell
-      title={{ mr: "परतावा धोरण", en: "Refund Policy" }}
-      breadcrumb={{ mr: "परतावा धोरण", en: "Refund" }}
-      intro={{
-        mr: "PrintShubh वर पेमेंट केल्यानंतर परतावा कधी मिळतो, कधी नाही आणि अडचण आल्यास काय करावे — हे सोप्या भाषेत.",
-        en: "When refunds are issued, when they are not, and how to request help if something goes wrong with a payment.",
-      }}
+      title="Refund Policy"
+      breadcrumb="Refund"
+      intro="When refunds are issued, when they are not, and how to request help if something goes wrong with a payment."
       updatedAt="May 2026"
-      contentMr={<RefundBody lang="mr" />}
-      contentEn={<RefundBody lang="en" />}
+      content={<RefundBody />}
     />
   );
 }
 
-function RefundBody({ lang }: { lang: Lang }) {
+function RefundBody() {
   /** WhatsApp deep-link with a pre-filled refund-support message. */
-  const waMsg =
-    lang === "mr"
-      ? "नमस्कार PrintShubh, मला परतावा / पेमेंट संदर्भात मदत हवी आहे."
-      : "Hello PrintShubh, I need help with a refund / payment issue.";
+  const waMsg = "Hello PrintShubh, I need help with a refund / payment issue.";
   const waHref = buildWhatsAppUrl({ message: waMsg, campaign: "refund" });
 
   const ContactCta = (
@@ -43,7 +35,7 @@ function RefundBody({ lang }: { lang: Lang }) {
         className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-green-600 text-sm font-black text-white shadow-sm transition hover:bg-green-700"
       >
         <MessageCircle className="size-4" />
-        {lang === "mr" ? "WhatsApp वर बोला" : "Chat on WhatsApp"}
+        Chat on WhatsApp
       </a>
       <a
         href={`tel:${SITE_CONTACT.phoneTel}`}
@@ -54,76 +46,6 @@ function RefundBody({ lang }: { lang: Lang }) {
       </a>
     </div>
   );
-
-  if (lang === "mr") {
-    return (
-      <>
-        <LegalSection heading="१. परतावा कधी मिळू शकतो">
-          <LegalList
-            items={[
-              "तुमचे पेमेंट यशस्वी झाले पण काम अद्याप सुरू झालेले नाही.",
-              "अधिकृत पोर्टलवर नोंद उपलब्ध नसल्यामुळे सेवा पूर्ण करता आली नाही.",
-              "सरकारी पोर्टल downtime / डेटा maintenance मुळे काम बराच काळ रखडले आहे.",
-              "तांत्रिक चुकीमुळे एकाच सेवेसाठी दुहेरी (duplicate) पेमेंट झाले आहे.",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="२. परतावा कधी मिळणार नाही">
-          <LegalList
-            items={[
-              "एकदा कागदपत्र शोध / download / processing / सहाय्य पूर्ण झाल्यानंतर परतावा सहसा मिळणार नाही.",
-              "वापरकर्त्याने पुरवलेली माहिती (जिल्हा, तालुका, गाव, गट / सर्वे / CTS नंबर) चुकीची असल्यामुळे चुकीचा अहवाल मिळाला असेल — परतावा मिळणार नाही, पण योग्य माहितीने पुन्हा शोध केला जाऊ शकतो.",
-              "अहवाल / PDF आधीच WhatsApp वर पाठवला गेला असेल.",
-              "तुम्ही WhatsApp वर सेवा confirm केल्यानंतर मनःस्थिती बदलल्यामुळे (change of mind) काम थांबवण्यास सांगितले असेल.",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="३. परतावा कसा मागायचा">
-          <LegalList
-            items={[
-              "पेमेंटनंतर ७२ तासांच्या आत समस्या नोंदवावी.",
-              "WhatsApp वर पेमेंट screenshot, सेवा request ID (असल्यास), आणि अडचण थोडक्यात सांगा.",
-              "आम्ही ४८ कामकाजी तासांत प्रतिसाद देतो.",
-              "परतावा मंजूर झाल्यास तीच UPI / बँक account वर ५-७ कामकाजी दिवसांत रक्कम परत केली जाते.",
-            ]}
-          />
-        </LegalSection>
-
-        {ContactCta}
-
-        <LegalSection heading="४. पेमेंट कापले गेले पण सेवा मिळाली नाही">
-          <p>
-            जर UPI / बँकेकडून पेमेंट कापले गेले पण PrintShubh कडून कोणतीही पावती,
-            confirmation किंवा सेवा सुरू झाली नसेल — कृपया ताबडतोब WhatsApp वर
-            screenshot सोबत संदेश पाठवा. आम्ही तुमचे पेमेंट UPI / बँकेकडून तपासू
-            आणि failed transaction असल्यास UPI / बँक नियमांप्रमाणे रक्कम
-            आपोआप परत होते (साधारणपणे ३-७ कामकाजी दिवस).
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="५. परतावा निर्णय">
-          <p>
-            प्रत्येक परतावा विनंतीचा{" "}
-            <strong>स्वतंत्र case-by-case आधारावर</strong> विचार केला जातो. केलेले
-            काम, खर्च झालेला वेळ, पुरवठा साखळी आणि वापरकर्त्याच्या बाजूने झालेली
-            चूक यांचा विचार करून अंतिम निर्णय घेतला जातो. PrintShubh चा निर्णय
-            अंतिम राहील.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="६. सद्भावनेने काम">
-          <p>
-            PrintShubh वापरकर्त्याच्या समाधानाला महत्त्व देते. जर सेवा देणे शक्य
-            नसेल किंवा खरी अडचण आली असेल तर आम्ही प्रामाणिकपणे परतावा देतो किंवा
-            सेवा पूर्ण करण्याचा पर्याय देतो. कोणत्याही अडचणीसाठी आधी WhatsApp वर
-            संपर्क साधा — आम्ही नेहमी मदत करण्याचा प्रयत्न करू.
-          </p>
-        </LegalSection>
-      </>
-    );
-  }
 
   /* English */
   return (

@@ -5,122 +5,20 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { type Lang } from "@/components/language-context";
 
 export function PrivacyContent() {
   return (
     <LegalPageShell
-      title={{ mr: "गोपनीयता धोरण", en: "Privacy Policy" }}
-      breadcrumb={{ mr: "गोपनीयता धोरण", en: "Privacy" }}
-      intro={{
-        mr: "PrintShubh आपल्या वैयक्तिक माहितीची काळजी घेतो. आम्ही कोणती माहिती गोळा करतो, ती कशी वापरतो आणि कशी सुरक्षित ठेवतो हे या धोरणात स्पष्ट केले आहे.",
-        en: "PrintShubh respects your privacy. This policy explains what information we collect, how it is used, and how it is protected.",
-      }}
+      title="Privacy Policy"
+      breadcrumb="Privacy"
+      intro="PrintShubh respects your privacy. This policy explains what information we collect, how it is used, and how it is protected."
       updatedAt="May 2026"
-      contentMr={<PrivacyBody lang="mr" />}
-      contentEn={<PrivacyBody lang="en" />}
+      content={<PrivacyBody />}
     />
   );
 }
 
-function PrivacyBody({ lang }: { lang: Lang }) {
-  if (lang === "mr") {
-    return (
-      <>
-        <LegalSection heading="१. आम्ही कोणती माहिती गोळा करतो">
-          <p>
-            सेवा पुरवण्यासाठी आम्ही खालील माहिती गोळा करू शकतो —
-          </p>
-          <LegalList
-            items={[
-              "नाव (तुम्ही पुरवल्यास)",
-              "फोन नंबर / WhatsApp नंबर — सेवेसाठी संपर्क करण्यासाठी",
-              "जिल्हा, तालुका, गाव — सेवा विनंतीसाठी",
-              "गट नंबर / सर्वे नंबर / CTS नंबर / खाता नंबर / फेरफार नंबर — कागदपत्र शोधण्यासाठी",
-              "WhatsApp वर पाठवलेले संदेश व कागदपत्रांचे फोटो (तुम्ही पाठवल्यास)",
-              "पेमेंट संदर्भ — UPI ID, transaction ID (पेमेंट pavti साठी)",
-              "वेबसाइट वापराची तांत्रिक माहिती — IP address, browser, सर्वसामान्य analytics",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="२. माहितीचा वापर">
-          <LegalList
-            items={[
-              "तुम्ही विनंती केलेली सेवा पुरवण्यासाठी.",
-              "WhatsApp / फोन / ईमेलद्वारे सेवेसंबंधी संवादासाठी.",
-              "पेमेंट पडताळणी आणि pavti जारी करण्यासाठी.",
-              "सेवेची गुणवत्ता सुधारण्यासाठी अंतर्गत वापर.",
-              "कायदेशीर अटी पूर्ण करण्यासाठी (आवश्यक असल्यास).",
-            ]}
-          />
-          <p>
-            <strong>आम्ही तुमची माहिती कधीही विकत नाही</strong> — कोणत्याही
-            third-party advertiser, marketer किंवा डेटा brokerला नाही.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="३. WhatsApp संवाद">
-          <p>
-            तुम्ही PrintShubh ला WhatsApp वर संपर्क केल्यास, तुमचा फोन नंबर,
-            संदेश आणि पाठवलेले PDF / फोटो आमच्या सेवा-संदर्भात save केले जाऊ
-            शकतात — हे फक्त सेवा पुरवणी, support आणि follow-up साठी असते. WhatsApp
-            संवाद हा Meta-WhatsApp च्या स्वतःच्या गोपनीयता धोरणाने सुरक्षित आहे.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="४. संवेदनशील माहिती न देण्याची विनंती">
-          <p>
-            कृपया आम्हाला <strong>आधार कार्ड, PAN, बँक खाते, OTP, पासवर्ड किंवा
-            इतर अतिसंवेदनशील ओळख माहिती</strong> WhatsApp / फॉर्म / ईमेल कुठेही
-            पाठवू नका — आमच्या सेवेसाठी ही माहिती आवश्यक नाही. कोणी अशी माहिती
-            मागितल्यास ती फसवणूक असू शकते.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="५. माहिती किती काळ ठेवली जाते">
-          <p>
-            सेवा पूर्ण झाल्यानंतर साधारणपणे <strong>१८ महिन्यांपर्यंत</strong>{" "}
-            संदर्भासाठी माहिती ठेवली जाते (पेमेंट / सहाय्य / dispute resolution
-            साठी). नंतर वैयक्तिक संदर्भ माहिती सुरक्षितपणे delete केली जाते.
-            कायदेशीर बंधन असल्यास हा कालावधी बदलू शकतो.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="६. तुमचे हक्क">
-          <LegalList
-            items={[
-              "तुमची माहिती बघण्याची विनंती करण्याचा हक्क.",
-              "चुकीची माहिती दुरुस्त करण्याची विनंती करण्याचा हक्क.",
-              "वैयक्तिक संदर्भ माहिती delete करण्याची विनंती करण्याचा हक्क (कायदेशीर बंधन नसल्यास).",
-              "WhatsApp marketing / non-essential संदेशांना थांबवण्याचा हक्क.",
-            ]}
-          />
-          <p>
-            या हक्कांसाठी कृपया <a className="font-bold text-blue-700 hover:underline" href="mailto:support@printshubh.shop">support@printshubh.shop</a> वर ईमेल करा.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="७. कुकीज व analytics">
-          <p>
-            वेबसाइट सुधारण्यासाठी सर्वसामान्य analytics (पान भेटी, device प्रकार)
-            वापरले जातात. वैयक्तिक ओळख न होणारी ही माहिती असते. तुम्ही तुमच्या
-            browser सेटिंगमधून cookies disable करू शकता — परंतु काही फीचर्स
-            योग्य काम करणार नाहीत.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="८. धोरणातील बदल">
-          <p>
-            आम्ही या धोरणामध्ये कधीही बदल करू शकतो. महत्त्वाचे बदल वेबसाइटवर
-            प्रकाशित केले जातील. वेबसाइट वापरणे चालू ठेवल्यास नवीन धोरण मान्य
-            आहे असे समजले जाईल.
-          </p>
-        </LegalSection>
-      </>
-    );
-  }
-
+function PrivacyBody() {
   /* English */
   return (
     <>

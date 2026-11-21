@@ -6,125 +6,28 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
-import { type Lang } from "@/components/language-context";
 
 export function DisclaimerContent() {
   return (
     <LegalPageShell
-      title={{ mr: "अस्वीकरण", en: "Disclaimer" }}
-      breadcrumb={{ mr: "अस्वीकरण", en: "Disclaimer" }}
-      intro={{
-        mr: "कृपया हे अस्वीकरण काळजीपूर्वक वाचा. PrintShubh ही खाजगी सहाय्य सेवा आहे — कोणतीही सरकारी संस्था, अधिकृत वेबसाइट किंवा अधिकृत कार्यालय नाही.",
-        en: "Please read this disclaimer carefully. PrintShubh is a private assistance service — it is not a government body, official website or government office.",
-      }}
+      title="Disclaimer"
+      breadcrumb="Disclaimer"
+      intro="Please read this disclaimer carefully. PrintShubh is a private assistance service — it is not a government body, official website or government office."
       updatedAt="May 2026"
-      contentMr={<DisclaimerBody lang="mr" />}
-      contentEn={<DisclaimerBody lang="en" />}
+      content={<DisclaimerBody />}
     />
   );
 }
 
-function DisclaimerBody({ lang }: { lang: Lang }) {
+function DisclaimerBody() {
   const Banner = (
     <div className="mb-6 flex items-start gap-3 rounded-lg border-2 border-red-300 bg-red-50 p-4 text-[14px] font-bold leading-7 text-red-900">
       <AlertTriangle className="mt-0.5 size-5 shrink-0 text-red-700" />
       <p>
-        {lang === "mr"
-          ? "महत्त्वाची सूचना: PrintShubh.shop ही कोणत्याही सरकारी विभागाची, तहसील कार्यालयाची किंवा महसूल विभागाची अधिकृत वेबसाइट नाही. आम्ही फक्त खाजगी कागदपत्र सहाय्य पुरवतो."
-          : "Important notice: PrintShubh.shop is NOT the official website of any government department, Tehsil office or revenue office. We provide private document-assistance only."}
+        {"Important notice: PrintShubh.shop is NOT the official website of any government department, Tehsil office or revenue office. We provide private document-assistance only."}
       </p>
     </div>
   );
-
-  if (lang === "mr") {
-    return (
-      <>
-        {Banner}
-
-        <LegalSection heading="१. PrintShubh ही सरकारी संस्था नाही">
-          <p>
-            PrintShubh.shop ही महाराष्ट्रासाठी एक <strong>खाजगी सहाय्य
-            सेवा</strong> आहे. आम्ही सरकारच्या भूमि अभिलेख विभागाचे, महसूल
-            विभागाचे, IGR कार्यालयाचे, MahaRERA चे, ULB चे किंवा अन्य कोणत्याही
-            सरकारी संस्थेचे प्रतिनिधी नाही. आमचे कोणत्याही सरकारी विभागाशी
-            अधिकृत संलग्न नाही.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="२. माहितीचा स्रोत">
-          <p>
-            आम्ही जी माहिती तुम्हाला पुरवतो ती{" "}
-            <strong>
-              अधिकृत सार्वजनिक स्रोतांवर — Mahabhumi, Bhulekh, Bhuvan, iGR, ULB
-              DP / TP प्रकाशने, MahaRERA सारख्या सरकारी पोर्टलवर
-            </strong>{" "}
-            उपलब्ध असलेल्या माहितीवर आधारित आहे. आम्ही कोणतीही नोंद{" "}
-            <strong>तयार करत नाही, मंजूर करत नाही किंवा बदलत नाही.</strong>
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="३. अंतिम पडताळणी अधिकृत पोर्टलवरून आवश्यक">
-          <p>
-            PrintShubh कडून मिळालेले 7/12, 8A, फेरफार, मिळकत पत्रिका, गाव नकाशा,
-            DP / TP नकाशा संदर्भ हे{" "}
-            <strong>केवळ प्राथमिक संदर्भासाठी</strong> आहेत. कोणत्याही कायदेशीर
-            व्यवहारापूर्वी (विक्री, खरेदी, करार, खटला, बँक कर्ज, NA परवानगी
-            इत्यादी) तुम्ही अंतिम नोंद{" "}
-            <strong>
-              संबंधित तहसील कार्यालय / अधिकृत सरकारी पोर्टल / नोंदणी कार्यालयावरून
-              पडताळून पहाणे आवश्यक आहे.
-            </strong>
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="४. नकाशा / map संदर्भाची मर्यादा">
-          <LegalList
-            items={[
-              "वेबसाइटवरील गाव सीमा (village boundary) आणि नकाशा थर हे public GIS स्रोतांवर आधारित आहेत — हे अधिकृत मोजणी नकाशा नाहीत.",
-              "Satellite / Hybrid / Terrain layers हे Esri, OpenStreetMap, OpenTopoMap यासारख्या तृतीय-पक्ष सेवांकडून येतात.",
-              "वापरकर्त्याने नकाशावर मार्क केलेली प्लॉट सीमा फक्त संदर्भासाठी आहे — अंतिम मोजणी अधिकृत भूमी मोजणी विभागाकडून करावी.",
-              "क्षेत्रफळ (एकर / गुंठा / sq.m) हे अंदाजे आहे — अधिकृत 7/12 / मोजणी नकाशामधील क्षेत्रफळावर अवलंबून रहावे.",
-            ]}
-          />
-        </LegalSection>
-
-        <LegalSection heading="५. सरकारी पोर्टलवरील समस्या">
-          <p>
-            अधिकृत सरकारी पोर्टलमधील <strong>downtime, server समस्या, चुकीच्या
-            नोंदी, डेटा maintenance, धोरण बदल किंवा बंद पडलेल्या सेवा</strong>{" "}
-            यासाठी PrintShubh कोणत्याही प्रकारे जबाबदार नाही. अशा स्थितीत आम्ही
-            तुम्हाला कळवतो आणि परतावा धोरणानुसार सेवा शुल्क परत करू शकतो.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="६. कायदेशीर सल्ला नाही">
-          <p>
-            PrintShubh कोणताही <strong>कायदेशीर सल्ला, कर सल्ला, गुंतवणूक
-            सल्ला, मालमत्ता मूल्यांकन सल्ला</strong> देत नाही. आमची माहिती सामान्य
-            संदर्भासाठी आहे. कायदेशीर निर्णयांसाठी कृपया वकील, चार्टर्ड
-            अकाउंटंट, सरकारी रजिस्ट्रार किंवा संबंधित professional सल्लागाराशी
-            संपर्क साधा.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="७. तृतीय-पक्ष लिंक्स">
-          <p>
-            वेबसाइटवर सरकारी पोर्टल किंवा इतर तृतीय-पक्ष वेबसाइटच्या लिंक्स असू
-            शकतात. अशा वेबसाइटच्या content, accuracy किंवा privacy practices साठी
-            PrintShubh जबाबदार नाही.
-          </p>
-        </LegalSection>
-
-        <LegalSection heading="८. अनधिकृत वापर">
-          <p>
-            PrintShubh कडून मिळालेले PDF / अहवाल हे फसवणूक, बनावट कागदपत्र निर्मिती
-            किंवा कायद्याच्या विरुद्ध कोणत्याही प्रकारच्या वापरासाठी वापरू नयेत.
-            अशा वापरामुळे होणाऱ्या परिणामांसाठी फक्त वापरकर्ता जबाबदार आहे.
-          </p>
-        </LegalSection>
-      </>
-    );
-  }
 
   /* English */
   return (
