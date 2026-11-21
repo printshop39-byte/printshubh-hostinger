@@ -85,11 +85,10 @@ const copy: Copy = {
     "Our interior prints are made on an 11-colour, large-format printing system. Print consultation is available: we help you choose the size and material that suit your space.",
   counterHeading: "Also at the counter",
   counterLead:
-    "Jumbo xerox, photo services and online services are still available at the counter.",
+    "Print services and photo services are available at our studio.",
   counterLinks: [
-    { href: "/printing-xerox", label: "Printing & Xerox" },
-    { href: "/photo-services", label: "Photo services" },
-    { href: "/digital-services", label: "Online services" },
+    { href: "/printing-xerox", label: "Prints" },
+    { href: "/photo-services", label: "Photo Services" },
   ],
   visitHeading: "Visit or message us",
   visitLead: "Send your file on WhatsApp for a quote, or visit the studio:",

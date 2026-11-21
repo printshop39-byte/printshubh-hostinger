@@ -91,9 +91,8 @@ const tx: {
   ],
   notGovernment: "Not a government body",
   services: [
-    { label: "Printing & Xerox", href: "/printing-xerox" },
+    { label: "Prints", href: "/printing-xerox" },
     { label: "Photo Services", href: "/photo-services" },
-    { label: "Digital Services", href: "/digital-services" },
   ],
   useful: [
     { label: "About Us", href: "/about" },
