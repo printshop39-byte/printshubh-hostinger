@@ -29,7 +29,7 @@ export function AdminLogin({ configured }: { configured: boolean }) {
 
         {!configured && (
           <p className="mb-3 rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-[12px] font-semibold text-amber-800">
-            सर्व्हरवर Supabase Auth सेट केलेले नाही — प्रवेश बंद आहे.
+            सर्व्हरवर Supabase Auth किंवा admin ईमेल यादी सेट केलेली नाही — प्रवेश बंद आहे.
           </p>
         )}
 

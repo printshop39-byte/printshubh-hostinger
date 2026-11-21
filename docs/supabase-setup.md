@@ -6,7 +6,7 @@ One Supabase project serves three things on printshubh.shop:
 | --- | --- |
 | Customer leads (WhatsApp enquiries saved for the admin) | table `printshubh_inquiries` |
 | Wallpaper catalogue admin | tables `printshubh_wallpaper_*` + the `wallpaper-previews` storage bucket |
-| Admin sign-in | Supabase Auth (email + password, **sign-ups disabled**) |
+| Admin sign-in | Supabase Auth (email + password, **sign-ups disabled**) **and** the `ADMIN_EMAILS` allowlist |
 
 Until this is done the site keeps working: the public wallpaper catalogue shows its built-in
 sample designs, the admin pages say "database not configured", and lead saving fails quietly
@@ -44,7 +44,8 @@ Row-level security is on for every table with no policies. That means the public
 1. **Sign In / Providers -> Email**: keep Email enabled and turn **OFF "Allow new users to sign up"**.
    If this stays on, anyone could register and become an admin.
 2. **Users -> Add user -> Create new user**: your admin email and a strong password, and tick **Auto Confirm User**.
-   Every user in this list is an administrator, so only add people you trust.
+   Adding a user here does **not** make them an admin: only addresses listed in `ADMIN_EMAILS` (step 4/5) can
+   open any admin page. This project also holds accounts and data from other apps, which is exactly why.
 
 ## 4. Copy the keys (Project Settings -> API)
 
@@ -53,14 +54,18 @@ Row-level security is on for every table with no policies. That means the public
 | Project URL | `SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_URL` (same value) | no |
 | `anon` `public` key | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | no, public by design |
 | `service_role` key | `SUPABASE_SERVICE_ROLE_KEY` | **YES. Never put it in code, chat, email or a `NEXT_PUBLIC_` variable.** |
+| *(you choose)* admin emails | `ADMIN_EMAILS`, e.g. `owner@example.com, helper@example.com` | server-only; no `NEXT_PUBLIC_` prefix |
+
+`ADMIN_EMAILS` ignores case and spaces. **If it is missing or empty, nobody can sign in to any admin page**
+(the gate fails closed), so set it before testing.
 
 If the service_role key is ever exposed, use **Project Settings -> API -> Reset** right away.
 
 ## 5. Set the variables
 
-**On your computer** (for local testing): put the four values in `.env.local` (this file is git-ignored).
+**On your computer** (for local testing): put the five values in `.env.local` (this file is git-ignored).
 
-**On Vercel** (Project -> Settings -> Environment Variables): add the same four, for **Preview** first
+**On Vercel** (Project -> Settings -> Environment Variables): add the same five, for **Preview** first
 (test there), then **Production**. Mark `SUPABASE_SERVICE_ROLE_KEY` as **Sensitive**.
 The `NEXT_PUBLIC_` ones are baked in at build time, so **redeploy** after adding or changing them.
 
@@ -72,7 +77,7 @@ node scripts/verify-supabase-setup.mjs
 
 It is read-only (it changes nothing and never prints a key). It checks the variables, that the
 project exists, the three tables, that the public key cannot read your data, the preview bucket
-settings, and that **public sign-ups are disabled**. Fix any `FAIL` line, run it again, and carry on
+settings, that **public sign-ups are disabled**, and that `ADMIN_EMAILS` is set. Fix any `FAIL` line, run it again, and carry on
 only when it says `All checks passed.`
 
 Then, on the Preview deployment, sign in at `/admin/land-reports` and open `/admin/wallpapers`:

@@ -1,20 +1,30 @@
 import "server-only";
 
 /**
- * Server-only access gate for the admin land-reports area.
+ * Server-only access gate for ALL admin pages, actions and routes
+ * (land-reports, land-reports-gis, wallpapers, the upload route).
  *
- * Backed by Supabase Auth (email + password, per-user). The session lives in
- * httpOnly cookies managed by @supabase/ssr; `isAuthed()` validates it against
- * the Supabase Auth server on every call (getUser(), not getSession(), so a
- * forged/expired cookie can't pass).
+ * Two independent conditions must BOTH hold:
+ *   1. A valid Supabase Auth session (email + password). The session lives in
+ *      cookies managed by @supabase/ssr; it is validated against the Supabase
+ *      Auth server on every call (getUser(), not getSession(), so a forged or
+ *      expired cookie can't pass).
+ *   2. That user's CONFIRMED email is on the ADMIN_EMAILS allowlist.
  *
- * Fail-safe: when Supabase auth env is not configured, `isAuthed()` returns
- * false — the gate stays closed rather than falling open.
+ * Why (2): a Supabase project can hold accounts from other apps or from open
+ * sign-ups. "Has an account" must never mean "is an administrator".
  *
- * Admin users are created in the Supabase dashboard (Authentication → Users);
- * public sign-ups must be DISABLED there so only invited admins exist.
+ * ADMIN_EMAILS is a server-only environment variable (never NEXT_PUBLIC_, never
+ * sent to the browser). Example: ADMIN_EMAILS="owner@example.com, helper@example.com"
+ *
+ * FAIL CLOSED: if Supabase auth is not configured, or ADMIN_EMAILS is missing
+ * or empty, `isAuthed()` is false for everyone — the gate never falls open.
+ *
+ * Admin users are created in the Supabase dashboard (Authentication -> Users)
+ * and public sign-ups should be DISABLED there as well (defence in depth).
  */
 
+import { isAllowedAdminEmail, parseAdminEmails } from "@/lib/admin-allowlist";
 import {
   createSupabaseServerClient,
   supabaseAuthConfigured,
@@ -23,20 +33,30 @@ import {
 /** Error state shared between the login action and the login form. */
 export type LoginState = { error?: string };
 
-/** True when the Supabase auth env vars are present (login is possible). */
-export function authConfigured(): boolean {
-  return supabaseAuthConfigured();
+/** The parsed allowlist, read fresh from the server environment on each use. */
+function adminAllowlist(): string[] {
+  return parseAdminEmails(process.env.ADMIN_EMAILS);
 }
 
-/** True only when a valid Supabase user session is present. */
+/** True when login is possible AND at least one admin email is allowlisted. */
+export function authConfigured(): boolean {
+  return supabaseAuthConfigured() && adminAllowlist().length > 0;
+}
+
+/** True only for a valid session belonging to a confirmed, allowlisted admin email. */
 export async function isAuthed(): Promise<boolean> {
   if (!supabaseAuthConfigured()) return false;
+  const allowlist = adminAllowlist();
+  if (allowlist.length === 0) return false; // missing/empty ADMIN_EMAILS: nobody is admin
   try {
     const supabase = await createSupabaseServerClient();
     const {
       data: { user },
     } = await supabase.auth.getUser();
-    return Boolean(user);
+    if (!user) return false;
+    // An unconfirmed address proves nothing: require the email to be verified.
+    if (!user.email_confirmed_at && !user.confirmed_at) return false;
+    return isAllowedAdminEmail(user.email, allowlist);
   } catch {
     return false;
   }

@@ -6,7 +6,7 @@
  *   node scripts/verify-supabase-setup.mjs
  *
  * Reads these from the environment, else from .env.local:
- *   SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY
+ *   SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, ADMIN_EMAILS
  *
  * Exit code 0 = every check passed, 1 = something needs fixing.
  */
@@ -138,6 +138,26 @@ else {
     else pass("Email + password sign-in is available");
   }
   warn("Create the admin user yourself: Authentication -> Users -> Add user (tick 'Auto Confirm User').");
+}
+
+head("7. Admin allowlist (ADMIN_EMAILS)");
+{
+  const list = [];
+  for (const part of env("ADMIN_EMAILS").split(/[,;\s]+/)) {
+    const e = part.trim().replace(/^["']+|["']+$/g, "").toLowerCase();
+    if (/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e) && !list.includes(e)) list.push(e);
+  }
+  if (list.length === 0) {
+    fail("ADMIN_EMAILS is missing or empty — nobody can sign in to any admin page", 'Set ADMIN_EMAILS="you@example.com" (comma-separated for several admins). It is server-only: do NOT prefix it with NEXT_PUBLIC_.');
+  } else {
+    pass(`ADMIN_EMAILS lists ${list.length} admin address${list.length === 1 ? "" : "es"}`);
+    const users = await call(URL_, "/auth/v1/admin/users?per_page=1000&page=1", SERVICE);
+    if (users.ok && Array.isArray(users.body?.users)) {
+      const confirmed = users.body.users.filter((u) => (u.email_confirmed_at || u.confirmed_at) && list.includes(String(u.email ?? "").toLowerCase()));
+      if (confirmed.length === list.length) pass("Every allowlisted address has a confirmed account");
+      else warn(`${confirmed.length} of ${list.length} allowlisted addresses have a confirmed account yet — create the rest under Authentication -> Users (tick Auto Confirm).`);
+    } else warn("Could not list auth users to cross-check the allowlist.");
+  }
 }
 
 console.log(failed === 0 ? "\nAll checks passed." : `\n${failed} check(s) need fixing (see the FAIL lines above).`);
