@@ -5,7 +5,7 @@
  *
  * What changed in this patch:
  *  - Added displayName()/displayDistrictName() — handles `>` byte-corruption,
- *    title-cases UPPERCASE English, and shows Marathi via DISTRICT_MR_MAP.
+ *    title-cases UPPERCASE English district names.
  *  - Sorted dropdowns by the *displayed* name, not the raw uppercase string.
  *  - Added a floating base-layer switcher: OSM / Satellite / Hybrid /
  *    Terrain / Topo. Switching swaps the raster `tiles` array in-place — the
@@ -26,11 +26,9 @@ import {
   Pencil,
   X,
 } from "lucide-react";
-import { useLang, type Lang } from "@/components/language-context";
 import { formatAcreGuntha } from "@/lib/calculators/land-unit";
 import {
   DISTRICT_ID_FALLBACK_EN,
-  DISTRICT_MR_MAP,
   KNOWN_NAME_FIXES,
 } from "@/lib/maharashtra-name-map";
 import {
@@ -181,17 +179,13 @@ function titleCaseName(raw?: string): string {
     });
 }
 
-/** Districts get extra care: empty name_en fallback + DISTRICT_MR_MAP. */
-function displayDistrictName(row: DistrictRow | undefined, lang: Lang): string {
+/** Districts get extra care: empty name_en fallback (district_id lookup). */
+function displayDistrictName(row: DistrictRow | undefined): string {
   if (!row) return "—";
   // Recover empty name_en via district_id (e.g. d-503 → "AMRAVATI").
   const rawEn = row.name_en?.trim() || DISTRICT_ID_FALLBACK_EN[row.district_id] || "";
   const cleanedEn = titleCaseName(rawEn);
   const mrFromRow = row.name_mr?.trim();
-  const mrFromMap = cleanedEn ? DISTRICT_MR_MAP[cleanedEn] : undefined;
-  if (lang === "mr") {
-    return mrFromRow || mrFromMap || cleanedEn || "—";
-  }
   return cleanedEn || mrFromRow || "—";
 }
 
@@ -470,8 +464,8 @@ const BASE_LAYERS: Record<BaseLayerId, BaseLayerDef> = {
    *     maxzoom: 18,
    *   },
    *
-   * Then add "bhuvan" to BaseLayerId and BASE_LAYER_ORDER, and add a Marathi
-   * label "भुवन" in the ui[lang].baseLayers object below. The switcher,
+   * Then add "bhuvan" to BaseLayerId and BASE_LAYER_ORDER, and add a label
+   * for it in the ui.baseLayers object below. The switcher,
    * tile-swap logic and Hybrid-overlay handling all already support it.
    */
 };
@@ -624,350 +618,237 @@ const SERVICE_TO_CATEGORY: Record<ServiceTab, ServiceCategory> = (() => {
   return m;
 })();
 
-const CATEGORY_LABELS: Record<Lang, Record<ServiceCategory, string>> = {
-  mr: { digital: "डिजिटल दस्तऐवज", maps: "नकाशे / प्लॅन" },
-  en: { digital: "Digital Documents", maps: "Maps / Plans" },
+const CATEGORY_LABELS: Record<ServiceCategory, string> = { digital: "Digital Documents", maps: "Maps / Plans" };
+
+const SERVICE_LABELS: Record<ServiceTab, string> = {
+  "7_12": "7/12 Extract",
+  "8a": "8A Extract",
+  eferfar: "Mutation / Ferfar",
+  property_card: "Property Card",
+  property_card_ferfar: "Property Card Mutation",
+  mumbai_property_card: "Mumbai Property Card",
+  index_ii: "Index II",
+  village_map: "Village Map",
+  swamitva_map: "Swamitva Map",
+  location_map: "Location Map",
+  map_overlay: "Map Overlay",
+  town_planning_map: "Town Planning Map",
+  development_plan: "Development Plan",
+  regional_plan: "Regional Plan",
+  google_zone_report: "Google Zone Report",
+  full_map_report: "Full Map Report",
 };
 
-const SERVICE_LABELS: Record<Lang, Record<ServiceTab, string>> = {
-  mr: {
-    "7_12": "7/12 उतारा",
-    "8a": "8A उतारा",
-    eferfar: "फेरफार",
-    property_card: "मिळकत पत्रिका",
-    property_card_ferfar: "मिळकत पत्रिका फेरफार",
-    mumbai_property_card: "मुंबई प्रॉपर्टी कार्ड",
-    index_ii: "Index II",
-    village_map: "गाव नकाशा",
-    swamitva_map: "स्वामित्व नकाशा",
-    location_map: "लोकेशन नकाशा",
-    map_overlay: "नकाशा ओव्हरले",
-    town_planning_map: "नगर रचना नकाशा",
-    development_plan: "विकास आराखडा",
-    regional_plan: "प्रादेशिक आराखडा",
-    google_zone_report: "Google झोन अहवाल",
-    full_map_report: "संपूर्ण नकाशा अहवाल",
-  },
-  en: {
-    "7_12": "7/12 Extract",
-    "8a": "8A Extract",
-    eferfar: "Mutation / Ferfar",
-    property_card: "Property Card",
-    property_card_ferfar: "Property Card Mutation",
-    mumbai_property_card: "Mumbai Property Card",
-    index_ii: "Index II",
-    village_map: "Village Map",
-    swamitva_map: "Swamitva Map",
-    location_map: "Location Map",
-    map_overlay: "Map Overlay",
-    town_planning_map: "Town Planning Map",
-    development_plan: "Development Plan",
-    regional_plan: "Regional Plan",
-    google_zone_report: "Google Zone Report",
-    full_map_report: "Full Map Report",
-  },
+/**
+ * Marathi service names. NOT shown on the page — only stored on the admin lead
+ * record (saveLead), so the admin lead list keeps its existing Marathi values.
+ */
+const SERVICE_LABELS_LEAD_MR: Record<ServiceTab, string> = {
+  "7_12": "7/12 उतारा",
+  "8a": "8A उतारा",
+  eferfar: "फेरफार",
+  property_card: "मिळकत पत्रिका",
+  property_card_ferfar: "मिळकत पत्रिका फेरफार",
+  mumbai_property_card: "मुंबई प्रॉपर्टी कार्ड",
+  index_ii: "Index II",
+  village_map: "गाव नकाशा",
+  swamitva_map: "स्वामित्व नकाशा",
+  location_map: "लोकेशन नकाशा",
+  map_overlay: "नकाशा ओव्हरले",
+  town_planning_map: "नगर रचना नकाशा",
+  development_plan: "विकास आराखडा",
+  regional_plan: "प्रादेशिक आराखडा",
+  google_zone_report: "Google झोन अहवाल",
+  full_map_report: "संपूर्ण नकाशा अहवाल",
 };
 
 /** Long-form service label for the WhatsApp message body. */
-const SERVICE_FULL_LABELS: Record<Lang, Record<ServiceTab, string>> = {
-  mr: {
-    "7_12": "7/12 उतारा",
-    "8a": "8A उतारा",
-    eferfar: "फेरफार (Mutation)",
-    property_card: "मिळकत पत्रिका (Property Card)",
-    property_card_ferfar: "मिळकत पत्रिका फेरफार",
-    mumbai_property_card: "मुंबई प्रॉपर्टी कार्ड",
-    index_ii: "Index II",
-    village_map: "गाव नकाशा",
-    swamitva_map: "स्वामित्व नकाशा",
-    location_map: "लोकेशन नकाशा",
-    map_overlay: "नकाशा ओव्हरले",
-    town_planning_map: "नगर रचना नकाशा",
-    development_plan: "विकास आराखडा / Development Plan",
-    regional_plan: "प्रादेशिक आराखडा / Regional Plan",
-    google_zone_report: "Google Map नुसार झोन-निहाय जमीन अहवाल",
-    full_map_report: "संपूर्ण नकाशा विकास अहवाल",
-  },
-  en: {
-    "7_12": "7/12 Extract",
-    "8a": "8A Extract",
-    eferfar: "Mutation / Ferfar",
-    property_card: "Property Card",
-    property_card_ferfar: "Property Card Mutation",
-    mumbai_property_card: "Mumbai Property Card",
-    index_ii: "Index II",
-    village_map: "Village Map",
-    swamitva_map: "Swamitva Map",
-    location_map: "Location Map",
-    map_overlay: "Map Overlay",
-    town_planning_map: "Town Planning Map",
-    development_plan: "Development Plan",
-    regional_plan: "Regional Plan",
-    google_zone_report: "Google Map Zone-wise Land Report",
-    full_map_report: "Full Map Development Report",
-  },
+const SERVICE_FULL_LABELS: Record<ServiceTab, string> = {
+  "7_12": "7/12 Extract",
+  "8a": "8A Extract",
+  eferfar: "Mutation / Ferfar",
+  property_card: "Property Card",
+  property_card_ferfar: "Property Card Mutation",
+  mumbai_property_card: "Mumbai Property Card",
+  index_ii: "Index II",
+  village_map: "Village Map",
+  swamitva_map: "Swamitva Map",
+  location_map: "Location Map",
+  map_overlay: "Map Overlay",
+  town_planning_map: "Town Planning Map",
+  development_plan: "Development Plan",
+  regional_plan: "Regional Plan",
+  google_zone_report: "Google Map Zone-wise Land Report",
+  full_map_report: "Full Map Development Report",
 };
 
 /* ── Translations ──────────────────────────────────────────────────────────── */
 
-const ui: Record<Lang, {
-  sectionBadge: string;
-  heading: string;
-  subtext: string;
-  formHeading: string;
-  tabsHelper: string;
-  district: string;
-  taluka: string;
-  village: string;
-  region: string;
-  office: string;
-  peth: string;
-  citySurveyOffice: string;
-  divisionWard: string;
-  gutNo: string;
-  surveyNo: string;
-  ctsNo: string;
-  ctsNoSelectHint: string;
-  khataNo: string;
-  khataHolderHint: string;
-  ferfarNo: string;
-  entryTypeLabel: string;
-  entryAll: string;
-  entryLive: string;
-  whatsappBtn: string;
-  disclaimer: string;
-  locateMe: string;
-  optionalNote: string;
-  chooseDistrict: string;
-  chooseTaluka: string;
-  chooseVillage: string;
-  chooseRegion: string;
-  chooseOffice: string;
-  choosePeth: string;
-  chooseCitySurveyOffice: string;
-  chooseDivisionWard: string;
-  boundaryLoading: string;
-  boundaryError: string;
-  boundarySelected: string;
-  drawStart: string;
-  drawFinish: string;
-  drawClear: string;
-  drawHintIdle: string;
-  drawHintActive: string;
-  plotMarked: string;
-  centroid: string;
-  area: string;
-  areaNote: string;
-  plotVertices: string;
-  notReadyForWa: string;
-  baseLayerLabel: string;
-  baseLayers: Record<BaseLayerId, string>;
-  changingMapType: string;
-  categoryHelper: string;
-  villageCity: string;
-  villageCityPlaceholder: string;
-  localBodyAuthority: string;
-  localBodyAuthorityPlaceholder: string;
-  plotNo: string;
-  gmapLinkLabel: string;
-  gmapLinkHint: string;
-  noteLabel: string;
-  notePlaceholder: string;
-  overlayTypeLabel: string;
-  overlayChoose: string;
-  overlayOptions: Record<"land_boundary" | "village_map" | "dp_tp" | "zone" | "satellite", string>;
-  docNumberLabel: string;
-  docYearLabel: string;
-  approxScaleLabel: string;
-  imageryDateLabel: string;
-  imageryNotAvailable: string;
-  viewDateLabel: string;
-  sideLabel: string;
-  perimeterLabel: string;
-  sideLengthsHeading: string;
-}> = {
-  mr: {
-    sectionBadge: "नकाशा संदर्भ",
-    heading: "जमीन / सर्वे नकाशा संदर्भ शोधा",
-    subtext: "जिल्हा, तालुका, गाव आणि गट/सर्वे नंबर निवडा. नकाशा संदर्भ आणि कागदपत्र सहाय्य WhatsApp वर मिळवा.",
-    formHeading: "जमीन माहिती भरा",
-    tabsHelper: "सेवा निवडा. निवडीनुसार आवश्यक माहिती खाली भरा.",
-    district: "जिल्हा",
-    taluka: "तालुका",
-    village: "गाव",
-    region: "विभाग",
-    office: "कार्यालय",
-    peth: "पेठ / गाव",
-    citySurveyOffice: "सिटी सर्व्हे कार्यालय",
-    divisionWard: "विभाग / वॉर्ड",
-    gutNo: "गट नंबर (माहीत असल्यास)",
-    surveyNo: "सर्वे नंबर (माहीत असल्यास)",
-    ctsNo: "CTS नंबर",
-    ctsNoSelectHint: "CTS नंबर निवडा",
-    khataNo: "खाता नंबर",
-    khataHolderHint: "खाता नंबर / पहिले नाव / मधले नाव / आडनाव — यापैकी काहीही",
-    ferfarNo: "फेरफार नंबर / Mutation No.",
-    entryTypeLabel: "नोंद प्रकार",
-    entryAll: "सर्व नोंदी (All Entry)",
-    entryLive: "चालू नोंद (Live Entry)",
-    whatsappBtn: "WhatsApp वर पाठवा",
-    disclaimer:
-      "ही सुविधा प्राथमिक नकाशा संदर्भासाठी आहे. अंतिम जमीन नोंदी अधिकृत पोर्टलवरून पडताळाव्यात.",
-    locateMe: "माझे स्थान",
-    optionalNote:
-      "नोंद: गट / सर्वे / CTS नंबर माहीत नसल्यास रिकामे सोडा — अधिकृत पोर्टलवर तपासा.",
-    chooseDistrict: "जिल्हा निवडा",
-    chooseTaluka: "तालुका निवडा",
-    chooseVillage: "गाव निवडा",
-    chooseRegion: "विभाग निवडा",
-    chooseOffice: "कार्यालय निवडा",
-    choosePeth: "पेठ / गाव निवडा",
-    chooseCitySurveyOffice: "सिटी सर्व्हे कार्यालय निवडा",
-    chooseDivisionWard: "विभाग / वॉर्ड निवडा",
-    boundaryLoading: "गावाची सीमा लोड होत आहे...",
-    boundaryError: "गावाची सीमा लोड झाली नाही. कृपया पुन्हा प्रयत्न करा.",
-    boundarySelected: "निवडलेले गाव",
-    drawStart: "प्लॉट सीमा मार्क करा",
-    drawFinish: "पूर्ण करा",
-    drawClear: "मार्किंग साफ करा",
-    drawHintIdle: "गाव निवडल्यानंतर ✏️ बटण दाबा आणि नकाशावर प्लॉट सीमा मार्क करा.",
-    drawHintActive: "सीमा मार्क करण्यासाठी नकाशावर point क्लिक करा. दोनदा क्लिक केल्यावर polygon पूर्ण होईल.",
-    plotMarked: "मार्क केलेली प्लॉट सीमा",
-    centroid: "मध्यबिंदू",
-    area: "अंदाजे क्षेत्रफळ",
-    areaNote: "हे अंदाजे मोजमाप आहे. अंतिम पडताळणी अधिकृत नकाशा/मोजणीवर करावी.",
-    plotVertices: "वर्टीसेस",
-    notReadyForWa:
-      "जिल्हा, तालुका आणि गाव निवडल्यानंतर WhatsApp बटण active होईल. plot सीमा मार्क करणे ऐच्छिक आहे.",
-    baseLayerLabel: "नकाशा प्रकार",
-    baseLayers: {
-      osm: "नकाशा",
-      satellite: "सॅटेलाइट",
-      hybrid: "हायब्रिड",
-      terrain: "भूभाग",
-      topo: "टोपो",
-    },
-    changingMapType: "नकाशा प्रकार बदलत आहे...",
-    categoryHelper: "प्रकार निवडा, मग सेवा निवडा.",
-    villageCity: "गाव / शहर",
-    villageCityPlaceholder: "गाव, शहर किंवा स्थानिक स्वराज्य संस्थेचे नाव",
-    localBodyAuthority: "शहर / नगरपालिका / महानगरपालिका / नियोजन प्राधिकरण",
-    localBodyAuthorityPlaceholder: "शहर, नगरपालिका, महानगरपालिका किंवा नियोजन प्राधिकरण",
-    plotNo: "गट / सर्वे / प्लॉट नंबर (माहीत असल्यास)",
-    gmapLinkLabel: "Google Map लिंक (ऐच्छिक)",
-    gmapLinkHint: "Google Maps वर ठिकाण उघडा → Share → लिंक कॉपी करून येथे पेस्ट करा.",
-    noteLabel: "टीप / उद्देश (ऐच्छिक)",
-    notePlaceholder: "तुमची गरज थोडक्यात लिहा. (जुना नकाशा PDF / स्क्रीनशॉट / coordinates असल्यास नमूद करा.)",
-    overlayTypeLabel: "ओव्हरले प्रकार (ऐच्छिक)",
-    overlayChoose: "ओव्हरले प्रकार निवडा",
-    overlayOptions: {
-      land_boundary: "जमीन सीमा ओव्हरले",
-      village_map: "गाव नकाशा ओव्हरले",
-      dp_tp: "DP / TP प्लॅन ओव्हरले",
-      zone: "झोन ओव्हरले",
-      satellite: "सॅटेलाइट नकाशा ओव्हरले",
-    },
-    docNumberLabel: "दस्त क्रमांक (ऐच्छिक)",
-    docYearLabel: "वर्ष (ऐच्छिक)",
-    approxScaleLabel: "अंदाजे स्केल",
-    imageryDateLabel: "प्रतिमा दिनांक",
-    imageryNotAvailable: "उपलब्ध नाही",
-    viewDateLabel: "दृश्य दिनांक",
-    sideLabel: "बाजू",
-    perimeterLabel: "परिमिती",
-    sideLengthsHeading: "बाजूंची लांबी",
+const ui: {
+sectionBadge: string;
+heading: string;
+subtext: string;
+formHeading: string;
+tabsHelper: string;
+district: string;
+taluka: string;
+village: string;
+region: string;
+office: string;
+peth: string;
+citySurveyOffice: string;
+divisionWard: string;
+gutNo: string;
+surveyNo: string;
+ctsNo: string;
+ctsNoSelectHint: string;
+khataNo: string;
+khataHolderHint: string;
+ferfarNo: string;
+entryTypeLabel: string;
+entryAll: string;
+entryLive: string;
+whatsappBtn: string;
+disclaimer: string;
+locateMe: string;
+optionalNote: string;
+chooseDistrict: string;
+chooseTaluka: string;
+chooseVillage: string;
+chooseRegion: string;
+chooseOffice: string;
+choosePeth: string;
+chooseCitySurveyOffice: string;
+chooseDivisionWard: string;
+boundaryLoading: string;
+boundaryError: string;
+boundarySelected: string;
+drawStart: string;
+drawFinish: string;
+drawClear: string;
+drawHintIdle: string;
+drawHintActive: string;
+plotMarked: string;
+centroid: string;
+area: string;
+areaNote: string;
+plotVertices: string;
+notReadyForWa: string;
+baseLayerLabel: string;
+baseLayers: Record<BaseLayerId, string>;
+changingMapType: string;
+categoryHelper: string;
+villageCity: string;
+villageCityPlaceholder: string;
+localBodyAuthority: string;
+localBodyAuthorityPlaceholder: string;
+plotNo: string;
+gmapLinkLabel: string;
+gmapLinkHint: string;
+noteLabel: string;
+notePlaceholder: string;
+overlayTypeLabel: string;
+overlayChoose: string;
+overlayOptions: Record<"land_boundary" | "village_map" | "dp_tp" | "zone" | "satellite", string>;
+docNumberLabel: string;
+docYearLabel: string;
+approxScaleLabel: string;
+imageryDateLabel: string;
+imageryNotAvailable: string;
+viewDateLabel: string;
+sideLabel: string;
+perimeterLabel: string;
+sideLengthsHeading: string;
+} = {
+  sectionBadge: "Map Reference",
+  heading: "Search land / survey map reference",
+  subtext: "Select district, taluka, village and gat/survey number. Get map reference and document assistance on WhatsApp.",
+  formHeading: "Enter Land Details",
+  tabsHelper: "Select a service. Required fields will change based on your selection.",
+  district: "District",
+  taluka: "Taluka",
+  village: "Village",
+  region: "Region",
+  office: "Office",
+  peth: "Peth / Village",
+  citySurveyOffice: "City Survey Office",
+  divisionWard: "Division / Ward",
+  gutNo: "Gut Number (if known)",
+  surveyNo: "Survey Number (if known)",
+  ctsNo: "CTS Number",
+  ctsNoSelectHint: "Select CTS No.",
+  khataNo: "Khata Number",
+  khataHolderHint: "Khata No. / First name / Middle name / Last name — any of these",
+  ferfarNo: "Ferfar Number / Mutation No.",
+  entryTypeLabel: "Entry type",
+  entryAll: "All Entry",
+  entryLive: "Live Entry",
+  whatsappBtn: "Send via WhatsApp",
+  disclaimer:
+    "This tool is for preliminary map reference only. Final land records must be verified from official portals.",
+  locateMe: "My Location",
+  optionalNote:
+    "Note: Leave Gut / Survey / CTS number blank if unknown — verify from official portals.",
+  chooseDistrict: "Choose district",
+  chooseTaluka: "Choose taluka",
+  chooseVillage: "Choose village",
+  chooseRegion: "Choose region",
+  chooseOffice: "Choose office",
+  choosePeth: "Choose peth / village",
+  chooseCitySurveyOffice: "Choose city survey office",
+  chooseDivisionWard: "Choose division / ward",
+  boundaryLoading: "Loading village boundary...",
+  boundaryError: "Could not load the village boundary. Please try again.",
+  boundarySelected: "Selected village",
+  drawStart: "Mark Plot Boundary",
+  drawFinish: "Finish",
+  drawClear: "Clear Marking",
+  drawHintIdle: "After picking a village, tap the ✏️ button and click points on the map to mark your plot.",
+  drawHintActive: "Click points on the map to mark the boundary. Double-click to finish the polygon.",
+  plotMarked: "Plot boundary marked",
+  centroid: "Centroid",
+  area: "Approx. area",
+  areaNote: "This is an approximate measurement. Final verification must be on the official map / survey.",
+  plotVertices: "Vertices",
+  notReadyForWa:
+    "WhatsApp activates after district, taluka and village are picked. Marking the plot is optional.",
+  baseLayerLabel: "Map type",
+  baseLayers: {
+    osm: "OSM",
+    satellite: "Satellite",
+    hybrid: "Hybrid",
+    terrain: "Terrain",
+    topo: "Topo",
   },
-  en: {
-    sectionBadge: "Map Reference",
-    heading: "Search land / survey map reference",
-    subtext: "Select district, taluka, village and gat/survey number. Get map reference and document assistance on WhatsApp.",
-    formHeading: "Enter Land Details",
-    tabsHelper: "Select a service. Required fields will change based on your selection.",
-    district: "District",
-    taluka: "Taluka",
-    village: "Village",
-    region: "Region",
-    office: "Office",
-    peth: "Peth / Village",
-    citySurveyOffice: "City Survey Office",
-    divisionWard: "Division / Ward",
-    gutNo: "Gut Number (if known)",
-    surveyNo: "Survey Number (if known)",
-    ctsNo: "CTS Number",
-    ctsNoSelectHint: "Select CTS No.",
-    khataNo: "Khata Number",
-    khataHolderHint: "Khata No. / First name / Middle name / Last name — any of these",
-    ferfarNo: "Ferfar Number / Mutation No.",
-    entryTypeLabel: "Entry type",
-    entryAll: "All Entry",
-    entryLive: "Live Entry",
-    whatsappBtn: "Send via WhatsApp",
-    disclaimer:
-      "This tool is for preliminary map reference only. Final land records must be verified from official portals.",
-    locateMe: "My Location",
-    optionalNote:
-      "Note: Leave Gut / Survey / CTS number blank if unknown — verify from official portals.",
-    chooseDistrict: "Choose district",
-    chooseTaluka: "Choose taluka",
-    chooseVillage: "Choose village",
-    chooseRegion: "Choose region",
-    chooseOffice: "Choose office",
-    choosePeth: "Choose peth / village",
-    chooseCitySurveyOffice: "Choose city survey office",
-    chooseDivisionWard: "Choose division / ward",
-    boundaryLoading: "Loading village boundary...",
-    boundaryError: "Could not load the village boundary. Please try again.",
-    boundarySelected: "Selected village",
-    drawStart: "Mark Plot Boundary",
-    drawFinish: "Finish",
-    drawClear: "Clear Marking",
-    drawHintIdle: "After picking a village, tap the ✏️ button and click points on the map to mark your plot.",
-    drawHintActive: "Click points on the map to mark the boundary. Double-click to finish the polygon.",
-    plotMarked: "Plot boundary marked",
-    centroid: "Centroid",
-    area: "Approx. area",
-    areaNote: "This is an approximate measurement. Final verification must be on the official map / survey.",
-    plotVertices: "Vertices",
-    notReadyForWa:
-      "WhatsApp activates after district, taluka and village are picked. Marking the plot is optional.",
-    baseLayerLabel: "Map type",
-    baseLayers: {
-      osm: "OSM",
-      satellite: "Satellite",
-      hybrid: "Hybrid",
-      terrain: "Terrain",
-      topo: "Topo",
-    },
-    changingMapType: "Changing map type...",
-    categoryHelper: "Pick a category, then choose a service.",
-    villageCity: "Village / City",
-    villageCityPlaceholder: "Village, city or local body name",
-    localBodyAuthority: "City / Municipal Council / Corporation / Planning Authority",
-    localBodyAuthorityPlaceholder: "City, municipal council, corporation or planning authority",
-    plotNo: "Gat / Survey / Plot Number (if known)",
-    gmapLinkLabel: "Google Map Link (optional)",
-    gmapLinkHint: "Open the spot in Google Maps → Share → copy the link and paste it here.",
-    noteLabel: "Note / Purpose (optional)",
-    notePlaceholder: "Briefly describe what you need. (Mention if you have an old map PDF / screenshot / coordinates.)",
-    overlayTypeLabel: "Overlay Type (optional)",
-    overlayChoose: "Choose overlay type",
-    overlayOptions: {
-      land_boundary: "Land boundary overlay",
-      village_map: "Village map overlay",
-      dp_tp: "DP / TP plan overlay",
-      zone: "Zone overlay",
-      satellite: "Satellite map overlay",
-    },
-    docNumberLabel: "Document number (optional)",
-    docYearLabel: "Year (optional)",
-    approxScaleLabel: "Approx. Scale",
-    imageryDateLabel: "Imagery date",
-    imageryNotAvailable: "Not available",
-    viewDateLabel: "View date",
-    sideLabel: "Side",
-    perimeterLabel: "Perimeter",
-    sideLengthsHeading: "Side lengths",
+  changingMapType: "Changing map type...",
+  categoryHelper: "Pick a category, then choose a service.",
+  villageCity: "Village / City",
+  villageCityPlaceholder: "Village, city or local body name",
+  localBodyAuthority: "City / Municipal Council / Corporation / Planning Authority",
+  localBodyAuthorityPlaceholder: "City, municipal council, corporation or planning authority",
+  plotNo: "Gat / Survey / Plot Number (if known)",
+  gmapLinkLabel: "Google Map Link (optional)",
+  gmapLinkHint: "Open the spot in Google Maps → Share → copy the link and paste it here.",
+  noteLabel: "Note / Purpose (optional)",
+  notePlaceholder: "Briefly describe what you need. (Mention if you have an old map PDF / screenshot / coordinates.)",
+  overlayTypeLabel: "Overlay Type (optional)",
+  overlayChoose: "Choose overlay type",
+  overlayOptions: {
+    land_boundary: "Land boundary overlay",
+    village_map: "Village map overlay",
+    dp_tp: "DP / TP plan overlay",
+    zone: "Zone overlay",
+    satellite: "Satellite map overlay",
   },
+  docNumberLabel: "Document number (optional)",
+  docYearLabel: "Year (optional)",
+  approxScaleLabel: "Approx. Scale",
+  imageryDateLabel: "Imagery date",
+  imageryNotAvailable: "Not available",
+  viewDateLabel: "View date",
+  sideLabel: "Side",
+  perimeterLabel: "Perimeter",
+  sideLengthsHeading: "Side lengths",
 };
 
 /* ── Service-specific field map ────────────────────────────────────────────────
@@ -987,7 +868,7 @@ interface ServiceFieldConfig {
   showDistrict: boolean;        // every service
   showOffice: boolean;          // Property Card / Property Card Ferfar
   showTaluka: boolean;          // 7/12 / 8A / eFerfar / Swamitva Map
-  showVillage: boolean;         // most services (but labelled "गाव / पेठ" for PC)
+  showVillage: boolean;         // most services (but labelled "Peth / Village" for PC)
   showPeth: boolean;            // Property Card / Property Card Ferfar (replaces village select label)
   showCitySurveyOffice: boolean; // Mumbai Property Card
   showDivisionWard: boolean;    // Mumbai Property Card
@@ -1166,7 +1047,6 @@ const SERVICE_FIELDS: Record<ServiceTab, ServiceFieldConfig> = {
 /* ── WhatsApp message builder ──────────────────────────────────────────────── */
 
 function buildWhatsAppMsg(args: {
-  lang: Lang;
   service: ServiceTab;
   form: FormData;
   villageCentroid: { lat: number; lng: number } | null;
@@ -1174,18 +1054,16 @@ function buildWhatsAppMsg(args: {
   plotCentroid: { lat: number; lng: number } | null;
   plotAreaSqm: number;
 }): string {
-  const { lang, service, form, villageCentroid, plotCoords, plotCentroid, plotAreaSqm } = args;
+  const { service, form, villageCentroid, plotCoords, plotCentroid, plotAreaSqm } = args;
   const cfg = SERVICE_FIELDS[service];
   const category = SERVICE_TO_CATEGORY[service];
   const gmap = (lat: number, lng: number) =>
     `https://maps.google.com/?q=${lat.toFixed(6)},${lng.toFixed(6)}`;
 
-  const entryLabel = (lang === "mr"
-    ? { all: "सर्व नोंदी", live: "चालू नोंद" }
-    : { all: "All Entry",  live: "Live Entry" })[form.entryType || "all"] ?? "";
+  const entryLabel = ({ all: "All Entry", live: "Live Entry" } as Record<string, string>)[form.entryType || "all"] ?? "";
 
   const overlayLabel = form.overlayType
-    ? ui[lang].overlayOptions[form.overlayType as keyof (typeof ui)["mr"]["overlayOptions"]] ?? form.overlayType
+    ? ui.overlayOptions[form.overlayType as keyof (typeof ui)["overlayOptions"]] ?? form.overlayType
     : "";
 
   // The "place" is either the dropdown village (village-level services) or the
@@ -1202,69 +1080,39 @@ function buildWhatsAppMsg(args: {
 
   const docLine = [form.docNumber, form.docYear].map((s) => s.trim()).filter(Boolean).join(" / ");
 
-  const t = lang === "mr"
-    ? {
-        greeting: "नमस्कार PrintShubh,",
-        intro: "मला खालील सेवेसाठी मदत हवी आहे.",
-        category: "प्रकार",
-        service: "सेवा",
-        region: "विभाग",
-        district: "जिल्हा",
-        office: "कार्यालय",
-        taluka: "तालुका",
-        place: "गाव / शहर",
-        peth: "गाव / पेठ",
-        citySurvey: "सिटी सर्व्हे कार्यालय",
-        divisionWard: "विभाग / वॉर्ड",
-        numbers: "गट / सर्वे / प्लॉट / CTS नंबर",
-        khata: "खाता नंबर",
-        ferfar: "फेरफार नंबर",
-        doc: "दस्त क्रमांक / वर्ष",
-        entry: "नोंद प्रकार",
-        gmap: "Google Map लिंक",
-        overlay: "ओव्हरले प्रकार",
-        note: "टीप",
-        villageCentroid: "गाव मध्यबिंदू",
-        markedPlot: "मी नकाशावर plot boundary मार्क केली आहे.",
-        plotCentroid: "प्लॉट मध्यबिंदू",
-        area: "अंदाजे क्षेत्रफळ",
-        areaUnit: "वर्ग मीटर",
-        coords: "Plot polygon coordinates:",
-        closing: "कृपया किंमत आणि वेळ सांगा.",
-      }
-    : {
-        greeting: "Hello PrintShubh,",
-        intro: "I need help with the following service.",
-        category: "Category",
-        service: "Service",
-        region: "Region",
-        district: "District",
-        office: "Office",
-        taluka: "Taluka",
-        place: "Village / City",
-        peth: "Peth / Village",
-        citySurvey: "City Survey Office",
-        divisionWard: "Division / Ward",
-        numbers: "Gat / Survey / Plot / CTS Number",
-        khata: "Khata No.",
-        ferfar: "Ferfar / Mutation No.",
-        doc: "Document No. / Year",
-        entry: "Entry type",
-        gmap: "Google Map Link",
-        overlay: "Overlay Type",
-        note: "Note",
-        villageCentroid: "Village centroid",
-        markedPlot: "I have marked a plot boundary on the map.",
-        plotCentroid: "Plot centroid",
-        area: "Approx. area",
-        areaUnit: "sq.m",
-        coords: "Plot polygon coordinates:",
-        closing: "Please share the price and time required.",
-      };
+  const t = {
+    greeting: "Hello PrintShubh,",
+    intro: "I need help with the following service.",
+    category: "Category",
+    service: "Service",
+    region: "Region",
+    district: "District",
+    office: "Office",
+    taluka: "Taluka",
+    place: "Village / City",
+    peth: "Peth / Village",
+    citySurvey: "City Survey Office",
+    divisionWard: "Division / Ward",
+    numbers: "Gat / Survey / Plot / CTS Number",
+    khata: "Khata No.",
+    ferfar: "Ferfar / Mutation No.",
+    doc: "Document No. / Year",
+    entry: "Entry type",
+    gmap: "Google Map Link",
+    overlay: "Overlay Type",
+    note: "Note",
+    villageCentroid: "Village centroid",
+    markedPlot: "I have marked a plot boundary on the map.",
+    plotCentroid: "Plot centroid",
+    area: "Approx. area",
+    areaUnit: "sq.m",
+    coords: "Plot polygon coordinates:",
+    closing: "Please share the price and time required.",
+  };
 
   const lines: string[] = [t.greeting, t.intro, ""];
-  lines.push(`${t.category}: ${CATEGORY_LABELS[lang][category]}`);
-  lines.push(`${t.service}: ${SERVICE_FULL_LABELS[lang][service]}`);
+  lines.push(`${t.category}: ${CATEGORY_LABELS[category]}`);
+  lines.push(`${t.service}: ${SERVICE_FULL_LABELS[service]}`);
   if (cfg.showRegion && form.region) lines.push(`${t.region}: ${form.region}`);
   if (cfg.showDistrict && form.district) lines.push(`${t.district}: ${form.district}`);
   if (cfg.showOffice && form.office) lines.push(`${t.office}: ${form.office}`);
@@ -1310,7 +1158,6 @@ function buildWhatsAppMsg(args: {
 type DrawMode = "idle" | "drawing" | "done";
 
 function MapPanel({
-  lang,
   boundaryFeature,
   drawMode,
   setDrawMode,
@@ -1319,7 +1166,6 @@ function MapPanel({
   baseLayerId,
   setBaseLayerId,
 }: {
-  lang: Lang;
   boundaryFeature: BoundaryFeature | null;
   drawMode: DrawMode;
   setDrawMode: (m: DrawMode) => void;
@@ -1365,7 +1211,7 @@ function MapPanel({
   useEffect(() => { drawModeRef.current = drawMode; }, [drawMode]);
   useEffect(() => { drawnCoordsRef.current = drawnCoords; }, [drawnCoords]);
 
-  const tx = ui[lang];
+  const tx = ui;
 
   /* ── Initialize map once with the default OSM layer ────────────────────── */
   useEffect(() => {
@@ -1810,7 +1656,7 @@ function MapPanel({
 
       {/* Base-layer switcher. On mobile it sits on a SECOND row below the draw
           toolbar (top-14) spanning the width and scrolls horizontally (touch),
-          so all layers — Hybrid / Satellite / भूभाग / Topo — are reachable and
+          so all layers — Hybrid / Satellite / Terrain / Topo — are reachable and
           never clip. Desktop keeps the original top-right compact bar. */}
       <div
         className="absolute left-3 right-3 top-14 z-10 flex max-w-[calc(100%-1.5rem)] items-stretch overflow-x-auto whitespace-nowrap rounded-lg border border-slate-300 bg-white shadow-md [-webkit-overflow-scrolling:touch] [scrollbar-width:none] sm:left-auto sm:right-3 sm:top-3 sm:w-auto sm:justify-end sm:overflow-visible"
@@ -1876,8 +1722,7 @@ function MapPanel({
 /* ── Main section ──────────────────────────────────────────────────────────── */
 
 export function MapReferenceSection() {
-  const { lang } = useLang();
-  const tx = ui[lang];
+  const tx = ui;
 
   const [form, setForm] = useState<FormData>({
     customerName: "", mobile: "",
@@ -1947,69 +1792,6 @@ export function MapReferenceSection() {
     [districts, form.district_id],
   );
 
-  /* ── District dropdown dedup (display-only) ───────────────────────────
-   *
-   * districts.json has accidental duplicates — most visibly TWO rows
-   * labelled "CHHATRAPATI SAMBHAJINAGAR" (LGD 515 = real, LGD 499 = an
-   * orphan with just "Kannad" under it). The user-facing rule is:
-   *   - English mode: keep the original list, exact labels (1-to-1 from
-   *     dropdown JSON, never altered).
-   *   - Marathi mode: if two rows render the SAME Marathi label, show
-   *     only the first one. Later duplicates are hidden.
-   *
-   * Selected row is always kept visible — if the user has somehow stored
-   * a hidden sibling's district_id, the <select> still has a matching
-   * <option> so their selection round-trips correctly.
-   *
-   * No source data is mutated; talukas / villages under hidden rows
-   * remain fully reachable via direct URL or state, just not picked from
-   * the dropdown. */
-  const visibleDistricts = useMemo(() => {
-    const seen = new Set<string>();
-    const hiddenLabels: string[] = [];
-    const out = districts.filter((d) => {
-      // Always keep the selected row — never yank it from under the user.
-      if (selectedDistrictRow?.district_id === d.district_id) {
-        if (lang === "mr") {
-          const key = displayDistrictName(d, "mr")
-            .replace(/\s+/g, "")
-            .trim()
-            .toLowerCase();
-          seen.add(key);
-        }
-        return true;
-      }
-      // English mode: no dedup. Each row passes through as-is.
-      if (lang !== "mr") return true;
-      const key = displayDistrictName(d, "mr")
-        .replace(/\s+/g, "")
-        .trim()
-        .toLowerCase();
-      if (!key) return true; // empty label → keep, can't dedup safely
-      if (seen.has(key)) {
-        hiddenLabels.push(displayDistrictName(d, "mr"));
-        return false;
-      }
-      seen.add(key);
-      return true;
-    });
-
-    // Debug breadcrumb: shows up only when ?debugLgd=1 is in the URL.
-    if (
-      typeof window !== "undefined" &&
-      /[?&]debugLgd=1\b/.test(window.location?.search ?? "")
-    ) {
-      console.log("[district dedup]", {
-        lang,
-        total: districts.length,
-        visible: out.length,
-        hidden: districts.length - out.length,
-        hiddenLabels,
-      });
-    }
-
-    return out;
-  }, [districts, selectedDistrictRow, lang]);
   const selectedTalukaRow = useMemo(
     () => talukas.find((t) => t.taluka_id === form.taluka_id),
     [talukas, form.taluka_id],
@@ -2029,7 +1811,7 @@ export function MapReferenceSection() {
    * Prefetching on mount means by the time anyone clicks a select, both
    * caches are warm (or warming) and the bump-on-arrival re-renders the
    * dropdown options AND refreshes form.taluka / form.village via the
-   * lang-toggle refresh effect (which depends on villageNamesTick). */
+   * name refresh effect (which depends on villageNamesTick). */
   useEffect(() => {
     let cancelled = false;
     if (!lgdNamesReady()) {
@@ -2051,7 +1833,7 @@ export function MapReferenceSection() {
       .then((r) => r.json())
       .then((rows: DistrictRow[]) => {
         rows.sort((a, b) =>
-          displayDistrictName(a, lang).localeCompare(displayDistrictName(b, lang)),
+          displayDistrictName(a).localeCompare(displayDistrictName(b)),
         );
         setDistricts(rows);
         console.debug("[MapReference] districts loaded:", rows.length);
@@ -2060,7 +1842,7 @@ export function MapReferenceSection() {
         console.error("[MapReference] districts fetch failed:", e);
         setDistricts([]);
       });
-  }, [lang]);
+  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -2080,8 +1862,8 @@ export function MapReferenceSection() {
         // dataset hasn't loaded yet, the helper returns row.name_en so we get
         // a sensible alphabetical order regardless.
         rows.sort((a, b) => {
-          const an = getTalukaDisplayNameRow(a, distRow, lang);
-          const bn = getTalukaDisplayNameRow(b, distRow, lang);
+          const an = getTalukaDisplayNameRow(a, distRow, "en");
+          const bn = getTalukaDisplayNameRow(b, distRow, "en");
           return an.localeCompare(bn);
         });
         setTalukas(rows);
@@ -2095,7 +1877,7 @@ export function MapReferenceSection() {
     return () => {
       cancelled = true;
     };
-  }, [form.district_id, lang, districts]);
+  }, [form.district_id, districts]);
 
   useEffect(() => {
     let cancelled = false;
@@ -2116,8 +1898,8 @@ export function MapReferenceSection() {
         // ends up in setVillages — the helper never returns null, so the
         // sort comparator is total.
         rows.sort((a, b) => {
-          const an = getVillageDisplayNameRow(a, talRow, distRow, lang);
-          const bn = getVillageDisplayNameRow(b, talRow, distRow, lang);
+          const an = getVillageDisplayNameRow(a, talRow, distRow, "en");
+          const bn = getVillageDisplayNameRow(b, talRow, distRow, "en");
           return an.localeCompare(bn);
         });
         setVillages(rows);
@@ -2131,7 +1913,7 @@ export function MapReferenceSection() {
     return () => {
       cancelled = true;
     };
-  }, [form.district_id, form.taluka_id, lang, districts, talukas]);
+  }, [form.district_id, form.taluka_id, districts, talukas]);
 
   /* Boundary loader. All state writes happen inside an async flow guarded by
    * `cancelled`, so none run synchronously in the effect body (satisfies
@@ -2235,7 +2017,7 @@ export function MapReferenceSection() {
       setForm((prev) => ({
         ...prev,
         district_id: id,
-        district: row ? displayDistrictName(row, lang) : "",
+        district: row ? displayDistrictName(row) : "",
         taluka_id: "", taluka: "",
         village_id: "", village: "",
       }));
@@ -2244,14 +2026,14 @@ export function MapReferenceSection() {
       setBoundaryFeature(null);
       setBoundaryError(null);
     },
-    [districts, lang],
+    [districts],
   );
 
   const handleSelectTaluka = useCallback(
     (id: string) => {
       const row = talukas.find((t) => t.taluka_id === id);
       console.debug("[MapReference] selected taluka:", id, row);
-      const display = getTalukaDisplayNameRow(row, selectedDistrictRow, lang);
+      const display = getTalukaDisplayNameRow(row, selectedDistrictRow, "en");
       setForm((prev) => ({
         ...prev,
         taluka_id: id,
@@ -2262,7 +2044,7 @@ export function MapReferenceSection() {
       setBoundaryFeature(null);
       setBoundaryError(null);
     },
-    [talukas, lang, selectedDistrictRow],
+    [talukas, selectedDistrictRow],
   );
 
   const handleSelectVillage = useCallback(
@@ -2273,7 +2055,7 @@ export function MapReferenceSection() {
         row,
         selectedTalukaRow,
         selectedDistrictRow,
-        lang,
+        "en",
       );
       setForm((prev) => ({
         ...prev,
@@ -2281,20 +2063,17 @@ export function MapReferenceSection() {
         village: display,
       }));
     },
-    [villages, lang, selectedTalukaRow, selectedDistrictRow],
+    [villages, selectedTalukaRow, selectedDistrictRow],
   );
 
-  /* ── If user toggles language AFTER a selection, refresh the stored
-   *    display names so the WhatsApp message and the on-screen "Selected
-   *    village" banner stay in sync. Also re-runs when the lazy LGD / MAHA
-   *    datasets finish loading (villageNamesTick) so Marathi labels populate
-   *    as soon as data arrives. */
+  /* ── Refresh the stored display names when the lazy LGD / MAHA datasets
+   *    finish loading (villageNamesTick), so the WhatsApp message and the
+   *    on-screen "Selected village" banner stay in sync with the dropdowns. */
   useEffect(() => {
     let cancelled = false;
     // Defer the relabel to a microtask so the setState is not synchronous
     // within the effect body (satisfies react-hooks/set-state-in-effect).
-    // Behavior is unchanged: it still re-derives the stored display names
-    // when the language toggles or lazy LGD/MAHA data arrives.
+    // It re-derives the stored display names when lazy LGD/MAHA data arrives.
     void Promise.resolve().then(() => {
       if (cancelled) return;
       setForm((prev) => {
@@ -2303,12 +2082,12 @@ export function MapReferenceSection() {
         const vilRow = villages.find((v) => v.village_id === prev.village_id);
         return {
           ...prev,
-          district: distRow ? displayDistrictName(distRow, lang) : prev.district,
+          district: distRow ? displayDistrictName(distRow) : prev.district,
           taluka: talRow
-            ? getTalukaDisplayNameRow(talRow, distRow, lang)
+            ? getTalukaDisplayNameRow(talRow, distRow, "en")
             : prev.taluka,
           village: vilRow
-            ? getVillageDisplayNameRow(vilRow, talRow, distRow, lang)
+            ? getVillageDisplayNameRow(vilRow, talRow, distRow, "en")
             : prev.village,
         };
       });
@@ -2316,11 +2095,11 @@ export function MapReferenceSection() {
     return () => {
       cancelled = true;
     };
-    // Intentionally narrow deps: lang change OR a tick from lazy data arrival
+    // Intentionally narrow deps: only a tick from lazy data arrival
     // triggers a refresh. Including districts/talukas/villages would cause a
     // loop on every fetch.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [lang, villageNamesTick]);
+  }, [villageNamesTick]);
 
   /* ── Derivations ───────────────────────────────────────────────────────── */
   const villageCentroid = useMemo(() => {
@@ -2371,7 +2150,6 @@ export function MapReferenceSection() {
 
   const waHref = useMemo(() => {
     const msg = buildWhatsAppMsg({
-      lang,
       service: activeService,
       form,
       villageCentroid,
@@ -2380,7 +2158,7 @@ export function MapReferenceSection() {
       plotAreaSqm,
     });
     return buildWhatsAppUrl({ message: msg, campaign: "nakasha-shodh" });
-  }, [lang, activeService, form, villageCentroid, drawnCoords, drawMode, plotCentroid, plotAreaSqm]);
+  }, [activeService, form, villageCentroid, drawnCoords, drawMode, plotCentroid, plotAreaSqm]);
 
   /* Persist the inquiry as an admin lead (fire-and-forget) the moment the user
    * taps WhatsApp. `keepalive` lets the POST finish even though a new tab opens.
@@ -2391,7 +2169,7 @@ export function MapReferenceSection() {
     const payload = {
       customer_name: form.customerName,
       mobile: form.mobile,
-      service: SERVICE_LABELS.mr[activeService] ?? activeService,
+      service: SERVICE_LABELS_LEAD_MR[activeService] ?? activeService,
       district: form.district || undefined,
       taluka: form.taluka || undefined,
       village: form.village || form.localBody || undefined,
@@ -2430,11 +2208,11 @@ export function MapReferenceSection() {
   const selectedVillageDisplay = useMemo(() => {
     const vilRow = villages.find((v) => v.village_id === form.village_id);
     if (!vilRow) return "";
-    return getVillageDisplayNameRow(vilRow, selectedTalukaRow, selectedDistrictRow, lang);
-    // villageNamesTick re-fires after lazy data arrives so the Marathi label
+    return getVillageDisplayNameRow(vilRow, selectedTalukaRow, selectedDistrictRow, "en");
+    // villageNamesTick re-fires after lazy data arrives so the final label
     // shows up in the banner without needing a re-selection.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [villages, form.village_id, lang, selectedTalukaRow, selectedDistrictRow, villageNamesTick]);
+  }, [villages, form.village_id, selectedTalukaRow, selectedDistrictRow, villageNamesTick]);
 
   /* Pre-computed village dropdown options. CRITICAL: this is a 1-to-1 map
    * over `villages` — we never filter, deduplicate, or reorder by what
@@ -2444,10 +2222,10 @@ export function MapReferenceSection() {
   const villageOptions = useMemo(() => {
     return villages.map((v) => ({
       id: v.village_id,
-      label: getVillageDisplayNameRow(v, selectedTalukaRow, selectedDistrictRow, lang),
+      label: getVillageDisplayNameRow(v, selectedTalukaRow, selectedDistrictRow, "en"),
     }));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [villages, lang, selectedTalukaRow, selectedDistrictRow, villageNamesTick]);
+  }, [villages, selectedTalukaRow, selectedDistrictRow, villageNamesTick]);
 
   /* ── Render ────────────────────────────────────────────────────────────── */
   return (
@@ -2461,14 +2239,13 @@ export function MapReferenceSection() {
 
         {/*
          * Map-first workspace: a single full-width map (Google-Earth-like). The
-         * "जमीन माहिती भरा" form opens as a right-side drawer (desktop) / bottom
-         * sheet (mobile) via the floating "माहिती भरा" tab — so the map stays wide.
+         * land-details form opens as a right-side drawer (desktop) / bottom
+         * sheet (mobile) via the floating "Fill details" tab — so the map stays wide.
          */}
         <div className="relative">
           <div ref={mobileMapAnchorRef} className="space-y-4">
             <div className="relative">
               <MapPanel
-                lang={lang}
                 boundaryFeature={boundaryFeature}
                 drawMode={drawMode}
                 setDrawMode={setDrawMode}
@@ -2486,7 +2263,7 @@ export function MapReferenceSection() {
                 className="absolute right-3 top-1/2 z-30 hidden -translate-y-1/2 items-center gap-2 rounded-full bg-blue-600 px-4 py-3 text-sm font-black text-white shadow-lg ring-2 ring-white/70 transition hover:bg-blue-700 lg:inline-flex"
               >
                 <Pencil className="size-4" />
-                {lang === "mr" ? "माहिती भरा" : "Fill details"}
+                Fill details
               </button>
             </div>
 
@@ -2498,7 +2275,7 @@ export function MapReferenceSection() {
               className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-lg bg-blue-600 text-base font-black text-white shadow-sm transition hover:bg-blue-700 active:scale-[0.99] lg:hidden"
             >
               <Pencil className="size-5" />
-              {lang === "mr" ? "माहिती भरा" : "Fill details"}
+              Fill details
             </button>
 
             {boundaryLoading && (
@@ -2540,7 +2317,7 @@ export function MapReferenceSection() {
                   <div className="sm:col-span-2">
                     <span className="text-slate-500">{tx.area}: </span>
                     <span className="font-black text-orange-900">
-                      {formatAcreGuntha(plotAreaSqm, lang)}
+                      {formatAcreGuntha(plotAreaSqm, "en")}
                     </span>
                   </div>
                   <div className="sm:col-span-2">
@@ -2603,7 +2380,7 @@ export function MapReferenceSection() {
                   className="inline-flex items-center gap-1.5 rounded-md border border-slate-300 px-3 py-1.5 text-sm font-bold text-slate-700 transition hover:bg-slate-50"
                 >
                   <X className="size-4" />
-                  {lang === "mr" ? "बंद करा" : "Close"}
+                  Close
                 </button>
               </div>
               <div className="flex-1 overflow-y-auto px-5 py-4 sm:px-6">
@@ -2613,7 +2390,7 @@ export function MapReferenceSection() {
                * duplicate service tabs the homepage no longer needs. */}
               <div className="mb-5">
                 <label htmlFor="service-type" className="mb-1.5 block text-sm font-bold text-slate-700">
-                  {lang === "mr" ? "सेवा प्रकार" : "Service type"}
+                  Service type
                 </label>
                 <select
                   id="service-type"
@@ -2623,7 +2400,7 @@ export function MapReferenceSection() {
                 >
                   {SERVICE_DROPDOWN.map((id) => (
                     <option key={id} value={id}>
-                      {SERVICE_LABELS[lang][id]}
+                      {SERVICE_LABELS[id]}
                     </option>
                   ))}
                 </select>
@@ -2638,26 +2415,26 @@ export function MapReferenceSection() {
               <div className="mb-5 grid grid-cols-1 gap-3 sm:grid-cols-2">
                 <div>
                   <label className="mb-1.5 block text-sm font-bold text-slate-700">
-                    {lang === "mr" ? "तुमचं नाव *" : "Your name *"}
+                    Your name *
                   </label>
                   <input
                     type="text"
                     value={form.customerName}
                     onChange={(e) => updateForm("customerName", e.target.value)}
-                    placeholder={lang === "mr" ? "उदा. रमेश पाटील" : "e.g. Ramesh Patil"}
+                    placeholder="e.g. Ramesh Patil"
                     className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
                   />
                 </div>
                 <div>
                   <label className="mb-1.5 block text-sm font-bold text-slate-700">
-                    {lang === "mr" ? "मोबाइल नंबर *" : "Mobile number *"}
+                    Mobile number *
                   </label>
                   <input
                     type="text"
                     inputMode="tel"
                     value={form.mobile}
                     onChange={(e) => updateForm("mobile", e.target.value)}
-                    placeholder={lang === "mr" ? "10-अंकी क्रमांक" : "10-digit number"}
+                    placeholder="10-digit number"
                     className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
                   />
                 </div>
@@ -2687,9 +2464,9 @@ export function MapReferenceSection() {
                       className="h-12 lg:h-11 w-full rounded-md border border-slate-300 bg-white px-3 text-base lg:text-sm font-semibold text-slate-900 outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-100"
                     >
                       <option value="">— {tx.chooseDistrict} —</option>
-                      {visibleDistricts.map((d) => (
+                      {districts.map((d) => (
                         <option key={d.district_id} value={d.district_id}>
-                          {displayDistrictName(d, lang)}
+                          {displayDistrictName(d)}
                         </option>
                       ))}
                     </select>
@@ -2725,7 +2502,7 @@ export function MapReferenceSection() {
                       */}
                       {talukas.map((t) => (
                         <option key={t.taluka_id} value={t.taluka_id}>
-                          {getTalukaDisplayNameRow(t, selectedDistrictRow, lang)}
+                          {getTalukaDisplayNameRow(t, selectedDistrictRow, "en")}
                         </option>
                       ))}
                     </select>
@@ -2808,7 +2585,7 @@ export function MapReferenceSection() {
                 {fieldCfg.showDistrict && form.district_id && !form.taluka_id && fieldCfg.showTaluka && fieldCfg.showVillage && !fieldCfg.villageOptional && (
                   <p className="flex items-start gap-2 rounded-md border border-blue-200 bg-blue-50 px-3 py-2 text-xs leading-5 text-blue-900">
                     <Info className="mt-0.5 size-3.5 shrink-0" />
-                    {lang === "mr" ? "आता तालुका निवडा." : "Now choose a taluka."}
+                    Now choose a taluka.
                   </p>
                 )}
 
