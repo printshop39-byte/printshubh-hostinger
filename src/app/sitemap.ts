@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { COLLECTIONS } from "@/lib/collections";
+import { getCategories } from "@/lib/wallpapers/catalogue";
 
 /**
  * Sitemap for printshubh.shop.
@@ -21,10 +22,10 @@ import { COLLECTIONS } from "@/lib/collections";
  */
 const SITE_URL = "https://www.printshubh.shop";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const lastModified = new Date();
 
-  return [
+  const entries: MetadataRoute.Sitemap = [
     /* Homepage */
     { url: `${SITE_URL}/`, lastModified, changeFrequency: "weekly", priority: 1.0 },
 
@@ -76,5 +77,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/terms`,      lastModified, changeFrequency: "yearly",  priority: 0.4 },
     { url: `${SITE_URL}/disclaimer`, lastModified, changeFrequency: "yearly",  priority: 0.4 },
     { url: `${SITE_URL}/refund`,     lastModified, changeFrequency: "yearly",  priority: 0.4 },
+  ];
+
+  /* Wallpaper design catalogue: the landing page and one page per active
+   * category. Individual design pages are noindex, so they are NOT listed. */
+  const wallpaperCategories = await getCategories();
+  return [
+    ...entries,
+    { url: `${SITE_URL}/wallpapers`, lastModified, changeFrequency: "weekly", priority: 0.8 },
+    ...wallpaperCategories.map((c) => ({
+      url: `${SITE_URL}/wallpapers/${c.slug}`,
+      lastModified,
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    })),
   ];
 }

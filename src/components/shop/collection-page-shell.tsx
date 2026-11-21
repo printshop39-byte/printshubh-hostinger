@@ -213,6 +213,14 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                     <MessageCircle className="size-4" />
                     {tx.ctaAsk}
                   </a>
+                  {collection.key === "premium-wallpaper-printing" && (
+                    <Link
+                      href="/wallpapers"
+                      className="inline-flex min-h-[48px] items-center justify-center gap-2 rounded-md border-2 border-brand-navy px-5 text-sm font-bold text-brand-navy transition hover:bg-brand-navy hover:text-white"
+                    >
+                      Browse wallpaper designs
+                    </Link>
+                  )}
                 </div>
                 <p className="mt-3 text-xs font-semibold text-slate-500">{tx.note}</p>
               </Reveal>
