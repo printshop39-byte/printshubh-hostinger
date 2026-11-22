@@ -32,7 +32,7 @@ import {
 } from "lucide-react";
 import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
-import { BRAND_LINE, ESTABLISHED, OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
+import { ESTABLISHED, OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { COLLECTIONS } from "@/lib/collections";
 
 /* ── Official PrintShubh contact details ──────────────────────────────────
@@ -171,18 +171,19 @@ export function SiteFooter() {
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.2fr_0.9fr_0.9fr_0.9fr_1fr]">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-2.5">
-              <span className="flex size-10 items-center justify-center rounded-lg bg-gradient-to-br from-brand-gold to-brand-navy text-lg font-black text-white">
-                P
-              </span>
-              <span className="leading-none">
-                <span className="block text-lg font-black tracking-tight text-white">
-                  PRINTSHUBH
-                </span>
-                <span className="mt-1 block text-[10px] font-black uppercase tracking-[0.18em] text-brand-gold">
-                  {BRAND_LINE}
-                </span>
-              </span>
+            <div className="flex items-center">
+              {/* Same official logo as the header (see SiteHeader). */}
+              {/* eslint-disable-next-line @next/next/no-img-element -- fixed brand asset with three pre-rendered densities */}
+              <img
+                src="/brand/header-lockup.png"
+                srcSet="/brand/header-lockup.png 1x, /brand/header-lockup@2x.png 2x, /brand/header-lockup@3x.png 3x"
+                width={237}
+                height={44}
+                alt="PRINTSHUBH"
+                loading="lazy"
+                decoding="async"
+                className="h-9 w-auto max-w-none shrink-0 rounded-md xl:h-11"
+              />
             </div>
             <p className="mt-4 max-w-sm text-[14px] leading-7 text-slate-400">{t.tagline}</p>
             <a

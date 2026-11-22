@@ -25,7 +25,6 @@ import { Menu, MessageCircle, X } from "lucide-react";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { SiteSearch } from "@/components/site-search";
-import { BRAND_LINE } from "@/lib/shop-profile";
 
 interface NavItem {
   label: string;
@@ -173,17 +172,20 @@ export function SiteHeader() {
           className="flex min-h-[44px] min-w-0 items-center gap-2 sm:gap-2.5"
           onClick={() => setOpen(false)}
         >
-          <span className="flex size-9 shrink-0 items-center justify-center rounded-lg max-[370px]:size-8 bg-gradient-to-br from-brand-navy to-brand-navy text-base font-black text-white shadow-sm">
-            P
-          </span>
-          <span className="min-w-0 leading-none">
-            <span className="block truncate text-[16px] font-black tracking-tight text-slate-950 max-[370px]:text-[14px] sm:text-[17px]">
-              PRINTSHUBH
-            </span>
-            <span className="mt-0.5 hidden text-[10px] font-black uppercase tracking-[0.18em] text-brand-navy sm:block">
-              {BRAND_LINE}
-            </span>
-          </span>
+          {/* Official PRINTSHUBH logo: the supplied emblem and wordmark on the brand
+              green, pre-rendered at 1x / 2x / 3x so it stays sharp on every
+              screen. Its width/height attributes reserve the exact space (no
+              layout shift); the height classes only scale it uniformly. */}
+          {/* eslint-disable-next-line @next/next/no-img-element -- fixed brand asset with three pre-rendered densities */}
+          <img
+            src="/brand/header-lockup.png"
+            srcSet="/brand/header-lockup.png 1x, /brand/header-lockup@2x.png 2x, /brand/header-lockup@3x.png 3x"
+            width={237}
+            height={44}
+            alt="PRINTSHUBH"
+            decoding="async"
+            className="h-10 w-auto max-w-none shrink-0 rounded-md max-[370px]:h-9 max-[340px]:h-8 max-[310px]:h-7 sm:h-11"
+          />
         </Link>
 
         {/* Desktop nav */}

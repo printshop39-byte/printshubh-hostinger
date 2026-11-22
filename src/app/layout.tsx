@@ -99,10 +99,11 @@ export const metadata: Metadata = {
       "max-video-preview": -1,
     },
   },
-  icons: {
-    icon: "/favicon.png",
-    apple: "/apple-icon.png",
-  },
+  /* Site icons are NOT listed here on purpose. The App Router builds the
+   * <link> tags (with a content hash, so browsers pick up a changed icon)
+   * from the files in this folder: favicon.ico (16/32/48), icon.png (32x32),
+   * icon1.png (192x192) and apple-icon.png (180x180). All are made from the
+   * supplied PRINTSHUBH emblem. */
 };
 
 /* ── JSON-LD: one business entity, three linked nodes ────────────────
@@ -154,7 +155,7 @@ const organizationLd = {
   name: "PrintShubh",
   alternateName: "PRINTSHUBH JUMBO XEROX",
   url: SITE_URL + "/",
-  logo: SITE_URL + "/favicon.png",
+  logo: SITE_URL + "/brand/printshubh-logo.png",
   email: "support@printshubh.shop",
   areaServed: { "@type": "State", name: "Maharashtra" },
   contactPoint: {
