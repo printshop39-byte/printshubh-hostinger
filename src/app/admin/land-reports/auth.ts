@@ -43,20 +43,36 @@ export function authConfigured(): boolean {
   return supabaseAuthConfigured() && adminAllowlist().length > 0;
 }
 
+/**
+ * The single rule for "this Supabase user is an administrator": a CONFIRMED
+ * email that is on the (non-empty) ADMIN_EMAILS allowlist. Shared by the admin
+ * gate below and by the password-recovery flow (src/app/auth/*), so recovery
+ * can never grant or reset anything the admin gate would not allow.
+ */
+export function isAllowedAdminUser(
+  user:
+    | { email?: string | null; email_confirmed_at?: string | null; confirmed_at?: string | null }
+    | null
+    | undefined,
+): boolean {
+  if (!user) return false;
+  // An unconfirmed address proves nothing: require the email to be verified.
+  if (!user.email_confirmed_at && !user.confirmed_at) return false;
+  const allowlist = adminAllowlist();
+  if (allowlist.length === 0) return false; // missing/empty ADMIN_EMAILS: nobody is admin
+  return isAllowedAdminEmail(user.email, allowlist);
+}
+
 /** True only for a valid session belonging to a confirmed, allowlisted admin email. */
 export async function isAuthed(): Promise<boolean> {
   if (!supabaseAuthConfigured()) return false;
-  const allowlist = adminAllowlist();
-  if (allowlist.length === 0) return false; // missing/empty ADMIN_EMAILS: nobody is admin
+  if (adminAllowlist().length === 0) return false; // missing/empty ADMIN_EMAILS: nobody is admin
   try {
     const supabase = await createSupabaseServerClient();
     const {
       data: { user },
     } = await supabase.auth.getUser();
-    if (!user) return false;
-    // An unconfirmed address proves nothing: require the email to be verified.
-    if (!user.email_confirmed_at && !user.confirmed_at) return false;
-    return isAllowedAdminEmail(user.email, allowlist);
+    return isAllowedAdminUser(user);
   } catch {
     return false;
   }

@@ -6,6 +6,7 @@
  * password input + error display.
  */
 
+import Link from "next/link";
 import { useActionState } from "react";
 import { Lock } from "lucide-react";
 import { loginAction } from "./actions";
@@ -70,6 +71,12 @@ export function AdminLogin({ configured }: { configured: boolean }) {
           >
             {pending ? "तपासत आहे…" : "प्रवेश करा"}
           </button>
+          <Link
+            href="/auth/forgot-password"
+            className="block text-center text-[12px] font-bold text-blue-700 hover:underline"
+          >
+            पासवर्ड विसरलात?
+          </Link>
         </form>
       </div>
     </div>

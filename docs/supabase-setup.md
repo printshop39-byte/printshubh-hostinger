@@ -47,6 +47,41 @@ Row-level security is on for every table with no policies. That means the public
    Adding a user here does **not** make them an admin: only addresses listed in `ADMIN_EMAILS` (step 4/5) can
    open any admin page. This project also holds accounts and data from other apps, which is exactly why.
 
+### 3b. Password recovery ("Forgot password?")
+
+The site handles recovery itself at three pages under `/auth/` (the login form links to them):
+
+| Page | What it does |
+| --- | --- |
+| `/auth/forgot-password` | asks Supabase to email a link, **only** for addresses on `ADMIN_EMAILS` (the reply is identical for everyone) |
+| `/auth/callback` | the email link lands here; verifies it and opens a recovery session |
+| `/auth/reset-password` | choose and confirm the new password (min 10 characters); ends all sessions, then you sign in again |
+
+If a recovery email opens the **homepage** instead, Supabase is using its default **Site URL** and has no redirect
+for this site. Set both of these in **Authentication -> URL Configuration**:
+
+- **Site URL**: `https://www.printshubh.shop`
+- **Redirect URLs** (add each line):
+  - `https://www.printshubh.shop/auth/callback`
+  - `http://localhost:3000/auth/callback` (only for testing on your own computer)
+
+Then **Authentication -> Email Templates -> Reset Password**: replace the link in the template with this one. It works in
+any browser or phone (no "open it in the same browser" limitation) and is also what the dashboard's **Send password
+recovery** button uses:
+
+```html
+<h2>Reset your password</h2>
+<p><a href="{{ .SiteURL }}/auth/callback?token_hash={{ .TokenHash }}&type=recovery">Choose a new password</a></p>
+<p>This link works once and expires soon. If you did not ask for it, ignore this email.</p>
+```
+
+Notes:
+- A recovery link is single-use and short-lived. An old, used or expired link shows an "expired" page with a button
+  to request a new one; it never redirects to the homepage.
+- Preview deployments (`*.vercel.app`) send the production address in the email on purpose, so test recovery on
+  `localhost` or production.
+- Supabase limits recovery emails to about one per minute per address; if nothing arrives, wait 60 seconds and retry.
+
 ## 4. Copy the keys (Project Settings -> API)
 
 | You copy | Becomes | Secret? |
