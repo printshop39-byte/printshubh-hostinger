@@ -11,9 +11,8 @@
  *   - primary  — the four service categories plus About/Contact. These are
  *                what the shop wants a first-time visitor to see, so they
  *                get the desktop bar.
- *   - more     — tools, the map finder, FAQ and support. Still one tap away
- *                in the mobile sheet and always present in the footer, so
- *                nothing that used to be reachable stopped being reachable.
+ *   - more     — the counter services, FAQ and support. Still one tap away
+ *                in the mobile sheet and always present in the footer.
  *
  * Scroll behaviour: past ~12px the bar loses a little height, gains a blur
  * and a stronger border. It is a CSS transition on a boolean, not a
@@ -54,8 +53,6 @@ const more: NavItem[] = [
   { label: "Printing & Xerox", href: "/printing-xerox" },
   { label: "Photo", href: "/photo-services" },
   { label: "Online Services", href: "/digital-services" },
-  { label: "Free Tools", href: "/#tools" },
-  { label: "Pricing", href: "/pricing" },
   { label: "FAQ", href: "/faq" },
   { label: "Support", href: "/support" },
 ];

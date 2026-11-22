@@ -7,18 +7,33 @@ import { ImageResponse } from "next/og";
  * page exports its own opengraph-image. Code-generated (no binary asset) so
  * it's version-controlled and easy to tweak.
  *
- * Intentionally Latin-forward: Satori needs an embedded font file to render
+ * Brand colours come from the site's own tokens in globals.css:
+ * navy #183153 / #0f2140, cream #f6f1ea, gold #b89052.
+ *
+ * Intentionally Latin-only: Satori needs an embedded font file to render
  * Devanagari, and the default font does not cover it. Keeping the copy in
  * Latin guarantees a correct render everywhere. To add a Marathi line later,
  * load a Noto Sans Devanagari font buffer via the `fonts` option below.
  */
 
 export const alt =
-  "PrintShubh.shop — Maharashtra land documents (7/12, 8A, village maps) on WhatsApp";
+  "PRINTSHUBH — Premium Print & Visual Studio: wallpaper, canvas art, wall graphics, vinyl and large-format printing";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-const CHIPS = ["7/12", "8A", "Village Map", "DP / TP Map", "Property Card"];
+const NAVY = "#183153";
+const NAVY_DARK = "#0f2140";
+const CREAM = "#f6f1ea";
+const GOLD = "#b89052";
+
+const CHIPS = [
+  "Premium Wallpaper",
+  "Canvas Art",
+  "Wall Graphics & Murals",
+  "Premium Vinyl",
+  "PU Leatherette",
+  "Large Format",
+];
 
 export default function OpengraphImage() {
   return new ImageResponse(
@@ -30,14 +45,15 @@ export default function OpengraphImage() {
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
-          background: "linear-gradient(135deg, #1e3a8a 0%, #2563eb 60%, #1d4ed8 100%)",
-          padding: "72px",
+          background: `linear-gradient(135deg, ${NAVY} 0%, ${NAVY_DARK} 100%)`,
+          borderTop: `10px solid ${GOLD}`,
+          padding: "60px 72px 56px",
           fontFamily: "sans-serif",
-          color: "white",
+          color: CREAM,
         }}
       >
         {/* Brand row */}
-        <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
+        <div style={{ display: "flex", alignItems: "center", gap: "22px" }}>
           <div
             style={{
               display: "flex",
@@ -45,33 +61,36 @@ export default function OpengraphImage() {
               justifyContent: "center",
               width: "84px",
               height: "84px",
-              borderRadius: "20px",
-              background: "white",
-              color: "#2563eb",
-              fontSize: "54px",
+              borderRadius: "18px",
+              background: CREAM,
+              color: NAVY,
+              fontSize: "56px",
               fontWeight: 900,
             }}
           >
             P
           </div>
-          <div style={{ display: "flex", fontSize: "46px", fontWeight: 800 }}>
-            <span>PrintShubh</span>
-            <span style={{ color: "#bfdbfe" }}>.shop</span>
+          <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
+            <div style={{ display: "flex", fontSize: "46px", fontWeight: 800, letterSpacing: "3px" }}>
+              PRINTSHUBH
+            </div>
+            <div style={{ display: "flex", fontSize: "21px", fontWeight: 700, letterSpacing: "5px", color: GOLD }}>
+              PREMIUM PRINT &amp; VISUAL STUDIO
+            </div>
           </div>
         </div>
 
         {/* Headline */}
-        <div style={{ display: "flex", flexDirection: "column", gap: "18px" }}>
-          <div style={{ fontSize: "62px", fontWeight: 900, lineHeight: 1.1 }}>
-            Maharashtra land documents,
+        <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
+          <div style={{ display: "flex", fontSize: "80px", fontWeight: 900, lineHeight: 1.05 }}>
+            Premium Print
           </div>
-          <div style={{ display: "flex", fontSize: "62px", fontWeight: 900, lineHeight: 1.1 }}>
-            <span>fast on </span>
-            <span style={{ color: "#86efac" }}>&nbsp;WhatsApp</span>
+          <div style={{ display: "flex", fontSize: "80px", fontWeight: 900, lineHeight: 1.05, color: GOLD }}>
+            &amp; Visual Studio.
           </div>
         </div>
 
-        {/* Service chips */}
+        {/* What we print */}
         <div style={{ display: "flex", flexWrap: "wrap", gap: "14px" }}>
           {CHIPS.map((c) => (
             <div
@@ -80,10 +99,11 @@ export default function OpengraphImage() {
                 display: "flex",
                 padding: "10px 22px",
                 borderRadius: "999px",
-                background: "rgba(255,255,255,0.16)",
-                border: "1px solid rgba(255,255,255,0.35)",
-                fontSize: "28px",
+                background: "rgba(184,144,82,0.14)",
+                border: `1px solid ${GOLD}`,
+                fontSize: "26px",
                 fontWeight: 700,
+                color: CREAM,
               }}
             >
               {c}
@@ -92,8 +112,18 @@ export default function OpengraphImage() {
         </div>
 
         {/* Footer line */}
-        <div style={{ display: "flex", fontSize: "26px", color: "#dbeafe", fontWeight: 600 }}>
-          Private assistance · based on official sources · price upfront, no hidden fees
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-between",
+            alignItems: "center",
+            fontSize: "25px",
+            fontWeight: 600,
+            color: "#cbd5e1",
+          }}
+        >
+          <div style={{ display: "flex" }}>Custom design &amp; print enquiries on WhatsApp</div>
+          <div style={{ display: "flex", color: GOLD, fontWeight: 800 }}>printshubh.shop</div>
         </div>
       </div>
     ),

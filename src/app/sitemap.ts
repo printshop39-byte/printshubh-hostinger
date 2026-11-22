@@ -29,9 +29,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     /* Homepage */
     { url: `${SITE_URL}/`, lastModified, changeFrequency: "weekly", priority: 1.0 },
 
-    /* Shop-counter service pages (printing / photo / digital).
-     * Added alongside the land-document routes below — none of those URLs
-     * changed when the shop pages were introduced. */
+    /* Shop-counter service pages (printing / photo / digital). */
     { url: `${SITE_URL}/printing-xerox`,              lastModified, changeFrequency: "monthly", priority: 0.9 },
     { url: `${SITE_URL}/photo-services`,              lastModified, changeFrequency: "monthly", priority: 0.9 },
     { url: `${SITE_URL}/digital-services`,            lastModified, changeFrequency: "monthly", priority: 0.8 },
@@ -46,25 +44,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.9,
     })),
 
-    /* Service SEO pages (Stage D) */
-    { url: `${SITE_URL}/satbara-utara-maharashtra/`,   lastModified, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/8a-utara-maharashtra/`,        lastModified, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/gav-nakasha-maharashtra/`,     lastModified, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/dp-map-maharashtra/`,          lastModified, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/milkat-patrika-maharashtra/`,  lastModified, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/e-ferfar-maharashtra/`,        lastModified, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${SITE_URL}/jameen-report-maharashtra/`,   lastModified, changeFrequency: "monthly", priority: 0.8 },
-
-    /* Map / survey finder */
-    { url: `${SITE_URL}/nakasha-shodh/`,               lastModified, changeFrequency: "monthly", priority: 0.7 },
-
-    /* Pricing */
-    { url: `${SITE_URL}/pricing`,                      lastModified, changeFrequency: "monthly", priority: 0.7 },
-
-    /* Finance / property tools */
-    { url: `${SITE_URL}/home-loan-emi/`,               lastModified, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/stamp-duty/`,                  lastModified, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/ready-reckoner/`,              lastModified, changeFrequency: "monthly", priority: 0.7 },
+    /* Legacy land-document, map-finder, property-calculator and land-pricing
+     * URLs are deliberately NOT listed any more (Phase 1 rebrand cleanup).
+     * The pages still exist for now and are retired separately; they are no
+     * longer promoted to search engines from here. */
 
     /* Trust / support pages */
     { url: `${SITE_URL}/about`,      lastModified, changeFrequency: "monthly", priority: 0.7 },

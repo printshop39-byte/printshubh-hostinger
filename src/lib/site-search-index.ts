@@ -5,10 +5,8 @@
  * the site has ~25 indexed destinations total, so a plain substring filter
  * over this list is instant and needs no search library or backend. Service
  * groups are pulled from `SERVICE_GROUPS` (src/lib/shop-services.ts) so their
- * titles can't drift from the homepage pillars; land-document and page
- * entries are hand-written here, matching how tools-section.tsx and
- * mobile-service-shortcuts.tsx already each keep their own short list rather
- * than sharing one array.
+ * titles can't drift from the homepage pillars; the information-page entries
+ * are hand-written here.
  */
 
 import { SERVICE_GROUPS } from "@/lib/shop-services";
@@ -22,7 +20,6 @@ export interface SearchIndexEntry {
 
 const servicesCategory = { mr: "सेवा", en: "Services" };
 const collectionsCategory = { mr: "Collections", en: "Collections" };
-const toolsCategory = { mr: "मोफत साधने", en: "Free Tools" };
 const infoCategory = { mr: "माहिती", en: "Info" };
 
 const serviceEntries: SearchIndexEntry[] = SERVICE_GROUPS.map((group) => ({
@@ -40,25 +37,12 @@ const collectionEntries: SearchIndexEntry[] = COLLECTIONS.map((c) => ({
   category: collectionsCategory,
 }));
 
-/* The 8 land-document/map pages (7/12, 8A, eFerfar, Village Map, Property
- * Card, DP/TP Map, Land Report, Map Search) were removed from this search
- * index as part of the shop/print-studio repositioning (owner decision) —
- * they are no longer promoted from search, header, footer or the homepage.
- * The pages themselves, their sitemap.ts entries and /nakasha-shodh's
- * Supabase-backed enquiry flow are untouched; see the land-records audit
- * report for the full list and a traffic/redirect plan before any of them
- * are deleted. */
-
-/* /land-unit-converter/ removed from this index too (owner rebrand
- * decision) — the route itself, and its sitemap.ts entry, are untouched. */
-const toolEntries: SearchIndexEntry[] = [
-  { href: "/home-loan-emi/", title: { mr: "गृहकर्ज EMI कॅल्क्युलेटर", en: "Home-loan EMI Calculator" }, category: toolsCategory },
-  { href: "/stamp-duty/", title: { mr: "मुद्रांक शुल्क कॅल्क्युलेटर", en: "Stamp Duty Calculator" }, category: toolsCategory },
-  { href: "/ready-reckoner/", title: { mr: "रेडी रेकनर दर शोध", en: "Ready Reckoner Rate Lookup" }, category: toolsCategory },
-];
+/* No land-document, map-finder, property-calculator or land-pricing pages are
+ * listed here (removed in the shop/print-studio repositioning and finished in
+ * the Phase 1 cleanup). Those pages still exist for now but are not promoted
+ * from search, the header, the footer, the homepage or the sitemap. */
 
 const infoEntries: SearchIndexEntry[] = [
-  { href: "/pricing", title: { mr: "किंमत", en: "Pricing" }, category: infoCategory },
   { href: "/faq", title: { mr: "वारंवार विचारले जाणारे प्रश्न (FAQ)", en: "FAQ" }, category: infoCategory },
   { href: "/support", title: { mr: "मदत केंद्र", en: "Support" }, category: infoCategory },
   { href: "/about", title: { mr: "आमच्याबद्दल", en: "About" }, category: infoCategory },
@@ -67,7 +51,6 @@ const infoEntries: SearchIndexEntry[] = [
 
 export const SITE_SEARCH_INDEX: SearchIndexEntry[] = [
   ...collectionEntries,
-  ...toolEntries,
   ...serviceEntries,
   ...infoEntries,
 ];

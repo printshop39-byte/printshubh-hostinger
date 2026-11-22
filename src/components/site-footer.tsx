@@ -4,16 +4,14 @@
  * SiteFooter — dark, four-column footer rendered below every page.
  *
  * It is also the site's link safety net. The desktop header only carries the
- * four service categories plus About/Contact; every other page that used to
- * be in the old nav (tools, map finder, pricing, FAQ, support, and all the
- * policy pages) is listed here, on every route. Nothing became unreachable
- * when the header was slimmed down.
+ * four service categories plus About/Contact; the other information pages
+ * (FAQ, support and all the policy pages) are listed here, on every route.
+ * Nothing became unreachable when the header was slimmed down.
  *
  * On the homepage ("/") only, the footer is the premium-storefront version: the
- * land-document badges and the PrintShubh.in tools block are left out, and the
- * collections and services links (already on the page above) fold into one
- * native <details> on phones. Every other route renders the footer exactly as
- * before.
+ * PrintShubh.in tools block is left out, and the collections and services
+ * links (already on the page above) fold into one native <details> on phones.
+ * Every other route renders the footer exactly as before.
  *
  * The address block shows a real address only once SHOP_ADDRESS is filled in
  * (src/lib/shop-profile.ts); until then it states the service area, which is
@@ -60,8 +58,6 @@ const tx: {
   usefulTitle: string;
   contactTitle: string;
   badges: string[];
-  /** Shown only on the legacy land-document pages (see LAND_DOCUMENT_PATHS). */
-  notGovernment: string;
   services: { label: string; href: string }[];
   useful: { label: string; href: string }[];
   waMsg: string;
@@ -83,21 +79,13 @@ const tx: {
   servicesTitle: "Services",
   usefulTitle: "Useful",
   contactTitle: "Contact",
-  badges: [
-    "Based on official sources",
-    "PDF on WhatsApp",
-    "Details verified before payment",
-    `Since ${ESTABLISHED.slice(0, 4)}`,
-  ],
-  notGovernment: "Not a government body",
+  badges: [`Since ${ESTABLISHED.slice(0, 4)}`],
   services: [
     { label: "Prints", href: "/printing-xerox" },
     { label: "Photo Services", href: "/photo-services" },
   ],
   useful: [
     { label: "About Us", href: "/about" },
-    { label: "Pricing", href: "/pricing" },
-    { label: "Free Tools", href: "/#tools" },
     { label: "FAQ", href: "/faq" },
     { label: "Support", href: "/support" },
     { label: "Contact", href: "/contact" },
@@ -120,44 +108,15 @@ const tx: {
   hours: "Hours",
 };
 
-/* The "not a government body" badge belongs to the land-document pages, where
- * the site helps with government records. On the premium print pages it is
- * noise, so it is shown only on these routes. This is the same list as
- * LAND_DOCUMENT_PATHS in legacy-price-assistant.tsx: keep the two in step. */
-const LAND_DOCUMENT_PATHS: readonly string[] = [
-  "/satbara-utara-maharashtra",
-  "/8a-utara-maharashtra",
-  "/gav-nakasha-maharashtra",
-  "/dp-map-maharashtra",
-  "/milkat-patrika-maharashtra",
-  "/e-ferfar-maharashtra",
-  "/jameen-report-maharashtra",
-  "/nakasha-shodh",
-  "/land-unit-converter",
-];
-
-function isLandDocumentPath(pathname: string | null): boolean {
-  if (!pathname) return false;
-  const clean = pathname.replace(/\/+$/, "") || "/";
-  return LAND_DOCUMENT_PATHS.includes(clean);
-}
-
 export function SiteFooter() {
   const t = tx;
   const pathname = usePathname();
   const isHome = pathname === "/";
-  // On a land-document page the badge keeps its original place, second in the row.
-  // The land-document trust badges ("Based on official sources", "PDF on
-  // WhatsApp", "Details verified before payment") belong to the land-document
-  // routes and /pricing. Every other page (the homepage, collections, the
-  // printing / photo / digital pages, about, contact, the tools and the legal
-  // pages) shows only "Since 1996", the last badge.
-  const cleanPath = (pathname ?? "").replace(/\/+$/, "") || "/";
-  const badges = isLandDocumentPath(pathname)
-    ? [t.badges[0], t.notGovernment, ...t.badges.slice(1)]
-    : cleanPath === "/pricing"
-      ? t.badges
-      : t.badges.slice(-1);
+  // Every page shows the same single "Since …" badge. The land-document trust
+  // badges ("Based on official sources", "PDF on WhatsApp", "Not a government
+  // body") and the per-route logic that chose them were removed in the Phase 1
+  // rebrand cleanup.
+  const badges = t.badges;
   const year = new Date().getFullYear();
   const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "footer" });
 
@@ -197,7 +156,7 @@ export function SiteFooter() {
     <footer className="bg-brand-navy px-5 pb-10 pt-16 text-slate-300 sm:px-8">
       <div className="mx-auto max-w-7xl">
         {/* Trust badges */}
-        <ul className={`${badges.length === 1 ? "mb-8" : "mb-12"} flex flex-wrap gap-2`}>
+        <ul className="mb-8 flex flex-wrap gap-2">
           {badges.map((b) => (
             <li
               key={b}

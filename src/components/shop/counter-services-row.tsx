@@ -5,15 +5,16 @@
  * the homepage.
  *
  * The homepage is about the premium print studio. The everyday counter
- * services (xerox, photo, online forms) and the free calculators are still
- * live and still linked from the header and the footer; this row is the one
- * homepage place that keeps them one tap away without competing with the
- * collections. Plain text links only: no cards, no icons, no promotion.
+ * services (xerox, photo, online forms) are still live and still linked from
+ * the header and the footer; this row is the one homepage place that keeps
+ * them one tap away without competing with the collections. Plain text links
+ * only: no cards, no icons, no promotion.
  *
- * The two ids are load-bearing. `/#services` (the "all services" link on the
- * service pages) and `/#tools` (header "Free Tools", footer, twice) point at
- * this page, and they used to land on ServicePillars and ToolsSection. Those
- * sections are no longer on the homepage, so the ids live here.
+ * The `services` id is load-bearing: `/#services` (the "all services" link on
+ * the service pages) points at it. The old "Free tools" column and its
+ * `#tools` anchor (home-loan / stamp-duty / ready-reckoner / land-unit tools)
+ * were removed in the Phase 1 rebrand cleanup, together with every link to
+ * that anchor.
  */
 
 import Link from "next/link";
@@ -26,16 +27,7 @@ const SERVICES: Item[] = [
   { href: "/digital-services", label: "Online services" },
 ];
 
-/* Same four destinations the old ToolsSection linked to (trailing slash
- * included, as it was there). */
-const TOOLS: Item[] = [
-  { href: "/home-loan-emi/", label: "Home-loan EMI" },
-  { href: "/stamp-duty/", label: "Stamp duty" },
-  { href: "/ready-reckoner/", label: "Ready Reckoner" },
-  { href: "/land-unit-converter/", label: "Land unit converter" },
-];
-
-const t: { heading: string; services: string; tools: string } = { heading: "Also at the counter", services: "Services", tools: "Free tools" };
+const t: { heading: string; services: string } = { heading: "Also at the counter", services: "Services" };
 
 const LINK =
   "inline-flex min-h-[44px] items-center rounded-lg px-3 text-[14px] font-bold text-slate-700 underline decoration-brand-gold decoration-1 underline-offset-4 transition hover:text-brand-navy";
@@ -70,14 +62,10 @@ export function CounterServicesRow() {
           {tx.heading}
         </h2>
 
-        <div className="mt-4 grid gap-6 sm:grid-cols-2">
+        <div className="mt-4">
           <div id="services" className="scroll-mt-20">
             <p className="text-[12px] font-bold text-slate-500">{tx.services}</p>
             <LinkRow items={SERVICES} />
-          </div>
-          <div id="tools" className="scroll-mt-20">
-            <p className="text-[12px] font-bold text-slate-500">{tx.tools}</p>
-            <LinkRow items={TOOLS} />
           </div>
         </div>
       </div>

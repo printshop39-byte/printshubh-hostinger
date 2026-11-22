@@ -31,7 +31,7 @@ import { CounterServicesRow } from "@/components/shop/counter-services-row";
 export const metadata: Metadata = {
   title: "PRINTSHUBH – Premium Print & Visual Studio | Wallpaper, Canvas, Wall Art",
   description:
-    "Premium wallpaper, canvas, wall art, rexine, satin fabric and vinyl printing — plus Jumbo Xerox, photo and digital services, and 7/12, 8A, village map, DP Map land-document assistance. Send a PDF on WhatsApp.",
+    "Premium wallpaper, canvas art, wall graphics & murals, vinyl, PU leatherette and large-format printing, with custom design. Enquire on WhatsApp.",
   alternates: {
     canonical: "/",
   },
@@ -42,13 +42,13 @@ export const metadata: Metadata = {
     siteName: "PrintShubh",
     title: "PRINTSHUBH – Premium Print & Visual Studio",
     description:
-      "Premium printing (wallpaper, canvas, wall art, vinyl) plus Xerox, photo and digital services — and WhatsApp assistance for 7/12, 8A, village map and DP Map.",
+      "Premium wallpaper, canvas art and wall paintings, wall graphics & murals, vinyl and PU leatherette printing, large-format printing and custom design — enquire on WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
     title: "PRINTSHUBH – Premium Print & Visual Studio",
     description:
-      "Premium printing, Xerox, photo and land-document services — send a PDF on WhatsApp.",
+      "Premium wallpaper, canvas art, wall graphics, vinyl and large-format printing, plus custom design — enquire on WhatsApp.",
   },
 };
 
