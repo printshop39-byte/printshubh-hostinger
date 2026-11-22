@@ -1,7 +1,8 @@
 "use client";
 
 /**
- * VisitShop — address, hours, map and the three ways to reach the counter.
+ * VisitShop — "Visit the Studio": address, hours, map and the three ways to
+ * reach the counter, in one ivory panel.
  *
  * RENDERS NOTHING until SHOP_ADDRESS is filled in (src/lib/shop-profile.ts).
  * Publishing an address the owner has not confirmed would be worse than
@@ -11,15 +12,15 @@
  * business, which is what it has always accurately claimed.
  *
  * NOTHING WAITS FOR AN ANIMATION
- *   The heading, the details card, the hours, the call / WhatsApp / directions
- *   buttons and the map used to sit at opacity 0 in the server HTML until a
- *   scroll-in animation (Reveal) ran. They are plain markup now, visible from
- *   the first paint and under prefers-reduced-motion alike.
+ *   Everything is plain markup, visible from the first paint and under
+ *   prefers-reduced-motion alike.
  *
- * The map is an iframe but it is framed as part of the layout — rounded,
- * bordered, sharing the card's grid — rather than dropped on the page raw.
- * `loading="lazy"` keeps Google Maps entirely out of the initial page cost;
- * it is well below the fold, so it never competes with the hero.
+ * The map is an iframe framed as part of the panel. `loading="lazy"` keeps
+ * Google Maps entirely out of the initial page cost; it is well below the
+ * fold, so it never competes with the hero.
+ *
+ * The panel sits above the footer (z-10); the footer is pulled up beneath its
+ * lower edge by `body:has(#visit) footer[data-site-footer]` in globals.css.
  */
 
 import { Clock, MapPin, MessageCircle, Navigation, Phone } from "lucide-react";
@@ -41,14 +42,14 @@ const t: {
   waMessage: string;
 } = {
   eyebrow: "Find us",
-  heading: "Visit the shop",
+  heading: "Visit the Studio",
   sub: "Big job or small — come to the counter, or ask on WhatsApp first.",
   addressLabel: "Address",
   hoursLabel: "Hours",
   call: "Call",
   whatsapp: "WhatsApp",
   directions: "Directions",
-  mapTitle: "PrintShubh shop location on Google Maps",
+  mapTitle: "PrintShubh studio location on Google Maps",
   waMessage: "Hello PrintShubh, I would like to ask about the shop.",
 };
 
@@ -64,96 +65,84 @@ export function VisitShop() {
     <section
       id="visit"
       aria-labelledby="visit-heading"
-      className="scroll-mt-24 bg-white px-5 py-16 sm:px-8 lg:py-24"
+      className="scroll-mt-24 bg-ivory px-5 pb-8 pt-12 sm:px-8 lg:pt-16"
     >
-      <div className="mx-auto max-w-7xl">
-        <div>
-          <p className="inline-flex items-center gap-2 rounded-full border border-brand-gold-light bg-brand-cream px-3.5 py-1.5 text-[11.5px] font-black uppercase tracking-[0.18em] text-brand-navy">
+      <div className="relative z-10 mx-auto max-w-7xl overflow-hidden rounded-[20px] border border-forest/15 bg-ivory-soft shadow-[0_18px_40px_-20px_rgba(14,59,46,0.35)] lg:grid lg:grid-cols-[0.85fr_1.15fr]">
+        {/* Details column */}
+        <div className="p-6 sm:p-9">
+          <p className="inline-flex items-center gap-2 text-[12px] font-semibold uppercase tracking-[0.18em] text-brand-gold">
             <MapPin className="size-3.5" aria-hidden="true" />
             {tx.eyebrow}
           </p>
-          <h2
-            id="visit-heading"
-            className="mt-5 text-3xl font-black leading-[1.12] tracking-tight text-slate-950 sm:text-4xl lg:text-[2.75rem]"
-          >
+          <h2 id="visit-heading" className="mt-3 text-3xl leading-[1.1] text-forest sm:text-4xl">
             {tx.heading}
           </h2>
-          <p className="mt-3 max-w-xl text-lg leading-8 text-slate-600">{tx.sub}</p>
+          <p className="mt-2 max-w-md text-[16px] leading-7 text-ink-muted">{tx.sub}</p>
+
+          <h3 className="mt-6 text-[12px] font-semibold uppercase tracking-[0.16em] text-ink-muted">
+            {tx.addressLabel}
+          </h3>
+          <address className="mt-1.5 not-italic text-[16px] font-medium leading-7 text-ink">
+            {address.lines.en.map((line) => (
+              <span key={line} className="block">
+                {line}
+              </span>
+            ))}
+          </address>
+
+          {OPENING_HOURS && (
+            <>
+              <h3 className="mt-5 flex items-center gap-2 text-[12px] font-semibold uppercase tracking-[0.16em] text-ink-muted">
+                <Clock className="size-3.5" aria-hidden="true" />
+                {tx.hoursLabel}
+              </h3>
+              <dl className="mt-1.5 space-y-1">
+                {OPENING_HOURS.rows.map((row) => (
+                  <div key={row.days.en} className="flex justify-between gap-4 text-[15px]">
+                    <dt className="font-medium text-ink">{row.days.en}</dt>
+                    <dd className="whitespace-nowrap text-ink-muted">{row.time.en}</dd>
+                  </div>
+                ))}
+              </dl>
+            </>
+          )}
+
+          <div className="mt-6 flex flex-wrap gap-2.5">
+            <a
+              href={address.directionsUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-forest btn-lg"
+            >
+              <Navigation className="size-4" aria-hidden="true" />
+              {tx.directions}
+            </a>
+            <a href={`tel:${SITE_CONTACT.phoneTel}`} className="btn btn-secondary btn-lg">
+              <Phone className="size-4" aria-hidden="true" />
+              {tx.call}
+            </a>
+            <a
+              href={waHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => trackWhatsAppLead()}
+              className="btn btn-secondary btn-lg"
+            >
+              <MessageCircle className="size-4" aria-hidden="true" />
+              {tx.whatsapp}
+            </a>
+          </div>
         </div>
 
-        <div>
-          <div className="mt-10 grid overflow-hidden rounded-3xl border border-slate-200 shadow-sm lg:grid-cols-[0.9fr_1.1fr]">
-            {/* Details column */}
-            <div className="bg-[#f6faff] p-7 sm:p-9">
-              <h3 className="text-xs font-black uppercase tracking-[0.16em] text-slate-500">
-                {tx.addressLabel}
-              </h3>
-              <address className="mt-3 not-italic text-[16px] font-bold leading-7 text-slate-900">
-                {address.lines.en.map((line) => (
-                  <span key={line} className="block">
-                    {line}
-                  </span>
-                ))}
-              </address>
-
-              {OPENING_HOURS && (
-                <>
-                  <h3 className="mt-8 flex items-center gap-2 text-xs font-black uppercase tracking-[0.16em] text-slate-500">
-                    <Clock className="size-3.5" aria-hidden="true" />
-                    {tx.hoursLabel}
-                  </h3>
-                  <dl className="mt-3 space-y-1.5">
-                    {OPENING_HOURS.rows.map((row) => (
-                      <div key={row.days.en} className="flex justify-between gap-4 text-[14.5px]">
-                        <dt className="font-bold text-slate-700">{row.days.en}</dt>
-                        <dd className="font-semibold text-slate-600">{row.time.en}</dd>
-                      </div>
-                    ))}
-                  </dl>
-                </>
-              )}
-
-              <div className="mt-8 flex flex-wrap gap-2.5">
-                <a
-                  href={`tel:${SITE_CONTACT.phoneTel}`}
-                  className="inline-flex h-12 items-center gap-2 rounded-xl bg-brand-navy px-5 text-sm font-black text-white transition hover:bg-brand-navy-dark"
-                >
-                  <Phone className="size-4" aria-hidden="true" />
-                  {tx.call}
-                </a>
-                <a
-                  href={waHref}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  onClick={() => trackWhatsAppLead()}
-                  className="inline-flex h-12 items-center gap-2 rounded-xl bg-green-600 px-5 text-sm font-black text-white transition hover:bg-green-700"
-                >
-                  <MessageCircle className="size-4" aria-hidden="true" />
-                  {tx.whatsapp}
-                </a>
-                <a
-                  href={address.directionsUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex h-12 items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 text-sm font-black text-slate-800 transition hover:border-brand-gold hover:text-brand-navy"
-                >
-                  <Navigation className="size-4" aria-hidden="true" />
-                  {tx.directions}
-                </a>
-              </div>
-            </div>
-
-            {/* Map column — lazy, titled, and never the LCP element. */}
-            <div className="min-h-[320px] bg-slate-100 lg:min-h-[420px]">
-              <iframe
-                src={address.mapsEmbedUrl}
-                title={tx.mapTitle}
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                className="h-full min-h-[320px] w-full border-0 lg:min-h-[420px]"
-              />
-            </div>
-          </div>
+        {/* Map column — lazy, titled, and never the LCP element. */}
+        <div className="min-h-[300px] bg-ivory lg:min-h-[400px]">
+          <iframe
+            src={address.mapsEmbedUrl}
+            title={tx.mapTitle}
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            className="h-full min-h-[300px] w-full border-0 lg:min-h-[400px]"
+          />
         </div>
       </div>
     </section>

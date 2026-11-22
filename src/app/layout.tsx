@@ -51,6 +51,22 @@ const notoDevanagari = localFont({
   display: "swap",
 });
 
+/* Display serif for headings: Geist Serif, SIL OFL (licence copied next to
+ * the file), taken from the "geist" package already in node_modules and
+ * self-hosted from ./fonts/geist-serif/ — no network fetch at build/request.
+ *
+ * It is a SINGLE-WEIGHT font. "GeistSerifVF.woff2" has an fvar table, but its
+ * only axis is ELSH (element shape, 0–100); there is no wght axis and
+ * OS/2 usWeightClass is 400. It is therefore declared as weight 400, and the
+ * heading rules in globals.css request 400 and disable synthetic bolding so
+ * the browser never fakes a heavier weight. No genuinely variable serif with
+ * a usable licence exists locally. */
+const displaySerif = localFont({
+  src: [{ path: "./fonts/geist-serif/GeistSerifVF.woff2", weight: "400", style: "normal" }],
+  variable: "--font-display-serif",
+  display: "swap",
+});
+
 const SITE_URL = "https://www.printshubh.shop";
 
 /* ── Site-wide metadata ────────────────────────────────────────────────
@@ -174,7 +190,7 @@ export default function RootLayout({
   return (
     <html
       lang="en-IN"
-      className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} h-full`}
+      className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} ${displaySerif.variable} h-full`}
     >
       <head>
         {/* Structured data — plain <script> tags, emitted server-side with

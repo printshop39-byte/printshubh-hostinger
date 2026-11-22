@@ -155,10 +155,12 @@ export function SiteHeader() {
 
   return (
     <header
+      data-site-chrome=""
+      data-surface="dark"
       className={`sticky top-0 z-50 border-b transition-all duration-300 ${
         scrolled
-          ? "border-slate-200 bg-white/85 shadow-[0_1px_16px_rgba(15,23,42,0.06)] backdrop-blur-xl"
-          : "border-transparent bg-white"
+          ? "border-brand-gold/60 bg-forest/95 shadow-[0_6px_24px_rgba(10,43,33,0.35)] backdrop-blur-xl"
+          : "border-brand-gold/35 bg-forest"
       }`}
     >
       <div
@@ -184,7 +186,7 @@ export function SiteHeader() {
             height={44}
             alt="PRINTSHUBH"
             decoding="async"
-            className="h-10 w-auto max-w-none shrink-0 rounded-md max-[370px]:h-9 max-[340px]:h-8 max-[310px]:h-7 sm:h-11"
+            className="h-10 w-auto max-w-none shrink-0 max-[370px]:h-9 max-[340px]:h-8 max-[310px]:h-7 sm:h-11"
           />
         </Link>
 
@@ -194,7 +196,7 @@ export function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              className="relative inline-flex min-h-[44px] items-center text-[13.5px] font-bold text-slate-700 transition after:absolute after:bottom-2.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-navy after:transition-all after:duration-300 hover:text-brand-navy hover:after:w-full motion-reduce:after:transition-none"
+              className="relative inline-flex min-h-[44px] items-center text-[14px] font-semibold text-ivory transition after:absolute after:bottom-2.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-gold after:transition-all after:duration-300 hover:text-brand-gold hover:after:w-full motion-reduce:after:transition-none"
             >
               {item.label}
             </Link>
@@ -210,7 +212,7 @@ export function SiteHeader() {
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => trackWhatsAppLead()}
-            className="hidden h-11 items-center gap-2 rounded-lg bg-green-600 px-4 text-[13px] font-black text-white shadow-sm transition hover:bg-green-700 lg:inline-flex"
+            className="btn btn-primary hidden h-11 px-4 text-[13.5px] lg:inline-flex"
           >
             <MessageCircle className="size-4" aria-hidden="true" />
             {waCta}
@@ -223,7 +225,7 @@ export function SiteHeader() {
             aria-label={menuLabel}
             aria-expanded={open}
             aria-controls="mobile-nav"
-            className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-800 transition hover:border-brand-gold xl:hidden"
+            className="inline-flex size-11 items-center justify-center rounded-lg border border-ivory/35 text-ivory transition hover:border-brand-gold hover:text-brand-gold xl:hidden"
           >
             {open ? <X className="size-5" /> : <Menu className="size-5" />}
           </button>
@@ -241,7 +243,7 @@ export function SiteHeader() {
           role="dialog"
           aria-modal="true"
           aria-label={menuLabel}
-          className={`fixed inset-x-0 bottom-0 z-40 overflow-y-auto border-t border-slate-200 bg-white px-5 pb-28 pt-5 sm:px-8 xl:hidden ${
+          className={`fixed inset-x-0 bottom-0 z-40 overflow-y-auto border-t border-brand-gold/40 bg-forest px-5 pb-28 pt-5 sm:px-8 xl:hidden ${
             // Starts flush under the bar, whichever height the bar is at.
             scrolled ? "top-14" : "top-[68px]"
           }`}
@@ -253,7 +255,7 @@ export function SiteHeader() {
                 <Link
                   href={item.href}
                   onClick={() => setOpen(false)}
-                  className="flex min-h-[56px] items-center border-b border-slate-100 text-[17px] font-black text-slate-900 transition active:text-brand-navy"
+                  className="flex min-h-[56px] items-center border-b border-ivory/15 font-display text-[19px] font-normal text-ivory transition active:text-brand-gold"
                 >
                   {item.label}
                 </Link>
@@ -261,7 +263,7 @@ export function SiteHeader() {
             ))}
           </ul>
 
-          <p className="mt-7 text-[11px] font-black uppercase tracking-[0.18em] text-slate-400">
+          <p className="mt-7 text-[12px] font-semibold uppercase tracking-[0.18em] text-brand-gold">
             {moreLabel}
           </p>
           <ul className="mt-2 flex flex-wrap gap-2">
@@ -270,7 +272,7 @@ export function SiteHeader() {
                 <Link
                   href={item.href}
                   onClick={() => setOpen(false)}
-                  className="inline-flex min-h-[44px] items-center rounded-full border border-slate-200 bg-slate-50 px-4 text-[13.5px] font-bold text-slate-700 transition active:border-brand-gold"
+                  className="inline-flex min-h-[44px] items-center rounded-full border border-ivory/30 px-4 text-[14px] font-medium text-ivory transition active:border-brand-gold"
                 >
                   {item.label}
                 </Link>
@@ -286,7 +288,7 @@ export function SiteHeader() {
               trackWhatsAppLead();
               setOpen(false);
             }}
-            className="mt-8 inline-flex h-[52px] w-full items-center justify-center gap-2 rounded-xl bg-green-600 text-base font-black text-white shadow-sm transition hover:bg-green-700"
+            className="btn btn-primary btn-lg mt-8 w-full"
           >
             <MessageCircle className="size-5" aria-hidden="true" />
             {waCta}

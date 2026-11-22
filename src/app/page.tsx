@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
@@ -87,7 +86,6 @@ export default function Home() {
     <>
       <SiteHeader />
       {/* Scrolling updates / announcement bar — below header, above hero */}
-      <AnnouncementMarquee />
       <main className="min-h-screen overflow-x-hidden bg-brand-cream text-slate-900">
         <ShopHero />
 

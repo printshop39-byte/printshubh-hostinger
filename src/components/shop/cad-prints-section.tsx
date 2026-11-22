@@ -76,7 +76,7 @@ export function CadPrintsSection() {
     <section
       id="cad"
       aria-labelledby="cad-heading"
-      className="relative isolate scroll-mt-20 overflow-hidden bg-brand-navy-dark text-white"
+      className="relative isolate scroll-mt-20 overflow-hidden bg-technical-navy-dark text-white"
     >
       <div aria-hidden="true" className={`absolute inset-0 -z-10 ${GRID}`} />
 
@@ -114,9 +114,9 @@ export function CadPrintsSection() {
                 service_key: "cad",
               });
             }}
-            className="mt-8 inline-flex min-h-[52px] w-full items-center justify-center gap-2.5 rounded-xl bg-green-500 px-6 text-base font-black text-slate-950 transition hover:bg-green-400 sm:w-auto motion-reduce:transition-none"
+            className="mt-8 inline-flex min-h-[52px] w-full items-center justify-center gap-2.5 rounded-xl bg-ivory px-6 text-base font-black text-forest transition hover:bg-white sm:w-auto motion-reduce:transition-none"
           >
-            <MessageCircle className="size-5" aria-hidden="true" />
+            <MessageCircle className="size-5 text-[#128c4a]" aria-hidden="true" />
             {tx.cta}
           </a>
           <p className="mt-3 text-sm font-semibold text-slate-400">{tx.note}</p>
@@ -128,7 +128,7 @@ export function CadPrintsSection() {
           <span aria-hidden="true" className={`${MARK} -bottom-2 -left-2 border-b border-l`} />
           <span aria-hidden="true" className={`${MARK} -bottom-2 -right-2 border-b border-r`} />
 
-          <div className="border border-white/15 bg-brand-navy-dark/60 px-5 py-6 sm:px-8 sm:py-8">
+          <div className="border border-white/15 bg-technical-navy-dark/60 px-5 py-6 sm:px-8 sm:py-8">
             <p className="font-mono text-[11px] font-bold uppercase tracking-[0.2em] text-slate-400">
               {tx.listLabel}
             </p>

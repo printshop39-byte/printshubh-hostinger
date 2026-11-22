@@ -131,7 +131,7 @@ export function ShopHero() {
               onClick={() => track("enquiry", true)}
               className={SECONDARY}
             >
-              <MessageCircle className="size-5 text-green-400" aria-hidden="true" />
+              <MessageCircle className="size-5 text-[#5fc48c]" aria-hidden="true" />
               {tx.secondary}
             </a>
           </div>

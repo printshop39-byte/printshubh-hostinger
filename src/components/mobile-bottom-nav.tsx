@@ -46,7 +46,7 @@ function TabLabel({ icon: Icon, text }: { icon: LucideIcon; text: string }) {
   return (
     <>
       <Icon size={20} strokeWidth={2} aria-hidden="true" />
-      <span className="w-full truncate text-center text-[10px] font-bold">{text}</span>
+      <span className="w-full truncate text-center text-[11px] font-semibold">{text}</span>
     </>
   );
 }
@@ -65,21 +65,21 @@ export function MobileBottomNav() {
   return (
     <nav
       aria-label="Primary navigation"
-      className="fixed inset-x-0 bottom-0 z-40 flex border-t border-slate-200 bg-white pb-[env(safe-area-inset-bottom)] shadow-[0_-2px_10px_rgba(0,0,0,0.06)] md:hidden"
+      className="fixed inset-x-0 bottom-0 z-40 flex border-t border-brand-gold/40 bg-forest pb-[env(safe-area-inset-bottom)] shadow-[0_-4px_16px_rgba(10,43,33,0.3)] md:hidden"
     >
       <Link
         href="/"
         aria-current={atHome ? "page" : undefined}
-        className={`${tabClass} ${atHome ? "text-brand-navy" : "text-slate-600"}`}
+        className={`${tabClass} ${atHome ? "text-brand-gold" : "text-ivory/85"}`}
       >
         <TabLabel icon={Home} text={label.home} />
       </Link>
 
-      <Link href="/#collections" className={`${tabClass} text-slate-600`}>
+      <Link href="/#collections" className={`${tabClass} text-ivory/85`}>
         <TabLabel icon={LayoutGrid} text={label.collections} />
       </Link>
 
-      <a href={`tel:${SITE_CONTACT.phoneTel}`} className={`${tabClass} text-slate-600`}>
+      <a href={`tel:${SITE_CONTACT.phoneTel}`} className={`${tabClass} text-ivory/85`}>
         <TabLabel icon={Phone} text={label.call} />
       </a>
 
@@ -88,7 +88,7 @@ export function MobileBottomNav() {
         target="_blank"
         rel="noopener noreferrer"
         onClick={() => trackWhatsAppLead()}
-        className={`${tabClass} text-green-600`}
+        className={`${tabClass} text-brand-gold`}
       >
         <TabLabel icon={MessageCircle} text="WhatsApp" />
       </a>

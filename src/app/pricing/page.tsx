@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
-import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 import { PricingPageBody } from "./pricing-page-body";
 
@@ -28,7 +27,6 @@ export default function PricingPage() {
   return (
     <>
       <SiteHeader />
-      <AnnouncementMarquee />
       <main className="min-h-screen bg-brand-cream px-5 py-12 text-slate-900 sm:px-8 sm:py-16">
         <div className="mx-auto max-w-4xl">
           <PricingPageBody />

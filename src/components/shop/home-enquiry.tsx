@@ -99,9 +99,9 @@ export function HomeEnquiry() {
                   service_key: "enquiry",
                 });
               }}
-              className="inline-flex min-h-[52px] w-full items-center justify-center gap-2.5 rounded-xl bg-green-500 px-6 text-base font-black text-slate-950 transition hover:bg-green-400 sm:w-auto motion-reduce:transition-none"
+              className="inline-flex min-h-[52px] w-full items-center justify-center gap-2.5 rounded-xl bg-ivory px-6 text-base font-black text-forest transition hover:bg-white sm:w-auto motion-reduce:transition-none"
             >
-              <MessageCircle className="size-5" aria-hidden="true" />
+              <MessageCircle className="size-5 text-[#128c4a]" aria-hidden="true" />
               {tx.whatsapp}
             </a>
             <a

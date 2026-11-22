@@ -71,7 +71,7 @@ export function GoogleReviews() {
   return (
     <section
       aria-labelledby="reviews-heading"
-      className="bg-[#f6faff] px-5 py-16 sm:px-8 lg:py-24"
+      className="bg-ivory-soft px-5 py-16 sm:px-8 lg:py-24"
     >
       <div className="mx-auto max-w-7xl">
         <div>

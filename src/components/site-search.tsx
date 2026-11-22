@@ -107,7 +107,7 @@ export function SiteSearch() {
         type="button"
         onClick={() => setOpen(true)}
         aria-label={searchLabel}
-        className="inline-flex size-11 items-center justify-center rounded-lg border border-slate-300 text-slate-700 transition hover:border-brand-gold hover:text-brand-navy"
+        className="inline-flex size-11 items-center justify-center rounded-lg border border-ivory/35 text-ivory transition hover:border-brand-gold hover:text-brand-gold"
       >
         <Search className="size-[18px]" aria-hidden="true" />
       </button>

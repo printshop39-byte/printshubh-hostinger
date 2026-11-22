@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { AnnouncementMarquee } from "@/components/announcement-marquee";
 import { LandingAnimations } from "@/components/landing-animations";
 import { MapReferenceSection } from "@/components/map-reference-client";
 import { SiteHeader } from "@/components/site-header";
@@ -36,7 +35,6 @@ export default function NakashaShodhPage() {
   return (
     <>
       <SiteHeader />
-      <AnnouncementMarquee />
       <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] text-slate-900">
         <LandingAnimations />
         <MapReferenceSection />

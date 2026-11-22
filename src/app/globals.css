@@ -1,31 +1,82 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f7fbff;
-  --foreground: #0f172a;
+  --background: #f4efe6;
+  --foreground: #14201b;
 
-  /* Stage-5 Premium Studio brand palette (owner-confirmed: Cream, Gold,
-   * Deep Navy). Scoped to the Premium Studio-facing UI only — header,
-   * footer, homepage, collection pages, legal-page shell, pricing. Admin
-   * tools and the land-document map/calculator UI keep their existing
-   * blue, unchanged, per the Stage-4 "untouched" decision. */
-  --color-brand-cream: #f6f1ea;
-  --color-brand-gold: #b89052;
-  --color-brand-gold-light: #f3e8d6;
-  --color-brand-navy: #183153;
-  --color-brand-navy-dark: #0f2140;
+  /* PRINTSHUBH design system — Premium Print & Visual Studio.
+   * Forest #0E3B2E · Gold #C6A15B · Ivory #F4EFE6. The old "brand-navy"
+   * tokens are kept by name (113 uses across the site) but now point at the
+   * forest green; the Navy palette is reserved for the CAD / technical
+   * section via --color-technical-navy*. Gold used as TEXT on a light
+   * surface must be --color-gold-ink (5.2:1 on ivory); #C6A15B itself is
+   * for lines, fills and dark surfaces only (5.1:1 on forest). */
+  --color-forest: #0e3b2e;
+  --color-forest-deep: #0a2b21;
+  --color-gold: #c6a15b;
+  --color-gold-ink: #7d5f24;
+  --color-ivory: #f4efe6;
+  --color-ivory-soft: #fbf8f2;
+  --color-ink: #14201b;
+  --color-ink-muted: #4d5a53;
+  --color-technical-navy: #183153;
+  --color-technical-navy-dark: #0f2140;
+
+  --color-brand-cream: var(--color-ivory);
+  --color-brand-gold: var(--color-gold);
+  --color-brand-gold-light: #efe3cb;
+  --color-brand-navy: var(--color-forest);
+  --color-brand-navy-dark: var(--color-forest-deep);
+
+  /* Radii + borders */
+  --radius-card: 16px;
+  --radius-control: 10px;
+  --border-hairline: 1px solid rgba(14, 59, 46, 0.14);
+
+  /* Containers */
+  --container-wide: 80rem;
+  --container-content: 64rem;
+  --container-reading: 42rem;
+
+  /* Section rhythm (8px system) */
+  --section-y: 4rem;
+  --section-y-lg: 6rem;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-forest: var(--color-forest);
+  --color-forest-deep: var(--color-forest-deep);
+  --color-gold: var(--color-gold);
+  --color-gold-ink: var(--color-gold-ink);
+  --color-ivory: var(--color-ivory);
+  --color-ivory-soft: var(--color-ivory-soft);
+  --color-ink: var(--color-ink);
+  --color-ink-muted: var(--color-ink-muted);
+  --color-technical-navy: var(--color-technical-navy);
+  --color-technical-navy-dark: var(--color-technical-navy-dark);
   --color-brand-cream: var(--color-brand-cream);
   --color-brand-gold: var(--color-brand-gold);
   --color-brand-gold-light: var(--color-brand-gold-light);
   --color-brand-navy: var(--color-brand-navy);
   --color-brand-navy-dark: var(--color-brand-navy-dark);
-  --font-sans: "Geist", "Geist Fallback", "Noto Sans Devanagari", "Mangal", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-geist-sans), "Geist", "Geist Fallback", "Noto Sans Devanagari", "Mangal", ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-display-serif), "Geist Serif", var(--font-noto-devanagari), "Mangal", Georgia, "Times New Roman", serif;
   --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
+
+  /* Fluid type scale (mobile 360px → desktop 1280px). Overrides Tailwind's
+   * defaults so every existing text-* utility joins the scale. */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: clamp(1.0625rem, 1.02rem + 0.2vw, 1.1875rem);
+  --text-xl: clamp(1.1875rem, 1.12rem + 0.32vw, 1.375rem);
+  --text-2xl: clamp(1.375rem, 1.24rem + 0.6vw, 1.75rem);
+  --text-3xl: clamp(1.625rem, 1.38rem + 1.1vw, 2.25rem);
+  --text-4xl: clamp(1.875rem, 1.5rem + 1.7vw, 2.875rem);
+  --text-5xl: clamp(2.125rem, 1.6rem + 2.4vw, 3.5rem);
+  --text-6xl: clamp(2.375rem, 1.7rem + 3vw, 4rem);
 }
 
 html {
@@ -49,8 +100,199 @@ body {
 }
 
 ::selection {
-  background: rgba(37, 99, 235, 0.18);
-  color: #0f172a;
+  background: rgba(198, 161, 91, 0.35);
+  color: #0e3b2e;
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   PRINTSHUBH design system — public site scope
+   Scoped through the header's data-site-chrome marker, so admin / GIS pages
+   (which render no SiteHeader) keep their own look. Unlayered on purpose:
+   it must win over Tailwind's layered utilities such as font-black.
+   ══════════════════════════════════════════════════════════════════════ */
+body:has([data-site-chrome]) {
+  font-family: var(--font-geist-sans), var(--font-noto-devanagari), "Mangal", ui-sans-serif, system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+body:has([data-site-chrome]) :is(h1, h2):not(.uppercase) {
+  font-family: var(--font-display);
+  /* Geist Serif is single-weight (400): ask for exactly that and never let
+     the browser synthesise a bold. */
+  font-weight: 400;
+  font-synthesis-weight: none;
+  letter-spacing: -0.012em;
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+.font-display {
+  font-synthesis-weight: none;
+}
+
+body:has([data-site-chrome]) :is(h3, h4):not(.uppercase) {
+  font-weight: 650;
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+}
+
+/* Legacy land-service pages keep their own markup but sit under the new
+   chrome: their light-blue page wash becomes the neutral ivory. */
+body:has([data-site-chrome]) :is([class~="bg-[#f7fbff]"], [class~="bg-[#f6faff]"], [class~="bg-[#f0f7ff]"]) {
+  background-color: var(--color-ivory);
+}
+
+/* Pages without the public chrome (admin, auth) do not get the public
+   palette: gold TEXT there must stay readable on white (the brightened gold
+   token is only 2.4:1), so it uses the darker gold-ink. Fills and borders
+   are unchanged. */
+body:not(:has([data-site-chrome])) .text-brand-gold {
+  color: var(--color-gold-ink);
+}
+
+/* Nothing below a button/label needs 900: cap the heaviest weight. */
+body:has([data-site-chrome]) .font-black:not(h1, h2, h3, h4) {
+  font-weight: 700;
+}
+
+/* Gold as TEXT on light surfaces: darker ink for 4.5:1. Fills, borders and
+   dark-surface text keep the bright gold. */
+body:has([data-site-chrome]) .text-brand-gold {
+  color: var(--color-gold-ink);
+}
+
+body:has([data-site-chrome]) :is(.bg-brand-navy, .bg-brand-navy-dark, .bg-technical-navy, .bg-technical-navy-dark, .bg-forest, .bg-forest-deep, [data-surface="dark"]) .text-brand-gold,
+body:has([data-site-chrome]) :is(.bg-brand-navy, .bg-brand-navy-dark, .bg-technical-navy, .bg-technical-navy-dark, .bg-forest, .bg-forest-deep, [data-surface="dark"]).text-brand-gold {
+  color: var(--color-gold);
+}
+
+/* Small grey labels: slate-400/500 fail on ivory; lift to ~5:1. */
+body:has([data-site-chrome]) :is(.text-slate-400, .text-slate-500) {
+  color: #566174;
+}
+
+body:has([data-site-chrome]) :is(.bg-brand-navy, .bg-brand-navy-dark, .bg-technical-navy, .bg-technical-navy-dark, .bg-forest, .bg-forest-deep, [data-surface="dark"]) :is(.text-slate-400, .text-slate-500) {
+  color: #c6cbc1;
+}
+
+/* WhatsApp green with white text: green-600 is only 3.3:1; this is 5.4:1. */
+body:has([data-site-chrome]) .bg-green-600 {
+  background-color: #0f7a3a;
+}
+body:has([data-site-chrome]) .bg-green-600:hover,
+body:has([data-site-chrome]) .hover\:bg-green-700:hover {
+  background-color: #0d6b35;
+}
+
+/* Components layer: Tailwind utilities (hidden, w-full, mt-*) must still
+   be able to override these, so they live in @layer components. */
+@layer components {
+  /* Containers: wide / content / reading */
+  .container-wide {
+    margin-inline: auto;
+    width: 100%;
+    max-width: var(--container-wide);
+    padding-inline: 1rem;
+  }
+  .container-content {
+    margin-inline: auto;
+    width: 100%;
+    max-width: var(--container-content);
+    padding-inline: 1rem;
+  }
+  .container-reading {
+    margin-inline: auto;
+    width: 100%;
+    max-width: var(--container-reading);
+    padding-inline: 1rem;
+  }
+  @media (min-width: 640px) {
+    .container-wide,
+    .container-content,
+    .container-reading {
+      padding-inline: 2rem;
+    }
+  }
+
+  /* Section spacing (8px grid) */
+  .section-y {
+    padding-block: var(--section-y);
+  }
+  @media (min-width: 1024px) {
+    .section-y {
+      padding-block: var(--section-y-lg);
+    }
+  }
+
+  /* Card surface */
+  .card-surface {
+    border: var(--border-hairline);
+    border-radius: var(--radius-card);
+    background: var(--color-ivory-soft);
+  }
+
+  /* Buttons: one family, three variants, two sizes. 44px minimum height. */
+  .btn {
+    display: inline-flex;
+    min-height: 44px;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: var(--radius-control);
+    border: 1px solid transparent;
+    padding: 0 1.25rem;
+    font-size: 0.875rem;
+    font-weight: 650;
+    line-height: 1;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+  }
+  .btn-lg {
+    min-height: 52px;
+    padding: 0 1.75rem;
+    font-size: 1rem;
+  }
+  .btn-primary {
+    background: var(--color-gold);
+    color: var(--color-forest-deep);
+  }
+  .btn-primary:hover {
+    background: #d3b273;
+  }
+  .btn-forest {
+    background: var(--color-forest);
+    color: var(--color-ivory);
+  }
+  .btn-forest:hover {
+    background: var(--color-forest-deep);
+  }
+  .btn-secondary {
+    border-color: rgba(14, 59, 46, 0.35);
+    color: var(--color-forest);
+    background: transparent;
+  }
+  .btn-secondary:hover {
+    background: rgba(14, 59, 46, 0.06);
+  }
+  .btn-on-dark {
+    border-color: rgba(244, 239, 230, 0.4);
+    color: var(--color-ivory);
+    background: transparent;
+  }
+  .btn-on-dark:hover {
+    background: rgba(244, 239, 230, 0.1);
+  }
+  .btn:focus-visible {
+    outline: 2px solid var(--color-gold);
+    outline-offset: 2px;
+  }
+}
+
+/* Footer tucks under the Visit panel (see visit-shop.tsx). The panel sits
+   inside <main overflow-x:hidden>, so the overlap is done on the footer. */
+body:has(#visit) footer[data-site-footer] {
+  margin-top: -3.5rem;
+  padding-top: 5rem;
 }
 
 .public-grid {
@@ -687,28 +929,28 @@ body {
    bytes and scales to any viewport without a second asset. */
 .ps-hero-wash {
   background:
-    radial-gradient(60% 55% at 82% 12%, rgba(37, 99, 235, 0.1), transparent 70%),
-    radial-gradient(50% 50% at 8% 88%, rgba(14, 165, 233, 0.08), transparent 70%),
-    linear-gradient(180deg, #ffffff 0%, #f6faff 100%);
+    radial-gradient(60% 55% at 82% 12%, rgba(198, 161, 91, 0.12), transparent 70%),
+    radial-gradient(50% 50% at 8% 88%, rgba(14, 59, 46, 0.06), transparent 70%),
+    linear-gradient(180deg, #fbf8f2 0%, #f4efe6 100%);
 }
 
 /* Faint paper grid — the "printing desk" texture under the hero visual. */
 .ps-paper-grid {
   background-image:
-    linear-gradient(rgba(37, 99, 235, 0.06) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(37, 99, 235, 0.06) 1px, transparent 1px);
+    linear-gradient(rgba(14, 59, 46, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(14, 59, 46, 0.06) 1px, transparent 1px);
   background-size: 26px 26px;
 }
 
 /* ── Glass card (hero document tiles, stat tiles) ── */
 .ps-glass {
-  background: rgba(255, 255, 255, 0.82);
+  background: rgba(251, 248, 242, 0.88);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(226, 232, 240, 0.9);
+  border: 1px solid rgba(14, 59, 46, 0.14);
   box-shadow:
-    0 1px 2px rgba(15, 23, 42, 0.04),
-    0 12px 32px -12px rgba(15, 23, 42, 0.18);
+    0 1px 2px rgba(14, 59, 46, 0.05),
+    0 12px 32px -12px rgba(14, 59, 46, 0.2);
 }
 
 @media (prefers-reduced-motion: reduce) {
