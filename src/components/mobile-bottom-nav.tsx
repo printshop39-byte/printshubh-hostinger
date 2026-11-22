@@ -57,6 +57,11 @@ export function MobileBottomNav() {
   const waHref = buildWhatsAppUrl({ message: WA_MESSAGE, campaign: "bottom-nav" });
   const atHome = pathname === "/";
 
+  // Admin screens are tools for the owner, not customer pages: the public
+  // Home / Collections / Call / WhatsApp bar must not sit on top of their
+  // buttons. (Only affects /admin routes; every public page is unchanged.)
+  if (pathname === "/admin" || pathname?.startsWith("/admin/")) return null;
+
   return (
     <nav
       aria-label="Primary navigation"

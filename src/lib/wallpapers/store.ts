@@ -140,6 +140,24 @@ export async function adminGetDesign(id: string): Promise<{ design: WallpaperDes
   return row ? { design: rowToDesign(row), previewBase: row.preview_base } : null;
 }
 
+/** One category (any state), or null when it does not exist / cannot be read. Admin only. */
+export async function adminGetCategory(slug: string): Promise<WallpaperCategory | null> {
+  const res = await rest<CategoryRow[]>(`${CATEGORIES}?select=*&slug=eq.${encodeURIComponent(slug)}&limit=1`);
+  const row = res.ok && Array.isArray(res.data) ? res.data[0] : undefined;
+  return row ? rowToCategory(row) : null;
+}
+
+/** How many designs sit in a category: live (published) and drafts. Admin only. */
+export async function countCategoryDesigns(slug: string): Promise<{ live: number; draft: number } | null> {
+  const rows = await restAll<{ status: string }>(
+    `${DESIGNS}?select=status&category_slug=eq.${encodeURIComponent(slug)}`,
+    false,
+  );
+  if (!rows) return null;
+  const live = rows.filter((r) => r.status === "published").length;
+  return { live, draft: rows.length - live };
+}
+
 /** Next free Design ID: WP-<max + 1>, at least three digits. */
 export async function nextDesignId(): Promise<string> {
   const res = await restAll<{ id: string }>(`${DESIGNS}?select=id`, false);

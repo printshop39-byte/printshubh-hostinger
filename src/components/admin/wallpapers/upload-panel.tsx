@@ -110,7 +110,7 @@ export function UploadPanel({ categories }: { categories: { slug: string; name: 
           multiple
           disabled={busy}
           onChange={(e) => setFiles(Array.from(e.target.files ?? []))}
-          className="block w-full text-sm file:mr-3 file:rounded-lg file:border-0 file:bg-blue-600 file:px-4 file:py-2.5 file:text-sm file:font-bold file:text-white"
+          className="block min-h-[44px] w-full text-sm file:mr-3 file:min-h-[44px] file:rounded-lg file:border-0 file:bg-blue-600 file:px-4 file:py-3 file:text-sm file:font-bold file:text-white"
           aria-label="Choose design images"
         />
       </div>
@@ -138,7 +138,7 @@ export function UploadPanel({ categories }: { categories: { slug: string; name: 
                 {r.state === "done" && r.id && (
                   <>
                     {" · "}
-                    <Link href={`/admin/wallpapers/${r.id}`} className="underline">
+                    <Link href={`/admin/wallpapers/${r.id}`} className="inline-flex min-h-[44px] items-center underline">
                       Review &amp; publish
                     </Link>
                   </>
