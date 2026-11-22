@@ -12,7 +12,6 @@ import { HowItWorks } from "@/components/shop/how-it-works";
 import { HomeEnquiry } from "@/components/shop/home-enquiry";
 import { GoogleReviews } from "@/components/shop/google-reviews";
 import { VisitShop } from "@/components/shop/visit-shop";
-import { CounterServicesRow } from "@/components/shop/counter-services-row";
 
 /* ── Homepage metadata ──────────────────────────────────────────────────
  *
@@ -55,24 +54,23 @@ export const metadata: Metadata = {
 /* ── Scroll order ───────────────────────────────────────────────────────
  *
  *   hero → collections → CAD prints → studio → how it works → enquiry →
- *   (shop photos, once they exist) → Google reviews → visit the shop →
- *   "also at the counter"
+ *   (shop photos, once they exist) → Google reviews → visit the shop → footer
  *
- * S1 (premium homepage) is built in checkpoints: C1 the composition, hero and
- * counter-services row; C2 the editorial collections index; C3 the CAD prints
- * section; C4 the studio, process and enquiry sections.
+ * S1 (premium homepage) is built in checkpoints: C1 the composition and hero;
+ * C2 the editorial collections index; C3 the CAD prints section; C4 the
+ * studio, process and enquiry sections.
  *
  * What the homepage no longer shows, and where it still lives. This is a
  * homepage-visibility change ONLY: every page, route, tool, API, data table
  * and admin screen below is untouched.
- *   - hero service cards (printing / photo / digital) .. header, footer and
- *     the "also at the counter" row link to /printing-xerox, /photo-services
- *     and /digital-services
+ *   - hero service cards (printing / photo / digital) .. the header menu and
+ *     the footer still link to /printing-xerox, /photo-services and
+ *     /digital-services
  *   - ServiceStrip, ServicePillars ..................... same three pages
- *   - MobileServiceShortcuts, ToolsSection ............. /home-loan-emi,
- *     /stamp-duty, /ready-reckoner, /land-unit-converter (the "also at the
- *     counter" row keeps the #services and #tools anchors that the header,
- *     the footer and the service pages link to)
+ *   - MobileServiceShortcuts, ToolsSection, and the "also at the counter"
+ *     row (services + free tools links) ................ no longer promoted
+ *     anywhere on the homepage; /home-loan-emi, /stamp-duty, /ready-reckoner
+ *     and /land-unit-converter still exist but are not linked
  *   - ExperienceBand, SampleProcessSection ............. land-document pages
  *     (/satbara-utara-maharashtra and the rest, still live and in the sitemap)
  *   - WhatsAppPrint, PrintingTechnology ................ replaced by
@@ -118,10 +116,6 @@ export default function Home() {
 
         {/* Address, hours and map (hidden until the address is confirmed) */}
         <VisitShop />
-
-        {/* Quiet links to the counter services and the free tools; keeps the
-            #services and #tools anchors alive. */}
-        <CounterServicesRow />
       </main>
       {/* Hidden while a section with its own WhatsApp call to action or
           controls it would cover is on screen. */}
