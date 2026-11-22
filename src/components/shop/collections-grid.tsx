@@ -56,7 +56,7 @@ export function CollectionsGrid() {
       aria-labelledby="collections-grid-heading"
       className="scroll-mt-20 bg-brand-cream px-5 py-14 sm:px-8 lg:py-24"
     >
-      <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[.8fr_1.2fr] lg:gap-20">
+      <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[.7fr_1.3fr] lg:gap-14">
         <div className="lg:sticky lg:top-28 lg:self-start">
           <p className="flex items-center gap-3 text-[12px] font-black uppercase tracking-[0.2em] text-brand-navy">
             <span aria-hidden="true" className="h-px w-8 bg-brand-gold" />

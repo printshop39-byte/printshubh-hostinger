@@ -143,7 +143,7 @@ export function ShopHero() {
               key={fact.kicker}
               className={`pr-3 lg:pr-0 ${i > 0 ? "lg:border-t lg:border-white/15" : ""} lg:py-7`}
             >
-              <dt className="text-[11px] font-black uppercase tracking-[0.16em] text-brand-gold-light">
+              <dt className="text-[10px] font-black uppercase tracking-[0.06em] text-brand-gold-light min-[360px]:text-[11px] min-[360px]:tracking-[0.16em]">
                 {fact.kicker}
               </dt>
               <dd className="mt-1">
