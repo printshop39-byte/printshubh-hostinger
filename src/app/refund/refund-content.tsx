@@ -15,7 +15,7 @@ export function RefundContent() {
       title="Refund Policy"
       breadcrumb="Refund"
       intro="When refunds are issued, when they are not, and how to request help if something goes wrong with a payment."
-      updatedAt="May 2026"
+      updatedAt="November 2026"
       showServiceDisclaimer={false}
       content={<RefundBody />}
     />
@@ -28,19 +28,19 @@ function RefundBody() {
   const waHref = buildWhatsAppUrl({ message: waMsg, campaign: "refund" });
 
   const ContactCta = (
-    <div className="my-6 grid gap-3 rounded-xl border border-green-200 bg-green-50 p-4 sm:grid-cols-2">
+    <div className="my-6 grid gap-3 rounded-xl border border-forest/15 bg-ivory p-4 sm:grid-cols-2">
       <a
         href={waHref}
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-green-600 text-sm font-black text-white shadow-sm transition hover:bg-green-700"
+        className="btn btn-forest"
       >
-        <MessageCircle className="size-4" />
+        <MessageCircle className="size-4 text-[#5fc48c]" aria-hidden="true" />
         Chat on WhatsApp
       </a>
       <a
         href={`tel:${SITE_CONTACT.phoneTel}`}
-        className="inline-flex h-12 items-center justify-center gap-2 rounded-md border-2 border-green-600 bg-white text-sm font-black text-green-800 transition hover:bg-green-100"
+        className="btn btn-secondary"
       >
         <Phone className="size-4" />
         {SITE_CONTACT.phone}

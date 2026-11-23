@@ -12,7 +12,7 @@ export function PrivacyContent() {
       title="Privacy Policy"
       breadcrumb="Privacy"
       intro="PrintShubh respects your privacy. This policy explains what information we collect, how it is used, and how it is protected."
-      updatedAt="May 2026"
+      updatedAt="November 2026"
       showServiceDisclaimer={false}
       content={<PrivacyBody />}
     />
@@ -96,7 +96,7 @@ function PrivacyBody() {
         <p>
           To exercise any of these, please email{" "}
           <a
-            className="font-bold text-blue-700 hover:underline"
+            className="font-bold text-forest underline decoration-gold decoration-2 underline-offset-4 hover:decoration-forest"
             href="mailto:support@printshubh.shop"
           >
             support@printshubh.shop

@@ -12,7 +12,7 @@ export function TermsContent() {
       title="Terms & Conditions"
       breadcrumb="Terms"
       intro="By using PrintShubh.shop you agree to the terms below. Please read them carefully before using our services."
-      updatedAt="May 2026"
+      updatedAt="November 2026"
       showServiceDisclaimer={false}
       content={<TermsBody />}
     />

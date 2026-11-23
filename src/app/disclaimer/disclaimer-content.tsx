@@ -12,7 +12,7 @@ export function DisclaimerContent() {
       title="Disclaimer"
       breadcrumb="Disclaimer"
       intro="Please read this disclaimer carefully. PrintShubh is a private business — it is not a government body, official website or government office."
-      updatedAt="May 2026"
+      updatedAt="November 2026"
       showServiceDisclaimer={false}
       content={<DisclaimerBody />}
     />
