@@ -5,7 +5,7 @@ import { faqs } from "./faq-data";
 export const metadata: Metadata = {
   title: "वारंवार विचारले जाणारे प्रश्न | FAQ",
   description:
-    "7/12, 8A, फेरफार, गाव नकाशा, DP / TP, WhatsApp PDF, पेमेंट आणि परतावा यांविषयी वारंवार विचारल्या जाणाऱ्या प्रश्नांची उत्तरे.",
+    "Print Collections ची किंमत, सानुकूल माप, डिझाइन, ऑर्डर, डिलिव्हरी आणि पेमेंट यांविषयी वारंवार विचारल्या जाणाऱ्या प्रश्नांची उत्तरे.",
   alternates: { canonical: "/faq" },
 };
 

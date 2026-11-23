@@ -13,8 +13,9 @@ export function FaqContent() {
     <LegalPageShell
       title="Frequently Asked Questions"
       breadcrumb="FAQ"
-      intro="Common questions about 7/12, 8A, mutation, village maps, DP/TP, payment and refund — all in one place."
+      intro="Common questions about Print Collections pricing, custom sizes, designs, ordering, delivery and payment — all in one place."
       updatedAt="May 2026"
+      showServiceDisclaimer={false}
       content={<FaqList items={items} openIdx={openIdx} setOpenIdx={setOpenIdx} />}
     />
   );

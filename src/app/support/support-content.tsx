@@ -1,16 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import {
-  FileText,
-  Frame,
-  Landmark,
-  MapPinned,
-  MessageCircle,
-  Phone,
-  Receipt,
-  Scroll,
-} from "lucide-react";
+import { Frame, MessageCircle, Phone, Receipt } from "lucide-react";
 import {
   LegalPageShell,
   LegalSection,
@@ -27,30 +18,6 @@ interface Topic {
 
 const topics: Topic[] = [
   {
-    icon: <FileText className="size-5" />,
-    title: "7/12 Extract",
-    desc: "Share district, taluka, village and Gut / Survey number — we'll deliver the PDF on WhatsApp.",
-    waMsg: "Hello, I need a 7/12 extract.",
-  },
-  {
-    icon: <MapPinned className="size-5" />,
-    title: "Village Map",
-    desc: "Village map, gut map, survey map — for reference and planning.",
-    waMsg: "Hello, I need a village / gut map.",
-  },
-  {
-    icon: <Landmark className="size-5" />,
-    title: "DP / TP Map",
-    desc: "Zoning, reservations, road widths — DP / TP information for your plot.",
-    waMsg: "Hello, I need DP / TP information for my plot.",
-  },
-  {
-    icon: <Scroll className="size-5" />,
-    title: "Land Documents",
-    desc: "8A, Property Card, Mutation, Svamitva maps and other documents.",
-    waMsg: "Hello, I need help with land document services.",
-  },
-  {
     icon: <Frame className="size-5" />,
     title: "Print Collections enquiry",
     desc: "Wallpaper, canvas, wall art, rexine, satin fabric, framed prints, vinyl — info or a custom-size quote for any collection.",
@@ -59,7 +26,7 @@ const topics: Topic[] = [
   {
     icon: <Receipt className="size-5" />,
     title: "Payment / Refund",
-    desc: "Payment via UPI / QR. Refunds are possible if the report cannot be retrieved.",
+    desc: "Payment via UPI / QR. Ask us about any payment or refund question.",
     waMsg: "Hello, I need help with payment / refund.",
   },
 ];
@@ -92,7 +59,7 @@ const tx: {
     "Monday to Saturday · 9:00 AM to 9:00 PM. Closed on Sundays.",
   policyTitle: "Service policy",
   policyBody:
-    "PrintShubh is not a government body. We provide private assistance based on official public sources. Final verification must be done on the relevant government portal.",
+    "PrintShubh is a private print studio, not a government body. Prices and timelines are always confirmed with you on WhatsApp before work begins.",
   whatsappGenericMsg: "Hello, I need help with PrintShubh services.",
 };
 
@@ -103,6 +70,7 @@ export function SupportContent() {
       breadcrumb="Support"
       intro={tx.intro}
       updatedAt="May 2026"
+      showServiceDisclaimer={false}
       content={<SupportBody />}
     />
   );

@@ -46,7 +46,7 @@ const tx: {
   waMsg: "Hello, I would like to know about PrintShubh services.",
   whenToCallTitle: "When to contact",
   whenToCallBody:
-    "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, if you face trouble using the website, or for any 7/12, 8A, village map, DP/TP, Property Card or Mutation request.",
+    "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, or if you face trouble using the website.",
   responseTitle: "Response time",
   responseBody:
     "Typical WhatsApp reply within 30 minutes. If we take longer, please bear with us — every query is answered.",
