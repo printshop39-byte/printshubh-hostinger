@@ -107,7 +107,7 @@ export function LocalBusinessJsonLd() {
     telephone: CONTACT.phone,
     email: CONTACT.email,
     description:
-      "PrintShubh (Jumbo Xerox) is a print shop offering jumbo xerox, colour and black-and-white photocopying, A4/A3 and poster printing, scanning, binding, lamination, passport and ID photos, and private assistance with Maharashtra land documents. PrintShubh is not a government website.",
+      "PRINTSHUBH is a Premium Print & Visual Studio in Kolhapur, offering wallpaper, canvas, wall art, rexine / PU leatherette, satin fabric, framed prints and vinyl printing, AutoCAD plan printing, and everyday counter services including jumbo xerox, photocopying, scanning, binding, lamination and passport and ID photos.",
     // The counter services, in the same order the site presents them.
     makesOffer: SERVICE_GROUPS.flatMap((group) =>
       group.items.map((item) => ({
