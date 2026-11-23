@@ -87,6 +87,7 @@ export default function PrintingXeroxPage() {
       />
       <ShopServicePage
         groupKey="printing"
+        hideServiceList
         title={{
           mr: "जंबो झेरॉक्स, प्रिंटिंग आणि स्कॅनिंग",
           en: "Jumbo xerox, printing and scanning",

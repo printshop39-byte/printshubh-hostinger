@@ -47,6 +47,9 @@ export interface ShopServicePageProps {
   /** FAQ shown on-page. The same pairs feed FAQPage JSON-LD from the
    *  server component, so the two never drift apart. */
   faq: Record<Lang, { q: string; a: string }[]>;
+  /** Leave out the "What you can get" list of service cards. Used by
+   *  /printing-xerox; the other service pages keep it. */
+  hideServiceList?: boolean;
 }
 
 export function ShopServicePage({
@@ -55,6 +58,7 @@ export function ShopServicePage({
   intro,
   steps,
   faq,
+  hideServiceList = false,
 }: ShopServicePageProps) {
   const c = chrome;
   const group = serviceGroup(groupKey);
@@ -130,6 +134,7 @@ export function ShopServicePage({
         </section>
 
         {/* ── What you get ── */}
+        {!hideServiceList && (
         <section className="px-5 py-16 sm:px-8 lg:py-20">
           <div className="mx-auto max-w-5xl">
             <Reveal>
@@ -160,9 +165,14 @@ export function ShopServicePage({
             </Stagger>
           </div>
         </section>
+        )}
 
-        {/* ── How it works ── */}
-        <section className="border-y border-slate-200 bg-brand-cream px-5 py-16 sm:px-8 lg:py-20">
+        {/* ── How it works ──
+            Without the list above, the header's bottom border already is this
+            section's top edge, so drop the second one to avoid a doubled line. */}
+        <section
+          className={`${hideServiceList ? "border-b" : "border-y"} border-slate-200 bg-brand-cream px-5 py-16 sm:px-8 lg:py-20`}
+        >
           <div className="mx-auto max-w-5xl">
             <Stagger as="ol" className="grid gap-3 sm:grid-cols-3">
               {steps.en.map((step, i) => (
