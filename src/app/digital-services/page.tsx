@@ -83,6 +83,7 @@ export default function DigitalServicesPage() {
       />
       <ShopServicePage
         groupKey="digital"
+        hideServiceList
         title={{
           mr: "ऑनलाइन फॉर्म, PDF सेवा आणि WhatsApp प्रिंटिंग",
           en: "Online forms, PDF services and WhatsApp printing",
