@@ -16,6 +16,7 @@ export function RefundContent() {
       breadcrumb="Refund"
       intro="When refunds are issued, when they are not, and how to request help if something goes wrong with a payment."
       updatedAt="May 2026"
+      showServiceDisclaimer={false}
       content={<RefundBody />}
     />
   );
@@ -54,8 +55,6 @@ function RefundBody() {
         <LegalList
           items={[
             "Your payment was successful but work has not yet started.",
-            "The record is not available on the official portal, so the service cannot be completed.",
-            "Government portal downtime / data maintenance has held up the work for an extended period.",
             "A duplicate payment was made for the same service due to a technical glitch.",
           ]}
         />
@@ -64,9 +63,7 @@ function RefundBody() {
       <LegalSection heading="2. When a refund is not available">
         <LegalList
           items={[
-            "Once the document search / download / processing / help has been completed, refunds are generally not available.",
-            "If the user supplied incorrect information (district, taluka, village, gut / survey / CTS number) leading to an incorrect report — no refund, but we can re-run the search with corrected input.",
-            "The report / PDF has already been delivered on WhatsApp.",
+            "Once the service has been completed, refunds are generally not available.",
             "You confirmed the service on WhatsApp and then asked us to stop because of change of mind.",
           ]}
         />
@@ -100,8 +97,7 @@ function RefundBody() {
         <p>
           Each refund request is reviewed on a{" "}
           <strong>case-by-case basis</strong>. Work performed, time spent,
-          upstream sources used, and any error on the user&apos;s side are all
-          considered. PrintShubh&apos;s decision is final.
+          and any error on the user&apos;s side are all considered. PrintShubh&apos;s decision is final.
         </p>
       </LegalSection>
 

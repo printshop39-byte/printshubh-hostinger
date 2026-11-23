@@ -4,7 +4,7 @@ import { TermsContent } from "./terms-content";
 export const metadata: Metadata = {
   title: "अटी व शर्ती | Terms & Conditions",
   description:
-    "PrintShubh सेवा वापरण्याच्या अटी व शर्ती. PrintShubh ही खाजगी सहाय्य सेवा आहे — सरकारी विभाग नाही. अंतिम नोंदी अधिकृत पोर्टलवर पडताळून पहाव्यात.",
+    "PrintShubh सेवा वापरण्याच्या अटी व शर्ती. PrintShubh ही खाजगी संस्था आहे — सरकारी विभाग नाही.",
   alternates: { canonical: "/terms" },
 };
 

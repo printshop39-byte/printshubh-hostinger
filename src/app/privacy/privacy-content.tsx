@@ -13,6 +13,7 @@ export function PrivacyContent() {
       breadcrumb="Privacy"
       intro="PrintShubh respects your privacy. This policy explains what information we collect, how it is used, and how it is protected."
       updatedAt="May 2026"
+      showServiceDisclaimer={false}
       content={<PrivacyBody />}
     />
   );
@@ -28,9 +29,7 @@ function PrivacyBody() {
           items={[
             "Name (if you provide it)",
             "Phone / WhatsApp number — for service contact",
-            "District, taluka, village — for the service request",
-            "Gut / survey / CTS / khata / ferfar number — for document lookup",
-            "WhatsApp messages and any document photos you send us",
+            "WhatsApp messages and any PDFs or photos you send us",
             "Payment references — UPI ID, transaction ID (for receipts)",
             "Standard website analytics — IP address, browser, basic usage data",
           ]}
