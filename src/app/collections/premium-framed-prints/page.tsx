@@ -3,7 +3,7 @@ import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
 import { collectionBySlug } from "@/lib/collections";
 
-const PATH = "/collections/premium-framed-prints/";
+const PATH = "/collections/premium-framed-prints";
 
 export const metadata: Metadata = {
   title: "प्रीमियम फ्रेम्ड प्रिंट्स | Premium Collection",

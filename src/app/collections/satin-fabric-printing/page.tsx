@@ -3,7 +3,7 @@ import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
 import { collectionBySlug } from "@/lib/collections";
 
-const PATH = "/collections/satin-fabric-printing/";
+const PATH = "/collections/satin-fabric-printing";
 
 export const metadata: Metadata = {
   title: "साटीन फॅब्रिक प्रिंटिंग | Premium Collection",

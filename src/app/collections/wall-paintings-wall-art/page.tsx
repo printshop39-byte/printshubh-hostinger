@@ -3,7 +3,7 @@ import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
 import { collectionBySlug } from "@/lib/collections";
 
-const PATH = "/collections/wall-paintings-wall-art/";
+const PATH = "/collections/wall-paintings-wall-art";
 
 export const metadata: Metadata = {
   title: "वॉल पेंटिंग्स आणि वॉल आर्ट | Premium Collection",

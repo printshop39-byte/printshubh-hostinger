@@ -3,7 +3,7 @@ import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
 import { collectionBySlug } from "@/lib/collections";
 
-const PATH = "/collections/premium-vinyl-printing/";
+const PATH = "/collections/premium-vinyl-printing";
 
 export const metadata: Metadata = {
   title: "प्रीमियम व्हिनाइल प्रिंटिंग | Premium Collection",

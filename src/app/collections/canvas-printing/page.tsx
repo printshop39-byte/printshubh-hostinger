@@ -3,7 +3,7 @@ import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
 import { collectionBySlug } from "@/lib/collections";
 
-const PATH = "/collections/canvas-printing/";
+const PATH = "/collections/canvas-printing";
 
 export const metadata: Metadata = {
   title: "कॅनव्हास प्रिंटिंग | Premium Collection",

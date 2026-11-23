@@ -38,7 +38,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
      * generated from lib/collections.ts so a new/renamed collection can't
      * be added to the site without also landing here. */
     ...COLLECTIONS.map((c) => ({
-      url: `${SITE_URL}/collections/${c.slug}/`,
+      url: `${SITE_URL}/collections/${c.slug}`,
       lastModified,
       changeFrequency: "monthly" as const,
       priority: 0.9,

@@ -3,7 +3,7 @@ import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
 import { collectionBySlug } from "@/lib/collections";
 
-const PATH = "/collections/rexine-pu-leatherette-printing/";
+const PATH = "/collections/rexine-pu-leatherette-printing";
 
 export const metadata: Metadata = {
   title: "रेक्झिन / PU लेदरेट प्रिंटिंग | Premium Collection",
