@@ -5,6 +5,7 @@ import { MilkatContent, milkatFaqMr } from "./milkat-content";
 const PATH = "/milkat-patrika-maharashtra/";
 
 export const metadata: Metadata = {
+  robots: { index: false, follow: true },
   title:
     "मिळकत पत्रिका महाराष्ट्र | Property Card PDF सहाय्य",
   description:

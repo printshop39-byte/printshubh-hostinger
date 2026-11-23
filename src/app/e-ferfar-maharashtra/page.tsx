@@ -5,6 +5,7 @@ import { EFerfarContent, eFerfarFaqMr } from "./eferfar-content";
 const PATH = "/e-ferfar-maharashtra/";
 
 export const metadata: Metadata = {
+  robots: { index: false, follow: true },
   title: "ई-फेरफार महाराष्ट्र | E-Ferfar Mutation सहाय्य",
   description:
     "महाराष्ट्रातील ई-फेरफार (Mutation) नोंदी, वारस हक्क व बोजे संदर्भासाठी WhatsApp सहाय्य. अधिकृत स्रोतांवर आधारित खाजगी सेवा.",

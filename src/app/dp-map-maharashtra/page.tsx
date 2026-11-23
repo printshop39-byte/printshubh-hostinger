@@ -5,6 +5,7 @@ import { DpMapContent, dpMapFaqMr } from "./dp-map-content";
 const PATH = "/dp-map-maharashtra/";
 
 export const metadata: Metadata = {
+  robots: { index: false, follow: true },
   title:
     "DP Map Maharashtra | TP Map व Development Plan सहाय्य",
   description:

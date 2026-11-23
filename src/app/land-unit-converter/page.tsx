@@ -5,6 +5,7 @@ import { LandUnitContent, landUnitFaqMr } from "./land-unit-content";
 const PATH = "/land-unit-converter/";
 
 export const metadata: Metadata = {
+  robots: { index: false, follow: true },
   title: "जमीन क्षेत्र रूपांतरक | Guntha, Acre, Hectare Converter",
   description:
     "मोफत जमीन क्षेत्र रूपांतरक — गुंठा, एकर, हेक्टर, चौ. मीटर व चौ. फूट यांच्यातील क्षेत्रफळ झटपट रूपांतरित करा. 7/12 उताऱ्यावरील क्षेत्रफळ समजण्यासाठी उपयुक्त.",

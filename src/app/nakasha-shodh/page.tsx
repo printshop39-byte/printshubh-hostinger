@@ -14,6 +14,7 @@ import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
  * nav ("नकाशा शोध") for users who explicitly want the map finder. The section
  * keeps id="map-reference", so the inquiry-form bus continues to work here. */
 export const metadata: Metadata = {
+  robots: { index: false, follow: true },
   title: "नकाशा शोध — जिल्हा, तालुका, गाव नकाशा संदर्भ",
   description:
     "महाराष्ट्रातील जिल्हा, तालुका व गाव निवडून जमीन / सर्वे नकाशा संदर्भ शोधा. गाव सीमा पाहा आणि कागदपत्र सहाय्य WhatsApp वर मिळवा.",
