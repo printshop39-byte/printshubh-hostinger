@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { ServiceJsonLd } from "@/components/service-jsonld";
 import { CollectionPageShell } from "@/components/shop/collection-page-shell";
+import { WallpaperCollage } from "@/components/shop/wallpaper-collage";
 import { collectionBySlug } from "@/lib/collections";
+import { COLLECTION_COLLAGE_IDS, getShowcase } from "@/lib/wallpapers/showcase";
 
 const PATH = "/collections/premium-wallpaper-printing";
 
@@ -25,8 +27,11 @@ export const metadata: Metadata = {
   },
 };
 
-export default function Page() {
+export default async function Page() {
   const collection = collectionBySlug("premium-wallpaper-printing")!;
+  /* Real, PUBLISHED design previews only; with fewer than two the page falls back
+   * to the original icon visual. */
+  const designs = await getShowcase(COLLECTION_COLLAGE_IDS);
   return (
     <>
       <ServiceJsonLd
@@ -36,7 +41,10 @@ export default function Page() {
         description="Custom-design wallpaper printing for homes, offices and shops — your design or photo, printed to size. Price shared on WhatsApp."
         breadcrumbLabel="प्रीमियम वॉलपेपर प्रिंटिंग"
       />
-      <CollectionPageShell collection={collection} />
+      <CollectionPageShell
+        collection={collection}
+        heroVisual={designs.length >= 2 ? <WallpaperCollage designs={designs} /> : undefined}
+      />
     </>
   );
 }

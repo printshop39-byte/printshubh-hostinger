@@ -96,7 +96,15 @@ const t: {
   sendCta: "Send on WhatsApp",
 };
 
-export function CollectionPageShell({ collection }: { collection: Collection }) {
+export function CollectionPageShell({
+  collection,
+  heroVisual,
+}: {
+  collection: Collection;
+  /** Optional server-rendered visual (real design previews) shown instead of the
+   * generic icon box. Only the Wallpaper Printing page passes one. */
+  heroVisual?: React.ReactNode;
+}) {
   const tx = t;
 
   const sectionRef = useRef<HTMLElement>(null);
@@ -226,9 +234,13 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
               </Reveal>
 
               <Reveal delay={0.1}>
-                <div className="aspect-[4/3] w-full">
-                  <CollectionVisual collectionKey={collection.key} shortTitle={collection.shortTitle.en} />
-                </div>
+                {heroVisual ? (
+                  <div className="w-full">{heroVisual}</div>
+                ) : (
+                  <div className="aspect-[4/3] w-full">
+                    <CollectionVisual collectionKey={collection.key} shortTitle={collection.shortTitle.en} />
+                  </div>
+                )}
               </Reveal>
             </div>
           </div>

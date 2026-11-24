@@ -3,6 +3,9 @@ import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { WhatsAppSupportButton } from "@/components/whatsapp-support-button";
 import { ShopHero } from "@/components/shop/shop-hero";
+import { HeroCollage } from "@/components/shop/hero-collage";
+import { FeaturedDesignsStrip } from "@/components/shop/featured-designs-strip";
+import { FEATURED_STRIP_IDS, HERO_COLLAGE_IDS, getShowcase } from "@/lib/wallpapers/showcase";
 import { ShopGallery } from "@/components/shop/shop-gallery";
 import { CollectionsGrid } from "@/components/shop/collections-grid";
 import { CadPrintsSection } from "@/components/shop/cad-prints-section";
@@ -52,7 +55,8 @@ export const metadata: Metadata = {
 
 /* ── Scroll order ───────────────────────────────────────────────────────
  *
- *   hero → collections → CAD prints → studio → how it works → enquiry →
+ *   hero (with a collage of real wallpaper design previews) → featured designs →
+ *   collections → CAD prints → studio → how it works → enquiry →
  *   (shop photos, once they exist) → Google reviews → visit the shop → footer
  *
  * S1 (premium homepage) is built in checkpoints: C1 the composition and hero;
@@ -81,13 +85,23 @@ export const metadata: Metadata = {
  * ShopGallery, GoogleReviews and VisitShop each render NOTHING until the
  * business data behind them is filled in (src/lib/shop-profile.ts), so the
  * page never shows an empty shell or an unverified claim. */
-export default function Home() {
+export default async function Home() {
+  /* Real, PUBLISHED wallpaper design previews only (see lib/wallpapers/showcase.ts):
+   * a draft, an unpublished or a missing design simply drops out. */
+  const [heroDesigns, stripDesigns] = await Promise.all([
+    getShowcase(HERO_COLLAGE_IDS),
+    getShowcase(FEATURED_STRIP_IDS),
+  ]);
+
   return (
     <>
       <SiteHeader />
       {/* Scrolling updates / announcement bar — below header, above hero */}
       <main className="min-h-screen overflow-x-hidden bg-brand-cream text-slate-900">
-        <ShopHero />
+        <ShopHero collage={heroDesigns.length >= 2 ? <HeroCollage designs={heroDesigns} /> : undefined} />
+
+        {/* Four featured wallpaper designs, each linking to its own page. */}
+        <FeaturedDesignsStrip designs={stripDesigns} />
 
         {/* The seven premium print collections. */}
         <CollectionsGrid />
