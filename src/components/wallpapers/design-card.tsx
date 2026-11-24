@@ -21,13 +21,15 @@ export function DesignCard({
       href={designUrl(design.categorySlug, design.id)}
       className="group block overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:border-brand-gold hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-navy"
     >
-      <div className="relative aspect-[4/3] overflow-hidden bg-brand-gold-light">
+      {/* Fixed 16:10 frame with the artwork shown in full (never cropped) on a warm mat, so the
+          grid stays even for 16:9, 3:2, square and portrait designs alike. */}
+      <div className="relative aspect-[16/10] overflow-hidden bg-brand-gold-light p-2.5">
         <DesignImg
           image={design.image}
           alt={`${design.title} — wallpaper design ${design.id}`}
           sizes={CARD_SIZES}
           eager={eager}
-          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
+          className="h-full w-full object-contain drop-shadow-[0_2px_6px_rgba(15,23,42,0.22)] transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
         />
       </div>
       <div className="p-4">
