@@ -29,7 +29,7 @@
  * opacity), so the text is readable from the first paint.
  */
 
-import Link from "next/link";
+import { HashLink } from "@/components/hash-link";
 import { ArrowRight, MessageCircle } from "lucide-react";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { trackFunnelEvent } from "@/lib/analytics";
@@ -124,10 +124,10 @@ export function ShopHero({ collage }: { collage?: React.ReactNode }) {
             className="mt-8 flex flex-col gap-3 sm:flex-row"
             style={{ "--ps-delay": "210ms" } as React.CSSProperties}
           >
-            <Link href="/#collections" onClick={() => track("collections")} className={PRIMARY}>
+            <HashLink href="/#collections" onClick={() => track("collections")} className={PRIMARY}>
               {tx.primary}
               <ArrowRight className="size-4" aria-hidden="true" />
-            </Link>
+            </HashLink>
             <a
               href={enquiryHref}
               target="_blank"
