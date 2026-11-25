@@ -94,9 +94,21 @@ body {
 }
 
 body {
+  /* "clip" clips like "hidden" but does not make <body> a scroll container.
+   * With overflow-x:hidden, <body> became one (overflow-y turns into auto), and
+   * the sticky header, a child of <body>, never stuck. Browsers without "clip"
+   * ignore this line and keep the "hidden" above. <html> stays "hidden". */
+  overflow-x: clip;
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-noto-devanagari), "Mangal", var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* The mobile menu and the search overlay are position:fixed dialogs inside the sticky header.
+ * A backdrop-filter on the header would make it their containing block (they would shrink to
+ * the header), so it is dropped while one is open. */
+header[data-site-chrome]:has([role="dialog"]) {
+  backdrop-filter: none;
 }
 
 ::selection {

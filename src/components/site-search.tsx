@@ -70,16 +70,26 @@ export function SiteSearch() {
   /* Lock scroll + move focus in while open; hand focus back on close. */
   useEffect(() => {
     if (!open) return;
-    const previousOverflow = document.body.style.overflow;
-    document.body.style.overflow = "hidden";
-    const frame = requestAnimationFrame(() => inputRef.current?.focus());
+    // Lock the page scroll on <html>, not <body>: an inline overflow on <body> turns it
+    // into a scroll container, which stops the sticky header from sticking.
+    const root = document.documentElement;
+    const previousOverflow = root.style.overflow;
+    const previousPadding = root.style.paddingRight;
+    // Hiding the scrollbar widens the page by its width and reflows the content, which moves
+    // the scroll position; padding of the same width keeps everything where it was.
+    const scrollbar = window.innerWidth - root.clientWidth;
+    root.style.overflow = "hidden";
+    if (scrollbar > 0) root.style.paddingRight = `${scrollbar}px`;
+    // preventScroll: the header is sticky, so without it the page jumps to the top.
+    const frame = requestAnimationFrame(() => inputRef.current?.focus({ preventScroll: true }));
     // Captured now: by the time cleanup runs, the ref may already point
     // elsewhere (or nowhere) if the trigger itself unmounted.
     const trigger = triggerRef.current;
     return () => {
-      document.body.style.overflow = previousOverflow;
+      root.style.overflow = previousOverflow;
+      root.style.paddingRight = previousPadding;
       cancelAnimationFrame(frame);
-      trigger?.focus();
+      trigger?.focus({ preventScroll: true });
     };
   }, [open]);
 

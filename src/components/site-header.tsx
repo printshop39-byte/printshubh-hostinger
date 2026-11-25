@@ -94,8 +94,17 @@ export function SiteHeader() {
   useEffect(() => {
     if (!open) return;
 
-    const previous = document.body.style.overflow;
-    document.body.style.overflow = "hidden";
+    /* Lock the page scroll on <html>, not <body>: an inline overflow on <body>
+     * turns it back into a scroll container, which stops the sticky header from
+     * sticking and makes the page jump while the sheet is open. */
+    const root = document.documentElement;
+    const previous = root.style.overflow;
+    const previousPadding = root.style.paddingRight;
+    // Hiding the scrollbar reflows the page and moves the scroll position (tablet and small
+    // desktop widths); padding of the same width keeps everything where it was.
+    const scrollbar = window.innerWidth - root.clientWidth;
+    root.style.overflow = "hidden";
+    if (scrollbar > 0) root.style.paddingRight = `${scrollbar}px`;
 
     const sheet = sheetRef.current;
     // Captured now, not read in cleanup: by the time cleanup runs the ref
@@ -113,8 +122,9 @@ export function SiteHeader() {
           ).filter((el) => el.offsetParent !== null)
         : [];
 
-    // Move focus into the sheet so the next Tab continues inside it.
-    focusables()[0]?.focus();
+    // Move focus into the sheet so the next Tab continues inside it. preventScroll:
+    // the header is sticky now, so without it the page would jump to the top.
+    focusables()[0]?.focus({ preventScroll: true });
 
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
@@ -144,11 +154,12 @@ export function SiteHeader() {
 
     window.addEventListener("keydown", onKey);
     return () => {
-      document.body.style.overflow = previous;
+      root.style.overflow = previous;
+      root.style.paddingRight = previousPadding;
       window.removeEventListener("keydown", onKey);
       // Hand focus back to the control that opened the sheet, so the user
       // resumes from where they were rather than at the top of the document.
-      trigger?.focus();
+      trigger?.focus({ preventScroll: true });
     };
   }, [open]);
 
@@ -160,7 +171,10 @@ export function SiteHeader() {
       data-surface="dark"
       className={`sticky top-0 z-50 border-b transition-all duration-300 ${
         scrolled
-          ? "border-brand-gold/60 bg-forest/95 shadow-[0_6px_24px_rgba(10,43,33,0.35)] backdrop-blur-xl"
+          ? // backdrop-filter makes the header the containing block of the position:fixed
+            // menu sheet inside it (the sheet would shrink to the header), so it is dropped
+            // while the menu is open.
+            `border-brand-gold/60 bg-forest/95 shadow-[0_6px_24px_rgba(10,43,33,0.35)]${open ? "" : " backdrop-blur-xl"}`
           : "border-brand-gold/35 bg-forest"
       }`}
     >
