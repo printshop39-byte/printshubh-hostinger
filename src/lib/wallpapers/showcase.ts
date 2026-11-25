@@ -13,8 +13,9 @@
  * the homepage. To change a slot, edit the lists below (and ALLOWED, once that
  * design's rights have been confirmed).
  *
- * Rights checks still open for WP-011 and WP-014 (reverse-image search,
- * character-similarity) must be finished before this branch is merged.
+ * WP-011 and WP-014 are deliberately NOT listed: their rights and similarity
+ * checks (reverse-image search, character similarity) are still open. Add them
+ * back to ALLOWED and to a list below only after those checks are done.
  */
 import { getDesign } from "@/lib/wallpapers/catalogue";
 import type { PublicDesign } from "@/lib/wallpapers/types";
@@ -24,8 +25,6 @@ const ALLOWED: ReadonlySet<string> = new Set([
   "WP-003",
   "WP-006",
   "WP-007",
-  "WP-011",
-  "WP-014",
   "WP-018",
 ]);
 
@@ -36,7 +35,7 @@ export const HERO_COLLAGE_IDS = ["WP-001", "WP-006", "WP-007"] as const;
 export const COLLECTION_COLLAGE_IDS = ["WP-001", "WP-003", "WP-006", "WP-007"] as const;
 
 /** Homepage "featured designs" strip (shown in full, never cropped). */
-export const FEATURED_STRIP_IDS = ["WP-003", "WP-011", "WP-014", "WP-018"] as const;
+export const FEATURED_STRIP_IDS = ["WP-003", "WP-018"] as const;
 
 /**
  * Wording for traditional styles: these designs are INSPIRED by a folk or temple

@@ -20,7 +20,7 @@ import {
 } from "@/lib/wallpapers/catalogue";
 
 /** Design whose preview is the hero image. */
-const HERO_DESIGN_ID = "WP-011";
+const HERO_DESIGN_ID = "WP-001";
 
 type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
 const first = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v)?.trim() || undefined;
