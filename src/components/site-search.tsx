@@ -16,11 +16,12 @@
  * a command-palette dependency.
  */
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Search, X } from "lucide-react";
 import { trackFunnelEvent } from "@/lib/analytics";
+import { announceOverlay, closeWhenOtherOpens } from "@/lib/overlay-bus";
 import { SITE_SEARCH_INDEX } from "@/lib/site-search-index";
 
 const placeholder: string = "Search collections, CAD prints, services…";
@@ -49,6 +50,15 @@ export function SiteSearch() {
     ).slice(0, 8);
   }, [query]);
 
+  const close = useCallback(() => {
+    setOpen(false);
+    setQuery("");
+    trackedRef.current = false;
+  }, []);
+
+  // The mobile menu opened: close the search (it would sit behind the menu sheet).
+  useEffect(() => closeWhenOtherOpens("search", close), [close]);
+
   /* Global open shortcut. Ignored while the user is typing anywhere else. */
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -60,6 +70,7 @@ export function SiteSearch() {
       if (typing) return;
       if (e.key === "/" || ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k")) {
         e.preventDefault();
+        announceOverlay("search");
         setOpen(true);
       }
     };
@@ -85,19 +96,19 @@ export function SiteSearch() {
     // Captured now: by the time cleanup runs, the ref may already point
     // elsewhere (or nowhere) if the trigger itself unmounted.
     const trigger = triggerRef.current;
+    // Escape closes the overlay; the cleanup below hands focus back to the search button.
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") close();
+    };
+    window.addEventListener("keydown", onKey);
     return () => {
+      window.removeEventListener("keydown", onKey);
       root.style.overflow = previousOverflow;
       root.style.paddingRight = previousPadding;
       cancelAnimationFrame(frame);
       trigger?.focus({ preventScroll: true });
     };
-  }, [open]);
-
-  function close() {
-    setOpen(false);
-    setQuery("");
-    trackedRef.current = false;
-  }
+  }, [open, close]);
 
   function trackSearchOnce() {
     if (trackedRef.current) return;
@@ -115,7 +126,10 @@ export function SiteSearch() {
       <button
         ref={triggerRef}
         type="button"
-        onClick={() => setOpen(true)}
+        onClick={() => {
+          announceOverlay("search");
+          setOpen(true);
+        }}
         aria-label={searchLabel}
         className="inline-flex size-11 items-center justify-center rounded-lg border border-ivory/35 text-ivory transition hover:border-brand-gold hover:text-brand-gold"
       >
