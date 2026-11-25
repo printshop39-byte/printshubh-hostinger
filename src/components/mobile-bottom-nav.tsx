@@ -29,6 +29,7 @@ import { usePathname } from "next/navigation";
 import { Home, LayoutGrid, MessageCircle, Phone } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
+import { isHomePath } from "@/lib/home-path";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { SITE_CONTACT } from "@/components/site-footer";
 
@@ -56,7 +57,7 @@ export function MobileBottomNav() {
   const pathname = usePathname();
 
   const waHref = buildWhatsAppUrl({ message: WA_MESSAGE, campaign: "bottom-nav" });
-  const atHome = pathname === "/";
+  const atHome = isHomePath(pathname);
 
   // Admin screens are tools for the owner, not customer pages: the public
   // Home / Collections / Call / WhatsApp bar must not sit on top of their
