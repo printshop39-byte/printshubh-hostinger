@@ -22,6 +22,7 @@ import { inquiryCtaClick } from "@/lib/inquiry-form-bus";
 import { buildWhatsAppUrl, WHATSAPP_DISPLAY, WHATSAPP_NUMBER } from "@/lib/whatsapp";
 import { OPENING_HOURS, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { COLLECTIONS } from "@/lib/collections";
+import { isHomePath } from "@/lib/home-path";
 
 /* ── Official PrintShubh contact details ──────────────────────────────────
  * Single source of truth for the *display* forms — every component that needs
@@ -77,7 +78,7 @@ const headingCls =
 export function SiteFooter() {
   const t = tx;
   const pathname = usePathname();
-  const isHome = pathname === "/";
+  const isHome = isHomePath(pathname);
   const year = new Date().getFullYear();
   const waHref = buildWhatsAppUrl({ message: t.waMsg, campaign: "footer" });
 
