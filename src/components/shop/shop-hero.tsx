@@ -6,10 +6,17 @@
  * Premium Print & Visual Studio, in type. No photograph is used because none
  * of the studio's own work has been photographed yet (see collections.ts and
  * shop-profile.ts: no stock images, no fabricated samples). The composition
- * is typographic: a large H1, one line of promise, two actions, and a column
- * of three plain facts.
+ * is typographic: a large H1, one line of promise, two actions, and three
+ * plain facts.
  *
- * Every fact in the right-hand column is checked against something real:
+ * COLLAGE SLOT. The homepage may pass a `collage` (a server-rendered set of
+ * real, published wallpaper DESIGN PREVIEWS, see hero-collage.tsx). These are
+ * previews from the catalogue, never photographs of finished work, and the
+ * collage says so. With a collage the text sits on the left and the collage on
+ * the right (below the buttons on phones and tablets) and the three facts run
+ * as a strip underneath; without one, the original layout is used unchanged.
+ *
+ * Every fact is checked against something real:
  *   - "1996": the Google Business Profile opening date (ESTABLISHED).
  *   - "07":   the number of collections in collections.ts (COLLECTIONS).
  *   - "CAD":  AutoCAD architectural and structural plan printing, as stated
@@ -65,8 +72,9 @@ const PRIMARY =
 const SECONDARY =
   "ps-enter inline-flex min-h-[52px] w-full items-center justify-center gap-2 rounded-xl border border-white/30 px-6 text-base font-black text-white transition hover:bg-white/10 sm:w-auto motion-reduce:transform-none";
 
-export function ShopHero() {
+export function ShopHero({ collage }: { collage?: React.ReactNode }) {
   const tx = copy;
+  const hasCollage = Boolean(collage);
 
   const enquiryHref = buildWhatsAppUrl({
     message: tx.enquiry,
@@ -83,11 +91,7 @@ export function ShopHero() {
     });
   };
 
-  return (
-    <section id="top" className="relative isolate overflow-hidden bg-brand-navy text-white">
-      <div aria-hidden="true" className="absolute inset-x-0 top-0 h-px bg-brand-gold/60" />
-
-      <div className="relative mx-auto grid max-w-7xl gap-10 px-5 pb-12 pt-10 sm:px-8 sm:pb-16 sm:pt-14 lg:grid-cols-[1.3fr_.7fr] lg:gap-16 lg:py-24">
+  const text = (
         <div>
           <p className="ps-enter flex items-center gap-3 text-[12px] font-black uppercase tracking-[0.2em] text-brand-gold-light">
             <span aria-hidden="true" className="h-px w-8 bg-brand-gold" />
@@ -136,18 +140,34 @@ export function ShopHero() {
             </a>
           </div>
         </div>
+  );
 
-        <dl className="grid grid-cols-3 border-t border-white/15 pt-6 lg:grid-cols-1 lg:border-l lg:border-t-0 lg:pl-10 lg:pt-0">
+  const facts = (
+        <dl
+          className={
+            hasCollage
+              ? "mt-10 grid grid-cols-3 border-t border-white/15 pt-6 lg:mt-12"
+              : "grid grid-cols-3 border-t border-white/15 pt-6 lg:grid-cols-1 lg:border-l lg:border-t-0 lg:pl-10 lg:pt-0"
+          }
+        >
           {tx.facts.map((fact, i) => (
             <div
               key={fact.kicker}
-              className={`pr-3 lg:pr-0 ${i > 0 ? "lg:border-t lg:border-white/15" : ""} lg:py-7`}
+              className={
+                hasCollage
+                  ? `pr-3 ${i > 0 ? "lg:border-l lg:border-white/15 lg:pl-8" : ""}`
+                  : `pr-3 lg:pr-0 ${i > 0 ? "lg:border-t lg:border-white/15" : ""} lg:py-7`
+              }
             >
               <dt className="text-[10px] font-black uppercase tracking-[0.06em] text-brand-gold-light min-[360px]:text-[11px] min-[360px]:tracking-[0.16em]">
                 {fact.kicker}
               </dt>
               <dd className="mt-1">
-                <span className="block text-[2rem] font-black leading-none tracking-tight text-white sm:text-4xl lg:text-6xl">
+                <span
+                  className={`block text-[2rem] font-black leading-none tracking-tight text-white sm:text-4xl ${
+                    hasCollage ? "lg:text-5xl" : "lg:text-6xl"
+                  }`}
+                >
                   {fact.value}
                 </span>
                 <span className="mt-2 block text-[12px] font-semibold leading-4 text-slate-300 sm:text-sm">
@@ -157,7 +177,27 @@ export function ShopHero() {
             </div>
           ))}
         </dl>
-      </div>
+  );
+
+  return (
+    <section id="top" className="relative isolate overflow-hidden bg-brand-navy text-white">
+      <div aria-hidden="true" className="absolute inset-x-0 top-0 h-px bg-brand-gold/60" />
+
+      {hasCollage ? (
+        <div className="relative mx-auto max-w-7xl px-5 pb-12 pt-10 sm:px-8 sm:pb-14 sm:pt-14 lg:pb-12 lg:pt-16">
+          <div className="grid gap-10 lg:grid-cols-[1.05fr_.95fr] lg:items-center lg:gap-14">
+            {text}
+            {/* Below the buttons on phones and tablets, beside the text on desktop. */}
+            <div>{collage}</div>
+          </div>
+          {facts}
+        </div>
+      ) : (
+        <div className="relative mx-auto grid max-w-7xl gap-10 px-5 pb-12 pt-10 sm:px-8 sm:pb-16 sm:pt-14 lg:grid-cols-[1.3fr_.7fr] lg:gap-16 lg:py-24">
+          {text}
+          {facts}
+        </div>
+      )}
     </section>
   );
 }

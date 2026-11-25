@@ -8,6 +8,7 @@ import { DesignGrid } from "@/components/wallpapers/design-card";
 import { DesignImg } from "@/components/wallpapers/design-image";
 import {
   catalogueUrl,
+  categoryUrl,
   designUrl,
   getCategories,
   getCategoryCards,
@@ -66,9 +67,12 @@ export default async function WallpapersPage({ searchParams }: { searchParams: S
     getDesign(HERO_DESIGN_ID),
     searching ? getDesigns({ q, tag, page: pageNo }) : Promise.resolve(undefined),
     searching ? Promise.resolve([]) : getFeaturedDesigns(8),
-    searching ? Promise.resolve([]) : getNewArrivals(4),
+    searching ? Promise.resolve([]) : getNewArrivals(8),
   ]);
   const totalDesigns = cards.reduce((n, c) => n + c.count, 0);
+  // "New arrivals" never repeats a design already shown under "Featured".
+  const featuredIds = new Set(featured.map((d) => d.id));
+  const freshArrivals = arrivals.filter((d) => !featuredIds.has(d.id)).slice(0, 4);
 
   return (
     <CatalogueFrame>
@@ -86,21 +90,21 @@ export default async function WallpapersPage({ searchParams }: { searchParams: S
           />
         )}
         <div className="absolute inset-0 -z-10 bg-gradient-to-r from-brand-navy-dark/95 via-brand-navy/80 to-brand-navy/25" />
-        <div className="mx-auto max-w-6xl px-5 pb-12 pt-10 sm:px-8 sm:pb-16 sm:pt-14 lg:pb-20 lg:pt-16">
+        <div className="mx-auto max-w-6xl px-5 pb-8 pt-8 sm:px-8 sm:pb-10 sm:pt-10 lg:pb-12 lg:pt-12">
           <Breadcrumbs tone="dark" items={[{ label: "Wallpaper Designs" }]} />
           <p className="text-[12px] font-black uppercase tracking-[0.2em] text-brand-gold-light">
             PRINTSHUBH Design Library
           </p>
-          <h1 className="mt-3 max-w-2xl text-[2.4rem] font-black leading-[1.05] tracking-[-0.03em] sm:text-5xl lg:text-6xl">
+          <h1 className="mt-2 max-w-2xl text-[2rem] font-black leading-[1.05] tracking-[-0.03em] sm:text-4xl lg:text-5xl">
             Explore Wallpaper Designs
           </h1>
-          <p className="mt-4 max-w-xl text-base leading-7 text-white/90 sm:text-lg">
+          <p className="mt-3 max-w-xl text-base leading-7 text-white/90 sm:text-lg">
             Browse our curated wallpaper collection and find a design for your space.
           </p>
-          <div className="mt-7">
+          <div className="mt-5">
             <CatalogueSearch action={catalogueUrl()} q={q} tag={tag} tone="dark" />
           </div>
-          <p className="mt-5 text-sm font-semibold text-white/80">
+          <p className="mt-4 text-sm font-semibold text-white/80">
             {totalDesigns} designs · {categories.length} categories
             {hero && (
               <>
@@ -118,9 +122,26 @@ export default async function WallpapersPage({ searchParams }: { searchParams: S
       </section>
 
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
+        {/* ── Category rail: one line, so designs start high on the page ───── */}
+        <nav aria-label="Browse by category" className="pt-5">
+          <ul className="-mx-5 flex gap-2 overflow-x-auto px-5 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0">
+            {cards.map(({ category, count }) => (
+              <li key={category.slug} className="shrink-0">
+                <Link
+                  href={categoryUrl(category.slug)}
+                  className="inline-flex min-h-[44px] items-center gap-2 rounded-full border border-slate-300 bg-white px-4 text-sm font-bold text-slate-700 transition hover:border-brand-gold hover:text-brand-navy focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-navy"
+                >
+                  {category.name}
+                  <span className="text-xs font-semibold text-slate-500">{count}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </nav>
+
         {/* ── Search / filter results ─────────────────────────────────────── */}
         {searching && results && (
-          <section className="pt-10" aria-labelledby="wp-results">
+          <section className="pt-6" aria-labelledby="wp-results">
             <h2 id="wp-results" className="text-2xl font-black text-brand-navy sm:text-3xl">
               {results.total} {results.total === 1 ? "design" : "designs"}
               {q && <> for &ldquo;{q}&rdquo;</>}
@@ -151,8 +172,48 @@ export default async function WallpapersPage({ searchParams }: { searchParams: S
           </section>
         )}
 
+        {!searching && (
+          <>
+            {/* ── Featured ──────────────────────────────────────────────── */}
+            {featured.length > 0 && (
+              <section className="pt-8" aria-labelledby="wp-featured">
+                <p className="text-xs font-black uppercase tracking-[0.18em] text-brand-navy">Handpicked</p>
+                <h2 id="wp-featured" className="mt-2 text-2xl font-black text-slate-950 sm:text-3xl">
+                  Featured designs
+                </h2>
+                <div className="mt-6">
+                  <DesignGrid designs={featured} categories={categories} eagerCount={4} compactMobile />
+                </div>
+              </section>
+            )}
+
+            {/* ── New arrivals ──────────────────────────────────────────── */}
+            {freshArrivals.length > 1 && (
+              <section className="pt-14" aria-labelledby="wp-new">
+                <p className="text-xs font-black uppercase tracking-[0.18em] text-brand-navy">Just added</p>
+                <h2 id="wp-new" className="mt-2 text-2xl font-black text-slate-950 sm:text-3xl">
+                  New arrivals
+                </h2>
+                <div className="mt-6">
+                  <DesignGrid designs={freshArrivals} categories={categories} compactMobile />
+                </div>
+              </section>
+            )}
+            {/* ── Styles ────────────────────────────────────────────────── */}
+            <section className="pt-12" aria-labelledby="wp-styles">
+              <h2 id="wp-styles" className="text-sm font-black uppercase tracking-[0.12em] text-slate-500">
+                Browse by style
+              </h2>
+              <div className="mt-3">
+                <TagChips tags={tags} basePath={catalogueUrl()} />
+              </div>
+            </section>
+
+          </>
+        )}
+
         {/* ── Categories ──────────────────────────────────────────────────── */}
-        <section className="pt-12" aria-labelledby="wp-categories">
+        <section className="pt-14" aria-labelledby="wp-categories">
           <p className="text-xs font-black uppercase tracking-[0.18em] text-brand-navy">Browse by category</p>
           <h2 id="wp-categories" className="mt-2 text-2xl font-black text-slate-950 sm:text-3xl">
             Find your style
@@ -165,46 +226,6 @@ export default async function WallpapersPage({ searchParams }: { searchParams: S
             ))}
           </ul>
         </section>
-
-        {!searching && (
-          <>
-            {/* ── Styles ────────────────────────────────────────────────── */}
-            <section className="pt-10" aria-labelledby="wp-styles">
-              <h2 id="wp-styles" className="text-sm font-black uppercase tracking-[0.12em] text-slate-500">
-                Browse by style
-              </h2>
-              <div className="mt-3">
-                <TagChips tags={tags} basePath={catalogueUrl()} />
-              </div>
-            </section>
-
-            {/* ── Featured ──────────────────────────────────────────────── */}
-            {featured.length > 0 && (
-              <section className="pt-14" aria-labelledby="wp-featured">
-                <p className="text-xs font-black uppercase tracking-[0.18em] text-brand-navy">Handpicked</p>
-                <h2 id="wp-featured" className="mt-2 text-2xl font-black text-slate-950 sm:text-3xl">
-                  Featured designs
-                </h2>
-                <div className="mt-6">
-                  <DesignGrid designs={featured} categories={categories} />
-                </div>
-              </section>
-            )}
-
-            {/* ── New arrivals ──────────────────────────────────────────── */}
-            {arrivals.length > 0 && (
-              <section className="pt-14" aria-labelledby="wp-new">
-                <p className="text-xs font-black uppercase tracking-[0.18em] text-brand-navy">Just added</p>
-                <h2 id="wp-new" className="mt-2 text-2xl font-black text-slate-950 sm:text-3xl">
-                  New arrivals
-                </h2>
-                <div className="mt-6">
-                  <DesignGrid designs={arrivals} categories={categories} />
-                </div>
-              </section>
-            )}
-          </>
-        )}
 
         {/* ── Closing CTA ─────────────────────────────────────────────────── */}
         <section className="py-14">
