@@ -26,6 +26,7 @@ import { Menu, MessageCircle, X } from "lucide-react";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 import { trackWhatsAppLead } from "@/components/meta-pixel";
 import { SiteSearch } from "@/components/site-search";
+import { announceOverlay, closeWhenOtherOpens } from "@/lib/overlay-bus";
 
 interface NavItem {
   label: string;
@@ -79,6 +80,9 @@ export function SiteHeader() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  // The search overlay opened (button, "/" or Ctrl+K): close the menu so only one is ever open.
+  useEffect(() => closeWhenOtherOpens("menu", () => setOpen(false)), []);
 
   /* The open sheet is a modal dialog, so it has to behave like one:
    *
@@ -236,7 +240,11 @@ export function SiteHeader() {
           <button
             ref={toggleRef}
             type="button"
-            onClick={() => setOpen((o) => !o)}
+            onClick={() => {
+              const next = !open;
+              setOpen(next);
+              if (next) announceOverlay("menu");
+            }}
             aria-label={menuLabel}
             aria-expanded={open}
             aria-controls="mobile-nav"
