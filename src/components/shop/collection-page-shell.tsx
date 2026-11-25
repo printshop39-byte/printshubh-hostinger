@@ -13,6 +13,7 @@
  */
 
 import Link from "next/link";
+import { HashLink } from "@/components/hash-link";
 import Image from "next/image";
 import { useMemo, useRef, useState } from "react";
 import { ChevronRight, Home, MessageCircle, Ruler } from "lucide-react";
@@ -173,9 +174,9 @@ export function CollectionPageShell({ collection }: { collection: Collection }) 
                 {tx.home}
               </Link>
               <ChevronRight className="size-3 text-slate-400" />
-              <Link href="/#collections" className="py-3.5 -my-3.5 transition hover:text-brand-navy">
+              <HashLink href="/#collections" className="py-3.5 -my-3.5 transition hover:text-brand-navy">
                 {tx.collections}
-              </Link>
+              </HashLink>
               <ChevronRight className="size-3 text-slate-400" />
               <span className="text-slate-700">{collection.shortTitle.en}</span>
             </nav>

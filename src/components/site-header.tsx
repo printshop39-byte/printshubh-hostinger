@@ -20,6 +20,7 @@
  */
 
 import Link from "next/link";
+import { HashLink } from "@/components/hash-link";
 import { useEffect, useRef, useState } from "react";
 import { Menu, MessageCircle, X } from "lucide-react";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
@@ -193,13 +194,13 @@ export function SiteHeader() {
         {/* Desktop nav */}
         <nav className="hidden items-center gap-6 xl:flex">
           {primary.slice(1).map((item) => (
-            <Link
+            <HashLink
               key={item.href}
               href={item.href}
               className="relative inline-flex min-h-[44px] items-center text-[14px] font-semibold text-ivory transition after:absolute after:bottom-2.5 after:left-0 after:h-[2px] after:w-0 after:bg-brand-gold after:transition-all after:duration-300 hover:text-brand-gold hover:after:w-full motion-reduce:after:transition-none"
             >
               {item.label}
-            </Link>
+            </HashLink>
           ))}
         </nav>
 
@@ -252,13 +253,13 @@ export function SiteHeader() {
           <ul className="flex flex-col">
             {primary.map((item) => (
               <li key={item.href}>
-                <Link
+                <HashLink
                   href={item.href}
                   onClick={() => setOpen(false)}
                   className="flex min-h-[56px] items-center border-b border-ivory/15 font-display text-[19px] font-normal text-ivory transition active:text-brand-gold"
                 >
                   {item.label}
-                </Link>
+                </HashLink>
               </li>
             ))}
           </ul>

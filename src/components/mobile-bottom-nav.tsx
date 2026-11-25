@@ -24,6 +24,7 @@
  */
 
 import Link from "next/link";
+import { HashLink } from "@/components/hash-link";
 import { usePathname } from "next/navigation";
 import { Home, LayoutGrid, MessageCircle, Phone } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
@@ -75,9 +76,9 @@ export function MobileBottomNav() {
         <TabLabel icon={Home} text={label.home} />
       </Link>
 
-      <Link href="/#collections" className={`${tabClass} text-ivory/85`}>
+      <HashLink href="/#collections" className={`${tabClass} text-ivory/85`}>
         <TabLabel icon={LayoutGrid} text={label.collections} />
-      </Link>
+      </HashLink>
 
       <a href={`tel:${SITE_CONTACT.phoneTel}`} className={`${tabClass} text-ivory/85`}>
         <TabLabel icon={Phone} text={label.call} />
