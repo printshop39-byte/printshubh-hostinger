@@ -128,7 +128,6 @@ export default async function WallpaperCategoryPage({
               q={q}
               tag={tag}
               tone="dark"
-              placeholder={`Search ${category.name}`}
             />
           </div>
         </div>
