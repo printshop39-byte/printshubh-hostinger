@@ -6,22 +6,22 @@ import { collectionBySlug } from "@/lib/collections";
 const PATH = "/collections/rexine-pu-leatherette-printing";
 
 export const metadata: Metadata = {
-  title: "रेक्झिन / PU लेदरेट प्रिंटिंग | Premium Collection",
+  title: "Rexine / PU Leatherette Printing | Premium Collection",
   description:
-    "रेक्झिन व PU लेदरेट पृष्ठभागावर सानुकूल डिझाइन प्रिंट — फर्निचर, हेडबोर्ड व कव्हरसाठी. किंमत WhatsApp वर कळवली जाते.",
+    "Custom design printing on rexine / PU leatherette — for furniture, headboards and covers. Price shared on WhatsApp.",
   alternates: { canonical: PATH },
   openGraph: {
     type: "article",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: PATH,
     siteName: "PrintShubh",
-    title: "रेक्झिन / PU लेदरेट प्रिंटिंग | PRINTSHUBH Premium Print & Visual Studio",
-    description: "रेक्झिन व PU लेदरेट पृष्ठभागावर सानुकूल डिझाइन प्रिंट — फर्निचर, हेडबोर्ड व कव्हरसाठी. किंमत WhatsApp वर कळवली जाते.",
+    title: "Rexine / PU Leatherette Printing | PRINTSHUBH Premium Print & Visual Studio",
+    description: "Custom design printing on rexine / PU leatherette — for furniture, headboards and covers. Price shared on WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "रेक्झिन / PU लेदरेट प्रिंटिंग | PRINTSHUBH",
-    description: "रेक्झिन व PU लेदरेट पृष्ठभागावर सानुकूल डिझाइन प्रिंट — फर्निचर, हेडबोर्ड व कव्हरसाठी. किंमत WhatsApp वर कळवली जाते.",
+    title: "Rexine / PU Leatherette Printing | PRINTSHUBH",
+    description: "Custom design printing on rexine / PU leatherette — for furniture, headboards and covers. Price shared on WhatsApp.",
   },
 };
 
@@ -31,10 +31,10 @@ export default function Page() {
     <>
       <ServiceJsonLd
         path={PATH}
-        serviceName="रेक्झिन / PU लेदरेट प्रिंटिंग"
+        serviceName="Rexine / PU Leatherette Printing"
         serviceNameEn="Rexine / PU Leatherette Printing"
         description="Custom design printing on rexine / PU leatherette — for furniture, headboards and covers. Price shared on WhatsApp."
-        breadcrumbLabel="रेक्झिन / PU लेदरेट प्रिंटिंग"
+        breadcrumbLabel="Rexine / PU Leatherette Printing"
       />
       <CollectionPageShell collection={collection} />
     </>

@@ -12,11 +12,12 @@
  * land-document services. Do not add a `priceFrom` field and start
  * guessing figures.
  *
- * NO PHOTOS LISTED HERE EITHER. Real product/sample photography for these
- * collections does not exist in this repo yet (owner decision: no stock
- * photos, no fabricated production samples). Each collection page renders
- * a typography-first visual (components/shop/collection-visual.tsx) until
- * real photos are added — see CollectionPhoto below for the future slot.
+ * PHOTOS: no stock photos and no fabricated "this is our finished work"
+ * samples (owner decision). Owner-made design images MAY be listed when the
+ * collection sets `photosAreDesignPreviews: true`: the page then labels them
+ * "Design examples" with an "AI-assisted design previews" note (owner decision
+ * 2026-11-26, first used on Wall Paintings & Wall Art). Collections without
+ * photos keep the typography-first visual (components/shop/collection-visual.tsx).
  */
 
 import type { Lang } from "@/components/language-context";
@@ -61,6 +62,9 @@ export interface Collection {
    * add or rename an option here without the same confirmation. */
   materialOptions: Record<Lang, string>[];
   photos: CollectionPhoto[];
+  /** True when `photos` are design previews (owner-made, AI-assisted), not
+   * photos of finished work: the page labels them as such. */
+  photosAreDesignPreviews?: boolean;
   /** Pre-filled WhatsApp enquiry message for the main CTA. */
   whatsappMessage: Record<Lang, string>;
   /** Pre-filled WhatsApp message for the "custom size" CTA. */
@@ -169,7 +173,36 @@ export const COLLECTIONS: Collection[] = [
       { mr: "सिंगल पॅनल", en: "Single Panel" },
       { mr: "मल्टी पॅनल", en: "Multi Panel" },
     ],
-    photos: [],
+    photos: [
+      {
+        src: "/collections/wall-paintings-wall-art/geometric-golden-lion-1600.webp",
+        width: 1600,
+        height: 900,
+        alt: {
+          mr: "भौमितिक सोनेरी सिंह — वॉल आर्ट डिझाइन प्रिव्ह्यू",
+          en: "Geometric golden lion portrait — wall art design preview",
+        },
+      },
+      {
+        src: "/collections/wall-paintings-wall-art/heritage-procession-1600.webp",
+        width: 1600,
+        height: 900,
+        alt: {
+          mr: "भारतीय लोककलेपासून प्रेरित मिरवणूक — वॉल आर्ट डिझाइन प्रिव्ह्यू",
+          en: "Indian heritage-inspired procession in gold on teal — wall art design preview",
+        },
+      },
+      {
+        src: "/collections/wall-paintings-wall-art/pichwai-kamadhenu-peacocks-1600.webp",
+        width: 1600,
+        height: 900,
+        alt: {
+          mr: "पिछवाई शैलीपासून प्रेरित कामधेनू आणि मोर — वॉल आर्ट डिझाइन प्रिव्ह्यू",
+          en: "Pichwai-inspired Kamadhenu with calf and peacocks — wall art design preview",
+        },
+      },
+    ],
+    photosAreDesignPreviews: true,
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला वॉल आर्ट प्रिंटिंगबद्दल माहिती हवी आहे.",
       en: "Hello PrintShubh, I'd like to know more about wall art printing.",

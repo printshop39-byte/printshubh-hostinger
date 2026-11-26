@@ -6,22 +6,22 @@ import { collectionBySlug } from "@/lib/collections";
 const PATH = "/collections/premium-framed-prints";
 
 export const metadata: Metadata = {
-  title: "प्रीमियम फ्रेम्ड प्रिंट्स | Premium Collection",
+  title: "Premium Framed Prints | Premium Collection",
   description:
-    "प्रिंट + फ्रेमिंग, भिंतीवर लावण्यासाठी तयार — घर, ऑफिस व भेटवस्तूंसाठी. किंमत WhatsApp वर कळवली जाते.",
+    "Print plus framing, ready to hang — for home, office and gifts. Price shared on WhatsApp.",
   alternates: { canonical: PATH },
   openGraph: {
     type: "article",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: PATH,
     siteName: "PrintShubh",
-    title: "प्रीमियम फ्रेम्ड प्रिंट्स | PRINTSHUBH Premium Print & Visual Studio",
-    description: "प्रिंट + फ्रेमिंग, भिंतीवर लावण्यासाठी तयार — घर, ऑफिस व भेटवस्तूंसाठी. किंमत WhatsApp वर कळवली जाते.",
+    title: "Premium Framed Prints | PRINTSHUBH Premium Print & Visual Studio",
+    description: "Print plus framing, ready to hang — for home, office and gifts. Price shared on WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "प्रीमियम फ्रेम्ड प्रिंट्स | PRINTSHUBH",
-    description: "प्रिंट + फ्रेमिंग, भिंतीवर लावण्यासाठी तयार — घर, ऑफिस व भेटवस्तूंसाठी. किंमत WhatsApp वर कळवली जाते.",
+    title: "Premium Framed Prints | PRINTSHUBH",
+    description: "Print plus framing, ready to hang — for home, office and gifts. Price shared on WhatsApp.",
   },
 };
 
@@ -31,10 +31,10 @@ export default function Page() {
     <>
       <ServiceJsonLd
         path={PATH}
-        serviceName="प्रीमियम फ्रेम्ड प्रिंट्स"
+        serviceName="Premium Framed Prints"
         serviceNameEn="Premium Framed Prints"
         description="Print plus framing, ready to hang — for home, office and gifts. Price shared on WhatsApp."
-        breadcrumbLabel="प्रीमियम फ्रेम्ड प्रिंट्स"
+        breadcrumbLabel="Premium Framed Prints"
       />
       <CollectionPageShell collection={collection} />
     </>
