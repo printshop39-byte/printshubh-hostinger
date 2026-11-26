@@ -5,6 +5,7 @@ import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
+import { ContactQuickEnquiry } from "@/components/contact-quick-enquiry";
 import { SITE_CONTACT } from "@/components/site-footer";
 import { GOOGLE_PROFILE_URL, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
@@ -22,8 +23,6 @@ const tx: {
   cardStudioSub: string;
   directions: string;
   openMaps: string;
-  whatToSendTitle: string;
-  whatToSend: string[];
   trustLine: string;
   hoursTitle: string;
   hours: string;
@@ -46,8 +45,6 @@ const tx: {
   cardStudioSub: "Visit us in Kolhapur",
   directions: "Get directions",
   openMaps: "Open in Google Maps",
-  whatToSendTitle: "What to send on WhatsApp",
-  whatToSend: ["Your file or design", "The size you need", "Number of copies"],
   trustLine:
     "Premium printing for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
   hoursTitle: "Working hours",
@@ -91,6 +88,9 @@ function ContactBody({
         <ShieldCheck className="mr-1.5 inline size-4 text-brand-navy" />
         {t.trustLine}
       </div>
+
+      {/* Quick Enquiry Form — top of the page (owner decision 2026-11-27). */}
+      <ContactQuickEnquiry />
 
       {/* 4 contact cards */}
       <div className="mb-8 grid gap-3 sm:grid-cols-2">
@@ -157,17 +157,6 @@ function ContactBody({
         </div>
       )}
 
-      <LegalSection heading={t.whatToSendTitle}>
-        <ul className="ml-5 list-disc space-y-1.5 marker:text-brand-gold">
-          {t.whatToSend.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ul>
-        <a href={waHref} target="_blank" rel="noopener noreferrer" className="btn btn-forest mt-2 inline-flex">
-          <MessageCircle className="size-4" aria-hidden="true" />
-          {t.cardWaCta}
-        </a>
-      </LegalSection>
 
       <LegalSection heading={t.whenToCallTitle}>
         <p>{t.whenToCallBody}</p>

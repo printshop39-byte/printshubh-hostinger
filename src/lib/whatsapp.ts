@@ -10,6 +10,10 @@ export const WHATSAPP_NUMBER = "918625801907";
 /** Display form for tel:/print contexts. */
 export const WHATSAPP_DISPLAY = "+91 86258 01907";
 
+/** Number that receives the Contact page's Quick Enquiry Form messages only
+ * (owner decision 2026-11-27). Every other WhatsApp link keeps WHATSAPP_NUMBER. */
+export const ENQUIRY_WHATSAPP_NUMBER = "917447411355";
+
 /** Standard primary CTA label. */
 export const WHATSAPP_CTA = "Ask on WhatsApp — know the price first";
 
@@ -28,6 +32,8 @@ export type WhatsAppLinkOptions = {
   medium?: string;
   /** utm_content — only to distinguish two CTAs in the same surface. */
   content?: string;
+  /** Recipient (digits with country code). Defaults to WHATSAPP_NUMBER. */
+  number?: string;
 };
 
 /**
@@ -49,6 +55,7 @@ export function buildWhatsAppUrl(options: WhatsAppLinkOptions = {}): string {
     source = "printshubh",
     medium = "website",
     content,
+    number = WHATSAPP_NUMBER,
   } = options;
 
   const params = [`text=${encodeURIComponent(message)}`];
@@ -57,7 +64,7 @@ export function buildWhatsAppUrl(options: WhatsAppLinkOptions = {}): string {
   if (campaign) params.push(`utm_campaign=${encodeURIComponent(campaign)}`);
   if (content) params.push(`utm_content=${encodeURIComponent(content)}`);
 
-  return `https://wa.me/${WHATSAPP_NUMBER}?${params.join("&")}`;
+  return `https://wa.me/${number}?${params.join("&")}`;
 }
 
 /**
