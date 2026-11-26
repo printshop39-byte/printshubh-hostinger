@@ -62,7 +62,7 @@ export const CATEGORIES: WallpaperCategory[] = [
     name: "Nature & Landscapes",
     description: "Mountains, forests and valleys, printed as wide scenic murals.",
     sortOrder: 5,
-    coverDesignId: "WP-012",
+    coverDesignId: "WP-011",
     active: true,
   },
   {
@@ -70,7 +70,7 @@ export const CATEGORIES: WallpaperCategory[] = [
     name: "Kids & Nursery",
     description: "Gentle, playful scenes for children's rooms and nurseries.",
     sortOrder: 6,
-    coverDesignId: "WP-015",
+    coverDesignId: "WP-014",
     active: true,
   },
   {
@@ -123,11 +123,10 @@ export const DESIGNS: WallpaperDesign[] = [
   D("WP-009", "Abstract Living", "abstract-modern", ["modern", "abstract", "living-room"], "Earthy abstract shapes for a modern living room.", "2026-11-10"),
   D("WP-010", "Abstract Metallic Geometry", "abstract-modern", ["modern", "geometric", "metallic"], "Arched, layered forms in warm greige.", "2026-11-09"),
   D("WP-019", "Zen Cloud Symphony", "abstract-modern", ["modern", "abstract", "soft"], "Drifting cloud lines in quiet neutrals.", "2026-11-08"),
-  /* WP-011 and WP-014: hidden (draft) until their rights and similarity checks are done. */
-  { ...D("WP-011", "Misty Mountain Paradise", "nature-landscapes", ["landscape", "mountains", "mural"], "A misty mountain lake at sunrise.", "2026-11-07", true), status: "draft" },
+  D("WP-011", "Misty Mountain Paradise", "nature-landscapes", ["landscape", "mountains", "mural"], "A misty mountain lake at sunrise.", "2026-11-07", true),
   D("WP-012", "Golden Whispering Forest", "nature-landscapes", ["landscape", "forest", "mural"], "A sunlit woodland path between old oaks.", "2026-11-06"),
   D("WP-013", "The Silent Valley", "nature-landscapes", ["landscape", "valley", "modern"], "Rolling hills and a winding river.", "2026-11-05"),
-  { ...D("WP-014", "Whimsical Kids World", "kids-nursery", ["kids", "nursery", "playful"], "Friendly animals under hot-air balloons.", "2026-11-04", true), status: "draft" },
+  D("WP-014", "Whimsical Kids World", "kids-nursery", ["kids", "nursery", "playful"], "Friendly animals under hot-air balloons.", "2026-11-04", true),
   D("WP-015", "Safari Dreams", "kids-nursery", ["kids", "animals", "soft"], "A gentle safari of elephants, giraffes and lions.", "2026-11-03"),
   D("WP-016", "Contemporary Fluid Marble", "marble-texture", ["marble", "texture", "modern"], "Flowing marble veining in soft taupe.", "2026-11-02"),
   D("WP-017", "Sculpted Botanical Plaster", "marble-texture", ["texture", "plaster", "botanical"], "Sculpted leaf relief in pale plaster.", "2026-11-01"),
