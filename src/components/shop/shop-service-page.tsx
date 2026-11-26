@@ -28,9 +28,9 @@ import { ShopGallery } from "@/components/shop/shop-gallery";
 import { VisitShop } from "@/components/shop/visit-shop";
 import { Magnetic, Reveal, Stagger, StaggerItem } from "@/components/shop/motion";
 
-const chrome: { home: string; services: string; whatIs: string; askPrice: string; faqHeading: string } = {
+const chrome: { home: string; breadcrumb: string; whatIs: string; askPrice: string; faqHeading: string } = {
   home: "Home",
-  services: "Services",
+  breadcrumb: "Breadcrumb",
   whatIs: "What you can get",
   askPrice: "Ask the price on WhatsApp",
   faqHeading: "Frequently asked questions",
@@ -76,7 +76,7 @@ export function ShopServicePage({
         <section className="ps-hero-wash border-b border-slate-200 px-5 pb-14 pt-10 sm:px-8 lg:pb-20 lg:pt-14">
           <div className="mx-auto max-w-5xl">
             <nav
-              aria-label={c.services}
+              aria-label={c.breadcrumb}
               className="flex items-center gap-1.5 text-xs font-bold text-slate-500"
             >
               <Link
@@ -85,10 +85,6 @@ export function ShopServicePage({
               >
                 <Home className="size-3.5" aria-hidden="true" />
                 {c.home}
-              </Link>
-              <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />
-              <Link href="/#services" className="py-3.5 -my-3.5 transition hover:text-brand-navy">
-                {c.services}
               </Link>
               <ChevronRight className="size-3 text-slate-400" aria-hidden="true" />
               <span className="text-slate-700">{group.title.en}</span>
