@@ -8,22 +8,22 @@ import { COLLECTION_COLLAGE_IDS, getShowcase } from "@/lib/wallpapers/showcase";
 const PATH = "/collections/premium-wallpaper-printing";
 
 export const metadata: Metadata = {
-  title: "प्रीमियम वॉलपेपर प्रिंटिंग | Premium Collection",
+  title: "Premium Wallpaper Printing | Premium Collection",
   description:
-    "घर, ऑफिस किंवा दुकानासाठी सानुकूल डिझाइन वॉलपेपर प्रिंटिंग — तुमची डिझाइन/फोटो, मापानुसार प्रिंट. किंमत WhatsApp वर कळवली जाते.",
+    "Custom-design wallpaper printing for homes, offices and shops — your design or photo, printed to size. Price shared on WhatsApp.",
   alternates: { canonical: PATH },
   openGraph: {
     type: "article",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: PATH,
     siteName: "PrintShubh",
-    title: "प्रीमियम वॉलपेपर प्रिंटिंग | PRINTSHUBH Premium Print & Visual Studio",
-    description: "घर, ऑफिस किंवा दुकानासाठी सानुकूल डिझाइन वॉलपेपर प्रिंटिंग — तुमची डिझाइन/फोटो, मापानुसार प्रिंट. किंमत WhatsApp वर कळवली जाते.",
+    title: "Premium Wallpaper Printing | PRINTSHUBH Premium Print & Visual Studio",
+    description: "Custom-design wallpaper printing for homes, offices and shops — your design or photo, printed to size. Price shared on WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "प्रीमियम वॉलपेपर प्रिंटिंग | PRINTSHUBH",
-    description: "घर, ऑफिस किंवा दुकानासाठी सानुकूल डिझाइन वॉलपेपर प्रिंटिंग — तुमची डिझाइन/फोटो, मापानुसार प्रिंट. किंमत WhatsApp वर कळवली जाते.",
+    title: "Premium Wallpaper Printing | PRINTSHUBH",
+    description: "Custom-design wallpaper printing for homes, offices and shops — your design or photo, printed to size. Price shared on WhatsApp.",
   },
 };
 
@@ -36,10 +36,10 @@ export default async function Page() {
     <>
       <ServiceJsonLd
         path={PATH}
-        serviceName="प्रीमियम वॉलपेपर प्रिंटिंग"
+        serviceName="Premium Wallpaper Printing"
         serviceNameEn="Premium Wallpaper Printing"
         description="Custom-design wallpaper printing for homes, offices and shops — your design or photo, printed to size. Price shared on WhatsApp."
-        breadcrumbLabel="प्रीमियम वॉलपेपर प्रिंटिंग"
+        breadcrumbLabel="Premium Wallpaper Printing"
       />
       <CollectionPageShell
         collection={collection}

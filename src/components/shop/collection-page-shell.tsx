@@ -34,6 +34,8 @@ const t: {
   appsHeading: string;
   materialHeading: string;
   galleryHeading: string;
+  previewHeading: string;
+  previewNote: string;
   customSizeHeading: string;
   customSizeBody: string;
   ctaAsk: string;
@@ -68,6 +70,8 @@ const t: {
   appsHeading: "Where it's used",
   materialHeading: "Material information",
   galleryHeading: "Samples",
+  previewHeading: "Design examples — printed to your wall size",
+  previewNote: "AI-assisted design previews. Final size, material and finish are confirmed on WhatsApp before printing.",
   customSizeHeading: "Need a custom size?",
   customSizeBody: "Send your measurements on WhatsApp — price and availability will be confirmed.",
   ctaAsk: "Get Quote / WhatsApp Enquiry",
@@ -237,6 +241,21 @@ export function CollectionPageShell({
               <Reveal delay={0.1}>
                 {heroVisual ? (
                   <div className="w-full">{heroVisual}</div>
+                ) : collection.photosAreDesignPreviews && collection.photos[0] ? (
+                  <figure className="w-full">
+                    <div className="aspect-[16/9] w-full overflow-hidden rounded-2xl border border-brand-gold-light bg-slate-100 shadow-sm">
+                      <Image
+                        src={collection.photos[0].src}
+                        alt={collection.photos[0].alt.en}
+                        width={collection.photos[0].width}
+                        height={collection.photos[0].height}
+                        priority
+                        sizes="(max-width: 1024px) 100vw, 40rem"
+                        className="h-full w-full object-cover"
+                      />
+                    </div>
+                    <figcaption className="mt-2 text-xs font-semibold text-slate-500">{tx.previewNote}</figcaption>
+                  </figure>
                 ) : (
                   <div className="aspect-[4/3] w-full">
                     <CollectionVisual collectionKey={collection.key} shortTitle={collection.shortTitle.en} />
@@ -291,15 +310,18 @@ export function CollectionPageShell({
             <Reveal delay={0.1}>
               <div className="mx-auto mt-10 max-w-6xl">
                 <h2 className="text-sm font-black uppercase tracking-[0.12em] text-slate-500">
-                  {tx.galleryHeading}
+                  {collection.photosAreDesignPreviews ? tx.previewHeading : tx.galleryHeading}
                 </h2>
+                {collection.photosAreDesignPreviews && (
+                  <p className="mt-1 text-xs font-semibold text-slate-500">{tx.previewNote}</p>
+                )}
                 <ul className="ps-scroll-x mt-4 flex gap-4 pb-2">
                   {collection.photos.map((photo) => (
                     <li
                       key={photo.src}
                       className="ps-snap w-[78vw] shrink-0 overflow-hidden rounded-2xl border border-slate-200 bg-slate-100 shadow-sm sm:w-[46vw] lg:w-[22rem]"
                     >
-                      <div className="aspect-[4/3] overflow-hidden">
+                      <div className={`${collection.photosAreDesignPreviews ? "aspect-[16/9]" : "aspect-[4/3]"} overflow-hidden`}>
                         <Image
                           src={photo.src}
                           alt={photo.alt.en}

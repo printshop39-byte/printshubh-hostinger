@@ -6,22 +6,22 @@ import { collectionBySlug } from "@/lib/collections";
 const PATH = "/collections/premium-vinyl-printing";
 
 export const metadata: Metadata = {
-  title: "प्रीमियम व्हिनाइल प्रिंटिंग | Premium Collection",
+  title: "Premium Vinyl Printing | Premium Collection",
   description:
-    "दुकान साइनेज, बॅनर व भिंत/खिडकी ग्राफिक्ससाठी टिकाऊ व्हिनाइल प्रिंट. किंमत WhatsApp वर कळवली जाते.",
+    "Durable vinyl printing for shop signage, banners and wall/window graphics. Price shared on WhatsApp.",
   alternates: { canonical: PATH },
   openGraph: {
     type: "article",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: PATH,
     siteName: "PrintShubh",
-    title: "प्रीमियम व्हिनाइल प्रिंटिंग | PRINTSHUBH Premium Print & Visual Studio",
-    description: "दुकान साइनेज, बॅनर व भिंत/खिडकी ग्राफिक्ससाठी टिकाऊ व्हिनाइल प्रिंट. किंमत WhatsApp वर कळवली जाते.",
+    title: "Premium Vinyl Printing | PRINTSHUBH Premium Print & Visual Studio",
+    description: "Durable vinyl printing for shop signage, banners and wall/window graphics. Price shared on WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "प्रीमियम व्हिनाइल प्रिंटिंग | PRINTSHUBH",
-    description: "दुकान साइनेज, बॅनर व भिंत/खिडकी ग्राफिक्ससाठी टिकाऊ व्हिनाइल प्रिंट. किंमत WhatsApp वर कळवली जाते.",
+    title: "Premium Vinyl Printing | PRINTSHUBH",
+    description: "Durable vinyl printing for shop signage, banners and wall/window graphics. Price shared on WhatsApp.",
   },
 };
 
@@ -31,10 +31,10 @@ export default function Page() {
     <>
       <ServiceJsonLd
         path={PATH}
-        serviceName="प्रीमियम व्हिनाइल प्रिंटिंग"
+        serviceName="Premium Vinyl Printing"
         serviceNameEn="Premium Vinyl Printing"
         description="Durable vinyl printing for shop signage, banners and wall/window graphics. Price shared on WhatsApp."
-        breadcrumbLabel="प्रीमियम व्हिनाइल प्रिंटिंग"
+        breadcrumbLabel="Premium Vinyl Printing"
       />
       <CollectionPageShell collection={collection} />
     </>

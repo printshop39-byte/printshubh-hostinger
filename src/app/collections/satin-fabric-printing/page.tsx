@@ -6,22 +6,22 @@ import { collectionBySlug } from "@/lib/collections";
 const PATH = "/collections/satin-fabric-printing";
 
 export const metadata: Metadata = {
-  title: "साटीन फॅब्रिक प्रिंटिंग | Premium Collection",
+  title: "Satin Fabric Printing | Premium Collection",
   description:
-    "साटीन फॅब्रिकवर चमकदार प्रिंट फिनिश — इव्हेंट बॅकड्रॉप व सजावटीसाठी. किंमत WhatsApp वर कळवली जाते.",
+    "A smooth, lustrous print finish on satin fabric — for event backdrops and decor. Price shared on WhatsApp.",
   alternates: { canonical: PATH },
   openGraph: {
     type: "article",
-    locale: "mr_IN",
+    locale: "en_IN",
     url: PATH,
     siteName: "PrintShubh",
-    title: "साटीन फॅब्रिक प्रिंटिंग | PRINTSHUBH Premium Print & Visual Studio",
-    description: "साटीन फॅब्रिकवर चमकदार प्रिंट फिनिश — इव्हेंट बॅकड्रॉप व सजावटीसाठी. किंमत WhatsApp वर कळवली जाते.",
+    title: "Satin Fabric Printing | PRINTSHUBH Premium Print & Visual Studio",
+    description: "A smooth, lustrous print finish on satin fabric — for event backdrops and decor. Price shared on WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "साटीन फॅब्रिक प्रिंटिंग | PRINTSHUBH",
-    description: "साटीन फॅब्रिकवर चमकदार प्रिंट फिनिश — इव्हेंट बॅकड्रॉप व सजावटीसाठी. किंमत WhatsApp वर कळवली जाते.",
+    title: "Satin Fabric Printing | PRINTSHUBH",
+    description: "A smooth, lustrous print finish on satin fabric — for event backdrops and decor. Price shared on WhatsApp.",
   },
 };
 
@@ -31,10 +31,10 @@ export default function Page() {
     <>
       <ServiceJsonLd
         path={PATH}
-        serviceName="साटीन फॅब्रिक प्रिंटिंग"
+        serviceName="Satin Fabric Printing"
         serviceNameEn="Satin Fabric Printing"
         description="A smooth, lustrous print finish on satin fabric — for event backdrops and decor. Price shared on WhatsApp."
-        breadcrumbLabel="साटीन फॅब्रिक प्रिंटिंग"
+        breadcrumbLabel="Satin Fabric Printing"
       />
       <CollectionPageShell collection={collection} />
     </>
