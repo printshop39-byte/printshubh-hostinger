@@ -276,7 +276,45 @@ export const COLLECTIONS: Collection[] = [
       { mr: "टेक्स्चर्ड", en: "Textured" },
       { mr: "प्लेन", en: "Plain" },
     ],
-    photos: [],
+    photos: [
+      {
+        src: "/collections/rexine-pu-leatherette-printing/cream-flowers-green-gold-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "हिरव्या पानांवर क्रीम फुले, सोनेरी रेषा — रेक्झिन डिझाइन प्रिव्ह्यू",
+          en: "Cream flowers on deep green leaves with gold accents — Rexine design preview",
+        },
+      },
+      {
+        src: "/collections/rexine-pu-leatherette-printing/blue-gold-marble-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "निळा व सोनेरी मार्बल — रेक्झिन डिझाइन प्रिव्ह्यू",
+          en: "Blue and gold marble — Rexine design preview",
+        },
+      },
+      {
+        src: "/collections/rexine-pu-leatherette-printing/ginkgo-art-deco-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "जिंगको पाने, आर्ट-डेको शैली — रेक्झिन डिझाइन प्रिव्ह्यू",
+          en: "Ginkgo leaves in an art-deco pattern — Rexine design preview",
+        },
+      },
+      {
+        src: "/collections/rexine-pu-leatherette-printing/daisies-3d-relief-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "3D रिलीफ शैलीतील डेझी फुले — रेक्झिन डिझाइन प्रिव्ह्यू",
+          en: "Daisies in a 3D relief style — Rexine design preview",
+        },
+      },
+    ],
+    photosAreDesignPreviews: true,
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला रेक्झिन/PU लेदरेट प्रिंटिंगबद्दल माहिती हवी आहे.",
       en: "Hello PrintShubh, I'd like to know more about rexine / PU leatherette printing.",
@@ -311,7 +349,45 @@ export const COLLECTIONS: Collection[] = [
     materialOptions: [
       { mr: "प्लेन साटीन", en: "Plain Satin" },
     ],
-    photos: [],
+    photos: [
+      {
+        src: "/collections/satin-fabric-printing/soft-sunset-hills-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "सौम्य सूर्यास्त व डोंगर — साटीन डिझाइन प्रिव्ह्यू",
+          en: "Soft sunset over misty hills — satin design preview",
+        },
+      },
+      {
+        src: "/collections/satin-fabric-printing/gold-contour-lines-1200.webp",
+        width: 1200,
+        height: 1703,
+        alt: {
+          mr: "हिरव्यावर सोनेरी कंटूर रेषा — साटीन डिझाइन प्रिव्ह्यू",
+          en: "Gold contour lines on deep green — satin design preview",
+        },
+      },
+      {
+        src: "/collections/satin-fabric-printing/folk-fish-pattern-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "लोककलेपासून प्रेरित मासे व फुले — साटीन डिझाइन प्रिव्ह्यू",
+          en: "Folk-inspired fish and flower pattern — satin design preview",
+        },
+      },
+      {
+        src: "/collections/satin-fabric-printing/lotus-on-navy-1600.webp",
+        width: 1600,
+        height: 1127,
+        alt: {
+          mr: "नेव्हीवर कमळ पॅटर्न — साटीन डिझाइन प्रिव्ह्यू",
+          en: "Lotus pattern on navy — satin design preview",
+        },
+      },
+    ],
+    photosAreDesignPreviews: true,
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला साटीन फॅब्रिक प्रिंटिंगबद्दल माहिती हवी आहे.",
       en: "Hello PrintShubh, I'd like to know more about satin fabric printing.",
@@ -383,7 +459,45 @@ export const COLLECTIONS: Collection[] = [
     materialOptions: [
       { mr: "इनडोअर", en: "Indoor" },
     ],
-    photos: [],
+    photos: [
+      {
+        src: "/collections/premium-vinyl-printing/marble-lion-1600.webp",
+        width: 1600,
+        height: 1128,
+        alt: {
+          mr: "काळ्या मार्बलवर पांढरा मार्बल सिंह — व्हिनाइल डिझाइन प्रिव्ह्यू",
+          en: "White marble lion on black marble — vinyl design preview",
+        },
+      },
+      {
+        src: "/collections/premium-vinyl-printing/fossil-stone-relief-1600.webp",
+        width: 1600,
+        height: 1128,
+        alt: {
+          mr: "दगडावर पाने व फर्नचा रिलीफ — व्हिनाइल डिझाइन प्रिव्ह्यू",
+          en: "Fern and leaf relief in stone — vinyl design preview",
+        },
+      },
+      {
+        src: "/collections/premium-vinyl-printing/stone-waves-1600.webp",
+        width: 1600,
+        height: 1128,
+        alt: {
+          mr: "मार्बल व दगडाच्या लाटा — व्हिनाइल डिझाइन प्रिव्ह्यू",
+          en: "Layered stone and marble waves — vinyl design preview",
+        },
+      },
+      {
+        src: "/collections/premium-vinyl-printing/peacock-feathers-1600.webp",
+        width: 1600,
+        height: 1128,
+        alt: {
+          mr: "मोरपिसे — व्हिनाइल डिझाइन प्रिव्ह्यू",
+          en: "Peacock feathers — vinyl design preview",
+        },
+      },
+    ],
+    photosAreDesignPreviews: true,
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला व्हिनाइल प्रिंटिंगबद्दल माहिती हवी आहे.",
       en: "Hello PrintShubh, I'd like to know more about vinyl printing.",
