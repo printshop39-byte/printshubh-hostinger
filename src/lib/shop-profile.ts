@@ -196,12 +196,12 @@ export interface GoogleReview {
 export const GOOGLE_PROFILE_URL: string | null =
   "https://www.google.com/maps?cid=356093302010606742";
 
-/* Aggregate figures read off the profile on 2026-08-23: "4.9 ★ 32 Google
- * reviews". Both are set, so the rating renders AND enters aggregateRating
+/* Aggregate figures read off the profile on 2026-11-26: "4.9 ★ 43 Google
+ * reviews" (owner screenshot; was 32 on 2026-08-23). Both are set, so the rating renders AND enters aggregateRating
  * in the PrintShop schema. Refresh them together — a stale count next to a
  * live rating is what Google flags. */
 export const GOOGLE_RATING: number | null = 4.9;
-export const GOOGLE_REVIEW_COUNT: number | null = 32;
+export const GOOGLE_REVIEW_COUNT: number | null = 43;
 
 /* Still empty, deliberately. Only one review was legible in the screenshots
  * — "I Give 5 For service and the Fine Quality of work." (5★) — and the

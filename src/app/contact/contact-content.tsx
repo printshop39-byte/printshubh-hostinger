@@ -1,11 +1,12 @@
 "use client";
 
-import { Mail, MapPin, MessageCircle, Phone, ShieldCheck } from "lucide-react";
+import { ExternalLink, Mail, MapPin, MessageCircle, Navigation, Phone, ShieldCheck } from "lucide-react";
 import {
   LegalPageShell,
   LegalSection,
 } from "@/components/legal-page-shell";
 import { SITE_CONTACT } from "@/components/site-footer";
+import { GOOGLE_PROFILE_URL, SHOP_ADDRESS } from "@/lib/shop-profile";
 import { buildWhatsAppUrl } from "@/lib/whatsapp";
 
 const tx: {
@@ -17,8 +18,12 @@ const tx: {
   cardWaCta: string;
   cardEmailTitle: string;
   cardEmailSub: string;
-  cardServiceAreaTitle: string;
-  cardServiceAreaBody: string;
+  cardStudioTitle: string;
+  cardStudioSub: string;
+  directions: string;
+  openMaps: string;
+  whatToSendTitle: string;
+  whatToSend: string[];
   trustLine: string;
   hoursTitle: string;
   hours: string;
@@ -37,8 +42,12 @@ const tx: {
   cardWaCta: "Open WhatsApp",
   cardEmailTitle: "Email",
   cardEmailSub: "For longer queries",
-  cardServiceAreaTitle: "Service Area",
-  cardServiceAreaBody: "Online / WhatsApp assistance across Maharashtra",
+  cardStudioTitle: "Studio",
+  cardStudioSub: "Visit us in Kolhapur",
+  directions: "Get directions",
+  openMaps: "Open in Google Maps",
+  whatToSendTitle: "What to send on WhatsApp",
+  whatToSend: ["Your file or design", "The size you need", "Number of copies"],
   trustLine:
     "Premium printing for Maharashtra. PRINTSHUBH has served customers in Kolhapur since 1996.",
   hoursTitle: "Working hours",
@@ -46,7 +55,7 @@ const tx: {
   waMsg: "Hello, I would like to know about PrintShubh services.",
   whenToCallTitle: "When to contact",
   whenToCallBody:
-    "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, to ask about service fees, or if you face trouble using the website.",
+    "For any Wallpaper, Canvas, Wall Art, Rexine, Satin Fabric, Framed Prints or Vinyl Print Collection enquiry, for CAD Prints (architectural, structural and engineering drawings), to ask about service fees, or if you face trouble using the website.",
   responseTitle: "Response time",
   responseBody:
     "Typical WhatsApp reply within 30 minutes. If we take longer, please bear with us — every query is answered.",
@@ -61,7 +70,7 @@ export function ContactContent() {
       title="Contact PrintShubh"
       breadcrumb="Contact"
       intro={t.intro}
-      updatedAt="May 2026"
+      updatedAt="November 2026"
       showServiceDisclaimer={false}
       content={<ContactBody t={t} waHref={waHref} />}
     />
@@ -111,14 +120,54 @@ function ContactBody({
           href={`mailto:${SITE_CONTACT.email}`}
           accent="slate"
         />
-        <ContactCard
-          icon={<MapPin className="size-5" />}
-          title={t.cardServiceAreaTitle}
-          subtitle={""}
-          primary={t.cardServiceAreaBody}
-          accent="slate"
-        />
+        {SHOP_ADDRESS && (
+          <ContactCard
+            icon={<MapPin className="size-5" />}
+            title={t.cardStudioTitle}
+            subtitle={t.cardStudioSub}
+            primary={SHOP_ADDRESS.lines.en.join(", ")}
+            accent="slate"
+          />
+        )}
       </div>
+
+      {/* Map links only (no embedded map): light page, opens the Maps app on phones. */}
+      {SHOP_ADDRESS && (
+        <div className="-mt-4 mb-8 flex flex-wrap gap-2.5">
+          <a
+            href={SHOP_ADDRESS.directionsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-forest"
+          >
+            <Navigation className="size-4" aria-hidden="true" />
+            {t.directions}
+          </a>
+          {GOOGLE_PROFILE_URL && (
+            <a
+              href={GOOGLE_PROFILE_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-secondary"
+            >
+              <ExternalLink className="size-4" aria-hidden="true" />
+              {t.openMaps}
+            </a>
+          )}
+        </div>
+      )}
+
+      <LegalSection heading={t.whatToSendTitle}>
+        <ul className="ml-5 list-disc space-y-1.5 marker:text-brand-gold">
+          {t.whatToSend.map((item) => (
+            <li key={item}>{item}</li>
+          ))}
+        </ul>
+        <a href={waHref} target="_blank" rel="noopener noreferrer" className="btn btn-forest mt-2 inline-flex">
+          <MessageCircle className="size-4" aria-hidden="true" />
+          {t.cardWaCta}
+        </a>
+      </LegalSection>
 
       <LegalSection heading={t.whenToCallTitle}>
         <p>{t.whenToCallBody}</p>
