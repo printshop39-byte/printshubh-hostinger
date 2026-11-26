@@ -71,8 +71,7 @@ function TermsBody() {
       <LegalSection heading="6. Governing law">
         <p>
           These terms are governed by Indian law. Any dispute is subject to
-          the exclusive jurisdiction of the competent courts in Maharashtra,
-          India.
+          the jurisdiction of the courts at Kolhapur, Maharashtra.
         </p>
       </LegalSection>
     </>

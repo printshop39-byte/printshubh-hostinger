@@ -60,6 +60,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE_URL}/terms`,      lastModified, changeFrequency: "yearly",  priority: 0.4 },
     { url: `${SITE_URL}/disclaimer`, lastModified, changeFrequency: "yearly",  priority: 0.4 },
     { url: `${SITE_URL}/refund`,     lastModified, changeFrequency: "yearly",  priority: 0.4 },
+    { url: `${SITE_URL}/wallpaper-terms`, lastModified, changeFrequency: "yearly", priority: 0.4 },
   ];
 
   /* Wallpaper design catalogue: the landing page and one page per active

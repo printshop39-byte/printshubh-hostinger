@@ -92,7 +92,10 @@ export function DesignDetail({
             </div>
             <p className="mt-3 text-xs font-semibold leading-5 text-slate-500">
               This is a preview image. Final colours, size and material are confirmed with you on WhatsApp before
-              printing.
+              printing.{" "}
+              <Link href="/wallpaper-terms" className="text-brand-navy underline underline-offset-2">
+                Wallpaper order terms
+              </Link>
             </p>
           </div>
         </div>
