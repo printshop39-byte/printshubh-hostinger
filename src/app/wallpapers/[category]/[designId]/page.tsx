@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
 
   const path = designUrl(design.categorySlug, design.id);
   const title = `${design.title} — Wallpaper Design ${design.id}`;
-  const description = `${design.title} (${design.id}), a ${category.name.toLowerCase()} wallpaper design by PRINTSHUBH. Enquire about pricing, material options and printing on WhatsApp.`;
+  const description = `${design.title} (${design.id}), a wallpaper design from the ${category.name} collection by PRINTSHUBH. Enquire about pricing, material options and printing on WhatsApp.`;
   return {
     title,
     description,
