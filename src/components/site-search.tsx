@@ -36,6 +36,7 @@ export function SiteSearch() {
   const [activeIndex, setActiveIndex] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
   const triggerRef = useRef<HTMLButtonElement>(null);
+  const dialogRef = useRef<HTMLDivElement>(null);
   const trackedRef = useRef(false);
 
   const results = useMemo(() => {
@@ -96,9 +97,41 @@ export function SiteSearch() {
     // Captured now: by the time cleanup runs, the ref may already point
     // elsewhere (or nowhere) if the trigger itself unmounted.
     const trigger = triggerRef.current;
+    const dialog = dialogRef.current;
+    /* Queried fresh on each Tab rather than cached: the result links change as the user
+     * types, and a stale list would trap focus on elements that no longer exist. */
+    const focusables = (): HTMLElement[] =>
+      dialog
+        ? Array.from(
+            dialog.querySelectorAll<HTMLElement>(
+              'a[href], button:not([disabled]), input, select, textarea, [tabindex]:not([tabindex="-1"])',
+            ),
+          ).filter((el) => el.offsetParent !== null)
+        : [];
     // Escape closes the overlay; the cleanup below hands focus back to the search button.
+    // Tab / Shift+Tab stay inside the dialog (the same trap as the mobile menu in
+    // site-header.tsx): the page behind is covered and scroll-locked, so focus must not leave.
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") close();
+      if (e.key === "Escape") {
+        close();
+        return;
+      }
+      if (e.key !== "Tab") return;
+      const items = focusables();
+      if (items.length === 0) return;
+      const first = items[0];
+      const last = items[items.length - 1];
+      const active = document.activeElement;
+      // Wrap at both ends, and pull focus back in if it has escaped.
+      if (e.shiftKey) {
+        if (active === first || !dialog?.contains(active)) {
+          e.preventDefault();
+          last.focus();
+        }
+      } else if (active === last || !dialog?.contains(active)) {
+        e.preventDefault();
+        first.focus();
+      }
     };
     window.addEventListener("keydown", onKey);
     return () => {
@@ -138,6 +171,7 @@ export function SiteSearch() {
 
       {open && (
         <div
+          ref={dialogRef}
           role="dialog"
           aria-modal="true"
           aria-label={searchLabel}
