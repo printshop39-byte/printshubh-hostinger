@@ -70,7 +70,7 @@ const t: {
   appsHeading: "Where it's used",
   materialHeading: "Material information",
   galleryHeading: "Samples",
-  previewHeading: "Design examples — printed to your wall size",
+  previewHeading: "Design examples — printed to your size",
   previewNote: "AI-assisted design previews. Final size, material and finish are confirmed on WhatsApp before printing.",
   customSizeHeading: "Need a custom size?",
   customSizeBody: "Send your measurements on WhatsApp — price and availability will be confirmed.",
