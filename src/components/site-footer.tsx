@@ -61,6 +61,7 @@ const tx = {
     { label: "Terms", href: "/terms" },
     { label: "Privacy", href: "/privacy" },
     { label: "Refunds", href: "/refund" },
+    { label: "Wallpaper Terms", href: "/wallpaper-terms" },
     { label: "Disclaimer", href: "/disclaimer" },
   ],
   waMsg: "Hello, I would like to know about PrintShubh services.",
