@@ -329,7 +329,7 @@ export function CollectionPageShell({
                           height={photo.height}
                           loading="lazy"
                           sizes="(max-width: 640px) 78vw, (max-width: 1024px) 46vw, 22rem"
-                          className="h-full w-full object-cover"
+                          className={`h-full w-full ${collection.photosAreDesignPreviews ? "object-contain" : "object-cover"}`}
                         />
                       </div>
                     </li>

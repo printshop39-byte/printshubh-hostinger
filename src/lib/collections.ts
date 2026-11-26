@@ -136,7 +136,45 @@ export const COLLECTIONS: Collection[] = [
       { mr: "ग्लॉसी", en: "Glossy" },
       { mr: "मॅट", en: "Matte" },
     ],
-    photos: [],
+    photos: [
+      {
+        src: "/collections/canvas-printing/textured-eye-gold-teal-1600.webp",
+        width: 1600,
+        height: 900,
+        alt: {
+          mr: "सोनेरी व टील रंगातील टेक्स्चर्ड डोळा — कॅनव्हास डिझाइन प्रिव्ह्यू",
+          en: "Textured blue-green eye in gold and teal — canvas design preview",
+        },
+      },
+      {
+        src: "/collections/canvas-printing/peony-teal-impasto-1400.webp",
+        width: 1400,
+        height: 1287,
+        alt: {
+          mr: "फुलदाणीतील पिओनी फुले, इम्पास्टो शैली — कॅनव्हास डिझाइन प्रिव्ह्यू",
+          en: "Peonies in a vase, impasto oil style — canvas design preview",
+        },
+      },
+      {
+        src: "/collections/canvas-printing/waterfall-impasto-1200.webp",
+        width: 1200,
+        height: 1600,
+        alt: {
+          mr: "इम्पास्टो शैलीतील धबधबा — कॅनव्हास डिझाइन प्रिव्ह्यू",
+          en: "Waterfall in textured impasto style — canvas design preview",
+        },
+      },
+      {
+        src: "/collections/canvas-printing/luxury-gold-circle-1300.webp",
+        width: 1300,
+        height: 1414,
+        alt: {
+          mr: "सोनेरी वर्तुळ, मिनिमल आधुनिक शैली — कॅनव्हास डिझाइन प्रिव्ह्यू",
+          en: "Minimal gold circle abstract — canvas design preview",
+        },
+      },
+    ],
+    photosAreDesignPreviews: true,
     whatsappMessage: {
       mr: "नमस्कार PrintShubh, मला कॅनव्हास प्रिंटिंगबद्दल माहिती हवी आहे.",
       en: "Hello PrintShubh, I'd like to know more about canvas printing.",
