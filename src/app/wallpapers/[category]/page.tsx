@@ -39,7 +39,7 @@ export async function generateMetadata({
   const page = Number(first(sp.page) ?? 1);
   const cover = await getDesign(category.coverDesignId);
   const title = `${category.name} Wallpaper Designs`;
-  const description = `${category.description} Browse ${category.name.toLowerCase()} wallpaper designs by PRINTSHUBH and enquire on WhatsApp.`;
+  const description = `${category.description} Browse ${category.name} wallpaper designs by PRINTSHUBH and enquire on WhatsApp.`;
   const path = categoryUrl(category.slug);
   return {
     title,
@@ -128,7 +128,7 @@ export default async function WallpaperCategoryPage({
               q={q}
               tag={tag}
               tone="dark"
-              placeholder={`Search ${category.name.toLowerCase()}`}
+              placeholder={`Search ${category.name}`}
             />
           </div>
         </div>
@@ -154,7 +154,7 @@ export default async function WallpaperCategoryPage({
             <p className="rounded-2xl border border-slate-200 bg-white p-6 text-slate-700">
               No designs here match your search.{" "}
               <Link href={path} className="font-bold text-brand-navy underline">
-                Show all {category.name.toLowerCase()}
+                Show all {category.name}
               </Link>
               .
             </p>
