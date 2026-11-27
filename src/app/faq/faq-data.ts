@@ -10,14 +10,18 @@ import type { Lang } from "@/components/language-context";
 
 export interface Qa {
   q: string;
+  /** Answer text — also used verbatim in the FAQPage JSON-LD. */
   a: string;
+  /** Optional link shown right after the answer on the page. */
+  link?: { href: string; label: string };
 }
 
 export const faqs: Record<Lang, Qa[]> = {
   mr: [
     {
       q: "माझी वैयक्तिक माहिती सुरक्षित आहे का?",
-      a: "होय. तुम्ही दिलेले फोन नंबर, माप, डिझाइन आणि इतर तपशील फक्त तुमच्या सेवेसाठीच वापरले जातात — विकले जात नाहीत, जाहिरातीसाठी वापरले जात नाहीत. अधिक तपशीलासाठी /privacy पहा.",
+      a: "होय. तुम्ही दिलेले फोन नंबर, माप, डिझाइन आणि इतर तपशील फक्त तुमच्या सेवेसाठीच वापरले जातात — विकले जात नाहीत, जाहिरातीसाठी वापरले जात नाहीत. अधिक तपशीलासाठी आमचे Privacy Policy पहा.",
+      link: { href: "/privacy", label: "Privacy Policy" },
     },
     {
       q: "Print Collections ची किंमत किती आहे?",
@@ -33,7 +37,7 @@ export const faqs: Record<Lang, Qa[]> = {
     },
     {
       q: "Print Collections चे फोटो / सॅम्पल पाहायला मिळतील का?",
-      a: "सध्या वेबसाइटवर प्रत्यक्ष उत्पादन फोटो उपलब्ध नाहीत — ते लवकरच जोडले जातील. तोपर्यंत WhatsApp वर संपर्क केल्यास आम्ही सॅम्पल/रेफरन्स शेअर करू शकतो.",
+      a: "प्रत्येक Collection पानावर डिझाइन प्रिव्ह्यू दाखवले आहेत. पूर्ण झालेल्या कामाचे फोटो आणि सॅम्पल WhatsApp वर शेअर करता येतात.",
     },
     {
       q: "ऑर्डर आणि डिलिव्हरी कशी होते?",
@@ -51,7 +55,8 @@ export const faqs: Record<Lang, Qa[]> = {
   en: [
     {
       q: "Is my personal information safe?",
-      a: "Yes. The phone number, size, design and other details you share are used only for the requested service — never sold, never used for advertising. See /privacy for full policy.",
+      a: "Yes. The phone number, size, design and other details you share are used only for the requested service — never sold, never used for advertising. See our Privacy Policy for the full policy.",
+      link: { href: "/privacy", label: "Privacy Policy" },
     },
     {
       q: "How much do the Print Collections cost?",
@@ -67,7 +72,7 @@ export const faqs: Record<Lang, Qa[]> = {
     },
     {
       q: "Can I see photos or samples of the Print Collections?",
-      a: "Product photos aren't on the website yet — they'll be added soon. In the meantime, contact us on WhatsApp and we can share samples or references.",
+      a: "Each collection page shows design previews. Photos of finished work and samples can be shared on WhatsApp.",
     },
     {
       q: "How does ordering and delivery work?",

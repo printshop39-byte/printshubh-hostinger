@@ -3,20 +3,20 @@ import { FaqContent } from "./faq-content";
 import { faqs } from "./faq-data";
 
 export const metadata: Metadata = {
-  title: "वारंवार विचारले जाणारे प्रश्न | FAQ",
+  title: "Frequently Asked Questions | FAQ",
   description:
-    "Print Collections ची किंमत, सानुकूल माप, डिझाइन, ऑर्डर, डिलिव्हरी आणि पेमेंट यांविषयी वारंवार विचारल्या जाणाऱ्या प्रश्नांची उत्तरे.",
+    "Answers to common questions about PRINTSHUBH Print Collections: pricing, custom sizes, designs, ordering, delivery and payment.",
   alternates: { canonical: "/faq" },
 };
 
-/* FAQPage structured data — emitted from the Marathi source (the page's
- * primary language) so Google can surface FAQ rich results. Rendered
- * server-side from the same data the accordion uses, so the visible Q&A
- * and the schema can never drift apart. */
+/* FAQPage structured data — emitted from the English source, the language the
+ * page shows (Google requires the markup to match the visible Q&A). Rendered
+ * server-side from the same data the accordion uses, so the visible Q&A and
+ * the schema can never drift apart. */
 const faqPageLd = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  mainEntity: faqs.mr.map((p) => ({
+  mainEntity: faqs.en.map((p) => ({
     "@type": "Question",
     name: p.q,
     acceptedAnswer: { "@type": "Answer", text: p.a },
