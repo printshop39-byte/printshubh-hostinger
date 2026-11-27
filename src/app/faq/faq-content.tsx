@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import { ChevronDown } from "lucide-react";
 import { LegalPageShell } from "@/components/legal-page-shell";
 import { faqs, type Qa } from "./faq-data";
@@ -14,7 +15,7 @@ export function FaqContent() {
       title="Frequently Asked Questions"
       breadcrumb="FAQ"
       intro="Common questions about Print Collections pricing, custom sizes, designs, ordering, delivery and payment — all in one place."
-      updatedAt="May 2026"
+      updatedAt="November 2026"
       showServiceDisclaimer={false}
       content={<FaqList items={items} openIdx={openIdx} setOpenIdx={setOpenIdx} />}
     />
@@ -52,7 +53,17 @@ function FaqList({
               />
             </button>
             {open && (
-              <p className="mt-2 pr-7 text-[15px] leading-7 text-slate-700">{it.a}</p>
+              <p className="mt-2 pr-7 text-[15px] leading-7 text-slate-700">
+                {it.a}
+                {it.link && (
+                  <>
+                    {" "}
+                    <Link href={it.link.href} className="font-semibold text-brand-navy underline underline-offset-4">
+                      {it.link.label}
+                    </Link>
+                  </>
+                )}
+              </p>
             )}
           </div>
         );
