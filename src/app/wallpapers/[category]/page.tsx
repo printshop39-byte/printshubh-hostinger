@@ -101,10 +101,13 @@ export default async function WallpaperCategoryPage({
       {/* Header with the category cover */}
       <section className="relative isolate overflow-hidden bg-brand-navy text-white">
         {cover && (
+          /* sizes="50vw": the cover is a decorative background under a dark
+             gradient, so a smaller file (mobile: 400 px, ~28 KB instead of
+             ~141 KB) is enough and it is this page's LCP image. */
           <DesignImg
             image={cover.image}
             alt=""
-            sizes="100vw"
+            sizes="50vw"
             priority
             className="absolute inset-0 -z-20 h-full w-full object-cover"
           />
@@ -121,7 +124,13 @@ export default async function WallpaperCategoryPage({
           <h1 className="mt-2 max-w-2xl text-4xl font-black leading-[1.05] tracking-[-0.03em] sm:text-5xl">
             {category.name}
           </h1>
-          <p className="mt-3 max-w-xl text-base leading-7 text-white/90 sm:text-lg">{category.description}</p>
+          {/* Reserved height = the longest category description: 3 lines on
+              phones, 2 from sm up (28 px line height). Without it the text
+              loses a line when the Geist font replaces the wider fallback,
+              and the whole page below jumps (CLS 0.188 on mobile). */}
+          <p className="mt-3 min-h-[84px] max-w-xl text-base leading-7 text-white/90 sm:min-h-[56px] sm:text-lg">
+            {category.description}
+          </p>
           <div className="mt-6">
             <CatalogueSearch
               action={path}
@@ -151,8 +160,11 @@ export default async function WallpaperCategoryPage({
               {tag && <> tagged <span className="capitalize">{tag}</span></>}
             </p>
           )}
+          {/* eagerCount 0: the cards come from another host and would share
+              bandwidth with the cover (LCP); lazy cards near the viewport
+              still load right after layout. */}
           {results.designs.length > 0 ? (
-            <DesignGrid designs={results.designs} categories={categories} eagerCount={3} />
+            <DesignGrid designs={results.designs} categories={categories} eagerCount={0} />
           ) : (
             <p className="rounded-2xl border border-slate-200 bg-white p-6 text-slate-700">
               No designs here match your search.{" "}
