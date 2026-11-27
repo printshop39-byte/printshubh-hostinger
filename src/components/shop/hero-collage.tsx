@@ -27,12 +27,12 @@ import type { PublicDesign } from "@/lib/wallpapers/types";
 function Tile({
   design,
   sizes,
-  eager = false,
+  priority = false,
   className = "",
 }: {
   design: PublicDesign;
   sizes: string;
-  eager?: boolean;
+  priority?: boolean;
   className?: string;
 }) {
   return (
@@ -45,7 +45,7 @@ function Tile({
           image={design.image}
           alt={showcaseAlt(design)}
           sizes={sizes}
-          eager={eager}
+          priority={priority}
           className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
         />
       </div>
@@ -60,7 +60,7 @@ export function HeroCollage({ designs }: { designs: PublicDesign[] }) {
   return (
     <div>
       <div className="grid grid-cols-2 gap-3 sm:gap-4">
-        <Tile design={a} className="col-span-2" sizes="(min-width:1024px) 45vw, 100vw" eager />
+        <Tile design={a} className="col-span-2" sizes="(min-width:1024px) 45vw, 100vw" priority />
         {b && <Tile design={b} sizes="(min-width:1024px) 22vw, 50vw" />}
         {c && <Tile design={c} sizes="(min-width:1024px) 22vw, 50vw" />}
       </div>

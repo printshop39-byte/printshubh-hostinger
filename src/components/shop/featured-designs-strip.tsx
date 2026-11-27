@@ -54,7 +54,7 @@ export async function FeaturedDesignsStrip({ designs }: { designs: PublicDesign[
         </div>
 
         <ul className="mt-6 grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-4">
-          {designs.map((design, i) => {
+          {designs.map((design) => {
             const note = STYLE_NOTE[design.id];
             return (
               <li key={design.id}>
@@ -67,7 +67,6 @@ export async function FeaturedDesignsStrip({ designs }: { designs: PublicDesign[
                       image={design.image}
                       alt={showcaseAlt(design)}
                       sizes={SIZES}
-                      eager={i < 2}
                       className="h-full w-full object-contain drop-shadow-[0_2px_6px_rgba(15,23,42,0.22)] transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
                     />
                   </div>

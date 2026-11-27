@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { GeistSans } from "geist/font/sans";
-import { GeistMono } from "geist/font/mono";
 import localFont from "next/font/local";
 import "./globals.css";
 import "maplibre-gl/dist/maplibre-gl.css";
@@ -13,13 +12,17 @@ import { HydrationFlag } from "@/components/hydration-flag";
 import { LocalBusinessJsonLd } from "@/components/shop/local-business-jsonld";
 import { LegacyPriceAssistant } from "@/components/legacy-price-assistant";
 
-/* GeistSans / GeistMono come from the "geist" npm package (official Vercel
+/* GeistSans comes from the "geist" npm package (official Vercel
  * package) rather than next/font/google. The package itself wraps
  * next/font/local around font files it ships in node_modules, already using
  * the same --font-geist-sans / --font-geist-mono variable names this file
  * used before — so every consumer of those CSS variables (globals.css,
  * Tailwind config) needed no change. See the Noto Sans Devanagari block
- * below for why this swap happened. */
+ * below for why this swap happened.
+ *
+ * GeistMono is not loaded: nothing used it (globals.css names "Geist Mono",
+ * which never matched the package's font family), yet it was preloaded on
+ * every page. */
 
 /* Noto Sans Devanagari, self-hosted via next/font/local instead of
  * next/font/google.
@@ -49,6 +52,10 @@ const notoDevanagari = localFont({
   ],
   variable: "--font-noto-devanagari",
   display: "swap",
+  /* Not preloaded: the public site is English, so these ~205 KB are only
+   * needed on pages that actually contain Devanagari text. The @font-face
+   * rules stay, so the browser still fetches them on demand there. */
+  preload: false,
 });
 
 /* Display serif for headings: Geist Serif, SIL OFL (licence copied next to
@@ -190,7 +197,7 @@ export default function RootLayout({
   return (
     <html
       lang="en-IN"
-      className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} ${displaySerif.variable} h-full`}
+      className={`${GeistSans.variable} ${notoDevanagari.variable} ${displaySerif.variable} h-full`}
     >
       <head>
         {/* Structured data — plain <script> tags, emitted server-side with
