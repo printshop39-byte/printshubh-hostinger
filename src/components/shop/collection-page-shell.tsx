@@ -180,7 +180,7 @@ export function CollectionPageShell({
       <main className="min-h-screen overflow-x-hidden bg-brand-cream text-slate-900">
         <section ref={sectionRef} className="border-b border-slate-200 bg-brand-cream px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-6xl">
-            <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
+            <nav aria-label="Breadcrumb" className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
               <Link href="/" className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-brand-navy">
                 <Home className="size-3.5" />
                 {tx.home}
@@ -315,7 +315,12 @@ export function CollectionPageShell({
                 {collection.photosAreDesignPreviews && (
                   <p className="mt-1 text-xs font-semibold text-slate-500">{tx.previewNote}</p>
                 )}
-                <ul className="ps-scroll-x mt-4 flex gap-4 pb-2">
+                <ul
+                  // Keyboard users can focus the strip and scroll it with the arrow keys.
+                  tabIndex={0}
+                  aria-label={collection.photosAreDesignPreviews ? tx.previewHeading : tx.galleryHeading}
+                  className="ps-scroll-x mt-4 flex gap-4 rounded-lg pb-2 outline-none focus-visible:ring-2 focus-visible:ring-brand-gold"
+                >
                   {collection.photos.map((photo) => (
                     <li
                       key={photo.src}
