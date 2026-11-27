@@ -33,6 +33,7 @@ export function WallpaperCollage({ designs }: { designs: PublicDesign[] }) {
                   alt={showcaseAlt(design)}
                   sizes="(min-width:1024px) 22vw, (min-width:640px) 40vw, 46vw"
                   eager={i < 2}
+                  priority={i === 0}
                   className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
                 />
               </div>

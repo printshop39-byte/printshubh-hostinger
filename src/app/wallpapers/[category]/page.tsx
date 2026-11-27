@@ -105,7 +105,7 @@ export default async function WallpaperCategoryPage({
             image={cover.image}
             alt=""
             sizes="100vw"
-            eager
+            priority
             className="absolute inset-0 -z-20 h-full w-full object-cover"
           />
         )}

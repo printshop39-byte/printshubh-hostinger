@@ -14,6 +14,7 @@ export function DesignImg({
   alt,
   sizes,
   eager = false,
+  priority = false,
   className,
 }: {
   image: DesignImage;
@@ -22,6 +23,12 @@ export function DesignImg({
   sizes: string;
   /** True for the first image(s) above the fold; everything else lazy-loads. */
   eager?: boolean;
+  /**
+   * True only for the page's main (LCP) image: it also gets fetchpriority=high.
+   * Kept separate from `eager` so first-row grid cards load early without
+   * competing with the hero for bandwidth. Implies eager.
+   */
+  priority?: boolean;
   className?: string;
 }) {
   return (
@@ -33,9 +40,9 @@ export function DesignImg({
       width={image.width}
       height={image.height}
       alt={alt}
-      loading={eager ? "eager" : "lazy"}
+      loading={eager || priority ? "eager" : "lazy"}
       decoding="async"
-      fetchPriority={eager ? "high" : "auto"}
+      fetchPriority={priority ? "high" : "auto"}
       className={className}
     />
   );

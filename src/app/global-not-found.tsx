@@ -22,7 +22,6 @@
 
 import Link from "next/link";
 import { GeistSans } from "geist/font/sans";
-import { GeistMono } from "geist/font/mono";
 import localFont from "next/font/local";
 import "./globals.css";
 import { WHATSAPP_CTA } from "@/lib/whatsapp";
@@ -37,6 +36,7 @@ const notoDevanagari = localFont({
   ],
   variable: "--font-noto-devanagari",
   display: "swap",
+  preload: false,
 });
 
 export default function GlobalNotFound() {
@@ -45,7 +45,7 @@ export default function GlobalNotFound() {
   return (
     <html lang="en">
       <body
-        className={`${GeistSans.variable} ${GeistMono.variable} ${notoDevanagari.variable} flex min-h-screen flex-col items-center justify-center bg-[#f8fbff] px-5 text-center`}
+        className={`${GeistSans.variable} ${notoDevanagari.variable} flex min-h-screen flex-col items-center justify-center bg-[#f8fbff] px-5 text-center`}
       >
         <p className="text-6xl font-black text-blue-700">404</p>
         <h1 className="mt-4 text-2xl font-black text-slate-950">

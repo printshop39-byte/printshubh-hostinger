@@ -42,7 +42,7 @@ export function DesignDetail({
             image={design.image}
             alt={`${design.title} — wallpaper design ${design.id}`}
             sizes="(min-width:1024px) 60vw, 100vw"
-            eager
+            priority
             className="h-auto w-full"
           />
         </div>
