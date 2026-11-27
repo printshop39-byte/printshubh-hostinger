@@ -51,7 +51,7 @@ export function CalculatorPageShell({
       <main className="min-h-screen overflow-x-hidden bg-[#f7fbff] pb-24 text-slate-900">
         <section className="border-b border-slate-200 bg-white px-5 pb-10 pt-12 sm:px-8 sm:pt-16">
           <div className="mx-auto max-w-4xl">
-            <nav className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
+            <nav aria-label="Breadcrumb" className="mb-3 flex items-center gap-1.5 text-xs font-semibold text-slate-500">
               <Link href="/" className="inline-flex items-center gap-1 py-3.5 -my-3.5 transition hover:text-blue-700">
                 <Home className="size-3.5" />
                 {homeLabel}

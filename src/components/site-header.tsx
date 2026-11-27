@@ -210,7 +210,7 @@ export function SiteHeader() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden items-center gap-6 xl:flex">
+        <nav aria-label="Main navigation" className="hidden items-center gap-6 xl:flex">
           {primary.slice(1).map((item) => (
             <HashLink
               key={item.href}

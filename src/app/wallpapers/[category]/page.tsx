@@ -134,7 +134,11 @@ export default async function WallpaperCategoryPage({
       </section>
 
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
-        <section className="pt-8" aria-label="Designs">
+        <section className="pt-8" aria-labelledby="wp-cat-designs">
+          {/* Keeps the heading order H1 > H2 > H3 (design cards use H3). */}
+          <h2 id="wp-cat-designs" className="sr-only">
+            {category.name} designs
+          </h2>
           {(tags.length > 1 || tag) && (
             <div className="mb-6">
               <TagChips tags={tags} basePath={path} activeTag={tag} q={q} />
